@@ -1,0 +1,154 @@
+Accession	Molecular Function (EcoliWiki)
+A5A628	deoxyribonuclease activity
+P04982	intramolecular transferase activity
+P0A6C8	cobalt ion binding|zinc ion binding
+P08204	ribulokinase activity
+P09147	UDP-glucose 4-epimerase activity|NAD+ binding
+P05793	ketol-acid reductoisomerase activity
+P08244	orotidine-5'-phosphate decarboxylase activity
+P04995	exodeoxyribonuclease I activity
+P08202	L-arabinose isomerase activity
+P0A825	pyridoxal phosphate binding|glycine hydroxymethyltransferase activity
+P07648	ATP-dependent DNA helicase activity|exodeoxyribonuclease V activity|endonuclease activity
+P0A796	GDP binding|6-phosphofructokinase activity
+P08191	mannose binding
+P05459	NAD binding|4-phosphoerythronate dehydrogenase activity
+P0A707	ribosome binding|translation initiation factor activity
+P0A6U8	starch synthase activity
+P0A6D5	shikimate 5-dehydrogenase activity
+P0A6U3	flavin adenine dinucleotide binding
+P02931	colicin transmembrane transporter activity|drug transmembrane transporter activity|ion transmembrane transporter activity|porin activity
+P09153	acyl-CoA thioesterase activity
+P00893	acetolactate synthase activity
+P0A7D4	adenylosuccinate synthase activity
+P09151	acetyl-CoA C-acetyltransferase activity
+P0A6T1	glucose-6-phosphate isomerase activity
+P0A761	N-acylglucosamine-6-phosphate 2-epimerase activity
+P05020	dihydroorotase activity|zinc ion binding
+P0A715	3-deoxy-8-phosphooctulonate synthase activity
+P0A6I6	pantetheine-phosphate adenylyltransferase activity
+P04951	magnesium ion binding|3-deoxy-manno-octulosonate cytidylyltransferase activity
+P03960	two-component sensor activity|aspartate kinase activity
+P00452	ribonucleoside-diphosphate reductase activity
+P0A6K3	peptide deformylase activity|ferrous iron binding
+P00448	manganese ion binding|superoxide dismutase activity|DNA binding|antioxidant activity
+P0A752	nicotinate-nucleotide adenylyltransferase activity
+P0A7T3	endodeoxyribonuclease activity|structure-specific DNA binding
+P0A7J7	rRNA binding
+P02918	peptidoglycan glycosyltransferase activity|serine-type D-Ala-D-Ala carboxypeptidase activity|penicillin binding
+P00914	deoxyribodipyrimidine photo-lyase activity
+P05852	identical protein binding|glycoprotein binding
+P0A6I9	dephospho-CoA kinase activity
+P0A6W9	glutamate-cysteine ligase activity|metal ion binding
+P0A7A5	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity
+P0A794	pyridoxine 5'-phosphate synthase activity
+P06992	double-stranded DNA binding|rRNA (adenine-N6,N6-)-dimethyltransferase activity|mRNA binding|rRNA binding
+P0A6E4	argininosuccinate synthase activity|ATP binding
+A5A613	endoribonuclease activity, producing 5'-phosphomonoesters
+P0A749	UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity
+P09099	xylulokinase activity
+P07117	uniporter activity
+P06988	histidinol dehydrogenase activity
+P09152	4 iron, 4 sulfur cluster binding|electron carrier activity|molybdenum ion binding
+P09835	two-component sensor activity|phosphoprotein phosphatase activity
+P00957	alanine-tRNA ligase activity|zinc ion binding
+P08201	nitrite reductase [NAD(P)H] activity|4 iron, 4 sulfur cluster binding|iron-sulfur cluster binding|NADP binding|iron ion binding|heme binding|flavin adenine dinucleotide binding
+P0A6F9	unfolded protein binding
+P00816	cyanate hydratase activity
+P02929	energy transducer activity
+P09831	glutamate synthase (NADPH) activity
+P04391	ornithine carbamoyltransferase activity
+P0A6L4	N-acetylneuraminate lyase activity
+P0A7F9	S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity
+P09546	proline dehydrogenase activity|DNA binding|flavin adenine dinucleotide binding|sequence-specific DNA binding transcription factor activity|1-pyrroline-5-carboxylate dehydrogenase activity
+P09832	glutamate synthase (NADPH) activity
+P0A6V8	glucokinase activity
+P0A6Z3	ATPase activity, coupled
+P06986	histidinol-phosphate transaminase activity
+P0A6P5	ribosome binding|GTPase activity
+P07649	pseudouridine synthase activity|tRNA binding
+P0A772	FMN binding
+P00562	homoserine dehydrogenase activity|aspartate kinase activity
+P00370	glutamate dehydrogenase (NADP+) activity
+P04079	GMP synthase (glutamine-hydrolyzing) activity|GMP synthase activity
+P0A6X1	NADP binding|glutamate-5-semialdehyde dehydrogenase activity
+P00962	glycerol channel activity
+P00634	magnesium ion binding|hydrogenase (acceptor) activity|alkaline phosphatase activity|zinc ion binding
+P07014	4 iron, 4 sulfur cluster binding|electron carrier activity|iron-sulfur cluster binding|3 iron, 4 sulfur cluster binding|2 iron, 2 sulfur cluster binding
+P0A784	3'-5'-exoribonuclease activity|single-stranded DNA specific 3'-5' exodeoxyribonuclease activity|oligoribonucleotidase activity
+P06149	electron carrier activity|NAD binding|flavin adenine dinucleotide binding|D-lactate dehydrogenase (cytochrome) activity
+P00934	threonine synthase activity
+P04805	glutamate-tRNA ligase activity|zinc ion binding
+P0A7F3	zinc ion binding
+P00904	anthranilate phosphoribosyltransferase activity|anthranilate synthase activity
+P02930	efflux transmembrane transporter activity|porin activity
+P00895	anthranilate synthase activity
+A5A612	hydroxyacylglutathione hydrolase activity
+P0A7E3	orotate phosphoribosyltransferase activity|magnesium ion binding
+P06987	histidinol-phosphatase activity
+P0A720	thymidylate kinase activity
+P03959	potassium ion binding|potassium-transporting ATPase activity
+P08660	aspartate kinase activity
+P02916	maltooligosaccharide-importing ATPase activity|maltose-transporting ATPase activity
+P0A6V5	thiosulfate sulfurtransferase activity
+P07813	leucine-tRNA ligase activity
+P07762	1,4-alpha-glucan branching enzyme activity
+P04425	glutathione synthase activity|magnesium ion binding
+P0A6B7	pyridoxal phosphate binding|selenocysteine lyase activity|cysteine desulfurase activity
+P08401	two-component sensor activity
+P06989	histidinol-phosphate transaminase activity
+P06626	drug:hydrogen antiporter activity|drug transmembrane transporter activity
+P02359	mRNA binding|rRNA binding
+P08203	L-ribulose-phosphate 4-epimerase activity
+P02920	acetolactate synthase activity|transketolase activity
+P0A731	methylenetetrahydrofolate reductase (NADPH) activity|oxidoreductase activity
+P0A7U7	ornithine decarboxylase inhibitor activity|SSU rRNA binding
+P00509	protein homodimerization activity
+P06993	amino acid binding|sequence-specific DNA binding transcription factor activity
+P08506	carboxypeptidase activity|penicillin binding
+P0A6L7	NAD binding
+P0A742	mechanically-gated ion channel activity
+P0A6N4	ribosome binding
+P0A7D1	aminoacyl-tRNA hydrolase activity
+P0A759	glucose-1-phosphatase activity|3-phytase activity|protein homodimerization activity
+P07023	prephenate dehydrogenase activity|protein homodimerization activity|chorismate mutase activity
+P0A7B3	NAD+ kinase activity|identical protein binding
+P02919	peptidoglycan glycosyltransferase activity|drug binding|serine-type D-Ala-D-Ala carboxypeptidase activity|penicillin binding
+P09148	ferrous iron binding|UDP-glucose:hexose-1-phosphate uridylyltransferase activity|zinc ion binding
+P0A7J0	3,4-dihydroxy-2-butanone-4-phosphate synthase activity
+P08337	manganese ion binding|magnesium ion binding|8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity
+P0A7Q1	structural constituent of ribosome
+P09184	T/G mismatch-specific endonuclease activity|DNA binding
+P0A6Z1	ADP binding|ATPase activity|ATP binding
+P0A6A6	intramolecular transferase activity
+P06610	thioredoxin peroxidase activity|glutathione peroxidase activity
+P05050	ferrous iron binding|dioxygenase activity
+P08373	UDP-N-acetylmuramate dehydrogenase activity
+P0A7S3	rRNA binding|misfolded RNA binding
+P00547	homoserine kinase activity
+P0A6C5	glutamate N-acetyltransferase activity
+P06721	cystathionine beta-lyase activity|pyridoxal phosphate binding|L-cysteine desulfhydrase activity
+P0A6A0	2-octaprenylphenol hydroxylase activity
+P04693	aromatic-amino-acid:2-oxoglutarate aminotransferase activity|L-leucine:2-oxoglutarate aminotransferase activity|protein homodimerization activity|L-tyrosine:2-oxoglutarate aminotransferase activity
+P05052	sequence-specific DNA binding transcription factor activity
+P00722	beta-galactosidase activity
+P0A7B5	magnesium ion binding|glutamate 5-kinase activity
+P0A763	nucleoside diphosphate kinase activity|identical protein binding
+P06960	ornithine carbamoyltransferase activity
+P0A7L3	structural constituent of ribosome|translation repressor activity, nucleic acid binding
+P07004	NADP binding|glutamate-5-semialdehyde dehydrogenase activity
+P00909	indole-3-glycerol-phosphate synthase activity|phosphoribosylanthranilate isomerase activity
+P00944	xylose isomerase activity
+P00393	NADH dehydrogenase (ubiquinone) activity|flavin adenine dinucleotide binding
+P0A6B4	alanine racemase activity
+P0A6U5	rRNA (guanine-N7-)-methyltransferase activity
+P04993	single-stranded DNA-dependent ATPase activity|helicase activity|endonuclease activity|exodeoxyribonuclease V activity
+P0A6V1	glucose-1-phosphate adenylyltransferase activity
+P06968	dUTP diphosphatase activity
+P0A776	RNA pyrophosphohydrolase activity
+P03819	glutathione-regulated potassium exporter activity|protein homodimerization activity|toxin binding|enzyme binding
+P0A830	succinate transmembrane transporter activity|fumarate transmembrane transporter activity|L-aspartate transmembrane transporter activity|malate:hydrogen symporter activity
+P08400	phosphate acetyltransferase activity
+P0A7E5	CTP synthase activity
+P05804	beta-glucuronidase activity
+P08142	acetolactate synthase activity|transketolase activity

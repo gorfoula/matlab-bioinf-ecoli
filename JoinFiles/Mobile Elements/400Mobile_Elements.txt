@@ -1,0 +1,507 @@
+Entry name K12 (Uniprot)	Entry Name BL21(DE3) (Uniprot)	Subcellular Location(this study)	Common Core	Pseudogene/Mobile Element Notes
+TISB_ECOLI	Null	B		pseudogene (Ecogene/Uniprot)
+YFAD_ECOLI	C6E9V6_ECOBD	A		Transposase 
+YFAH_ECOLI	C6E9W3_ECOBD	A		pseudogene (Uniprot) 
+YEJO_ECOLI	C6EA08_ECOBD	H		"pseudogene (Uniprot);Insertion Sequence;Insertion Element "
+YAGP_ECOLI	C6EA41_ECOBD	B		pseudogene (Uniprot) 
+RFH_ECOLI	C6EA51_ECOBD	A		pseudogene (Uniprot) 
+YKFJ_ECOLI	C6EA52_ECOBD	A		pseudogene (Uniprot) 
+MBHA_ECOLI	C6EA57_ECOBD	A		pseudogene (Uniprot)
+FHIA_ECOLI	C6EA58_ECOBD	B		pseudogene (Uniprot) 
+YEHQ_ECOLI	C6EAJ0_ECOBD	A		pseudogene (Uniprot) 
+MOLR_ECOLI	C6EAJ6_ECOBD	A		pseudogene (Uniprot) 
+YADD_ECOLI	C6EAS5_ECOBD	A		Transposase
+YOEA_ECOLI	C6EB78_ECOBD	H		pseudogene (Uniprot)
+YEEN_ECOLI	C6EB86_ECOBD	A		Prophage Integrase
+SMP_ECOLI	C6EBI4_ECOBD	B		pseudogene (Ohman 2006)
+FIME_ECOLI	C6EBS0_ECOBD	A		Prophage Integrase
+YEBC_ECOLI	C6EBW3_ECOBD	A		Prophage Integrase
+Y4286_ECOLI	C6EC70_ECOBD	A		pseudogene (Uniprot)
+INSF1_ECOLI	C6EC72_ECOBD	A		"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+YJHD_ECOLI	C6EC76_ECOBD	A		pseudogene (Uniprot) 
+INSG_ECOLI	C6EC80_ECOBD	B		"Insertion Sequence;Transposase"
+INTB_ECOLI	C6EC81_ECOBD	B		"pseudogene (Uniprot);Rhs Element;Prophage Integrase"
+YTFA_ECOLI	C6ECD9_ECOBD	A		pseudogene (Uniprot) 
+HFLK_ECOLI	C6ECH5_ECOBD	B		Prophage transposase
+PTXB_ECOLI	C6ED86_ECOBD	B		pseudogene (Ohman 2006)
+GLVG_ECOLI	C6ED87_ECOBD	F1		pseudogene (Uniprot)
+YEEW_ECOLI	C6EDB6_ECOBD	A		pseudogene (Uniprot) 
+YEEV_ECOLI	C6EDB7_ECOBD	A		Prophage Integrase (EcoGene)
+YKGN_ECOLI	C6EDB9_ECOBD	A		"pseudogene (Uniprot);Transposase"
+YUAQ_ECOLI	C6EDC0_ECOBD	H		Plasmid F
+RNPH_ECOLI	C6EDE8_ECOBD	A		pseudogene (Uniprot) 
+AG43_ECOLI	C6EDI7_ECOBD	H		Prophage Integrase (EcoGene)
+YIBV_ECOLI	C6EDJ6_ECOBD	A		pseudogene (Uniprot) 
+YDFD_ECOLI	C6EDS0_ECOBD	A		Prophage Integrase (EcoGene)
+DICB_ECOLI	C6EDS1_ECOBD	A		Prophage Integrase (EcoGene)
+DICA_ECOLI	C6EDS4_ECOBD	A		Prophage Integrase (EcoGene)
+DICC_ECOLI	C6EDS5_ECOBD	A		Prophage Integrase (EcoGene)
+YDFX_ECOLI	C6EDS6_ECOBD	A		pseudogene (Uniprot)
+HOKD_ECOLI	C6EDS9_ECOBD	G		Prophage Integrase (EcoGene)
+REM_ECOLI	C6EDT0_ECOBD	A		Prophage Integrase (EcoGene)
+YDFU_ECOLI	C6EDT2_ECOBD	A		Prophage Integrase (EcoGene)
+PINR_ECOLI	C6EDU1_ECOBD	A		Prophage Integrase (EcoGene)
+YDFK_ECOLI	C6EDU2_ECOBD	A		Prophage Integrase (EcoGene)
+YDFJ_ECOLI	C6EDU3_ECOBD	B		pseudogene (Uniprot)
+YNEF_ECOLI	C6EDW7_ECOBD	B		"pseudogene (Ohman 2006) ; "
+PSPG_ECOLI	C6EDX0_ECOBD	B		Prophage transposase
+YJBI_ECOLI	C6EDY2_ECOBD	A		pseudogene (Uniprot) 
+RHSA_ECOLI	C6EE82_ECOBD	A		Rhs Element
+INSJ_ECOLI	C6EEC2_ECOBD	A		Insertion Element 
+YHJQ_ECOLI	C6EEE9_ECOBD	A		pseudogene (Uniprot) 
+YHIS_ECOLI	C6EEI0_ECOBD	A		pseudogene (Uniprot) 
+YFJV_ECOLI	C6EEI2_ECOBD	B		pseudogene (Uniprot) 
+ARSR_ECOLI	C6EEI3_ECOBD	A		pseudogene (Ohman 2006)
+YHHI_ECOLI	C6EEK0_ECOBD	B		"Transposase;Rhs Element"
+YDEK_ECOLI	C6EEK8_ECOBD	E		pseudogene (Uniprot) 
+YNEL_ECOLI	C6EEL2_ECOBD	A		pseudogene (Uniprot)
+YDCC_ECOLI	C6EEQ4_ECOBD	B		"Transposase;Rhs Element"
+INSF6_ECOLI	C6EEV7_ECOBD	A		"Plasmid F;Insertion Sequence;Transposase"
+YIIE_ECOLI	C6EF11_ECOBD	A		pseudogene (Ohman 2006)
+YAGI_ECOLI	C6EF65_ECOBD	A		Prophage Integrase (EcoGene)
+RHSB_ECOLI	C6EF92_ECOBD	A		Rhs Element
+YRHA_ECOLI	C6EFD1_ECOBD	A		pseudogene (Uniprot) 
+YZGL_ECOLI	C6EFE7_ECOBD	B		pseudogene (Uniprot)
+FRLC_ECOLI	C6EFK4_ECOBD	A		pseudogene (Ohman 2006)
+PINQ_ECOLI	C6EFL7_ECOBD	A		Prophage Integrase (EcoGene)
+YNAK_ECOLI	C6EFM1_ECOBD	A		Prophage Integrase (EcoGene)
+TRKG_ECOLI	C6EFM2_ECOBD	B		Prophage Integrase (EcoGene)
+YDFR_ECOLI	C6EFM6_ECOBD	A		Prophage Integrase (EcoGene)
+ESSD_ECOLI	C6EFM7_ECOBD	B		Prophage Integrase (EcoGene)
+YDAG_ECOLI	C6EFM8_ECOBD	A		Prophage Integrase (EcoGene)
+YDAF_ECOLI	C6EFM9_ECOBD	A		Prophage Integrase (EcoGene)
+SIEB_ECOLI	C6EFN0_ECOBD	B		Prophage Integrase (EcoGene)
+KIL_ECOLI	C6EFN1_ECOBD	A		Prophage Integrase (EcoGene)
+YDAE_ECOLI	C6EFN2_ECOBD	A		Prophage Integrase (EcoGene)
+RACC_ECOLI	C6EFN3_ECOBD	A		Prophage Integrase (EcoGene)
+RECT_ECOLI	C6EFN4_ECOBD	A		Prophage Integrase (EcoGene)
+YDAC_ECOLI	C6EFN5_ECOBD	A		Prophage Integrase (EcoGene)
+INTR_ECOLI	C6EFN7_ECOBD	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+YMJC_ECOLI	C6EFQ5_ECOBD	A		pseudogene (Uniprot)
+YCJV_ECOLI	C6EFR4_ECOBD	F1		pseudogene (Uniprot)
+PSPE_ECOLI	C6EFS4_ECOBD	G		Prophage transposase
+PSPC_ECOLI	C6EFS6_ECOBD	B		Prophage transposase
+PSPA_ECOLI	C6EFS8_ECOBD	F1		Prophage transposase
+YIGE_ECOLI	C6EFZ9_ECOBD	G		pseudogene (Ohman 2006)
+YIGB_ECOLI	C6EG02_ECOBD	A		Prophage Integrase
+XERC_ECOLI	C6EG03_ECOBD	A		Prophage transposase
+LPRH_ECOLI	C6EG31_ECOBD	A		pseudogene (Ecogene/Uniprot)
+SMF_ECOLI	C6EGI1_ECOBD	A		pseudogene (Ohman 2006)
+YHDW_ECOLI	C6EGJ1_ECOBD	G		pseudogene (Uniprot) 
+AGAA_ECOLI	C6EH90_ECOBD	A		pseudogene (Uniprot) 
+YHAM_ECOLI	C6EHB4_ECOBD	B		pseudogene (Ohman 2006) 
+FLGD_ECOLI	C6EHD8_ECOBD	F4		pseudogene (Ohman 2006) 
+EFEU_ECOLI	C6EHJ0_ECOBD	B		pseudogene (Uniprot) 
+YGHX_ECOLI	C6EHZ2_ECOBD	A		"pseudogene (Uniprot);"
+YGHO_ECOLI	C6EIC9_ECOBD	A		pseudogene (Uniprot) 
+YGHE_ECOLI	C6EIE1_ECOBD	B		pseudogene (Uniprot) 
+YQGD_ECOLI	C6EIH0_ECOBD	B		pseudogene (Ecogene)
+YGGP_ECOLI	C6EIH8_ECOBD	B		pseudogene (Ohman 2006) 
+YQFE_ECOLI	C6EIJ4_ECOBD	A		pseudogene (Uniprot) 
+XERD_ECOLI	C6EIL4_ECOBD	A		Prophage transposase
+YGFQ_ECOLI	C6EIM4_ECOBD	B		pseudogene (Ohman 2006)
+YGEQ_ECOLI	C6EIP4_ECOBD	G		pseudogene (Uniprot)
+OGRK_ECOLI	C6EIQ9_ECOBD	A		Prophage Integrase (EcoGene)
+PINE_ECOLI	C6EIR0_ECOBD	A		Prophage Integrase (EcoGene)
+STFE_ECOLI	C6EIR1_ECOBD	A		pseudogene (Uniprot)
+TFAE_ECOLI	C6EIR2_ECOBD	A		Prophage Integrase (EcoGene)
+LOMR_ECOLI	C6EJ11_ECOBD	A		"pseudogene (Uniprot);Insertion Sequence"
+YGCU_ECOLI	C6EJA0_ECOBD	A		pseudogene (Ohman 2006)
+TFAD_ECOLI	C6EJF3_ECOBD	A		pseudogene (Uniprot)
+YBCW_ECOLI	C6EJF6_ECOBD	A		Prophage Integrase (EcoGene)
+YBCV_ECOLI	C6EJF7_ECOBD	A		Prophage Integrase (EcoGene)
+BORD_ECOLI	C6EJF8_ECOBD	I		Prophage Integrase (EcoGene)
+REQ2_ECOLI	C6EJG3_ECOBD	A		Prophage Integrase (EcoGene)
+YMFK_ECOLI	C6EJG9_ECOBD	A		Prophage Integrase (EcoGene)
+YBCC_ECOLI	C6EJH7_ECOBD	A		pseudogene (Uniprot)
+YBFD_ECOLI	C6EJN2_ECOBD	B		"pseudogene (Ohman 2006);Transposase;Rhs Element"
+YBFG_ECOLI	C6EJP4_ECOBD	A		pseudogene (Uniprot) 
+YGAY_ECOLI	C6EJU5_ECOBD	B		pseudogene (Uniprot)
+YUBM_ECOLI	C6EJX0_ECOBD	A		Plasmid F
+YBEM_ECOLI	C6EK67_ECOBD	A		pseudogene (Uniprot) 
+NOHA_ECOLI	C6EKD2_ECOBD	A		pseudogene (Uniprot)
+YNFO_ECOLI	C6EKD3_ECOBD	A		Prophage Integrase (EcoGene)
+YLCG_ECOLI	C6EKE1_ECOBD	A		Prophage Integrase (EcoGene)
+RUSA_ECOLI	C6EKE2_ECOBD	A		Prophage Integrase (EcoGene)
+YBCO_ECOLI	C6EKE3_ECOBD	A		Prophage Integrase (EcoGene)
+NINE_ECOLI	C6EKE4_ECOBD	A		Prophage Integrase (EcoGene)
+YBCN_ECOLI	C6EKE5_ECOBD	A		Prophage Integrase (EcoGene)
+YLCH_ECOLI	C6EKE6_ECOBD	A		Prophage Integrase (EcoGene)
+YBCM_ECOLI	C6EKE7_ECOBD	A		Prophage Integrase (EcoGene)
+YBCL_ECOLI	C6EKE8_ECOBD	G		Prophage Integrase (EcoGene)
+YBCK_ECOLI	C6EKE9_ECOBD	A		Prophage Integrase (EcoGene)
+EMRE_ECOLI	C6EKS5_ECOBD	B		Prophage Integrase (EcoGene)
+INTD_ECOLI	C6EKT0_ECOBD	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+YLBG_ECOLI	C6EKW3_ECOBD	A		pseudogene (Uniprot)
+YBBD_ECOLI	C6EKW4_ECOBD	B		pseudogene (Uniprot) 
+YLBH_ECOLI	C6EKW5_ECOBD	A		"pseudogene (Uniprot);Rhs Element"
+RHSD_ECOLI	C6EKW7_ECOBD	A		Rhs Element
+FLXA_ECOLI	C6EL71_ECOBD	A		Prophage Integrase (EcoGene)
+YFCI_ECOLI	C6ELE8_ECOBD	A		Transposase
+TSX_ECOLI	C6ELH3_ECOBD	H		Prophage transposase
+YAIT_ECOLI	C6ELL4_ECOBD	H		pseudogene (Uniprot) 
+YAHH_ECOLI	C6ELQ8_ECOBD	B		pseudogene (Ecogene/Uniprot)
+YKGA_ECOLI	C6ELT0_ECOBD	A		pseudogene (Uniprot)
+EAEH_ECOLI	C6ELT1_ECOBD	H		pseudogene (Uniprot) 
+YBFL_ECOLI	Null	B		"Transposase;Rhs Element"
+YHGA_ECOLI	Null	A		Transposase
+INTZ_ECOLI	Null	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+INTS_ECOLI	Null	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+INTF_ECOLI	Null	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+INTE_ECOLI	Null	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+INTA_ECOLI	Null	B		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+INTQ_ECOLI	Null	A		"Rhs Element;Prophage Integrase"
+RHSC_ECOLI	Null	A		Rhs Element
+YNCI_ECOLI	Null	B		"pseudogene (Uniprot);Transposase"
+YJIP_ECOLI	Null	A		"pseudogene (Uniprot);Transposase"
+YCHG_ECOLI	Null	A		"pseudogene (Uniprot);Transposase"
+INTG_ECOLI	Null	A		"pseudogene (Uniprot);Rhs Element;Prophage Integrase"
+YIBJ_ECOLI	Null	A		"pseudogene (Uniprot);Rhs Element"
+YBFO_ECOLI	Null	A		"pseudogene (Uniprot);Rhs Element"
+RHSE_ECOLI	Null	A		"pseudogene (Uniprot);Rhs Element"
+INSO2_ECOLI	Null	B		"pseudogene (Uniprot);Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+INSO1_ECOLI	Null	A		"pseudogene (Uniprot);Insertion Sequence;Transposase"
+YAIX_ECOLI	Null	A		"pseudogene (Uniprot);Insertion Sequence"
+YPJI_ECOLI	Null	A		pseudogene (Uniprot) 
+YMJD_ECOLI	Null			pseudogene (Uniprot) 
+YMFN_ECOLI	Null	A		pseudogene (Uniprot) 
+YKIA_ECOLI	Null	A		pseudogene (Uniprot) 
+YKFC_ECOLI	Null	A		pseudogene (Uniprot) 
+YJIV_ECOLI	Null	B		pseudogene (Uniprot) 
+YJIT_ECOLI	Null	A		pseudogene (Uniprot) 
+YJHR_ECOLI	Null	A		pseudogene (Uniprot) 
+YJHE_ECOLI	Null	B		pseudogene (Uniprot) 
+YIFN_ECOLI	Null	A		pseudogene (Uniprot) 
+YHCE_ECOLI	Null	G		pseudogene (Uniprot) 
+YGEK_ECOLI	Null	A		pseudogene (Uniprot) 
+YGEF_ECOLI	Null	A		pseudogene (Uniprot) 
+YFJU_ECOLI	Null	A		pseudogene (Uniprot) 
+YFDO_ECOLI	Null	A		pseudogene (Uniprot) 
+YDAW_ECOLI	Null	A		pseudogene (Uniprot) 
+YABP_ECOLI	Null	A		pseudogene (Uniprot) 
+NMPC_ECOLI	Null	H		pseudogene (Uniprot) 
+FBPB_ECOLI	Null	B		pseudogene (Uniprot) 
+ARPB_ECOLI	Null	A		pseudogene (Uniprot) 
+YPDJ_ECOLI	Null	A		pseudogene (Uniprot)
+YOEF_ECOLI	Null	A		pseudogene (Uniprot)
+YMFP_ECOLI	Null	A		pseudogene (Uniprot)
+YMFO_ECOLI	Null	A		pseudogene (Uniprot)
+YMDE_ECOLI	Null	A		pseudogene (Uniprot)
+YLCE_ECOLI	Null	A		pseudogene (Uniprot)
+YJGX_ECOLI	Null	B		pseudogene (Uniprot)
+YGEO_ECOLI	Null	A		pseudogene (Uniprot)
+YGEN_ECOLI	Null	A		pseudogene (Uniprot)
+YGAQ_ECOLI	Null	A		pseudogene (Uniprot)
+YFDM_ECOLI	Null	A		pseudogene (Uniprot)
+YFDL_ECOLI	Null	A		pseudogene (Uniprot)
+YEEP_ECOLI	Null	A		pseudogene (Uniprot)
+YEEL_ECOLI	Null	A		pseudogene (Uniprot)
+YEDS_ECOLI	Null	H		pseudogene (Uniprot)
+YEDN_ECOLI	Null	A		pseudogene (Uniprot)
+YDFW_ECOLI	Null	A		pseudogene (Uniprot)
+YDET_ECOLI	Null	A		pseudogene (Uniprot)
+YDAY_ECOLI	Null	A		pseudogene (Uniprot)
+YCGI_ECOLI	Null	A		pseudogene (Uniprot)
+YBFI_ECOLI	Null	A		pseudogene (Uniprot)
+YBCY_ECOLI	Null	A		pseudogene (Uniprot)
+YBCD_ECOLI	Null	A		pseudogene (Uniprot)
+YAGJ_ECOLI	Null	A		pseudogene (Uniprot)
+YAFU_ECOLI	Null	B		pseudogene (Uniprot)
+YAFF_ECOLI	Null	A		pseudogene (Uniprot)
+TFAS_ECOLI	Null	A		pseudogene (Uniprot)
+RZPR_ECOLI	Null	B		pseudogene (Uniprot)
+REND_ECOLI	Null	A		pseudogene (Uniprot)
+PTXC_ECOLI	Null	B		pseudogene (Uniprot)
+PINH_ECOLI	Null	A		pseudogene (Uniprot)
+PBL_ECOLI	Null	G		pseudogene (Uniprot)
+YEES_ECOLI	Null	A		"pseudogene (Ohman 2006) ; Prophage Integrase (EcoGene)"
+YABQ_ECOLI	Null	A		pseudogene (Ohman 2006) 
+YQGC_ECOLI	Null	A		pseudogene (Ohman 2006)
+YPJB_ECOLI	Null	A		pseudogene (Ohman 2006)
+YAGB_ECOLI	Null	A		pseudogene (Ohman 2006)
+YBFQ_ECOLI	Null	B		"pseudogene (Ecogene/Uniprot);Transposase"
+INSD8_ECOLI	Null	A		"pseudogene (Ecogene/Uniprot);Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+YJGW_ECOLI	Null	A		pseudogene (Ecogene/Uniprot)
+YGIA_ECOLI	Null	A		pseudogene (Ecogene/Uniprot)
+Y3808_ECOLI	Null	A		pseudogene (Ecogene/Uniprot)
+Y1142_ECOLI	Null	B		pseudogene (Ecogene/Uniprot)
+LPFS_ECOLI	Null	A		pseudogene (Ecogene/Uniprot)
+HTGA_ECOLI	Null	A		pseudogene (Ecogene/Uniprot)
+GATR_ECOLI	Null	A		"pseudogene (Ecogene);Insertion Sequence"
+YAGA_ECOLI	Null	A		"Prophage Integrase;Prophage Integrase (EcoGene)"
+YPJK_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YPJJ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YPJF_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YNFN_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YNAE_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFT_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFS_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFR_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YMFQ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFM_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFL_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFJ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFI_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YMFE_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YMFD_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YKFI_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YKFH_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YKFG_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YKFF_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YKFB_ECOLI	Null	G		Prophage Integrase (EcoGene)
+YKFA_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJZ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJY_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJX_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJW_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YFJT_ECOLI	Null	G		Prophage Integrase (EcoGene)
+YFJS_ECOLI	Null	E		Prophage Integrase (EcoGene)
+YFJR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJQ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJP_ECOLI	Null	F1		Prophage Integrase (EcoGene)
+YFJO_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJN_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJM_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJL_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJK_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJJ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJI_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFJH_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFFS_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFFR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFFQ_ECOLI	Null	G		Prophage Integrase (EcoGene)
+YFFP_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFFO_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFFN_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFFM_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFFL_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDT_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDS_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDQ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDP_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDN_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDK_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YFDI_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YEEU_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YEET_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YEER_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YDFV_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDFO_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDFC_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDFB_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDFA_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDAV_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDAU_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDAT_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YDAS_ECOLI	Null	G		Prophage Integrase (EcoGene)
+YDAQ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YCFK_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAGN_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAGM_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAGL_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YAGK_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAGH_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAGG_ECOLI	Null	B		Prophage Integrase (EcoGene)
+YAGF_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAGE_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAFZ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAFY_ECOLI	Null	E		Prophage Integrase (EcoGene)
+YAFX_ECOLI	Null	A		Prophage Integrase (EcoGene)
+YAFW_ECOLI	Null	A		Prophage Integrase (EcoGene)
+VXIS_ECOLI	Null	A		Prophage Integrase (EcoGene)
+TORI_ECOLI	Null	A		Prophage Integrase (EcoGene)
+TFAR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+TFAQ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+STFR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+STFQ_ECOLI	Null	A		Prophage Integrase (EcoGene)
+RZPQ_ECOLI	Null	G		Prophage Integrase (EcoGene)
+RZPD_ECOLI	Null	G		Prophage Integrase (EcoGene)
+RZOR_ECOLI	Null	I		Prophage Integrase (EcoGene)
+RZOD_ECOLI	Null	I		Prophage Integrase (EcoGene)
+REQ1_ECOLI	Null	A		Prophage Integrase (EcoGene)
+RELE_ECOLI	Null	A		Prophage Integrase (EcoGene)
+RELB_ECOLI	Null	A		Prophage Integrase (EcoGene)
+RECE_ECOLI	Null	A		Prophage Integrase (EcoGene)
+RACR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+PERR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+OTC2_ECOLI	Null	A		Prophage Integrase (EcoGene)
+OMPT_ECOLI	Null	H		Prophage Integrase (EcoGene)
+NOHB_ECOLI	Null	A		Prophage Integrase (EcoGene)
+MMUP_ECOLI	Null	B		Prophage Integrase (EcoGene)
+MMUM_ECOLI	Null	A		Prophage Integrase (EcoGene)
+MCRA_ECOLI	Null	A		Prophage Integrase (EcoGene)
+LYSQ_ECOLI	Null	G		Prophage Integrase (EcoGene)
+LYSD_ECOLI	Null	G		Prophage Integrase (EcoGene)
+LIT_ECOLI	Null	A		Prophage Integrase (EcoGene)
+LAR_ECOLI	Null	A		Prophage Integrase (EcoGene)
+GTRB_ECOLI	Null	B		Prophage Integrase (EcoGene)
+GTRA_ECOLI	Null	B		Prophage Integrase (EcoGene)
+GNSB_ECOLI	Null	A		Prophage Integrase (EcoGene)
+FBPC_ECOLI	Null	F1		Prophage Integrase (EcoGene)
+ESSQ_ECOLI	Null	B		Prophage Integrase (EcoGene)
+CSPI_ECOLI	Null	A		Prophage Integrase (EcoGene)
+CSPF_ECOLI	Null	A		Prophage Integrase (EcoGene)
+CSPB_ECOLI	Null	A		Prophage Integrase (EcoGene)
+APPY_ECOLI	Null	A		Prophage Integrase (EcoGene)
+ALPA_ECOLI	Null	A		Prophage Integrase (EcoGene)
+FLIZ_ECOLI	Null	A		Prophage Integrase
+FIMB_ECOLI	Null	A		Prophage Integrase
+TNPA_ECOLI	Null	A		"Plasmid F;Transposase"
+YUAS_ECOLI	Null	E		"Plasmid F;pseudogene (Ohman 2006)"
+YUAG_ECOLI	Null	A		"Plasmid F;pseudogene (Ohman 2006)"
+REA1_ECOLI	Null	A		"Plasmid F;pseudogene (Ecogene/Uniprot)"
+INSE7_ECOLI	Null	A		"Plasmid F;Insertion Sequence;Transposase"
+INSE6_ECOLI	Null	A		"Plasmid F;Insertion Sequence;Transposase"
+INF7_ECOLI	Null	B		"Plasmid F;Insertion Sequence;Transposase"
+INSD7_ECOLI	Null	A		"Plasmid F;Insertion Sequence;Insertion Element ;Transposase"
+INSC7_ECOLI	Null	A		"Plasmid F;Insertion Sequence;Insertion Element ;Transposase"
+YUAY_ECOLI	Null	A		"Plasmid F; Plasmid p300"
+TRAD1_ECOLI	Null	B		"Plasmid F; Plasmid p1658/97"
+TRAL1_ECOLI	Null	B		"Plasmid F; Plasmid IncFII R1; Plasmid IncFII ColB2"
+YUBP_ECOLI	Null	A		"Plasmid F; Plasmid IncFII R1"
+TRAB1_ECOLI	Null	B		"Plasmid F; Plasmid IncFII ColB2"
+PIL1_ECOLI	Null	B		"Plasmid F; Plasmid IncFI R386; Plasmid IncFI ColV2-K94; Plasmid IncFI ColVBtrp"
+REPB_ECOLI	Null	A		"Plasmid F; Plasmid IncFI P307; Plasmid IncFI pHH502; Plasmid IncFI ColVBtrp"
+COPB1_ECOLI	Null	A		"Plasmid F; Plasmid IncFI P307"
+YUBO_ECOLI	Null	A		Plasmid F
+YUBN_ECOLI	Null	A		Plasmid F
+YUBL1_ECOLI	Null	A		Plasmid F
+YUBK_ECOLI	Null	E		Plasmid F
+YUBJ_ECOLI	Null	A		Plasmid F
+YUBI_ECOLI	Null	B		Plasmid F
+YUBH_ECOLI	Null	A		Plasmid F
+YUBG_ECOLI	Null	A		Plasmid F
+YUBF_ECOLI	Null	A		Plasmid F
+YUBE_ECOLI	Null	A		Plasmid F
+YUBD_ECOLI	Null	A		Plasmid F
+YUBC_ECOLI	Null	A		Plasmid F
+YUBB_ECOLI	Null	A		Plasmid F
+YUBA_ECOLI	Null	A		Plasmid F
+YUAZ_ECOLI	Null	F1		Plasmid F
+YUAX_ECOLI	Null	A		Plasmid F
+YUAW_ECOLI	Null	A		Plasmid F
+YUAV_ECOLI	Null	A		Plasmid F
+YUAU_ECOLI	Null	A		Plasmid F
+YUAT_ECOLI	Null	A		Plasmid F
+YUAR_ECOLI	Null	B		Plasmid F
+YUAP_ECOLI	Null	B		Plasmid F
+YUAO_ECOLI	Null	H		Plasmid F
+YUAN_ECOLI	Null	A		Plasmid F
+YUAM_ECOLI	Null	B		Plasmid F
+YUAL_ECOLI	Null	A		Plasmid F
+YUAK_ECOLI	Null	A		Plasmid F
+YUAH_ECOLI	Null	A		Plasmid F
+YUAF_ECOLI	Null	B		Plasmid F
+YUAE_ECOLI	Null	E		Plasmid F
+YUAD_ECOLI	Null	B		Plasmid F
+YUAC_ECOLI	Null	B		Plasmid F
+YUAB_ECOLI	Null	A		Plasmid F
+YUAA_ECOLI	Null	A		Plasmid F
+X19F_ECOLI	Null	G		Plasmid F
+TRBJ_ECOLI	Null	B		Plasmid F
+TRBI_ECOLI	Null	B		Plasmid F
+TRBH_ECOLI	Null	B		Plasmid F
+TRBG_ECOLI	Null	A		Plasmid F
+TRBF_ECOLI	Null	B		Plasmid F
+TRBE_ECOLI	Null	B		Plasmid F
+TRBD_ECOLI	Null	A		Plasmid F
+TRBC_ECOLI	Null	G		Plasmid F
+TRBB_ECOLI	Null	G		Plasmid F
+TRBA_ECOLI	Null	B		Plasmid F
+TRAY1_ECOLI	Null	A		Plasmid F
+TRAX1_ECOLI	Null	B		Plasmid F
+TRAW_ECOLI	Null	G		Plasmid F
+TRAV_ECOLI	Null	I		Plasmid F
+TRAU_ECOLI	Null	G		Plasmid F
+TRAT1_ECOLI	Null	I		Plasmid F
+TRAS1_ECOLI	Null	B		Plasmid F
+TRAR_ECOLI	Null	A		Plasmid F
+TRAQ_ECOLI	Null	B		Plasmid F
+TRAP_ECOLI	Null	B		Plasmid F
+TRAN_ECOLI	Null	H		Plasmid F
+TRAM1_ECOLI	Null	A		Plasmid F
+TRAK1_ECOLI	Null	E		Plasmid F
+TRAJ1_ECOLI	Null	A		Plasmid F
+TRAI1_ECOLI	Null	A		Plasmid F
+TRAH1_ECOLI	Null	G		Plasmid F
+TRAG1_ECOLI	Null	B		Plasmid F
+TRAF_ECOLI	Null	G		Plasmid F
+TRAE1_ECOLI	Null	B		Plasmid F
+TRAC_ECOLI	Null	F1		Plasmid F
+TNR1_ECOLI	Null	A		Plasmid F
+TNPX_ECOLI	Null	A		Plasmid F
+SSBF_ECOLI	Null	A		Plasmid F
+SRNB_ECOLI	Null	B		Plasmid F
+SOPB_ECOLI	Null	A		Plasmid F
+SOPA_ECOLI	Null	A		Plasmid F
+REPL1_ECOLI	Null	A		Plasmid F
+REPE1_ECOLI	Null	A		Plasmid F
+REDF_ECOLI	Null	A		Plasmid F
+PSIB1_ECOLI	Null	A		Plasmid F
+PSIA1_ECOLI	Null	A		Plasmid F
+PIFC_ECOLI	Null	A		Plasmid F
+PIFA_ECOLI	Null	A		Plasmid F
+OMPP_ECOLI	Null	B		Plasmid F
+INTM_ECOLI	Null	A		Plasmid F
+FLMC1_ECOLI	Null	A		Plasmid F
+FLMA_ECOLI	Null	B		Plasmid F
+FINO_ECOLI	Null	A		Plasmid F
+CCDB_ECOLI	Null	A		Plasmid F
+CCDA_ECOLI	Null	A		Plasmid F
+ARTA_ECOLI	Null	B		Plasmid F
+INSF5_ECOLI	Null	A		"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+INSF4_ECOLI	Null	A		"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+INSF3_ECOLI	Null	A		"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+INSF2_ECOLI	Null	A		"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+INSN2_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSN1_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSL3_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSL2_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH9_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH8_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH7_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH6_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH5_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH4_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH3_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH2_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSH1_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSE5_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSE4_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSE3_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSE2_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSE1_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INH11_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INH10_ECOLI	Null	A		"Insertion Sequence;Transposase"
+INSK_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSI4_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSI3_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSI1_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSD6_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSD5_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSD4_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSD3_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSD2_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSD1_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSA1_ECOLI	Null	A		Insertion Element 
+INSA2_ECOLI	Null	A		Insertion Element 
+INSA3_ECOLI	Null	A		Insertion Element 
+INSA4_ECOLI	Null	A		Insertion Element 
+INSA5_ECOLI	Null	A		Insertion Element 
+INSA6_ECOLI	Null	A		Insertion Element 
+INSB1_ECOLI	Null	A		"Insertion Element ;Transposase"
+INSB2_ECOLI	Null	A		"Insertion Element ;Transposase"
+INSB3_ECOLI	Null	A		"Insertion Element ;Transposase"
+INSB5_ECOLI	Null	A		"Insertion Element ;Transposase"
+INSB6_ECOLI	Null	A		"Insertion Element ;Transposase"
+INSC1_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"
+INSC2_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"
+INSC3_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"
+INSC4_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"
+INSC5_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"
+INSC6_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"
+INSL1_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"
+INSA7_ECOLI	Null	A		Insertion Element 
+INSB4_ECOLI	Null	A		"Insertion Element ;Transposase"
+INSQ_ECOLI	Null	A		"Insertion Sequence;Insertion Element ;Transposase"

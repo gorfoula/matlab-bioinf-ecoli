@@ -1,0 +1,5 @@
+Null	Null	C6EB48_ECOBD	A	Putative glycosyltransferase WbbA (Putative uncharacterized protein)	248	3	3	3	0.333333333	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+Null	Null	C6EB49_ECOBD	A	Putative glycosyltransferase WbbB (Putative uncharacterized protein)	273	7	7	7	0.142857143	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+Null	Null	C6EJI5_ECOBD	A	DNA-directed RNA polymerase (EC 2.7.7.6) (T7 DNA-directed RNA polymerase)	883	5	5	7	0.28	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+Null	Null	C6EFS7_ECOBD	B	Phage shock protein B	74	8	10	28	0.35	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+Null	Null	C6ECH4_ECOBD	B	HflC protein (Modulator for HflB protease specific for phage lambda cII repressor)	334	37	52	152	0.079002079	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")

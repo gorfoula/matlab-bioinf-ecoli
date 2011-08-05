@@ -1,0 +1,139 @@
+Accession	Biological Process (EcoCyc)
+A5A628	misfolded or incompletely synthesized protein catabolic process
+P04982	D-ribose catabolic process
+P0A6C8	arginine biosynthetic process
+P08204	L-arabinose catabolic process to xylulose 5-phosphate
+P09147	galactose catabolic process via UDP-galactose|colanic acid biosynthetic process
+P05793	isoleucine biosynthetic process|valine biosynthetic process
+P08244	'de novo' pyrimidine base biosynthetic process
+P04995	DNA catabolic process
+P08202	L-arabinose catabolic process to xylulose 5-phosphate
+P0A825	glycine biosynthetic process from serine|L-serine catabolic process
+P07648	double-strand break repair|DNA recombination
+P0A796	glycolysis
+P08191	cell adhesion
+P05459	pyridoxine biosynthetic process|pyridoxal phosphate biosynthetic process
+P0A707	response to cold|ribosome disassembly
+P0A6U8	glycogen biosynthetic process
+P0A6U3	tRNA methylation
+P0A7L0	negative regulation of translational initiation
+P02931	drug transmembrane transport|ion transmembrane transport
+P05847	biofilm formation
+P00893	isoleucine biosynthetic process|valine biosynthetic process
+P0A7D4	purine nucleotide biosynthetic process
+P09151	leucine biosynthetic process
+P0A6T1	cellular response to oxidative stress|glycolysis
+P0A761	N-acetylmannosamine catabolic process
+P05020	'de novo' pyrimidine base biosynthetic process
+P0A6I6	coenzyme A biosynthetic process
+P04951	keto-3-deoxy-D-manno-octulosonic acid biosynthetic process
+P03960	protein autophosphorylation|detection of chemical stimulus|osmosensory signaling pathway via two-component system
+P0A6K3	N-terminal protein amino acid modification
+P0A769	manganese ion transport|cellular response to oxidative stress
+P00448	response to oxidative stress|response to heat|cellular response to selenium ion|response to acidity
+P0A752	de novo NAD biosynthetic process from aspartate|NAD salvage
+P0A7T3	ribosomal small subunit assembly
+P0A7J7	stringent response|translational termination
+P09372	protein unfolding
+P02918	response to antibiotic|peptidoglycan biosynthetic process
+P00914	protein-chromophore linkage
+P05852	threonylcarbamoyladenosine biosynthetic process
+P0A6I9	coenzyme A biosynthetic process
+P0A6W9	cellular response to mercury ion|hyperosmotic response|cellular response to arsenic-containing substance|glutathione biosynthetic process
+P09549	cytokinetic process
+P06992	rRNA base methylation|ribosomal small subunit assembly|rRNA processing
+A5A613	negative regulation of cell growth
+P0A749	peptidoglycan biosynthetic process
+P09099	D-xylose catabolic process|xylulose catabolic process
+P07117	proline transport
+P06988	histidine biosynthetic process
+P09152	cytochrome complex assembly|anaerobic respiration
+P09835	protein autophosphorylation|two-component signal transduction system (phosphorelay)
+P00957	alanyl-tRNA aminoacylation|negative regulation of transcription, DNA-dependent
+P08201	anaerobic respiration
+P00816	cyanate catabolic process
+P02929	cobalamin transport|colicin transport
+P09831	glutamate biosynthetic process
+P0A6L4	N-acetylneuraminate catabolic process
+P0A7F9	tRNA wobble guanine modification|queuosine biosynthetic process
+P09546	proline catabolic process to glutamate
+P09832	glutamate biosynthetic process
+P0A6V8	carbohydrate catabolic process
+P0A6Z3	protein folding
+P06986	histidine biosynthetic process
+P0A6P5	ribosomal large subunit assembly
+P0A772	protein modification process
+P07649	tRNA pseudouridine synthesis
+P00562	lysine biosynthetic process via diaminopimelate|homoserine biosynthetic process
+P00370	glutamate biosynthetic process
+P04079	GMP biosynthetic process
+P0A6X1	proline biosynthetic process
+P00962	glycerol transport
+P00634	dephosphorylation
+P07014	aerobic respiration
+P0A784	RNA catabolic process
+P06149	aerobic respiration
+P00934	threonine biosynthetic process
+P04805	glutamyl-tRNA aminoacylation
+P00904	tryptophan biosynthetic process
+P00895	tryptophan biosynthetic process
+A5A612	methylglyoxal catabolic process to D-lactate
+P0A7E3	'de novo' pyrimidine base biosynthetic process
+P0A720	dTTP biosynthetic process
+P03959	potassium ion transport
+P08660	lysine biosynthetic process via diaminopimelate|homoserine biosynthetic process
+P02916	maltodextrin transport|maltose transport
+P07813	leucyl-tRNA aminoacylation
+P07762	glycogen biosynthetic process
+P04425	glutathione biosynthetic process
+P0A6B7	oxazole or thiazole biosynthetic process|iron-sulfur cluster assembly|tRNA pseudouridine synthesis
+P08401	two-component signal transduction system (phosphorelay)
+P09162	cellular response to hydrogen peroxide|cellular response to acidity|single-species biofilm formation on inanimate substrate
+P06989	histidine biosynthetic process
+P06626	drug transmembrane transport|response to drug
+P02359	negative regulation of translation|ribosomal small subunit assembly
+P08203	L-arabinose catabolic process to xylulose 5-phosphate|L-lyxose metabolic process
+P02920	isoleucine biosynthetic process|valine biosynthetic process
+P00509	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate
+P06993	response to amino acid stimulus
+P08506	peptidoglycan biosynthetic process|response to drug
+P0A6L7	D-galacturonate catabolic process
+P08365	positive regulation of cell growth
+P0A7D1	misfolded or incompletely synthesized protein catabolic process
+P0A742	cellular water homeostasis
+P0A7B3	NADP biosynthetic process
+P0A759	glucose metabolic process
+P07023	tyrosine biosynthetic process|L-phenylalanine biosynthetic process
+P09148	galactose catabolic process via UDP-galactose
+P09184	mismatch repair
+P0A6Z1	iron-sulfur cluster assembly|cellular response to cold
+P0A6A6	leucine biosynthetic process
+P06610	response to hydroperoxide
+P05050	DNA repair|DNA dealkylation involved in DNA repair
+P0A7S3	RNA folding|Group I intron splicing|positive regulation of RNA splicing|translation
+P00547	threonine biosynthetic process
+P0A6C5	arginine biosynthetic process
+P0A6A0	ubiquinone biosynthetic process
+P04693	leucine biosynthetic process|tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate|L-phenylalanine biosynthetic process from chorismate via phenylpyruvate
+P05052	cellular response to phosphate starvation
+P0A7B5	proline biosynthetic process
+P00722	lactose catabolic process
+P0A7L3	ribosomal large subunit assembly
+P07004	proline biosynthetic process
+P00909	tryptophan biosynthetic process
+P00944	D-xylose catabolic process
+P00393	aerobic electron transport chain|aerobic respiration
+P08622	protein unfolding
+P0A6U5	rRNA base methylation
+P04993	double-strand break repair|DNA recombination
+P0A6V1	glycogen biosynthetic process
+P0A776	mRNA catabolic process
+P0A6T5	queuosine biosynthetic process
+P03819	response to methylglyoxal|potassium ion transport|response to toxin
+P00561	lysine biosynthetic process via diaminopimelate|homoserine biosynthetic process
+P0A830	L-aspartate transport|fumarate transport
+P08400	acetyl-CoA biosynthetic process from acetate|acetate biosynthetic process|threonine catabolic process to propionate|acetate catabolic process
+P07395	alkylphosphonate transport
+P0A7E5	CTP biosynthetic process
+P05804	glucuronoside catabolic process
+P08142	isoleucine biosynthetic process|valine biosynthetic process

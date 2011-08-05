@@ -1,0 +1,5 @@
+thiE	4191592	4192227	-1	thiamin-phosphate synthase	N	F	b3993
+tam	1605370	1606128	1	trans-aconitate 2-methyltransferase	N	F	b1519
+yfdH	2466236	2467156	1	bactoprenol glucosyl transferase	X	?	b2351
+ybiX	837753	838466	-1	putative enzyme	N	?	b0804
+ybgA	738224	738733	1	orf, hypothetical protein	X	?	b0707

@@ -1,0 +1,1133 @@
+Ferrichrome transport system permease protein fhuB - Escherichia coli (strain K12)	P06972	17
+Hydrogenase-4 component B - Escherichia coli (strain K12)	P23482	16
+Ubiquinol oxidase subunit 1 - Escherichia coli (strain K12)	P0ABI8	15
+Carbon starvation protein A - Escherichia coli (strain K12)	P15078	15
+Formate hydrogenlyase subunit 3 - Escherichia coli (strain K12)	P16429	15
+NADH-quinone oxidoreductase subunit L - Escherichia coli (strain K12)	P33607	15
+Inner membrane protein yjiY - Escherichia coli (strain K12)	P39396	15
+L-tartrate/succinate antiporter - Escherichia coli (strain K12)	P39414	15
+Citrate carrier - Escherichia coli (strain K12)	P0AE74	15
+Cytochrome c-type biogenesis protein ccmF - Escherichia coli (strain K12)	P33927	15
+Virulence factor mviN homolog - Escherichia coli (strain K12)	P0AF16	14
+NADH-quinone oxidoreductase subunit M - Escherichia coli (strain K12)	P0AFE8	14
+Uncharacterized symporter yidK - Escherichia coli (strain K12)	P31448	14
+L-lactate permease - Escherichia coli (strain K12)	P33231	14
+Putative multidrug resistance protein mdtD - Escherichia coli (strain K12)	P36554	14
+Inner membrane transporter yhiP - Escherichia coli (strain K12)	P36837	14
+Aminobenzoyl-glutamate transport protein - Escherichia coli (strain K12)	P46133	14
+Multidrug resistance protein Y - Escherichia coli (strain K12)	P52600	14
+Inner membrane transporter ybgH - Escherichia coli (strain K12)	P75742	14
+Tripeptide permease tppB - Escherichia coli (strain K12)	P77304	14
+Multidrug resistance protein B - Escherichia coli (strain K12)	P0AEJ0	14
+Inner membrane transporter yjdL - Escherichia coli (strain K12)	P39276	14
+Uncharacterized transporter yebQ - Escherichia coli (strain K12)	P76269	14
+Uncharacterized transporter yeeO - Escherichia coli (strain K12)	P76352	14
+Glutathione-regulated potassium-efflux system protein kefC - Escherichia coli (strain K12)	P03819	13
+DsdX permease - Escherichia coli (strain K12)	P08555	13
+Inner membrane protein yjcD - Escherichia coli (strain K12)	P0AF52	13
+Na(+)/H(+) antiporter 2 - Escherichia coli (strain K12)	P0AFA7	13
+NADH-quinone oxidoreductase subunit N - Escherichia coli (strain K12)	P0AFF0	13
+Uncharacterized transporter yfbS - Escherichia coli (strain K12)	P0AFU2	13
+Inner membrane protein yieG - Escherichia coli (strain K12)	P31466	13
+Inner membrane transport protein yieO - Escherichia coli (strain K12)	P31474	13
+Uncharacterized Na(+)/H(+) exchanger yjcE - Escherichia coli (strain K12)	P32703	13
+Cation/acetate symporter actP - Escherichia coli (strain K12)	P32705	13
+Inner membrane protein ybaL - Escherichia coli (strain K12)	P39830	13
+High-affinity gluconate transporter - Escherichia coli (strain K12)	P39835	13
+Uncharacterized protein yhfT - Escherichia coli (strain K12)	P45546	13
+Hydrogenase-4 component F - Escherichia coli (strain K12)	P77437	13
+Uncharacterized protein ygfQ - Escherichia coli (strain K12)	Q46817	13
+Glycolate permease glcA - Escherichia coli (strain K12)	Q46839	13
+Hexuronate transporter - Escherichia coli (strain K12)	P0AA78	13
+High-affinity gluconate transporter - Escherichia coli (strain K12)	P0AC94	13
+Protein ampG - Escherichia coli (strain K12)	P0AE16	13
+O-antigen polymerase - Escherichia coli (strain K12)	P37748	13
+Uncharacterized permease yjhF - Escherichia coli (strain K12)	P39357	13
+Inner membrane protein ybhI - Escherichia coli (strain K12)	P75763	13
+Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase - Escherichia coli (strain K12)	P76473	13
+Hydrogenase-4 component D - Escherichia coli (strain K12)	P77416	13
+Melibiose carrier protein - Escherichia coli (strain K12)	P02921	12
+Sodium/proline symporter - Escherichia coli (strain K12)	P07117	12
+Glycerol-3-phosphate transporter - Escherichia coli (strain K12)	P08194	12
+Cytosine permease - Escherichia coli (strain K12)	P0AA82	12
+D-serine/D-alanine/glycine transporter - Escherichia coli (strain K12)	P0AAE0	12
+Putative arginine/ornithine antiporter - Escherichia coli (strain K12)	P0AAE5	12
+Putrescine-ornithine antiporter - Escherichia coli (strain K12)	P0AAF1	12
+Arsenical pump membrane protein - Escherichia coli (strain K12)	P0AB93	12
+Anaerobic C4-dicarboxylate transporter dcuB - Escherichia coli (strain K12)	P0ABN9	12
+Anaerobic C4-dicarboxylate transporter dcuC - Escherichia coli (strain K12)	P0ABP3	12
+Low-affinity gluconate transporter - Escherichia coli (strain K12)	P0AC96	12
+Alpha-ketoglutarate permease - Escherichia coli (strain K12)	P0AEX3	12
+Multidrug translocase mdfA - Escherichia coli (strain K12)	P0AEY8	12
+Uracil permease - Escherichia coli (strain K12)	P0AGM7	12
+Proline/betaine transporter - Escherichia coli (strain K12)	P0C0L7	12
+Nitrite extrusion protein 1 - Escherichia coli (strain K12)	P10903	12
+Phenylalanine-specific permease - Escherichia coli (strain K12)	P24207	12
+Lysine-specific permease - Escherichia coli (strain K12)	P25737	12
+O-antigen ligase - Escherichia coli (strain K12)	P27243	12
+Glucuronide carrier protein - Escherichia coli (strain K12)	P30868	12
+Acriflavine resistance protein B - Escherichia coli (strain K12)	P31224	12
+Multidrug resistance protein mdtL - Escherichia coli (strain K12)	P31462	12
+Multidrug resistance protein mdtO - Escherichia coli (strain K12)	P32715	12
+Inner membrane metabolite transport protein yhjE - Escherichia coli (strain K12)	P37643	12
+Putative O-antigen transporter - Escherichia coli (strain K12)	P37746	12
+Cation efflux system protein cusA - Escherichia coli (strain K12)	P38054	12
+Gnt-II system L-idonate transporter - Escherichia coli (strain K12)	P39344	12
+Inner membrane transport protein yjjL - Escherichia coli (strain K12)	P39398	12
+Putative cryptic C4-dicarboxylate transporter dcuD - Escherichia coli (strain K12)	P45428	12
+Uncharacterized protein yhfK - Escherichia coli (strain K12)	P45537	12
+Putative fructoselysine transporter frlA - Escherichia coli (strain K12)	P45539	12
+p-hydroxybenzoic acid efflux pump subunit aaeB - Escherichia coli (strain K12)	P46481	12
+Multidrug resistance protein mdtH - Escherichia coli (strain K12)	P69367	12
+Uncharacterized symporter yagG - Escherichia coli (strain K12)	P75683	12
+Inner membrane transporter ycaM - Escherichia coli (strain K12)	P75835	12
+Inner membrane protein yccS - Escherichia coli (strain K12)	P75870	12
+Putrescine importer - Escherichia coli (strain K12)	P76037	12
+Uncharacterized transporter ydhK - Escherichia coli (strain K12)	P76186	12
+Inner membrane transport protein ydiM - Escherichia coli (strain K12)	P76197	12
+Multidrug resistance protein mdtB - Escherichia coli (strain K12)	P76398	12
+Multidrug resistance protein mdtC - Escherichia coli (strain K12)	P76399	12
+Putative nucleoside transporter yegT - Escherichia coli (strain K12)	P76417	12
+Inner membrane protein yqcE - Escherichia coli (strain K12)	P77031	12
+Inner membrane metabolite transport protein ydfJ - Escherichia coli (strain K12)	P77228	12
+Lipopolysaccharide biosynthesis protein wzxC - Escherichia coli (strain K12)	P77377	12
+Inner membrane transport protein ybaT - Escherichia coli (strain K12)	P77400	12
+L-asparagine permease - Escherichia coli (strain K12)	P77610	12
+Inner membrane transport protein yajR - Escherichia coli (strain K12)	P77726	12
+Lactose permease - Escherichia coli (strain K12)	P02920	12
+Regulatory protein uhpC - Escherichia coli (strain K12)	P09836	12
+D-galactonate transporter - Escherichia coli (strain K12)	P0AA76	12
+Probable galactarate transporter - Escherichia coli (strain K12)	P0AA80	12
+High-affinity choline transport protein - Escherichia coli (strain K12)	P0ABC9	12
+Purine ribonucleoside efflux pump nepI - Escherichia coli (strain K12)	P0ADL1	12
+Arabinose-proton symporter - Escherichia coli (strain K12)	P0AE24	12
+Putative sulfate transporter ychM - Escherichia coli (strain K12)	P0AFR2	12
+Hexose phosphate transport protein - Escherichia coli (strain K12)	P0AGC0	12
+Xylose transport system permease protein xylH - Escherichia coli (strain K12)	P0AGI4	12
+Putative purine permease yicE - Escherichia coli (strain K12)	P0AGM9	12
+Aromatic amino acid transport protein aroP - Escherichia coli (strain K12)	P15993	12
+Sodium/pantothenate symporter - Escherichia coli (strain K12)	P16256	12
+Cyanate transport protein cynX - Escherichia coli (strain K12)	P17583	12
+Enterobactin exporter entS - Escherichia coli (strain K12)	P24077	12
+Multidrug resistance protein mdtG - Escherichia coli (strain K12)	P25744	12
+Probable transport protein yifK - Escherichia coli (strain K12)	P27837	12
+Inner membrane symporter yicJ - Escherichia coli (strain K12)	P31435	12
+Inner membrane protein yicO - Escherichia coli (strain K12)	P31440	12
+L-carnitine/gamma-butyrobetaine antiporter - Escherichia coli (strain K12)	P31553	12
+Putative metabolite transport protein yaaU - Escherichia coli (strain K12)	P31679	12
+Uncharacterized symporter yihO - Escherichia coli (strain K12)	P32136	12
+Inner membrane symporter yihP - Escherichia coli (strain K12)	P32137	12
+Cytochrome c-type biogenesis protein nrfE - Escherichia coli (strain K12)	P32710	12
+Uncharacterized protein ycaI - Escherichia coli (strain K12)	P37443	12
+UPF0226 protein yhhS - Escherichia coli (strain K12)	P37621	12
+Nitrite extrusion protein 2 - Escherichia coli (strain K12)	P37758	12
+Inner membrane metabolite transport protein ydjE - Escherichia coli (strain K12)	P38055	12
+Putative metabolite transport protein yjhB - Escherichia coli (strain K12)	P39352	12
+Putative sialic acid transporter - Escherichia coli (strain K12)	P41036	12
+Inner membrane transport protein ynfM - Escherichia coli (strain K12)	P43531	12
+Glutathione-regulated potassium-efflux system protein kefB - Escherichia coli (strain K12)	P45522	12
+Xanthosine permease - Escherichia coli (strain K12)	P45562	12
+Fosmidomycin resistance protein - Escherichia coli (strain K12)	P52067	12
+Arginine/agmatine antiporter - Escherichia coli (strain K12)	P60061	12
+Putative purine permease ygfO - Escherichia coli (strain K12)	P67444	12
+Putative ion-transport protein yfeO - Escherichia coli (strain K12)	P67729	12
+Putative allantoin permease - Escherichia coli (strain K12)	P75712	12
+Putative pyrimidine permease rutG - Escherichia coli (strain K12)	P75892	12
+Cell volume regulation protein A - Escherichia coli (strain K12)	P76007	12
+Putative metabolite transport protein ydjK - Escherichia coli (strain K12)	P76230	12
+Shikimate transporter - Escherichia coli (strain K12)	P76350	12
+Putative purine permease ybbY - Escherichia coli (strain K12)	P77328	12
+UPF0226 protein yfcJ - Escherichia coli (strain K12)	P77549	12
+Putative purine permease ygfU - Escherichia coli (strain K12)	Q46821	12
+Inner membrane metabolite transport protein ygcS - Escherichia coli (strain K12)	Q46909	12
+Probable glucarate transporter - Escherichia coli (strain K12)	Q46916	12
+Probable 3-phenylpropionic acid transporter - Escherichia coli (strain K12)	Q47142	12
+Inner membrane transport protein yeeF - Escherichia coli (strain K12)	P0AA47	11
+Tryptophan-specific transport protein - Escherichia coli (strain K12)	P0AAD2	11
+Serine transporter - Escherichia coli (strain K12)	P0AAD6	11
+Threonine/serine transporter tdcC - Escherichia coli (strain K12)	P0AAD8	11
+Proline-specific permease proY - Escherichia coli (strain K12)	P0AAE2	11
+Probable cadaverine/lysine antiporter - Escherichia coli (strain K12)	P0AAE8	11
+Anaerobic C4-dicarboxylate transporter dcuA - Escherichia coli (strain K12)	P0ABN5	11
+Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase - Escherichia coli (strain K12)	P0AC78	11
+Branched-chain amino acid transport system 2 carrier protein - Escherichia coli (strain K12)	P0AD99	11
+Na(+)/H(+) antiporter 1 - Escherichia coli (strain K12)	P13738	11
+Probable aminoglycoside efflux pump - Escherichia coli (strain K12)	P24177	11
+Acriflavine resistance protein F - Escherichia coli (strain K12)	P24181	11
+GABA permease - Escherichia coli (strain K12)	P25527	11
+Inner membrane protein yihN - Escherichia coli (strain K12)	P32135	11
+Multidrug resistance protein mdtK - Escherichia coli (strain K12)	P37340	11
+Multidrug resistance protein mdtF - Escherichia coli (strain K12)	P37637	11
+Inner membrane protein yhjX - Escherichia coli (strain K12)	P37662	11
+Uncharacterized protein yfcC - Escherichia coli (strain K12)	P39263	11
+Inner membrane protein yjeH - Escherichia coli (strain K12)	P39277	11
+Uncharacterized mscS family protein yjeP precursor - Escherichia coli (strain K12)	P39285	11
+Ascorbate-specific permease IIC component ulaA - Escherichia coli (strain K12)	P39301	11
+Inner membrane transporter ygjI - Escherichia coli (strain K12)	P42590	11
+Uncharacterized protein yhgE - Escherichia coli (strain K12)	P45804	11
+Low affinity potassium transport system protein kup - Escherichia coli (strain K12)	P63183	11
+Probable glutamate/gamma-aminobutyrate antiporter - Escherichia coli (strain K12)	P63235	11
+Ammonia channel precursor - Escherichia coli (strain K12)	P69681	11
+Galactitol permease IIC component - Escherichia coli (strain K12)	P69831	11
+Uncharacterized mscS family protein ybiO - Escherichia coli (strain K12)	P75783	11
+Potassium efflux system kefA precursor - Escherichia coli (strain K12)	P77338	11
+Protein wzxE - Escherichia coli (strain K12)	P0AAA7	11
+Uncharacterized transporter yeaV - Escherichia coli (strain K12)	P0ABD1	11
+Galactose-proton symporter - Escherichia coli (strain K12)	P0AEP1	11
+Nucleoside permease nupG - Escherichia coli (strain K12)	P0AFF4	11
+D-xylose-proton symporter - Escherichia coli (strain K12)	P0AGF4	11
+L-fucose-proton symporter - Escherichia coli (strain K12)	P11551	11
+Uncharacterized MFS-type transporter ycaD - Escherichia coli (strain K12)	P21503	11
+High-affinity branched-chain amino acid transport system permease protein livM - Escherichia coli (strain K12)	P22729	11
+Low affinity tryptophan permease - Escherichia coli (strain K12)	P23173	11
+Protein araJ - Escherichia coli (strain K12)	P23910	11
+Putative ECA polymerase - Escherichia coli (strain K12)	P27835	11
+Bicyclomycin resistance protein - Escherichia coli (strain K12)	P28246	11
+DNA-damage-inducible protein F - Escherichia coli (strain K12)	P28303	11
+Uncharacterized transporter yaaJ - Escherichia coli (strain K12)	P30143	11
+Sugar efflux transporter - Escherichia coli (strain K12)	P31122	11
+Uncharacterized MFS-type transporter ydeE - Escherichia coli (strain K12)	P31126	11
+Sugar efflux transporter C - Escherichia coli (strain K12)	P31436	11
+Multidrug resistance protein D - Escherichia coli (strain K12)	P31442	11
+Thiamine transport system permease protein thiP - Escherichia coli (strain K12)	P31549	11
+Sugar efflux transporter A - Escherichia coli (strain K12)	P31675	11
+Calcium/proton antiporter - Escherichia coli (strain K12)	P31801	11
+Sugar efflux transporter B - Escherichia coli (strain K12)	P33026	11
+Inner membrane transport protein ydhC - Escherichia coli (strain K12)	P37597	11
+Inner membrane transport protein yhjV - Escherichia coli (strain K12)	P37660	11
+2,3-diketo-L-gulonate TRAP transporter large permease protein yiaN - Escherichia coli (strain K12)	P37675	11
+Inner membrane transporter yjeM - Escherichia coli (strain K12)	P39282	11
+Putative permease IIC component - Escherichia coli (strain K12)	P39365	11
+Multidrug resistance protein mdtM - Escherichia coli (strain K12)	P39386	11
+Inner membrane transport protein yhaO - Escherichia coli (strain K12)	P42628	11
+Protein tsgA - Escherichia coli (strain K12)	P60778	11
+Inner membrane transport protein yqeG - Escherichia coli (strain K12)	P63340	11
+Inner membrane protein ybjJ - Escherichia coli (strain K12)	P75810	11
+Inner membrane protein ydcO - Escherichia coli (strain K12)	P76103	11
+Inner membrane transport protein ydiN - Escherichia coli (strain K12)	P76198	11
+Inner membrane ABC transporter permease protein ynjC - Escherichia coli (strain K12)	P76224	11
+Inner membrane transport protein yeaN - Escherichia coli (strain K12)	P76242	11
+Inner membrane transport protein yfaV - Escherichia coli (strain K12)	P76470	11
+Uncharacterized transporter ygaY - Escherichia coli (strain K12)	P76628	11
+Inner membrane transport protein ydhP - Escherichia coli (strain K12)	P77389	11
+Putative 3-hydroxyphenylpropionic acid transporter - Escherichia coli (strain K12)	P77589	11
+Inner membrane permease ygbN - Escherichia coli (strain K12)	Q46892	11
+Probable S-methylmethionine permease - Escherichia coli (strain K12)	Q47689	11
+PTS system N-acetylglucosamine-specific EIICBA component - Escherichia coli (strain K12)	P09323	10
+Manganese transport protein mntH - Escherichia coli (strain K12)	P0A769	10
+Uncharacterized transporter yfdV - Escherichia coli (strain K12)	P0AA49	10
+Tyrosine-specific transport protein - Escherichia coli (strain K12)	P0AAD4	10
+Magnesium-transporting ATPase, P-type 1 - Escherichia coli (strain K12)	P0ABB8	10
+Sodium/glutamate symport carrier protein - Escherichia coli (strain K12)	P0AER8	10
+Putative permease perM - Escherichia coli (strain K12)	P0AFI9	10
+Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	10
+Ribose transport system permease protein rbsC - Escherichia coli (strain K12)	P0AGI1	10
+Galactoside transport system permease protein mglC - Escherichia coli (strain K12)	P23200	10
+Uncharacterized protein yfeA - Escherichia coli (strain K12)	P23842	10
+Tellurite resistance protein tehA - Escherichia coli (strain K12)	P25396	10
+UPF0394 inner membrane protein yedE - Escherichia coli (strain K12)	P31064	10
+H(+)/Cl(-) exchange transporter clcA - Escherichia coli (strain K12)	P37019	10
+Probable Ni/Fe-hydrogenase 2 b-type cytochrome subunit - Escherichia coli (strain K12)	P37180	10
+Cellulose synthase catalytic subunit [UDP-forming] - Escherichia coli (strain K12)	P37653	10
+Inner membrane protein yiaH - Escherichia coli (strain K12)	P37669	10
+Uncharacterized protein yegE - Escherichia coli (strain K12)	P38097	10
+Inner membrane ABC transporter permease protein ytfT - Escherichia coli (strain K12)	P39328	10
+Putative transport protein ybjL - Escherichia coli (strain K12)	P60869	10
+Putative transport protein yidE - Escherichia coli (strain K12)	P60872	10
+Putative colanic acid polymerase - Escherichia coli (strain K12)	P71238	10
+Inner membrane protein ycfT - Escherichia coli (strain K12)	P75955	10
+Uncharacterized protein ynbB - Escherichia coli (strain K12)	P76091	10
+Phospho-N-acetylmuramoyl-pentapeptide-transferase - Escherichia coli (strain K12)	P0A6W3	10
+Uncharacterized inner membrane transporter yedA - Escherichia coli (strain K12)	P0AA70	10
+Uncharacterized inner membrane transporter yiJE - Escherichia coli (strain K12)	P0ABT8	10
+Uncharacterized membrane protein yigM - Escherichia coli (strain K12)	P0ADP5	10
+L-arabinose transport system permease protein araH - Escherichia coli (strain K12)	P0AE26	10
+Inner membrane ABC transporter permease protein ydeZ - Escherichia coli (strain K12)	P0AFS1	10
+UPF0118 inner membrane protein yhhT - Escherichia coli (strain K12)	P0AGM0	10
+Uncharacterized protein yeiB - Escherichia coli (strain K12)	P25747	10
+Protein rarD - Escherichia coli (strain K12)	P27844	10
+Probable amino-acid metabolite efflux pump - Escherichia coli (strain K12)	P31125	10
+D-allose transport system permease protein alsC - Escherichia coli (strain K12)	P32720	10
+Inner membrane protein yhiM - Escherichia coli (strain K12)	P37630	10
+Lysophospholipid transporter lplT - Escherichia coli (strain K12)	P39196	10
+Inner membrane protein ytfF - Escherichia coli (strain K12)	P39314	10
+Uncharacterized protein yjiJ - Escherichia coli (strain K12)	P39381	10
+Inner membrane protein yddG - Escherichia coli (strain K12)	P46136	10
+Glucans biosynthesis protein C - Escherichia coli (strain K12)	P75920	10
+Uncharacterized protein yfdI - Escherichia coli (strain K12)	P76507	10
+Probable ABC transporter permease protein yphD - Escherichia coli (strain K12)	P77315	10
+Aerobic C4-dicarboxylate transport protein - Escherichia coli (strain K12)	P0A830	9
+Cell division protein ftsW - Escherichia coli (strain K12)	P0ABG4	9
+Cytochrome d ubiquinol oxidase subunit 1 - Escherichia coli (strain K12)	P0ABJ9	9
+Cytochrome d ubiquinol oxidase subunit 2 - Escherichia coli (strain K12)	P0ABK2	9
+Protoheme IX farnesyltransferase - Escherichia coli (strain K12)	P0AEA5	9
+High-affinity branched-chain amino acid transport system permease protein livH - Escherichia coli (strain K12)	P0AEX7	9
+Low-affinity inorganic phosphate transporter 1 - Escherichia coli (strain K12)	P0AFJ7	9
+Trk system potassium uptake protein trkH - Escherichia coli (strain K12)	P0AFZ7	9
+Serine/threonine transporter sstT - Escherichia coli (strain K12)	P0AGE4	9
+Cytochrome bd-II oxidase subunit 1 - Escherichia coli (strain K12)	P26459	9
+UPF0394 inner membrane protein yeeE - Escherichia coli (strain K12)	P33015	9
+Nucleoside permease nupX - Escherichia coli (strain K12)	P33021	9
+Inner membrane ABC transporter permease protein yehY - Escherichia coli (strain K12)	P33361	9
+Uncharacterized protein ynbD - Escherichia coli (strain K12)	P76093	9
+Voltage-gated ClC-type chloride channel clcB - Escherichia coli (strain K12)	P76175	9
+Ethanolamine utilization protein eutH - Escherichia coli (strain K12)	P76552	9
+Inner membrane protein yfgF - Escherichia coli (strain K12)	P77172	9
+Uncharacterized ABC transporter permease ybbP - Escherichia coli (strain K12)	P77504	9
+Potassium-transporting ATPase A chain - Escherichia coli (strain K12)	P03959	9
+Sensor protein uhpB - Escherichia coli (strain K12)	P09835	9
+Inner membrane transporter rhtA - Escherichia coli (strain K12)	P0AA67	9
+Uncharacterized inner membrane transporter yhbE - Escherichia coli (strain K12)	P0AA73	9
+AI-2 transport protein tqsA - Escherichia coli (strain K12)	P0AFS5	9
+Proton glutamate symport protein - Escherichia coli (strain K12)	P21345	9
+Protein traX - Escherichia coli (strain K12)	P22709	9
+Trk system potassium uptake protein trkG - Escherichia coli (strain K12)	P23849	9
+Cytochrome bd-II oxidase subunit 2 - Escherichia coli (strain K12)	P26458	9
+L-rhamnose-proton symporter - Escherichia coli (strain K12)	P27125	9
+Uncharacterized inner membrane transporter yicL - Escherichia coli (strain K12)	P31437	9
+Inner membrane ABC transporter permease protein yjfF - Escherichia coli (strain K12)	P37772	9
+Probable low-affinity inorganic phosphate transporter 2 - Escherichia coli (strain K12)	P43676	9
+Inner membrane protein yrbG - Escherichia coli (strain K12)	P45394	9
+Protein abrB - Escherichia coli (strain K12)	P75747	9
+Inner membrane protein ybiR - Escherichia coli (strain K12)	P75788	9
+Electron transport complex protein rnfD - Escherichia coli (strain K12)	P76182	9
+Short-chain fatty acids transporter - Escherichia coli (strain K12)	P76460	9
+Inner membrane ABC transporter permease protein ydeY - Escherichia coli (strain K12)	P77672	9
+Maltose transport system permease protein malF - Escherichia coli (strain K12)	P02916	8
+Rod shape-determining protein rodA - Escherichia coli (strain K12)	P0ABG7	8
+Inner membrane protein yebS - Escherichia coli (strain K12)	P0AD03	8
+Inner membrane protein yfcA - Escherichia coli (strain K12)	P0AD30	8
+Uncharacterized membrane protein yhhN - Escherichia coli (strain K12)	P0ADI9	8
+Uncharacterized protein yjbB - Escherichia coli (strain K12)	P0AF43	8
+NADH-quinone oxidoreductase subunit H - Escherichia coli (strain K12)	P0AFD4	8
+Nucleoside permease nupC - Escherichia coli (strain K12)	P0AFF2	8
+Paraquat-inducible protein A - Escherichia coli (strain K12)	P0AFL9	8
+UPF0118 inner membrane protein ydiK - Escherichia coli (strain K12)	P0AFS7	8
+Anaerobic dimethyl sulfoxide reductase chain C - Escherichia coli (strain K12)	P18777	8
+PTS system fructose-specific EIIBC component - Escherichia coli (strain K12)	P20966	8
+PTS system arbutin-, cellobiose-, and salicin-specific EIIBC component - Escherichia coli (strain K12)	P24241	8
+1,4-dihydroxy-2-naphthoate octaprenyltransferase - Escherichia coli (strain K12)	P32166	8
+Inner membrane transport protein yeiM - Escherichia coli (strain K12)	P33024	8
+Ferrous iron transport protein B - Escherichia coli (strain K12)	P33650	8
+Thiol:disulfide interchange protein dsbD precursor - Escherichia coli (strain K12)	P36655	8
+PTS system trehalose-specific EIIBC component - Escherichia coli (strain K12)	P36672	8
+Lead, cadmium, zinc and mercury-transporting ATPase - Escherichia coli (strain K12)	P37617	8
+Inner membrane protein yjgN - Escherichia coli (strain K12)	P39338	8
+Uncharacterized protein yraQ - Escherichia coli (strain K12)	P45468	8
+Inner membrane amino-acid ABC transporter permease protein yhdY - Escherichia coli (strain K12)	P45768	8
+Heat-responsive suppressor hrsA - Escherichia coli (strain K12)	P54745	8
+Glucans biosynthesis glucosyltransferase H - Escherichia coli (strain K12)	P62517	8
+PTS system glucose-specific EIICB component - Escherichia coli (strain K12)	P69786	8
+Uncharacterized protein ybjE - Escherichia coli (strain K12)	P75826	8
+Inner membrane protein yeaI - Escherichia coli (strain K12)	P76236	8
+Flagellar biosynthesis protein flhA - Escherichia coli (strain K12)	P76298	8
+Uncharacterized symporter ydjN - Escherichia coli (strain K12)	P77529	8
+Inner membrane protein yghQ - Escherichia coli (strain K12)	Q46841	8
+Copper-transporting P-type ATPase - Escherichia coli (strain K12)	Q59385	8
+Vitamin B12 import system permease protein btuC - Escherichia coli (strain K12)	P06609	8
+PTS system beta-glucoside-specific EIIBCA component - Escherichia coli (strain K12)	P08722	8
+4-hydroxybenzoate octaprenyltransferase - Escherichia coli (strain K12)	P0AGK1	8
+Iron(III) dicitrate transport system permease protein fecD - Escherichia coli (strain K12)	P15029	8
+Iron(III) dicitrate transport system permease protein fecC - Escherichia coli (strain K12)	P15030	8
+N,N'-diacetylchitobiose permease IIC component - Escherichia coli (strain K12)	P17334	8
+Ferric enterobactin transport system permease protein fepD - Escherichia coli (strain K12)	P23876	8
+Ferric enterobactin transport system permease protein fepG - Escherichia coli (strain K12)	P23877	8
+Type 4 prepilin-like proteins leader peptide-processing enzyme [Includes: Leader peptidase - Escherichia coli (strain K12)	P25960	8
+Permease IIC component glvC - Escherichia coli (strain K12)	P31452	8
+Fructose-like PTS system EIIBC component [Includes: Fructose-like phosphotransferase enzyme IIB component - Escherichia coli (strain K12)	P32154	8
+Fructose-like permease IIC component 2 - Escherichia coli (strain K12)	P32672	8
+Protein nrfD - Escherichia coli (strain K12)	P32709	8
+High-affinity zinc uptake system membrane protein znuB - Escherichia coli (strain K12)	P39832	8
+Uncharacterized protein yfeH - Escherichia coli (strain K12)	P39836	8
+Inner membrane protein alx - Escherichia coli (strain K12)	P42601	8
+Putative amino-acid ABC transporter permease protein yhdX - Escherichia coli (strain K12)	P45767	8
+Putative arsenical pump membrane protein - Escherichia coli (strain K12)	P52137	8
+UPF0324 inner membrane protein yeiH - Escherichia coli (strain K12)	P62723	8
+Inner membrane protein ybhN - Escherichia coli (strain K12)	P75770	8
+Inner membrane protein ycdT - Escherichia coli (strain K12)	P75908	8
+Uncharacterized protein ycdU - Escherichia coli (strain K12)	P75910	8
+Anaerobic dimethyl sulfoxide reductase chain ynfH - Escherichia coli (strain K12)	P76173	8
+Inner membrane ABC transporter permease protein ydcU - Escherichia coli (strain K12)	P77156	8
+PTS system N-acetylmuramic acid-specific EIIBC component - Escherichia coli (strain K12)	P77272	8
+Fructose-like permease IIC component 1 - Escherichia coli (strain K12)	P77579	8
+Hydrogenase-4 component C - Escherichia coli (strain K12)	P77858	8
+Uncharacterized protein yqgA - Escherichia coli (strain K12)	Q46831	8
+Potassium-transporting ATPase B chain - Escherichia coli (strain K12)	P03960	7
+Inner membrane protein ybhL - Escherichia coli (strain K12)	P0AAC4	7
+NAD(P) transhydrogenase subunit beta - Escherichia coli (strain K12)	P0AB67	7
+Hydrogenase-4 component E - Escherichia coli (strain K12)	P0AEW1	7
+Protein pnuC - Escherichia coli (strain K12)	P0AFK2	7
+UPF0126 inner membrane protein yicG - Escherichia coli (strain K12)	P0AGM2	7
+Glycine betaine/L-proline transport system permease protein proW - Escherichia coli (strain K12)	P14176	7
+PTS system maltose- and glucose-specific EIICB component - Escherichia coli (strain K12)	P19642	7
+Apolipoprotein N-acyltransferase - Escherichia coli (strain K12)	P23930	7
+Uncharacterized protein yfjW - Escherichia coli (strain K12)	P52138	7
+Undecaprenyl-diphosphatase - Escherichia coli (strain K12)	P60932	7
+Mannose permease IIC component - Escherichia coli (strain K12)	P69801	7
+UPF0053 protein yegH - Escherichia coli (strain K12)	P76389	7
+2-keto-3-deoxygluconate permease - Escherichia coli (strain K12)	P0A712	7
+Phosphatidate cytidylyltransferase - Escherichia coli (strain K12)	P0ABG1	7
+UPF0053 inner membrane protein yoaE - Escherichia coli (strain K12)	P0AEC0	7
+UPF0126 inner membrane protein yadS - Escherichia coli (strain K12)	P0AFP0	7
+Formate hydrogenlyase subunit 4 - Escherichia coli (strain K12)	P16430	7
+N-acetylgalactosamine permease IIC component 1 - Escherichia coli (strain K12)	P42910	7
+Prolipoprotein diacylglyceryl transferase - Escherichia coli (strain K12)	P60955	7
+Inner membrane protein ypjD - Escherichia coli (strain K12)	P64432	7
+UPF0053 inner membrane protein ygdQ - Escherichia coli (strain K12)	P67127	7
+UPF0073 inner membrane protein yqfA - Escherichia coli (strain K12)	P67153	7
+Uncharacterized protein ybhM - Escherichia coli (strain K12)	P75769	7
+Ferrous iron permease efeU - Escherichia coli (strain K12)	P75901	7
+Inner membrane protein yebZ - Escherichia coli (strain K12)	P76278	7
+Inner membrane protein ygaZ - Escherichia coli (strain K12)	P76630	7
+Leader peptidase pppA - Escherichia coli (strain K12)	Q46836	7
+PTS system mannitol-specific EIICBA component - Escherichia coli (strain K12)	P00550	6
+Phosphate transport system permease protein pstA - Escherichia coli (strain K12)	P07654	6
+Rhomboid protease glpG - Escherichia coli (strain K12)	P09391	6
+Inner membrane protein yccA - Escherichia coli (strain K12)	P0AAC6	6
+Heme exporter protein B - Escherichia coli (strain K12)	P0ABL8	6
+Probable formate transporter 1 - Escherichia coli (strain K12)	P0AC23	6
+Inner membrane protein yjgQ - Escherichia coli (strain K12)	P0ADC6	6
+Sulfate transport system permease protein cysW - Escherichia coli (strain K12)	P0AEB0	6
+Dipeptide transport system permease protein dppB - Escherichia coli (strain K12)	P0AEF8	6
+Dipeptide transport system permease protein dppC - Escherichia coli (strain K12)	P0AEG1	6
+Glycerol uptake facilitator protein - Escherichia coli (strain K12)	P0AER0	6
+Inner membrane protein yjgP - Escherichia coli (strain K12)	P0AF98	6
+Oligopeptide transport system permease protein oppB - Escherichia coli (strain K12)	P0AFH2	6
+Spermidine/putrescine transport system permease protein potC - Escherichia coli (strain K12)	P0AFK6	6
+Inner membrane transport permease ybhR - Escherichia coli (strain K12)	P0AFP9	6
+Inner membrane transport permease ybhS - Escherichia coli (strain K12)	P0AFQ2	6
+Protein-export membrane protein secF - Escherichia coli (strain K12)	P0AG93	6
+Peptide transport system permease protein sapC - Escherichia coli (strain K12)	P0AGH5	6
+Inner membrane protein oxaA - Escherichia coli (strain K12)	P25714	6
+UPF0056 membrane protein yhcE - Escherichia coli (strain K12)	P25743	6
+ATP-binding/permease protein cydD - Escherichia coli (strain K12)	P29018	6
+Inner membrane protein yabI - Escherichia coli (strain K12)	P30149	6
+Putrescine transport system permease protein potH - Escherichia coli (strain K12)	P31135	6
+Cobalamin synthase - Escherichia coli (strain K12)	P36561	6
+Inner membrane protein yfdC - Escherichia coli (strain K12)	P37327	6
+Uncharacterized ABC transporter ATP-binding protein yhiH - Escherichia coli (strain K12)	P37624	6
+Inner membrane protein yhjD - Escherichia coli (strain K12)	P37642	6
+Inner membrane protein yedI - Escherichia coli (strain K12)	P46125	6
+Sec-independent protein translocase protein tatC - Escherichia coli (strain K12)	P69423	6
+PTS system mannitol-specific cryptic EIICB component - Escherichia coli (strain K12)	P69826	6
+Putative colanic biosynthesis UDP-glucose lipid carrier transferase - Escherichia coli (strain K12)	P71241	6
+Uncharacterized membrane protein yahN - Escherichia coli (strain K12)	P75693	6
+Glutathione transport system permease protein gsiC - Escherichia coli (strain K12)	P75798	6
+UPF0043 inner membrane protein ydjZ - Escherichia coli (strain K12)	P76221	6
+Nickel/cobalt efflux system rcnA - Escherichia coli (strain K12)	P76425	6
+Inner membrane protein yeiU - Escherichia coli (strain K12)	P76445	6
+Multidrug resistance-like ATP-binding protein mdlA - Escherichia coli (strain K12)	P77265	6
+UPF0014 inner membrane protein ybbM - Escherichia coli (strain K12)	P77307	6
+Probable D,D-dipeptide transport system permease protein ddpB - Escherichia coli (strain K12)	P77308	6
+Probable D,D-dipeptide transport system permease protein ddpC - Escherichia coli (strain K12)	P77463	6
+Probable intracellular septation protein - Escherichia coli (strain K12)	P0A710	6
+tRNA-processing ribonuclease BN - Escherichia coli (strain K12)	P0A8K8	6
+Protein adrA - Escherichia coli (strain K12)	P0AAP1	6
+Rod shape-determining protein mreD - Escherichia coli (strain K12)	P0ABH4	6
+Heme exporter protein C - Escherichia coli (strain K12)	P0ABM1	6
+Probable nitrite transporter - Escherichia coli (strain K12)	P0AC26	6
+Inner membrane protein yaaH - Escherichia coli (strain K12)	P0AC98	6
+Multiple antibiotic resistance protein marC - Escherichia coli (strain K12)	P0AEY1	6
+Spermidine/putrescine transport system permease protein potB - Escherichia coli (strain K12)	P0AFK4	6
+Inner membrane transport permease yadH - Escherichia coli (strain K12)	P0AFN6	6
+Inner membrane ABC transporter permease protein ydcV - Escherichia coli (strain K12)	P0AFR9	6
+Protein sbmA - Escherichia coli (strain K12)	P0AFY6	6
+Threonine efflux protein - Escherichia coli (strain K12)	P0AG38	6
+Phosphate transport system permease protein pstC - Escherichia coli (strain K12)	P0AGH8	6
+Putative potassium channel protein - Escherichia coli (strain K12)	P31069	6
+Inner membrane protein yeeA - Escherichia coli (strain K12)	P33011	6
+Flagellar biosynthetic protein fliR - Escherichia coli (strain K12)	P33135	6
+Inner membrane protein yhhQ - Escherichia coli (strain K12)	P37619	6
+Inner membrane protein yfiK - Escherichia coli (strain K12)	P38101	6
+Uncharacterized protein yciQ - Escherichia coli (strain K12)	P45848	6
+UPF0056 inner membrane protein yhgN - Escherichia coli (strain K12)	P67143	6
+Zinc transporter zitB - Escherichia coli (strain K12)	P75757	6
+Glutathione transport system permease protein gsiD - Escherichia coli (strain K12)	P75799	6
+Inner membrane protein ynjF - Escherichia coli (strain K12)	P76226	6
+Leucine efflux protein - Escherichia coli (strain K12)	P76249	6
+Electron transport complex protein rnfE - Escherichia coli (strain K12)	P77179	6
+Uncharacterized protein yahC - Escherichia coli (strain K12)	P77219	6
+Taurine transport system permease protein tauC - Escherichia coli (strain K12)	Q47539	6
+NAD(P) transhydrogenase subunit alpha - Escherichia coli (strain K12)	P07001	5
+Protein cysZ - Escherichia coli (strain K12)	P0A6J3	5
+Phosphatidylglycerophosphatase B - Escherichia coli (strain K12)	P0A924	5
+Inner membrane protein ypdA - Escherichia coli (strain K12)	P0AA93	5
+Uncharacterized protein ybdG - Escherichia coli (strain K12)	P0AAT4	5
+ATP synthase a chain - Escherichia coli (strain K12)	P0AB98	5
+Cytochrome o ubiquinol oxidase subunit 3 - Escherichia coli (strain K12)	P0ABJ3	5
+Flagellar biosynthetic protein fliP precursor - Escherichia coli (strain K12)	P0AC05	5
+Inner membrane protein yejM - Escherichia coli (strain K12)	P0AD27	5
+Inner membrane protein yjjP - Escherichia coli (strain K12)	P0ADD5	5
+Protein ampE - Escherichia coli (strain K12)	P0AE14	5
+Arginine transport system permease protein artM - Escherichia coli (strain K12)	P0AE30	5
+MscS family inner membrane protein ynaI - Escherichia coli (strain K12)	P0AEB5	5
+Glutamine transport system permease protein glnP - Escherichia coli (strain K12)	P0AEQ6	5
+Glutamate/aspartate transport system permease protein gltJ - Escherichia coli (strain K12)	P0AER3	5
+Protein hdeD - Escherichia coli (strain K12)	P0AET5	5
+Histidine transport system permease protein hisM - Escherichia coli (strain K12)	P0AEU3	5
+Molybdenum transport system permease protein modB - Escherichia coli (strain K12)	P0AF01	5
+NADH-quinone oxidoreductase subunit J - Escherichia coli (strain K12)	P0AFE0	5
+Oligopeptide transport system permease protein oppC - Escherichia coli (strain K12)	P0AFH6	5
+Inner membrane amino-acid ABC transporter permease protein yecS - Escherichia coli (strain K12)	P0AFT2	5
+Uncharacterized protein yhiD - Escherichia coli (strain K12)	P0AFV2	5
+Homoserine/homoserine lactone efflux protein - Escherichia coli (strain K12)	P0AG34	5
+Protein-export membrane protein secD - Escherichia coli (strain K12)	P0AG90	5
+Respiratory nitrate reductase 1 gamma chain - Escherichia coli (strain K12)	P11350	5
+UPF0259 membrane protein yciC - Escherichia coli (strain K12)	P21365	5
+ATP-binding/permease protein cydC - Escherichia coli (strain K12)	P23886	5
+D-methionine transport system permease protein metI - Escherichia coli (strain K12)	P31547	5
+UPF0141 membrane protein yijP - Escherichia coli (strain K12)	P32678	5
+Protein traG - Escherichia coli (strain K12)	P33790	5
+Inner membrane ABC transporter permease protein yejE - Escherichia coli (strain K12)	P33915	5
+ABC transporter ATP-binding protein yojI - Escherichia coli (strain K12)	P33941	5
+Uncharacterized protein yhjU - Escherichia coli (strain K12)	P37659	5
+N-acetylgalactosamine permease IID component - Escherichia coli (strain K12)	P42911	5
+Histidine transport system permease protein hisQ - Escherichia coli (strain K12)	P52094	5
+Lipid A export ATP-binding/permease protein msbA - Escherichia coli (strain K12)	P60752	5
+UPF0078 membrane protein ygiH - Escherichia coli (strain K12)	P60782	5
+UPF0393 inner membrane protein yrbE - Escherichia coli (strain K12)	P64606	5
+Maltose transport system permease protein malG - Escherichia coli (strain K12)	P68183	5
+Mannose permease IID component - Escherichia coli (strain K12)	P69805	5
+Putative aliphatic sulfonates transport permease protein ssuC - Escherichia coli (strain K12)	P75851	5
+Biofilm PGA synthesis N-glycosyltransferase pgaC - Escherichia coli (strain K12)	P75905	5
+Uncharacterized protein yneF - Escherichia coli (strain K12)	P76147	5
+UPF0191 membrane protein yedZ - Escherichia coli (strain K12)	P76343	5
+Inner membrane protein yeeR - Escherichia coli (strain K12)	P76361	5
+Protein phsC homolog - Escherichia coli (strain K12)	P77409	5
+Probable formate transporter 2 - Escherichia coli (strain K12)	P77733	5
+Protein fhiA - Escherichia coli (strain K12)	Q47153	5
+Inner membrane protein creD - Escherichia coli (strain K12)	P08369	5
+Electron transport complex protein rnfA - Escherichia coli (strain K12)	P0A766	5
+Zinc transporter zupT - Escherichia coli (strain K12)	P0A8H3	5
+Inner membrane protein yehU precursor - Escherichia coli (strain K12)	P0AD14	5
+Inner membrane protein yohC - Escherichia coli (strain K12)	P0AD17	5
+Inner membrane protein yohK - Escherichia coli (strain K12)	P0AD19	5
+UPF0442 protein yjjB - Escherichia coli (strain K12)	P0ADD2	5
+Glutamate/aspartate transport system permease protein gltK - Escherichia coli (strain K12)	P0AER5	5
+Respiratory nitrate reductase 2 gamma chain - Escherichia coli (strain K12)	P0AF32	5
+Nickel transport system permease protein nikC - Escherichia coli (strain K12)	P0AFA9	5
+Putrescine transport system permease protein potI - Escherichia coli (strain K12)	P0AFL1	5
+Inner membrane ABC transporter permease protein ycjO - Escherichia coli (strain K12)	P0AFR7	5
+Inner membrane ABC transporter permease protein yejB - Escherichia coli (strain K12)	P0AFU0	5
+Inner membrane transport permease yhhJ - Escherichia coli (strain K12)	P0AGH1	5
+Peptide transport system permease protein sapB - Escherichia coli (strain K12)	P0AGH3	5
+sn-glycerol-3-phosphate transport system permease protein ugpA - Escherichia coli (strain K12)	P10905	5
+sn-glycerol-3-phosphate transport system permease protein ugpE - Escherichia coli (strain K12)	P10906	5
+Arginine exporter protein argO - Escherichia coli (strain K12)	P11667	5
+Phosphonates transport system permease protein phnE - Escherichia coli (strain K12)	P16683	5
+Sulfate transport system permease protein cysT - Escherichia coli (strain K12)	P16701	5
+Inner membrane ABC transporter ATP-binding protein yddA - Escherichia coli (strain K12)	P31826	5
+Inner membrane ABC transporter permease protein yehW - Escherichia coli (strain K12)	P33359	5
+Nickel transport system permease protein nikB - Escherichia coli (strain K12)	P33591	5
+Uncharacterized protein yjiH - Escherichia coli (strain K12)	P39379	5
+Inner membrane protein ygjV - Escherichia coli (strain K12)	P42603	5
+Putative electron transport protein yccM - Escherichia coli (strain K12)	P52636	5
+Aquaporin Z - Escherichia coli (strain K12)	P60844	5
+Inner membrane protein ydjM precursor - Escherichia coli (strain K12)	P64481	5
+UPF0141 inner membrane protein ybiP - Escherichia coli (strain K12)	P75785	5
+UPF0059 membrane protein yebN - Escherichia coli (strain K12)	P76264	5
+Inner membrane ABC transporter permease protein ycjP - Escherichia coli (strain K12)	P77716	5
+Transposase for transposon gamma-delta - Escherichia coli (strain K12)	Q00037	5
+Colicin V production protein - Escherichia coli (strain K12)	P08550	4
+UPF0283 membrane protein ycjF - Escherichia coli (strain K12)	P0A8R7	4
+Inner membrane protein yqjA - Escherichia coli (strain K12)	P0AA63	4
+Multidrug resistance-like ATP-binding protein mdlB - Escherichia coli (strain K12)	P0AAG5	4
+Probable Ni/Fe-hydrogenase 1 B-type cytochrome subunit - Escherichia coli (strain K12)	P0AAM1	4
+Inner membrane protein ybjO - Escherichia coli (strain K12)	P0AAZ0	4
+Inner membrane protein yccF - Escherichia coli (strain K12)	P0AB12	4
+Cytochrome b561 - Escherichia coli (strain K12)	P0ABE5	4
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase - Escherichia coli (strain K12)	P0ABF8	4
+Protein dedA - Escherichia coli (strain K12)	P0ABP6	4
+Cell division protein ftsX - Escherichia coli (strain K12)	P0AC30	4
+Lipoprotein-releasing system transmembrane protein lolC - Escherichia coli (strain K12)	P0ADC3	4
+Arginine transport system permease protein artQ - Escherichia coli (strain K12)	P0AE34	4
+Regulator of sigma E protease - Escherichia coli (strain K12)	P0AEH1	4
+Formate dehydrogenase, cytochrome b556(fdo) subunit - Escherichia coli (strain K12)	P0AEL0	4
+Bacteriophage N4 adsorption protein B - Escherichia coli (strain K12)	P0AFA5	4
+Quinoprotein glucose dehydrogenase - Escherichia coli (strain K12)	P15877	4
+Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] - Escherichia coli (strain K12)	P17169	4
+Sensor protein kdpD - Escherichia coli (strain K12)	P21865	4
+UPF0141 membrane protein yjdB - Escherichia coli (strain K12)	P30845	4
+Inner membrane protein yohD - Escherichia coli (strain K12)	P33366	4
+Ferredoxin-type protein napH - Escherichia coli (strain K12)	P33934	4
+UPF0141 inner membrane protein yhjW - Escherichia coli (strain K12)	P37661	4
+UPF0053 inner membrane protein yfjD - Escherichia coli (strain K12)	P37908	4
+Putative membrane protein igaA homolog - Escherichia coli (strain K12)	P45800	4
+DNA translocase ftsK - Escherichia coli (strain K12)	P46889	4
+UPF0299 membrane protein yohJ - Escherichia coli (strain K12)	P60632	4
+Uncharacterized protein yggT - Escherichia coli (strain K12)	P64564	4
+UPF0114 protein yqhA - Escherichia coli (strain K12)	P67244	4
+Multidrug resistance protein mdtI - Escherichia coli (strain K12)	P69210	4
+Ferrous-iron efflux pump fieF - Escherichia coli (strain K12)	P69380	4
+Macrolide export ATP-binding/permease protein macB - Escherichia coli (strain K12)	P75831	4
+Lipoprotein-releasing system transmembrane protein lolE - Escherichia coli (strain K12)	P75958	4
+Uncharacterized protein ymfE - Escherichia coli (strain K12)	P75968	4
+Inner membrane protein ydcZ - Escherichia coli (strain K12)	P76111	4
+UPF0043 membrane protein ydjX - Escherichia coli (strain K12)	P76219	4
+Protein sirB2 - Escherichia coli (strain K12)	Q46755	4
+Uncharacterized protein yaiP - Escherichia coli (strain K12)	Q47536	4
+Lipoprotein signal peptidase - Escherichia coli (strain K12)	P00804	4
+Protein traS - Escherichia coli (strain K12)	P09129	4
+Protein psiE - Escherichia coli (strain K12)	P0A7C8	4
+Inner membrane protein yghB - Escherichia coli (strain K12)	P0AA60	4
+Inner membrane protein ybaN - Escherichia coli (strain K12)	P0AAR5	4
+Inner membrane protein ybhQ - Escherichia coli (strain K12)	P0AAW5	4
+Inner membrane protein yphA - Escherichia coli (strain K12)	P0AD47	4
+Inner membrane protein yiaA - Escherichia coli (strain K12)	P0ADJ8	4
+Uncharacterized protein yiiR - Escherichia coli (strain K12)	P0AF34	4
+Inner membrane protein yjfL - Escherichia coli (strain K12)	P0AF80	4
+Protein trbA - Escherichia coli (strain K12)	P18034	4
+Multidrug transporter emrE - Escherichia coli (strain K12)	P23895	4
+Inner membrane protein yigG - Escherichia coli (strain K12)	P27843	4
+Inner membrane protein yieI - Escherichia coli (strain K12)	P31468	4
+Protein fxsA - Escherichia coli (strain K12)	P37147	4
+2,3-diketo-L-gulonate TRAP transporter small permease protein yiaM - Escherichia coli (strain K12)	P37674	4
+Inner membrane protein yjdF - Escherichia coli (strain K12)	P39270	4
+Inner membrane protein yqjF - Escherichia coli (strain K12)	P42619	4
+Uncharacterized protein yhaM - Escherichia coli (strain K12)	P42626	4
+UPF0141 inner membrane protein yhbX - Escherichia coli (strain K12)	P42640	4
+N-acetylgalactosamine permease IIC component 2 - Escherichia coli (strain K12)	P42905	4
+Uncharacterized protein ygaH - Escherichia coli (strain K12)	P43667	4
+Inner membrane protein ybcI - Escherichia coli (strain K12)	P45570	4
+Inner membrane protein yecN - Escherichia coli (strain K12)	P64515	4
+Uncharacterized protein ygaW - Escherichia coli (strain K12)	P64550	4
+Multidrug resistance protein mdtJ - Escherichia coli (strain K12)	P69212	4
+Quaternary ammonium compound-resistance protein sugE - Escherichia coli (strain K12)	P69937	4
+Inner membrane protein ykgB - Escherichia coli (strain K12)	P75685	4
+Putative undecaprenyl-diphosphatase ybjG - Escherichia coli (strain K12)	P75806	4
+Inner membrane protein ycdZ - Escherichia coli (strain K12)	P75916	4
+Cytochrome b561 homolog 2 - Escherichia coli (strain K12)	P75925	4
+Inner membrane protein ynbA - Escherichia coli (strain K12)	P76090	4
+UPF0187 protein yneE - Escherichia coli (strain K12)	P76146	4
+UPF0060 membrane protein ynfA - Escherichia coli (strain K12)	P76169	4
+Flagellar biosynthetic protein flhB - Escherichia coli (strain K12)	P76299	4
+Inner membrane protein yfeZ - Escherichia coli (strain K12)	P76538	4
+Bactoprenol-linked glucose translocase homolog from prophage CPS-53 - Escherichia coli (strain K12)	P77682	4
+Uncharacterized protein yuaM - Escherichia coli (strain K12)	Q9JMS7	4
+Protein traD - Escherichia coli (strain K12)	P09130	3
+Chemotaxis protein motA - Escherichia coli (strain K12)	P09348	3
+Disulfide bond formation protein B - Escherichia coli (strain K12)	P0A6M2	3
+Fumarate reductase subunit C - Escherichia coli (strain K12)	P0A8Q0	3
+Fumarate reductase subunit D - Escherichia coli (strain K12)	P0A8Q3	3
+Inner membrane protein yagU - Escherichia coli (strain K12)	P0AAA1	3
+Inner membrane protein ybbJ - Escherichia coli (strain K12)	P0AAS3	3
+Cytochrome o ubiquinol oxidase protein cyoD - Escherichia coli (strain K12)	P0ABJ6	3
+Diacylglycerol kinase - Escherichia coli (strain K12)	P0ABN1	3
+Biopolymer transport protein exbB - Escherichia coli (strain K12)	P0ABU7	3
+Succinate dehydrogenase hydrophobic membrane anchor subunit - Escherichia coli (strain K12)	P0AC44	3
+UPF0053 inner membrane protein ytfL - Escherichia coli (strain K12)	P0AE45	3
+Inner membrane protein yjiG - Escherichia coli (strain K12)	P0AEH8	3
+Formate dehydrogenase, nitrate-inducible, cytochrome b556(fdn) subunit - Escherichia coli (strain K12)	P0AEK7	3
+NADH-quinone oxidoreductase subunit A - Escherichia coli (strain K12)	P0AFC3	3
+NADH-quinone oxidoreductase subunit K - Escherichia coli (strain K12)	P0AFE4	3
+Preprotein translocase subunit secE - Escherichia coli (strain K12)	P0AG96	3
+Small-conductance mechanosensitive channel - Escherichia coli (strain K12)	P0C0S1	3
+Probable protease htpX - Escherichia coli (strain K12)	P23894	3
+Protein crcB - Escherichia coli (strain K12)	P37002	3
+Uncharacterized protein yhjS - Escherichia coli (strain K12)	P37657	3
+Uncharacterized protein ygcG precursor - Escherichia coli (strain K12)	P55140	3
+Glucitol/sorbitol permease IIC component - Escherichia coli (strain K12)	P56579	3
+Inner membrane protein yhaH - Escherichia coli (strain K12)	P64590	3
+Succinate dehydrogenase cytochrome b556 subunit - Escherichia coli (strain K12)	P69054	3
+Uncharacterized membrane protein yliF - Escherichia coli (strain K12)	P75801	3
+Uncharacterized protein ybjT - Escherichia coli (strain K12)	P75822	3
+Inner membrane protein ycfZ - Escherichia coli (strain K12)	P75961	3
+Uncharacterized protein yniB - Escherichia coli (strain K12)	P76208	3
+Inner membrane protein ynjI - Escherichia coli (strain K12)	P76228	3
+Uncharacterized protein yegI - Escherichia coli (strain K12)	P76393	3
+Acyl-coenzyme A dehydrogenase - Escherichia coli (strain K12)	Q47146	3
+Uncharacterized protein ytcA precursor - Escherichia coli (strain K12)	A5A630	3
+Transposase insG for insertion sequence element IS4 - Escherichia coli (strain K12)	P03835	3
+ATP synthase protein I - Escherichia coli (strain K12)	P0ABC0	3
+Inner membrane protein ydgC - Escherichia coli (strain K12)	P0ACX0	3
+Uncharacterized protein yeaL - Escherichia coli (strain K12)	P0ACY6	3
+Inner membrane protein yidG - Escherichia coli (strain K12)	P0ADL6	3
+Inner membrane protein yidH - Escherichia coli (strain K12)	P0ADM0	3
+Inner membrane protein yqaA - Escherichia coli (strain K12)	P0ADR0	3
+UPF0382 inner membrane protein ygdD - Escherichia coli (strain K12)	P0ADR2	3
+Inner membrane protein yijD - Escherichia coli (strain K12)	P0AF40	3
+Inner membrane protein yiaB - Escherichia coli (strain K12)	P11286	3
+Phosphatidylglycerophosphatase A - Escherichia coli (strain K12)	P18200	3
+Inner membrane protein yidI - Escherichia coli (strain K12)	P31446	3
+Protein transport protein hofC - Escherichia coli (strain K12)	P36646	3
+Uncharacterized protein yhhL - Escherichia coli (strain K12)	P37614	3
+Putative general secretion pathway protein F - Escherichia coli (strain K12)	P41441	3
+Inner membrane protein ygbE - Escherichia coli (strain K12)	P46141	3
+Uncharacterized protein yjjZ - Escherichia coli (strain K12)	P55914	3
+Glucitol/sorbitol-specific phosphotransferase enzyme IIB component - Escherichia coli (strain K12)	P56580	3
+UPF0410 protein yeaQ - Escherichia coli (strain K12)	P64485	3
+Inner membrane protein yhaI - Escherichia coli (strain K12)	P64592	3
+Uncharacterized protein ycaP - Escherichia coli (strain K12)	P75839	3
+UPF0410 protein ymge - Escherichia coli (strain K12)	P76011	3
+Inner membrane protein ydgK - Escherichia coli (strain K12)	P76180	3
+Cytochrome b561 homolog 1 - Escherichia coli (strain K12)	P76345	3
+UPF0188 membrane protein yfbJ - Escherichia coli (strain K12)	P76474	3
+Inner membrane protein yqiJ - Escherichia coli (strain K12)	P76657	3
+Inner membrane protein ygiZ - Escherichia coli (strain K12)	Q46867	3
+Inner membrane protein yfbW - Escherichia coli (strain K12)	Q47377	3
+NADH dehydrogenase - Escherichia coli (strain K12)	P00393	2
+Thymidine phosphorylase - Escherichia coli (strain K12)	P07650	2
+Protease 4 - Escherichia coli (strain K12)	P08395	2
+Putative transposase insL for insertion sequence element IS186A/B/C - Escherichia coli (strain K12)	P08409	2
+Probable ubiquinone biosynthesis protein ubiB - Escherichia coli (strain K12)	P0A6A0	2
+Cardiolipin synthetase - Escherichia coli (strain K12)	P0A6H8	2
+3-oxoacyl-[acyl-carrier-protein] synthase 3 - Escherichia coli (strain K12)	P0A6R0	2
+Large-conductance mechanosensitive channel - Escherichia coli (strain K12)	P0A742	2
+Glucosamine-6-phosphate deaminase - Escherichia coli (strain K12)	P0A759	2
+Glutamate 5-kinase - Escherichia coli (strain K12)	P0A7B5	2
+HTH-type transcriptional regulator metR - Escherichia coli (strain K12)	P0A9F9	2
+Phosphate acetyltransferase - Escherichia coli (strain K12)	P0A9M8	2
+Uncharacterized protein yaiZ - Escherichia coli (strain K12)	P0AAQ0	2
+Inner membrane protein ylaC - Escherichia coli (strain K12)	P0AAS0	2
+Uncharacterized protein ybgE - Escherichia coli (strain K12)	P0AAV0	2
+Magnesium transport protein corA - Escherichia coli (strain K12)	P0ABI4	2
+Ubiquinol oxidase subunit 2 precursor - Escherichia coli (strain K12)	P0ABJ1	2
+Cytochrome c-type biogenesis protein ccmH precursor - Escherichia coli (strain K12)	P0ABM9	2
+Protein tolQ - Escherichia coli (strain K12)	P0ABU9	2
+Uncharacterized protein yfhB - Escherichia coli (strain K12)	P0AD42	2
+Sensor protein cpxA - Escherichia coli (strain K12)	P0AE82	2
+Signal transduction histidine-protein kinase barA - Escherichia coli (strain K12)	P0AEC5	2
+Inner membrane protein yjcH - Escherichia coli (strain K12)	P0AF54	2
+Uncharacterized protein yjeT - Escherichia coli (strain K12)	P0AF73	2
+Exopolyphosphatase - Escherichia coli (strain K12)	P0AFL6	2
+Phage shock protein C - Escherichia coli (strain K12)	P0AFN2	2
+Lipopolysaccharide biosynthesis protein wzzE - Escherichia coli (strain K12)	P0AG00	2
+Protein-export membrane protein secG - Escherichia coli (strain K12)	P0AG99	2
+Chorismate synthase - Escherichia coli (strain K12)	P12008	2
+Exonuclease sbcC - Escherichia coli (strain K12)	P13458	2
+Single-stranded-DNA-specific exonuclease recJ - Escherichia coli (strain K12)	P21893	2
+Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase - Escherichia coli (strain K12)	P25552	2
+Ferric enterobactin transport protein fepE - Escherichia coli (strain K12)	P26266	2
+1-acyl-sn-glycerol-3-phosphate acyltransferase - Escherichia coli (strain K12)	P26647	2
+Probable ATP-dependent helicase lhr - Escherichia coli (strain K12)	P30015	2
+Sensor protein basS/pmrB - Escherichia coli (strain K12)	P30844	2
+Signal transduction histidine-protein kinase baeS - Escherichia coli (strain K12)	P30847	2
+Putative colanic acid biosynthesis glycosyl transferase wcaI - Escherichia coli (strain K12)	P32057	2
+Malate:quinone oxidoreductase - Escherichia coli (strain K12)	P33940	2
+Protein yhjK - Escherichia coli (strain K12)	P37649	2
+Tyrosine-protein kinase etk - Escherichia coli (strain K12)	P38134	2
+Inner membrane protein yjeO - Escherichia coli (strain K12)	P39284	2
+Uncharacterized HTH-type transcriptional regulator yjiE - Escherichia coli (strain K12)	P39376	2
+Uncharacterized protein yjiN - Escherichia coli (strain K12)	P39385	2
+Uncharacterized protein yjiV - Escherichia coli (strain K12)	P39393	2
+Phosphoglycerol transferase I - Escherichia coli (strain K12)	P39401	2
+Altronate hydrolase - Escherichia coli (strain K12)	P42604	2
+Putative galactosamine-6-phosphate isomerase - Escherichia coli (strain K12)	P42912	2
+Uncharacterized protein yhfS - Escherichia coli (strain K12)	P45545	2
+Aerotaxis receptor - Escherichia coli (strain K12)	P50466	2
+Inner membrane protein ygaP - Escherichia coli (strain K12)	P55734	2
+Zinc transport protein zntB - Escherichia coli (strain K12)	P64423	2
+Inner membrane protein yqjE - Escherichia coli (strain K12)	P64585	2
+UPF0266 membrane protein yobD - Escherichia coli (strain K12)	P67601	2
+Biofilm PGA synthesis protein pgaD - Escherichia coli (strain K12)	P69432	2
+Hydrogenase-2 small chain precursor - Escherichia coli (strain K12)	P69741	2
+Uncharacterized protein ybjD - Escherichia coli (strain K12)	P75828	2
+Cellulose synthesis regulatory protein - Escherichia coli (strain K12)	P76330	2
+Chain length determinant protein - Escherichia coli (strain K12)	P76372	2
+Tyrosine-protein kinase wzc - Escherichia coli (strain K12)	P76387	2
+Ethanolamine utilization protein eutA - Escherichia coli (strain K12)	P76551	2
+UPF0209 protein yfcK - Escherichia coli (strain K12)	P77182	2
+Lysis protein S homolog from lambdoid prophage Qin - Escherichia coli (strain K12)	P77237	2
+Bactoprenol glucosyl transferase homolog from prophage CPS-53 - Escherichia coli (strain K12)	P77293	2
+Protein maoC - Escherichia coli (strain K12)	P77455	2
+Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase - Escherichia coli (strain K12)	P77757	2
+Signal transduction histidine-protein kinase atoS - Escherichia coli (strain K12)	Q06067	2
+Uncharacterized protein yqeB - Escherichia coli (strain K12)	Q46808	2
+Uncharacterized protein ygfX - Escherichia coli (strain K12)	Q46824	2
+Uncharacterized protein ygcL - Escherichia coli (strain K12)	Q46901	2
+Uncharacterized protein ygdL - Escherichia coli (strain K12)	Q46927	2
+Uncharacterized protein ykfM - Escherichia coli (strain K12)	A5A605	2
+Tryptophan biosynthesis protein trpCF [Includes: Indole-3-glycerol phosphate synthase - Escherichia coli (strain K12)	P00909	2
+Fimbrial protein precursor - Escherichia coli (strain K12)	P04737	2
+Protein traL - Escherichia coli (strain K12)	P08321	2
+UPF0208 membrane protein yfbV - Escherichia coli (strain K12)	P0A8D9	2
+Lysis protein S homolog from lambdoid prophage DLP12 - Escherichia coli (strain K12)	P0A9R2	2
+Inner membrane protein yaiY - Escherichia coli (strain K12)	P0AAP7	2
+Uncharacterized protein ybfB - Escherichia coli (strain K12)	P0AAU5	2
+Inner membrane protein yiaW - Escherichia coli (strain K12)	P0ADK4	2
+Protein aroM - Escherichia coli (strain K12)	P0AE28	2
+UPF0057 membrane protein yqaE - Escherichia coli (strain K12)	P0AE42	2
+Inner membrane protein yibH - Escherichia coli (strain K12)	P0AFV0	2
+Protein trbF - Escherichia coli (strain K12)	P15068	2
+Protein artA - Escherichia coli (strain K12)	P18032	2
+Protein traQ - Escherichia coli (strain K12)	P18033	2
+Protein trbJ - Escherichia coli (strain K12)	P18353	2
+Protein trbH - Escherichia coli (strain K12)	P19381	2
+Uncharacterized protein yigF - Escherichia coli (strain K12)	P27842	2
+Uncharacterized protein yibI - Escherichia coli (strain K12)	P32108	2
+Uncharacterized protein yjcB - Escherichia coli (strain K12)	P32700	2
+Inner membrane protein yiaV precursor - Escherichia coli (strain K12)	P37683	2
+Superinfection exclusion protein B - Escherichia coli (strain K12)	P38392	2
+Uncharacterized protein yjhE - Escherichia coli (strain K12)	P39355	2
+Protein traP - Escherichia coli (strain K12)	P41068	2
+Uncharacterized protein yhdT - Escherichia coli (strain K12)	P45566	2
+Uncharacterized protein ybjC - Escherichia coli (strain K12)	P46119	2
+Sigma-E factor regulatory protein rseC - Escherichia coli (strain K12)	P46187	2
+Protein aaeX - Escherichia coli (strain K12)	P46478	2
+Uncharacterized protein yqgD - Escherichia coli (strain K12)	P46879	2
+Uncharacterized protein ymgF - Escherichia coli (strain K12)	P58034	2
+Inner membrane protein ybjM - Escherichia coli (strain K12)	P64439	2
+Uncharacterized protein ydcX - Escherichia coli (strain K12)	P64453	2
+Uncharacterized protein ydhI - Escherichia coli (strain K12)	P64471	2
+Uncharacterized protein yeiS - Escherichia coli (strain K12)	P64536	2
+Uncharacterized protein yjdO - Escherichia coli (strain K12)	P64646	2
+Putative ferric transport system permease protein fbpB - Escherichia coli (strain K12)	P75681	2
+Putative uncharacterized protein b1142 - Escherichia coli (strain K12)	P75971	2
+Inner membrane protein yedR - Escherichia coli (strain K12)	P76334	2
+Uncharacterized protein yfdY - Escherichia coli (strain K12)	P76521	2
+Putative uncharacterized protein yzgL - Escherichia coli (strain K12)	P76692	2
+Uncharacterized protein ykgH - Escherichia coli (strain K12)	P77180	2
+2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase - Escherichia coli (strain K12)	P77231	2
+Inner membrane protein yafU - Escherichia coli (strain K12)	P77354	2
+Protein trbE - Escherichia coli (strain K12)	Q05807	2
+Uncharacterized protein ygbT - Escherichia coli (strain K12)	Q46896	2
+Uncharacterized membrane protein yuaF - Escherichia coli (strain K12)	Q9JMT4	2
+Uncharacterized membrane protein yuaD - Escherichia coli (strain K12)	Q9JMT6	2
+Signal peptidase I - Escherichia coli (strain K12)	P00803	1
+Deoxyribodipyrimidine photo-lyase - Escherichia coli (strain K12)	P00914	1
+Cystathionine gamma-synthase - Escherichia coli (strain K12)	P00935	1
+Penicillin-binding protein 1B - Escherichia coli (strain K12)	P02919	1
+Methyl-accepting chemotaxis protein I - Escherichia coli (strain K12)	P02942	1
+Ribonuclease PH - Escherichia coli (strain K12)	P03842	1
+Dihydrodipicolinate reductase - Escherichia coli (strain K12)	P04036	1
+Threonine dehydratase biosynthetic - Escherichia coli (strain K12)	P04968	1
+Alpha-ketoglutarate-dependent dioxygenase alkB - Escherichia coli (strain K12)	P05050	1
+Methyl-accepting chemotaxis protein III - Escherichia coli (strain K12)	P05704	1
+Transposase insF for insertion sequence IS3A/B/C/D/E/fA - Escherichia coli (strain K12)	P05822	1
+DNA repair protein recN - Escherichia coli (strain K12)	P05824	1
+Cell division protein ftsQ - Escherichia coli (strain K12)	P06136	1
+Bifunctional protein birA - Escherichia coli (strain K12)	P06709	1
+Cystathionine beta-lyase - Escherichia coli (strain K12)	P06721	1
+Flagellar motor switch protein fliM - Escherichia coli (strain K12)	P06974	1
+Succinate dehydrogenase iron-sulfur subunit - Escherichia coli (strain K12)	P07014	1
+Methyl-accepting chemotaxis protein II - Escherichia coli (strain K12)	P07017	1
+Methyl-accepting chemotaxis protein IV - Escherichia coli (strain K12)	P07018	1
+Chemotaxis protein cheA - Escherichia coli (strain K12)	P07363	1
+Leucyl-tRNA synthetase - Escherichia coli (strain K12)	P07813	1
+L-threonine 3-dehydrogenase - Escherichia coli (strain K12)	P07913	1
+Isocitrate dehydrogenase [NADP] - Escherichia coli (strain K12)	P08200	1
+Prepilin peptidase-dependent protein B precursor - Escherichia coli (strain K12)	P08371	1
+Sensor protein creC - Escherichia coli (strain K12)	P08401	1
+Putative uroporphyrinogen-III C-methyltransferase - Escherichia coli (strain K12)	P09127	1
+Protein dedD - Escherichia coli (strain K12)	P09549	1
+Putative dethiobiotin synthetase - Escherichia coli (strain K12)	P0A6E9	1
+ATP-dependent Clp protease proteolytic subunit precursor - Escherichia coli (strain K12)	P0A6G7	1
+Diaminopimelate epimerase - Escherichia coli (strain K12)	P0A6K1	1
+Cell division protein ftsB - Escherichia coli (strain K12)	P0A6S5	1
+Glucose-6-phosphate isomerase - Escherichia coli (strain K12)	P0A6T1	1
+33 kDa chaperonin - Escherichia coli (strain K12)	P0A6Y5	1
+2-dehydro-3-deoxyphosphooctonate aldolase - Escherichia coli (strain K12)	P0A715	1
+Glutathione-regulated potassium-efflux system ancillary protein kefF - Escherichia coli (strain K12)	P0A754	1
+CTP synthase - Escherichia coli (strain K12)	P0A7E5	1
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase - Escherichia coli (strain K12)	P0A7F9	1
+Sec-independent protein translocase protein tatE - Escherichia coli (strain K12)	P0A843	1
+tRNA (guanine-N(1)-)-methyltransferase - Escherichia coli (strain K12)	P0A873	1
+Tryptophan synthase beta chain - Escherichia coli (strain K12)	P0A879	1
+Flavoprotein wrbA - Escherichia coli (strain K12)	P0A8G6	1
+Ribosomal protein L11 methyltransferase - Escherichia coli (strain K12)	P0A8T1	1
+HTH-type transcriptional regulator cysB - Escherichia coli (strain K12)	P0A9F3	1
+Aspartate-semialdehyde dehydrogenase - Escherichia coli (strain K12)	P0A9Q9	1
+Galactitol-1-phosphate 5-dehydrogenase - Escherichia coli (strain K12)	P0A9S3	1
+Protein qmcA - Escherichia coli (strain K12)	P0AA53	1
+3-octaprenyl-4-hydroxybenzoate carboxy-lyase - Escherichia coli (strain K12)	P0AAB4	1
+UTP--glucose-1-phosphate uridylyltransferase - Escherichia coli (strain K12)	P0AAB6	1
+Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	1
+Formate dehydrogenase, nitrate-inducible, iron-sulfur subunit - Escherichia coli (strain K12)	P0AAJ3	1
+Formate dehydrogenase-O, iron-sulfur subunit - Escherichia coli (strain K12)	P0AAJ5	1
+Hydrogenase-2 operon protein hybA precursor - Escherichia coli (strain K12)	P0AAJ8	1
+Uncharacterized ferredoxin-like protein ydhY - Escherichia coli (strain K12)	P0AAL6	1
+Uncharacterized protein ybfA precursor - Escherichia coli (strain K12)	P0AAU2	1
+Uncharacterized protein ycbC - Escherichia coli (strain K12)	P0AB01	1
+ATP synthase subunit alpha - Escherichia coli (strain K12)	P0ABB0	1
+Protein hflK - Escherichia coli (strain K12)	P0ABC7	1
+Poly(A) polymerase - Escherichia coli (strain K12)	P0ABF1	1
+Cytidine deaminase - Escherichia coli (strain K12)	P0ABF6	1
+Cytochrome c-type protein napC - Escherichia coli (strain K12)	P0ABL5	1
+DNA primase - Escherichia coli (strain K12)	P0ABS5	1
+Biopolymer transport protein exbD - Escherichia coli (strain K12)	P0ABV2	1
+Protein tolR - Escherichia coli (strain K12)	P0ABV6	1
+Flagellar biosynthetic protein fliQ - Escherichia coli (strain K12)	P0AC07	1
+3-deoxy-D-manno-octulosonic-acid transferase - Escherichia coli (strain K12)	P0AC75	1
+Protein hemY - Escherichia coli (strain K12)	P0ACB7	1
+Leucine-responsive regulatory protein - Escherichia coli (strain K12)	P0ACJ0	1
+Uncharacterized HTH-type transcriptional regulator ybaO - Escherichia coli (strain K12)	P0ACJ5	1
+HTH-type transcriptional regulator rpiR - Escherichia coli (strain K12)	P0ACS7	1
+HTH-type transcriptional regulator acrR - Escherichia coli (strain K12)	P0ACS9	1
+Uncharacterized HTH-type transcriptional regulator ybiH - Escherichia coli (strain K12)	P0ACU0	1
+Lipid A biosynthesis lauroyl acyltransferase - Escherichia coli (strain K12)	P0ACV0	1
+Protein ddg - Escherichia coli (strain K12)	P0ACV2	1
+Inner membrane protein yciS - Escherichia coli (strain K12)	P0ACV4	1
+Penicillin-binding protein 2 - Escherichia coli (strain K12)	P0AD65	1
+Inosine-5'-monophosphate dehydrogenase - Escherichia coli (strain K12)	P0ADG7	1
+Uncharacterized protein yieE - Escherichia coli (strain K12)	P0ADM8	1
+Uncharacterized protein yigI - Escherichia coli (strain K12)	P0ADP2	1
+Uncharacterized protein yiiD - Escherichia coli (strain K12)	P0ADQ2	1
+Uncharacterized protein ygaM - Escherichia coli (strain K12)	P0ADQ7	1
+Uncharacterized protein ygiM precursor - Escherichia coli (strain K12)	P0ADT8	1
+Putative cytochrome d ubiquinol oxidase subunit 3 - Escherichia coli (strain K12)	P0ADW3	1
+Peptidyl-prolyl cis-trans isomerase D - Escherichia coli (strain K12)	P0ADY1	1
+UPF0092 membrane protein yajC - Escherichia coli (strain K12)	P0ADZ7	1
+Aerobic respiration control sensor protein arcB - Escherichia coli (strain K12)	P0AEC3	1
+Protein elaB - Escherichia coli (strain K12)	P0AEH5	1
+Osmolarity sensor protein envZ - Escherichia coli (strain K12)	P0AEJ4	1
+Cell division protein ftsL - Escherichia coli (strain K12)	P0AEN4	1
+UTP--glucose-1-phosphate uridylyltransferase - Escherichia coli (strain K12)	P0AEP3	1
+Chemotaxis protein motB - Escherichia coli (strain K12)	P0AF06	1
+N-acetylglucosamine repressor - Escherichia coli (strain K12)	P0AF20	1
+Nitrate/nitrite sensor protein narX - Escherichia coli (strain K12)	P0AFA2	1
+NADH-quinone oxidoreductase subunit B - Escherichia coli (strain K12)	P0AFC7	1
+Pyruvate dehydrogenase E1 component - Escherichia coli (strain K12)	P0AFG8	1
+Phage shock protein B - Escherichia coli (strain K12)	P0AFM9	1
+Uncharacterized metalloprotease yebA precursor - Escherichia coli (strain K12)	P0AFS9	1
+Sigma-E factor negative regulatory protein - Escherichia coli (strain K12)	P0AFX7	1
+Probable protease sohB - Escherichia coli (strain K12)	P0AG14	1
+Uncharacterized protein yibN - Escherichia coli (strain K12)	P0AG27	1
+Phosphoserine phosphatase - Escherichia coli (strain K12)	P0AGB0	1
+Protein smp precursor - Escherichia coli (strain K12)	P0AGC7	1
+Threonine dehydratase catabolic - Escherichia coli (strain K12)	P0AGF6	1
+Ribosomal RNA small subunit methyltransferase E - Escherichia coli (strain K12)	P0AGL7	1
+Protein sirB1 - Escherichia coli (strain K12)	P0AGM5	1
+Peroxiredoxin osmC - Escherichia coli (strain K12)	P0C0L2	1
+Protein damX - Escherichia coli (strain K12)	P11557	1
+Arginyl-tRNA synthetase - Escherichia coli (strain K12)	P11875	1
+Uridine phosphorylase - Escherichia coli (strain K12)	P12758	1
+Biotin synthase - Escherichia coli (strain K12)	P12996	1
+Dethiobiotin synthetase - Escherichia coli (strain K12)	P13000	1
+Protein fdhE - Escherichia coli (strain K12)	P13024	1
+Anaerobic glycerol-3-phosphate dehydrogenase subunit B - Escherichia coli (strain K12)	P13033	1
+Uncharacterized protein yhdA - Escherichia coli (strain K12)	P13518	1
+Sensor kinase protein rcsC - Escherichia coli (strain K12)	P14376	1
+Sensor protein zraS - Escherichia coli (strain K12)	P14377	1
+L-serine dehydratase 1 - Escherichia coli (strain K12)	P16095	1
+Formate hydrogenlyase subunit 5 precursor - Escherichia coli (strain K12)	P16431	1
+Rod shape-determining protein mreC - Escherichia coli (strain K12)	P16926	1
+Protein trbI - Escherichia coli (strain K12)	P18006	1
+Sensor protein rstB - Escherichia coli (strain K12)	P18392	1
+Protein tolA - Escherichia coli (strain K12)	P19934	1
+Uncharacterized protein ycaC - Escherichia coli (strain K12)	P21367	1
+Flagellar protein fliO - Escherichia coli (strain K12)	P22586	1
+Uncharacterized protein yifB - Escherichia coli (strain K12)	P22787	1
+Protein malY - Escherichia coli (strain K12)	P23256	1
+Protein fecR - Escherichia coli (strain K12)	P23485	1
+Glycerate kinase 2 - Escherichia coli (strain K12)	P23524	1
+Sensor protein phoQ - Escherichia coli (strain K12)	P23837	1
+DNA mismatch repair protein mutS - Escherichia coli (strain K12)	P23909	1
+Lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase - Escherichia coli (strain K12)	P24205	1
+S-(hydroxymethyl)glutathione dehydrogenase - Escherichia coli (strain K12)	P25437	1
+Protein visC - Escherichia coli (strain K12)	P25535	1
+Flagellar M-ring protein - Escherichia coli (strain K12)	P25798	1
+Uncharacterized zinc-type alcohol dehydrogenase-like protein yjgB - Escherichia coli (strain K12)	P27250	1
+Tetraacyldisaccharide 4'-kinase - Escherichia coli (strain K12)	P27300	1
+Uncharacterized HTH-type transcriptional regulator yfgA - Escherichia coli (strain K12)	P27434	1
+Nitrate/nitrite sensor protein narQ - Escherichia coli (strain K12)	P27896	1
+Uncharacterized protein yhhH - Escherichia coli (strain K12)	P28911	1
+H repeat-associated protein yhhI - Escherichia coli (strain K12)	P28912	1
+H repeat-associated protein ybfD - Escherichia coli (strain K12)	P28916	1
+H repeat-associated protein ydcC - Escherichia coli (strain K12)	P28917	1
+UPF0502 protein yceH - Escherichia coli (strain K12)	P29217	1
+3-isopropylmalate dehydratase small subunit - Escherichia coli (strain K12)	P30126	1
+Thiamine biosynthesis protein thiC - Escherichia coli (strain K12)	P30136	1
+L-serine dehydratase 2 - Escherichia coli (strain K12)	P30744	1
+Sensor protein evgS precursor - Escherichia coli (strain K12)	P30855	1
+Uncharacterized HTH-type transcriptional regulator yafC - Escherichia coli (strain K12)	P30864	1
+Adenine deaminase - Escherichia coli (strain K12)	P31441	1
+ATPase ravA - Escherichia coli (strain K12)	P31473	1
+Crotonobetainyl-CoA:carnitine CoA-transferase - Escherichia coli (strain K12)	P31572	1
+DnaJ-like protein djlA - Escherichia coli (strain K12)	P31680	1
+Uncharacterized protein yfiC - Escherichia coli (strain K12)	P31825	1
+NADH-quinone oxidoreductase subunit F - Escherichia coli (strain K12)	P31979	1
+Uncharacterized protein ydcD - Escherichia coli (strain K12)	P31991	1
+Prophage CP4-57 integrase - Escherichia coli (strain K12)	P32053	1
+Molybdopterin-guanine dinucleotide biosynthesis protein B - Escherichia coli (strain K12)	P32125	1
+Protein fdhD - Escherichia coli (strain K12)	P32177	1
+Uncharacterized protein yjbO - Escherichia coli (strain K12)	P32696	1
+Uncharacterized protein yjcC - Escherichia coli (strain K12)	P32701	1
+Uncharacterized protein yeiN - Escherichia coli (strain K12)	P33025	1
+L-lactate dehydrogenase [cytochrome] - Escherichia coli (strain K12)	P33232	1
+NADH-quinone oxidoreductase subunit C/D - Escherichia coli (strain K12)	P33599	1
+Uncharacterized HTH-type transcriptional regulator yfiE - Escherichia coli (strain K12)	P33634	1
+Putative uncharacterized protein ydbA - Escherichia coli (strain K12)	P33666	1
+Ribosomal RNA small subunit methyltransferase B - Escherichia coli (strain K12)	P36929	1
+Ribonucleoside-diphosphate reductase 2 subunit beta - Escherichia coli (strain K12)	P37146	1
+Protein hokA - Escherichia coli (strain K12)	P37305	1
+Uncharacterized protein ygaF - Escherichia coli (strain K12)	P37339	1
+Uncharacterized protein yhjG - Escherichia coli (strain K12)	P37645	1
+Cyclic di-GMP-binding protein precursor - Escherichia coli (strain K12)	P37652	1
+Glucose-1-phosphate thymidylyltransferase 1 - Escherichia coli (strain K12)	P37744	1
+UDP-galactopyranose mutase - Escherichia coli (strain K12)	P37747	1
+Uncharacterized HTH-type transcriptional regulator yfhH - Escherichia coli (strain K12)	P37767	1
+Oxygen-insensitive NAD(P)H nitroreductase - Escherichia coli (strain K12)	P38489	1
+Uncharacterized exonuclease xni - Escherichia coli (strain K12)	P38506	1
+Uncharacterized protein yjfM - Escherichia coli (strain K12)	P39295	1
+Uncharacterized protein ytfB - Escherichia coli (strain K12)	P39310	1
+Uncharacterized protein yjgR - Escherichia coli (strain K12)	P39342	1
+L-idonate 5-dehydrogenase - Escherichia coli (strain K12)	P39346	1
+Prophage P4 integrase - Escherichia coli (strain K12)	P39347	1
+UPF0141 protein yjgX precursor - Escherichia coli (strain K12)	P39349	1
+Uncharacterized zinc-type alcohol dehydrogenase-like protein yjjN - Escherichia coli (strain K12)	P39400	1
+Alcohol dehydrogenase, propanol-preferring - Escherichia coli (strain K12)	P39451	1
+Sensor-like histidine kinase yojN - Escherichia coli (strain K12)	P39838	1
+Sensor protein qseC - Escherichia coli (strain K12)	P40719	1
+N-methyl-L-tryptophan oxidase - Escherichia coli (strain K12)	P40874	1
+L-serine dehydratase tdcG - Escherichia coli (strain K12)	P42630	1
+Uncharacterized Nudix hydrolase nudL - Escherichia coli (strain K12)	P43337	1
+Uncharacterized NAD(P)H oxidoreductase ycaK - Escherichia coli (strain K12)	P43340	1
+Paraquat-inducible protein B - Escherichia coli (strain K12)	P43671	1
+Arabinose 5-phosphate isomerase - Escherichia coli (strain K12)	P45395	1
+Putative N-acetylmannosamine kinase - Escherichia coli (strain K12)	P45425	1
+HTH-type transcriptional activator ttdR - Escherichia coli (strain K12)	P45463	1
+1-deoxy-D-xylulose 5-phosphate reductoisomerase - Escherichia coli (strain K12)	P45568	1
+Uncharacterized protein yrfA - Escherichia coli (strain K12)	P45750	1
+Uncharacterized protein yrfB - Escherichia coli (strain K12)	P45751	1
+Probable general secretion pathway protein L - Escherichia coli (strain K12)	P45763	1
+HTH-type transcriptional regulator hexR - Escherichia coli (strain K12)	P46118	1
+Inner membrane protein yfiN - Escherichia coli (strain K12)	P46139	1
+Uncharacterized protein yedJ - Escherichia coli (strain K12)	P46144	1
+Protein mlc - Escherichia coli (strain K12)	P50456	1
+Uncharacterized protein ycjG - Escherichia coli (strain K12)	P51981	1
+Uncharacterized protein yggP - Escherichia coli (strain K12)	P52048	1
+Putative sensor-like histidine kinase yfhK precursor - Escherichia coli (strain K12)	P52101	1
+GMP reductase - Escherichia coli (strain K12)	P60560	1
+Uncharacterized protein ypfJ - Escherichia coli (strain K12)	P64429	1
+Uncharacterized protein yebO - Escherichia coli (strain K12)	P64499	1
+Uncharacterized ATP-binding protein yghR - Escherichia coli (strain K12)	P64572	1
+Uncharacterized protein yqjD - Escherichia coli (strain K12)	P64581	1
+HTH-type transcriptional activator aaeR - Escherichia coli (strain K12)	P67662	1
+ATP synthase C chain - Escherichia coli (strain K12)	P68699	1
+Sec-independent protein translocase protein tatB - Escherichia coli (strain K12)	P69425	1
+Sec-independent protein translocase protein tatA - Escherichia coli (strain K12)	P69428	1
+Formyl-coenzyme A transferase - Escherichia coli (strain K12)	P69902	1
+Ribonucleoside-diphosphate reductase 1 subunit beta - Escherichia coli (strain K12)	P69924	1
+Uncharacterized protein yagP - Escherichia coli (strain K12)	P75684	1
+Zinc-type alcohol dehydrogenase-like protein yahK - Escherichia coli (strain K12)	P75691	1
+Uncharacterized protein ybbV - Escherichia coli (strain K12)	P75711	1
+Citrate lyase alpha chain - Escherichia coli (strain K12)	P75726	1
+2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase - Escherichia coli (strain K12)	P75728	1
+H repeat-associated protein in rhsC-phrB intergenic region - Escherichia coli (strain K12)	P75741	1
+Putative uncharacterized protein yliL - Escherichia coli (strain K12)	P75786	1
+Uncharacterized protein yliE - Escherichia coli (strain K12)	P75800	1
+Threonine-rich inner membrane protein gfcA precursor - Escherichia coli (strain K12)	P75885	1
+Uncharacterized protein ycgG - Escherichia coli (strain K12)	P75995	1
+Probable 3-hydroxybutyryl-CoA dehydrogenase - Escherichia coli (strain K12)	P76083	1
+Uncharacterized protein ydcJ - Escherichia coli (strain K12)	P76097	1
+Putative transposase yncI - Escherichia coli (strain K12)	P76119	1
+Protein ves - Escherichia coli (strain K12)	P76214	1
+Uncharacterized protein yeaJ - Escherichia coli (strain K12)	P76237	1
+Uncharacterized HTH-type transcriptional regulator yeaT - Escherichia coli (strain K12)	P76250	1
+Uncharacterized protein yoaD - Escherichia coli (strain K12)	P76261	1
+Uncharacterized protein yebT - Escherichia coli (strain K12)	P76272	1
+Putative sensor-like histidine kinase yedV - Escherichia coli (strain K12)	P76339	1
+UDP-glucose 6-dehydrogenase - Escherichia coli (strain K12)	P76373	1
+Protein rtn - Escherichia coli (strain K12)	P76446	1
+Phosphohistidine phosphatase sixA - Escherichia coli (strain K12)	P76502	1
+Uncharacterized protein yfdE - Escherichia coli (strain K12)	P76518	1
+UPF0070 protein yfgM - Escherichia coli (strain K12)	P76576	1
+Uncharacterized protein yphH - Escherichia coli (strain K12)	P76586	1
+Uncharacterized HTH-type transcriptional regulator yfeT - Escherichia coli (strain K12)	P77245	1
+Uncharacterized zinc-type alcohol dehydrogenase-like protein ydjJ - Escherichia coli (strain K12)	P77280	1
+Uncharacterized zinc-type alcohol dehydrogenase-like protein ybdR - Escherichia coli (strain K12)	P77316	1
+Hydrogenase-4 component G - Escherichia coli (strain K12)	P77329	1
+Uncharacterized HTH-type transcriptional regulator ycjZ - Escherichia coli (strain K12)	P77333	1
+Uncharacterized J domain-containing protein djlB - Escherichia coli (strain K12)	P77381	1
+Uncharacterized protein ylaB - Escherichia coli (strain K12)	P77473	1
+Sensor kinase cusS - Escherichia coli (strain K12)	P77485	1
+Sensor kinase dpiB - Escherichia coli (strain K12)	P77510	1
+Methylisocitrate lyase - Escherichia coli (strain K12)	P77541	1
+Putative general secretion pathway protein L-type yghE - Escherichia coli (strain K12)	Q46833	1
+Uncharacterized ATP-binding protein yghT - Escherichia coli (strain K12)	Q46844	1
+Uncharacterized protein yqeI - Escherichia coli (strain K12)	Q46942	1
+Uncharacterized protein yqjK - Escherichia coli (strain K12)	Q47710	1
+Uncharacterized protein ymgJ - Escherichia coli (strain K12)	A5A612	1
+Uncharacterized protein yncL - Escherichia coli (strain K12)	A5A615	1
+Uncharacterized protein ydgU - Escherichia coli (strain K12)	A5A617	1
+Uncharacterized protein ynhF - Escherichia coli (strain K12)	A5A618	1
+Uncharacterized protein yojO - Escherichia coli (strain K12)	A5A619	1
+Uncharacterized protein dinQ - Escherichia coli (strain K12)	A5A624	1
+LexA-regulated protein tisB - Escherichia coli (strain K12)	A5A627	1
+Protein pioO - Escherichia coli (strain K12)	P03825	1
+HTH-type transcriptional regulator ilvY - Escherichia coli (strain K12)	P05827	1
+Homoserine O-succinyltransferase - Escherichia coli (strain K12)	P07623	1
+Prepilin peptidase-dependent protein C precursor - Escherichia coli (strain K12)	P08372	1
+Adenylyl-sulfate kinase - Escherichia coli (strain K12)	P0A6J1	1
+Glutathione-regulated potassium-efflux system ancillary protein kefG - Escherichia coli (strain K12)	P0A756	1
+DNA repair protein recO - Escherichia coli (strain K12)	P0A7H3	1
+Universal stress protein B - Escherichia coli (strain K12)	P0A8S5	1
+2-dehydropantoate 2-reductase - Escherichia coli (strain K12)	P0A9J4	1
+Uncharacterized protein ybhT precursor - Escherichia coli (strain K12)	P0AAW9	1
+Uncharacterized protein ychH - Escherichia coli (strain K12)	P0AB49	1
+Thiamine biosynthesis lipoprotein apbE precursor - Escherichia coli (strain K12)	P0AB85	1
+Heme exporter protein D - Escherichia coli (strain K12)	P0ABM5	1
+Uncharacterized GST-like protein yibF - Escherichia coli (strain K12)	P0ACA1	1
+Uncharacterized HTH-type transcriptional regulator ytfH - Escherichia coli (strain K12)	P0ACN2	1
+Uncharacterized protein yhjT - Escherichia coli (strain K12)	P0ADJ5	1
+Sensor protein dcuS - Escherichia coli (strain K12)	P0AEC8	1
+Modulator of drug activity B - Escherichia coli (strain K12)	P0AEY5	1
+Protein srnB - Escherichia coli (strain K12)	P13970	1
+Flagellar regulator flk - Escherichia coli (strain K12)	P15286	1
+Transcriptional activator cadC - Escherichia coli (strain K12)	P23890	1
+Probable manno(fructo)kinase - Escherichia coli (strain K12)	P23917	1
+Protein ydeJ - Escherichia coli (strain K12)	P31131	1
+2-dehydro-3-deoxygalactonokinase - Escherichia coli (strain K12)	P31459	1
+Formate-dependent nitrite reductase complex subunit nrfF precursor - Escherichia coli (strain K12)	P32711	1
+HTH-type transcriptional regulator mlrA - Escherichia coli (strain K12)	P33358	1
+Uncharacterized protein ybbD - Escherichia coli (strain K12)	P33669	1
+Prepilin peptidase-dependent protein D precursor - Escherichia coli (strain K12)	P36647	1
+Putative general secretion pathway protein M - Escherichia coli (strain K12)	P36678	1
+Protein kdpF - Escherichia coli (strain K12)	P36937	1
+Uncharacterized HTH-type transcriptional regulator yhjC - Escherichia coli (strain K12)	P37641	1
+Uncharacterized HTH-type transcriptional regulator yiaU - Escherichia coli (strain K12)	P37682	1
+Starvation-sensing protein rspB - Escherichia coli (strain K12)	P38105	1
+Ferric iron reductase protein fhuF - Escherichia coli (strain K12)	P39405	1
+Sensor protein torS - Escherichia coli (strain K12)	P39453	1
+Putative general secretion pathway protein G precursor - Escherichia coli (strain K12)	P41442	1
+Probable general secretion pathway protein A - Escherichia coli (strain K12)	P45756	1
+Uncharacterized protein ypjK precursor - Escherichia coli (strain K12)	P52134	1
+4-alpha-L-fucosyltransferase - Escherichia coli (strain K12)	P56258	1
+Beta-lactam resistance protein - Escherichia coli (strain K12)	P56976	1
+Stable plasmid inheritance protein - Escherichia coli (strain K12)	P62670	1
+Uncharacterized protein yceO - Escherichia coli (strain K12)	P64442	1
+Uncharacterized protein ynaJ - Escherichia coli (strain K12)	P64445	1
+Uncharacterized protein yhdU - Escherichia coli (strain K12)	P64619	1
+Uncharacterized protein yhdV - Escherichia coli (strain K12)	P64622	1
+Phosphotransferase enzyme IIB component glvB - Escherichia coli (strain K12)	P69789	1
+Hydroxylamine reductase - Escherichia coli (strain K12)	P75825	1
+Thiamine kinase - Escherichia coli (strain K12)	P75948	1
+Inner membrane protein ymfA - Escherichia coli (strain K12)	P75962	1
+Uncharacterized protein ymfR - Escherichia coli (strain K12)	P75979	1
+Uncharacterized protein ycgV - Escherichia coli (strain K12)	P76017	1
+Putative sucrose phosphorylase - Escherichia coli (strain K12)	P76041	1
+Uncharacterized zinc-type alcohol dehydrogenase-like protein ycjQ - Escherichia coli (strain K12)	P76043	1
+Uncharacterized protein yncH - Escherichia coli (strain K12)	P76118	1
+HTH-type transcriptional regulator ydeO - Escherichia coli (strain K12)	P76135	1
+Putativr uncharacterized protein b1500 - Escherichia coli (strain K12)	P76136	1
+Uncharacterized protein ynjA - Escherichia coli (strain K12)	P76222	1
+Uncharacterized protein yoaI - Escherichia coli (strain K12)	P76239	1
+Hydroxyethylthiazole kinase - Escherichia coli (strain K12)	P76423	1
+Uncharacterized protein yfaU - Escherichia coli (strain K12)	P76469	1
+Uncharacterized protein ypfI - Escherichia coli (strain K12)	P76562	1
+Inner membrane protein yqiK - Escherichia coli (strain K12)	P77306	1
+Uncharacterized HTH-type transcriptional regulator yneJ - Escherichia coli (strain K12)	P77309	1
+Uncharacterized J domain-containing protein djlC - Escherichia coli (strain K12)	P77359	1
+Uncharacterized zinc-type alcohol dehydrogenase-like protein yphC - Escherichia coli (strain K12)	P77360	1
+Uncharacterized HTH-type transcriptional regulator ykgD - Escherichia coli (strain K12)	P77379	1
+3-(3-hydroxy-phenyl)propionate hydroxylase - Escherichia coli (strain K12)	P77397	1
+Uncharacterized protein ybdJ - Escherichia coli (strain K12)	P77506	1
+Uncharacterized protein yfhR - Escherichia coli (strain K12)	P77538	1
+Uncharacterized zinc-type alcohol dehydrogenase-like protein ydjL - Escherichia coli (strain K12)	P77539	1
+Putative Rz endopeptidase from lambdoid prophage Rac - Escherichia coli (strain K12)	P77551	1
+Ureidoglycolate dehydrogenase - Escherichia coli (strain K12)	P77555	1
+Uncharacterized protein yagL - Escherichia coli (strain K12)	P77607	1
+Queuosine biosynthesis protein queC - Escherichia coli (strain K12)	P77756	1
+Putative defective transposase ybfQ - Escherichia coli (strain K12)	Q2EEQ8	1
+Uncharacterized protein yniD - Escherichia coli (strain K12)	Q2EES1	1
+UPF0370 protein ypfN - Escherichia coli (strain K12)	Q2EET2	1
+Putative general secretion pathway protein M-type yghD - Escherichia coli (strain K12)	Q46832	1
+Uncharacterized ATP-binding protein yghS - Escherichia coli (strain K12)	Q46843	1
+Putative transposase insO for insertion sequence element IS911B - Escherichia coli (strain K12)	Q47718	1
+Small toxic polypeptide ldrD - Escherichia coli (strain K12)	Q6BF25	1
+Small toxic polypeptide ldrA/ldrC - Escherichia coli (strain K12)	Q6BF86	1
+Small toxic polypeptide ldrB - Escherichia coli (strain K12)	Q6BF87	1
+Uncharacterized membrane protein yuaP - Escherichia coli (strain K12)	Q9JMS4	1
+Transposase insF for insertion sequence IS3fB - Escherichia coli (strain K12)	Q9JMT3	1
+Uncharacterized protein yuaC - Escherichia coli (strain K12)	Q9JMT7	1
+Putative antirestriction protein yubI - Escherichia coli (strain K12)	Q9S4W7	1

@@ -1,0 +1,1 @@
+P77667	P77667	sufA	ydiC	b1684	JW1674	SUFA_ECOLI		Evidence at protein level	HesB/iscA family	Protein sufA	"GO:0051537; GO:0016226; GO:0042803; GO:0006979; GO:0005198"	"3D-structure; Complete proteome"	122		b1684	ydiC	orf, hypothetical protein	 	1762410	1762042	Chromosome Escherichia coli K12-MG1655	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P77667&sort=score")

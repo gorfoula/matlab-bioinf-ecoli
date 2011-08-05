@@ -1,0 +1,143 @@
+YZGL_ECOLI	C6EFE7_ECOBD		 	B	Uniprot pseudo	YZGL_ECOLI	C6EFE7_ECOBD	B		pseudogene (Uniprot)
+YUBM_ECOLI	C6EJX0_ECOBD		 	A	Plasmid F	YUBM_ECOLI	C6EJX0_ECOBD	A		Plasmid F
+YUAQ_ECOLI	C6EDC0_ECOBD		 	H	Plasmid F	YUAQ_ECOLI	C6EDC0_ECOBD	H		Plasmid F
+YTFA_ECOLI	C6ECD9_ECOBD		 	A	pseudogenes (Uniprot)	YTFA_ECOLI	C6ECD9_ECOBD	A		pseudogene (Uniprot) 
+YRHA_ECOLI	C6EFD1_ECOBD		 	A	pseudogenes (Uniprot)	YRHA_ECOLI	C6EFD1_ECOBD	A		pseudogene (Uniprot) 
+YQGD_ECOLI	C6EIH0_ECOBD		 	B	pseudogene (EcoGene)	YQGD_ECOLI	C6EIH0_ECOBD	B		pseudogene (Ecogene)
+YQFE_ECOLI	C6EIJ4_ECOBD		 	A	pseudogenes (Uniprot)	YQFE_ECOLI	C6EIJ4_ECOBD	A		pseudogene (Uniprot) 
+YOEA_ECOLI	C6EB78_ECOBD		 	H	Uniprot pseudo	YOEA_ECOLI	C6EB78_ECOBD	H		pseudogene (Uniprot)
+YNFO_ECOLI	C6EKD3_ECOBD		 	A	Prophage Integrase (EcoGene) 	YNFO_ECOLI	C6EKD3_ECOBD	A		Prophage Integrase (EcoGene)
+YNEL_ECOLI	C6EEL2_ECOBD		 	A	Uniprot pseudo	YNEL_ECOLI	C6EEL2_ECOBD	A		pseudogene (Uniprot)
+YNEF_ECOLI	C6EDW7_ECOBD		 	B	pseudogenes (Ohman 2006) 	YNEF_ECOLI	C6EDW7_ECOBD	B		"pseudogene (Ohman 2006) ; "
+YNAK_ECOLI	C6EFM1_ECOBD		 	A	Prophage Integrase (EcoGene) 	YNAK_ECOLI	C6EFM1_ECOBD	A		Prophage Integrase (EcoGene)
+YMJC_ECOLI	C6EFQ5_ECOBD		 	A	Uniprot pseudo	YMJC_ECOLI	C6EFQ5_ECOBD	A		pseudogene (Uniprot)
+YMFK_ECOLI	C6EJG9_ECOBD		 	A	Prophage Integrase (EcoGene) 	YMFK_ECOLI	C6EJG9_ECOBD	A		Prophage Integrase (EcoGene)
+YLCH_ECOLI	C6EKE6_ECOBD		 	A	Prophage Integrase (EcoGene) 	YLCH_ECOLI	C6EKE6_ECOBD	A		Prophage Integrase (EcoGene)
+YLCG_ECOLI	C6EKE1_ECOBD		 	A	Prophage Integrase (EcoGene) 	YLCG_ECOLI	C6EKE1_ECOBD	A		Prophage Integrase (EcoGene)
+YLBH_ECOLI	C6EKW5_ECOBD		 	A	"Uniprot pseudo;Rhs Element"	YLBH_ECOLI	C6EKW5_ECOBD	A		"pseudogene (Uniprot);Rhs Element"
+YLBG_ECOLI	C6EKW3_ECOBD		 	A	Uniprot pseudo	YLBG_ECOLI	C6EKW3_ECOBD	A		pseudogene (Uniprot)
+YKGN_ECOLI	C6EDB9_ECOBD		 	A	"Uniprot pseudo;Transposase"	YKGN_ECOLI	C6EDB9_ECOBD	A		"pseudogene (Uniprot);Transposase"
+YKGA_ECOLI	C6ELT0_ECOBD		 	A	Uniprot pseudo	YKGA_ECOLI	C6ELT0_ECOBD	A		pseudogene (Uniprot)
+YKFJ_ECOLI	C6EA52_ECOBD		 	A	pseudogenes (Uniprot)	YKFJ_ECOLI	C6EA52_ECOBD	A		pseudogene (Uniprot) 
+YJHD_ECOLI	C6EC76_ECOBD		 	A	pseudogenes (Uniprot)	YJHD_ECOLI	C6EC76_ECOBD	A		pseudogene (Uniprot) 
+YJBI_ECOLI	C6EDY2_ECOBD		 	A	pseudogenes (Uniprot)	YJBI_ECOLI	C6EDY2_ECOBD	A		pseudogene (Uniprot) 
+YIIE_ECOLI	C6EF11_ECOBD		 	A	pseudogenes (Ohman 2006)	YIIE_ECOLI	C6EF11_ECOBD	A		pseudogene (Ohman 2006)
+YIGE_ECOLI	C6EFZ9_ECOBD		 	G	pseudogenes (Ohman 2006)	YIGE_ECOLI	C6EFZ9_ECOBD	G		pseudogene (Ohman 2006)
+YIGB_ECOLI	C6EG02_ECOBD		Common Core 	A	Prophage Integrase	YIGB_ECOLI	C6EG02_ECOBD	A		Prophage Integrase
+YIBV_ECOLI	C6EDJ6_ECOBD		 	A	pseudogenes (Uniprot)	YIBV_ECOLI	C6EDJ6_ECOBD	A		pseudogene (Uniprot) 
+YHJQ_ECOLI	C6EEE9_ECOBD		 	A	pseudogenes (Uniprot)	YHJQ_ECOLI	C6EEE9_ECOBD	A		pseudogene (Uniprot) 
+YHIS_ECOLI	C6EEI0_ECOBD		 	A	pseudogenes (Uniprot)	YHIS_ECOLI	C6EEI0_ECOBD	A		pseudogene (Uniprot) 
+YHHI_ECOLI	C6EEK0_ECOBD		 	B	"Transposase;Rhs Element"	YHHI_ECOLI	C6EEK0_ECOBD	B		"Transposase;Rhs Element"
+YHDW_ECOLI	C6EGJ1_ECOBD		 	G	pseudogenes (Uniprot)	YHDW_ECOLI	C6EGJ1_ECOBD	G		pseudogene (Uniprot) 
+YHAM_ECOLI	C6EHB4_ECOBD		 	B	pseudogenes (Ohman 2006) 	YHAM_ECOLI	C6EHB4_ECOBD	B		pseudogene (Ohman 2006) 
+YGHX_ECOLI	C6EHZ2_ECOBD		 	A	Uniprot pseudo	YGHX_ECOLI	C6EHZ2_ECOBD	A		"pseudogene (Uniprot);"
+YGHO_ECOLI	C6EIC9_ECOBD		 	A	pseudogenes (Uniprot)	YGHO_ECOLI	C6EIC9_ECOBD	A		pseudogene (Uniprot) 
+YGHE_ECOLI	C6EIE1_ECOBD		 	B	pseudogenes (Uniprot)	YGHE_ECOLI	C6EIE1_ECOBD	B		pseudogene (Uniprot) 
+YGGP_ECOLI	C6EIH8_ECOBD		 	B	pseudogenes (Ohman 2006) 	YGGP_ECOLI	C6EIH8_ECOBD	B		pseudogene (Ohman 2006) 
+YGFQ_ECOLI	C6EIM4_ECOBD		 	B	pseudogenes (Ohman 2006)	YGFQ_ECOLI	C6EIM4_ECOBD	B		pseudogene (Ohman 2006)
+YGEQ_ECOLI	C6EIP4_ECOBD		 	G	Uniprot pseudo	YGEQ_ECOLI	C6EIP4_ECOBD	G		pseudogene (Uniprot)
+YGCU_ECOLI	C6EJA0_ECOBD		 	A	pseudogenes (Ohman 2006)	YGCU_ECOLI	C6EJA0_ECOBD	A		pseudogene (Ohman 2006)
+YGAY_ECOLI	C6EJU5_ECOBD		 	B	Uniprot pseudo	YGAY_ECOLI	C6EJU5_ECOBD	B		pseudogene (Uniprot)
+YFJV_ECOLI	C6EEI2_ECOBD		 	B	pseudogenes (Uniprot)	YFJV_ECOLI	C6EEI2_ECOBD	B		pseudogene (Uniprot) 
+YFCI_ECOLI	C6ELE8_ECOBD		 	A	Transposase	YFCI_ECOLI	C6ELE8_ECOBD	A		Transposase
+YFAH_ECOLI	C6E9W3_ECOBD		 	A	pseudogenes (Uniprot)	YFAH_ECOLI	C6E9W3_ECOBD	A		pseudogene (Uniprot) 
+YFAD_ECOLI	C6E9V6_ECOBD		Common Core 	A	Transposase 	YFAD_ECOLI	C6E9V6_ECOBD	A		Transposase 
+YEJO_ECOLI	C6EA08_ECOBD		 	H	Uniprot pseudo	YEJO_ECOLI	C6EA08_ECOBD	H		"pseudogene (Uniprot);Insertion Sequence;Insertion Element "
+YEHQ_ECOLI	C6EAJ0_ECOBD		 	A	pseudogenes (Uniprot)	YEHQ_ECOLI	C6EAJ0_ECOBD	A		pseudogene (Uniprot) 
+YEEW_ECOLI	C6EDB6_ECOBD		 	A	pseudogenes (Uniprot)	YEEW_ECOLI	C6EDB6_ECOBD	A		pseudogene (Uniprot) 
+YEEV_ECOLI	C6EDB7_ECOBD		 	A	Prophage Integrase (EcoGene) 	YEEV_ECOLI	C6EDB7_ECOBD	A		Prophage Integrase (EcoGene)
+YEEN_ECOLI	C6EB86_ECOBD		Common Core 	A	Prophage Integrase	YEEN_ECOLI	C6EB86_ECOBD	A		Prophage Integrase
+YEBC_ECOLI	C6EBW3_ECOBD		Common Core 	A	Prophage Integrase	YEBC_ECOLI	C6EBW3_ECOBD	A		Prophage Integrase
+YDFX_ECOLI	C6EDS6_ECOBD		 	A	Uniprot pseudo	YDFX_ECOLI	C6EDS6_ECOBD	A		pseudogene (Uniprot)
+YDFU_ECOLI	C6EDT2_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDFU_ECOLI	C6EDT2_ECOBD	A		Prophage Integrase (EcoGene)
+YDFR_ECOLI	C6EFM6_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDFR_ECOLI	C6EFM6_ECOBD	A		Prophage Integrase (EcoGene)
+YDFK_ECOLI	C6EDU2_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDFK_ECOLI	C6EDU2_ECOBD	A		Prophage Integrase (EcoGene)
+YDFJ_ECOLI	C6EDU3_ECOBD		 	B	Uniprot pseudo	YDFJ_ECOLI	C6EDU3_ECOBD	B		pseudogene (Uniprot)
+YDFD_ECOLI	C6EDS0_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDFD_ECOLI	C6EDS0_ECOBD	A		Prophage Integrase (EcoGene)
+YDEK_ECOLI	C6EEK8_ECOBD		 	E	pseudogenes (Uniprot)	YDEK_ECOLI	C6EEK8_ECOBD	E		pseudogene (Uniprot) 
+YDCC_ECOLI	C6EEQ4_ECOBD		 	B	"Transposase;Rhs Element"	YDCC_ECOLI	C6EEQ4_ECOBD	B		"Transposase;Rhs Element"
+YDAG_ECOLI	C6EFM8_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDAG_ECOLI	C6EFM8_ECOBD	A		Prophage Integrase (EcoGene)
+YDAF_ECOLI	C6EFM9_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDAF_ECOLI	C6EFM9_ECOBD	A		Prophage Integrase (EcoGene)
+YDAE_ECOLI	C6EFN2_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDAE_ECOLI	C6EFN2_ECOBD	A		Prophage Integrase (EcoGene)
+YDAC_ECOLI	C6EFN5_ECOBD		 	A	Prophage Integrase (EcoGene) 	YDAC_ECOLI	C6EFN5_ECOBD	A		Prophage Integrase (EcoGene)
+YCJV_ECOLI	C6EFR4_ECOBD		 	F1	Uniprot pseudo	YCJV_ECOLI	C6EFR4_ECOBD	F1		pseudogene (Uniprot)
+YBFG_ECOLI	C6EJP4_ECOBD		 	A	pseudogenes (Uniprot)	YBFG_ECOLI	C6EJP4_ECOBD	A		pseudogene (Uniprot) 
+YBFD_ECOLI	C6EJN2_ECOBD		 	B	"pseudogenes (Ohman 2006);Transposase;Rhs Element"	YBFD_ECOLI	C6EJN2_ECOBD	B		"pseudogene (Ohman 2006);Transposase;Rhs Element"
+YBEM_ECOLI	C6EK67_ECOBD		 	A	pseudogenes (Uniprot)	YBEM_ECOLI	C6EK67_ECOBD	A		pseudogene (Uniprot) 
+YBCW_ECOLI	C6EJF6_ECOBD		 	A	Prophage Integrase (EcoGene) 	YBCW_ECOLI	C6EJF6_ECOBD	A		Prophage Integrase (EcoGene)
+YBCV_ECOLI	C6EJF7_ECOBD		 	A	Prophage Integrase (EcoGene) 	YBCV_ECOLI	C6EJF7_ECOBD	A		Prophage Integrase (EcoGene)
+YBCO_ECOLI	C6EKE3_ECOBD		 	A	Prophage Integrase (EcoGene) 	YBCO_ECOLI	C6EKE3_ECOBD	A		Prophage Integrase (EcoGene)
+YBCN_ECOLI	C6EKE5_ECOBD		 	A	Prophage Integrase (EcoGene) 	YBCN_ECOLI	C6EKE5_ECOBD	A		Prophage Integrase (EcoGene)
+YBCM_ECOLI	C6EKE7_ECOBD		 	A	Prophage Integrase (EcoGene) 	YBCM_ECOLI	C6EKE7_ECOBD	A		Prophage Integrase (EcoGene)
+YBCL_ECOLI	C6EKE8_ECOBD		 	G	Prophage Integrase (EcoGene) 	YBCL_ECOLI	C6EKE8_ECOBD	G		Prophage Integrase (EcoGene)
+YBCK_ECOLI	C6EKE9_ECOBD		 	A	Prophage Integrase (EcoGene) 	YBCK_ECOLI	C6EKE9_ECOBD	A		Prophage Integrase (EcoGene)
+YBCC_ECOLI	C6EJH7_ECOBD		 	A	Uniprot pseudo	YBCC_ECOLI	C6EJH7_ECOBD	A		pseudogene (Uniprot)
+YBBD_ECOLI	C6EKW4_ECOBD		 	B	pseudogenes (Uniprot)	YBBD_ECOLI	C6EKW4_ECOBD	B		pseudogene (Uniprot) 
+YAIT_ECOLI	C6ELL4_ECOBD		 	H	pseudogenes (Uniprot)	YAIT_ECOLI	C6ELL4_ECOBD	H		pseudogene (Uniprot) 
+YAHH_ECOLI	C6ELQ8_ECOBD		 	B	pseudogenes (Ecogene/Uniprot)	YAHH_ECOLI	C6ELQ8_ECOBD	B		pseudogene (Ecogene/Uniprot)
+YAGP_ECOLI	C6EA41_ECOBD		 	B	pseudogenes (Uniprot)	YAGP_ECOLI	C6EA41_ECOBD	B		pseudogene (Uniprot) 
+YAGI_ECOLI	C6EF65_ECOBD		 	A	Prophage Integrase (EcoGene) 	YAGI_ECOLI	C6EF65_ECOBD	A		Prophage Integrase (EcoGene)
+YADD_ECOLI	C6EAS5_ECOBD		Common Core 	A	Transposase	YADD_ECOLI	C6EAS5_ECOBD	A		Transposase
+Y4286_ECOLI	C6EC70_ECOBD		 	A	Uniprot pseudo	Y4286_ECOLI	C6EC70_ECOBD	A		pseudogene (Uniprot)
+XERD_ECOLI	C6EIL4_ECOBD	Cytoplasm. 	Common Core 	A	Prophage transposase	XERD_ECOLI	C6EIL4_ECOBD	A		Prophage transposase
+XERC_ECOLI	C6EG03_ECOBD	Cytoplasm. 	Common Core 	A	Prophage transposase	XERC_ECOLI	C6EG03_ECOBD	A		Prophage transposase
+TSX_ECOLI	C6ELH3_ECOBD		Common Core 	H	Prophage transposase	TSX_ECOLI	C6ELH3_ECOBD	H		Prophage transposase
+TRKG_ECOLI	C6EFM2_ECOBD		 	B	Prophage Integrase (EcoGene) 	TRKG_ECOLI	C6EFM2_ECOBD	B		Prophage Integrase (EcoGene)
+TFAE_ECOLI	C6EIR2_ECOBD		 	A	Prophage Integrase (EcoGene) 	TFAE_ECOLI	C6EIR2_ECOBD	A		Prophage Integrase (EcoGene)
+TFAD_ECOLI	C6EJF3_ECOBD		 	A	Uniprot pseudo	TFAD_ECOLI	C6EJF3_ECOBD	A		pseudogene (Uniprot)
+STFE_ECOLI	C6EIR1_ECOBD		 	A	Uniprot pseudo	STFE_ECOLI	C6EIR1_ECOBD	A		pseudogene (Uniprot)
+SMP_ECOLI	C6EBI4_ECOBD		Common Core 	B	pseudogenes (Ohman 2006)	SMP_ECOLI	C6EBI4_ECOBD	B		pseudogene (Ohman 2006)
+SMF_ECOLI	C6EGI1_ECOBD		 	A	pseudogenes (Ohman 2006)	SMF_ECOLI	C6EGI1_ECOBD	A		pseudogene (Ohman 2006)
+SIEB_ECOLI	C6EFN0_ECOBD		 	B	Prophage Integrase (EcoGene) 	SIEB_ECOLI	C6EFN0_ECOBD	B		Prophage Integrase (EcoGene)
+RUSA_ECOLI	C6EKE2_ECOBD		 	A	Prophage Integrase (EcoGene) 	RUSA_ECOLI	C6EKE2_ECOBD	A		Prophage Integrase (EcoGene)
+RNPH_ECOLI	C6EDE8_ECOBD		 	A	pseudogenes (Uniprot)	RNPH_ECOLI	C6EDE8_ECOBD	A		pseudogene (Uniprot) 
+RHSD_ECOLI	C6EKW7_ECOBD		 	A	Rhs Element	RHSD_ECOLI	C6EKW7_ECOBD	A		Rhs Element
+RHSB_ECOLI	C6EF92_ECOBD		 	A	Rhs Element	RHSB_ECOLI	C6EF92_ECOBD	A		Rhs Element
+RHSA_ECOLI	C6EE82_ECOBD		 	A	Rhs Element	RHSA_ECOLI	C6EE82_ECOBD	A		Rhs Element
+RFH_ECOLI	C6EA51_ECOBD		 	A	pseudogenes (Uniprot)	RFH_ECOLI	C6EA51_ECOBD	A		pseudogene (Uniprot) 
+REQ2_ECOLI	C6EJG3_ECOBD		 	A	Prophage Integrase (EcoGene) 	REQ2_ECOLI	C6EJG3_ECOBD	A		Prophage Integrase (EcoGene)
+REM_ECOLI	C6EDT0_ECOBD		 	A	Prophage Integrase (EcoGene) 	REM_ECOLI	C6EDT0_ECOBD	A		Prophage Integrase (EcoGene)
+RECT_ECOLI	C6EFN4_ECOBD		 	A	Prophage Integrase (EcoGene) 	RECT_ECOLI	C6EFN4_ECOBD	A		Prophage Integrase (EcoGene)
+RACC_ECOLI	C6EFN3_ECOBD		 	A	Prophage Integrase (EcoGene) 	RACC_ECOLI	C6EFN3_ECOBD	A		Prophage Integrase (EcoGene)
+PTXB_ECOLI	C6ED86_ECOBD		 	B	pseudogenes (Ohman 2006)	PTXB_ECOLI	C6ED86_ECOBD	B		pseudogene (Ohman 2006)
+PSPG_ECOLI	C6EDX0_ECOBD		Common Core 	B	Prophage transposase	PSPG_ECOLI	C6EDX0_ECOBD	B		Prophage transposase
+PSPE_ECOLI	C6EFS4_ECOBD		Common Core 	G	Prophage transposase	PSPE_ECOLI	C6EFS4_ECOBD	G		Prophage transposase
+PSPC_ECOLI	C6EFS6_ECOBD		Common Core 	B	Prophage transposase	PSPC_ECOLI	C6EFS6_ECOBD	B		Prophage transposase
+PSPA_ECOLI	C6EFS8_ECOBD		Common Core 	F1	Prophage transposase	PSPA_ECOLI	C6EFS8_ECOBD	F1		Prophage transposase
+PINR_ECOLI	C6EDU1_ECOBD		 	A	Prophage Integrase (EcoGene) 	PINR_ECOLI	C6EDU1_ECOBD	A		Prophage Integrase (EcoGene)
+PINQ_ECOLI	C6EFL7_ECOBD		 	A	Prophage Integrase (EcoGene) 	PINQ_ECOLI	C6EFL7_ECOBD	A		Prophage Integrase (EcoGene)
+PINE_ECOLI	C6EIR0_ECOBD		 	A	Prophage Integrase (EcoGene) 	PINE_ECOLI	C6EIR0_ECOBD	A		Prophage Integrase (EcoGene)
+OGRK_ECOLI	C6EIQ9_ECOBD		 	A	Prophage Integrase (EcoGene) 	OGRK_ECOLI	C6EIQ9_ECOBD	A		Prophage Integrase (EcoGene)
+NOHA_ECOLI	C6EKD2_ECOBD		 	A	Uniprot pseudo	NOHA_ECOLI	C6EKD2_ECOBD	A		pseudogene (Uniprot)
+NINE_ECOLI	C6EKE4_ECOBD		 	A	Prophage Integrase (EcoGene) 	NINE_ECOLI	C6EKE4_ECOBD	A		Prophage Integrase (EcoGene)
+MOLR_ECOLI	C6EAJ6_ECOBD		 	A	pseudogenes (Uniprot)	MOLR_ECOLI	C6EAJ6_ECOBD	A		pseudogene (Uniprot) 
+MBHA_ECOLI	C6EA57_ECOBD		 	A	Uniprot pseudo	MBHA_ECOLI	C6EA57_ECOBD	A		pseudogene (Uniprot)
+LPRH_ECOLI	C6EG31_ECOBD		 	A	pseudogenes (Ecogene/Uniprot)	LPRH_ECOLI	C6EG31_ECOBD	A		pseudogene (Ecogene/Uniprot)
+LOMR_ECOLI	C6EJ11_ECOBD		 	A	Uniprot pseudo	LOMR_ECOLI	C6EJ11_ECOBD	A		"pseudogene (Uniprot);Insertion Sequence"
+KIL_ECOLI	C6EFN1_ECOBD		 	A	Prophage Integrase (EcoGene) 	KIL_ECOLI	C6EFN1_ECOBD	A		Prophage Integrase (EcoGene)
+INTR_ECOLI	C6EFN7_ECOBD		 	A	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene) "	INTR_ECOLI	C6EFN7_ECOBD	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+INTD_ECOLI	C6EKT0_ECOBD		 	A	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene) "	INTD_ECOLI	C6EKT0_ECOBD	A		"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+INTB_ECOLI	C6EC81_ECOBD		 	B	"Uniprot pseudo;Rhs Element;Prophage Integrase"	INTB_ECOLI	C6EC81_ECOBD	B		"pseudogene (Uniprot);Rhs Element;Prophage Integrase"
+INSJ_ECOLI	C6EEC2_ECOBD		 	A	Insertion Element 	INSJ_ECOLI	C6EEC2_ECOBD	A		Insertion Element 
+INSG_ECOLI	C6EC80_ECOBD		 	B	"Insertion Sequence;Transposase"	INSG_ECOLI	C6EC80_ECOBD	B		"Insertion Sequence;Transposase"
+INSF6_ECOLI	C6EEV7_ECOBD		 	A	"Plasmid F;Insertion Sequence;Transposase"	INSF6_ECOLI	C6EEV7_ECOBD	A		"Plasmid F;Insertion Sequence;Transposase"
+INSF1_ECOLI	C6EC72_ECOBD		 	A	Insertion Sequence	INSF1_ECOLI	C6EC72_ECOBD	A		"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+HOKD_ECOLI	C6EDS9_ECOBD		 	G	Prophage Integrase (EcoGene) 	HOKD_ECOLI	C6EDS9_ECOBD	G		Prophage Integrase (EcoGene)
+HFLK_ECOLI	C6ECH5_ECOBD		Common Core 	B	Prophage transposase	HFLK_ECOLI	C6ECH5_ECOBD	B		Prophage transposase
+GLVG_ECOLI	C6ED87_ECOBD		 	F1	Uniprot pseudo	GLVG_ECOLI	C6ED87_ECOBD	F1		pseudogene (Uniprot)
+FRLC_ECOLI	C6EFK4_ECOBD		 	A	pseudogenes (Ohman 2006)	FRLC_ECOLI	C6EFK4_ECOBD	A		pseudogene (Ohman 2006)
+FLXA_ECOLI	C6EL71_ECOBD		 	A	Prophage Integrase (EcoGene) 	FLXA_ECOLI	C6EL71_ECOBD	A		Prophage Integrase (EcoGene)
+FLGD_ECOLI	C6EHD8_ECOBD		 	F4	pseudogenes (Ohman 2006) 	FLGD_ECOLI	C6EHD8_ECOBD	F4		pseudogene (Ohman 2006) 
+FIME_ECOLI	C6EBS0_ECOBD		 	A	Prophage Integrase	FIME_ECOLI	C6EBS0_ECOBD	A		Prophage Integrase
+FHIA_ECOLI	C6EA58_ECOBD		 	B	pseudogenes (Uniprot)	FHIA_ECOLI	C6EA58_ECOBD	B		pseudogene (Uniprot) 
+ESSD_ECOLI	C6EFM7_ECOBD		 	B	Prophage Integrase (EcoGene) 	ESSD_ECOLI	C6EFM7_ECOBD	B		Prophage Integrase (EcoGene)
+EMRE_ECOLI	C6EKS5_ECOBD	"Membrane; Multi-pass membrane protein. "	 	B	Prophage Integrase (EcoGene) 	EMRE_ECOLI	C6EKS5_ECOBD	B		Prophage Integrase (EcoGene)
+EFEU_ECOLI	C6EHJ0_ECOBD		 	B	pseudogenes (Uniprot)	EFEU_ECOLI	C6EHJ0_ECOBD	B		pseudogene (Uniprot) 
+EAEH_ECOLI	C6ELT1_ECOBD		 	H	pseudogenes (Uniprot)	EAEH_ECOLI	C6ELT1_ECOBD	H		pseudogene (Uniprot) 
+DICC_ECOLI	C6EDS5_ECOBD		 	A	"Prophage Integrase (EcoGene);homolog to C6EJG8"	DICC_ECOLI	C6EDS5_ECOBD	A		Prophage Integrase (EcoGene)
+DICB_ECOLI	C6EDS1_ECOBD		 	A	Prophage Integrase (EcoGene) 	DICB_ECOLI	C6EDS1_ECOBD	A		Prophage Integrase (EcoGene)
+DICA_ECOLI	C6EDS4_ECOBD		 	A	Prophage Integrase (EcoGene) 	DICA_ECOLI	C6EDS4_ECOBD	A		Prophage Integrase (EcoGene)
+BORD_ECOLI	C6EJF8_ECOBD		 	I	"Prophage Integrase (EcoGene);homolog to C6EKD4"	BORD_ECOLI	C6EJF8_ECOBD	I		Prophage Integrase (EcoGene)
+ARSR_ECOLI	C6EEI3_ECOBD		 	A	pseudogenes (Ohman 2006)	ARSR_ECOLI	C6EEI3_ECOBD	A		pseudogene (Ohman 2006)
+AGAA_ECOLI	C6EH90_ECOBD		 	A	pseudogenes (Uniprot)	AGAA_ECOLI	C6EH90_ECOBD	A		pseudogene (Uniprot) 
+AG43_ECOLI	C6EDI7_ECOBD		 	H	Prophage Integrase (EcoGene) 	AG43_ECOLI	C6EDI7_ECOBD	H		Prophage Integrase (EcoGene)

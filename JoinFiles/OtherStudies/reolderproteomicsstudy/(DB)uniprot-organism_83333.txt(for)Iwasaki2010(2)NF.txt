@@ -1,0 +1,2 @@
+JW2102	JW2102	molR			0	-0,306	0	0	2	27	=HYPERLINK("http://www.uniprot.org/uniprot/?query=JW2102&sort=score")
+JW5173	JW5173	icdC	conserved protein (pseudogene)	GO:0005737 cytoplasm		0,048	1	0	1	84	=HYPERLINK("http://www.uniprot.org/uniprot/?query=JW5173&sort=score")

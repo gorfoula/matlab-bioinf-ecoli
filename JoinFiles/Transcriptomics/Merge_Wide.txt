@@ -1,0 +1,10 @@
+JoinFiles/k12/TableS3_K12_ProteomeV13_BasicProteome_3900.txt	1	2	5	1
+JoinFiles/OtherStudies/Notepad Lists/Gevaert2002.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/Taoka2004.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/Arifuzzaman2006.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/Ji2006.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/Iwasaki2009.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/Masuda2009.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/Iwasaki2010.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/Thein2010.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/OurStudy_Feb2011_Common.txt	1	1

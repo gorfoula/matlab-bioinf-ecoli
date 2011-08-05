@@ -1,0 +1,532 @@
+Locus	Gene Symbol	Common Name	EC Number	5' End	3' End	DNA molecule	
+b0001	thrL	thr operon leader Peptide	 	190	255	Chromosome Escherichia coli K12-MG1655	
+b0005	 	orf, hypothetical protein	 	5234	5530	Chromosome Escherichia coli K12-MG1655	
+b0011	 	putative oxidoreductase	 	11356	10643	Chromosome Escherichia coli K12-MG1655	
+b0012	htgA	positive regulator for sigma 32 heat shock promoters	 	10725	11315	Chromosome Escherichia coli K12-MG1655	
+b0015	dnaJ	chaperone with DnaK; heat shock protein	 	14168	15298	Chromosome Escherichia coli K12-MG1655	
+b0019	nhaA	Na+/H antiporter, pH dependent	 	17489	18655	Chromosome Escherichia coli K12-MG1655	
+b0047	kefC	K+ efflux antiporter, glutathione-regulated	 	47769	49631	Chromosome Escherichia coli K12-MG1655	
+b0055	yabH	putative DNA binding protein	 	57364	58179	Chromosome Escherichia coli K12-MG1655	
+b0057	yabQ	orf, hypothetical protein	 	59121	59279	Chromosome Escherichia coli K12-MG1655	
+b0067	yabK	putative transport system permease protein	 	74521	72911	Chromosome Escherichia coli K12-MG1655	
+b0083	ftsL	cell division protein; ingrowth of wall at septum	 	91032	91397	Chromosome Escherichia coli K12-MG1655	
+b0089	ftsW	cell division; membrane protein involved in shape determination	 	98403	99647	Chromosome Escherichia coli K12-MG1655	
+b0095	ftsZ	cell division; forms circumferential ring; tubulin-like GTP-binding protein and GTPase	 	105305	106456	Chromosome Escherichia coli K12-MG1655	
+b0115	aceF	pyruvate dehydrogenase (dihydrolipoyltransacetylase component)	2.3.1.12	125695	127587	Chromosome Escherichia coli K12-MG1655	
+b0117	yacH	putative membrane protein	 	131260	129407	Chromosome Escherichia coli K12-MG1655	
+b0128	yadH	orf, hypothetical protein	 	143702	144472	Chromosome Escherichia coli K12-MG1655	
+b0137	yadL	putative fimbrial protein	 	152231	151626	Chromosome Escherichia coli K12-MG1655	
+b0149	mrcB	peptidoglycan synthetase; penicillin-binding protein 1B	 	164730	167264	Chromosome Escherichia coli K12-MG1655	
+b0153	fhuB	hydroxamate-dependent iron uptake, cytoplasmic membrane component	 	171462	173444	Chromosome Escherichia coli K12-MG1655	
+b0155	yadQ	putative channel transporter	 	175107	176528	Chromosome Escherichia coli K12-MG1655	
+b0157	yadS	orf, hypothetical protein	 	177624	177001	Chromosome Escherichia coli K12-MG1655	
+b0161	htrA	periplasmic serine protease Do; heat shock protein HtrA	3.4.21.-	180884	182308	Chromosome Escherichia coli K12-MG1655	
+b0178	hlpA	histone-like protein, located in outer membrane or nucleoid	 	200482	200967	Chromosome Escherichia coli K12-MG1655	
+b0185	accA	acetylCoA carboxylase, carboxytransferase component, alpha subunit	6.4.1.2	208621	209580	Chromosome Escherichia coli K12-MG1655	
+b0187	yaeR	orf, hypothetical protein	 	211850	212266	Chromosome Escherichia coli K12-MG1655	
+b0188	mesJ	cell cycle protein	 	212331	213629	Chromosome Escherichia coli K12-MG1655	
+b0196	rcsF	regulator in colanic acid synthesis; interacts with RcsB	 	219995	219591	Chromosome Escherichia coli K12-MG1655	
+b0198	yaeE	putative transport system permease protein	 	221621	220968	Chromosome Escherichia coli K12-MG1655	
+b0218	yafU	orf, hypothetical protein	 	239084	238746	Chromosome Escherichia coli K12-MG1655	
+b0240	crl	transcriptional regulator of cryptic csgA gene for curli surface fibers	 	257829	258230	Chromosome Escherichia coli K12-MG1655	
+b0272	yagI	putative regulator	 	288386	287628	Chromosome Escherichia coli K12-MG1655	
+b0280	yagN	orf, hypothetical protein	 	294803	294363	Chromosome Escherichia coli K12-MG1655	
+b0353	mhpT	putative transport protein	 	374638	375894	Chromosome Escherichia coli K12-MG1655	
+b0384	psiF	induced by phosphate starvation	 	402487	402825	Chromosome Escherichia coli K12-MG1655	
+b0396	araJ	involved in either transport or processing of arabinose polymers	 	411705	410521	Chromosome Escherichia coli K12-MG1655	
+b0397	sbcC	ATP-dependent dsDNA exonuclease	 	414977	411831	Chromosome Escherichia coli K12-MG1655	
+b0402	proY	proline permease transport protein	 	420210	421583	Chromosome Escherichia coli K12-MG1655	
+b0433	ampG	regulates beta-lactamase synthesis	 	452769	451294	Chromosome Escherichia coli K12-MG1655	
+b0440	hupB	DNA-binding protein HU-beta, NS1 (HU-1)	 	460675	460947	Chromosome Escherichia coli K12-MG1655	
+b0442	ybaV	orf, hypothetical protein	 	463161	463532	Chromosome Escherichia coli K12-MG1655	
+b0451	amtB	probable ammonium transporter	 	472190	473476	Chromosome Escherichia coli K12-MG1655	
+b0453	ybaY	glycoprotein/polysaccharide metabolism	 	474603	475175	Chromosome Escherichia coli K12-MG1655	
+b0463	acrA	acridine efflux pump	 	484843	483650	Chromosome Escherichia coli K12-MG1655	
+b0468	ybaN	putative gene 58	 	490106	490483	Chromosome Escherichia coli K12-MG1655	
+b0471	ybaB	orf, hypothetical protein	 	493300	493629	Chromosome Escherichia coli K12-MG1655	
+b0478	ybaL	putative transport protein	 	502462	500786	Chromosome Escherichia coli K12-MG1655	
+b0479	fsr	fosmidomycin resistance protein	 	503920	502700	Chromosome Escherichia coli K12-MG1655	
+b0486	ybaT	putative amino acid/amine transport protein	 	511800	513092	Chromosome Escherichia coli K12-MG1655	
+b0488	ybbJ	orf, hypothetical protein	 	514080	513625	Chromosome Escherichia coli K12-MG1655	
+b0496	ybbP	putative oxidoreductase	 	519640	522054	Chromosome Escherichia coli K12-MG1655	
+b0498	ybbC	orf, hypothetical protein	 	526805	527173	Chromosome Escherichia coli K12-MG1655	
+b0500	ybbD	orf, hypothetical protein	 	527864	528124	Chromosome Escherichia coli K12-MG1655	
+b0510	ybbV	orf, hypothetical protein	 	536720	536998	Chromosome Escherichia coli K12-MG1655	
+b0511	ybbW	putative transport protein	 	536998	538311	Chromosome Escherichia coli K12-MG1655	
+b0523	purE	phosphoribosylaminoimidazole carboxylase = AIR carboxylase, catalytic subunit	 	552323	551814	Chromosome Escherichia coli K12-MG1655	
+b0530	sfmA	putative fimbrial-like protein	 	557402	557977	Chromosome Escherichia coli K12-MG1655	
+b0570	ybcZ	putative 2-component sensor protein	 	593993	592551	Chromosome Escherichia coli K12-MG1655	
+b0583	entD	enterochelin synthetase, component D	 	609311	608682	Chromosome Escherichia coli K12-MG1655	
+b0589	fepG	ferric enterobactin transport protein	 	620411	619419	Chromosome Escherichia coli K12-MG1655	
+b0590	fepD	ferric enterobactin (enterochelin) transport	 	621412	620408	Chromosome Escherichia coli K12-MG1655	
+b0591	ybdA	putative transport	 	621523	622773	Chromosome Escherichia coli K12-MG1655	
+b0596	entA	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase, enterochelin biosynthesis	1.3.1.28	627774	628520	Chromosome Escherichia coli K12-MG1655	
+b0617	citD	citrate lyase acyl carrier protein (gamma chain)	 	650006	649710	Chromosome Escherichia coli K12-MG1655	
+b0621	dcuC	transport of dicarboxylates	 	655191	653806	Chromosome Escherichia coli K12-MG1655	
+b0625	ybeH	orf, hypothetical protein	 	657254	657481	Chromosome Escherichia coli K12-MG1655	
+b0627	ybeC	orf, hypothetical protein	 	658170	658373	Chromosome Escherichia coli K12-MG1655	
+b0633	rlpA	a minor lipoprotein	 	664413	663325	Chromosome Escherichia coli K12-MG1655	
+b0634	mrdB	rod shape-determining membrane protein; sensitivity to radiation and drugs	 	665536	664424	Chromosome Escherichia coli K12-MG1655	
+b0641	rlpB	a minor lipoprotein	 	671409	670828	Chromosome Escherichia coli K12-MG1655	
+b0659	ybeY	orf, hypothetical protein	 	691564	691097	Chromosome Escherichia coli K12-MG1655	
+b0679	nagE	PTS system, N-acetylglucosamine-specific enzyme IIABC	 	703167	705113	Chromosome Escherichia coli K12-MG1655	
+b0685	ybfE	orf, hypothetical protein	 	711190	710828	Chromosome Escherichia coli K12-MG1655	
+b0729	sucD	succinyl-CoA synthetase, alpha subunit	6.2.1.5	763403	764272	Chromosome Escherichia coli K12-MG1655	
+b0731	hrsA	protein modification enzyme, induction of ompC	2.7.1.69	765207	767183	Chromosome Escherichia coli K12-MG1655	
+b0739	tolA	membrane spanning protein, required for outer membrane integrity	 	775565	776830	Chromosome Escherichia coli K12-MG1655	
+b0753	 	putative homeobox protein	 	784540	784160	Chromosome Escherichia coli K12-MG1655	
+b0762	 	orf, hypothetical protein	 	793996	794145	Chromosome Escherichia coli K12-MG1655	
+b0764	modB	molybdate transport permease protein	 	795085	795774	Chromosome Escherichia coli K12-MG1655	
+b0776	bioF	8-amino-7-oxononanoate synthase	2.3.1.47	809604	810758	Chromosome Escherichia coli K12-MG1655	
+b0787	ybhM	orf, hypothetical protein	 	820016	820729	Chromosome Escherichia coli K12-MG1655	
+b0788	ybhN	orf, hypothetical protein	 	821721	820765	Chromosome Escherichia coli K12-MG1655	
+b0791	ybhQ	orf, hypothetical protein	 	823853	824263	Chromosome Escherichia coli K12-MG1655	
+b0795	 	putative membrane protein	 	829195	828197	Chromosome Escherichia coli K12-MG1655	
+b0796	ybiH	putative transcriptional regulator	 	829878	829195	Chromosome Escherichia coli K12-MG1655	
+b0802	ybiJ	orf, hypothetical protein	 	837148	836888	Chromosome Escherichia coli K12-MG1655	
+b0810	glnP	glutamine high-affinity transport system; membrane component	 	846342	845683	Chromosome Escherichia coli K12-MG1655	
+b0818	ybiR	orf, hypothetical protein	 	852870	853988	Chromosome Escherichia coli K12-MG1655	
+b0831	 	putative transport system permease protein	 	870190	871110	Chromosome Escherichia coli K12-MG1655	
+b0836	 	putative receptor	 	877471	877854	Chromosome Escherichia coli K12-MG1655	
+b0845	 	putative DEOR-type transcriptional regulator	 	886562	885354	Chromosome Escherichia coli K12-MG1655	
+b0850	ybjC	orf, hypothetical protein	 	890136	890423	Chromosome Escherichia coli K12-MG1655	
+b0857	potI	putrescine transport protein; permease	 	896307	897152	Chromosome Escherichia coli K12-MG1655	
+b0875	aqpZ	transmembrane water channel; aquaporin Z	 	915270	914575	Chromosome Escherichia coli K12-MG1655	
+b0910	cmk	cytidylate kinase	2.7.4.14	960424	961107	Chromosome Escherichia coli K12-MG1655	
+b0911	rpsA	30S ribosomal subunit protein S1	 	961218	962891	Chromosome Escherichia coli K12-MG1655	
+b0920	ycbC	orf, hypothetical protein	 	972624	971845	Chromosome Escherichia coli K12-MG1655	
+b0949	uup	putative ATP-binding component of a transport system	 	1009187	1011094	Chromosome Escherichia coli K12-MG1655	
+b0958	sulA	suppressor of lon; inhibits cell division and ftsZ ring formation	 	1020142	1019633	Chromosome Escherichia coli K12-MG1655	
+b0975	hyaD	processing of HyaA and HyaB proteins	 	1034993	1035580	Chromosome Escherichia coli K12-MG1655	
+b0987	ymcD	orf, hypothetical protein	 	1048985	1048662	Chromosome Escherichia coli K12-MG1655	
+b1005	ycdF	orf, hypothetical protein	 	1067141	1067371	Chromosome Escherichia coli K12-MG1655	
+b1009	 	putative acetyltransferase	 	1070988	1070188	Chromosome Escherichia coli K12-MG1655	
+b1015	putP	major sodium/proline symporter	 	1078528	1080036	Chromosome Escherichia coli K12-MG1655	
+b1017	 	putative cytochrome	 	1080677	1081408	Chromosome Escherichia coli K12-MG1655	
+b1021	ycdP	orf, hypothetical protein	 	1085742	1085329	Chromosome Escherichia coli K12-MG1655	
+b1038	csgF	curli production assembly/transport component, 2nd curli operon	 	1101350	1100934	Chromosome Escherichia coli K12-MG1655	
+b1040	csgD	putative 2-component transcriptional regulator for 2nd curli operon	 	1102419	1101769	Chromosome Escherichia coli K12-MG1655	
+b1042	csgA	curlin major subunit, coiled surface structures; cryptic	 	1103670	1104125	Chromosome Escherichia coli K12-MG1655	
+b1057	 	putative cytochrome	 	1118269	1117703	Chromosome Escherichia coli K12-MG1655	
+b1065	yceL	orf, hypothetical protein	 	1124579	1123341	Chromosome Escherichia coli K12-MG1655	
+b1069	mviN	putative virulence factor	 	1127062	1128597	Chromosome Escherichia coli K12-MG1655	
+b1071	flgM	anti-FliA (anti-sigma) factor; also known as RflB protein	 	1129351	1129058	Chromosome Escherichia coli K12-MG1655	
+b1075	flgD	flagellar biosynthesis, initiation of hook assembly	 	1131077	1131772	Chromosome Escherichia coli K12-MG1655	
+b1084	rne	RNase E, membrane attachment, mRNA turnover, maturation 5S RNA	3.1.4.-	1143590	1140405	Chromosome Escherichia coli K12-MG1655	
+b1090	plsX	glycerolphosphate auxotrophy in plsB background	 	1146874	1147914	Chromosome Escherichia coli K12-MG1655	
+b1094	acpP	acyl carrier protein	 	1150838	1151074	Chromosome Escherichia coli K12-MG1655	
+b1099	holB	DNA polymerase III, delta prime subunit	2.7.7.7	1154985	1155989	Chromosome Escherichia coli K12-MG1655	
+b1110	ycfJ	orf, hypothetical protein	 	1166822	1167361	Chromosome Escherichia coli K12-MG1655	
+b1122	ymfA	orf, hypothetical protein	 	1180957	1180487	Chromosome Escherichia coli K12-MG1655	
+b1138	ymfE	orf, hypothetical protein	 	1197460	1196756	Chromosome Escherichia coli K12-MG1655	
+b1172	 	orf, hypothetical protein	 	1222151	1221867	Chromosome Escherichia coli K12-MG1655	
+b1178	ycgK	orf, hypothetical protein	 	1226695	1226294	Chromosome Escherichia coli K12-MG1655	
+b1183	umuD	SOS mutagenesis; error-prone repair; processed to UmuD; forms complex with UmuC	3.4.21.-	1229990	1230409	Chromosome Escherichia coli K12-MG1655	
+b1185	dsbB	reoxidizes DsbA protein following formation of disulfide bond in P-ring of flagella.	 	1232253	1231723	Chromosome Escherichia coli K12-MG1655	
+b1186	nhaB	Na+/H+ antiporter, pH independent	 	1233940	1232399	Chromosome Escherichia coli K12-MG1655	
+b1191	 	orf, hypothetical protein	 	1241168	1239558	Chromosome Escherichia coli K12-MG1655	
+b1195	ymgE	orf, hypothetical protein	 	1243951	1244205	Chromosome Escherichia coli K12-MG1655	
+b1205	ychH	orf, hypothetical protein	 	1258014	1258292	Chromosome Escherichia coli K12-MG1655	
+b1206	ychM	orf, hypothetical protein	 	1259999	1258347	Chromosome Escherichia coli K12-MG1655	
+b1216	chaA	sodium-calcium/proton antiporter	 	1271072	1269972	Chromosome Escherichia coli K12-MG1655	
+b1223	narK	nitrite extrusion protein	 	1277180	1278571	Chromosome Escherichia coli K12-MG1655	
+b1229	tpr	a protaminelike protein	 	1286411	1286310	Chromosome Escherichia coli K12-MG1655	
+b1245	oppC	homolog of Salmonella oligopeptide transport permease protein	 	1301858	1302766	Chromosome Escherichia coli K12-MG1655	
+b1252	tonB	energy transducer; uptake of iron, cyanocobalimin; sensitivity to phages, colicins	 	1309113	1309832	Chromosome Escherichia coli K12-MG1655	
+b1254	yciB	orf, hypothetical protein	 	1310914	1310375	Chromosome Escherichia coli K12-MG1655	
+b1255	yciC	orf, hypothetical protein	 	1311687	1310944	Chromosome Escherichia coli K12-MG1655	
+b1258	yciF	putative structural proteins	 	1313794	1313294	Chromosome Escherichia coli K12-MG1655	
+b1265	trpL	trp operon leader peptide	 	1321106	1321062	Chromosome Escherichia coli K12-MG1655	
+b1270	btuR	cob(I)alamin adenolsyltransferase	2.5.1.17	1326381	1325791	Chromosome Escherichia coli K12-MG1655	
+b1272	sohB	putative protease	3.4.-.-	1327356	1328405	Chromosome Escherichia coli K12-MG1655	
+b1279	yciS	orf, hypothetical protein	 	1338267	1338575	Chromosome Escherichia coli K12-MG1655	
+b1282	yciH	orf, hypothetical protein	 	1340679	1341008	Chromosome Escherichia coli K12-MG1655	
+b1283	osmB	osmotically inducible lipoprotein	 	1341352	1341134	Chromosome Escherichia coli K12-MG1655	
+b1289	ycjD	orf, hypothetical protein	 	1349784	1349431	Chromosome Escherichia coli K12-MG1655	
+b1311	ycjO	putative binding-protein dependent transport protein	 	1371246	1372127	Chromosome Escherichia coli K12-MG1655	
+b1338	ydaJ	putative aminohydrolase (EC 3.5.1.14)	 	1402604	1401279	Chromosome Escherichia coli K12-MG1655	
+b1358	ydaT	orf, hypothetical protein	 	1418708	1419130	Chromosome Escherichia coli K12-MG1655	
+b1363	trkG	trk system potassium uptake; part of Rac prophage	 	1421806	1423263	Chromosome Escherichia coli K12-MG1655	
+b1379	hslJ	heat shock protein hslJ	 	1439767	1439345	Chromosome Escherichia coli K12-MG1655	
+b1393	ydbS	putative enzyme	 	1455521	1456288	Chromosome Escherichia coli K12-MG1655	
+b1394	 	putative enzyme	 	1456288	1457076	Chromosome Escherichia coli K12-MG1655	
+b1399	 	orf, hypothetical protein	 	1461563	1462513	Chromosome Escherichia coli K12-MG1655	
+b1408	 	probable enzyme	 	1475639	1476250	Chromosome Escherichia coli K12-MG1655	
+b1409	 	putative phosphatidate cytidiltransferase	 	1476250	1477146	Chromosome Escherichia coli K12-MG1655	
+b1418	cybB	cytochrome b(561)	 	1488890	1489456	Chromosome Escherichia coli K12-MG1655	
+b1421	trg	methyl-accepting chemotaxis protein III, ribose sensor receptor	 	1490494	1492134	Chromosome Escherichia coli K12-MG1655	
+b1443	 	putative transport system permease protein	 	1512786	1513580	Chromosome Escherichia coli K12-MG1655	
+b1450	 	orf, hypothetical protein	 	1518229	1518951	Chromosome Escherichia coli K12-MG1655	
+b1466	narW	cryptic nitrate reductase 2, delta subunit, assembly function	1.7.99.4	1535333	1534638	Chromosome Escherichia coli K12-MG1655	
+b1474	fdnG	formate dehydrogenase-N, nitrate-inducible, alpha subunit	1.2.1.2	1545425	1548472	Chromosome Escherichia coli K12-MG1655	
+b1486	 	putative transport system permease protein	 	1558953	1557931	Chromosome Escherichia coli K12-MG1655	
+b1492	xasA	acid sensitivity protein, putative transporter	 	1568513	1566978	Chromosome Escherichia coli K12-MG1655	
+b1500	 	orf, hypothetical protein	 	1581983	1581786	Chromosome Escherichia coli K12-MG1655	
+b1514	ydeY	putative transport system permease protein	 	1601043	1602071	Chromosome Escherichia coli K12-MG1655	
+b1515	ydeZ	putative transport system permease protein	 	1602071	1603063	Chromosome Escherichia coli K12-MG1655	
+b1523	 	orf, hypothetical protein	 	1610349	1609990	Chromosome Escherichia coli K12-MG1655	
+b1528	ydeA	putative resistance / regulatory protein	 	1615052	1616242	Chromosome Escherichia coli K12-MG1655	
+b1532	marB	multiple antibiotic resistance protein	 	1618013	1618231	Chromosome Escherichia coli K12-MG1655	
+b1537	ydeJ	orf, hypothetical protein	 	1622797	1623315	Chromosome Escherichia coli K12-MG1655	
+b1550	 	orf, hypothetical protein	 	1635809	1635633	Chromosome Escherichia coli K12-MG1655	
+b1565	 	orf, hypothetical protein	 	1643921	1644226	Chromosome Escherichia coli K12-MG1655	
+b1566	flxA	orf, hypothetical protein	 	1644429	1644761	Chromosome Escherichia coli K12-MG1655	
+b1572	ydfB	orf, hypothetical protein	 	1646647	1646817	Chromosome Escherichia coli K12-MG1655	
+b1583	 	orf, hypothetical protein	 	1653832	1654173	Chromosome Escherichia coli K12-MG1655	
+b1586	 	orf, hypothetical protein	 	1655547	1655894	Chromosome Escherichia coli K12-MG1655	
+b1592	 	putative chloride channel	 	1663279	1664595	Chromosome Escherichia coli K12-MG1655	
+b1597	asr	acid shock protein	 	1669373	1669708	Chromosome Escherichia coli K12-MG1655	
+b1599	 	possible chaperone	 	1671173	1670844	Chromosome Escherichia coli K12-MG1655	
+b1601	 	putative transport protein	 	1671937	1672971	Chromosome Escherichia coli K12-MG1655	
+b1604	 	orf, hypothetical protein	 	1676451	1677395	Chromosome Escherichia coli K12-MG1655	
+b1626	 	orf, hypothetical protein	 	1703250	1703714	Chromosome Escherichia coli K12-MG1655	
+b1629	 	putative membrane protein	 	1704943	1707165	Chromosome Escherichia coli K12-MG1655	
+b1632	ydgQ	orf, hypothetical protein	 	1708852	1709547	Chromosome Escherichia coli K12-MG1655	
+b1641	slyB	putative outer membrane protein	 	1717900	1718367	Chromosome Escherichia coli K12-MG1655	
+b1643	 	orf, hypothetical protein	 	1719049	1719285	Chromosome Escherichia coli K12-MG1655	
+b1645	 	orf, hypothetical protein	 	1720145	1722157	Chromosome Escherichia coli K12-MG1655	
+b1655	ydhO	putative lipoprotein	 	1732459	1733274	Chromosome Escherichia coli K12-MG1655	
+b1657	 	putative transport protein	 	1735314	1734145	Chromosome Escherichia coli K12-MG1655	
+b1660	ydhC	putative transport protein	 	1737935	1739146	Chromosome Escherichia coli K12-MG1655	
+b1670	ydhU	orf, hypothetical protein	 	1748372	1747587	Chromosome Escherichia coli K12-MG1655	
+b1672	 	orf, hypothetical protein	 	1749748	1749101	Chromosome Escherichia coli K12-MG1655	
+b1688	 	orf, hypothetical protein	 	1767098	1768210	Chromosome Escherichia coli K12-MG1655	
+b1711	btuC	vitamin B12 transport permease protein	 	1793176	1792196	Chromosome Escherichia coli K12-MG1655	
+b1715	pheM	phenylalanyl-tRNA synthetase (pheST) operon leader peptide	 	1797294	1797250	Chromosome Escherichia coli K12-MG1655	
+b1716	rplT	50S ribosomal subunit protein L20, and regulator	 	1797773	1797417	Chromosome Escherichia coli K12-MG1655	
+b1717	rpmI	50S ribosomal subunit protein A	 	1798023	1797826	Chromosome Escherichia coli K12-MG1655	
+b1718	infC	protein chain initiation factor IF-3	 	1798662	1798120	Chromosome Escherichia coli K12-MG1655	
+b1729	 	part of a kinase	 	1808958	1810349	Chromosome Escherichia coli K12-MG1655	
+b1738	celA	PEP-dependent phosphotransferase enzyme IV for cellobiose, arbutin, and salicin	2.7.1.69	1819643	1819323	Chromosome Escherichia coli K12-MG1655	
+b1743	spy	periplasmic protein related to spheroblast formation	 	1823649	1823164	Chromosome Escherichia coli K12-MG1655	
+b1750	ydjX	orf, hypothetical protein	 	1831377	1832135	Chromosome Escherichia coli K12-MG1655	
+b1755	 	putative transport system permease protein	 	1835281	1836771	Chromosome Escherichia coli K12-MG1655	
+b1758	 	putative cytochrome oxidase	 	1839433	1838807	Chromosome Escherichia coli K12-MG1655	
+b1775	 	putative transport protein	 	1858253	1856874	Chromosome Escherichia coli K12-MG1655	
+b1787	yeaK	orf, hypothetical protein	 	1871598	1872101	Chromosome Escherichia coli K12-MG1655	
+b1788	 	orf, hypothetical protein	 	1872254	1872102	Chromosome Escherichia coli K12-MG1655	
+b1789	yeaL	orf, hypothetical protein	 	1872376	1872822	Chromosome Escherichia coli K12-MG1655	
+b1791	yeaN	putative amino acid/amine transport protein	 	1873697	1874878	Chromosome Escherichia coli K12-MG1655	
+b1795	yeaQ	orf, hypothetical protein	 	1877279	1877031	Chromosome Escherichia coli K12-MG1655	
+b1796	yoaG	orf, hypothetical protein	 	1877609	1877427	Chromosome Escherichia coli K12-MG1655	
+b1825	 	orf, hypothetical protein	 	1906572	1906285	Chromosome Escherichia coli K12-MG1655	
+b1826	 	orf, hypothetical protein	 	1906790	1906647	Chromosome Escherichia coli K12-MG1655	
+b1839	 	orf, hypothetical protein	 	1921730	1921389	Chromosome Escherichia coli K12-MG1655	
+b1841	 	orf, hypothetical protein	 	1922993	1922619	Chromosome Escherichia coli K12-MG1655	
+b1846	yebE	orf, hypothetical protein	 	1927731	1927072	Chromosome Escherichia coli K12-MG1655	
+b1848	yebG	orf, hypothetical protein	 	1928771	1928481	Chromosome Escherichia coli K12-MG1655	
+b1857	yebL	putative adhesin	 	1940661	1939675	Chromosome Escherichia coli K12-MG1655	
+b1859	yebI	orf, hypothetical protein	 	1941438	1942223	Chromosome Escherichia coli K12-MG1655	
+b1879	flhA	flagellar biosynthesis; possible export of flagellar proteins	 	1963074	1960996	Chromosome Escherichia coli K12-MG1655	
+b1880	flhB	putative part of export apparatus for flagellar proteins	 	1964215	1963067	Chromosome Escherichia coli K12-MG1655	
+b1882	cheY	chemotaxis regulator transmits chemoreceptor signals to flagelllar motor components	 	1965461	1965072	Chromosome Escherichia coli K12-MG1655	
+b1886	tar	methyl-accepting chemotaxis protein II, aspartate sensor receptor	 	1970715	1969054	Chromosome Escherichia coli K12-MG1655	
+b1907	tyrP	tyrosine-specific transport system	 	1987704	1988915	Chromosome Escherichia coli K12-MG1655	
+b1918	yecS	putative transport system permease protein (former yecC)	 	1996502	1995834	Chromosome Escherichia coli K12-MG1655	
+b1923	fliC	flagellar biosynthesis; flagellin, filament structural protein	 	2001629	2000133	Chromosome Escherichia coli K12-MG1655	
+b1924	fliD	flagellar biosynthesis; filament capping protein; enables filament assembly	 	2001895	2003301	Chromosome Escherichia coli K12-MG1655	
+b1928	yedD	orf, hypothetical protein	 	2006113	2005700	Chromosome Escherichia coli K12-MG1655	
+b1929	yedE	putative transport system permease protein	 	2006300	2007505	Chromosome Escherichia coli K12-MG1655	
+b1947	fliO	flagellar biosynthesis	 	2019586	2019891	Chromosome Escherichia coli K12-MG1655	
+b1949	fliQ	flagellar biosynthesis	 	2020638	2020907	Chromosome Escherichia coli K12-MG1655	
+b1958	yedI	orf, hypothetical protein	 	2027388	2026471	Chromosome Escherichia coli K12-MG1655	
+b1959	yedA	putative transmembrane subunit	 	2027561	2028481	Chromosome Escherichia coli K12-MG1655	
+b1964	 	putative outer membrane protein	 	2032043	2032558	Chromosome Escherichia coli K12-MG1655	
+b1965	 	orf, hypothetical protein	 	2032568	2032777	Chromosome Escherichia coli K12-MG1655	
+b1992	cobS	cobalamin 5-phosphate synthase	 	2063244	2062501	Chromosome Escherichia coli K12-MG1655	
+b2018	hisL	his operon leader peptide	 	2088018	2088068	Chromosome Escherichia coli K12-MG1655	
+b2024	hisA	N-(5-phospho-L-ribosyl-formimino)-5-amino-1-(5- phosphoribosyl)-4-imidazolecarboxamide isomerase	5.3.1.16	2093144	2093884	Chromosome Escherichia coli K12-MG1655	
+b2077	yegB	putative transport protein	 	2159486	2160901	Chromosome Escherichia coli K12-MG1655	
+b2086	 	orf, hypothetical protein	 	2166734	2167633	Chromosome Escherichia coli K12-MG1655	
+b2092	gatC	PTS system galactitol-specific enzyme IIC	 	2172298	2170943	Chromosome Escherichia coli K12-MG1655	
+b2104	thiM	hydoxyethylthiazole kinase	 	2183321	2182533	Chromosome Escherichia coli K12-MG1655	
+b2106	yohM	orf, hypothetical protein	 	2183937	2184761	Chromosome Escherichia coli K12-MG1655	
+b2111	yehD	putative fimbrial-like protein	 	2190242	2189700	Chromosome Escherichia coli K12-MG1655	
+b2130	yehY	putative transport system permease protein	 	2216577	2215420	Chromosome Escherichia coli K12-MG1655	
+b2136	yohD	orf, hypothetical protein	 	2223785	2224399	Chromosome Escherichia coli K12-MG1655	
+b2141	yohJ	orf, hypothetical protein	 	2228644	2229042	Chromosome Escherichia coli K12-MG1655	
+b2145	 	orf, hypothetical protein	 	2231620	2231859	Chromosome Escherichia coli K12-MG1655	
+b2148	mglC	methyl-galactoside transport and galactose taxis	 	2235773	2234763	Chromosome Escherichia coli K12-MG1655	
+b2152	yeiB	orf, hypothetical protein	 	2240987	2239830	Chromosome Escherichia coli K12-MG1655	
+b2153	folE	GTP cyclohydrolase I	3.5.4.16	2241672	2241004	Chromosome Escherichia coli K12-MG1655	
+b2158	yeiH	orf, hypothetical protein	 	2247737	2248786	Chromosome Escherichia coli K12-MG1655	
+b2167	fruA	PTS system, fructose-specific transport protein	2.7.1.69	2259430	2257739	Chromosome Escherichia coli K12-MG1655	
+b2169	fruB	PTS system, fructose-specific IIA/fpr component	2.7.1.69	2261515	2260385	Chromosome Escherichia coli K12-MG1655	
+b2182	bcr	bicyclomycin resistance protein; transmembrane protein	 	2277780	2276590	Chromosome Escherichia coli K12-MG1655	
+b2195	dsbE	disulfide oxidoreductase (in biogenesis of cytochrome c?	 	2290984	2290427	Chromosome Escherichia coli K12-MG1655	
+b2198	ccmD	heme exporter protein C	 	2293606	2293397	Chromosome Escherichia coli K12-MG1655	
+b2200	ccmB	heme exporter protein B, cytochrome c-type biogenesis protein	 	2295044	2294382	Chromosome Escherichia coli K12-MG1655	
+b2201	ccmA	ATP binding protein of heme exporter A	 	2295658	2295041	Chromosome Escherichia coli K12-MG1655	
+b2240	glpT	sn-glycerol-3-phosphate permease	 	2350394	2349036	Chromosome Escherichia coli K12-MG1655	
+b2245	 	orf, hypothetical protein	 	2356865	2356062	Chromosome Escherichia coli K12-MG1655	
+b2250	 	orf, hypothetical protein	 	2362316	2361753	Chromosome Escherichia coli K12-MG1655	
+b2251	yfaO	orf, hypothetical protein	 	2362574	2362999	Chromosome Escherichia coli K12-MG1655	
+b2258	 	putative transport/receptor protein	 	2370630	2371298	Chromosome Escherichia coli K12-MG1655	
+b2266	elaB	orf, hypothetical protein	 	2379047	2378742	Chromosome Escherichia coli K12-MG1655	
+b2270	yfbK	orf, hypothetical protein	 	2383742	2382015	Chromosome Escherichia coli K12-MG1655	
+b2279	nuoK	NADH dehydrogenase I chain K	 	2393365	2393063	Chromosome Escherichia coli K12-MG1655	
+b2280	nuoJ	NADH dehydrogenase I chain J	1.6.5.3	2393916	2393362	Chromosome Escherichia coli K12-MG1655	
+b2307	hisM	histidine transport, membrane protein M	 	2423253	2422537	Chromosome Escherichia coli K12-MG1655	
+b2319	usg	putative PTS system enzyme II A component	 	2434669	2433656	Chromosome Escherichia coli K12-MG1655	
+b2322	 	putative transport protein	 	2438140	2436962	Chromosome Escherichia coli K12-MG1655	
+b2328	mepA	murein DD-endopeptidase, penicillin-insensitive	3.4.99.-	2444404	2443580	Chromosome Escherichia coli K12-MG1655	
+b2339	 	putative fimbrial-like protein	 	2453666	2453103	Chromosome Escherichia coli K12-MG1655	
+b2343	 	orf, hypothetical protein	 	2458978	2458670	Chromosome Escherichia coli K12-MG1655	
+b2347	yfdC	putative transport	 	2463321	2464253	Chromosome Escherichia coli K12-MG1655	
+b2350	 	orf, hypothetical protein	 	2465875	2466237	Chromosome Escherichia coli K12-MG1655	
+b2365	dsdX	transport system permease (serine?)	 	2475867	2477204	Chromosome Escherichia coli K12-MG1655	
+b2367	emrY	multidrug resistance protein Y	 	2480196	2478658	Chromosome Escherichia coli K12-MG1655	
+b2369	evgA	putative positive transcription regulator (sensor EvgS)	 	2481775	2482389	Chromosome Escherichia coli K12-MG1655	
+b2387	 	putative PTS system enzyme IIB component	 	2506262	2505936	Chromosome Escherichia coli K12-MG1655	
+b2389	 	orf, hypothetical protein	 	2507650	2508906	Chromosome Escherichia coli K12-MG1655	
+b2390	 	orf, hypothetical protein	 	2509021	2509347	Chromosome Escherichia coli K12-MG1655	
+b2391	 	orf, hypothetical protein	 	2509085	2509429	Chromosome Escherichia coli K12-MG1655	
+b2406	xapB	xanthosine permease	 	2522005	2520749	Chromosome Escherichia coli K12-MG1655	
+b2408	yfeN	putative sugar hydrolase	 	2523147	2523911	Chromosome Escherichia coli K12-MG1655	
+b2423	cysW	sulfate transport system permease W protein	 	2539273	2538824	Chromosome Escherichia coli K12-MG1655	
+b2424	cysU	sulfate, thiosulfate transport system permease T protein	 	2540532	2539699	Chromosome Escherichia coli K12-MG1655	
+b2429	 	putative PTS enzyme II	 	2544693	2546117	Chromosome Escherichia coli K12-MG1655	
+b2433	 	orf, hypothetical protein	 	2549752	2549297	Chromosome Escherichia coli K12-MG1655	
+b2438	 	orf, hypothetical protein	 	2553754	2553248	Chromosome Escherichia coli K12-MG1655	
+b2444	 	orf, hypothetical protein	 	2559388	2559633	Chromosome Escherichia coli K12-MG1655	
+b2446	 	orf, hypothetical protein	 	2560131	2560547	Chromosome Escherichia coli K12-MG1655	
+b2455	eutE	ethanolamine utilization; similar to acetaldehyde dehydrogenase	 	2569771	2568368	Chromosome Escherichia coli K12-MG1655	
+b2457	cchA	detox protein	 	2570512	2570177	Chromosome Escherichia coli K12-MG1655	
+b2477	nlpB	lipoprotein-34	 	2596888	2595851	Chromosome Escherichia coli K12-MG1655	
+b2482	hyfB	hydrogenase 4 membrane subunit	 	2599838	2601856	Chromosome Escherichia coli K12-MG1655	
+b2483	hyfC	hydrogenase 4 membrane subunit	 	2601846	2602814	Chromosome Escherichia coli K12-MG1655	
+b2486	hyfF	hydrogenase 4 membrane subunit	 	2604937	2606517	Chromosome Escherichia coli K12-MG1655	
+b2488	hyfH	hydrogenase 4 Fe-S subunit	 	2608184	2608729	Chromosome Escherichia coli K12-MG1655	
+b2493	perM	putative permease	 	2613901	2612840	Chromosome Escherichia coli K12-MG1655	
+b2505	 	putative outer membrane lipoprotein	 	2627812	2628330	Chromosome Escherichia coli K12-MG1655	
+b2506	 	putative membrane protein	 	2628346	2628885	Chromosome Escherichia coli K12-MG1655	
+b2508	guaB	IMP dehydrogenase	1.2.1.14	2632090	2630624	Chromosome Escherichia coli K12-MG1655	
+b2516	yfgA	putative membrane protein	 	2640864	2639851	Chromosome Escherichia coli K12-MG1655	
+b2528	yfhF	putative regulator	 	2657906	2657583	Chromosome Escherichia coli K12-MG1655	
+b2542	hcaD	ferredoxin reductase subunit of phenylpropionate dioxygenase	 	2670067	2671269	Chromosome Escherichia coli K12-MG1655	
+b2543	yphA	orf, hypothetical protein	 	2671294	2671788	Chromosome Escherichia coli K12-MG1655	
+b2546	yphD	putative transport system permease protein	 	2674845	2673847	Chromosome Escherichia coli K12-MG1655	
+b2553	glnB	regulatory protein P-II for glutamine synthetase	 	2685428	2685090	Chromosome Escherichia coli K12-MG1655	
+b2555	yfhG	putative alpha helix protein	 	2687526	2686813	Chromosome Escherichia coli K12-MG1655	
+b2560	yfhB	orf, hypothetical protein	 	2696507	2695935	Chromosome Escherichia coli K12-MG1655	
+b2563	acpS	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	 	2699018	2698638	Chromosome Escherichia coli K12-MG1655	
+b2570	rseC	sigma-E factor, negative regulatory protein	 	2705821	2705342	Chromosome Escherichia coli K12-MG1655	
+b2572	rseA	sigma-E factor, negative regulatory protein	 	2707424	2706774	Chromosome Escherichia coli K12-MG1655	
+b2576	srmB	ATP-dependent RNA helicase	 	2710916	2712250	Chromosome Escherichia coli K12-MG1655	
+b2579	yfiD	putative formate acetyltransferase	 	2714469	2714086	Chromosome Escherichia coli K12-MG1655	
+b2598	pheL	leader peptide of chorismate mutase-P-prephenate dehydratase	 	2735619	2735666	Chromosome Escherichia coli K12-MG1655	
+b2611	 	orf, hypothetical protein	 	2745907	2746773	Chromosome Escherichia coli K12-MG1655	
+b2629	yfjM	orf, hypothetical protein	 	2763797	2763534	Chromosome Escherichia coli K12-MG1655	
+b2635	 	orf, hypothetical protein	 	2768310	2768702	Chromosome Escherichia coli K12-MG1655	
+b2667	 	orf, hypothetical protein	 	2795232	2795531	Chromosome Escherichia coli K12-MG1655	
+b2669	stpA	DNA-binding protein; H-NS-like protein; chaperone activity; RNA splicing?	 	2796516	2796112	Chromosome Escherichia coli K12-MG1655	
+b2678	proW	high-affinity transport system for glycine betaine and proline	 	2804031	2805095	Chromosome Escherichia coli K12-MG1655	
+b2681	 	putative transport protein	 	2806597	2807514	Chromosome Escherichia coli K12-MG1655	
+b2723	hycC	membrane-spanning protein of hydrogenase 3 (part of FHL complex)	 	2847264	2845438	Chromosome Escherichia coli K12-MG1655	
+b2736	 	putative dehydrogenase	 	2859453	2860361	Chromosome Escherichia coli K12-MG1655	
+b2742	nlpD	lipoprotein	 	2866776	2865637	Chromosome Escherichia coli K12-MG1655	
+b2746	ygbB	orf, hypothetical protein	 	2869803	2869324	Chromosome Escherichia coli K12-MG1655	
+b2748	 	orf, hypothetical protein	 	2870843	2870532	Chromosome Escherichia coli K12-MG1655	
+b2771	ygcS	putative transport protein	 	2895965	2894556	Chromosome Escherichia coli K12-MG1655	
+b2778	ygcG	orf, hypothetical protein	 	2903664	2904605	Chromosome Escherichia coli K12-MG1655	
+b2792	 	orf, hypothetical protein	 	2922135	2921806	Chromosome Escherichia coli K12-MG1655	
+b2801	fucP	fucose permease	 	2932257	2933573	Chromosome Escherichia coli K12-MG1655	
+b2823	ppdC	prepilin peptidase dependent protein C	 	2960786	2960463	Chromosome Escherichia coli K12-MG1655	
+b2832	 	putative transport protein	 	2968442	2969155	Chromosome Escherichia coli K12-MG1655	
+b2835	ygeD	putative resistance proteins	 	2971884	2970691	Chromosome Escherichia coli K12-MG1655	
+b2849	yqeK	orf, hypothetical protein	 	2988394	2987957	Chromosome Escherichia coli K12-MG1655	
+b2865	 	putative lipoprotein	 	2997937	2997158	Chromosome Escherichia coli K12-MG1655	
+b2874	yqeA	putative kinase	 	3009482	3010414	Chromosome Escherichia coli K12-MG1655	
+b2885	ygfR	putative oxidoreductase	 	3025678	3026508	Chromosome Escherichia coli K12-MG1655	
+b2891	prfB	peptide chain release factor RF-2	 	3034302	3033204	Chromosome Escherichia coli K12-MG1655	
+b2900	yqfB	orf, hypothetical protein	 	3041643	3041332	Chromosome Escherichia coli K12-MG1655	
+b2924	yggB	putative transport protein	 	3067827	3066967	Chromosome Escherichia coli K12-MG1655	
+b2934	cmtB	PTS system, mannitol-specific enzyme II component, cryptic	2.7.1.69	3077349	3076906	Chromosome Escherichia coli K12-MG1655	
+b2940	yqgC	orf, hypothetical protein	 	3084206	3084421	Chromosome Escherichia coli K12-MG1655	
+b2952	yggT	putative resistance protein	 	3093839	3094405	Chromosome Escherichia coli K12-MG1655	
+b2953	yggU	orf, hypothetical protein	 	3094390	3094692	Chromosome Escherichia coli K12-MG1655	
+b2966	yqgA	putative transport protein	 	3107570	3108277	Chromosome Escherichia coli K12-MG1655	
+b2971	 	orf, hypothetical protein	 	3111494	3111084	Chromosome Escherichia coli K12-MG1655	
+b2975	yghK	putative permease	 	3119295	3117613	Chromosome Escherichia coli K12-MG1655	
+b2987	pitB	low-affinity phosphate transport	 	3134386	3132887	Chromosome Escherichia coli K12-MG1655	
+b2997	 	putative hydrogenase subunit	 	3144276	3143158	Chromosome Escherichia coli K12-MG1655	
+b3009	yghB	orf, hypothetical protein	 	3151578	3152237	Chromosome Escherichia coli K12-MG1655	
+b3027	 	orf, hypothetical protein	 	3170227	3169895	Chromosome Escherichia coli K12-MG1655	
+b3040	ygiE	orf, hypothetical protein	 	3180566	3181339	Chromosome Escherichia coli K12-MG1655	
+b3051	 	putative membrane protein	 	3190880	3192541	Chromosome Escherichia coli K12-MG1655	
+b3055	ygiM	orf, hypothetical protein	 	3198848	3199468	Chromosome Escherichia coli K12-MG1655	
+b3058	ygiG	putative kinase	 	3202233	3201862	Chromosome Escherichia coli K12-MG1655	
+b3063	ygjE	orf, hypothetical protein	 	3205665	3207128	Chromosome Escherichia coli K12-MG1655	
+b3089	ygjU	putative transport protein	 	3237584	3238828	Chromosome Escherichia coli K12-MG1655	
+b3096	yqjB	orf, hypothetical protein	 	3246079	3246462	Chromosome Escherichia coli K12-MG1655	
+b3098	yqjD	orf, hypothetical protein	 	3247015	3247320	Chromosome Escherichia coli K12-MG1655	
+b3099	yqjE	orf, hypothetical protein	 	3247323	3247727	Chromosome Escherichia coli K12-MG1655	
+b3101	yqjF	orf, hypothetical protein	 	3248112	3248594	Chromosome Escherichia coli K12-MG1655	
+b3104	yhaI	putative cytochrome	 	3250551	3250907	Chromosome Escherichia coli K12-MG1655	
+b3109	yhaN	orf, hypothetical protein	 	3254292	3253729	Chromosome Escherichia coli K12-MG1655	
+b3122	 	orf, hypothetical protein	 	3267304	3267468	Chromosome Escherichia coli K12-MG1655	
+b3134	agaW	PTS system N-acetylgalactosameine-specific IIC component 2	 	3278342	3278743	Chromosome Escherichia coli K12-MG1655	
+b3168	infB	protein chain initiation factor IF-2	 	3313655	3310983	Chromosome Escherichia coli K12-MG1655	
+b3183	yhbZ	putative GTP-binding factor	 	3329395	3328223	Chromosome Escherichia coli K12-MG1655	
+b3202	rpoN	RNA polymerase, sigma(54 or 60) factor; nitrogen and fermentation regulation	 	3342358	3343791	Chromosome Escherichia coli K12-MG1655	
+b3222	yhcI	putative NAGC-like transcriptional regulator	 	3368018	3367110	Chromosome Escherichia coli K12-MG1655	
+b3223	yhcJ	putative enzyme	 	3368671	3367982	Chromosome Escherichia coli K12-MG1655	
+b3224	nanT	sialic acid transporter	 	3370239	3368719	Chromosome Escherichia coli K12-MG1655	
+b3233	yhcB	orf, hypothetical protein	 	3377820	3378224	Chromosome Escherichia coli K12-MG1655	
+b3238	yhcN	orf, hypothetical protein	 	3383122	3383436	Chromosome Escherichia coli K12-MG1655	
+b3250	mreC	rod shape-determining protein	 	3397615	3396512	Chromosome Escherichia coli K12-MG1655	
+b3255	accB	acetylCoA carboxylase, BCCP subunit; carrier of biotin	6.4.1.2	3403073	3403543	Chromosome Escherichia coli K12-MG1655	
+b3257	yhdT	orf, hypothetical protein	 	3405012	3405254	Chromosome Escherichia coli K12-MG1655	
+b3259	prmA	methylase for 50S ribosomal subunit protein L11	2.1.1.-	3406707	3407588	Chromosome Escherichia coli K12-MG1655	
+b3267	yhdV	orf, hypothetical protein	 	3416027	3416248	Chromosome Escherichia coli K12-MG1655	
+b3291	mscL	mechanosensitive channel	 	3435661	3436071	Chromosome Escherichia coli K12-MG1655	
+b3304	rplR	50S ribosomal subunit protein L18	 	3443234	3442881	Chromosome Escherichia coli K12-MG1655	
+b3308	rplE	50S ribosomal subunit protein L5	 	3445075	3444536	Chromosome Escherichia coli K12-MG1655	
+b3312	rpmC	50S ribosomal subunit protein L29	 	3446396	3446205	Chromosome Escherichia coli K12-MG1655	
+b3318	rplW	50S ribosomal subunit protein L23	 	3449321	3449019	Chromosome Escherichia coli K12-MG1655	
+b3322	pinO	calcium-binding protein required for initiation of chromosome replication	 	3451564	3451145	Chromosome Escherichia coli K12-MG1655	
+b3324	yheE	putative general secretion pathway for protein export (GSP)	 	3453215	3454030	Chromosome Escherichia coli K12-MG1655	
+b3329	hofH	putative general protein secretion protein	 	3459105	3459614	Chromosome Escherichia coli K12-MG1655	
+b3335	hofD	leader peptidase, integral membrane protein	 	3463180	3463857	Chromosome Escherichia coli K12-MG1655	
+b3339	tufA	protein chain elongation factor EF-Tu (duplicate of tufB)	 	3468966	3467782	Chromosome Escherichia coli K12-MG1655	
+b3343	yheL	orf, hypothetical protein	 	3472602	3472315	Chromosome Escherichia coli K12-MG1655	
+b3344	yheM	orf, hypothetical protein	 	3472969	3472610	Chromosome Escherichia coli K12-MG1655	
+b3345	yheN	orf, hypothetical protein	 	3473355	3472969	Chromosome Escherichia coli K12-MG1655	
+b3347	fkpA	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	5.2.1.-	3475056	3474244	Chromosome Escherichia coli K12-MG1655	
+b3348	slyX	host factor for lysis of phiX174 infection	 	3475277	3475495	Chromosome Escherichia coli K12-MG1655	
+b3350	kefB	K+ efflux; NEM-activable K+/H+ antiporter	 	3478244	3476439	Chromosome Escherichia coli K12-MG1655	
+b3362	yhfG	orf, hypothetical protein	 	3489257	3489090	Chromosome Escherichia coli K12-MG1655	
+b3363	ppiA	peptidyl-prolyl cis-trans isomerase A (rotamase A)	5.2.1.8	3489934	3489362	Chromosome Escherichia coli K12-MG1655	
+b3369	yhfL	orf, hypothetical protein	 	3497085	3497252	Chromosome Escherichia coli K12-MG1655	
+b3376	yhfS	orf, hypothetical protein	 	3503658	3502573	Chromosome Escherichia coli K12-MG1655	
+b3388	damX	putative membrane protein; interferes with cell division	 	3514944	3513658	Chromosome Escherichia coli K12-MG1655	
+b3394	yrfC	orf, hypothetical protein	 	3519610	3519071	Chromosome Escherichia coli K12-MG1655	
+b3400	yrfH	orf, hypothetical protein	 	3526986	3527387	Chromosome Escherichia coli K12-MG1655	
+b3401	yrfI	orf, hypothetical protein	 	3527406	3528290	Chromosome Escherichia coli K12-MG1655	
+b3402	yhgE	putative transport	 	3530077	3528353	Chromosome Escherichia coli K12-MG1655	
+b3415	gntT	high-affinity transport of gluconate / gluconate permease	 	3544195	3545508	Chromosome Escherichia coli K12-MG1655	
+b3427	yzgL	orf, hypothetical protein	 	3561650	3561357	Chromosome Escherichia coli K12-MG1655	
+b3434	yhgN	orf, hypothetical protein	 	3572704	3573297	Chromosome Escherichia coli K12-MG1655	
+b3436	gntU_1	low-affinity gluconate transport permease protein, interrupted	 	3574693	3573695	Chromosome Escherichia coli K12-MG1655	
+b3443	yrhA	orf, hypothetical protein	 	3580669	3581085	Chromosome Escherichia coli K12-MG1655	
+b3448	yhhA	orf, hypothetical protein	 	3584574	3585014	Chromosome Escherichia coli K12-MG1655	
+b3456	livM	high-affinity branched-chain amino acid transport	 	3593111	3591834	Chromosome Escherichia coli K12-MG1655	
+b3457	livH	high-affinity branched-chain amino acid transport system; membrane component	 	3594034	3593108	Chromosome Escherichia coli K12-MG1655	
+b3467	yhhM	putative receptor	 	3603241	3602882	Chromosome Escherichia coli K12-MG1655	
+b3468	yhhN	putative enzyme	 	3603382	3604008	Chromosome Escherichia coli K12-MG1655	
+b3473	yhhS	putative transport	 	3609406	3608147	Chromosome Escherichia coli K12-MG1655	
+b3481	yhhG	orf, hypothetical protein	 	3616219	3616620	Chromosome Escherichia coli K12-MG1655	
+b3485	yhhJ	putative transporter	 	3624437	3623310	Chromosome Escherichia coli K12-MG1655	
+b3487	yhiI	putative membrane protein	 	3628232	3627165	Chromosome Escherichia coli K12-MG1655	
+b3502	arsB	arsenical pump membrane protein	 	3646544	3647854	Chromosome Escherichia coli K12-MG1655	
+b3511	hdeD	orf, hypothetical protein	 	3654625	3655197	Chromosome Escherichia coli K12-MG1655	
+b3523	yhjE	putative transport protein	 	3672416	3673738	Chromosome Escherichia coli K12-MG1655	
+b3524	yhjG	orf, hypothetical protein	 	3675995	3673920	Chromosome Escherichia coli K12-MG1655	
+b3541	dppD	putative ATP-binding component of dipeptide transport system	 	3701477	3700494	Chromosome Escherichia coli K12-MG1655	
+b3542	dppC	dipeptide transport system permease protein 2	 	3702390	3701488	Chromosome Escherichia coli K12-MG1655	
+b3547	yhjX	putative resistance protein	 	3709636	3708428	Chromosome Escherichia coli K12-MG1655	
+b3552	yiaD	putative outer membrane protein	 	3714176	3714835	Chromosome Escherichia coli K12-MG1655	
+b3564	xylB	xylulokinase	2.7.1.17	3727000	3725546	Chromosome Escherichia coli K12-MG1655	
+b3568	xylH	putative xylose transport, membrane component	 	3731349	3732530	Chromosome Escherichia coli K12-MG1655	
+b3578	yiaN	putative membrane protein	 	3742433	3743707	Chromosome Escherichia coli K12-MG1655	
+b3602	yibL	orf, hypothetical protein	 	3774292	3774654	Chromosome Escherichia coli K12-MG1655	
+b3603	lldP	L-lactate permease	 	3775026	3776681	Chromosome Escherichia coli K12-MG1655	
+b3622	rfaL	O-antigen ligase; lipopolysaccharide core biosynthesis	 	3794575	3795834	Chromosome Escherichia coli K12-MG1655	
+b3639	dfp	flavoprotein affecting synthesis of DNA and pantothenate metabolism	 	3810286	3811578	Chromosome Escherichia coli K12-MG1655	
+b3646	yicG	orf, hypothetical protein	 	3816447	3817118	Chromosome Escherichia coli K12-MG1655	
+b3649	rpoZ	RNA polymerase, omega subunit	2.7.7.6	3819733	3820008	Chromosome Escherichia coli K12-MG1655	
+b3653	gltS	glutamate transport	 	3826292	3825087	Chromosome Escherichia coli K12-MG1655	
+b3660	yicL	putative permease transporter	 	3835875	3836798	Chromosome Escherichia coli K12-MG1655	
+b3661	nlpA	lipoprotein-28	 	3837620	3836802	Chromosome Escherichia coli K12-MG1655	
+b3668	uhpB	sensor histidine protein kinase phosphorylates UhpA	2.7.3.-	3847766	3846261	Chromosome Escherichia coli K12-MG1655	
+b3672	ivbL	ilvB operon leader peptide	 	3850615	3850517	Chromosome Escherichia coli K12-MG1655	
+b3673	emrD	2-module integral membrane pump; multidrug resistance	 	3851543	3852733	Chromosome Escherichia coli K12-MG1655	
+b3675	yidG	orf, hypothetical protein	 	3853597	3853235	Chromosome Escherichia coli K12-MG1655	
+b3676	yidH	orf, hypothetical protein	 	3853934	3853587	Chromosome Escherichia coli K12-MG1655	
+b3677	yidI	orf, hypothetical protein	 	3854042	3854491	Chromosome Escherichia coli K12-MG1655	
+b3685	yidE	putative transport protein	 	3863924	3862239	Chromosome Escherichia coli K12-MG1655	
+b3703	rpmH	50S ribosomal subunit protein L34	 	3881965	3882105	Chromosome Escherichia coli K12-MG1655	
+b3727	pstC	high-affinity phosphate-specific transport system, cytoplasmic membrane component	 	3908026	3907067	Chromosome Escherichia coli K12-MG1655	
+b3736	atpF	membrane-bound ATP synthase, F0 sector, subunit b	 	3918516	3918046	Chromosome Escherichia coli K12-MG1655	
+b3737	atpE	membrane-bound ATP synthase, F0 sector, subunit c	3.6.1.34	3918817	3918578	Chromosome Escherichia coli K12-MG1655	
+b3739	atpI	membrane-bound ATP synthase, dispensable protein, affects expression of atpB	 	3920080	3919688	Chromosome Escherichia coli K12-MG1655	
+b3750	rbsC	D-ribose high-affinity transport system	 	3932914	3933879	Chromosome Escherichia coli K12-MG1655	
+b3766	ilvL	ilvGEDA operon leader peptide	 	3947945	3948043	Chromosome Escherichia coli K12-MG1655	
+b3784	rfe	UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase; synthesis of enterobacterial common antigen (ECA)	 	3965531	3966634	Chromosome Escherichia coli K12-MG1655	
+b3790	wecD	orf, hypothetical protein	 	3972208	3972753	Chromosome Escherichia coli K12-MG1655	
+b3793	wecF	TDP-Fuc4NAc:lipidII transferase; synthesis of enterobacterial common antigen (ECA)	2.4.1.-	3976214	3977566	Chromosome Escherichia coli K12-MG1655	
+b3795	yifK	putative amino acid/amine transport protein	 	3978500	3979885	Chromosome Escherichia coli K12-MG1655	
+b3803	hemX	uroporphyrinogen III methylase	2.1.1.107	3986679	3985498	Chromosome Escherichia coli K12-MG1655	
+b3808	 	orf, hypothetical protein	 	3991463	3991948	Chromosome Escherichia coli K12-MG1655	
+b3824	yigK	orf, hypothetical protein	 	4006462	4006046	Chromosome Escherichia coli K12-MG1655	
+b3836	 	orf, hypothetical protein	 	4019490	4019801	Chromosome Escherichia coli K12-MG1655	
+b3837	 	putative histone	 	4019665	4020006	Chromosome Escherichia coli K12-MG1655	
+b3866	yihI	orf, hypothetical protein	 	4048927	4049436	Chromosome Escherichia coli K12-MG1655	
+b3886	rbn	tRNA processing exoribonuclease BN	 	4073726	4074598	Chromosome Escherichia coli K12-MG1655	
+b3894	fdoG	formate dehydrogenase-O, major subunit	1.2.1.2	4083402	4080352	Chromosome Escherichia coli K12-MG1655	
+b3909	kdgT	2-keto-3-deoxy-D-gluconate transport system	 	4099262	4100254	Chromosome Escherichia coli K12-MG1655	
+b3912	cpxR	transcriptional regulator in 2-component system	 	4103251	4102553	Chromosome Escherichia coli K12-MG1655	
+b3933	ftsN	essential cell division protein	 	4120919	4119960	Chromosome Escherichia coli K12-MG1655	
+b3948	yijI	orf, hypothetical protein	 	4139437	4139766	Chromosome Escherichia coli K12-MG1655	
+b3950	frwB	PTS system fructose-like IIB component 1	 	4141203	4141523	Chromosome Escherichia coli K12-MG1655	
+b3963	yijC	orf, hypothetical protein	 	4158646	4159350	Chromosome Escherichia coli K12-MG1655	
+b3980	tufB	protein chain elongation factor EF-Tu (duplicate of tufA)	 	4173523	4174707	Chromosome Escherichia coli K12-MG1655	
+b3981	secE	preprotein translocase	 	4174937	4175320	Chromosome Escherichia coli K12-MG1655	
+b3984	rplA	50S ribosomal subunit protein L1, regulates synthesis of L1 and L11	 	4176457	4177161	Chromosome Escherichia coli K12-MG1655	
+b3986	rplL	50S ribosomal subunit protein L7/L12	 	4178138	4178503	Chromosome Escherichia coli K12-MG1655	
+b4003	hydH	sensor kinase for HydG, hydrogenase 3 activity	 	4199504	4200901	Chromosome Escherichia coli K12-MG1655	
+b4020	yjbB	putative alpha helix protein	 	4225310	4226941	Chromosome Escherichia coli K12-MG1655	
+b4023	yjbD	orf, hypothetical protein	 	4229210	4228938	Chromosome Escherichia coli K12-MG1655	
+b4024	lysC	aspartokinase III, lysine sensitive	2.7.2.4	4230812	4229463	Chromosome Escherichia coli K12-MG1655	
+b4026	yjbE	orf, hypothetical protein	 	4233485	4233727	Chromosome Escherichia coli K12-MG1655	
+b4028	yjbG	orf, hypothetical protein	 	4234476	4235213	Chromosome Escherichia coli K12-MG1655	
+b4030	yjbA	orf, hypothetical protein	 	4237904	4238314	Chromosome Escherichia coli K12-MG1655	
+b4037	malM	periplasmic protein of mal regulon	 	4247133	4248053	Chromosome Escherichia coli K12-MG1655	
+b4039	ubiC	chorismate lyase	 	4249974	4250582	Chromosome Escherichia coli K12-MG1655	
+b4040	ubiA	4-hydroxybenzoate-octaprenyltransferase	2.5.1.-	4250595	4251467	Chromosome Escherichia coli K12-MG1655	
+b4044	dinF	DNA-damage-inducible protein F	 	4255321	4256700	Chromosome Escherichia coli K12-MG1655	
+b4064	yjcD	orf, hypothetical protein	 	4276058	4277407	Chromosome Escherichia coli K12-MG1655	
+b4065	yjcE	orf, hypothetical protein	 	4277559	4279208	Chromosome Escherichia coli K12-MG1655	
+b4067	yjcG	putative transport protein	 	4282481	4280832	Chromosome Escherichia coli K12-MG1655	
+b4068	yjcH	orf, hypothetical protein	 	4282792	4282478	Chromosome Escherichia coli K12-MG1655	
+b4073	nrfD	formate-dependent nitrate reductase complex; transmembrane protein	 	4288055	4289011	Chromosome Escherichia coli K12-MG1655	
+b4074	nrfE	formate-dependent nitrite reductase; possible assembly function	 	4289091	4290749	Chromosome Escherichia coli K12-MG1655	
+b4075	nrfF	part of formate-dependent nitrite reductase complex	 	4290742	4291125	Chromosome Escherichia coli K12-MG1655	
+b4079	fdhF	selenopolypeptide subunit of formate dehydrogenase H	1.2.1.2	4296945	4294798	Chromosome Escherichia coli K12-MG1655	
+b4082	yjcR	putative membrane protein	 	4301688	4300657	Chromosome Escherichia coli K12-MG1655	
+b4103	 	orf, hypothetical protein	 	4320242	4320021	Chromosome Escherichia coli K12-MG1655	
+b4104	phnE	membrane channel protein component of Pn transporter	 	4320859	4320239	Chromosome Escherichia coli K12-MG1655	
+b4123	dcuB	anaerobic dicarboxylate transport	 	4346322	4344982	Chromosome Escherichia coli K12-MG1655	
+b4127	yjdJ	orf, hypothetical protein	 	4349663	4349935	Chromosome Escherichia coli K12-MG1655	
+b4136	dsbD	thiol:disulfide interchange protein; copper tolerance	 	4362620	4360923	Chromosome Escherichia coli K12-MG1655	
+b4137	cutA	divalent cation tolerance protein; cytochrome c biogenesis	 	4362934	4362596	Chromosome Escherichia coli K12-MG1655	
+b4140	 	orf, hypothetical protein	 	4366341	4366718	Chromosome Escherichia coli K12-MG1655	
+b4141	yjeH	putative transport	 	4367990	4366734	Chromosome Escherichia coli K12-MG1655	
+b4148	sugE	suppresses groEL, may be chaperone	 	4374303	4374770	Chromosome Escherichia coli K12-MG1655	
+b4151	frdD	fumarate reductase, anaerobic, membrane anchor polypeptide	1.3.99.1	4376944	4376585	Chromosome Escherichia coli K12-MG1655	
+b4152	frdC	fumarate reductase, anaerobic, membrane anchor polypeptide	1.3.99.1	4377350	4376955	Chromosome Escherichia coli K12-MG1655	
+b4158	yjeO	orf, hypothetical protein	 	4383282	4383596	Chromosome Escherichia coli K12-MG1655	
+b4175	hflC	protease specific for phage lambda cII repressor	3.4.-.-	4400878	4401882	Chromosome Escherichia coli K12-MG1655	
+b4176	yjeT	orf, hypothetical protein	 	4401964	4402161	Chromosome Escherichia coli K12-MG1655	
+b4182	yjfJ	putative alpha helical protein	 	4408131	4408829	Chromosome Escherichia coli K12-MG1655	
+b4185	yjfM	orf, hypothetical protein	 	4409965	4410603	Chromosome Escherichia coli K12-MG1655	
+b4189	yjfO	orf, hypothetical protein	 	4414447	4414019	Chromosome Escherichia coli K12-MG1655	
+b4199	yjfY	orf, hypothetical protein	 	4422369	4422094	Chromosome Escherichia coli K12-MG1655	
+b4203	rplI	50S ribosomal subunit protein L9	 	4423686	4424135	Chromosome Escherichia coli K12-MG1655	
+b4206	ytfB	orf, hypothetical protein	 	4426331	4425657	Chromosome Escherichia coli K12-MG1655	
+b4229	ytfS	putative ATP-binding component of a transport system	 	4449862	4450134	Chromosome Escherichia coli K12-MG1655	
+b4230	ytfT	putative transport system permease protein	 	4450145	4451170	Chromosome Escherichia coli K12-MG1655	
+b4231	yjfF	putative transport system permease protein	 	4451181	4452152	Chromosome Escherichia coli K12-MG1655	
+b4255	yjgD	orf, hypothetical protein	 	4476036	4476452	Chromosome Escherichia coli K12-MG1655	
+b4257	yjgN	orf, hypothetical protein	 	4477310	4478491	Chromosome Escherichia coli K12-MG1655	
+b4261	yjgP	orf, hypothetical protein	 	4483786	4484886	Chromosome Escherichia coli K12-MG1655	
+b4277	yjgZ	orf, hypothetical protein	 	4498828	4499157	Chromosome Escherichia coli K12-MG1655	
+b4288	fecD	citrate-dependent iron transport, membrane-bound protein	 	4509982	4509026	Chromosome Escherichia coli K12-MG1655	
+b4289	fecC	citrate-dependent iron(III) transport protein, cytosolic	 	4510977	4509979	Chromosome Escherichia coli K12-MG1655	
+b4296	yjhF	putative transport system permease	 	4519588	4518239	Chromosome Escherichia coli K12-MG1655	
+b4314	fimA	major type 1 subunit fimbrin (pilin)	 	4540683	4541231	Chromosome Escherichia coli K12-MG1655	
+b4329	yjiG	orf, hypothetical protein	 	4557569	4557108	Chromosome Escherichia coli K12-MG1655	
+b4332	yjiJ	putative transport protein	 	4560244	4559066	Chromosome Escherichia coli K12-MG1655	
+b4341	yjiS	orf, hypothetical protein	 	4569320	4569484	Chromosome Escherichia coli K12-MG1655	
+b4354	yjiY	putative carbon starvation protein	 	4588864	4586699	Chromosome Escherichia coli K12-MG1655	
+b4362	dnaT	DNA biosynthesis; primosomal protein i	 	4599086	4598547	Chromosome Escherichia coli K12-MG1655	

@@ -1,0 +1,538 @@
+LACI_ECOLI	C6EJI7	A	Transcriptional regulator, LacI family	363	Y	Y		LACI_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent
+RHLB_ECOLI	C6EG33	A	ATP-dependent RNA helicase (DEAD/DEAH box helicase domain protein)	421	Y	Y		RHLB_ECOLI	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP binding
+RHO_ECOLI	C6EG30	A	Transcription termination factor Rho	419	Y	Y		RHO_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcriptional attenuation|transcription termination, DNA-dependent
+RPOC_ECOLI	C6EE31	A	DNA-directed RNA polymerase (EC 2.7.7.6)	1407	Y	Y		RPOC_ECOLI	transcription, DNA-dependent
+RPOD_ECOLI	C6EHS8	A	RNA polymerase sigma factor	613	Y	Y		RPOD_ECOLI	response to heat|transcription, DNA-dependent|regulation of transcription, DNA-dependent
+MUKB_ECOLI	C6EI58	A	Chromosome partition protein mukB (Structural maintenance of chromosome-related protein)	1486	Y	Y		MUKB_ECOLI	chromosome segregation|chromosome condensation|cell cycle|cell division
+OMPR_ECOLI	C6EFG9	A	Two component transcriptional regulator, winged helix family	239	Y	Y		OMPR_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|two-component signal transduction system (phosphorelay)
+
+PROQ_ECOLI	C6EBZ8	A	ProQ activator of osmoprotectant transporter ProP (Putative solute/DNA competence effector)	232	Y	Y		PROQ_ECOLI	positive regulation of transport
+
+
+HEMH_ECOLI	C6EKY9	A	Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase)	320		Y		HEMH_ECOLI	protoporphyrinogen IX metabolic process|heme biosynthetic process|response to light stimulus|porphyrin biosynthetic process
+
+
+PLSX_ECOLI	C6EHC4	A	Fatty acid/phospholipid synthesis protein PlsX	346		Y		PLSX_ECOLI	phospholipid biosynthetic process
+RFAP_ECOLI	C6EDG1	A	Lipopolysaccharide kinase	265		Y		RFAP_ECOLI	lipopolysaccharide biosynthetic process|phosphorylation
+RFAQ_ECOLI	C6EDF9	A	Lipopolysaccharide heptosyltransferase III	340		Y		RFAQ_ECOLI	lipopolysaccharide biosynthetic process
+WECG_ECOLI	C6EG17	A	Glycosyl transferase, WecB/TagA/CpsF family (EC 2.4.1.187) (Putative UDP-N-acetyl-D-mannosaminuronic acid transferase) (EC 2.4.1.-)	246		Y		WECG_ECOLI	transferase activity, transferring glycosyl groups|transferase activity
+YBBO_ECOLI	C6EKX1	A	Short-chain dehydrogenase/reductase SDR	256		Y		YBBO_ECOLI	oxidation-reduction process
+YHCM_ECOLI	C6EH00	A	AFG1-family ATPase (Conserved protein with nucleoside triphosphate hydrolase domain)	375		Y		YHCM_ECOLI	nucleotide binding|ATP binding
+ARND_ECOLI	C6E9U4	A	Polysaccharide deacetylase (Putative uncharacterized protein yfbH)	296	Y	Y		ARND_ECOLI	response to antibiotic|response to iron(III) ion|lipid biosynthetic process|lipid A biosynthetic process|lipopolysaccharide biosynthetic process
+FADI_ECOLI	C6ELB2	A	3-ketoacyl-CoA thiolase (EC 2.3.1.16) (ACSs) (Acetyl-CoA acyltransferase) (Acyl-CoA ligase) (Beta-ketothiolase) (Fatty acid oxidation complex subunit beta)	436	Y	Y		FADI_ECOLI	fatty acid metabolic process|lipid catabolic process|lipid metabolic process
+FADJ_ECOLI	C6ELB3	A	Fatty acid oxidation complex subunit alpha	714	Y	Y		FADJ_ECOLI	oxidation-reduction process|fatty acid metabolic process|lipid catabolic process|metabolic process|lipid metabolic process
+GATZ_ECOLI	C6EAL5	A	D-tagatose-bisphosphate aldolase, class II, non-catalytic subunit (Putative tagatose 6-phosphate kinase 1)	420	Y	Y		GATZ_ECOLI	galactitol metabolic process
+HEMG_ECOLI	C6EF48	A	Protoporphyrin oxidase, flavoprotein (EC 1.3.3.4) (Protoporphyrinogen oxidase) (EC 1.3.3.4)	181	Y	Y		HEMG_ECOLI	oxidation-reduction process|heme biosynthetic process|porphyrin biosynthetic process
+
+
+
+
+
+6PGD_ECOLI	C6EB56	A	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	468	Y			6PGD_ECOLI	oxidation-reduction process|D-gluconate metabolic process|pentose-phosphate shunt
+AAT_ECOLI	C6EI54	A	Aspartate aminotransferase, PLP-dependent (EC 2.6.1.1) (Aspartate transaminase) (EC 2.6.1.1)	396	Y			AAT_ECOLI	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate|aspartate biosynthetic process
+ACCA_ECOLI	C6EAA0	A	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 6.4.1.2)	319	Y			ACCA_ECOLI	lipid biosynthetic process|fatty acid biosynthetic process
+ACCC_ECOLI	C6EGK4	A	Acetyl-CoA carboxylase (EC 6.3.4.14) (Acetyl-CoA carboxylase, biotin carboxylase)	449	Y			ACCC_ECOLI	lipid biosynthetic process|negative regulation of fatty acid biosynthetic process|fatty acid biosynthetic process
+ACEA_ECOLI	C6EE08	A	Isocitrate lyase	434	Y			ACEA_ECOLI	glyoxylate cycle|tricarboxylic acid cycle
+ACKA_ECOLI	C6ELF7	A	Acetate kinase (EC 2.7.2.1) (Acetokinase)	400	Y			ACKA_ECOLI	phosphorylation
+ADD_ECOLI	C6EDM4	A	Adenosine deaminase (EC 3.5.4.4) (Adenosine aminohydrolase)	333	Y			ADD_ECOLI	purine nucleotide salvage|purine ribonucleoside monophosphate biosynthetic process|hypoxanthine salvage|purine nucleotide interconversion|adenosine catabolic process|nucleotide metabolic process
+AMPA_ECOLI	C6EC91	A	Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (Leucyl aminopeptidase)	503	Y			AMPA_ECOLI	plasmid recombination|peptide catabolic process
+ARCA_ECOLI	C6EBH0	A	DNA-binding response regulator in two-component regulatory system with ArcB or CpxA (Two component transcriptional regulator, winged helix family)	238	Y			ARCA_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|two-component signal transduction system (phosphorelay)
+ARGB_ECOLI	C6EE50	A	Acetylglutamate kinase	258	Y			ARGB_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process|phosphorylation
+ARGE_ECOLI	C6EE52	A	Acetylornithine deacetylase (EC 3.5.1.16) (Acetylornithine deacetylase (ArgE)) (EC 3.5.1.16)	383	Y			ARGE_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process
+ARLY_ECOLI	C6EE49	A	Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase)	457	Y			ARLY_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process
+ASPA_ECOLI	C6ECY6	A	Aspartate ammonia-lyase	478	Y			ASPA_ECOLI	lyase activity|aspartate ammonia-lyase activity
+ASSY_ECOLI	C6EH54	A	Argininosuccinate synthase (EC 6.3.4.5)	447	Y			ASSY_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process
+CARB_ECOLI	C6EB19	A	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase ammonia chain)	1073	Y			CARB_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process|pyrimidine nucleotide biosynthetic process
+CH10_ECOLI	C6ECY3	A	10 kDa chaperonin (Protein Cpn10) (groES protein)	97	Y			CH10_ECOLI	response to heat|phage assembly|cell cycle|cell division
+CH60_ECOLI	C6ECY2	A	60 kDa chaperonin (Protein Cpn60) (groEL protein)	548	Y			CH60_ECOLI	cell cycle|cell division
+CISY_ECOLI	C6EJL8	A	Citrate synthase (EC 2.3.3.1)	427	Y			CISY_ECOLI	tricarboxylic acid cycle|metabolic process
+CLPB_ECOLI	C6EJZ8	A	ATP-dependent chaperone ClpB (Protein disaggregation chaperone)	857	Y			CLPB_ECOLI	response to stress
+DAPD_ECOLI	C6EAB9	A	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117) (Tetrahydrodipicolinate N-succinyltransferase)	274	Y			DAPD_ECOLI	cellular amino acid biosynthetic process|lysine biosynthetic process|diaminopimelate biosynthetic process
+DBHA_ECOLI	C6EE18	A	HU, DNA-binding transcriptional regulator, alpha subunit (Histone family protein DNA-binding protein)	90	Y			DBHA_ECOLI	chromosome condensation
+
+DEAD_ECOLI	C6EH63	A	ATP-dependent RNA helicase (DEAD/DEAH box helicase domain protein)	629	Y			DEAD_ECOLI	ribosomal large subunit assembly|cellular response to cold|response to stress
+DEOB_ECOLI	C6EBI8	A	Phosphopentomutase (EC 5.4.2.7) (Phosphodeoxyribomutase)	407	Y			DEOB_ECOLI	isomerase activity|phosphopentomutase activity|metal ion binding
+DEOD_ECOLI	C6EBI7	A	Purine nucleoside phosphorylase deoD-type (PNP) (EC 2.4.2.1)	239	Y			DEOD_ECOLI	purine nucleoside interconversion|purine nucleoside catabolic process
+DNAB_ECOLI	C6EDW8	A	Replicative DNA helicase	471	Y			DNAB_ECOLI	DNA replication, synthesis of RNA primer|DNA replication
+DNAJ_ECOLI	C6EB39	A	Chaperone protein dnaJ	376	Y			DNAJ_ECOLI	protein refolding|response to heat|protein unfolding|DNA replication|response to stress
+DPO1_ECOLI	C6EF39	A	DNA polymerase I (EC 2.7.7.7)	928	Y			DPO1_ECOLI	DNA repair|response to DNA damage stimulus|DNA replication
+ENGB_ECOLI	C6EF37	A	GTP-binding protein HSR1-related	210	Y			ENGB_ECOLI	barrier septum formation|cell cycle|cell division
+ENO_ECOLI	C6EJ93	A	Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	432	Y			ENO_ECOLI	glycolysis
+FADB_ECOLI	C6EF52	A	Fatty acid oxidation complex subunit alpha	729	Y			FADB_ECOLI	oxidation-reduction process|fatty acid metabolic process|lipid catabolic process|metabolic process|lipid metabolic process
+FIS_ECOLI	C6EGJ9	A	DNA-binding protein Fis (Transcriptional regulator, Fis family)	98	Y			FIS_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent
+G3P1_ECOLI	C6EC50	A	Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (Glyceraldehyde-3-phosphate dehydrogenase, type I) (EC 1.2.1.12)	331	Y			G3P1_ECOLI	oxidation-reduction process|glycolysis
+GCSP_ECOLI	C6EIK5	A	Glycine dehydrogenase [decarboxylating] (EC 1.4.4.2) (Glycine cleavage system P-protein) (Glycine decarboxylase)	957	Y			GCSP_ECOLI	oxidation-reduction process
+GLGA_ECOLI	C6EFE5	A	Glycogen synthase (EC 2.4.1.21) (Starch [bacterial glycogen] synthase)	477	Y			GLGA_ECOLI	glycogen biosynthetic process
+GLMS_ECOLI	C6EG74	A	D-fructose-6-phosphate amidotransferase (EC 2.6.1.16) (Glucosamine/fructose-6-phosphate aminotransferase, isomerizing)	609	Y			GLMS_ECOLI	glutamine metabolic process|UDP-N-acetylglucosamine biosynthetic process
+GLRX3_ECOLI	C6EDH9	A	Glutaredoxin 3	83	Y			GLRX3_ECOLI	transport|deoxyribonucleotide biosynthetic process|electron transport chain
+GLTB_ECOLI	C6EH15	A	Glutamate synthase (Ferredoxin) (EC 1.4.7.1) (Glutamate synthase, large subunit) (EC 1.4.1.13)	1517	Y			GLTB_ECOLI	oxidation-reduction process|cellular amino acid biosynthetic process|glutamine metabolic process|glutamate biosynthetic process
+
+GPMA_ECOLI	C6EJI9	A	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (BPG-dependent PGAM) (PGAM) (Phosphoglyceromutase) (dPGM) (EC 5.4.2.1)	250	Y			GPMA_ECOLI	glycolysis
+GRPE_ECOLI	C6EJX9	A	Protein grpE (HSP-70 cofactor)	197	Y			GRPE_ECOLI	response to heat|protein unfolding|response to stress
+GUAA_ECOLI	C6EKK2	A	Bifunctional GMP synthase/glutamine amidotransferase protein (EC 6.3.4.1) (EC 6.3.5.2) (GMP synthase, large subunit)	525	Y			GUAA_ECOLI	GMP biosynthetic process|glutamine metabolic process|purine nucleotide biosynthetic process
+GYRB_ECOLI	C6ECI0	A	DNA gyrase subunit B (EC 5.99.1.3)	804	Y			GYRB_ECOLI	response to antibiotic|DNA topological change|response to drug|DNA-dependent DNA replication
+HFLX_ECOLI	C6ECH6	A	GTP-binding proten HflX (Predicted GTPase)	426	Y			HFLX_ECOLI	response to heat
+HNS_ECOLI	C6EGN0	A	Global DNA-binding transcriptional dual regulator H-NS (Histone family protein nucleoid-structuring protein H-NS)	137	Y			HNS_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent
+HSLO_ECOLI	C6EFH4	A	33 kDa chaperonin (Heat shock protein 33 homolog)	292	Y			HSLO_ECOLI	response to heat|response to stress
+HSLU_ECOLI	C6EE78	A	ATP-dependent protease ATPase subunit HslU (Heat shock protein HslU) (Unfoldase HslU)	443	Y			HSLU_ECOLI	response to heat|response to stress
+ILVD_ECOLI	C6EG40	A	Dihydroxy-acid dehydratase (DAD) (EC 4.2.1.9)	616	Y			ILVD_ECOLI	cellular amino acid biosynthetic process|branched chain family amino acid biosynthetic process
+ISCS_ECOLI	C6EKH7	A	Cysteine desulfurase (EC 2.8.1.7)	404	Y			ISCS_ECOLI	tRNA processing|oxazole or thiazole biosynthetic process|iron-sulfur cluster assembly|tRNA pseudouridine synthesis
+ISPG_ECOLI	C6EKJ4	A	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.7.1) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase)	372	Y			ISPG_ECOLI	oxidation-reduction process|isoprenoid biosynthetic process
+KAD_ECOLI	C6EKZ0	A	Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase)	214	Y			KAD_ECOLI	purine ribonucleotide interconversion|purine ribonucleotide biosynthetic process|nucleotide biosynthetic process|phosphorylation
+KBL_ECOLI	C6EDH2	A	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	398	Y			KBL_ECOLI	pyridoxal phosphate binding|transferase activity|glycine C-acetyltransferase activity|acyltransferase activity|ligase activity|metal ion binding
+KPRS_ECOLI	C6EGQ9	A	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	337	Y			KPRS_ECOLI	nucleotide biosynthetic process|phosphorylation
+KPYK2_ECOLI	C6EBX3	A	Pyruvate kinase (EC 2.7.1.40)	480	Y			KPYK2_ECOLI	glycolysis|metabolic process|phosphorylation
+LONH_ECOLI	C6EI27	A	Predicted peptidase (Putative ATP-dependent protease)	586	Y			LONH_ECOLI	hydrolase activity|serine-type peptidase activity|peptidase activity
+METH_ECOLI	C6EE05	A	B12-dependent methionine synthase (EC 2.1.1.13) (Methionine synthase)	1227	Y			METH_ECOLI	cellular amino acid biosynthetic process|methionine biosynthetic process|methylation
+NDK_ECOLI	C6EKJ1	A	Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase)	143	Y			NDK_ECOLI	phosphorylation|nucleotide metabolic process
+NUSA_ECOLI	C6EH56	A	NusA antitermination factor (Transcription elongation factor NusA)	495	Y			NUSA_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription antitermination|transcription termination, DNA-dependent|response to stress
+NUSG_ECOLI	C6EE37	A	Transcription antitermination protein nusG	181	Y			NUSG_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|transcription antitermination|transcription termination, DNA-dependent
+ODO1_ECOLI	C6EJL2	A	2-oxoglutarate dehydrogenase, E1 subunit (EC 1.2.4.2) (Alpha-ketoglutarate decarboxylase) (EC 1.2.4.2)	933	Y			ODO1_ECOLI	oxidation-reduction process|glycolysis
+ODO2_ECOLI	C6EJL1	A	2-oxoglutarate dehydrogenase, E2 subunit, dihydrolipoamide succinyltransferase (Dihydrolipoamide acetyltransferase) (EC 2.3.1.61)	405	Y			ODO2_ECOLI	tricarboxylic acid cycle
+OPDA_ECOLI	C6EEI7	A	Oligopeptidase A (EC 3.4.24.70)	680	Y			OPDA_ECOLI	metallopeptidase activity|hydrolase activity|peptidase activity|metal ion binding
+PDXH_ECOLI	C6EDK7	A	Pyridoxine/pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5) (PNP/PMP oxidase) (Pyridoxal 5'-phosphate synthase)	218	Y			PDXH_ECOLI	oxidation-reduction process|pyridoxine biosynthetic process|pyridoxal 5'-phosphate salvage
+PFLB_ECOLI	C6EK07	A	Autonomous glycyl radical cofactor	127	Y			PFLB_ECOLI	glucose metabolic process|carbohydrate metabolic process
+
+PGK_ECOLI	C6EII3	A	Phosphoglycerate kinase (EC 2.7.2.3)	387	Y			PGK_ECOLI	glycolysis|phosphorylation
+PHOL_ECOLI	C6EK35	A	PhoH family protein (Predicted protein with nucleoside triphosphate hydrolase domain)	359	Y			PHOL_ECOLI	nucleotide binding|ATP binding
+PPIB_ECOLI	C6EKU1	A	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	164	Y			PPIB_ECOLI	protein folding
+PPSA_ECOLI	C6ECQ5	A	Phosphoenolpyruvate synthase (EC 2.7.9.2)	792	Y			PPSA_ECOLI	gluconeogenesis|phosphorylation
+RFAF_ECOLI	C6EDH0	A	ADP-heptose:LPS heptosyltransferase II (EC 2.-.-.-) (Lipopolysaccharide heptosyltransferase II)	348	Y			RFAF_ECOLI	lipopolysaccharide biosynthetic process
+RHLE_ECOLI	C6EIY5	A	DEAD/DEAH box helicase domain protein (RNA helicase)	454	Y			RHLE_ECOLI	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP-dependent RNA helicase activity|ATP binding
+RIR1_ECOLI	C6E9W7	A	Ribonucleoside-diphosphate reductase (EC 1.17.4.1)	761	Y			RIR1_ECOLI	oxidation-reduction process|nucleobase, nucleoside and nucleotide interconversion|deoxyribonucleotide biosynthetic process|DNA replication|metabolic process
+RLME_ECOLI	C6EH48	A	Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.-) (23S rRNA Um2252 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase)	209	Y			RLME_ECOLI	enzyme-directed rRNA 2'-O-methylation|methylation|rRNA processing|response to stress
+RLUB_ECOLI	C6EFW8	A	Pseudouridine synthase (EC 5.4.99.-)	291	Y			RLUB_ECOLI	rRNA processing|enzyme-directed rRNA pseudouridine synthesis
+RLUF_ECOLI	C6EE02	A	Pseudouridine synthase (EC 5.4.99.-)	290	Y			RLUF_ECOLI	rRNA processing|enzyme-directed rRNA pseudouridine synthesis
+RNR_ECOLI	C6ECH0	A	Exoribonuclease R, RNase R (EC 3.1.-.-) (VacB and RNase II family 3'-5' exoribonuclease) (EC 3.1.13.1)	813	Y			RNR_ECOLI	pathogenesis|response to stress
+RPOA_ECOLI	C6EGH1	A	DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6) (DNA-directed RNA polymerase, alpha subunit)	329	Y			RPOA_ECOLI	transcription, DNA-dependent
+RPOB_ECOLI	C6EE32	A	DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta)	1342	Y			RPOB_ECOLI	transcription, DNA-dependent
+RPOZ_ECOLI	C6EDE1	A	DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (EC 2.7.7.6) (RNA polymerase omega subunit) (Transcriptase subunit omega)	91	Y			RPOZ_ECOLI	transcription, DNA-dependent
+RSGA_ECOLI	C6ECW4	A	Putative ribosome biogenesis GTPase RsgA (EC 3.6.1.-)	350	Y			RSGA_ECOLI	ribosomal small subunit biogenesis
+SRMB_ECOLI	C6EK10	A	ATP-dependent RNA helicase (EC 2.7.7.-) (DEAD/DEAH box helicase domain protein)	444	Y			SRMB_ECOLI	ribosomal large subunit assembly
+STHA_ECOLI	C6EE47	A	Soluble pyridine nucleotide transhydrogenase (STH) (EC 1.6.1.1) (NAD(P)(+) transhydrogenase [B-specific])	466	Y			STHA_ECOLI	oxidation-reduction process
+STPA_ECOLI	C6EJV6	A	DNA binding protein, nucleoid-associated (Histone family protein nucleoid-structuring protein H-NS)	134	Y			STPA_ECOLI	DNA binding
+SUCC_ECOLI	C6EJL0	A	Succinyl-CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta)	388	Y			SUCC_ECOLI	tricarboxylic acid cycle
+SUCD_ECOLI	C6EJK9	A	Succinyl-CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5)	289	Y			SUCD_ECOLI	tricarboxylic acid cycle
+SUHB_ECOLI	C6EKH4	A	Inositol monophosphatase	267	Y			SUHB_ECOLI	inositol phosphate dephosphorylation
+TALB_ECOLI	C6EBG1	A	Transaldolase (EC 2.2.1.2)	317	Y			TALB_ECOLI	pentose-phosphate shunt
+TPIS_ECOLI	C6EEX9	A	Triosephosphate isomerase (TIM) (EC 5.3.1.1) (Triose-phosphate isomerase)	255	Y			TPIS_ECOLI	pentose-phosphate shunt|gluconeogenesis|glycolysis
+TPX_ECOLI	C6EFQ8	A	Redoxin domain protein (Thiol peroxidase) (EC 1.11.1.-)	168	Y			TPX_ECOLI	oxidation-reduction process|cellular response to oxidative stress
+TREC_ECOLI	C6ECA9	A	Alpha,alpha-phosphotrehalase (Trehalose-6-P hydrolase) (EC 3.2.1.93)	551	Y			TREC_ECOLI	metabolic process
+
+
+
+YFIF_ECOLI	C6EK05	A	Predicted methyltransferase (EC 2.1.1.-) (tRNA/rRNA methyltransferase (SpoU))	345	Y			YFIF_ECOLI	methylation
+
+
+
+
+GATD_ECOLI	C6EAL9	A	Alcohol dehydrogenase GroES domain protein (Galactitol-1-phosphate dehydrogenase, Zn-dependent and NAD(P)-binding) (EC 1.1.1.251)	346	Y			GATD_ECOLI	oxidation-reduction process|galactitol catabolic process|galactitol metabolic process
+IDH_ECOLI	C6EGV5	A	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	416	Y			IDH_ECOLI	oxidation-reduction process|glyoxylate cycle|electron transport chain|tricarboxylic acid cycle
+LRP_ECOLI	C6EI93	A	DNA-binding transcriptional dual regulator, leucine-binding (Transcriptional regulator, AsnC family)	164	Y			LRP_ECOLI	response to leucine|regulation of transcription, DNA-dependent|transcription, DNA-dependent
+PYRG_ECOLI	C6EJ92	A	CTP synthase (EC 6.3.4.2) (CTP synthetase) (UTP--ammonia ligase)	545	Y			PYRG_ECOLI	glutamine metabolic process|pyrimidine nucleotide biosynthetic process|CTP biosynthetic process
+TYPH_ECOLI	C6EBI9	A	Thymidine phosphorylase (EC 2.4.2.4) (TdRPase)	440	Y			TYPH_ECOLI	thymidine phosphorylase activity|transferase activity, transferring glycosyl groups|transferase activity
+
+
+ATPA_ECOLI	C6EG69	F1	ATP synthase subunit alpha (EC 3.6.3.14) (ATP synthase F1 sector subunit alpha) (F-ATPase subunit alpha)	513	Y	Y		ATPA_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+ATPB_ECOLI	C6EG71	F1	ATP synthase subunit beta (EC 3.6.3.14) (ATP synthase F1 sector subunit beta) (F-ATPase subunit beta)	460	Y	Y		ATPB_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+ATPD_ECOLI	C6EG68	F1	ATP synthase subunit delta (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta)	177	Y	Y		ATPD_ECOLI	transport|proton transport|ion transport|histidine biosynthetic process|ATP biosynthetic process
+ATPG_ECOLI	C6EG70	F1	ATP synthase gamma chain (ATP synthase F1 sector gamma subunit) (F-ATPase gamma subunit)	287	Y	Y		ATPG_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+CYSA_ECOLI	C6EL55	F1	Sulfate ABC transporter, ATPase subunit (Sulfate/thiosulfate transporter subunit)	365	Y	Y		CYSA_ECOLI	sulfate transport|transport
+DADA_ECOLI	C6EGS8	F1	D-amino acid dehydrogenase small subunit (EC 1.4.99.1) (D-amino-acid dehydrogenase) (EC 1.4.99.1)	432	Y	Y		DADA_ECOLI	oxidation-reduction process
+DHNA_ECOLI	C6EGY3	F1	FAD-dependent pyridine nucleotide-disulphide oxidoreductase (Respiratory NADH dehydrogenase 2/cupric reductase) (EC 1.16.1.-) (EC 1.6.99.3)	434	Y	Y		DHNA_ECOLI	oxidation-reduction process|transport|aerobic electron transport chain|electron transport chain|aerobic respiration
+DHSA_ECOLI	C6EJL4	F1	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) (Succinate dehydrogenase or fumarate reductase, flavoprotein subunit)	588	Y	Y		DHSA_ECOLI	oxidation-reduction process|transport|tricarboxylic acid cycle|electron transport chain|aerobic respiration
+DHSB_ECOLI	C6EJL3	F1	Succinate dehydrogenase and fumarate reductase iron-sulfur protein (EC 1.3.99.1) (Succinate dehydrogenase, FeS subunit) (EC 1.3.99.1)	238	Y	Y		DHSB_ECOLI	oxidation-reduction process|transport|tricarboxylic acid cycle|electron transport chain|aerobic respiration
+DLDH_ECOLI	C6EAU1	F1	Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	474	Y	Y		DLDH_ECOLI	oxidation-reduction process|pyruvate metabolic process|glycine decarboxylation via glycine cleavage system|glycolysis|tricarboxylic acid cycle|2-oxoglutarate metabolic process
+DNAK_ECOLI	C6EB40	F1	Chaperone protein DnaK (Molecular chaperone DnaK)	638	Y	Y		DNAK_ECOLI	DNA replication|response to stress
+FTSA_ECOLI	C6EAW1	F1	Cell division protein (Cell division protein FtsA)	420	Y	Y		FTSA_ECOLI	regulation of cell shape|cell cycle|cell division|cytokinesis
+FTSE_ECOLI	C6EFB1	F1	Type II (General) Secretory Pathway (IISP) Family protein	222	Y	Y		FTSE_ECOLI	response to antibiotic|cell cycle|cell division|cytokinesis
+FTSZ_ECOLI	C6EAW0	F1	Cell division protein ftsZ	383	Y	Y		FTSZ_ECOLI	protein polymerization|barrier septum formation|cell cycle|cell division
+GLNQ_ECOLI	C6EIX3	F1	ABC transporter related (Glutamine ABC transporter ATP-binding protein)	240	Y	Y		GLNQ_ECOLI	amino acid transport|transport
+GLPD_ECOLI	C6EFE8	F1	FAD dependent oxidoreductase	501	Y	Y		GLPD_ECOLI	oxidation-reduction process|glycerol metabolic process
+LOLD_ECOLI	C6EGX5	F1	Lipoprotein releasing system, ATP-binding protein (Outer membrane-specific lipoprotein transporter subunit)	233	Y	Y		LOLD_ECOLI	transport|lipoprotein transport
+METN_ECOLI	C6EA85	F1	D-methionine ABC transporter, ATPase subunit (DL-methionine transporter subunit)	343	Y	Y		METN_ECOLI	amino acid transport|transport
+MREB_ECOLI	C6EGL0	F1	Cell shape determining protein, MreB/Mrl family (Cell wall structural complex MreBCD, actin-like component MreB)	347	Y	Y		MREB_ECOLI	regulation of cell shape
+MURG_ECOLI	C6EAW5	F1	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase)	355	Y	Y		MURG_ECOLI	regulation of cell shape|peptidoglycan biosynthetic process|cell cycle|cell division|cellular cell wall organization
+NUOCD_ECOLI	C6E9R6	F1	NADH dehydrogenase I, D subunit (NADH:ubiquinone oxidoreductase, chain C,D) (EC 1.6.5.3)	600	Y	Y		NUOCD_ECOLI	oxidation-reduction process|transport|metabolic process|anaerobic respiration
+NUOF_ECOLI	C6E9R8	F1	NADH-quinone oxidoreductase, F subunit (EC 1.6.99.5) (NADH:ubiquinone oxidoreductase, chain F) (EC 1.6.5.3)	445	Y	Y		NUOF_ECOLI	oxidation-reduction process|aerobic respiration|anaerobic respiration
+NUOG_ECOLI	C6E9R9	F1	NADH-quinone oxidoreductase (EC 1.6.99.5)	908	Y	Y		NUOG_ECOLI	oxidation-reduction process|aerobic respiration|anaerobic respiration
+NUOI_ECOLI	C6E9S1	F1	NADH-quinone oxidoreductase subunit I (EC 1.6.99.5) (NADH dehydrogenase I subunit I) (NDH-1 subunit I)	180	Y	Y		NUOI_ECOLI	oxidation-reduction process|aerobic respiration|anaerobic respiration
+PLSB_ECOLI	C6EDX9	F1	Glycerol-3-phosphate acyltransferase (GPAT) (EC 2.3.1.15)	807	Y	Y		PLSB_ECOLI	phospholipid biosynthetic process
+PLSC_ECOLI	C6EHX6	F1	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	245	Y	Y		PLSC_ECOLI	phospholipid biosynthetic process
+PSS_ECOLI	C6EK01	F1	Phosphatidylserine synthase (EC 2.7.8.8) (Phospholipase D/Transphosphatidylase)	451	Y	Y		PSS_ECOLI	phospholipid biosynthetic process
+PUTA_ECOLI	C6EHJ3	F1	Delta-1-pyrroline-5-carboxylate dehydrogenase (Fused DNA-binding transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase) (EC 1.5.1.12) (EC 1.5.99.8)	1320	Y	Y		PUTA_ECOLI	oxidation-reduction process|transcription, DNA-dependent|proline catabolic process to glutamate|regulation of transcription, DNA-dependent|proline metabolic process|metabolic process
+RNE_ECOLI	C6EHC9	F1	Fused ribonucleaseE: endoribonuclease/RNA-binding protein/RNA degradosome binding protein (EC 3.1.4.-) (Ribonuclease, Rne/Rng family)	1061	Y	Y		RNE_ECOLI	RNA catabolic process
+SECA_ECOLI	C6EAV7	F1	Protein translocase subunit secA	901	Y	Y		SECA_ECOLI	transport|protein transport|transmembrane transport
+UGPC_ECOLI	C6EFC4	F1	ABC transporter related	356	Y	Y		UGPC_ECOLI	carbohydrate transport|glycerol-3-phosphate transport|transport|glycerol-2-phosphate transport
+YEFI_ECOLI	C6EB51	F1	Glycosyl transferase group 1 (Putative glycosyltransferase WbbC)	370	Y	Y		YEFI_ECOLI	lipopolysaccharide biosynthetic process
+DNAA_ECOLI	C6ECH7	F1	Chromosomal replication initiator protein dnaA	467		Y		DNAA_ECOLI	regulation of DNA replication|DNA replication|DNA-dependent DNA replication
+HFLD_ECOLI	C6EGV9	F1	High frequency lysogenization protein hflD	213		Y		HFLD_ECOLI	response to heat
+MLAF_ECOLI	C6EH32	F1	ABC transporter related (Predicted toluene transporter subunit: ATP-binding component of ABC superfamily)	269		Y		MLAF_ECOLI	transport|phospholipid transport
+PYRD_ECOLI	C6EI37	F1	Dihydroorotate dehydrogenase (EC 1.3.5.2) (DHOdehase) (Dihydroorotate oxidase)	336		Y		PYRD_ECOLI	oxidation-reduction process|cellular amino acid biosynthetic process|pyrimidine nucleotide biosynthetic process|diaminopimelate biosynthetic process
+RNFB_ECOLI	C6EDL8	F1	Electron transport complex protein rnfB	192		Y		RNFB_ECOLI	transport|electron transport chain
+YADG_ECOLI	C6EAT0	F1	ABC transporter related (Predicted transporter subunit: ATP-binding component of ABC superfamily)	308		Y		YADG_ECOLI	transport
+
+ACP_ECOLI	C6EHC0	F1	Acyl carrier protein (ACP)	78	Y			ACP_ECOLI	lipid biosynthetic process|fatty acid biosynthetic process
+ATPE_ECOLI	C6EG72	F1	ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit) (F-ATPase epsilon subunit)	139	Y			ATPE_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+BETA_ECOLI	C6ELS0	F1	Choline dehydrogenase (EC 1.1.99.1)	556	Y			BETA_ECOLI	oxidation-reduction process|glycine betaine biosynthetic process from choline|response to osmotic stress|response to stress
+FRDA_ECOLI	C6ECW9	F1	Fumarate reductase (EC 1.3.99.1) (Fumarate reductase, flavoprotein subunit)	602	Y			FRDA_ECOLI	oxidation-reduction process|transport|electron transport chain
+HTPG_ECOLI	C6EKZ1	F1	Chaperone protein htpG (Heat shock protein htpG) (High temperature protein G)	624	Y			HTPG_ECOLI	protein folding|response to heat|response to stress
+LPTB_ECOLI	C6EH26	F1	ABC transporter related (Predicted transporter subunit: ATP-binding component of ABC superfamily)	241	Y			LPTB_ECOLI	transport|lipopolysaccharide transport
+MDH_ECOLI	C6EGZ6	F1	Malate dehydrogenase (EC 1.1.1.37)	312	Y			MDH_ECOLI	oxidation-reduction process|glycolysis|malate metabolic process|tricarboxylic acid cycle|fermentation|anaerobic respiration
+NUOB_ECOLI	C6E9R5	F1	NADH-quinone oxidoreductase subunit B (EC 1.6.99.5) (NADH dehydrogenase I subunit B) (NDH-1 subunit B)	220	Y			NUOB_ECOLI	oxidation-reduction process|electron transport coupled proton transport|transport|anaerobic respiration|aerobic respiration
+ODP2_ECOLI	C6EAU2	F1	Dihydrolipoamide acetyltransferase (EC 2.3.1.12) (Pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase) (EC 2.3.1.12)	630	Y			ODP2_ECOLI	glycolysis
+PARC_ECOLI	C6EHX4	F1	DNA topoisomerase IV subunit A (EC 5.99.1.-) (DNA topoisomerase IV, A subunit) (EC 5.99.1.3)	752	Y			PARC_ECOLI	DNA topological change|sister chromatid cohesion|chromosome segregation|plasmid partitioning|DNA-dependent DNA replication
+PNP_ECOLI	C6EH61	F1	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	711	Y			PNP_ECOLI	response to stress
+PPK_ECOLI	C6EKL0	F1	Polyphosphate kinase (EC 2.7.4.1)	688	Y			PPK_ECOLI	phosphorylation
+PSPA_ECOLI	C6EFS8	F1	Phage shock protein A, PspA (Regulatory protein for phage-shock-protein operon)	222	Y			PSPA_ECOLI	response to heat|response to stress
+PTNAB_ECOLI	C6EC13	F1	Fused mannose-specific PTS enzymes: IIA component/IIB component (EC 2.7.1.69) (PTS system, mannose/fructose/sorbose family, IIA subunit) (EC 2.7.1.69)	323	Y			PTNAB_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+RPOE_ECOLI	C6EK14	F1	RNA polymerase sigma factor	191	Y			RPOE_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|response to stress
+SECB_ECOLI	C6EDI0	F1	Protein-export protein secB	155	Y			SECB_ECOLI	transport|protein targeting|protein transport|protein transport by the Sec complex|transmembrane transport
+SEQA_ECOLI	C6EJP7	F1	Regulatory protein for replication initiation (SeqA family protein)	181	Y			SEQA_ECOLI	negative regulation of DNA replication
+MQO_ECOLI	C6E9Y9	F1	Probable malate:quinone oxidoreductase (EC 1.1.5.4) (MQO) (Malate dehydrogenase [quinone])	548	Y			MQO_ECOLI	oxidation-reduction process|tricarboxylic acid cycle
+ODP1_ECOLI	C6EAU3	F1	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	887	Y			ODP1_ECOLI	oxidation-reduction process|glycolysis|acetyl-CoA biosynthetic process from pyruvate
+
+
+ACRB_ECOLI	C6EL02	B	Multidrug efflux system protein (Transporter, hydrophobe/amphiphile efflux-1 (HAE1) family)	1049	Y	Y		ACRB_ECOLI	transport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRP54_ECOLI	C6EJY2	F1	Signal Recognition Particle (SRP) component with 4.5S RNA (Ffs) (Signal recognition particle protein)	453	Y	Y	"signal recognition particle, endoplasmic reticulum targeting ; ribonucleoprotein complex"	SRP54_ECOLI	protein targeting to membrane
+EFTU2_ECOLI	C6EE39	F1	Elongation factor Tu	394	Y	Y	translational elongation	EFTU2_ECOLI	translational elongation|response to antibiotic|translation
+LEPA_ECOLI	C6EK18	F1	GTP-binding protein lepA	599	Y		translation	LEPA_ECOLI	translational elongation|translation
+ACCD_ECOLI	C6ELD7	A	Acetyl-CoA carboxylase subunit beta (EC 6.4.1.2) (Acetyl-CoA carboxylase, carboxyl transferase, beta subunit)	304	Y	Y	regulation of translation	ACCD_ECOLI	lipid biosynthetic process|negative regulation of translation|fatty acid biosynthetic process|regulation of translation
+SYA_ECOLI	C6EJT4	A	Alanyl-tRNA synthetase (EC 6.1.1.7) (Alanine--tRNA ligase)	876	Y		translation	SYA_ECOLI	alanyl-tRNA aminoacylation|translation|negative regulation of transcription, DNA-dependent
+SYM_ECOLI	C6EAJ7	A	Methionyl-tRNA synthetase	677	Y		translation	SYM_ECOLI	translation
+SYN_ECOLI	C6EI52	A	Asparaginyl-tRNA synthetase (EC 6.1.1.22) (Asparagine--tRNA ligase)	466	Y		translation	SYN_ECOLI	glutamine metabolic process|cellular amino acid catabolic process|translation|asparagine biosynthetic process
+SYP_ECOLI	C6EA90	A	Prolyl-tRNA synthetase (EC 6.1.1.15) (Proline--tRNA ligase)	572	Y		translation	SYP_ECOLI	prolyl-tRNA aminoacylation|translation
+SYY_ECOLI	C6EDK8	A	Tyrosyl-tRNA synthetase (EC 6.1.1.1) (Tyrosine--tRNA ligase)	424	Y		translation	SYY_ECOLI	translation
+IF2_ECOLI	C6EH57	A	Translation initiation factor IF-2	890	Y		translational initiation	IF2_ECOLI	translational initiation|translation
+IF3_ECOLI	C6ECN9	A	Translation initiation factor IF-3	180	Y		translational initiation	IF3_ECOLI	translational initiation|response to cold|ribosome disassembly|translation
+IHFA_ECOLI	C6ECP5	A	Integration host factor subunit alpha (IHF-alpha)	99	Y		regulation of translation	IHFA_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|DNA recombination|regulation of translation
+IHFB_ECOLI	C6EI70	A	Integration host factor subunit beta (IHF-beta)	94	Y		regulation of translation	IHFB_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|DNA recombination|regulation of translation
+EFG_ECOLI	C6EGC4	A	Elongation factor G (EF-G)	704	Y		translational elongation	EFG_ECOLI	translational elongation|translation
+EFTS_ECOLI	C6EAB5	A	Elongation factor Ts (EF-Ts)	283	Y		translational elongation	EFTS_ECOLI	translational elongation|translation
+DEF_ECOLI	C6EGI0	A	Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase)	169	Y		translation	DEF_ECOLI	translation|N-terminal protein amino acid modification
+AMPM_ECOLI	C6EAB7	A	Methionine aminopeptidase (EC 3.4.11.18)	264	Y		protein initiator methionine removal	AMPM_ECOLI	protein initiator methionine removal
+ACON2_ECOLI	C6EAT9	A	Aconitate hydratase 2 (EC 4.2.1.3)	865	Y		regulation of translation	ACON2_ECOLI	propionate catabolic process, 2-methylcitrate cycle|tricarboxylic acid cycle|regulation of translation
+HRPA_ECOLI	C6EEV0	A	ATP-dependent helicase HrpA	1300	Y		mRNA processing	HRPA_ECOLI	mRNA processing
+TIG_ECOLI	C6EL29	A	Trigger factor (TF)	432	Y		'de novo' cotranslational protein folding	TIG_ECOLI	protein folding|protein complex assembly|cell cycle|cell division|'de novo' cotranslational protein folding
+PCNB_ECOLI	C6EAE1	A	Poly(A) polymerase (EC 2.7.7.19)	472	Y		mRNA processing	PCNB_ECOLI	plasmid maintenance|mRNA processing|mRNA polyadenylation|transcription, DNA-dependent|RNA modification
+RL1_ECOLI	C6EE35	A	50S ribosomal protein L1	234	Y	Y	regulation of translation	RL1_ECOLI	negative regulation of translational initiation|regulation of translation
+RL10_ECOLI	C6EE34	A	50S ribosomal protein L10	165	Y	Y	regulation of translation	RL10_ECOLI	regulation of translation
+RL11_ECOLI	C6EE36	A	50S ribosomal protein L11	142	Y	Y	ribosome	RL11_ECOLI	stringent response|translational termination
+RL14_ECOLI	C6EGF6	A	50S ribosomal protein L14	123	Y	Y	ribosome	RL14_ECOLI	RNA binding|rRNA binding
+RL15_ECOLI	C6EGG5	A	50S ribosomal protein L15	144	Y	Y	ribosome	RL15_ECOLI	RNA binding|rRNA binding
+RL16_ECOLI	C6EGF3	A	50S ribosomal protein L16	136	Y	Y	ribosome	RL16_ECOLI	RNA binding|rRNA binding|tRNA binding
+
+RL18_ECOLI	C6EGG2	A	50S ribosomal protein L18	117	Y	Y	ribosome	RL18_ECOLI	RNA binding|rRNA binding
+RL2_ECOLI	C6EGE9	A	50S ribosomal protein L2	273	Y	Y	ribosome	RL2_ECOLI	RNA binding|rRNA binding|zinc ion binding
+RL20_ECOLI	C6ECP1	A	50S ribosomal protein L20	118	Y	Y	ribosome	RL20_ECOLI	ribosomal large subunit assembly
+
+RL5_ECOLI	C6EGF8	A	50S ribosomal protein L5	179	Y	Y	ribosome	RL5_ECOLI	RNA binding|rRNA binding|tRNA binding
+
+RS10_ECOLI	C6EGE5	A	30S ribosomal protein S10	103	Y	Y	ribosome	RS10_ECOLI	translation|transcription antitermination
+RS12_ECOLI	C6EGC2	A	30S ribosomal protein S12	124	Y	Y	ribosome	RS12_ECOLI	RNA folding|response to antibiotic|Group I intron splicing|positive regulation of RNA splicing|translation
+RS13_ECOLI	C6EGG8	A	30S ribosomal protein S13	118	Y	Y	ribosome	RS13_ECOLI	translation
+RS14_ECOLI	C6EGF9	A	30S ribosomal protein S14 (Ribosomal protein S14)	101	Y	Y	ribosome	RS14_ECOLI	translation
+RS18_ECOLI	C6ECE7	A	30S ribosomal protein S18	75	Y	Y	ribosome	RS18_ECOLI	translation
+RS2_ECOLI	C6EAB6	A	30S ribosomal protein S2	241	Y	Y	ribosome	RS2_ECOLI	translation
+RS21_ECOLI	C6EHT0	A	30S ribosomal protein S21	71	Y	Y	ribosome	RS21_ECOLI	translation
+RS3_ECOLI	C6EGF2	A	30S ribosomal protein S3	233	Y	Y	ribosome	RS3_ECOLI	translation
+RS4_ECOLI	C6EGH0	A	30S ribosomal protein S4	206	Y	Y	regulation of translation	RS4_ECOLI	response to antibiotic|regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription termination, DNA-dependent|regulation of translation
+RS5_ECOLI	C6EGG3	A	30S ribosomal protein S5	167	Y	Y	ribosome	RS5_ECOLI	response to antibiotic|translation
+RS9_ECOLI	C6EH02	A	30S ribosomal protein S9	130	Y	Y	ribosome	RS9_ECOLI	translation
+RS11_ECOLI	C6EGG9	A	30S ribosomal protein S11	129		Y	ribosome	RS11_ECOLI	translation
+RL13_ECOLI	C6EH01	A	50S ribosomal protein L13	142	Y		ribosome	RL13_ECOLI	zinc ion binding
+RL19_ECOLI	C6EJY6	A	50S ribosomal protein L19	115	Y		ribosome	RL19_ECOLI	RNA binding|rRNA binding
+RL21_ECOLI	C6EH41	A	50S ribosomal protein L21	103	Y		ribosome	RL21_ECOLI	RNA binding|rRNA binding
+RL22_ECOLI	C6EGF1	A	50S ribosomal protein L22	110	Y		ribosome	RL22_ECOLI	response to antibiotic
+RL23_ECOLI	C6EGE8	A	50S ribosomal protein L23	100	Y		ribosome	RL23_ECOLI	RNA binding|rRNA binding
+RL24_ECOLI	C6EGF7	A	50S ribosomal protein L24	104	Y		ribosome	RL24_ECOLI	structural constituent of ribosome|RNA binding|rRNA binding
+RL25_ECOLI	C6EA12	A	50S ribosomal protein L25	94	Y		ribosome	RL25_ECOLI	RNA binding|rRNA binding
+RL27_ECOLI	C6EH42	A	50S ribosomal protein L27	85	Y		ribosome	RL27_ECOLI	RNA binding|rRNA binding|tRNA binding
+RL29_ECOLI	C6EGF4	A	50S ribosomal protein L29	63	Y		ribosome	RL29_ECOLI	RNA binding|rRNA binding
+RL3_ECOLI	C6EGE6	A	50S ribosomal protein L3	209	Y		ribosome	RL3_ECOLI	RNA binding|rRNA binding
+
+RL31_ECOLI	C6EE73	A	50S ribosomal protein L31	70	Y		ribosome	RL31_ECOLI	RNA binding|rRNA binding|metal ion binding
+
+RL4_ECOLI	C6EGE7	A	50S ribosomal protein L4	201	Y		regulation of translation	RL4_ECOLI	response to antibiotic|regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription termination, DNA-dependent|regulation of translation
+RL6_ECOLI	C6EGG1	A	50S ribosomal protein L6	177	Y		ribosome	RL6_ECOLI	response to antibiotic
+RL9_ECOLI	C6ECE6	A	50S ribosomal protein L9	149	Y		ribosome	RL9_ECOLI	RNA binding|rRNA binding
+RS1_ECOLI	C6EI71	A	30S ribosomal protein S1 (Ribosomal protein S1)	557	Y		ribosome	RS1_ECOLI	RNA binding
+RS15_ECOLI	C6EH60	A	30S ribosomal protein S15	89	Y		ribosome	RS15_ECOLI	translation
+RS17_ECOLI	C6EGF5	A	30S ribosomal protein S17	84	Y		ribosome	RS17_ECOLI	response to antibiotic|translation
+RS19_ECOLI	C6EGF0	A	30S ribosomal protein S19	92	Y		ribosome	RS19_ECOLI	RNA binding|rRNA binding|tRNA binding
+RS6_ECOLI	C6ECE9	A	30S ribosomal protein S6	131	Y		ribosome	RS6_ECOLI	translation
+RS7_ECOLI	C6EGC3	A	30S ribosomal protein S7	156	Y		ribosome	RS7_ECOLI	negative regulation of translation|ribosomal small subunit assembly|translation
+RS8_ECOLI	C6EGG0	A	30S ribosomal protein S8	130	Y		regulation of translation	RS8_ECOLI	translation|regulation of translation|regulation of mRNA stability
+RSMC_ECOLI	C6EBK1	A	16S ribosomal RNA m2G1207 methyltransferase (EC 2.1.1.52) (rRNA (Guanine-N(2)-)-methyltransferase) (EC 2.1.1.52)	343	Y			RSMC_ECOLI	rRNA base methylation|methylation|rRNA processing|rRNA methylation
+

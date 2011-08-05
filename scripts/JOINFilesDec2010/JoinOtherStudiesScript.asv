@@ -1,0 +1,77 @@
+function []=JoinOtherStudiesScript(Files,file_ref)
+%%  INPUT:
+%%      Files       File which contains the file list (Input of <JoinMSMSResults>)
+%%                  Database file must be fist in the file list
+%%                  Database file is used to exclude older version
+%%                  Accessions
+%%      file_ref    Which file is our file in the file list (e.g 2 if it is the second in order)
+%%                  this is used to calculate novel proteins
+%%      e.g. 
+%%      JoinOtherStudiesScript('Notepad Lists/OthersFiles.txt',7);
+
+close all;
+[list_comp,Header_comp,files_comp]=JoinMSMSResults(Files,0);
+JustNumbers=CellTable2Double(list_comp(:,2:end-1));
+
+%% Exclude Accessions not in the curated DB %%
+In_curated_DB=(JustNumbers(:,1)==1);% & (JustNumbers(:,files+1)>1);
+list_comp=list_comp(In_curated_DB,:);
+JustNumbers=JustNumbers(In_curated_DB,:);
+%% Remove DB line %%
+JustNumbers(:,files_comp+1)=JustNumbers(:,files_comp+1)-1;
+JustNumbers=[JustNumbers(:,2:files_comp+1) JustNumbers(:,files_comp+3:end)];
+Header_comp=Header_comp(2:end);
+files_comp=files_comp-1;
+
+%%
+each_col_sum=zeros(1,files_comp+1);
+each_col_sum(1:files_comp)=sum(JustNumbers(:,1:files_comp));
+each_col_sum(files_comp+1)=sum(JustNumbers(:,files_comp+1)==1 & JustNumbers(:,file_ref)==1);
+Count_str=Double2CellTable(each_col_sum);
+
+if(files_comp<=2)
+    VenDiagram(JustNumbers(:,1:f),Header_comp);
+end
+
+figure;[freq x]=hist(JustNumbers(:,files_comp+1),0:1:max(JustNumbers(:,files_comp+1)));bar(x,(freq*100)./size(JustNumbers,1));
+xlabel('# of studies');
+ylabel('% of proteins');
+
+[filename directory]=IsolateFileName(Files);
+Out_File=[directory,'(',filename,')','_COMPARISON.txt'];
+Out_File_CellEnv=[directory,'(',filename,')','_COMPARISON_CELL_ENV.txt'];
+
+New_list=[list_comp(:,1) Double2CellTable(JustNumbers)];
+FileWriteTable(Out_File,['Merge ID' Header_comp(2:end)' '# Identified' Header_comp(2:end)'],[],'w');
+FileWriteTable(Out_File,Count_str,[],'a');
+FileWriteTable(Out_File,New_list,[],'a');
+
+[FileNames] = ReadTable(Files);
+[FOUNDTABLE count_found count_nfound]=FishLines(FileNames{1,1},Out_File,[str2double(FileNames{1,2}) 1],[str2double(FileNames{1,3}) 1]);
+
+HEADER=FOUNDTABLE(1,:);
+FOUNDTABLE=FOUNDTABLE(2:end,:);
+index_CellEnv=not( strcmp(FOUNDTABLE(:,5),'A') | strcmp(FOUNDTABLE(:,5),'A_trl') );
+
+JustNumbers=CellTable2Double(FOUNDTABLE(index_CellEnv,end-4:end));
+
+count_str=cell(1,length(HEADER));
+sum_others=sum(JustNumbers(:,1));
+sum_us=sum(JustNumbers(:,2));
+sum_all=size(JustNumbers,1);
+novel=sum(JustNumbers(:,1)==0 & JustNumbers(:,2)==1);
+
+if(files_comp<=2)
+    VenDiagram(JustNumbers(:,1:f),Header_comp);
+end
+
+Total_str=[{''} {num2str(sum_others)} {num2str(sum_us)} {num2str(sum_all)} {['novel: ',num2str(novel)]}];
+count_str(end-5:end-1)=Total_str;
+FileWriteTable(Out_File_CellEnv,[HEADER;count_str],[],'w');
+FileWriteTable(Out_File_CellEnv,FOUNDTABLE(index_CellEnv,:),[],'a');
+
+figure;[freq x]=hist(JustNumbers(:,files_comp+1),0:1:);bar(x,(freq*100)./size(JustNumbers,1));
+
+display('End of all!');
+
+end

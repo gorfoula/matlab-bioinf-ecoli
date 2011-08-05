@@ -1,0 +1,8 @@
+function [frec x mx mn]=PDF(Y,x)
+
+RVs=size(Y,2);
+freq=zeros(length(x),1);
+mn=zeros();
+mx=zeros(size(Y,2));
+
+end

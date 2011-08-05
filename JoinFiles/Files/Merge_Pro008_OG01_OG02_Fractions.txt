@@ -1,0 +1,8 @@
+JoinFiles/Files/OG01_FR3.txt	1	1
+JoinFiles/Files/OG01_FR4.txt	1	1
+JoinFiles/Files/OG01_FR05.txt	1	1
+JoinFiles/Files/OGO1_FR09.txt	1	1
+JoinFiles/Files/OG02_FR3.txt	1	1
+JoinFiles/Files/OG02_FR4.txt	1	1
+JoinFiles/Files/OG02_FR05.txt	1	1
+JoinFiles/Files/OGO2_FR09.txt	1	1

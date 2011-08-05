@@ -1,0 +1,1033 @@
+Accession	Gene names	Gene names (PREFERRED)	Gene names (ALTERNATIVE)	Gene names (OLN)	Entry name	Subcellular locations	Protein existence	Protein family	Protein names	Gene Ontology ID	Keywords	Length	Gene location
+C6EJI7	ECBD_2908 ECBD_3312			ECBD_2908 ECBD_3312	C6EJI7_ECOBD		Predicted		Transcriptional regulator, LacI family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	363	
+C6EK39	ECBD_2995 ECD_00624			ECBD_2995 ECD_00624	C6EK39_ECOBD		Predicted		40-residue YVTN family beta-propeller repeat protein (Putative uncharacterized protein)	GO:0016021	"Complete proteome; Signal"	625	
+C6EEQ3	ydcE ECBD_2177 ECD_01419	ydcE		ECBD_2177 ECD_01419	C6EEQ3_ECOBD		Predicted		4-oxalocrotonate tautomerase	"GO:0006725; GO:0005737; GO:0016862"	"Complete proteome; Isomerase"	75	
+C6EAQ5	wcaG ECBD_1603 ECD_01958	wcaG		ECBD_1603 ECD_01958	C6EAQ5_ECOBD		Predicted		Bifunctional GDP-fucose synthetase: GDP-4-dehydro-6-deoxy-D-mannose epimerase/ GDP-4-dehydro-6-L-deoxygalactose reductase (EC 1.-.-.-) (EC 5.1.3.-) (NAD-dependent epimerase/dehydratase)	"GO:0044237; GO:0050662; GO:0016853; GO:0055114; GO:0016491"	"Complete proteome; Isomerase; Oxidoreductase"	321	
+C6EFK2	yhfR ECBD_0374 ECD_03225	yhfR		ECBD_0374 ECD_03225	C6EFK2_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, GntR family)	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350; GO:0030528"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	243	
+C6EFT2	aldH ECBD_2317 ECD_01277	aldH		ECBD_2317 ECD_01277	C6EFT2_ECOBD		Inferred from homology	Aldehyde dehydrogenase family	Aldehyde Dehydrogenase (Gamma-Glu-gamma-aminobutyraldehyde dehydrogenase, NAD(P)H-dependent)	"GO:0055114; GO:0016491"	"Complete proteome; Oxidoreductase"	495	
+C6EFT0	goaG ECBD_2315 ECD_01279	goaG		ECBD_2315 ECD_01279	C6EFT0_ECOBD		Inferred from homology	Class-III pyridoxal-phosphate-dependent aminotransferase family	4-aminobutyrate aminotransferase (GABA aminotransferase, PLP-dependent)	"GO:0003867; GO:0009448; GO:0030170"	"Aminotransferase; Complete proteome; Pyridoxal phosphate; Transferase"	421	
+C6EB33	ECBD_3598 ECD_00020			ECBD_3598 ECD_00020	C6EB33_ECOBD		Predicted		Putative uncharacterized protein	"GO:0007155; GO:0009289"	"Complete proteome; Signal"	319	
+C6EIV7	fsa ECBD_2798 ECD_00792	fsa		ECBD_2798 ECD_00792	C6EIV7_ECOBD		Inferred from homology	Transaldolase family	Fructose-6-phosphate aldolase 1 (EC 4.1.2.-) (Transaldolase)	"GO:0005975; GO:0005737; GO:0016829"	"Complete proteome; Lyase; Pentose shunt; Transferase"	220	
+C6EBS5	yjhT ECBD_3727 ECD_04177	yjhT		ECBD_3727 ECD_04177	C6EBS5_ECOBD		Predicted		Kelch repeat-containing protein (Putative uncharacterized protein yjhT)		"Complete proteome; Signal"	368	
+C6EJK6	ybgG ECBD_2929 ECD_00691	ybgG		ECBD_2929 ECD_00691	C6EJK6_ECOBD		Predicted		Alpha-mannosidase (Glycoside hydrolase family 38)	"GO:0004559; GO:0030246; GO:0006013; GO:0008270"	"Complete proteome; Hydrolase"	877	
+C6EIJ0	ygfG ECBD_0819 ECD_02750	ygfG		ECBD_0819 ECD_02750	C6EIJ0_ECOBD		Inferred from homology	Enoyl-CoA hydratase/isomerase family	Enoyl-CoA hydratase/isomerase (Methylmalonyl-CoA decarboxylase, biotin-independent) (EC 4.1.1.41)	"GO:0016853; GO:0004492"	"Complete proteome; Isomerase; Lyase"	261	
+C6EEV1	acpD ECBD_2228 ECD_01367	acpD		ECBD_2228 ECD_01367	C6EEV1_ECOBD		Inferred from homology		Acyl carrier protein phosphodiesterase (EC 3.1.4.14) (NAD(P)H dehydrogenase (Quinone))	"GO:0008770; GO:0050662; GO:0009055; GO:0055114; GO:0016491"	"Complete proteome; Flavoprotein; Hydrolase; Oxidoreductase"	201	
+C6EGQ2	ychA ECBD_2407 ECD_01189	ychA		ECBD_2407 ECD_01189	C6EGQ2_ECOBD		Predicted		Predicted transcriptional regulator (SirB1 protein)	GO:0005488	Complete proteome	269	
+C6EKR7	yfeG ECBD_1245 ECD_02337	yfeG		ECBD_1245 ECD_02337	C6EKR7_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, AraC family)	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	350	
+C6EC31	yeaT ECBD_1843 ECD_01769	yeaT		ECBD_1843 ECD_01769	C6EC31_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, LysR family)	"GO:0003677; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	307
+C6ECH1	yjeB ECBD_3856 ECD_04045	yjeB		ECBD_3856 ECD_04045	C6ECH1_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, BadM/Rrf2 family)	GO:0003677	"2Fe-2S; Complete proteome; DNA-binding; Iron; Iron-sulfur; Metal-binding"	141
+C6EFT3	ycjC ECBD_2318 ECD_01276	ycjC		ECBD_2318 ECD_01276	C6EFT3_ECOBD		Predicted		DNA-binding transcriptional repressor (Transcriptional regulator, XRE family)	GO:0043565	"Complete proteome; DNA-binding"	185
+C6E9U4	yfbH ECBD_1403 ECD_02182	yfbH		ECBD_1403 ECD_02182	C6E9U4_ECOBD		Predicted		Polysaccharide deacetylase (Putative uncharacterized protein yfbH)	"GO:0005975; GO:0016810"	"Complete proteome; Hydrolase"	296
+C6EJ48	ptr ECBD_0904 ECD_02669	ptr		ECBD_0904 ECD_02669	C6EJ48_ECOBD		Inferred from homology	Peptidase M16 family	Peptidase M16 domain protein (Protease III)	"GO:0004222; GO:0006508; GO:0008270"	"Complete proteome; Hydrolase; Protease; Signal"	962
+C6EIN5	ygeZ ECBD_0864 ECD_02706	ygeZ		ECBD_0864 ECD_02706	C6EIN5_ECOBD		Predicted		Dihydropyrimidinase	GO:0016810	"Complete proteome; Hydrolase"	461
+C6EF65	ECBD_4192 ECD_03724			ECBD_4192 ECD_03724	C6EF65_ECOBD		Predicted		Putative transcriptional regulator (Transcriptional regulator, IclR family)	"GO:0003677; GO:0006355; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	255
+C6EIU8	yliG ECBD_2788 ECD_00802	yliG		ECBD_2788 ECD_00802	C6EIU8_ECOBD		Inferred from homology		MiaB-like tRNA modifying enzyme YliG (Predicted SAM-dependent methyltransferase)	"GO:0051539; GO:0009451; GO:0005737; GO:0008168; GO:0018339"	"Complete proteome; Methyltransferase; Transferase"	441
+C6ECG0	yjfO ECBD_3845 ECD_04056	yjfO		ECBD_3845 ECD_04056	C6ECG0_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yjfO)		"Complete proteome; Signal"	109
+C6EFU8	yciR ECBD_2333 ECD_01262	yciR		ECBD_2333 ECD_01262	C6EFU8_ECOBD		Predicted		Diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(S) (Modulator of Rnase II stability)	"GO:0009190; GO:0016849; GO:0006355; GO:0004871"	Complete proteome	661
+C6ELK2	yaiC ECBD_3279 ECD_00332	yaiC		ECBD_3279 ECD_00332	C6ELK2_ECOBD		Predicted		Diguanylate cyclase (Predicted diguanylate cyclase)	"GO:0009190; GO:0016849"	Complete proteome	371
+C6EE95	ECBD_0150 ECD_03436			ECBD_0150 ECD_03436	C6EE95_ECOBD		Predicted		Putative regulatory protein (Transcriptional regulator, AraC family)	"GO:0005737; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Activator; Complete proteome; Cytoplasm; DNA-binding; Transcription; Transcription regulation"	271
+C6EAZ6	hepA ECBD_3558 ECD_00061	hepA		ECBD_3558 ECD_00061	C6EAZ6_ECOBD		Inferred from homology		ATP-dependent helicase HepA (SNF2-related protein)	"GO:0005524; GO:0003677; GO:0004386; GO:0045449; GO:0006350"	"ATP-binding; Activator; Complete proteome; DNA-binding; Helicase; Hydrolase; Nucleotide-binding; Transcription; Transcription regulation"	968
+C6EAA7	hlpA ECBD_3441 ECD_00176	hlpA		ECBD_3441 ECD_00176	C6EAA7_ECOBD		Predicted		Outer membrane chaperone Skp (OmpH) (Periplasmic chaperone)	GO:0005515	"Complete proteome; Signal"	161
+C6EHJ4	ycdC ECBD_2581 ECD_01016	ycdC		ECBD_2581 ECD_01016	C6EHJ4_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, TetR family)	"GO:0003677; GO:0006355; GO:0003700; GO:0016566; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	212
+C6EJ20	V ECBD_2863 ECD_10046	V		ECBD_2863 ECD_10046	C6EJ20_ECOBD		Predicted		Ig domain protein group 2 domain protein (Tail component)		Complete proteome	246
+C6EK73	citA ECBD_3031 ECD_00589	citA		ECBD_3031 ECD_00589	C6EK73_ECOBD		Predicted		Sensory histidine kinase in two-component regulatory system with citB (Signal transduction histidine kinase regulating citrate/malate metabolism)	"GO:0005524; GO:0018106; GO:0000155; GO:0000160"	"ATP-binding; Complete proteome; Kinase; Nucleotide-binding; Signal; Transferase"	552
+C6EGS6	ycgO ECBD_2431 ECD_01166	ycgO		ECBD_2431 ECD_01166	C6EGS6_ECOBD	"Cell inner membrane; Multi-pass membrane protein. "	Inferred from homology		Potassium/proton antiporter (Sodium/hydrogen exchanger)	"GO:0050660; GO:0003824; GO:0016021; GO:0055114; GO:0005886; GO:0006813; GO:0015299"	"Cell inner membrane; Cell membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix; Transport"	578
+C6EAT1	yadF ECBD_3493 ECD_00125	yadF		ECBD_3493 ECD_00125	C6EAT1_ECOBD		Inferred from homology	Beta-class carbonic anhydrase family	Carbonic anhydrase (EC 4.2.1.1)	"GO:0015976; GO:0004089; GO:0008270"	"Complete proteome; Lyase; Zinc"	220
+C6EAI5	yehV ECBD_1532 ECD_02056	yehV		ECBD_1532 ECD_02056	C6EAI5_ECOBD		Predicted		DNA-binding transcriptional regulator (Transcriptional regulator, MerR family)	"GO:0003677; GO:0000166; GO:0006355; GO:0003700"	"Complete proteome; DNA-binding"	243
+C6EH95	agaZ ECBD_0610 ECD_02997	agaZ		ECBD_0610 ECD_02997	C6EH95_ECOBD		Predicted		D-tagatose-bisphosphate aldolase, class II, non-catalytic subunit (Tagatose 6-phosphate aldolase 1, kbaZ subunit) (EC 4.1.2.40)	"GO:0019402; GO:0009024; GO:0009025"	"Complete proteome; Lyase"	426
+C6EI04	gss ECBD_0750 ECD_02864	gss		ECBD_0750 ECD_02864	C6EI04_ECOBD		Predicted		Fused glutathionylspermidine amidase/glutathionylspermidine synthetase (Glutathionylspermidine amidase) (EC 3.5.1.78)	"GO:0005524; GO:0008884"	"Complete proteome; Hydrolase"	619
+C6EBS4	yjhA ECBD_3726 ECD_04178	yjhA		ECBD_3726 ECD_04178	C6EBS4_ECOBD		Predicted		N-acetylnuraminic acid outer membrane channel protein (Oligogalacturonate-specific porin)	"GO:0016020; GO:0005215"	"Complete proteome; Signal"	238
+C6EG57	yieN ECBD_4286 ECD_03630	yieN		ECBD_4286 ECD_03630	C6EG57_ECOBD		Predicted		ATPase associated with various cellular activities AAA_5 (Fused predicted transcriptional regulator: sigma54 activator protein/conserved protein)	"GO:0005524; GO:0016887"	Complete proteome	498
+C6EDJ0	ECBD_0126 ECD_03457			ECBD_0126 ECD_03457	C6EDJ0_ECOBD		Predicted		Putative cytoplasmic protein (Putative uncharacterized protein)		Complete proteome	69
+C6EJK8	farR ECBD_2931 ECD_00689	farR		ECBD_2931 ECD_00689	C6EJK8_ECOBD		Predicted		DNA-binding transcriptional dual regulator, fatty-acyl-binding (Transcriptional regulator, GntR family)	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350; GO:0030528"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	240
+C6ECF3	sgaH ECBD_3838 ECD_04063	sgaH		ECBD_3838 ECD_04063	C6ECF3_ECOBD		Predicted		3-dehydro-L-gulonate-6-phosphate decarboxylase (EC 4.1.1.85) (3-keto-L-gulonate 6-phosphate decarboxylase) (EC 4.1.2.-)	"GO:0006207; GO:0033982; GO:0004590"	"Complete proteome; Lyase"	216
+C6EBL5	hpaR ECBD_3665 ECD_04231	hpaR		ECBD_3665 ECD_04231	C6EBL5_ECOBD		Predicted		Homoprotocatechuate degradative operon repressor (Transcriptional regulator, MarR family)	"GO:0003677; GO:0005622; GO:0010124; GO:0006355; GO:0003700; GO:0006350; GO:0016564"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	148
+C6EKR6	yffI ECBD_1244 ECD_02338	yffI		ECBD_1244 ECD_02338	C6EKR6_ECOBD		Predicted		Microcompartments protein (Predicted carboxysome structural protein with predicted role in ethanolamine utilization)		Complete proteome	166
+C6EK37	ybeX ECBD_2993 ECD_00626	ybeX		ECBD_2993 ECD_00626	C6EK37_ECOBD		Predicted		Predicted ion transport (Transporter-associated region)	"GO:0050660; GO:0003824; GO:0055114"	Complete proteome	292
+C6ECF8	yjfQ ECBD_3843 ECD_04058	yjfQ		ECBD_3843 ECD_04058	C6ECF8_ECOBD		Predicted		DNA-binding transcriptional dual regulator (Transcriptional regulator, DeoR family)	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	251
+C6E9U2	yfbW ECBD_1401 ECD_02184	yfbW		ECBD_1401 ECD_02184	C6E9U2_ECOBD		Inferred from homology		Putative uncharacterized protein yfbW (Small multidrug resistance protein)	GO:0016020	"Cell membrane; Complete proteome; Membrane; Signal"	111
+C6EKE2	rus ECBD_3107 ECD_00500	rus		ECBD_3107 ECD_00500	C6EKE2_ECOBD		Inferred from homology	RusA family	Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.4)	"GO:0006310; GO:0006281; GO:0008821; GO:0000287"	"Complete proteome; DNA damage; DNA repair; Endonuclease; Hydrolase; Nuclease"	120
+C6EFL2	yhfC ECBD_0384 ECD_03215	yhfC		ECBD_0384 ECD_03215	C6EFL2_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Putative uncharacterized protein yhfC)	GO:0055085	"Complete proteome; Signal"	393
+C6EID6	yghK ECBD_0764 ECD_02843	yghK		ECBD_0764 ECD_02843	C6EID6_ECOBD		Predicted		Glycolate transporter (L-lactate transport)	GO:0015129	"Complete proteome; Signal"	560
+C6EDP7	ydgG ECBD_2045 ECD_01570	ydgG		ECBD_2045 ECD_01570	C6EDP7_ECOBD		Predicted		Predicted inner membrane protein (Putative uncharacterized protein)		"Complete proteome; Signal"	344
+C6EA05	ccmG ECBD_1465 ECD_02122	ccmG		ECBD_1465 ECD_02122	C6EA05_ECOBD		Predicted		Periplasmic thioredoxin of cytochrome c-type biogenesis (Redoxin domain protein)	"GO:0045454; GO:0017004; GO:0015036; GO:0030288"	"Complete proteome; Signal"	185
+C6ELA7	vacJ ECBD_1311 ECD_02272	vacJ		ECBD_1311 ECD_02272	C6ELA7_ECOBD		Predicted		Predicted lipoprotein (VacJ family lipoprotein)	GO:0016020	"Complete proteome; Lipoprotein; Signal"	251
+C6EG48	yieO ECBD_4276 ECD_03640	yieO		ECBD_4276 ECD_03640	C6EG48_ECOBD		Predicted		Drug resistance transporter, EmrB/QacA subfamily (Predicted multidrug or homocysteine efflux system)	"GO:0016021; GO:0046677; GO:0015520"	"Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix"	475
+C6ED10	yjdB ECBD_3917 ECD_03985	yjdB		ECBD_3917 ECD_03985	C6ED10_ECOBD		Predicted		Predicted metal dependent hydrolase (Sulfatase)	"GO:0016021; GO:0008484"	"Complete proteome; Hydrolase; Signal"	547
+C6EF80	ECBD_4207 ECD_03710			ECBD_4207 ECD_03710	C6EF80_ECOBD		Predicted		Permease for cytosine/purines uracil thiamine allantoin (Putative permease)	"GO:0016020; GO:0015205"	"Complete proteome; Signal"	407
+C6EF26	yshA ECBD_4152 ECD_03760	yshA		ECBD_4152 ECD_03760	C6EF26_ECOBD		Predicted		Porin OmpL (Predicted outer membrane porin L)		"Complete proteome; Signal"	230
+C6ED42	yjcR ECBD_3949 ECD_03954	yjcR		ECBD_3949 ECD_03954	C6ED42_ECOBD		Predicted		Efflux pump membrane protein (Predicted membrane fusion protein of efflux pump)	"GO:0009276; GO:0015238; GO:0016020; GO:0009306; GO:0008565"	"Complete proteome; Signal"	343
+C6EL81	ypdH ECBD_1285 ECD_02297	ypdH		ECBD_1285 ECD_02297	C6EL81_ECOBD		Predicted		PTS system, fructose-specific, IIB subunnit (Predicted enzyme IIB component of PTS)	"GO:0016020; GO:0009401; GO:0008982; GO:0005351"	"Complete proteome; Signal; Transferase; Transport"	108
+C6EBP1	yjiO ECBD_3693 ECD_04206	yjiO		ECBD_3693 ECD_04206	C6EBP1_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Multidrug efflux system protein)	"GO:0016020; GO:0055085; GO:0005215"	"Complete proteome; Signal"	410
+C6EHM2	ymcB ECBD_2609 ECD_00988	ymcB		ECBD_2609 ECD_00988	C6EHM2_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein ymcB)		"Complete proteome; Signal"	248
+C6EHV4	ygiE ECBD_0700 ECD_02912	ygiE		ECBD_0700 ECD_02912	C6EHV4_ECOBD		Predicted		Zinc transporter ZupT (Zinc/iron permease)	"GO:0016020; GO:0046873"	"Complete proteome; Signal"	257
+C6EEN0	yddS ECBD_2152 ECD_01445	yddS		ECBD_2152 ECD_01445	C6EEN0_ECOBD		Predicted		D-ala-D-a la transporter subunit (Extracellular solute-binding protein family 5)	GO:0005215	"Complete proteome; Signal"	516
+C6EAE9	yeiM ECBD_1494 ECD_02093	yeiM		ECBD_1494 ECD_02093	C6EAE9_ECOBD		Predicted		Nucleoside transporter (Predicted nucleoside transporter)	"GO:0016020; GO:0001882; GO:0005415"	"Complete proteome; Signal"	416
+C6EJU5	ygaX ECBD_1039 ECD_02536	ygaX		ECBD_1039 ECD_02536	C6EJU5_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Predicted transporter)	GO:0055085	"Complete proteome; Signal"	394
+C6EA92	cutF ECBD_3426 ECD_00191	cutF		ECBD_3426 ECD_00191	C6EA92_ECOBD		Predicted		Copper resistance lipoprotein NlpE (Lipoprotein involved with copper homeostasis and adhesion)		"Complete proteome; Lipoprotein; Signal"	236
+C6ELT7	yagZ ECBD_3364 ECD_00252	yagZ		ECBD_3364 ECD_00252	C6ELT7_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yagZ)		"Complete proteome; Signal"	211
+C6EDA8	ECBD_0042 ECD_03545			ECBD_0042 ECD_03545	C6EDA8_ECOBD		Predicted		Putative transport protein (Putative uncharacterized protein)		"Complete proteome; Signal"	97
+C6EH34	yrbD ECBD_0549 ECD_03058	yrbD		ECBD_0549 ECD_03058	C6EH34_ECOBD		Predicted		Mammalian cell entry related domain protein (Predicted ABC-type organic solvent transporter)		"Complete proteome; Signal"	183
+C6EAC9	yadQ ECBD_3463 ECD_00154	yadQ		ECBD_3463 ECD_00154	C6EAC9_ECOBD		Predicted		Chloride channel core (Chloride channel protein)	"GO:0016021; GO:0005886; GO:0005247"	"Cell membrane; Chloride; Complete proteome; Ion transport; Membrane; Transmembrane; Transmembrane helix; Transport"	473
+C6EDC0	ECBD_0054 ECD_03531			ECBD_0054 ECD_03531	C6EDC0_ECOBD		Predicted		Outer membrane autotransporter barrel domain protein (Putative uncharacterized protein)	GO:0019867	"Complete proteome; Signal"	1165
+C6EAA9	yaeL ECBD_3443 ECD_00174	yaeL		ECBD_3443 ECD_00174	C6EAA9_ECOBD		Inferred from homology		Membrane-associated zinc metalloprotease (Zinc metallopeptidase)	"GO:0016021; GO:0046872; GO:0004222; GO:0005886; GO:0005515; GO:0006508"	"Cell membrane; Complete proteome; Hydrolase; Membrane; Metal-binding; Metalloprotease; Protease; Transmembrane; Transmembrane helix; Zinc"	450
+C6EEM5	xasA ECBD_2147 ECD_01450	xasA		ECBD_2147 ECD_01450	C6EEM5_ECOBD		Predicted		Glutamate/g-aminobutyrate antiporter (Predicted glutamate:gamma-aminobutyric acid antiporter)	"GO:0015171; GO:0016021"	"Complete proteome; Membrane; Signal; Transmembrane"	511
+C6EDQ6	ynfJ ECBD_2054 ECD_01561	ynfJ		ECBD_2054 ECD_01561	C6EDQ6_ECOBD		Predicted		Chloride channel core (Putative voltage-gated ClC-type chloride channel ClcB)	"GO:0016021; GO:0005886; GO:0005247"	"Cell membrane; Chloride; Complete proteome; Ion transport; Membrane; Signal; Transmembrane; Transmembrane helix; Transport"	418
+C6EH44	yhbZ obg ECBD_0559 ECD_03048	yhbZ	obg	ECBD_0559 ECD_03048	C6EH44_ECOBD	Cytoplasm. 	Inferred from homology	GTP1/OBG family	GTPase obg (GTP-binding protein obg)	"GO:0005525; GO:0005622"	"Complete proteome; Cytoplasm; GTP-binding; Nucleotide-binding"	390
+C6EB37	ECBD_0969 ECBD_3074 ECBD_3218 ECBD_3602			ECBD_0969 ECBD_3074 ECBD_3218 ECBD_3602	C6EB37_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EGV6	ymfC ECBD_2464 ECD_01133	ymfC		ECBD_2464 ECD_01133	C6EGV6_ECOBD		Inferred from homology	Pseudouridine synthase rsuA family	Pseudouridine synthase (EC 5.4.99.-)	"GO:0003723; GO:0009982; GO:0001522"	"Complete proteome; Isomerase"	217
+C6EKW2	ybbB ECBD_3154 ECD_00453	ybbB		ECBD_3154 ECD_00453	C6EKW2_ECOBD		Inferred from homology		tRNA 2-selenouridine synthase (tRNA 2-selenouridine synthase, selenophosphate-dependent)	"GO:0008430; GO:0001887; GO:0016786"	"Complete proteome; Selenium; Transferase"	364
+C6EBI2	sms ECBD_3631 ECD_04265	sms		ECBD_3631 ECD_04265	C6EBI2_ECOBD		Inferred from homology	RecA family, RadA subfamily	DNA repair protein radA	"GO:0005524; GO:0004176; GO:0006281; GO:0003684; GO:0046872; GO:0006508; GO:0004252"	"ATP-binding; Complete proteome; DNA damage; DNA repair; DNA-binding; Metal-binding; Nucleotide-binding; Zinc; Zinc-finger"	460
+C6EBM5	hpaC ECBD_3675 ECD_04221	hpaC		ECBD_3675 ECD_04221	C6EBM5_ECOBD		Predicted		4-hydroxyphenylacetate 3-monooxygenase, reductase component (4-hydroxyphenylacetate 3-monooxygenase, reductase subunit)	"GO:0010181; GO:0051287; GO:0042537; GO:0004497; GO:0055114; GO:0016651"	"Complete proteome; Monooxygenase; Oxidoreductase"	170
+C6EL95	yfdU ECBD_1299 ECD_02283	yfdU		ECBD_1299 ECD_02283	C6EL95_ECOBD		Inferred from homology	TPP enzyme family	Oxalyl-CoA decarboxylase (Putative uncharacterized protein yfdU)	"GO:0000287; GO:0033611; GO:0008949; GO:0030976"	Complete proteome	564
+C6EJM9	ybgH ECBD_2952 ECD_00669	ybgH		ECBD_2952 ECD_00669	C6EJM9_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	PTR2/POT transporter (TC 2.A.17) family	Amino acid/peptide transporter (Predicted transporter)	"GO:0016021; GO:0006857; GO:0005215"	"Complete proteome; Membrane; Transmembrane; Transport"	493
+C6ELJ0	yajF ECBD_3267 ECD_00343	yajF		ECBD_3267 ECD_00343	C6ELJ0_ECOBD		Predicted		Fructokinase (ROK family protein)	GO:0016301	"Complete proteome; Kinase; Transferase"	302
+C6EL94	yfdW ECBD_1298 ECD_02284	yfdW		ECBD_1298 ECD_02284	C6EL94_ECOBD		Predicted		Formyl-CoA transferase (Formyl-coenzyme A transferase)	GO:0033608	"Complete proteome; Transferase"	416
+C6EB46	vioA ECBD_1619 ECD_01942	vioA		ECBD_1619 ECD_01942	C6EB46_ECOBD		Inferred from homology	DegT/dnrJ/eryC1 family	DegT/DnrJ/EryC1/StrS aminotransferase (VioA, involved in dTDP-N-acetylviosamine synthesis)	"GO:0030170; GO:0008483"	"Aminotransferase; Complete proteome; Pyridoxal phosphate; Transferase"	370
+C6EDH0	waaF ECBD_0106 ECD_03477	waaF		ECBD_0106 ECD_03477	C6EDH0_ECOBD		Predicted		ADP-heptose:LPS heptosyltransferase II (EC 2.-.-.-) (Lipopolysaccharide heptosyltransferase II)	"GO:0009103; GO:0016757"	"Complete proteome; Transferase"	348
+C6EK55	phpB ECBD_3013 ECD_00607	phpB		ECBD_3013 ECD_00607	C6EK55_ECOBD		Predicted		Phosphoglycerate mutase (Predicted alpha-ribazole-5'-P phosphatase)	"GO:0043755; GO:0009236"	Complete proteome	203
+C6EDC4	ECBD_0059 ECD_03523			ECBD_0059 ECD_03523	C6EDC4_ECOBD		Predicted		TrbC (TrbC-like protein)		Complete proteome	387
+C6EF44	yihE ECBD_4171 ECD_03745	yihE		ECBD_4171 ECD_03745	C6EF44_ECOBD		Predicted		Aminoglycoside phosphotransferase (Predicted kinase)	GO:0016301	"Complete proteome; Kinase; Transferase"	328
+C6EFW8	yciL ECBD_2353 ECD_01245	yciL		ECBD_2353 ECD_01245	C6EFW8_ECOBD		Inferred from homology	Pseudouridine synthase rsuA family	Pseudouridine synthase (EC 5.4.99.-)	"GO:0003723; GO:0009982; GO:0001522"	"Complete proteome; Isomerase; RNA-binding"	291
+C6EGX6	ycfU ECBD_2485 ECD_01112	ycfU		ECBD_2485 ECD_01112	C6EGX6_ECOBD		Predicted		Lipoprotein releasing system, transmembrane protein, LolC/E family (Outer membrane-specific lipoprotein transporter subunit)	"GO:0009276; GO:0016021; GO:0005886; GO:0006810"	"Cell membrane; Complete proteome; Lipoprotein; Membrane; Transmembrane; Transmembrane helix"	399
+C6EJH1	ral ECBD_2891 ECD_10018	ral		ECBD_2891 ECD_10018	C6EJH1_ECOBD		Predicted		Restriction alleviation protein (Restriction inhibitor protein ral (Antirestriction protein))		Complete proteome	66
+C6EIV4	ybiK ECBD_2795 ECD_00795	ybiK		ECBD_2795 ECD_00795	C6EIV4_ECOBD		Predicted		L-asparaginase (EC 3.5.1.1) (Peptidase T2 asparaginase 2)	GO:0004067	"Complete proteome; Hydrolase"	321
+C6ECE1	ECBD_3826 ECD_04075			ECBD_3826 ECD_04075	C6ECE1_ECOBD		Predicted		Putative uncharacterized protein (Xylose isomerase domain protein TIM barrel)	GO:0016853	"Complete proteome; Isomerase"	280
+C6EC70	ECBD_3752 ECD_04152			ECBD_3752 ECD_04152	C6EC70_ECOBD		Predicted		Predicted protein (Putative uncharacterized protein)	"GO:0005488; GO:0003824"	Complete proteome	137
+C6EBM0	hpaH ECBD_3670 ECD_04226	hpaH		ECBD_3670 ECD_04226	C6EBM0_ECOBD		Predicted		2-oxo-hept-3-ene-1,7-dioate hydratase (2-oxo-hepta-3-ene-1,7-dioic acid hydratase) (EC 4.2.1.80)	GO:0008684	"Complete proteome; Lyase"	267
+C6ECE2	ECBD_3827 ECD_04074			ECBD_3827 ECD_04074	C6ECE2_ECOBD		Inferred from homology	Enoyl-CoA hydratase/isomerase family	Enoyl-CoA hydratase/isomerase (Putative uncharacterized protein)	GO:0016853	"Complete proteome; Isomerase"	258
+C6ECE4	ECBD_3829 ECD_04072			ECBD_3829 ECD_04072	C6ECE4_ECOBD		Predicted		Fumarate reductase/succinate dehydrogenase flavoprotein domain protein (Putative oxidoreductase)	"GO:0009055; GO:0016491"	Complete proteome	690
+C6EB91	yeeI ECBD_1669 ECD_01890	yeeI		ECBD_1669 ECD_01890	C6EB91_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yeeI)		Complete proteome	265
+C6EHQ7	ygjT ECBD_0653 ECD_02957	ygjT		ECBD_0653 ECD_02957	C6EHQ7_ECOBD		Predicted		Integral membrane protein TerC (Predicted inner membrane protein, part of terminus)	GO:0016021	Complete proteome	321
+C6E9V4	yfaV ECBD_1413 ECD_02172	yfaV		ECBD_1413 ECD_02172	C6E9V4_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Predicted transporter)	GO:0055085	Complete proteome	429
+C6EIV1	yliC ECBD_2792 ECD_00798	yliC		ECBD_2792 ECD_00798	C6EIV1_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Binding-protein-dependent transport systems inner membrane component (Predicted peptide transporter subunit: membrane component of ABC superfamily)	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	306
+C6EF70	ECBD_4197 ECD_03719			ECBD_4197 ECD_03719	C6EF70_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	496
+C6EGM0	yhcP ECBD_0506 ECD_03100	yhcP		ECBD_0506 ECD_03100	C6EGM0_ECOBD		Predicted		p-hydroxybenzoic acid efflux subunit AaeB (p-hydroxybenzoic acid efflux system component)	"GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	655
+C6EGK0	yhdG ECBD_0485 ECD_03118	yhdG		ECBD_0485 ECD_03118	C6EGK0_ECOBD		Predicted		TIM-barrel protein, nifR3 family (tRNA-dihydrouridine synthase B)	"GO:0050660; GO:0055114; GO:0017150; GO:0008033"	Complete proteome	321
+C6EAK4	ECBD_1551 ECD_02034			ECBD_1551 ECD_02034	C6EAK4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	143
+C6EH36	yrbB ECBD_0551 ECD_03056	yrbB		ECBD_0551 ECD_03056	C6EH36_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yrbB)		Complete proteome	97
+C6EB51	wbbC ECBD_1624 ECD_01937	wbbC		ECBD_1624 ECD_01937	C6EB51_ECOBD		Predicted		Glycosyl transferase group 1 (Putative glycosyltransferase WbbC)	"GO:0009058; GO:0016740"	"Complete proteome; Transferase"	370
+C6EEA6	yiaI ECBD_0161 ECD_03425	yiaI		ECBD_0161 ECD_03425	C6EEA6_ECOBD		Predicted		4Fe-4S ferredoxin iron-sulfur binding domain protein (Predicted hydrogenase, 4Fe-4S ferredoxin-type component)	"GO:0051539; GO:0009055; GO:0046872"	"4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding"	157
+C6EEK6	yneB ECBD_2125 ECD_01474	yneB		ECBD_2125 ECD_01474	C6EEK6_ECOBD		Predicted		Deoxyribose-phosphate aldolase/phospho-2-dehydro-3-deoxyheptonate aldolase (Putative uncharacterized protein yneB)	GO:0016829	"Complete proteome; Lyase"	291
+C6EEK5	yneC ECBD_2124 ECD_01475	yneC		ECBD_2124 ECD_01475	C6EEK5_ECOBD		Predicted		Antibiotic biosynthesis monooxygenase (Autoinducer-2 (AI-2) modifying protein LsrG)	"GO:0017000; GO:0005737; GO:0004497"	"Complete proteome; Monooxygenase; Oxidoreductase"	96
+C6EKP5	yffH ECBD_1223 ECD_02358	yffH		ECBD_1223 ECD_02358	C6EKP5_ECOBD		Predicted		NUDIX hydrolase (Predicted NUDIX hydrolase)	"GO:0016818; GO:0046872"	"Complete proteome; Hydrolase"	191
+C6EAR8	rfbA ECBD_1616 ECD_01945	rfbA		ECBD_1616 ECD_01945	C6EAR8_ECOBD		Inferred from homology	Glucose-1-phosphate thymidylyltransferase family	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	"GO:0045226; GO:0008879; GO:0046872"	"Complete proteome; Magnesium; Metal-binding; Nucleotidyltransferase; Transferase"	292
+C6EIS7	ECBD_2767 ECD_00830			ECBD_2767 ECD_00830	C6EIS7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	307
+C6EEN2	yddQ ECBD_2154 ECD_01443	yddQ		ECBD_2154 ECD_01443	C6EEN2_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Binding-protein-dependent transport systems inner membrane component (D-ala-D-ala transporter subunit)	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	298
+C6EKQ6	cchB ECBD_1234 ECD_02347	cchB		ECBD_1234 ECD_02347	C6EKQ6_ECOBD		Predicted		Ethanolamine utilization protein EutN/carboxysome structural protein Ccml (Predicted carboxysome structural protein, ethanolamine utilization protein)		Complete proteome	95
+C6EEQ6	ECBD_2182 ECD_01413			ECBD_2182 ECD_01413	C6EEQ6_ECOBD		Predicted		Putative Vgr protein (Putative uncharacterized protein)		Complete proteome	118
+C6EEF0	yhjO ECBD_0206 ECD_03381	yhjO		ECBD_0206 ECD_03381	C6EEF0_ECOBD		Predicted		Cellulose synthase catalytic subunit (UDP-forming) (Cellulose synthase, catalytic subunit) (EC 2.4.1.12)	"GO:0006011; GO:0030244; GO:0016760; GO:0005887"	"Complete proteome; Glycosyltransferase; Transferase"	872
+C6EH88	agaY ECBD_0603 ECD_03004	agaY		ECBD_0603 ECD_03004	C6EH88_ECOBD		Inferred from homology		Class II aldolase, tagatose bisphosphate family (EC 4.1.2.40) (Tagatose 6-phosphate aldolase 1, kbaY subunit) (EC 4.1.2.40)	"GO:0004332; GO:0006096; GO:0019512; GO:0009025; GO:0008270"	"Complete proteome; Lyase; Metal-binding; Zinc"	286
+C6EJI1	ea8.5 ECBD_2902 ECD_10007	ea8.5		ECBD_2902 ECD_10007	C6EJI1_ECOBD		Predicted		Ea8.5 (Putative uncharacterized protein)		Complete proteome	93
+C6EDM1	ydgT ECBD_2019 ECD_01595	ydgT		ECBD_2019 ECD_01595	C6EDM1_ECOBD		Predicted		Hemolysin expression modulating family protein (Predicted regulator)		Complete proteome	71
+C6EDC5	ECBD_0060 ECD_03522			ECBD_0060 ECD_03522	C6EDC5_ECOBD		Predicted		Single-stranded DNA-binding protein	"GO:0006260; GO:0003697"	"Complete proteome; DNA replication; DNA-binding"	161
+C6EFT6	ycjJ ECBD_2321 ECD_01273	ycjJ		ECBD_2321 ECD_01273	C6EFT6_ECOBD		Predicted		Amino acid permease-associated region (Putrescine importer)	"GO:0015171; GO:0016021"	"Complete proteome; Membrane; Transmembrane"	461
+C6EHX1	ygiU ECBD_0717 ECD_02894	ygiU		ECBD_0717 ECD_02894	C6EHX1_ECOBD		Predicted		Predicted cyanide hydratase (Putative uncharacterized protein)		Complete proteome	98
+C6EDT9	ECBD_2092 ECD_01506			ECBD_2092 ECD_01506	C6EDT9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	234
+C6EG87	yieI ECBD_4316 ECD_03600	yieI		ECBD_4316 ECD_03600	C6EG87_ECOBD		Predicted		Inner membrane protein (Predicted inner membrane protein)	GO:0016021	Complete proteome	157
+C6EFH9	yrfE ECBD_0350 ECD_03249	yrfE		ECBD_0350 ECD_03249	C6EFH9_ECOBD		Inferred from homology	Nudix hydrolase family	ADP-ribose diphosphatase (EC 3.6.1.-) (NUDIX hydrolase)	GO:0016787	"Complete proteome; Hydrolase"	186
+C6EAK5	ECBD_1552 ECD_02033			ECBD_1552 ECD_02033	C6EAK5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	81
+C6ECL7	ydjQ ECBD_1904 ECD_01710	ydjQ		ECBD_1904 ECD_01710	C6ECL7_ECOBD		Predicted		Endonuclease of nucleotide excision repair (Excinuclease ABC C subunit domain protein)	"GO:0006281; GO:0004519; GO:0005622"	"Complete proteome; Endonuclease; Hydrolase; Nuclease"	295
+C6EIS8	ECBD_2768 ECD_00828			ECBD_2768 ECD_00828	C6EIS8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	111
+C6EJG9	C2 ECBD_2889 ECD_10021	C2		ECBD_2889 ECD_10021	C6EJG9_ECOBD		Predicted		Repressor protein C2 (Transcriptional regulator, XRE family)	GO:0043565	Complete proteome	216
+C6EGY6	ycfN ECBD_2495 ECD_01102	ycfN		ECBD_2495 ECD_01102	C6EGY6_ECOBD		Predicted		Thiamin kinase (EC 3.2.1.21) (Thiamine kinase) (EC 2.7.1.89)	"GO:0008422; GO:0019165"	"Complete proteome; Glycosidase; Hydrolase; Kinase; Transferase"	274
+C6EEN3	yddP ECBD_2155 ECD_01442	yddP		ECBD_2155 ECD_01442	C6EEN3_ECOBD		Predicted	ABC transporter superfamily	D-ala-D-ala transporter subunit (Oligopeptide/dipeptide ABC transporter, ATPase subunit)	"GO:0005524; GO:0016887; GO:0015197"	"ATP-binding; Complete proteome; Nucleotide-binding; Transport"	328
+C6EBI6	ECBD_3635 ECD_04261			ECBD_3635 ECD_04261	C6EBI6_ECOBD		Predicted		Helix-turn-helix domain protein (Putative uncharacterized protein)	GO:0043565	Complete proteome	87
+C6EDB7	ECBD_0051 ECD_03537			ECBD_0051 ECD_03537	C6EDB7_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein, yeeV-like protein)		Complete proteome	121
+C6EHF3	yceP ECBD_2540 ECD_01056	yceP		ECBD_2540 ECD_01056	C6EHF3_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yceP)		Complete proteome	84
+C6EL20	ybaW ECBD_3212 ECD_00395	ybaW		ECBD_3212 ECD_00395	C6EL20_ECOBD		Predicted		Putative uncharacterized protein ybaW (Thioesterase superfamily protein)	GO:0016787	Complete proteome	132
+C6EGY9	ycfF ECBD_2498 ECD_01099	ycfF		ECBD_2498 ECD_01099	C6EGY9_ECOBD		Predicted		Histidine triad (HIT) protein (Purine nucleoside phosphoramidase)	GO:0003824	Complete proteome	119
+C6EB07	yabF ECBD_3569 ECD_00050	yabF		ECBD_3569 ECD_00050	C6EB07_ECOBD		Predicted		Glutathione-regulated potassium-efflux system ancillary protein (NAD(P)H dehydrogenase (Quinone))	"GO:0050662; GO:0009055; GO:0016491"	Complete proteome	176
+C6E9V5	yfaU ECBD_1414 ECD_02171	yfaU		ECBD_1414 ECD_02171	C6E9V5_ECOBD		Predicted		4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.39) (Predicted 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase)	"GO:0008701; GO:0006725; GO:0046872"	"Complete proteome; Lyase; Magnesium; Metal-binding"	267
+C6EFL8	ECBD_2251 ECD_01344			ECBD_2251 ECD_01344	C6EFL8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	97
+C6EIU7	yliH ECBD_2787 ECD_00803	yliH		ECBD_2787 ECD_00803	C6EIU7_ECOBD		Predicted		Biofilm regulator BssR (Putative uncharacterized protein yliH)		Complete proteome	127
+C6EH76	yraO ECBD_0591 ECD_03016	yraO		ECBD_0591 ECD_03016	C6EH76_ECOBD		Predicted		DnaA initiator-associating factor for replication initiation (DnaA initiator-associating protein DiaA)	"GO:0005975; GO:0005529"	Complete proteome	196
+C6EKQ0	ypfE ECBD_1228 ECD_02353	ypfE		ECBD_1228 ECD_02353	C6EKQ0_ECOBD		Predicted		Microcompartments protein (Predicted carboxysome structural protein with predicted role in ethanol utilization)	GO:0006580	Complete proteome	111
+C6EF74	ECBD_4201 ECD_03716			ECBD_4201 ECD_03716	C6EF74_ECOBD		Predicted		Isochorismatase hydrolase (Putative uncharacterized protein)	GO:0016787	"Complete proteome; Hydrolase"	222
+C6EAM8	yegB ECBD_1576 ECD_01982	yegB		ECBD_1576 ECD_01982	C6EAM8_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Multidrug efflux system protein)	"GO:0016021; GO:0046677; GO:0015520"	"Complete proteome; Membrane; Transmembrane; Transmembrane helix"	471
+C6EFX1	yciV ECBD_2357 ECD_01240	yciV		ECBD_2357 ECD_01240	C6EFX1_ECOBD		Predicted		PHP domain protein (Putative uncharacterized protein yciV)	"GO:0003677; GO:0006260; GO:0003887"	Complete proteome	293
+C6EDG7	waaV ECBD_0103 ECD_03480	waaV		ECBD_0103 ECD_03480	C6EDG7_ECOBD		Predicted		Glycosyl transferase family 2 (Putative beta1,3-glucosyltransferase)	GO:0016740	"Complete proteome; Transferase"	327
+C6EB74	sbmC ECBD_1648 ECD_01912	sbmC		ECBD_1648 ECD_01912	C6EB74_ECOBD		Predicted		DNA gyrase inhibitor (Transcription activator effector binding)		Complete proteome	157
+C6EDX1	yjbN ECBD_3984 ECD_03921	yjbN		ECBD_3984 ECD_03921	C6EDX1_ECOBD		Predicted		TIM-barrel protein, yjbN family (tRNA-dihydrouridine synthase A)	"GO:0050660; GO:0055114; GO:0017150; GO:0008033"	Complete proteome	345
+C6EG21	wecE ECBD_4248 ECD_03669	wecE		ECBD_4248 ECD_03669	C6EG21_ECOBD		Inferred from homology	DegT/dnrJ/eryC1 family	TDP-4-keto-6-deoxy-D-glucose transaminase (TDP-4-oxo-6-deoxy-D-glucose transaminase)	"GO:0003824; GO:0030170"	"Complete proteome; Pyridoxal phosphate"	376
+C6EC18	yeaB ECBD_1829 ECD_01783	yeaB		ECBD_1829 ECD_01783	C6EC18_ECOBD		Inferred from homology		NUDIX hydrolase (Predicted NUDIX hydrolase)	"GO:0016818; GO:0000287; GO:0030145; GO:0009132"	"Complete proteome; Hydrolase; Magnesium; Manganese; Metal-binding"	192
+C6ED80	yidS ECBD_0013 ECD_03573	yidS		ECBD_0013 ECD_03573	C6ED80_ECOBD		Predicted		Predicted oxidoreductase with FAD/NAD(P)-binding domain (Putative oxidoreductase)	"GO:0004497; GO:0055114"	Complete proteome	354
+C6EFT5	ycjK ECBD_2320 ECD_01274	ycjK		ECBD_2320 ECD_01274	C6EFT5_ECOBD		Inferred from homology	Glutamine synthetase family	Gamma-Glu-putrescine synthase (Glutamate--putrescine ligase) (EC 6.3.1.11)	"GO:0004356; GO:0034024; GO:0006542"	"Complete proteome; Ligase"	472
+C6EE54	yijP ECBD_4069 ECD_03840	yijP		ECBD_4069 ECD_03840	C6EE54_ECOBD		Predicted		Conserved inner membrane protein (Sulfatase)	"GO:0016021; GO:0008484"	Complete proteome	577
+C6EJP4	ybfGH ECBD_2971 ECD_00647	ybfGH		ECBD_2971 ECD_00647	C6EJP4_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein ybfGH)		Complete proteome	216
+C6ED86	glvBC ECBD_0020 ECD_03566	glvBC		ECBD_0020 ECD_03566	C6ED86_ECOBD		Predicted		Arbutin specific enzyme IIBC component of PTS (PTS system, alpha-glucoside-specific IIBC subunit)	"GO:0016021; GO:0016301; GO:0009401; GO:0005886; GO:0008982; GO:0005351"	"Cell membrane; Complete proteome; Kinase; Membrane; Phosphotransferase system; Sugar transport; Transferase; Transmembrane; Transmembrane helix; Transport"	538
+C6EKI3	yfhJ ECBD_1160 ECD_02416	yfhJ		ECBD_1160 ECD_02416	C6EKI3_ECOBD		Predicted		FeS assembly protein IscX (Putative uncharacterized protein yfhJ)	GO:0016226	Complete proteome	66
+C6EB49	wbbB ECBD_1622 ECD_01939	wbbB		ECBD_1622 ECD_01939	C6EB49_ECOBD		Predicted		Putative glycosyltransferase WbbB (Putative uncharacterized protein)	GO:0016740	"Complete proteome; Transferase"	273
+C6EIM6	ygfO ECBD_0855 ECD_02715	ygfO		ECBD_0855 ECD_02715	C6EIM6_ECOBD		Predicted		Predicted transporter (Uracil-xanthine permease)	"GO:0016020; GO:0055085; GO:0005215"	Complete proteome	466
+C6EBM2	hpaX ECBD_3672 ECD_04224	hpaX		ECBD_3672 ECD_04224	C6EBM2_ECOBD		Predicted		4-hydroxyphenylacetate transporter (Hypothetical 4-hydroxyphenylacetate permease)	GO:0055085	Complete proteome	458
+C6EDU0	ECBD_2093 ECD_01505			ECBD_2093 ECD_01505	C6EDU0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	97
+C6EF30	bipA ECBD_4156 ECD_03756	bipA		ECBD_4156 ECD_03756	C6EF30_ECOBD		Predicted		GTP-binding protein (GTP-binding protein TypA)	"GO:0005525; GO:0003924; GO:0005622"	"Complete proteome; GTP-binding; Nucleotide-binding"	607
+C6EEH0	yhiV ECBD_0226 ECD_03362	yhiV		ECBD_0226 ECD_03362	C6EEH0_ECOBD		Predicted		Multidrug transporter, RpoS-dependent (Transporter, hydrophobe/amphiphile efflux-1 (HAE1) family)	"GO:0016021; GO:0005215"	Complete proteome	1037
+C6EJW9	ECBD_1063 ECD_02512			ECBD_1063 ECD_02512	C6EJW9_ECOBD		Predicted		Putative uncharacterized protein (RepB plasmid partition)	GO:0003677	Complete proteome	298
+C6ECE0	ECBD_3825 ECD_04076			ECBD_3825 ECD_04076	C6ECE0_ECOBD		Predicted		Putative oxoacyl reductase (Short-chain dehydrogenase/reductase SDR)	"GO:0005488; GO:0055114; GO:0016491"	Complete proteome	263
+C6EED5	yhjW ECBD_0191 ECD_03396	yhjW		ECBD_0191 ECD_03396	C6EED5_ECOBD		Predicted		Predicted metal dependent hydrolase (Sulfatase)	"GO:0016021; GO:0008484"	"Complete proteome; Hydrolase"	563
+C6EKH8	iscU ECBD_1155 ECD_02421	iscU		ECBD_1155 ECD_02421	C6EKH8_ECOBD		Predicted		FeS cluster assembly scaffold IscU (Scaffold protein)	"GO:0005506; GO:0016226; GO:0051536; GO:0005515"	Complete proteome	128
+C6EB44	mogA ECBD_3609 ECD_00009	mogA		ECBD_3609 ECD_00009	C6EB44_ECOBD		Predicted		Molybdenum cofactor biosynthesis protein (Molybdenum cofactor synthesis domain protein)	GO:0006777	Complete proteome	195
+C6EH18	yhbL ECBD_0533 ECD_03074	yhbL		ECBD_0533 ECD_03074	C6EH18_ECOBD		Predicted		Isoprenoid biosynthesis protein with amidotransferase-like domain (ThiJ/PfpI domain protein)	GO:0016740	"Complete proteome; Transferase"	217
+C6EH39	nlp ECBD_0554 ECD_03053	nlp		ECBD_0554 ECD_03053	C6EH39_ECOBD		Predicted		DNA-binding transcriptional activator of maltose metabolism (Putative transcriptional regulator, Nlp)	GO:0003677	"Complete proteome; DNA-binding"	92
+C6EJF3	A ECBD_2873 ECD_10036	A		ECBD_2873 ECD_10036	C6EJF3_ECOBD		Predicted		DNA packaging protein (Terminase GpA)		Complete proteome	641
+C6EDS3	ECBD_2073 ECD_01541			ECBD_2073 ECD_01541	C6EDS3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	121
+C6EHT2	ygjE ECBD_0678 ECD_02933	ygjE		ECBD_0678 ECD_02933	C6EHT2_ECOBD		Predicted		Anion transporter (Predicted tartrate:succinate antiporter)	"GO:0016020; GO:0006814; GO:0055085; GO:0005215"	Complete proteome	487
+C6ECE3	ECBD_3828 ECD_04073			ECBD_3828 ECD_04073	C6ECE3_ECOBD		Predicted		Coenzyme A transferase (Putative acetyl-CoA:acetoacetyl-CoA transferase)	"GO:0008410; GO:0046952; GO:0005739"	"Complete proteome; Transferase"	513
+C6EFK5	yhfN ECBD_0377 ECD_03222	yhfN		ECBD_0377 ECD_03222	C6EFK5_ECOBD		Predicted		Fructoselysine-6-P-deglycase (Sugar isomerase (SIS))	"GO:0005975; GO:0016853; GO:0005529"	"Complete proteome; Isomerase"	340
+C6EBL6	hpaG ECBD_3666 ECD_04230	hpaG		ECBD_3666 ECD_04230	C6EBL6_ECOBD		Predicted		4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase (4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase, HpaG1 subunit) (EC 5.3.3.10)	"GO:0008704; GO:0018800"	"Complete proteome; Isomerase"	429
+C6EJZ4	yfiA ECBD_1088 ECD_02486	yfiA		ECBD_1088 ECD_02486	C6EJZ4_ECOBD		Predicted		Cold shock protein associated with 30S ribosomal subunit (Sigma 54 modulation protein/ribosomal protein S30EA)	"GO:0005488; GO:0044238; GO:0005840"	"Complete proteome; Ribonucleoprotein; Ribosomal protein"	113
+C6EHI6	ycdP ECBD_2573 ECD_01023	ycdP		ECBD_2573 ECD_01023	C6EHI6_ECOBD		Predicted		Predicted inner membrane protein (Putative uncharacterized protein)		Complete proteome	137
+C6EI22	yccR ECBD_2635 ECD_00963	yccR		ECBD_2635 ECD_00963	C6EI22_ECOBD		Predicted		Putative uncharacterized protein yccR (Regulator of competence-specific genes)		Complete proteome	209
+C6EGN3	ychK ECBD_2388 ECD_01210	ychK		ECBD_2388 ECD_01210	C6EGN3_ECOBD		Predicted		Patatin (Putative uncharacterized protein ychK)	"GO:0005789; GO:0004622; GO:0046470"	Complete proteome	314
+C6EHH9	ycdW ECBD_2566 ECD_01030	ycdW		ECBD_2566 ECD_01030	C6EHH9_ECOBD		Predicted		2-ketoacid reductase (D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding)	"GO:0048037; GO:0016616"	Complete proteome	312
+C6EG23	rffH ECBD_4250 ECD_03667	rffH		ECBD_4250 ECD_03667	C6EG23_ECOBD		Inferred from homology	Glucose-1-phosphate thymidylyltransferase family	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	"GO:0045226; GO:0008879; GO:0046872"	"Complete proteome; Magnesium; Metal-binding; Nucleotidyltransferase; Transferase"	293
+C6EDG2	waaO ECBD_0097 ECD_03486	waaO		ECBD_0097 ECD_03486	C6EDG2_ECOBD		Predicted		Lipopolysaccharide 3-alpha-galactosyltransferase (EC 2.4.1.44) (UDP-glucose:(Glucosyl) LPS alpha1,3-glucosyltransferase WaaO)	"GO:0008918; GO:0009103"	"Complete proteome; Glycosyltransferase; Transferase"	338
+C6EGD7	gspH ECBD_0422 ECD_03180	gspH		ECBD_0422 ECD_03180	C6EGD7_ECOBD		Predicted		General secretion pathway protein H (Predicted general secretory pathway component, cryptic)	"GO:0015628; GO:0008565; GO:0015627"	Complete proteome	169
+C6EFM6	ECBD_2259 ECD_01335			ECBD_2259 ECD_01335	C6EFM6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	114
+C6ELB6	yfcTU ECBD_1322 ECD_02262	yfcTU		ECBD_1322 ECD_02262	C6ELB6_ECOBD	"Cell outer membrane; Multi-pass membrane protein. "	Inferred from homology	Fimbrial export usher family	Fimbrial biogenesis outer membrane usher protein (Predicted outer membrane export usher protein)	"GO:0009279; GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Cell outer membrane; Complete proteome; Fimbrium biogenesis; Membrane; Signal; Transmembrane; Transport"	881
+C6EFT4	ycjL ECBD_2319 ECD_01275	ycjL		ECBD_2319 ECD_01275	C6EFT4_ECOBD		Predicted		Gamma-Glu-GABA hydrolase (Gamma-glutamyl-gamma-aminobutyrate hydrolase) (EC 3.5.1.94)	"GO:0033969; GO:0006541"	"Complete proteome; Hydrolase"	254
+C6EDG0	waaG ECBD_0095 ECD_03488	waaG		ECBD_0095 ECD_03488	C6EDG0_ECOBD		Predicted		Glucosyltransferase I (Glycosyl transferase group 1)	"GO:0009058; GO:0016740"	"Complete proteome; Transferase"	374
+C6EKX5	ybbK ECBD_3167 ECD_00440	ybbK		ECBD_3167 ECD_00440	C6EKX5_ECOBD		Predicted		Band 7 protein (Predicted protease, membrane anchored)	"GO:0016020; GO:0008233"	"Complete proteome; Hydrolase; Protease"	305
+C6EF66	ECBD_4193 ECD_03723			ECBD_4193 ECD_03723	C6EF66_ECOBD		Predicted		2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58) (Putative conserved protein)	GO:0008671	"Complete proteome; Kinase; Transferase"	334
+C6EC90	yjgP ECBD_3775 ECD_04127	yjgP		ECBD_3775 ECD_04127	C6EC90_ECOBD		Predicted		Conserved inner membrane protein (Permease YjgP/YjgQ family protein)	GO:0016021	Complete proteome	366
+C6EI12	yccK ECBD_2625 ECD_00973	yccK		ECBD_2625 ECD_00973	C6EI12_ECOBD		Predicted		Predicted sulfite reductase subunit (Sulfur relay protein, TusE/DsrC/DsvC family)		Complete proteome	109
+C6EC72	yis2 ECBD_3755 ECD_04149	yis2		ECBD_3755 ECD_04149	C6EC72_ECOBD		Predicted		IS600 ORF2-like protein (Integrase catalytic region)	"GO:0003677; GO:0015074"	Complete proteome	272
+C6EKU2	ybbF ECBD_3134 ECD_00474	ybbF		ECBD_3134 ECD_00474	C6EKU2_ECOBD	Cytoplasm. 	Inferred from homology		UDP-2,3-diacylglucosamine hydrolase	"GO:0005737; GO:0009245; GO:0016462"	"Complete proteome; Cytoplasm; Hydrolase; Lipid A biosynthesis; Lipid synthesis"	240
+C6EL44	apbA ECBD_3236 ECD_00373	apbA		ECBD_3236 ECD_00373	C6EL44_ECOBD		Inferred from homology	Ketopantoate reductase family	2-dehydropantoate 2-reductase (EC 1.1.1.169)	"GO:0008677; GO:0050661; GO:0005737; GO:0055114; GO:0015940"	"Complete proteome; NADP; Oxidoreductase; Pantothenate biosynthesis"	303
+C6EC89	yjgQ ECBD_3774 ECD_04128	yjgQ		ECBD_3774 ECD_04128	C6EC89_ECOBD		Predicted		Conserved inner membrane protein (Permease YjgP/YjgQ family protein)	GO:0016021	Complete proteome	360
+C6EH32	yrbF ECBD_0547 ECD_03060	yrbF		ECBD_0547 ECD_03060	C6EH32_ECOBD		Predicted	ABC transporter superfamily	ABC transporter related (Predicted toluene transporter subunit: ATP-binding component of ABC superfamily)	"GO:0005524; GO:0016887"	"ATP-binding; Complete proteome; Nucleotide-binding"	269
+C6EJ33	ygeD ECBD_0889 ECD_02683	ygeD		ECBD_0889 ECD_02683	C6EJ33_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Predicted inner membrane protein)	GO:0055085	Complete proteome	397
+C6EIC2	ybjF ECBD_2735 ECD_00864	ybjF		ECBD_2735 ECD_00864	C6EIC2_ECOBD		Inferred from homology		23S rRNA (Uracil-5-)-methyltransferase RumB (23S rRNA m(5)U747-methyltransferase)	"GO:0051539; GO:0046872; GO:0016436"	"4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding; Methyltransferase; S-adenosyl-L-methionine; Transferase; rRNA processing"	375
+C6EKQ4	eutI ECBD_1232 ECD_02349	eutI		ECBD_1232 ECD_02349	C6EKQ4_ECOBD		Predicted		Phosphate acetyltransferase (Predicted phosphotransacetylase subunit)	GO:0016407	"Complete proteome; Transferase"	338
+C6EHK0	ycdH ECBD_2587 ECD_01010	ycdH		ECBD_2587 ECD_01010	C6EHK0_ECOBD		Predicted		Flavin reductase domain protein FMN-binding (Predicted oxidoreductase, flavin:NADH component)	GO:0010181	Complete proteome	164
+C6EA66	lpcA ECBD_3400 ECD_00217	lpcA		ECBD_3400 ECD_00217	C6EA66_ECOBD		Inferred from homology		Phosphoheptose isomerase	"GO:0008968; GO:0005737; GO:0009244; GO:0005529"	"Complete proteome; Isomerase"	192
+C6EJF6	ECBD_2876 ECD_10034			ECBD_2876 ECD_10034	C6EJF6_ECOBD		Predicted		Putative uncharacterized protein (Uncharacterized protein YbcW)		Complete proteome	68
+C6EJX0	ECBD_1064 ECD_02511			ECBD_1064 ECD_02511	C6EJX0_ECOBD		Predicted		ParB domain protein nuclease (ParB family protein)	GO:0003677	Complete proteome	298
+C6EIS6	ECBD_2766 ECD_00831			ECBD_2766 ECD_00831	C6EIS6_ECOBD		Predicted		RNA-directed DNA polymerase (EC 2.7.7.49) (Retron EC86 RNA-directed DNA polymerase-like protein)	"GO:0003723; GO:0006278; GO:0003964"	"Complete proteome; Nucleotidyltransferase; RNA-directed DNA polymerase; Transferase"	320
+C6EEN7	rpsV ECBD_2159 ECD_01438	rpsV		ECBD_2159 ECD_01438	C6EEN7_ECOBD		Predicted		30S ribosomal subunit S22 (30S ribosomal subunit protein S22)	"GO:0005840; GO:0003735; GO:0006412"	Complete proteome	45
+C6EKH5	yfhQ ECBD_1152 ECD_02424	yfhQ		ECBD_1152 ECD_02424	C6EKH5_ECOBD		Predicted		Predicted methyltransferase (RNA methyltransferase, TrmH family, group 1)	"GO:0003723; GO:0008173; GO:0006396"	"Complete proteome; Methyltransferase; Transferase"	246
+C6EDS4	ECBD_2075 ECD_01539			ECBD_2075 ECD_01539	C6EDS4_ECOBD		Predicted		Prophage CP-9330 DicA-like protein (Transcriptional regulator, XRE family)	GO:0043565	Complete proteome	135
+C6EDD5	yicE ECBD_0070 ECD_03512	yicE		ECBD_0070 ECD_03512	C6EDD5_ECOBD		Predicted		Predicted transporter (Uracil-xanthine permease)	"GO:0016020; GO:0055085; GO:0005215"	Complete proteome	463
+C6EB50	wzy ECBD_1623 ECD_01938	wzy		ECBD_1623 ECD_01938	C6EB50_ECOBD		Predicted		O antigen polymerase (Wzy) (Putative uncharacterized protein)		Complete proteome	391
+C6EH79	yraL ECBD_0594 ECD_03013	yraL		ECBD_0594 ECD_03013	C6EH79_ECOBD		Predicted		Predicted methyltransferase (Uroporphyrin-III C/tetrapyrrole (Corrin/Porphyrin) methyltransferase)	GO:0008168	"Complete proteome; Methyltransferase; Transferase"	286
+C6ECD3	ytfG ECBD_3818 ECD_04083	ytfG		ECBD_3818 ECD_04083	C6ECD3_ECOBD		Predicted		NAD(P)H:quinone oxidoreductase (NmrA family protein)	"GO:0005488; GO:0003824"	Complete proteome	286
+C6EGD9	gspF ECBD_0424 ECD_03178	gspF		ECBD_0424 ECD_03178	C6EGD9_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	GSP F family	General secretion pathway protein F (General secretory pathway component, cryptic)	"GO:0016021; GO:0015628; GO:0008565; GO:0015627"	"Complete proteome; Membrane; Transmembrane; Transport"	398
+C6EEC2	insJ-1 insJ-2 insJ-4 insJ-5 insJ-6 ECBD_0178 ECBD_0882 ECBD_3001 ECBD_3080 ECBD_4283 ECD_00543 ECD_00619 ECD_03408 ECD_04282 ECD_04285	insJ-1	insJ-2 insJ-4 insJ-5 insJ-6	ECBD_0178 ECBD_0882 ECBD_3001 ECBD_3080 ECBD_4283 ECD_00543 ECD_00619 ECD_03408 ECD_04282 ECD_04285	C6EEC2_ECOBD		Predicted		IS103 orf (Putative uncharacterized protein insJ-1) (Putative uncharacterized protein insJ-2) (Putative uncharacterized protein insJ-4) (Putative uncharacterized protein insJ-5) (Putative uncharacterized protein insJ-6)		Complete proteome	173
+C6EJI3	xis ECBD_2904 ECD_10005	xis		ECBD_2904 ECD_10005	C6EJI3_ECOBD		Predicted		Excisionase (Excisionase domain protein)	"GO:0003677; GO:0006310; GO:0000166"	Complete proteome	72
+C6EE62	talC ECBD_4077 ECD_03832	talC		ECBD_4077 ECD_03832	C6EE62_ECOBD		Inferred from homology	Transaldolase family	Fructose-6-phosphate aldolase 2 (EC 4.1.2.-) (Transaldolase) (EC 2.2.1.2)	"GO:0005737; GO:0016829; GO:0006098; GO:0004801"	"Complete proteome; Lyase; Pentose shunt; Transferase"	220
+C6ECL6	ydjR ECBD_1903 ECD_01711	ydjR		ECBD_1903 ECD_01711	C6ECL6_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein ydjR)		Complete proteome	191
+C6EHW8	ygiX ECBD_0714 ECD_02897	ygiX		ECBD_0714 ECD_02897	C6EHW8_ECOBD		Predicted		DNA-binding response regulator in two-component regulatory system with QseC (Two component transcriptional regulator, winged helix family)	"GO:0003677; GO:0006355; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Two-component regulatory system"	219
+C6EC16	yoaD ECBD_1827 ECD_01785	yoaD		ECBD_1827 ECD_01785	C6EC16_ECOBD		Predicted		Diguanylate phosphodiesterase (Predicted phosphodiesterase)		"Complete proteome; Signal"	532
+C6EEC8	tkrA ECBD_0184 ECD_03403	tkrA		ECBD_0184 ECD_03403	C6EEC8_ECOBD		Inferred from homology	D-isomer specific 2-hydroxyacid dehydrogenase family	2-ketoaldonate reductase/glyoxylate reductase B (D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding)	"GO:0051287; GO:0055114; GO:0016616"	"Complete proteome; Oxidoreductase"	324
+C6EF81	ECBD_4208 ECD_03709			ECBD_4208 ECD_03709	C6EF81_ECOBD		Predicted		Putative conserved protein (Transcriptional regulator, LysR family)	"GO:0003677; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	298
+C6EJ66	ECBD_0922 ECD_02651			ECBD_0922 ECD_02651	C6EJ66_ECOBD		Predicted		Inner-membrane translocator (Ribose transport system permease protein rbsC)	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix; Transport"	327
+C6EL85	ypdD ECBD_1289 ECD_02293	ypdD		ECBD_1289 ECD_02293	C6EL85_ECOBD		Predicted		Fused predicted PTS enzymes: Hpr component/enzyme I component/enzyme IIA component (Phosphoenolpyruvate-protein phosphotransferase)	"GO:0005737; GO:0016021; GO:0016301; GO:0009401; GO:0008965; GO:0008982; GO:0005351"	"Complete proteome; Kinase; Pyruvate; Transferase"	831
+C6EHI3	ycdS ECBD_2570 ECD_01026	ycdS		ECBD_2570 ECD_01026	C6EHI3_ECOBD		Predicted		Biofilm PGA synthesis protein PgaA (Predicted outer membrane protein)	GO:0005488	"Complete proteome; Signal"	807
+C6EJG3	Q ECBD_2883 ECD_10027	Q		ECBD_2883 ECD_10027	C6EJG3_ECOBD		Predicted		Antitermination protein (Late gene regulator)	"GO:0003677; GO:0031072; GO:0006457; GO:0006355; GO:0051082"	Complete proteome	207
+C6EHT6	ygiH ECBD_0682 ECD_02929	ygiH		ECBD_0682 ECD_02929	C6EHT6_ECOBD		Inferred from homology		Putative uncharacterized protein (Putative uncharacterized protein ygiH)	"GO:0008654; GO:0005886"	Complete proteome	205
+C6EJU2	emrR ECBD_1036 ECD_02539	emrR		ECBD_1036 ECD_02539	C6EJU2_ECOBD		Predicted		DNA-binding transcriptional repressor of microcin B17 synthesis and multidrug efflux (Transcriptional regulator, MarR family)	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	176
+C6EBL7	hpaE ECBD_3667 ECD_04229	hpaE		ECBD_3667 ECD_04229	C6EBL7_ECOBD		Inferred from homology	Aldehyde dehydrogenase family	5-carboxy-2-hydroxymuconate semialdehyde dehydrogenase (5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase)	"GO:0055114; GO:0016491"	"Complete proteome; Oxidoreductase"	488
+C6EDQ7	ynfI ECBD_2055 ECD_01560	ynfI		ECBD_2055 ECD_01560	C6EDQ7_ECOBD		Predicted		Cytoplasmic chaperone TorD family protein (Twin-argninine leader-binding protein for DmsA and TorA)		Complete proteome	204
+C6ECM4	celF ECBD_1911 ECD_01703	celF		ECBD_1911 ECD_01703	C6ECM4_ECOBD		Predicted		Cryptic phospho-beta-glucosidase, NAD(P)-binding (EC 3.2.1.86) (Glycoside hydrolase family 4)	"GO:0008706; GO:0005488; GO:0005975"	"Complete proteome; Glycosidase; Hydrolase"	450
+C6EBM3	hpaA ECBD_3673 ECD_04223	hpaA		ECBD_3673 ECD_04223	C6EBM3_ECOBD		Predicted		HpaA (Transcriptional regulator, AraC family)	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	296
+C6EE93	ECBD_0148 ECD_03438			ECBD_0148 ECD_03438	C6EE93_ECOBD		Predicted		Putative uncharacterized protein	GO:0003824	Complete proteome	659
+C6EER3	yncC ECBD_2189 ECD_01407	yncC		ECBD_2189 ECD_01407	C6EER3_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, GntR family)	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	221
+C6EF76	ECBD_4203 ECD_03714			ECBD_4203 ECD_03714	C6EF76_ECOBD		Predicted		FdrA family protein (Putative uncharacterized protein)	GO:0003824	Complete proteome	519
+C6EHT5	ygiP ECBD_0681 ECD_02930	ygiP		ECBD_0681 ECD_02930	C6EHT5_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, LysR family)	"GO:0003677; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	310
+C6ECW8	yjeA ECBD_3874 ECD_04027	yjeA		ECBD_3874 ECD_04027	C6ECW8_ECOBD		Inferred from homology	Class-II aminoacyl-tRNA synthetase family	Uncharacterized protein YjeA	"GO:0005524; GO:0005737; GO:0004824; GO:0006430"	"Aminoacyl-tRNA synthetase; Complete proteome; Ligase"	325
+C6EEH8	yhiF ECBD_0234 ECD_03355	yhiF		ECBD_0234 ECD_03355	C6EEH8_ECOBD		Predicted		Predicted DNA-binding ranscriptional regulator (Transcriptional regulator, LuxR family)	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	176
+C6EIB4	ybjR ECBD_2727 ECD_00872	ybjR		ECBD_2727 ECD_00872	C6EIB4_ECOBD		Predicted		N-acetylmuramyl-L-alanine amidase, negative regulator of AmpC, AmpD (EC 3.5.1.28) (Predicted amidase and lipoprotein)	"GO:0008745; GO:0009253"	"Complete proteome; Hydrolase; Lipoprotein; Signal"	276
+C6EFY0	yciD ECBD_2366 ECD_01230	yciD		ECBD_2366 ECD_01230	C6EFY0_ECOBD		Predicted		OmpW family protein (Outer membrane protein W)	"GO:0009279; GO:0016021"	"Complete proteome; Signal"	212
+C6EAK3	ECBD_1550 ECD_02035			ECBD_1550 ECD_02035	C6EAK3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	221
+C6EGL7	yhcS ECBD_0503 ECD_03103	yhcS		ECBD_0503 ECD_03103	C6EGL7_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator, efflux system (Putative DNA-binding transcriptional regulator)	"GO:0003677; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	309
+C6EGK8	yhdA ECBD_0494 ECD_03111	yhdA		ECBD_0494 ECD_03111	C6EGK8_ECOBD		Predicted		Conserved inner membrane protein (Diguanylate cyclase/phosphodiesterase)	"GO:0009190; GO:0016849"	"Complete proteome; Signal"	646
+C6EBM4	hpaB ECBD_3674 ECD_04222	hpaB		ECBD_3674 ECD_04222	C6EBM4_ECOBD		Predicted		4-hydroxyphenylacetate 3-monooxygenase (4-hydroxyphenylacetate 3-monooxygenase, oxygenase subunit)	"GO:0050660; GO:0003995; GO:0055114; GO:0016712; GO:0010124"	"Complete proteome; Monooxygenase; Oxidoreductase"	520
+C6E9V2	yfaX ECBD_1411 ECD_02174	yfaX		ECBD_1411 ECD_02174	C6E9V2_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, IclR family)	"GO:0003677; GO:0006355; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	260
+C6EK72	citB ECBD_3030 ECD_00590	citB		ECBD_3030 ECD_00590	C6EK72_ECOBD		Predicted		DNA-binding response regulator in two-component regulatory system with citA (Response regulator receiver)	"GO:0003677; GO:0006355; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding"	226
+C6EE46	yijC ECBD_4061 ECD_03848	yijC		ECBD_4061 ECD_03848	C6EE46_ECOBD		Predicted		DNA-binding transcriptional repressor (Transcriptional regulator, TetR family)	"GO:0003677; GO:0006355; GO:0003700; GO:0016566; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	234
+C6EBX4	yebK ECBD_1785 ECD_01824	yebK		ECBD_1785 ECD_01824	C6EBX4_ECOBD		Predicted		Predicted DNA-binding transcriptional regulator (Transcriptional regulator, RpiR family)	"GO:0003677; GO:0005975; GO:0006355; GO:0003700; GO:0005529"	"Complete proteome; DNA-binding"	289
+C6EEG9	yhiW ECBD_0225 ECD_03363	yhiW		ECBD_0225 ECD_03363	C6EEG9_ECOBD		Predicted		DNA-binding transcriptional activator (Transcriptional regulator, AraC family)	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	242
+C6EDW5	yneH ECBD_2118 ECD_01481	yneH		ECBD_2118 ECD_01481	C6EDW5_ECOBD		Inferred from homology		Glutaminase (EC 3.5.1.2) (Predicted glutaminase)	"GO:0004359; GO:0006541"	"Complete proteome; Hydrolase"	308
+C6EKW1	ybbS ECBD_3153 ECD_00454	ybbS		ECBD_3153 ECD_00454	C6EKW1_ECOBD		Predicted		DNA-binding transcriptional activator of the allD operon (Transcriptional regulator, LysR family)	"GO:0003677; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	308
+C6EF64	yigN ECBD_4191 ECD_03725	yigN		ECBD_4191 ECD_03725	C6EF64_ECOBD		Predicted		Predicted recombination limiting protein (Putative uncharacterized protein)		"Complete proteome; Signal"	475
+C6EKX9	ybaS ECBD_3171 ECD_00436	ybaS		ECBD_3171 ECD_00436	C6EKX9_ECOBD		Inferred from homology		Glutaminase (EC 3.5.1.2) (Predicted glutaminase)	"GO:0004359; GO:0006541"	"Complete proteome; Hydrolase"	310
+C6EAJ6	molR ECBD_1543 ECD_02045	molR		ECBD_1543 ECD_02045	C6EAJ6_ECOBD		Predicted		Molybdate metabolism regulator (WGR domain protein)		Complete proteome	1264
+C6EHQ5	ygjU ECBD_0651 ECD_02958	ygjU		ECBD_0651 ECD_02958	C6EHQ5_ECOBD		Inferred from homology		Sodium:dicarboxylate symporter (Sodium:serine/threonine symporter)	"GO:0016021; GO:0017153"	"Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	414
+C6EK34	yleA ECBD_2990 ECD_00629	yleA		ECBD_2990 ECD_00629	C6EK34_ECOBD		Inferred from homology		Isopentenyl-adenosine A37 tRNA methylthiolase (tRNA-i(6)A37 thiotransferase enzyme MiaB)	"GO:0051539; GO:0005737; GO:0006400; GO:0016740"	"Complete proteome; Transferase"	474
+C6EJ12	J ECBD_2855 ECD_10054	J		ECBD_2855 ECD_10054	C6EJ12_ECOBD		Predicted		Putative uncharacterized protein (Tail:host specificity protein)		Complete proteome	1132
+C6EEM8	dos ECBD_2150 ECD_01447	dos		ECBD_2150 ECD_01447	C6EEM8_ECOBD		Predicted		Diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(S) (cAMP phosphodiesterase, heme-regulated)	"GO:0009190; GO:0016849; GO:0006355; GO:0000155; GO:0000160"	Complete proteome	799
+C6EEH3	yhiE ECBD_0229 ECD_03360	yhiE		ECBD_0229 ECD_03360	C6EEH3_ECOBD		Predicted		DNA-binding transcriptional activator (Transcriptional regulator, LuxR family)	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding"	175
+C6ECG9	yjfH ECBD_3854 ECD_04047	yjfH		ECBD_3854 ECD_04047	C6ECG9_ECOBD		Predicted		23S rRNA (Gm2251)-methyltransferase (EC 2.1.1.-) (RNA methyltransferase, TrmH family, group 3)	"GO:0003723; GO:0008173; GO:0006396"	"Complete proteome; Methyltransferase; Transferase"	243
+C6EL40	ECBD_3232 ECD_00377			ECBD_3232 ECD_00377	C6EL40_ECOBD		Predicted		GCN5-related N-acetyltransferase (Putative acetyltransferase)	GO:0008080	"Complete proteome; Transferase"	180
+C6EGX1	cobB ECBD_2479 ECD_01118	cobB		ECBD_2479 ECD_01118	C6EGX1_ECOBD	Cytoplasm. 	Inferred from homology		NAD-dependent deacetylase (Silent information regulator protein Sir2)	"GO:0070403; GO:0006342; GO:0005737; GO:0016811; GO:0006476; GO:0008270"	Complete proteome	279
+C6EHI4	ycdR ECBD_2571 ECD_01025	ycdR		ECBD_2571 ECD_01025	C6EHI4_ECOBD		Predicted		Predicted enzyme associated with biofilm formation (Xylanase/chitin deacetylase-like protein)	"GO:0016810; GO:0045493"	"Complete proteome; Hydrolase; Signal; Xylan degradation"	672
+C6EIX6	ybiM ECBD_2817 ECD_00773	ybiM		ECBD_2817 ECD_00773	C6EIX6_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein ybiM)		"Complete proteome; Signal"	86
+C6EA68	ykfE ECBD_3402 ECD_00215	ykfE		ECBD_3402 ECD_00215	C6EA68_ECOBD		Predicted		Inhibitor of vertebrate C-lysozyme (Inhibitor of vertebrate lysozyme)	"GO:0043086; GO:0042597"	"Complete proteome; Signal"	157
+C6EHW7	ygiY ECBD_0713 ECD_02898	ygiY		ECBD_0713 ECD_02898	C6EHW7_ECOBD		Predicted		Histidine kinase (Sensory histidine kinase in two-component regulatory system with QseB) (EC 2.7.3.-)	"GO:0005524; GO:0016020; GO:0018106; GO:0000155"	"ATP-binding; Complete proteome; Kinase; Nucleotide-binding; Signal; Transferase"	449
+C6EGS4	mltE ECBD_2429 ECD_01168	mltE		ECBD_2429 ECD_01168	C6EGS4_ECOBD		Predicted		Lytic murein endotransglycosylase E (EC 2.4.99.-) (Lytic transglycosylase catalytic)	GO:0016757	"Complete proteome; Glycosyltransferase; Signal; Transferase"	203
+C6EH35	yrbC ECBD_0550 ECD_03057	yrbC		ECBD_0550 ECD_03057	C6EH35_ECOBD		Predicted		Predicted ABC-type organic solvent transporter (Toluene tolerance family protein)		"Complete proteome; Signal"	211
+C6EHM0	ymcD ECBD_2607 ECD_00990	ymcD		ECBD_2607 ECD_00990	C6EHM0_ECOBD		Predicted		Putative inner membrane protein (Putative uncharacterized protein ymcD)		"Complete proteome; Signal"	101
+C6EJ11	lom ECBD_2854 ECD_10055	lom		ECBD_2854 ECD_10055	C6EJ11_ECOBD		Predicted		Outer host membrane (Virulence-related outer membrane protein)	"GO:0009279; GO:0016021"	"Complete proteome; Signal"	206
+C6EH27	yhbN ECBD_0542 ECD_03065	yhbN		ECBD_0542 ECD_03065	C6EH27_ECOBD		Predicted		Lipopolysaccharide transport periplasmic protein LptA (Predicted transporter subunit: periplasmic-binding component of ABC superfamily)		"Complete proteome; Signal"	185
+C6EGY0	ycfR ECBD_2489 ECD_01108	ycfR		ECBD_2489 ECD_01108	C6EGY0_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein ycfR)		"Complete proteome; Signal"	85
+C6EAC6	yadT ECBD_3460 ECD_00157	yadT		ECBD_3460 ECD_00157	C6EAC6_ECOBD		Predicted		Periplasmic binding protein (Vitamin B12-transporter protein BtuF)	"GO:0006827; GO:0005381"	"Complete proteome; Signal"	266
+C6EC03	ECBD_1814 ECD_01797			ECBD_1814 ECD_01797	C6EC03_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	79
+C6ED44	yjcP ECBD_3951 ECD_03952	yjcP		ECBD_3951 ECD_03952	C6ED44_ECOBD		Predicted		Predicted outer membrane factor of efflux pump (RND efflux system, outer membrane lipoprotein, NodT family)	"GO:0008289; GO:0016020; GO:0005215"	"Complete proteome; Lipoprotein; Signal"	488
+C6EEZ8	ECBD_4124 ECD_03786			ECBD_4124 ECD_03786	C6EEZ8_ECOBD		Predicted		Glycoporin (Putative glycoporin)		"Complete proteome; Signal"	464
+C6ECM0	celA ECBD_1907 ECD_01707	celA		ECBD_1907 ECD_01707	C6ECM0_ECOBD		Predicted		N,N'-diacetylchitobiose-specific enzyme IIB component of PTS (EC 2.7.1.69) (PTS system, lactose/cellobiose family IIB subunit) (EC 2.7.1.69)	"GO:0009401; GO:0008982; GO:0005529"	"Complete proteome; Signal; Transferase"	106
+C6EKC8	ylcC ECBD_3089 ECD_00534	ylcC		ECBD_3089 ECD_00534	C6EKC8_ECOBD		Predicted		Periplasmic copper-binding protein		"Complete proteome; Signal"	110
+C6EEB8	ECBD_0174 ECD_03412			ECBD_0174 ECD_03412	C6EEB8_ECOBD		Predicted		Putative lipoprotein (Putative uncharacterized protein)		"Complete proteome; Lipoprotein; Signal"	99
+C6EIW9	ybiF ECBD_2810 ECD_00780	ybiF		ECBD_2810 ECD_00780	C6EIW9_ECOBD		Predicted		Putative uncharacterized protein (Threonine and homoserine efflux system)	GO:0016020	"Cell membrane; Complete proteome; Membrane; Signal"	295
+C6EG00	ECBD_4227 ECD_03690			ECBD_4227 ECD_03690	C6EG00_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	300
+C6ELT8	yagY ECBD_3365 ECD_00251	yagY		ECBD_3365 ECD_00251	C6ELT8_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yagY)		"Complete proteome; Signal"	222
+C6EEH1	yhiU ECBD_0227 ECD_03361	yhiU		ECBD_0227 ECD_03361	C6EEH1_ECOBD		Predicted		Efflux transporter, RND family, MFP subunit (Multidrug resistance efflux transporter)	"GO:0016020; GO:0009306; GO:0008565"	"Complete proteome; Signal"	385
+C6EII6	yggA ECBD_0815 ECD_02754	yggA		ECBD_0815 ECD_02754	C6EII6_ECOBD		Predicted		Arginine exporter protein (L-lysine exporter)	"GO:0006865; GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix"	211
+C6EDB2	yicK ECBD_0046 ECD_03542	yicK		ECBD_0046 ECD_03542	C6EDB2_ECOBD		Predicted		Predicted sugar efflux system (Sugar efflux transporter)	"GO:0016021; GO:0015542"	"Complete proteome; Signal"	394
+C6EAY7	tbpA ECBD_3549 ECD_00070	tbpA		ECBD_3549 ECD_00070	C6EAY7_ECOBD		Predicted		Thiamin transporter subunit (Thiamine ABC transporter, periplasmic binding protein)	"GO:0005524; GO:0042626; GO:0030288"	"Complete proteome; Signal"	327
+C6EHM3	ymcA ECBD_2610 ECD_00987	ymcA		ECBD_2610 ECD_00987	C6EHM3_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein ymcA)		"Complete proteome; Signal"	698
+C6EF68	ECBD_4195 ECD_03721			ECBD_4195 ECD_03721	C6EF68_ECOBD		Predicted		Putative uncharacterized protein	GO:0030288	"Complete proteome; Signal"	324
+C6EEK7	yneA ECBD_2126 ECD_01473	yneA		ECBD_2126 ECD_01473	C6EEK7_ECOBD		Predicted		ABC-type sugar transport system periplasmic component-like protein (AI2 transporter)	GO:0008643	"Complete proteome; Signal; Sugar transport; Transport"	340
+C6EGI4	yrdC ECBD_0469 ECD_03133	yrdC		ECBD_0469 ECD_03133	C6EGI4_ECOBD		Predicted		Predicted ribosome maturation factor (SUA5/yciO/yrdC domain protein)	"GO:0003723; GO:0005737; GO:0006364"	"Complete proteome; Cytoplasm; RNA-binding; Ribosome biogenesis; rRNA processing"	190
+C6EJF8	ECBD_2878 ECD_10032			ECBD_2878 ECD_10032	C6EJF8_ECOBD		Predicted		Bor family protein (Bor protein)		"Complete proteome; Signal"	97
+C6EAC8	yadR ECBD_3462 ECD_00155	yadR		ECBD_3462 ECD_00155	C6EAC8_ECOBD		Predicted		Iron-sulfur cluster assembly accessory protein (Putative uncharacterized protein yadR)	"GO:0016226; GO:0051536; GO:0005198"	"Complete proteome; Iron; Iron-sulfur; Metal-binding"	114
+C6EDI8	ECBD_0124 ECD_03459			ECBD_0124 ECD_03459	C6EDI8_ECOBD		Predicted		Putative inner membrane lipoprotein (Putative uncharacterized protein)		"Complete proteome; Lipoprotein; Signal"	227
+C6EH29	yrbI ECBD_0544 ECD_03063	yrbI		ECBD_0544 ECD_03063	C6EH29_ECOBD		Predicted		3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (3-deoxy-D-manno-octulosonate 8-phosphate phosphatase, YrbI family) (EC 3.1.3.45)	"GO:0019143; GO:0009103"	"Complete proteome; Hydrolase; Signal"	188
+C6EKD4	ybcU ECBD_3098 ECD_00509	ybcU		ECBD_3098 ECD_00509	C6EKD4_ECOBD		Predicted		Bor family protein (Predicted lipoprotein)		"Complete proteome; Lipoprotein; Signal"	97
+C6EH28	yrbK ECBD_0543 ECD_03064	yrbK		ECBD_0543 ECD_03064	C6EH28_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yrbK)		"Complete proteome; Signal"	191
+C6EG83	yieC ECBD_4312 ECD_03604	yieC		ECBD_4312 ECD_03604	C6EG83_ECOBD		Predicted		Carbohydrate-specific outer membrane porin, cryptic (Porin LamB type)	"GO:0009279; GO:0005886; GO:0046930; GO:0015288; GO:0005351"	"Cell membrane; Cell outer membrane; Complete proteome; Ion transport; Membrane; Porin; Signal; Transmembrane; Transmembrane beta strand; Transport"	538
+C6EL82	ypdG ECBD_1286 ECD_02296	ypdG		ECBD_1286 ECD_02296	C6EL82_ECOBD		Predicted		PTS system, fructose subfamily, IIC subunit (Predicted enzyme IIC component of PTS)	"GO:0016021; GO:0009401; GO:0005886; GO:0008982; GO:0005351"	"Cell membrane; Complete proteome; Membrane; Phosphotransferase system; Signal; Sugar transport; Transmembrane; Transmembrane helix; Transport"	415
+C6EAI0	yehZ ECBD_1527 ECD_02061	yehZ		ECBD_1527 ECD_02061	C6EAI0_ECOBD		Predicted		Predicted transporter subunit: periplasmic-binding component of ABC superfamily (Substrate-binding region of ABC-type glycine betaine transport system)	"GO:0005488; GO:0005215"	"Complete proteome; Signal"	305
+C6EHJ7	ycdK ECBD_2584 ECD_01013	ycdK		ECBD_2584 ECD_01013	C6EHJ7_ECOBD		Predicted		Endoribonuclease L-PSP (Putative uncharacterized protein ycdK)		"Complete proteome; Signal"	128
+C6EDT4	ECBD_2086 ECD_01527			ECBD_2086 ECD_01527	C6EDT4_ECOBD		Predicted		Lipocalin family protein (Putative lipoprotein)	"GO:0005488; GO:0005215"	"Complete proteome; Lipoprotein; Signal"	174
+C6EEE2	ldrE ldrF ECBD_0198 ECBD_0199 ECD_03388 ECD_03389	ldrE	ldrF	ECBD_0198 ECBD_0199 ECD_03388 ECD_03389	C6EEE2_ECOBD		Predicted		Putative uncharacterized protein (Toxic polypeptide, small)		Complete proteome	35
+C6ELI0	yajB ECBD_3257 ECD_00352	yajB		ECBD_3257 ECD_00352	C6ELI0_ECOBD		Predicted		(Acyl-carrier-protein) phosphodiesterase (EC 3.1.4.14) (Putative glycoprotein)	"GO:0008770; GO:0006633"	"Complete proteome; Hydrolase"	193
+C6EGD2	gspM ECBD_0417 ECD_03185	gspM		ECBD_0417 ECD_03185	C6EGD2_ECOBD		Predicted		General secretion pathway M protein (General secretory pathway component, cryptic)	GO:0006858	Complete proteome	153
+C6EC08	rrmA ECBD_1819 ECD_01792	rrmA		ECBD_1819 ECD_01792	C6EC08_ECOBD		Predicted		23S rRNA m1G745 methyltransferase (EC 2.1.1.51) (rRNA (Guanine-N(1)-)-methyltransferase) (EC 2.1.1.51)	GO:0008989	"Complete proteome; Methyltransferase; Transferase"	269
+C6EHK1	ycdG ECBD_2588 ECD_01009	ycdG		ECBD_2588 ECD_01009	C6EHK1_ECOBD		Predicted		Predicted transporter (Uracil-xanthine permease)	"GO:0016020; GO:0055085; GO:0005215"	Complete proteome	442
+C6EDT1	ECBD_2083 ECD_01530			ECBD_2083 ECD_01530	C6EDT1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6ECS2	sufAB ECBD_1962 ECD_01652	sufAB		ECBD_1962 ECD_01652	C6ECS2_ECOBD		Predicted		Component of SufBCD complex (SufBD protein)	"GO:0016226; GO:0005515"	Complete proteome	336
+C6EIR0	ECBD_2750 ECD_00849			ECBD_2750 ECD_00849	C6EIR0_ECOBD		Predicted		Putative DNA-invertase (Resolvase domain protein)	"GO:0003677; GO:0006310; GO:0000150"	Complete proteome	91
+C6EIV0	yliD ECBD_2791 ECD_00799	yliD		ECBD_2791 ECD_00799	C6EIV0_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Binding-protein-dependent transport systems inner membrane component (Predicted peptide transporter subunit: membrane component of ABC superfamily)	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	303
+C6EH92	agaE ECBD_0607 ECD_03000	agaE		ECBD_0607 ECD_03000	C6EH92_ECOBD		Predicted		PTS system mannose/fructose/sorbose family IID component (PTS system, N-acetylgalactosamine-specific IID component)	"GO:0016021; GO:0009401"	Complete proteome	292
+C6EGC1	yheL ECBD_0406 ECD_03194	yheL		ECBD_0406 ECD_03194	C6EGC1_ECOBD	Cytoplasm. 	Inferred from homology		Predicted intracellular sulfur oxidation protein (Sulfur relay protein TusB/DsrH)	"GO:0005737; GO:0008033"	"Complete proteome; Cytoplasm; tRNA processing"	95
+C6EJS0	ygbD ECBD_1014 ECD_02561	ygbD		ECBD_1014 ECD_02561	C6EJS0_ECOBD		Predicted		FAD-dependent pyridine nucleotide-disulphide oxidoreductase (Nitric oxide reductase) (EC 1.18.1.-)	"GO:0050660; GO:0055114; GO:0016491"	"Complete proteome; Oxidoreductase"	377
+C6EGV5	icdA ECBD_2463 ECD_01134	icdA		ECBD_2463 ECD_01134	C6EGV5_ECOBD		Inferred from homology	Isocitrate and isopropylmalate dehydrogenases family	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	"GO:0051287; GO:0006097; GO:0004450; GO:0000287; GO:0055114; GO:0006099"	"Complete proteome; Glyoxylate bypass; Manganese; Metal-binding; NADP; Oxidoreductase; Tricarboxylic acid cycle"	416
+C6EG86	yieJ ECBD_4315 ECD_03601	yieJ		ECBD_4315 ECD_03601	C6EG86_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yieJ)		Complete proteome	195
+C6EDT8	ECBD_2091 ECD_01507			ECBD_2091 ECD_01507	C6EDT8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	93
+C6EK87	ybdQ ECBD_3045 ECD_00576	ybdQ		ECBD_3045 ECD_00576	C6EK87_ECOBD		Predicted		Universal stress protein UP12 (UspA domain protein)	GO:0006950	Complete proteome	142
+C6EJH2	ea10 ECBD_2892 ECD_10017	ea10		ECBD_2892 ECD_10017	C6EJH2_ECOBD		Predicted		Putative single-stranded DNA binding protein (Putative uncharacterized protein)		Complete proteome	122
+C6EFZ5	ECBD_4222 ECD_03694			ECBD_4222 ECD_03694	C6EFZ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	282
+C6EEA4	yiaK ECBD_0159 ECD_03427	yiaK		ECBD_0159 ECD_03427	C6EEA4_ECOBD		Predicted		2,3-diketo-L-gulonate dehydrogenase, NADH-dependent (EC 1.1.1.-) (Malate/L-lactate dehydrogenase)	"GO:0005737; GO:0055114; GO:0016491"	"Complete proteome; Cytoplasm; Oxidoreductase"	332
+C6EDC9	ECBD_0064 ECD_03518			ECBD_0064 ECD_03518	C6EDC9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	76
+C6EDW9	qor ECBD_3982 ECD_03923	qor		ECBD_3982 ECD_03923	C6EDW9_ECOBD		Predicted		Alcohol dehydrogenase zinc-binding domain protein (Quinone oxidoreductase, NADPH-dependent) (EC 1.6.5.5)	"GO:0003960; GO:0055114; GO:0008270"	"Complete proteome; Oxidoreductase"	327
+C6EEL7	ECBD_2139 ECD_01458			ECBD_2139 ECD_01458	C6EEL7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	65
+C6EBQ3	yjiD ECBD_3705 ECD_04195	yjiD		ECBD_3705 ECD_04195	C6EBQ3_ECOBD		Predicted		DNA replication/recombination/repair protein (GPW/gp25 family protein)		Complete proteome	130
+C6EJ65	ECBD_0921 ECD_02652			ECBD_0921 ECD_02652	C6EJ65_ECOBD		Predicted	ABC transporter superfamily	ABC transporter related (Putative uncharacterized protein)	"GO:0005524; GO:0043211; GO:0005886"	"ATP-binding; Cell membrane; Complete proteome; Hydrolase; Membrane; Nucleotide-binding; Repeat; Sugar transport; Transport"	499
+C6EJF2	W ECBD_2872 ECD_10037	W		ECBD_2872 ECD_10037	C6EJF2_ECOBD		Predicted		Head-tail joining protein (Head-to-tail joining protein W gpW family protein)	GO:0019067	Complete proteome	68
+C6EI90	ycaJ ECBD_2703 ECD_00896	ycaJ		ECBD_2703 ECD_00896	C6EI90_ECOBD		Predicted		AAA ATPase central domain protein (Recombination protein)	"GO:0005524; GO:0017111"	Complete proteome	447
+C6EKV5	allP ECBD_3147 ECD_00461	allP		ECBD_3147 ECD_00461	C6EKV5_ECOBD		Predicted		NCS1 nucleoside transporter family (Predicted allantoin transporter)	"GO:0016020; GO:0015205"	Complete proteome	484
+C6EJ39	ygdP ECBD_0895 ECD_02678	ygdP		ECBD_0895 ECD_02678	C6EJ39_ECOBD		Inferred from homology	Nudix hydrolase family	Dinucleoside polyphosphate hydrolase (EC 3.6.1.-) (NUDIX hydrolase)	GO:0016787	"Complete proteome; Hydrolase"	176
+C6EAY6	yabN ECBD_3548 ECD_00071	yabN		ECBD_3548 ECD_00071	C6EAY6_ECOBD		Predicted		DNA-binding transcriptional regulator (Extracellular solute-binding protein family 5)	"GO:0003677; GO:0005215"	"Complete proteome; DNA-binding"	551
+C6EDU2	ECBD_2095 ECBD_2249			ECBD_2095 ECBD_2249	C6EDU2_ECOBD		Predicted		Uncharacterized protein YdfK		Complete proteome	77
+C6EEV7	insF-2 ECBD_2235 ECBD_2568 ECD_01360	insF-2		ECBD_2235 ECBD_2568 ECD_01360	C6EEV7_ECOBD		Predicted		IS3 element protein InsF (Integrase catalytic region)	"GO:0003677; GO:0015074"	Complete proteome	288
+C6EDP8	ydgF ECBD_2046 ECD_01569	ydgF		ECBD_2046 ECD_01569	C6EDP8_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Small multidrug resistance (SMR) protein family	Multidrug efflux system transporter (Small multidrug resistance protein)	"GO:0016021; GO:0005886; GO:0006810"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	121
+C6EAY9	yabJ ECBD_3551 ECD_00068	yabJ		ECBD_3551 ECD_00068	C6EAY9_ECOBD		Predicted	ABC transporter superfamily	ABC transporter, ATPase subunit, ThiQ subfamily (Thiamin transporter subunit)	"GO:0005524; GO:0042626; GO:0009276"	"ATP-binding; Complete proteome; Nucleotide-binding"	232
+C6EH30	yrbH ECBD_0545 ECD_03062	yrbH		ECBD_0545 ECD_03062	C6EH30_ECOBD		Predicted		D-arabinose 5-phosphate isomerase (KpsF/GutQ family protein) (EC 5.3.1.13)	"GO:0019146; GO:0005975; GO:0005529"	"Complete proteome; Isomerase"	328
+C6EFP1	ydaN ECBD_2275 ECD_01319	ydaN		ECBD_2275 ECD_01319	C6EFP1_ECOBD		Predicted		Mg2 transporter protein CorA family protein (Zinc transporter)	"GO:0016020; GO:0046873"	Complete proteome	327
+C6EL71	ECBD_1275 ECD_02307			ECBD_1275 ECD_02307	C6EL71_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	113
+C6EJI0	ea22 ECBD_2901 ECD_10008	ea22		ECBD_2901 ECD_10008	C6EJI0_ECOBD		Predicted		Ea22 (Putative uncharacterized protein)		Complete proteome	182
+C6EJH7	exo ECBD_2897 ECD_10012	exo		ECBD_2897 ECD_10012	C6EJH7_ECOBD		Predicted		Exodeoxyribonuclease (Lambda-induced) (EC 3.1.11.3) (Exonuclease)	"GO:0003677; GO:0004527"	"Complete proteome; Exonuclease; Hydrolase; Nuclease"	226
+C6EG89	yieG ECBD_4318 ECD_03598	yieG		ECBD_4318 ECD_03598	C6EG89_ECOBD		Predicted		Predicted inner membrane protein (Xanthine/uracil/vitamin C permease)	"GO:0016020; GO:0055085; GO:0005215"	Complete proteome	445
+C6EJS2	ygaA ECBD_1016 ECD_02559	ygaA		ECBD_1016 ECD_02559	C6EJS2_ECOBD		Predicted		Anaerobic nitric oxide reductase transcription regulator (Sigma 54 interacting domain protein)	"GO:0005524; GO:0003677; GO:0005622; GO:0017111; GO:0006355; GO:0006350; GO:0008134"	"ATP-binding; Complete proteome; DNA-binding; Nucleotide-binding; Transcription; Transcription regulation"	504
+C6EDG9	waaC ECBD_0105 ECD_03478	waaC		ECBD_0105 ECD_03478	C6EDG9_ECOBD		Predicted		ADP-heptose:LPS heptosyl transferase I (EC 2.-.-.-) (Lipopolysaccharide heptosyltransferase I)	"GO:0009103; GO:0016757"	"Complete proteome; Transferase"	326
+C6EFK6	yhfM ECBD_0378 ECD_03221	yhfM		ECBD_0378 ECD_03221	C6EFK6_ECOBD		Predicted		Amino acid permease-associated region (Predicted fructoselysine transporter)	"GO:0015171; GO:0016021"	"Complete proteome; Membrane; Transmembrane"	445
+C6EDP9	ydgE ECBD_2047 ECD_01568	ydgE		ECBD_2047 ECD_01568	C6EDP9_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Small multidrug resistance (SMR) protein family	Multidrug efflux system transporter (Small multidrug resistance protein)	"GO:0016021; GO:0005886; GO:0006810"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	109
+C6EAQ9	cpsG ECBD_1607 ECD_01954	cpsG		ECBD_1607 ECD_01954	C6EAQ9_ECOBD		Inferred from homology	Phosphohexose mutase family	Phosphomannomutase (EC 5.4.2.8)	"GO:0005975; GO:0000287; GO:0004615"	"Complete proteome; Isomerase; Magnesium; Metal-binding"	456
+C6EFM5	ECBD_2258 ECD_01336			ECBD_2258 ECD_01336	C6EFM5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	90
+C6EHT7	ygiG ECBD_0683 ECD_02928	ygiG		ECBD_0683 ECD_02928	C6EHT7_ECOBD		Predicted		Bifunctional dihydroneopterin aldolase/dihydroneopterin triphosphate 2'-epimerase (EC 4.1.2.25) (Dihydroneopterin aldolase) (EC 4.1.2.25)	"GO:0004150; GO:0006760"	"Complete proteome; Lyase"	122
+C6ED43	yjcQ ECBD_3950 ECD_03953	yjcQ		ECBD_3950 ECD_03953	C6ED43_ECOBD		Predicted		Fusaric acid resistance protein conserved region (Predicted multidrug efflux system component)	"GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	683
+C6EGV7	ymfB ECBD_2465 ECD_01132	ymfB		ECBD_2465 ECD_01132	C6EGV7_ECOBD		Inferred from homology	Nudix hydrolase family	Bifunctional thiamin pyrimidine pyrophosphate hydrolase/ thiamin pyrophosphate hydrolase (NUDIX hydrolase)	GO:0016787	"Complete proteome; Hydrolase"	153
+C6EEJ1	yhiO ECBD_0247 ECD_03343	yhiO		ECBD_0247 ECD_03343	C6EEJ1_ECOBD	"Cell inner membrane; Multi-pass membrane protein. "	Inferred from homology		Universal stress protein UspB	"GO:0016021; GO:0005886"	"Cell inner membrane; Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	111
+C6EDL1	ydgR ECBD_2009 ECD_01604	ydgR		ECBD_2009 ECD_01604	C6EDL1_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	PTR2/POT transporter (TC 2.A.17) family	Amino acid/peptide transporter (Putative tripeptide transporter permease)	"GO:0016021; GO:0006857; GO:0005215"	"Complete proteome; Membrane; Transmembrane; Transport"	500
+C6EHG0	yceE ECBD_2547 ECD_01049	yceE		ECBD_2547 ECD_01049	C6EHG0_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Predicted drug efflux system)	"GO:0016021; GO:0046677; GO:0015520"	Complete proteome	408
+C6EIX7	ybiL ECBD_2818 ECD_00772	ybiL		ECBD_2818 ECD_00772	C6EIX7_ECOBD	Cell outer membrane. 	Inferred from homology	TonB-dependent receptor family	Predicted iron outer membrane transporter (TonB-dependent siderophore receptor)	"GO:0009279; GO:0005506; GO:0005886; GO:0004872; GO:0015343"	"Cell membrane; Complete proteome; Membrane; Receptor; Signal; TonB box"	760
+C6EHM5	yccY ECBD_2612 ECD_00985	yccY		ECBD_2612 ECD_00985	C6EHM5_ECOBD		Predicted		Phosphotyrosine-protein phosphatase (Protein tyrosine phosphatase)	"GO:0006470; GO:0004725"	Complete proteome	148
+C6EDI7	ECBD_0123 ECD_03460			ECBD_0123 ECD_03460	C6EDI7_ECOBD		Predicted		Putative adhesin (YadA domain protein)	"GO:0019867; GO:0009405"	Complete proteome	1616
+C6EDS8	ECBD_2079 ECD_01535			ECBD_2079 ECD_01535	C6EDS8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	119
+C6EE02	yjbC ECBD_4015 ECD_03894	yjbC		ECBD_4015 ECD_03894	C6EE02_ECOBD		Inferred from homology	Pseudouridine synthase rsuA family	Pseudouridine synthase (EC 5.4.99.-)	"GO:0003723; GO:0009982; GO:0001522"	"Complete proteome; Isomerase; RNA-binding"	290
+C6EK52	rlpB ECBD_3010 ECD_00610	rlpB		ECBD_3010 ECD_00610	C6EK52_ECOBD		Predicted		Minor lipoprotein (Rare lipoprotein B)	"GO:0043165; GO:0005886"	"Cell membrane; Complete proteome; Lipoprotein; Membrane"	193
+C6EGD8	gspG ECBD_0423 ECD_03179	gspG		ECBD_0423 ECD_03179	C6EGD8_ECOBD		Predicted		General secretion pathway protein G (Pseudopilin, cryptic, general secretion pathway)	"GO:0015628; GO:0008565; GO:0015627"	"Complete proteome; Methylation"	145
+C6EDF2	dfp ECBD_0087 ECD_03496	dfp		ECBD_0087 ECD_03496	C6EDF2_ECOBD		Predicted		Bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase (EC 4.1.1.36) (EC 6.3.2.5) (Phosphopantothenoylcysteine decarboxylase/phosphopantothenate/cysteine ligase) (EC 6.3.2.5)	"GO:0010181; GO:0015937; GO:0015941; GO:0004632; GO:0004633"	"Complete proteome; Ligase; Lyase"	406
+C6EAE7	yeiC ECBD_1492 ECD_02095	yeiC		ECBD_1492 ECD_02095	C6EAE7_ECOBD		Predicted		PfkB domain protein (Predicted kinase)	GO:0016301	"Complete proteome; Kinase; Transferase"	313
+C6EC32	yeaS ECBD_1844 ECD_01768	yeaS		ECBD_1844 ECD_01768	C6EC32_ECOBD		Predicted		Lysine exporter protein (LYSE/YGGA) (Neutral amino-acid efflux system)	"GO:0006865; GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	212
+C6EFJ7	yhfV ECBD_0368 ECD_03231	yhfV		ECBD_0368 ECD_03231	C6EFJ7_ECOBD		Predicted		Aryldialkylphosphatase (Predicted hydrolase)	"GO:0009056; GO:0016788; GO:0008270"	"Complete proteome; Hydrolase"	292
+C6ECU1	ribC ECBD_1981 ECD_01633	ribC		ECBD_1981 ECD_01633	C6ECU1_ECOBD		Predicted		Riboflavin synthase subunit alpha (EC 2.5.1.9) (Riboflavin synthase, alpha subunit) (EC 2.5.1.9)	GO:0004746	"Complete proteome; Transferase"	213
+C6EJG8	cro ECBD_2888 ECD_10022	cro		ECBD_2888 ECD_10022	C6EJG8_ECOBD		Predicted		Cro protein (Regulatory protein cro (Antirepressor))	GO:0003677	Complete proteome	61
+C6EBM1	hpaI ECBD_3671 ECD_04225	hpaI		ECBD_3671 ECD_04225	C6EBM1_ECOBD		Predicted		2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.3.39)	"GO:0018802; GO:0008701; GO:0046872; GO:0010124"	"Complete proteome; Lyase; Metal-binding"	262
+C6EJG2	ECBD_2882 ECD_10028			ECBD_2882 ECD_10028	C6EJG2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EJI2	ECBD_2903 ECD_10006			ECBD_2903 ECD_10006	C6EJI2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6EE94	ECBD_0149 ECD_03437			ECBD_0149 ECD_03437	C6EE94_ECOBD		Predicted		Putative permease (Sugar (Glycoside-Pentoside-Hexuronide) transporter)	"GO:0016020; GO:0006814; GO:0055085; GO:0005215"	Complete proteome	466
+C6EL49	yfeU ECBD_1253 ECD_02328	yfeU		ECBD_1253 ECD_02328	C6EL49_ECOBD		Inferred from homology		Glucokinase regulatory-like protein (N-acetylmuramic acid-6-phosphate etherase)	"GO:0046348; GO:0016835; GO:0016301; GO:0005529"	"Complete proteome; Kinase; Transferase"	298
+C6EH91	agaF ECBD_0606 ECD_03001	agaF		ECBD_0606 ECD_03001	C6EH91_ECOBD		Predicted		PTS system fructose subfamily IIA component (Putative phosphotransferase system enzyme subunit (N-acetyl-galactosamine/galactosamine PTS system enzyme IIA component))	"GO:0016021; GO:0009401; GO:0016740"	"Complete proteome; Transferase"	144
+C6EHJ9	ycdI ECBD_2586 ECD_01011	ycdI		ECBD_2586 ECD_01011	C6EHJ9_ECOBD		Predicted		Nitroreductase (Putative uncharacterized protein ycdI)	GO:0016491	Complete proteome	196
+C6EK20	rncS ECBD_1114 ECD_02461	rncS		ECBD_1114 ECD_02461	C6EK20_ECOBD		Inferred from homology		Ribonuclease III (EC 3.1.26.3)	"GO:0005737; GO:0003725; GO:0006397; GO:0016075; GO:0006364; GO:0004525"	"Complete proteome; Hydrolase"	226
+C6EDC1	ECBD_0056 ECD_03526			ECBD_0056 ECD_03526	C6EDC1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EBL8	hpaD ECBD_3668 ECD_04228	hpaD		ECBD_3668 ECD_04228	C6EBL8_ECOBD		Predicted		3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15) (Homoprotocatechuate dyoxygenase)	"GO:0008687; GO:0006725; GO:0008198; GO:0055114"	"Complete proteome; Dioxygenase; Oxidoreductase"	283
+C6EJA7	ygcM ECBD_0964 ECD_02610	ygcM		ECBD_0964 ECD_02610	C6EJA7_ECOBD		Predicted		6-pyruvoyl tetrahydrobiopterin synthase (PTPS) (6-pyruvoyl tetrahydropterin synthase)	"GO:0003874; GO:0046872; GO:0006729"	Complete proteome	121
+C6EG93	yidY ECBD_4322 ECD_03594	yidY		ECBD_4322 ECD_03594	C6EG93_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Multidrug efflux system protein)	GO:0055085	Complete proteome	391
+C6EF15	rbn ECBD_4141 ECD_03771	rbn		ECBD_4141 ECD_03771	C6EF15_ECOBD	"Cell inner membrane; Multi-pass membrane protein. "	Inferred from homology		Ribonuclease BN	"GO:0016021; GO:0005886; GO:0004540"	"Cell inner membrane; Cell membrane; Complete proteome; Hydrolase; Membrane; Transmembrane; Transmembrane helix"	290
+C6ECF2	sgaU ECBD_3837 ECD_04064	sgaU		ECBD_3837 ECD_04064	C6ECF2_ECOBD		Predicted		Hexulose-6-phosphate isomerase (EC 5.1.3.22) (L-xylulose 5-phosphate 3-epimerase) (EC 5.-.-.-)	"GO:0034015; GO:0005975; GO:0016861"	"Complete proteome; Isomerase"	284
+C6EA48	yafA ECBD_3382 ECD_00234	yafA		ECBD_3382 ECD_00234	C6EA48_ECOBD		Predicted		Fermentation/respiration switch protein (Putative uncharacterized protein)		Complete proteome	414
+C6EF67	ECBD_4194 ECD_03722			ECBD_4194 ECD_03722	C6EF67_ECOBD		Predicted		KDPG and KHG aldolase (Putative conserved protein)	GO:0003824	Complete proteome	209
+C6EGX5	ycfV ECBD_2484 ECD_01113	ycfV		ECBD_2484 ECD_01113	C6EGX5_ECOBD		Inferred from homology	ABC transporter superfamily	Lipoprotein releasing system, ATP-binding protein (Outer membrane-specific lipoprotein transporter subunit)	"GO:0005524; GO:0016887; GO:0042954; GO:0005886"	"ATP-binding; Cell membrane; Complete proteome; Hydrolase; Lipoprotein; Membrane; Nucleotide-binding; Transport"	233
+C6EGR3	ychF ECBD_2418 ECD_01178	ychF		ECBD_2418 ECD_01178	C6EGR3_ECOBD		Predicted		GTP-binding protein YchF (Translation-associated GTPase)	"GO:0005525; GO:0005622"	Complete proteome	363
+C6EG58	yieM ECBD_4287 ECD_03629	yieM		ECBD_4287 ECD_03629	C6EG58_ECOBD		Inferred from homology		Predicted von Willibrand factor containing protein (von Willebrand factor type A)		Complete proteome	483
+C6ECM1	celB ECBD_1908 ECD_01706	celB		ECBD_1908 ECD_01706	C6ECM1_ECOBD		Predicted		N,N'-diacetylchitobiose-specific enzyme IIC component of PTS (EC 2.7.1.69) (PTS system, cellobiose-specific IIC subunit) (EC 2.7.1.69)	"GO:0016021; GO:0009401; GO:0005886; GO:0008982; GO:0005351"	"Cell membrane; Complete proteome; Membrane; Sugar transport; Transferase; Transmembrane; Transmembrane helix; Transport"	452
+C6EAQ8	cpsB ECBD_1606 ECD_01955	cpsB		ECBD_1606 ECD_01955	C6EAQ8_ECOBD		Inferred from homology	Mannose-6-phosphate isomerase type 2 family	Mannose-1-phosphate guanyltransferase (EC 2.7.7.22) (Mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase) (EC 2.7.7.13)	"GO:0016853; GO:0009103; GO:0008928; GO:0004475"	"Complete proteome; Isomerase; Nucleotidyltransferase; Transferase"	478
+C6EIR9	ECBD_2759 ECD_00840			ECBD_2759 ECD_00840	C6EIR9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	268
+C6EHS7	ygjF ECBD_0673 ECD_02938	ygjF		ECBD_0673 ECD_02938	C6EHS7_ECOBD		Predicted		G/U mismatch-specific DNA glycosylase (Uracil-DNA glycosylase superfamily)	"GO:0006281; GO:0016799"	"Complete proteome; DNA damage; DNA repair; Glycosidase; Hydrolase"	168
+C6ECM2	celC ECBD_1909 ECD_01705	celC		ECBD_1909 ECD_01705	C6ECM2_ECOBD		Predicted		N,N'-diacetylchitobiose-specific enzyme IIA component of PTS (EC 2.7.1.69) (PTS system, lactose-specific IIa component)	"GO:0016020; GO:0009401; GO:0008982; GO:0005351"	"Complete proteome; Transferase"	116
+C6EIT6	ECBD_2776 ECD_00814			ECBD_2776 ECD_00814	C6EIT6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	110
+C6EFL5	ynaF ECBD_2248 ECD_01347	ynaF		ECBD_2248 ECD_01347	C6EFL5_ECOBD		Predicted		Stress-induced protein, ATP-binding protein (UspA domain protein)	"GO:0005524; GO:0006950"	"ATP-binding; Complete proteome; Nucleotide-binding"	144
+C6EFP9	ydaA ECBD_2284 ECD_01310	ydaA		ECBD_2284 ECD_01310	C6EFP9_ECOBD		Predicted		Stress-induced protein (UspA domain protein)	GO:0006950	Complete proteome	316
+C6EIW0	ybiV ECBD_2801 ECD_00789	ybiV		ECBD_2801 ECD_00789	C6EIW0_ECOBD		Predicted		Cof-like hydrolase (Predicted hydrolase)	GO:0016787	"Complete proteome; Hydrolase"	271
+C6EJH5	gam ECBD_2895 ECD_10014	gam		ECBD_2895 ECD_10014	C6EJH5_ECOBD		Predicted		Host-nuclease inhibitor Gam (Host-nuclease inhibitor protein Gam)		Complete proteome	138
+C6EC30	yeaU ECBD_1842 ECD_01770	yeaU		ECBD_1842 ECD_01770	C6EC30_ECOBD		Inferred from homology	Isocitrate and isopropylmalate dehydrogenases family	Predicted dehydrogenase (EC 1.1.1.93) (Tartrate dehydrogenase) (EC 4.1.1.73)	"GO:0051287; GO:0000287; GO:0055114; GO:0050319; GO:0009027"	"Complete proteome; Lyase; Oxidoreductase"	361
+C6E9T6	yfbB ECBD_1395 ECD_02190	yfbB		ECBD_1395 ECD_02190	C6E9T6_ECOBD		Predicted		2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase (Predicted peptidase)		Complete proteome	252
+C6EGL8	yhcR ECBD_0504 ECD_03102	yhcR		ECBD_0504 ECD_03102	C6EGL8_ECOBD	"Cell membrane; Multi-pass membrane protein. "	Inferred from homology		Membrane protein of efflux system (Putative uncharacterized protein)	"GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	67
+C6EII5	yggB ECBD_0814 ECD_02755	yggB		ECBD_0814 ECD_02755	C6EII5_ECOBD		Predicted		Mechanosensitive channel (MscS Mechanosensitive ion channel)	"GO:0016020; GO:0055085"	Complete proteome	286
+C6EK08	yfiK ECBD_1102 ECD_02472	yfiK		ECBD_1102 ECD_02472	C6EK08_ECOBD		Predicted		Lysine exporter protein (LYSE/YGGA) (Neutral amino-acid efflux system)	"GO:0006865; GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	195
+C6ECF7	yjfR ECBD_3842 ECD_04059	yjfR		ECBD_3842 ECD_04059	C6ECF7_ECOBD		Predicted		Predicted L-ascorbate 6-phosphate lactonase (Putative L-ascorbate 6-phosphate lactonase)	GO:0016787	Complete proteome	354
+C6EGH8	rrmB ECBD_0463 ECD_03139	rrmB		ECBD_0463 ECD_03139	C6EGH8_ECOBD	Cytoplasm. 	Inferred from homology		16S rRNA m5C967 methyltransferase, S-adenosyl-L-methionine-dependent (EC 2.1.1.61) (Sun protein)	"GO:0003723; GO:0005737; GO:0008649; GO:0006355; GO:0004808"	"Complete proteome; Cytoplasm; Methyltransferase; RNA-binding; S-adenosyl-L-methionine; Transferase; rRNA processing"	429
+C6EE99	lyxK ECBD_0154 ECD_03432	lyxK		ECBD_0154 ECD_03432	C6EE99_ECOBD		Inferred from homology	FGGY kinase family	Carbohydrate kinase FGGY (L-xylulose kinase)	"GO:0005975; GO:0016301; GO:0016773"	"Complete proteome; Kinase; Transferase"	498
+C6EEJ5	yhiKL ECBD_0251 ECD_03339	yhiKL		ECBD_0251 ECD_03339	C6EEJ5_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yhiKL)		Complete proteome	535
+C6ECU9	ydhD ECBD_1989 ECD_01624	ydhD		ECBD_1989 ECD_01624	C6ECU9_ECOBD		Predicted		Glutaredoxin-like protein (Putative uncharacterized protein ydhD)	"GO:0045454; GO:0009055; GO:0015035"	Complete proteome	115
+C6EKS4	yfeV ECBD_1252 ECD_02329	yfeV		ECBD_1252 ECD_02329	C6EKS4_ECOBD		Predicted		N-acetylmuramic acid phosphotransfer permease (Phosphotransferase system EIIC)	"GO:0016021; GO:0016301; GO:0009401; GO:0005886; GO:0008982; GO:0005351"	"Cell membrane; Complete proteome; Kinase; Membrane; Phosphotransferase system; Sugar transport; Transferase; Transmembrane; Transmembrane helix; Transport"	474
+C6EIJ8	ygfE ECBD_0827 ECD_02742	ygfE		ECBD_0827 ECD_02742	C6EIJ8_ECOBD		Inferred from homology		Cytokinetic ring-localizing protein (Putative uncharacterized protein)	"GO:0000917; GO:0007049; GO:0005737"	"Cell cycle; Cell division; Coiled coil; Complete proteome; Cytoplasm; Septation"	109
+C6EDB6	ECBD_0050 ECD_03538			ECBD_0050 ECD_03538	C6EDB6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	162
+C6EDG6	waaW ECBD_0102 ECD_03481	waaW		ECBD_0102 ECD_03481	C6EDG6_ECOBD		Predicted		Lipopolysaccharide glucosyltransferase I (EC 2.4.1.58) (UDP-galactose:(Galactosyl) LPS alpha1,2-galactosyltransferase)	"GO:0008918; GO:0009103; GO:0008919"	"Complete proteome; Glycosyltransferase; Transferase"	341
+C6EFL9	ECBD_2252 ECD_01343			ECBD_2252 ECD_01343	C6EFL9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6EHV9	yqiE ECBD_0705 ECD_02906	yqiE		ECBD_0705 ECD_02906	C6EHV9_ECOBD		Inferred from homology	Nudix hydrolase family	ADP-ribose diphosphatase (EC 3.6.1.13) (ADP-ribose pyrophosphatase) (EC 3.6.1.13)	"GO:0047631; GO:0046872"	"Complete proteome; Hydrolase"	209
+C6EFK3	yhfQ ECBD_0375 ECD_03224	yhfQ		ECBD_0375 ECD_03224	C6EFK3_ECOBD		Predicted		Fructoselysine 6-kinase (PfkB domain protein)	GO:0016301	"Complete proteome; Kinase; Transferase"	261
+C6EHI5	ycdQ ECBD_2572 ECD_01024	ycdQ		ECBD_2572 ECD_01024	C6EHI5_ECOBD		Predicted		Glycosyltransferase probably involved in cell wall biogenesis-like protein (Predicted glycosyl transferase)	GO:0016740	"Complete proteome; Transferase"	441
+C6EJF0	C ECBD_2870 ECD_10039	C		ECBD_2870 ECD_10039	C6EJF0_ECOBD		Predicted		Capsid component (Peptidase S49)	"GO:0008233; GO:0006508"	Complete proteome	439
+C6ED09	yjdE ECBD_3916 ECD_03986	yjdE		ECBD_3916 ECD_03986	C6ED09_ECOBD		Predicted		Amino acid permease-associated region (Arginine:agmatin)	"GO:0015171; GO:0016021"	"Complete proteome; Membrane; Transmembrane"	445
+C6EJ22	Z ECBD_2865 ECD_10044	Z		ECBD_2865 ECD_10044	C6EJ22_ECOBD		Predicted		Prophage minor tail Z family protein (Tail component)		Complete proteome	192
+C6EJJ2	ybgR ECBD_2915 ECD_00705	ybgR		ECBD_2915 ECD_00705	C6EJJ2_ECOBD		Predicted		Cation diffusion facilitator family transporter (Zinc transporter ZitB)	"GO:0008324; GO:0016020"	Complete proteome	313
+C6EH33	yrbE ECBD_0548 ECD_03059	yrbE		ECBD_0548 ECD_03059	C6EH33_ECOBD		Predicted		Predicted toluene transporter subunit: membrane component of ABC superfamily (Putative uncharacterized protein)		Complete proteome	260
+C6EHJ8	ycdJ ECBD_2585 ECD_01012	ycdJ		ECBD_2585 ECD_01012	C6EHJ8_ECOBD		Predicted		Alpha/beta hydrolase fold protein (Predicted hydrolase)	GO:0016787	"Complete proteome; Hydrolase"	266
+C6EEN1	yddR ECBD_2153 ECD_01444	yddR		ECBD_2153 ECD_01444	C6EEN1_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Binding-protein-dependent transport systems inner membrane component (D-ala-D-ala transporter subunit)	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	340
+C6EBL9	hpaF ECBD_3669 ECD_04227	hpaF		ECBD_3669 ECD_04227	C6EBL9_ECOBD		Predicted		5-carboxymethyl-2-hydroxymuconate Delta-isomerase (EC 5.3.3.10) (5-carboxymethyl-2-hydroxymuconate delta-isomerase)	GO:0008704	"Complete proteome; Isomerase"	126
+C6EBF8	yecI ECBD_1739 ECD_01870	yecI		ECBD_1739 ECD_01870	C6EBF8_ECOBD		Predicted		Ferritin Dps family protein (Predicted ferritin-like protein)	"GO:0006879; GO:0008199; GO:0006826; GO:0055114; GO:0016491"	Complete proteome	167
+C6EJ78	yqcD ECBD_0935 ECD_02639	yqcD		ECBD_0935 ECD_02639	C6EJ78_ECOBD		Inferred from homology		7-cyano-7-deazaguanine reductase (EC 1.7.1.13) (Putative uncharacterized protein yqcD)	"GO:0005737; GO:0055114; GO:0046857; GO:0033739; GO:0008616"	"Complete proteome; Oxidoreductase"	282
+C6EEX5	yiiT ECBD_4101 ECD_03808	yiiT		ECBD_4101 ECD_03808	C6EEX5_ECOBD		Predicted		Stress-induced protein (UspA domain protein)	GO:0006950	Complete proteome	142
+C6EJX1	ECBD_1065 ECD_02510			ECBD_1065 ECD_02510	C6EJX1_ECOBD		Predicted		Recombinase	"GO:0003677; GO:0006310; GO:0000150"	Complete proteome	518
+C6EG19	rffT ECBD_4246 ECD_03671	rffT		ECBD_4246 ECD_03671	C6EG19_ECOBD	"Cell inner membrane; Peripheral membrane protein. "	Inferred from homology		4-alpha-L-fucosyltransferase	"GO:0009276; GO:0009246; GO:0008417; GO:0005886"	"Cell inner membrane; Cell membrane; Complete proteome; Glycosyltransferase; Membrane; Transferase"	359
+C6EBL3	yjiZ ECBD_3663 ECD_04233	yjiZ		ECBD_3663 ECD_04233	C6EBL3_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Predicted transporter)	GO:0055085	Complete proteome	453
+C6EFT1	ordL ECBD_2316 ECD_01278	ordL		ECBD_2316 ECD_01278	C6EFT1_ECOBD		Predicted		FAD dependent oxidoreductase (Gamma-Glu-putrescine oxidase, FAD/NAD(P)-binding)	GO:0016491	Complete proteome	426
+C6EJH9	ECBD_2899 ECD_10010			ECBD_2899 ECD_10010	C6EJH9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	63
+C6EHW1	cpdA ECBD_0707 ECD_02904	cpdA		ECBD_0707 ECD_02904	C6EHW1_ECOBD		Predicted		Calcineurin phosphoesterase domain protein (Cyclic 3',5'-adenosine monophosphate phosphodiesterase)	GO:0016787	Complete proteome	275
+C6EKF5	hmpA ECBD_1132 ECD_02444	hmpA		ECBD_1132 ECD_02444	C6EKF5_ECOBD		Inferred from homology	Globin family	Fused nitric oxide dioxygenase/dihydropteridine reductase 2 (EC 1.14.12.17) (Oxidoreductase FAD/NAD(P)-binding domain protein)	"GO:0020037; GO:0008941; GO:0055114; GO:0016702; GO:0019825; GO:0005344"	"Complete proteome; Dioxygenase; Heme; Iron; Metal-binding; Oxidoreductase; Oxygen transport; Transport"	396
+C6EF75	ECBD_4202 ECD_03715			ECBD_4202 ECD_03715	C6EF75_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	286
+C6EJ24	Fi ECBD_2867 ECD_10042	Fi		ECBD_2867 ECD_10042	C6EJ24_ECOBD		Predicted		DNA packaging protein (Putative DNA-packaging protein)		Complete proteome	132
+C6EHM1	ymcC ECBD_2608 ECD_00989	ymcC		ECBD_2608 ECD_00989	C6EHM1_ECOBD		Predicted		Predicted outer membrane lipoprotein (Putative regulator)		"Complete proteome; Lipoprotein"	214
+C6ECF1	sgaE ECBD_3836 ECD_04065	sgaE		ECBD_3836 ECD_04065	C6ECF1_ECOBD		Predicted		Class II aldolase/adducin family protein (L-ribulose 5-phosphate 4-epimerase) (EC 5.1.3.4)	"GO:0008742; GO:0046872"	"Complete proteome; Isomerase"	228
+C6EJP1	ECBD_2967 ECD_00650			ECBD_2967 ECD_00650	C6EJP1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	85
+C6EGD1	gspO ECBD_0416 ECD_03186	gspO		ECBD_0416 ECD_03186	C6EGD1_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Peptidase A24 family	Bifunctional prepilin leader peptidase/ methylase (EC 2.1.1.-) (EC 3.4.23.43) (Prepilin peptidase) (EC 3.4.23.43)	"GO:0004190; GO:0016021; GO:0008168"	"Complete proteome; Hydrolase; Membrane; Methyltransferase; Protease; Signal; Transferase; Transmembrane"	225
+C6EB48	wbbA ECBD_1621 ECD_01940	wbbA		ECBD_1621 ECD_01940	C6EB48_ECOBD		Predicted		Putative glycosyltransferase WbbA (Putative uncharacterized protein)	GO:0016740	"Complete proteome; Transferase"	248
+C6E9Y5	yojL ECBD_1445 ECD_02141	yojL		ECBD_1445 ECD_02141	C6E9Y5_ECOBD		Predicted		ApbE family lipoprotein (Predicted thiamine biosynthesis lipoprotein)	GO:0009228	"Complete proteome; Lipoprotein"	351
+C6EEI9	yhiP ECBD_0245 ECD_03345	yhiP		ECBD_0245 ECD_03345	C6EEI9_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	PTR2/POT transporter (TC 2.A.17) family	Amino acid/peptide transporter (Predicted transporter)	"GO:0016021; GO:0006857; GO:0005215"	"Complete proteome; Membrane; Transmembrane; Transport"	489
+C6EDD0	ECBD_0065 ECD_03517			ECBD_0065 ECD_03517	C6EDD0_ECOBD		Predicted		Putative uncharacterized protein (ShiA-like protein)	GO:0005488	Complete proteome	347
+C6EIT0	ECBD_2770 ECD_00826			ECBD_2770 ECD_00826	C6EIT0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6EJH8	ECBD_2898 ECD_10011			ECBD_2898 ECD_10011	C6EJH8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	60
+C6EGQ3	ychQ ECBD_2408 ECD_01188	ychQ		ECBD_2408 ECD_01188	C6EGQ3_ECOBD		Predicted		Invasion gene expression up-regulator SirB (Predicted transcriptional regulator)		Complete proteome	130
+C6EBF4	ftn ECBD_1735 ECD_01873	ftn		ECBD_1735 ECD_01873	C6EBF4_ECOBD		Predicted		Ferritin iron storage protein (Cytoplasmic) (Ferroxidase) (EC 1.16.3.1)	"GO:0006879; GO:0008199; GO:0004322; GO:0006826; GO:0055114"	"Complete proteome; Oxidoreductase"	165
+C6EDZ3	yjbA ECBD_4006 ECD_03902	yjbA		ECBD_4006 ECD_03902	C6EDZ3_ECOBD		Predicted		Phosphate-starvation-inducible E (Phosphate-starvation-inducible protein PsiE)	"GO:0016036; GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	136
+C6EH26	yhbG ECBD_0541 ECD_03066	yhbG		ECBD_0541 ECD_03066	C6EH26_ECOBD		Predicted	ABC transporter superfamily	ABC transporter related (Predicted transporter subunit: ATP-binding component of ABC superfamily)	"GO:0005524; GO:0016887"	"ATP-binding; Complete proteome; Nucleotide-binding"	241
+C6EKA4	ybdA ECBD_3064 ECD_00558	ybdA		ECBD_3064 ECD_00558	C6EKA4_ECOBD		Predicted		Major facilitator superfamily MFS_1 (Predicted transporter)		Complete proteome	416
+C6EKQ5	cchA ECBD_1233 ECD_02348	cchA		ECBD_1233 ECD_02348	C6EKQ5_ECOBD		Predicted		Microcompartments protein (Predicted carboxysome structural protein, ethanolamine utilization protein)		Complete proteome	97
+C6EAF2	yeiJ ECBD_1497 ECD_02090	yeiJ		ECBD_1497 ECD_02090	C6EAF2_ECOBD		Predicted		Nucleoside transporter (Predicted nucleoside transporter)	"GO:0016020; GO:0001882; GO:0005415"	Complete proteome	416
+C6EGU8	ymgB ECBD_2456 ECD_01141	ymgB		ECBD_2456 ECD_01141	C6EGU8_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein ymgB)		Complete proteome	88
+C6ECF4	ptxA ECBD_3839 ECD_04062	ptxA		ECBD_3839 ECD_04062	C6ECF4_ECOBD		Predicted		L-ascorbate-specific enzyme IIA component of PTS (Putative PTS IIA-like nitrogen-regulatory protein PtsN)	"GO:0009401; GO:0005351; GO:0016740"	"Complete proteome; Transferase"	154
+C6E9U9	yfaO ECBD_1408 ECD_02177	yfaO		ECBD_1408 ECD_02177	C6E9U9_ECOBD		Inferred from homology	Nudix hydrolase family	NUDIX hydrolase (Predicted NUDIX hydrolase)	GO:0016787	"Complete proteome; Hydrolase"	141
+C6EG28	rfe ECBD_4255 ECD_03662	rfe		ECBD_4255 ECD_03662	C6EG28_ECOBD		Predicted		UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase (EC 2.4.1.-) (Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphatetransferase)	"GO:0009276; GO:0016021; GO:0009103; GO:0000287; GO:0030145; GO:0008963; GO:0016757"	"Complete proteome; Glycosyltransferase; Transferase"	367
+C6EJG4	ren ECBD_2884 ECD_10026	ren		ECBD_2884 ECD_10026	C6EJG4_ECOBD		Predicted		Phosphoprotein phosphatase (EC 3.1.3.16) (Ren exclusion protein)	GO:0004721	"Complete proteome; Hydrolase"	267
+C6EGG6	prlA ECBD_0451 ECD_03151	prlA		ECBD_0451 ECD_03151	C6EGG6_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	SecY/SEC61-alpha family	Preprotein translocase subunit secY	"GO:0015450; GO:0016021"	"Complete proteome; Membrane; Protein transport; Translocation; Transmembrane; Transport"	443
+C6EKD3	ECBD_3097 ECD_00510			ECBD_3097 ECD_00510	C6EKD3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EDP2	ydgB ECBD_2040 ECD_01575	ydgB		ECBD_2040 ECD_01575	C6EDP2_ECOBD		Predicted		Short chain dehydrogenase (Short-chain dehydrogenase/reductase SDR)	"GO:0005488; GO:0055114; GO:0016491"	Complete proteome	240
+C6EJ81	yqcB ECBD_0938 ECD_02636	yqcB		ECBD_0938 ECD_02636	C6EJ81_ECOBD		Inferred from homology	Pseudouridine synthase rluA family	Pseudouridine synthase (EC 5.4.99.-)	"GO:0003723; GO:0009982; GO:0001522"	"Complete proteome; Isomerase"	260
+C6EKJ3	yfgA ECBD_1170 ECD_02408	yfgA		ECBD_1170 ECD_02408	C6EKJ3_ECOBD		Predicted		Putative uncharacterized protein yfgA (Transcriptional regulator, XRE family)	GO:0043565	Complete proteome	337
+C6EDG8	waaL ECBD_0104 ECD_03479	waaL		ECBD_0104 ECD_03479	C6EDG8_ECOBD		Predicted		Lipid A-core, surface polymer ligase (O-antigen polymerase)	GO:0016874	"Complete proteome; Ligase"	417
+C6EEN4	yddO ECBD_2156 ECD_01441	yddO		ECBD_2156 ECD_01441	C6EEN4_ECOBD		Predicted	ABC transporter superfamily	D-ala-D-ala transporter subunit (Oligopeptide/dipeptide ABC transporter, ATPase subunit)	"GO:0005524; GO:0016887; GO:0015197"	"ATP-binding; Complete proteome; Nucleotide-binding; Transport"	308
+C6EHM6	yccC ECBD_2613 ECD_00984	yccC		ECBD_2613 ECD_00984	C6EHM6_ECOBD		Predicted		Capsular exopolysaccharide family (EC 2.7.10.2) (Cryptic autophosphorylating protein tyrosine kinase Etk)	"GO:0045227; GO:0030234; GO:0009103; GO:0016020; GO:0004715"	"Complete proteome; Kinase; Transferase"	726
+C6EAR9	rmlC ECBD_1617 ECD_01944	rmlC		ECBD_1617 ECD_01944	C6EAR9_ECOBD		Predicted		dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13) (dTDP-4-dehydrorhamnose 3,5-epimerase (RmlC))	"GO:0008830; GO:0009103"	"Complete proteome; Isomerase"	181
+C6ECE5	ECBD_3830 ECD_04071			ECBD_3830 ECD_04071	C6ECE5_ECOBD		Predicted		Hexuronate transporter (Major facilitator superfamily MFS_1)	GO:0055085	Complete proteome	425
+C6EIT2	ECBD_2772 ECD_00818			ECBD_2772 ECD_00818	C6EIT2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	73
+C6EKS7	ECBD_3119 ECD_00488			ECBD_3119 ECD_00488	C6EKS7_ECOBD		Predicted		Putative uncharacterized protein (Transcriptional regulator, TraR/DksA family)	GO:0008270	Complete proteome	72
+C6EDB4	ECBD_0048 ECD_03540			ECBD_0048 ECD_03540	C6EDB4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	281
+C6EAH2	yohI ECBD_1518 ECD_02069	yohI		ECBD_1518 ECD_02069	C6EAH2_ECOBD		Predicted		Dihydrouridine synthase DuS (tRNA-dihydrouridine synthase C)	"GO:0050660; GO:0055114; GO:0017150; GO:0008033"	Complete proteome	315
+C6ECF5	sgaB ECBD_3840 ECD_04061	sgaB		ECBD_3840 ECD_04061	C6ECF5_ECOBD		Predicted		L-ascorbate-specific enzyme IIB component of PTS (EC 2.7.1.69) (Protein-N(Pi)-phosphohistidine--sugar phosphotransferase) (EC 2.7.1.69)	"GO:0009401; GO:0008982; GO:0005351"	"Complete proteome; Transferase; Transport"	101
+C6EAM9	yegO ECBD_1577 ECD_01981	yegO		ECBD_1577 ECD_01981	C6EAM9_ECOBD		Predicted		Acriflavin resistance protein (Multidrug efflux system, subunit C)	"GO:0016020; GO:0005215"	Complete proteome	1025
+C6EAF0	ECBD_1495			ECBD_1495	C6EAF0_ECOBD		Predicted		Transcriptional regulator, Crp/Fnr family	"GO:0003677; GO:0045449"	Complete proteome	232
+C6EAH3	ECBD_1520			ECBD_1520	C6EAH3_ECOBD		Predicted		RND efflux system, outer membrane lipoprotein, NodT family	"GO:0008289; GO:0016020; GO:0005215"	"Complete proteome; Lipoprotein; Signal"	478
+C6EBB0	ECBD_1690			ECBD_1690	C6EBB0_ECOBD		Predicted		Diguanylate cyclase	"GO:0009190; GO:0016849"	Complete proteome	564
+C6EBC7	ECBD_1707			ECBD_1707	C6EBC7_ECOBD		Predicted		Flagellar M-ring protein FliF	"GO:0009431; GO:0001539; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum; Signal"	552
+C6EFF8	ECBD_0329			ECBD_0329	C6EFF8_ECOBD		Predicted		4-alpha-glucanotransferase (EC 2.4.1.25)	"GO:0004134; GO:0005975; GO:0043169"	"Complete proteome; Glycosyltransferase; Transferase"	694
+C6EFH0	ECBD_0341			ECBD_0341	C6EFH0_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology		Histidine kinase	"GO:0005524; GO:0016021; GO:0018106; GO:0000155; GO:0000160"	"ATP-binding; Complete proteome; Kinase; Membrane; Nucleotide-binding; Phosphoprotein; Signal; Transferase; Transmembrane; Two-component regulatory system"	450
+C6EKM8	ECBD_1205			ECBD_1205	C6EKM8_ECOBD		Predicted		Hydrogenase 4 subunit D		"Complete proteome; Signal"	36
+C6EB45	ECBD_1618			ECBD_1618	C6EB45_ECOBD		Predicted		Polysaccharide biosynthesis protein	"GO:0016020; GO:0000271"	Complete proteome	474
+C6EB58	ECBD_1632			ECBD_1632	C6EB58_ECOBD		Predicted		Lipopolysaccharide biosynthesis protein	"GO:0009103; GO:0016020"	Complete proteome	326
+C6EBX0	ECBD_1781			ECBD_1781	C6EBX0_ECOBD		Inferred from homology	Bacterial solute-binding protein 9 family	Periplasmic solute binding protein	"GO:0007155; GO:0046872; GO:0030001"	"Complete proteome; Signal; Transport"	315
+C6EC21	ECBD_1832			ECBD_1832	C6EC21_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	107
+C6ECB0	ECBD_3795			ECBD_3795	C6ECB0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	58
+C6ECT3	ECBD_1973			ECBD_1973	C6ECT3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	212
+C6ED20	ECBD_3927			ECBD_3927	C6ED20_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Phosphonate ABC transporter, inner membrane subunit	"GO:0005887; GO:0015604"	"Cell membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix; Transport"	259
+C6EDG1	ECBD_0096			ECBD_0096	C6EDG1_ECOBD		Predicted		Lipopolysaccharide kinase	"GO:0005524; GO:0016301; GO:0009103; GO:0016020; GO:0016773"	"Complete proteome; Kinase; Transferase"	265
+C6EEE9	ECBD_0205			ECBD_0205	C6EEE9_ECOBD		Predicted		Cellulose synthase operon protein YhjQ		Complete proteome	250
+C6EFY4	ECBD_2370			ECBD_2370	C6EFY4_ECOBD		Predicted		TonB family protein	"GO:0005381; GO:0016020; GO:0030288; GO:0008565"	Complete proteome	244
+C6EGA0	ECBD_4329			ECBD_4329	C6EGA0_ECOBD		Inferred from homology		Ribonuclease P protein component	"GO:0004526; GO:0001682; GO:0000049"	Complete proteome	108
+C6EGC8	ECBD_0413			ECBD_0413	C6EGC8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	38
+C6EH12	ECBD_0527			ECBD_0527	C6EH12_ECOBD		Predicted		IS600 orf		Complete proteome	101
+C6EH37	ECBD_0552			ECBD_0552	C6EH37_ECOBD		Inferred from homology	BolA/yrbA family	BolA family protein		Complete proteome	89
+C6EH70	ECBD_0585			ECBD_0585	C6EH70_ECOBD		Predicted		Excinuclease ABC C subunit domain protein	"GO:0006281; GO:0005622; GO:0004518"	Complete proteome	103
+C6EIG8	ECBD_0797			ECBD_0797	C6EIG8_ECOBD		Inferred from homology	Major facilitator superfamily, Sugar transporter (TC 2.A.1.1) family	Sugar transporter	"GO:0008643; GO:0016021; GO:0022891"	"Complete proteome; Membrane; Signal; Sugar transport; Transmembrane; Transport"	464
+C6EIH3	ECBD_0802			ECBD_0802	C6EIH3_ECOBD		Inferred from homology	Peptidase M48B family	Peptidase M48 Ste24p	"GO:0016021; GO:0046872; GO:0004222; GO:0006508"	"Complete proteome; Hydrolase; Membrane; Metal-binding; Metalloprotease; Protease; Signal; Transmembrane; Transmembrane helix; Zinc"	252
+C6EIH6	ECBD_0805			ECBD_0805	C6EIH6_ECOBD		Predicted		Putative PTS IIA-like nitrogen-regulatory protein PtsN	"GO:0009401; GO:0005351; GO:0016740"	"Complete proteome; Transferase"	147
+C6EIV8	ECBD_2799			ECBD_2799	C6EIV8_ECOBD		Predicted		Glycyl-radical enzyme activating protein family (EC 1.97.1.4)	"GO:0051539; GO:0043365; GO:0005737; GO:0006006; GO:0055114; GO:0006800"	"Complete proteome; Oxidoreductase"	299
+C6EJ10	ECBD_2851			ECBD_2851	C6EJ10_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	53
+C6EJK7	ECBD_2930			ECBD_2930	C6EJK7_ECOBD		Predicted		PTS system, fructose subfamily, IIC subunit (EC 2.7.1.69)	"GO:0016021; GO:0009401; GO:0005886; GO:0008982; GO:0005351"	"Cell membrane; Complete proteome; Membrane; Phosphotransferase system; Sugar transport; Transferase; Transmembrane; Transmembrane helix; Transport"	638
+C6EJL7	ECBD_2940			ECBD_2940	C6EJL7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	35
+C6EKB3	ECBD_3073			ECBD_3073	C6EKB3_ECOBD		Predicted		4'-phosphopantetheinyl transferase	"GO:0009239; GO:0009366; GO:0008897; GO:0009059; GO:0000287"	"Complete proteome; Transferase"	247
+C6ELT4	ECBD_3361			ECBD_3361	C6ELT4_ECOBD		Inferred from homology	Ribosomal protein L36P family	50S ribosomal protein L36	"GO:0005840; GO:0003735; GO:0006412"	"Complete proteome; Ribonucleoprotein; Ribosomal protein"	46
+C6EAN4	ECBD_1582			ECBD_1582	C6EAN4_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	48
+C6EB16	ECBD_3579			ECBD_3579	C6EB16_ECOBD		Inferred from homology	Enoyl-CoA hydratase/isomerase family	Enoyl-CoA hydratase/isomerase	GO:0016853	"Complete proteome; Isomerase"	261
+C6EBD4	ECBD_1715			ECBD_1715	C6EBD4_ECOBD		Predicted		Glucan 1,4-alpha-maltohexaosidase (EC 3.2.1.98)	"GO:0005509; GO:0005975; GO:0033927"	"Complete proteome; Glycosidase; Hydrolase"	495
+C6ECB3	ECBD_3798			ECBD_3798	C6ECB3_ECOBD		Predicted		Cytochrome b562	"GO:0009055; GO:0022900; GO:0020037; GO:0042597"	"Complete proteome; Signal"	128
+C6ED45	ECBD_3952			ECBD_3952	C6ED45_ECOBD		Predicted		Molybdopterin oxidoreductase Fe4S4 region	"GO:0009055; GO:0051536; GO:0046872; GO:0055114; GO:0016491"	"Complete proteome; Iron; Iron-sulfur; Metal-binding; Oxidoreductase"	139
+C6ED88	ECBD_0022			ECBD_0022	C6ED88_ECOBD		Predicted		Transcriptional regulator, AraC family	"GO:0005737; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Activator; Complete proteome; Cytoplasm; DNA-binding; Transcription; Transcription regulation"	297
+C6EDP0	ECBD_2038			ECBD_2038	C6EDP0_ECOBD		Predicted		Two component transcriptional regulator, winged helix family	"GO:0003677; GO:0005622; GO:0006355; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation; Two-component regulatory system"	239
+C6EF79	ECBD_4206			ECBD_4206	C6EF79_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	129
+C6EFB6	ECBD_0283			ECBD_0283	C6EFB6_ECOBD		Predicted		Extracellular ligand-binding receptor	"GO:0006865; GO:0030288; GO:0004872"	"Complete proteome; Receptor; Signal"	369
+C6EFD7	ECBD_0305			ECBD_0305	C6EFD7_ECOBD		Predicted		Transcriptional regulator, LacI family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	331
+C6EFG8	ECBD_0339			ECBD_0339	C6EFG8_ECOBD		Predicted		Transcription elongation factor GreB	"GO:0003677; GO:0006350; GO:0003711; GO:0003746"	"Complete proteome; DNA-binding; Elongation factor; Protein biosynthesis; Transcription; Transcription regulation"	158
+C6EFI6	ECBD_0357			ECBD_0357	C6EFI6_ECOBD		Inferred from homology		Shikimate kinase (EC 2.7.1.71)	"GO:0005524; GO:0009073; GO:0005737; GO:0000287; GO:0004765"	"Complete proteome; Kinase; Transferase"	225
+C6EGP4	ECBD_2399			ECBD_2399	C6EGP4_ECOBD		Predicted		Uncharacterized protein YchO		"Complete proteome; Signal"	476
+C6EGX9	ECBD_2488			ECBD_2488	C6EGX9_ECOBD		Predicted		ErfK/YbiS/YcfS/YnhG family protein	GO:0016998	"Complete proteome; Signal"	319
+C6EIP2	ECBD_0871			ECBD_0871	C6EIP2_ECOBD		Predicted		Aldehyde oxidase and xanthine dehydrogenase molybdopterin binding	"GO:0055114; GO:0016491"	Complete proteome	765
+C6EIT4	ECBD_2774			ECBD_2774	C6EIT4_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	63
+C6EK48	ECBD_3006			ECBD_3006	C6EK48_ECOBD		Predicted		Sel1 domain protein repeat-containing protein	GO:0005488	Complete proteome	170
+C6ELL3	ECBD_3290			ECBD_3290	C6ELL3_ECOBD		Predicted		Putative transcriptional regulator, Crp/Fnr family		Complete proteome	207
+C6EBD0	ECBD_1711			ECBD_1711	C6EBD0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	222
+C6EBQ9	ECBD_3711			ECBD_3711	C6EBQ9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EBT5	ECBD_1746			ECBD_1746	C6EBT5_ECOBD		Inferred from homology		Flagellar transcriptional activator	"GO:0003677; GO:0005737; GO:0019861; GO:0009296; GO:0006350; GO:0016563"	"Activator; Cell projection; Cilium; Complete proteome; Cytoplasm; DNA-binding; Flagellum; Transcription; Transcription regulation"	116
+C6EDR3	ECBD_2061			ECBD_2061	C6EDR3_ECOBD		Inferred from homology		Putative uncharacterized protein	GO:0005886	Complete proteome	248
+C6EDT5	ECBD_2087			ECBD_2087	C6EDT5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EEE6	ECBD_0202			ECBD_0202	C6EEE6_ECOBD		Predicted		Cellulose biosynthesis protein BcsF		Complete proteome	63
+C6EEK8	ECBD_2128			ECBD_2128	C6EEK8_ECOBD		Predicted		Outer membrane autotransporter barrel domain protein	GO:0019867	Complete proteome	516
+C6EF24	ECBD_4150			ECBD_4150	C6EF24_ECOBD		Predicted		Sugar (Glycoside-Pentoside-Hexuronide) transporter	"GO:0016020; GO:0006814; GO:0055085; GO:0005215"	Complete proteome	461
+C6EFF2	ECBD_0320			ECBD_0320	C6EFF2_ECOBD		Predicted		Sigma 54 interacting domain protein	"GO:0005524; GO:0005622; GO:0017111; GO:0006355; GO:0008134"	Complete proteome	532
+C6EFQ4	ECBD_2289			ECBD_2289	C6EFQ4_ECOBD		Predicted		Putative uncharacterized protein	GO:0016787	Complete proteome	306
+C6EFW0	ECBD_2345			ECBD_2345	C6EFW0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6EGB2	ECBD_0397			ECBD_0397	C6EGB2_ECOBD		Predicted		NAD(P)H dehydrogenase (Quinone)	"GO:0050662; GO:0009055; GO:0016491"	Complete proteome	183
+C6EHQ8	ECBD_0654			ECBD_0654	C6EHQ8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	45
+C6EI09	ECBD_0755			ECBD_0755	C6EI09_ECOBD		Predicted		Polysaccharide biosynthesis protein	"GO:0016020; GO:0000271"	Complete proteome	355
+C6EIG3	ECBD_0792			ECBD_0792	C6EIG3_ECOBD		Inferred from homology		Putative uncharacterized protein		Complete proteome	211
+C6EK13	ECBD_1107			ECBD_1107	C6EK13_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EL64	ECBD_1268			ECBD_1268	C6EL64_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6E9W8	ECBD_1427			ECBD_1427	C6E9W8_ECOBD		Predicted		Outer membrane autotransporter barrel domain protein	GO:0019867	Complete proteome	1234
+C6EA81	ECBD_3415			ECBD_3415	C6EA81_ECOBD		Inferred from homology		Endonuclease/exonuclease/phosphatase	"GO:0004519; GO:0004527"	"Complete proteome; Endonuclease; Exonuclease; Hydrolase; Nuclease"	259
+C6EB34	ECBD_3599			ECBD_3599	C6EB34_ECOBD		Predicted		Transcriptional regulator, LysR family	"GO:0003677; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	299
+C6EBB6	ECBD_1696			ECBD_1696	C6EBB6_ECOBD		Predicted		Flagellar biosynthetic protein FliQ	"GO:0019861; GO:0016021; GO:0009306"	"Cell projection; Cilium; Complete proteome; Flagellum; Signal"	89
+C6EBT1	ECBD_1742			ECBD_1742	C6EBT1_ECOBD		Predicted		Inner-membrane translocator	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	328
+C6EC73	ECBD_3756			ECBD_3756	C6EC73_ECOBD		Predicted		Choline/carnitine/betaine transporter	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix; Transport"	665
+C6ECK8	ECBD_1895			ECBD_1895	C6ECK8_ECOBD		Predicted		Exodeoxyribonuclease III	"GO:0003677; GO:0006281; GO:0004519; GO:0005622"	Complete proteome	272
+C6EDC6	ECBD_0061			ECBD_0061	C6EDC6_ECOBD		Predicted		Glucan 1,3-alpha-glucosidase (EC 3.2.1.84)	"GO:0030246; GO:0005975; GO:0033919"	"Complete proteome; Glycosidase; Hydrolase"	793
+C6EFB5	ECBD_0282			ECBD_0282	C6EFB5_ECOBD		Predicted		GCN5-related N-acetyltransferase	GO:0008080	"Complete proteome; Transferase"	127
+C6EFD8	ECBD_0306			ECBD_0306	C6EFD8_ECOBD		Predicted		Carbohydrate kinase, thermoresistant glucokinase family (EC 2.7.1.12)	"GO:0005524; GO:0005975; GO:0046316; GO:0004765"	"Complete proteome; Kinase; Transferase"	162
+C6EFE4	ECBD_0312			ECBD_0312	C6EFE4_ECOBD		Inferred from homology	Bacterial/plant glucose-1-phosphate adenylyltransferase family	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	"GO:0005524; GO:0008878; GO:0005978"	"ATP-binding; Complete proteome; Glycogen biosynthesis; Nucleotide-binding; Nucleotidyltransferase; Transferase"	431
+C6EFE8	ECBD_0316			ECBD_0316	C6EFE8_ECOBD		Inferred from homology	FAD-dependent glycerol-3-phosphate dehydrogenase family	FAD dependent oxidoreductase	"GO:0004368; GO:0009331; GO:0006072; GO:0055114"	"Complete proteome; Flavoprotein; Oxidoreductase"	501
+C6EFG2	ECBD_0333			ECBD_0333	C6EFG2_ECOBD		Inferred from homology		BioH protein (EC 3.1.1.1)	"GO:0009102; GO:0004091; GO:0005737"	"Complete proteome; Hydrolase"	256
+C6EFG7	ECBD_0338			ECBD_0338	C6EFG7_ECOBD		Predicted		RNA binding S1 domain protein	"GO:0006310; GO:0006281; GO:0003723; GO:0005737; GO:0016788"	Complete proteome	773
+C6EG49	ECBD_4277			ECBD_4277	C6EG49_ECOBD		Predicted		Transcriptional regulator, LacI family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	327
+C6EGP6	ECBD_2401			ECBD_2401	C6EGP6_ECOBD		Predicted		ChaC family protein		Complete proteome	231
+C6EHA9	ECBD_0625			ECBD_0625	C6EHA9_ECOBD		Inferred from homology	Acetokinase family	Acetate kinase	"GO:0005524; GO:0005737; GO:0016301; GO:0006082; GO:0016774"	"ATP-binding; Complete proteome; Kinase; Nucleotide-binding; Transferase"	402
+C6EIJ9	ECBD_0828			ECBD_0828	C6EIJ9_ECOBD		Inferred from homology		YecA family protein		Complete proteome	194
+C6EIM0	ECBD_0849			ECBD_0849	C6EIM0_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	41
+C6EJD2	ECBD_0989			ECBD_0989	C6EJD2_ECOBD		Predicted		Transcriptional regulator, DeoR family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	255
+C6ELB0	ECBD_1316			ECBD_1316	C6ELB0_ECOBD		Predicted		Membrane protein involved in aromatic hydrocarbon degradation	"GO:0009279; GO:0016021; GO:0005215"	"Complete proteome; Signal"	446
+C6EA58	ECBD_3392			ECBD_3392	C6EA58_ECOBD		Predicted		Type III secretion FHIPEP protein	"GO:0016020; GO:0009306"	Complete proteome	579
+C6EAK1	ECBD_1548			ECBD_1548	C6EAK1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	63
+C6EAQ6	ECBD_1604			ECBD_1604	C6EAQ6_ECOBD		Inferred from homology	Nudix hydrolase family	NUDIX hydrolase	GO:0016818	"Complete proteome; Hydrolase"	160
+C6EBE2	ECBD_1723			ECBD_1723	C6EBE2_ECOBD		Predicted		Pyridoxal phosphate-dependent enzyme, D-cysteine desulfhydrase family (EC 4.4.1.15)	"GO:0019148; GO:0030170"	"Complete proteome; Lyase"	328
+C6EC11	ECBD_1822			ECBD_1822	C6EC11_ECOBD		Predicted		PTS system, mannose/fructose/sorbose family, IID subunit	"GO:0016021; GO:0009401"	Complete proteome	283
+C6ECM8	ECBD_1915			ECBD_1915	C6ECM8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	260
+C6EDC2	ECBD_0057			ECBD_0057	C6EDC2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	124
+C6EDY3	ECBD_3996			ECBD_3996	C6EDY3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EE88	ECBD_0143			ECBD_0143	C6EE88_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	70
+C6EEF1	ECBD_0207			ECBD_0207	C6EEF1_ECOBD		Predicted		Cellulose synthase subunit B	"GO:0006011; GO:0016020"	Complete proteome	767
+C6EF10	ECBD_4136			ECBD_4136	C6EF10_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	80
+C6EF12	ECBD_4138			ECBD_4138	C6EF12_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	35
+C6EF47	ECBD_4174			ECBD_4174	C6EF47_ECOBD		Predicted		Molybdopterin-guanine dinucleotide biosynthesis protein B	"GO:0005525; GO:0006777"	Complete proteome	175
+C6EFC5	ECBD_0292			ECBD_0292	C6EFC5_ECOBD		Predicted		Glycerophosphoryl diester phosphodiesterase	"GO:0006071; GO:0008889; GO:0006629"	Complete proteome	247
+C6EFH2	ECBD_0343			ECBD_0343	C6EFH2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	42
+C6EFU7	ECBD_2332			ECBD_2332	C6EFU7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	34
+C6EFV9	ECBD_2344			ECBD_2344	C6EFV9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	41
+C6EGC6	ECBD_0411			ECBD_0411	C6EGC6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	52
+C6EGK6	ECBD_0491			ECBD_0491	C6EGK6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	53
+C6EGM5	ECBD_2380			ECBD_2380	C6EGM5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	98
+C6EGR4	ECBD_2419			ECBD_2419	C6EGR4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	59
+C6EHC4	ECBD_2511			ECBD_2511	C6EHC4_ECOBD		Inferred from homology		Fatty acid/phospholipid synthesis protein PlsX	"GO:0003824; GO:0006633; GO:0006644"	Complete proteome	346
+C6EHP0	ECBD_0636			ECBD_0636	C6EHP0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EHV3	ECBD_0699			ECBD_0699	C6EHV3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EJ63	ECBD_0919			ECBD_0919	C6EJ63_ECOBD		Inferred from homology	FGGY kinase family	Carbohydrate kinase FGGY	GO:0008737	"Complete proteome; Kinase; Transferase"	472
+C6EJL6	ECBD_2939			ECBD_2939	C6EJL6_ECOBD		Predicted		Succinate dehydrogenase, cytochrome b556 subunit	"GO:0009055; GO:0016020; GO:0000104; GO:0006099"	Complete proteome	134
+C6EKS6	ECBD_3118			ECBD_3118	C6EKS6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	71
+C6EL30	ECBD_3222			ECBD_3222	C6EL30_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6EL31	ECBD_3223			ECBD_3223	C6EL31_ECOBD		Inferred from homology	BolA/yrbA family	BolA family protein		Complete proteome	104
+C6EL41	ECBD_3233			ECBD_3233	C6EL41_ECOBD		Predicted		Sel1 domain protein repeat-containing protein	GO:0005488	Complete proteome	331
+C6ELA6	ECBD_1310			ECBD_1310	C6ELA6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EB82	ECBD_1659			ECBD_1659	C6EB82_ECOBD		Predicted		ErfK/YbiS/YcfS/YnhG family protein		"Complete proteome; Signal"	311
+C6EBF2	ECBD_1733			ECBD_1733	C6EBF2_ECOBD		Predicted		Aromatic amino acid transporter	"GO:0006865; GO:0016020"	"Complete proteome; Signal"	403
+C6EC27	ECBD_1838			ECBD_1838	C6EC27_ECOBD		Predicted		Ribonuclease D (EC 3.1.13.5)	"GO:0008408; GO:0005737; GO:0003676; GO:0000166; GO:0033890; GO:0008033"	"Complete proteome; Hydrolase"	371
+C6EDV2	ECBD_2105			ECBD_2105	C6EDV2_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	31
+C6EET8	ECBD_2215			ECBD_2215	C6EET8_ECOBD		Predicted		Periplasmic glucan biosynthesis protein MdoG	"GO:0030246; GO:0016051; GO:0003824; GO:0042597"	"Complete proteome; Signal"	539
+C6EFE7	ECBD_0315			ECBD_0315	C6EFE7_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	93
+C6EFM0	ECBD_2253			ECBD_2253	C6EFM0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	245
+C6EI14	ECBD_2627			ECBD_2627	C6EI14_ECOBD	Cytoplasm. 	Inferred from homology		Putative uncharacterized protein	"GO:0003723; GO:0005737; GO:0008168; GO:0006364"	"Complete proteome; Cytoplasm; Methyltransferase; RNA-binding; S-adenosyl-L-methionine; Transferase; rRNA processing"	391
+C6EIE7	ECBD_0776			ECBD_0776	C6EIE7_ECOBD		Predicted		Lytic transglycosylase catalytic		"Complete proteome; Signal"	360
+C6EKX6	ECBD_3168			ECBD_3168	C6EKX6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	152
+C6ELN4	ECBD_3311			ECBD_3311	C6ELN4_ECOBD		Predicted		Transcriptional regulator, IclR family	"GO:0003677; GO:0006355; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	281
+C6ELT3	ECBD_3360			ECBD_3360	C6ELT3_ECOBD		Inferred from homology	Ribosomal protein L31P family	50S ribosomal protein L31	"GO:0005840; GO:0003735; GO:0006412"	"Complete proteome; Ribonucleoprotein; Ribosomal protein"	88
+C6E9R1	ECBD_1370			ECBD_1370	C6E9R1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	84
+C6EB21	ECBD_3584			ECBD_3584	C6EB21_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	45
+C6EBA8	ECBD_1688			ECBD_1688	C6EBA8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	305
+C6EBC0	ECBD_1700			ECBD_1700	C6EBC0_ECOBD		Predicted		Flagellar motor switch protein FliM	"GO:0009425; GO:0006935; GO:0001539; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum"	334
+C6EBC2	ECBD_1702			ECBD_1702	C6EBC2_ECOBD		Predicted		Flagellar hook-length control protein	"GO:0009424; GO:0009296; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum"	375
+C6EBC5	ECBD_1705			ECBD_1705	C6EBC5_ECOBD		Predicted		Flagellar assembly protein FliH	"GO:0009288; GO:0001539; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum"	228
+C6EDF1	ECBD_0086			ECBD_0086	C6EDF1_ECOBD		Inferred from homology		Deoxyuridine 5'-triphosphate nucleotidohydrolase Dut	"GO:0004170; GO:0046080; GO:0046872"	"Complete proteome; Hydrolase"	152
+C6EDY4	ECBD_3997			ECBD_3997	C6EDY4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	50
+C6EF09	ECBD_4135			ECBD_4135	C6EF09_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	60
+C6EFG1	ECBD_0332			ECBD_0332	C6EFG1_ECOBD		Predicted		ComF family protein	GO:0009116	Complete proteome	227
+C6EFH5	ECBD_0346			ECBD_0346	C6EFH5_ECOBD		Predicted		RNA-binding S4 domain protein	GO:0003723	Complete proteome	133
+C6EFH7	ECBD_0348			ECBD_0348	C6EFH7_ECOBD		Predicted		Intracellular growth attenuator IgaA	"GO:0009276; GO:0016021"	Complete proteome	707
+C6EHQ6	ECBD_0652			ECBD_0652	C6EHQ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	100
+C6EHZ4	ECBD_0740			ECBD_0740	C6EHZ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	61
+C6EIE2	ECBD_0770			ECBD_0770	C6EIE2_ECOBD		Predicted		General secretion pathway M protein	GO:0006858	Complete proteome	178
+C6EIG2	ECBD_0791			ECBD_0791	C6EIG2_ECOBD		Inferred from homology		Holliday junction resolvase YqgF	"GO:0006310; GO:0006281; GO:0005737; GO:0016788; GO:0003676"	Complete proteome	138
+C6EJ38	ECBD_0894			ECBD_0894	C6EJ38_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EJ68	ECBD_0924			ECBD_0924	C6EJ68_ECOBD		Predicted		Carbohydrate kinase FGGY	"GO:0005975; GO:0016301; GO:0016773"	"Complete proteome; Kinase; Transferase"	526
+C6EJ72	ECBD_0929			ECBD_0929	C6EJ72_ECOBD		Predicted		Lactaldehyde reductase	"GO:0046872; GO:0055114; GO:0016491"	Complete proteome	382
+C6EJV3	ECBD_1047			ECBD_1047	C6EJV3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	109
+C6EK28	ECBD_1122			ECBD_1122	C6EK28_ECOBD		Predicted		HAD superfamily (Subfamily IF) hydrolase, YfhB	GO:0016787	"Complete proteome; Hydrolase"	211
+C6EK88	ECBD_3046			ECBD_3046	C6EK88_ECOBD		Inferred from homology	Class-II pyridine nucleotide-disulfide oxidoreductase family	Alkyl hydroperoxide reductase, F subunit	"GO:0050660; GO:0051287; GO:0045454; GO:0009055; GO:0055114; GO:0016651; GO:0015035"	"Complete proteome; FAD; Flavoprotein; Oxidoreductase; Redox-active center"	531
+C6EKE1	ECBD_3106			ECBD_3106	C6EKE1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	45
+C6ELL1	ECBD_3288			ECBD_3288	C6ELL1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6EAS2	ECBD_3484			ECBD_3484	C6EAS2_ECOBD		Predicted		Fimbrial protein	"GO:0007155; GO:0009289"	"Complete proteome; Fimbrium; Signal"	424
+C6EBF1	ECBD_1732			ECBD_1732	C6EBF1_ECOBD		Predicted		YecA family protein		Complete proteome	221
+C6EBT9	ECBD_1750			ECBD_1750	C6EBT9_ECOBD		Predicted		CheA signal transduction histidine kinase	"GO:0005524; GO:0006935; GO:0005737; GO:0018106; GO:0000155; GO:0000160"	"ATP-binding; Complete proteome; Kinase; Nucleotide-binding; Transferase"	654
+C6ECD9	ECBD_3824			ECBD_3824	C6ECD9_ECOBD		Predicted		Transcriptional regulator, TetR family	"GO:0003677; GO:0006355; GO:0003700; GO:0016566; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	215
+C6EEK1	ECBD_0257			ECBD_0257	C6EEK1_ECOBD		Predicted		Putative uncharacterized protein	GO:0005488	Complete proteome	81
+C6EFA1	ECBD_0268			ECBD_0268	C6EFA1_ECOBD		Inferred from homology		Major facilitator superfamily MFS_1	GO:0055085	Complete proteome	416
+C6EFB4	ECBD_0281			ECBD_0281	C6EFB4_ECOBD		Predicted		Extracellular ligand-binding receptor	"GO:0006865; GO:0030288; GO:0004872"	"Complete proteome; Receptor; Signal"	367
+C6EI99	ECBD_2712			ECBD_2712	C6EI99_ECOBD		Inferred from homology	ClpA/clpB family	ATP-dependent Clp protease, ATP-binding subunit clpA	"GO:0005524; GO:0017111; GO:0008233; GO:0005515; GO:0019538"	"ATP-binding; Chaperone; Complete proteome; Hydrolase; Nucleotide-binding; Protease; Repeat"	758
+C6EL39	ECBD_3231			ECBD_3231	C6EL39_ECOBD		Predicted		Putative uncharacterized protein	GO:0045449	Complete proteome	103
+C6ELF5	ECBD_1361			ECBD_1361	C6ELF5_ECOBD		Predicted		C4-dicarboxylate anaerobic carrier	GO:0016021	Complete proteome	513
+C6E9U7	ECBD_1406			ECBD_1406	C6E9U7_ECOBD		Inferred from homology	DegT/dnrJ/eryC1 family	DegT/DnrJ/EryC1/StrS aminotransferase	"GO:0030170; GO:0008483"	"Aminotransferase; Complete proteome; Pyridoxal phosphate; Transferase"	379
+C6EA60	ECBD_3394			ECBD_3394	C6EA60_ECOBD		Predicted		NLP/P60 protein		Complete proteome	208
+C6EB76	ECBD_1650			ECBD_1650	C6EB76_ECOBD		Inferred from homology		Putative uncharacterized protein		Complete proteome	109
+C6EBA0	ECBD_1679			ECBD_1679	C6EBA0_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology		Heavy metal sensor signal transduction histidine kinase	"GO:0005524; GO:0016021; GO:0018106; GO:0007600; GO:0000155; GO:0000160"	"ATP-binding; Complete proteome; Kinase; Membrane; Nucleotide-binding; Phosphoprotein; Signal; Transferase; Transmembrane; Two-component regulatory system"	452
+C6EBA4	ECBD_1684			ECBD_1684	C6EBA4_ECOBD		Predicted		Metal dependent phosphohydrolase	GO:0016787	"Complete proteome; Hydrolase"	231
+C6EBD2	ECBD_1713			ECBD_1713	C6EBD2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	401
+C6EBX1	ECBD_1782			ECBD_1782	C6EBX1_ECOBD		Predicted		Peptidase M23	"GO:0016998; GO:0004222; GO:0006508"	Complete proteome	440
+C6EDA9	ECBD_0043			ECBD_0043	C6EDA9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6EDF9	ECBD_0094			ECBD_0094	C6EDF9_ECOBD		Predicted		Lipopolysaccharide heptosyltransferase III	GO:0016740	"Complete proteome; Transferase"	340
+C6EES7	ECBD_2203			ECBD_2203	C6EES7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EF77	ECBD_4204			ECBD_4204	C6EF77_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	474
+C6EFH6	ECBD_0347			ECBD_0347	C6EFH6_ECOBD		Predicted		HAD-superfamily hydrolase, subfamily IA, variant 3	GO:0016787	"Complete proteome; Hydrolase"	222
+C6EG29	ECBD_4256			ECBD_4256	C6EG29_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	72
+C6EHF5	ECBD_2542			ECBD_2542	C6EHF5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	37
+C6EHU9	ECBD_0695			ECBD_0695	C6EHU9_ECOBD	"Cell outer membrane; Multi-pass membrane protein. "	Inferred from homology	Fimbrial export usher family	Fimbrial biogenesis outer membrane usher protein	"GO:0009279; GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Cell outer membrane; Complete proteome; Fimbrium biogenesis; Membrane; Signal; Transmembrane; Transport"	837
+C6EI91	ECBD_2704			ECBD_2704	C6EI91_ECOBD		Inferred from homology		Outer membrane lipoprotein carrier protein LolA	"GO:0030288; GO:0008565"	"Complete proteome; Lipoprotein; Signal"	203
+C6EID8	ECBD_0766			ECBD_0766	C6EID8_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Peptidase A24 family	Prepilin peptidase (EC 3.4.23.43)	"GO:0004190; GO:0016021"	"Complete proteome; Hydrolase; Membrane; Protease; Transmembrane"	269
+C6EIE1	ECBD_0769			ECBD_0769	C6EIE1_ECOBD		Predicted		General secretion pathway protein L	"GO:0009276; GO:0016021; GO:0008565"	Complete proteome	286
+C6EJF5	ECBD_2875			ECBD_2875	C6EJF5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EK25	ECBD_1119			ECBD_1119	C6EK25_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6ELI8	ECBD_3265			ECBD_3265	C6ELI8_ECOBD		Predicted		Major facilitator superfamily MFS_1	GO:0055085	Complete proteome	422
+C6EB78	ECBD_1654			ECBD_1654	C6EB78_ECOBD		Predicted		Putative uncharacterized protein	"GO:0016020; GO:0004872; GO:0005215"	"Complete proteome; Signal"	130
+C6EBB4	ECBD_1694			ECBD_1694	C6EBB4_ECOBD		Predicted		Transcriptional regulator, LuxR family	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	207
+C6EBE5	ECBD_1726			ECBD_1726	C6EBE5_ECOBD		Predicted		Transcriptional regulator, LuxR family	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	240
+C6EBF5	ECBD_1736			ECBD_1736	C6EBF5_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	107
+C6EBY1	ECBD_1792			ECBD_1792	C6EBY1_ECOBD		Inferred from homology		Putative lipoprotein		"Complete proteome; Lipoprotein; Signal"	118
+C6ED12	ECBD_3919			ECBD_3919	C6ED12_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology		Histidine kinase	"GO:0005524; GO:0016021; GO:0018106; GO:0000155; GO:0000160"	"ATP-binding; Complete proteome; Kinase; Membrane; Nucleotide-binding; Phosphoprotein; Transferase; Transmembrane; Two-component regulatory system"	366
+C6EFQ5	ECBD_2290			ECBD_2290	C6EFQ5_ECOBD		Predicted		Putative uncharacterized protein	"GO:0005488; GO:0003824"	Complete proteome	60
+C6EID1	ECBD_0759			ECBD_0759	C6EID1_ECOBD		Predicted		Glycolate oxidase, subunit GlcD	"GO:0050660; GO:0008891; GO:0009339"	Complete proteome	499
+C6EAE1	ECBD_3476			ECBD_3476	C6EAE1_ECOBD		Inferred from homology	TRNA nucleotidyltransferase/poly(A) polymerase family	Poly(A) polymerase (EC 2.7.7.19)	"GO:0005524; GO:0003723; GO:0006378; GO:0004652"	"ATP-binding; Complete proteome; Nucleotide-binding; Nucleotidyltransferase; RNA-binding; Transferase"	472
+C6EAK2	ECBD_1549			ECBD_1549	C6EAK2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EAL4	ECBD_1561			ECBD_1561	C6EAL4_ECOBD		Inferred from homology		Class II aldolase, tagatose bisphosphate family (EC 4.1.2.40)	"GO:0004332; GO:0006096; GO:0019512; GO:0009025; GO:0008270"	"Complete proteome; Lyase; Metal-binding; Zinc"	286
+C6EBA9	ECBD_1689			ECBD_1689	C6EBA9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	60
+C6EBQ6	ECBD_3708			ECBD_3708	C6EBQ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6ECT6	ECBD_1976			ECBD_1976	C6ECT6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	254
+C6EDS9	ECBD_2081			ECBD_2081	C6EDS9_ECOBD		Predicted		Hok/gef cell toxic protein	GO:0016020	Complete proteome	70
+C6EDX6	ECBD_3989			ECBD_3989	C6EDX6_ECOBD		Predicted		MATE efflux family protein	"GO:0015297; GO:0015238; GO:0016021"	"Complete proteome; Membrane; Transmembrane; Transmembrane helix"	441
+C6EEG7	ECBD_0223			ECBD_0223	C6EEG7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EF37	ECBD_4163			ECBD_4163	C6EF37_ECOBD		Inferred from homology		GTP-binding protein HSR1-related	"GO:0005525; GO:0000917; GO:0005622"	Complete proteome	210
+C6EFA8	ECBD_0275			ECBD_0275	C6EFA8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	89
+C6EFA9	ECBD_0276			ECBD_0276	C6EFA9_ECOBD		Predicted		Methyltransferase (EC 2.1.1.52)	"GO:0003676; GO:0008990"	"Complete proteome; Methyltransferase; Transferase"	198
+C6EFF5	ECBD_0325			ECBD_0325	C6EFF5_ECOBD		Predicted		Major facilitator superfamily MFS_1	"GO:0016021; GO:0046677; GO:0015520"	Complete proteome	401
+C6EGA5	ECBD_0390			ECBD_0390	C6EGA5_ECOBD		Predicted		Integral membrane protein, YccS/YhfK family		Complete proteome	696
+C6EGZ5	ECBD_0510			ECBD_0510	C6EGZ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EIE0	ECBD_0768			ECBD_0768	C6EIE0_ECOBD		Predicted		General secretion pathway protein C	"GO:0005515; GO:0015628; GO:0008565; GO:0015627"	Complete proteome	331
+C6EIH2	ECBD_0801			ECBD_0801	C6EIH2_ECOBD		Inferred from homology	Arginase family	Agmatinase	"GO:0008783; GO:0046872; GO:0006596"	"Complete proteome; Hydrolase; Manganese; Metal-binding"	306
+C6EKE6	ECBD_3111			ECBD_3111	C6EKE6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6EL54	ECBD_1258			ECBD_1258	C6EL54_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Sulfate ABC transporter, inner membrane subunit	"GO:0016021; GO:0005886; GO:0015116; GO:0015563"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	291
+C6ELF3	ECBD_1359			ECBD_1359	C6ELF3_ECOBD		Predicted		Phosphodiesterase, MJ0936 family	GO:0016787	Complete proteome	183
+C6E9Y2	ECBD_1441			ECBD_1441	C6E9Y2_ECOBD		Predicted		Histidine kinase	"GO:0005524; GO:0016021; GO:0018106; GO:0005886; GO:0006355; GO:0000156; GO:0000155; GO:0000160"	"Complete proteome; Kinase; Signal; Transferase"	949
+C6EB89	ECBD_1667			ECBD_1667	C6EB89_ECOBD		Predicted		Ig domain protein group 1 domain protein	GO:0007155	"Complete proteome; Signal"	2358
+C6EBD9	ECBD_1720			ECBD_1720	C6EBD9_ECOBD		Inferred from homology	Sigma-70 factor family	RNA polymerase sigma factor	"GO:0003677; GO:0003899; GO:0006355; GO:0003700; GO:0016987; GO:0006352"	"Complete proteome; DNA-binding; Sigma factor; Transcription; Transcription regulation"	239
+C6EDK6	ECBD_2004			ECBD_2004	C6EDK6_ECOBD		Predicted		Putative lipoprotein		"Complete proteome; Lipoprotein; Signal"	107
+C6EE50	ECBD_4065			ECBD_4065	C6EE50_ECOBD		Evidence at protein level		Acetylglutamate kinase	"GO:0003991; GO:0006526; GO:0005737"	"Complete proteome; Kinase; Transferase"	258
+C6EEX3	ECBD_4099			ECBD_4099	C6EEX3_ECOBD		Predicted		Fructose-1,6-bisphosphatase, class II (EC 3.1.3.11)	"GO:0042132; GO:0006071"	"Complete proteome; Hydrolase"	379
+C6EGM4	ECBD_2379			ECBD_2379	C6EGM4_ECOBD		Predicted		Extracellular solute-binding protein family 5	GO:0005215	"Complete proteome; Signal"	558
+C6EH61	ECBD_0576			ECBD_0576	C6EH61_ECOBD		Inferred from homology		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	"GO:0000175; GO:0003723; GO:0006396; GO:0006402; GO:0005739; GO:0004654"	"Complete proteome; Nucleotidyltransferase; Transferase"	711
+C6EIY7	ECBD_2828			ECBD_2828	C6EIY7_ECOBD		Inferred from homology		Secretion protein HlyD family protein	"GO:0016020; GO:0009306; GO:0008565"	"Complete proteome; Signal"	331
+C6EA61	ECBD_3395			ECBD_3395	C6EA61_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6EAH7	ECBD_1524			ECBD_1524	C6EAH7_ECOBD		Inferred from homology	Peptidase S11 family	Peptidase S11 D-alanyl-D-alanine carboxypeptidase 1	"GO:0006508; GO:0009002"	"Carboxypeptidase; Complete proteome; Hydrolase; Protease; Signal"	313
+C6EAV8	ECBD_3520			ECBD_3520	C6EAV8_ECOBD		Inferred from homology		Secretion monitor family proten	GO:0045182	Complete proteome	195
+C6ED46	ECBD_3953			ECBD_3953	C6ED46_ECOBD		Predicted		Formate dehydrogenase, alpha subunit	"GO:0009055; GO:0008863; GO:0009326; GO:0015942; GO:0030151; GO:0055114"	"Complete proteome; Metal-binding; Molybdenum; Oxidoreductase"	559
+C6ED82	ECBD_0015			ECBD_0015	C6ED82_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	135
+C6EDB5	ECBD_0049			ECBD_0049	C6EDB5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	65
+C6EDE5	ECBD_0080			ECBD_0080	C6EDE5_ECOBD		Predicted		DNA-damage-inducible protein D		Complete proteome	274
+C6EDE6	ECBD_0081			ECBD_0081	C6EDE6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EDJ6	ECBD_0132			ECBD_0132	C6EDJ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	145
+C6EDM2	ECBD_2020			ECBD_2020	C6EDM2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EFB1	ECBD_0278			ECBD_0278	C6EFB1_ECOBD		Predicted	ABC transporter superfamily	Type II (General) Secretory Pathway (IISP) Family protein	"GO:0005524; GO:0016887; GO:0051301"	"ATP-binding; Complete proteome; Nucleotide-binding"	222
+C6EG22	ECBD_4249			ECBD_4249	C6EG22_ECOBD		Predicted		TDP-D-fucosamine acetyltransferase	GO:0008080	"Complete proteome; Transferase"	224
+C6EHB3	ECBD_0629			ECBD_0629	C6EHB3_ECOBD		Predicted		Serine transporter	"GO:0016021; GO:0005215"	Complete proteome	443
+C6EHC7	ECBD_2514			ECBD_2514	C6EHC7_ECOBD		Inferred from homology		Maf protein	GO:0005737	Complete proteome	207
+C6EI24	ECBD_2637			ECBD_2637	C6EI24_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	72
+C6EIG5	ECBD_0794			ECBD_0794	C6EIG5_ECOBD		Predicted		Putative uncharacterized protein	"GO:0008168; GO:0006364"	Complete proteome	243
+C6EIR1	ECBD_2751			ECBD_2751	C6EIR1_ECOBD		Predicted		Tail Collar domain protein		Complete proteome	180
+C6EJD8	ECBD_0995			ECBD_0995	C6EJD8_ECOBD		Predicted		Hydrogenase expression/formation protein HypE	GO:0003824	Complete proteome	336
+C6ELJ1	ECBD_3268			ECBD_3268	C6ELJ1_ECOBD		Inferred from homology		Putative exonuclease RdgC	"GO:0006310; GO:0005737; GO:0004527; GO:0009295"	"Complete proteome; Exonuclease; Hydrolase; Nuclease"	325
+C6ELJ5	ECBD_3272			ECBD_3272	C6ELJ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6ELN8	ECBD_3315			ECBD_3315	C6ELN8_ECOBD		Predicted		Transferase hexapeptide repeat containing protein	GO:0016740	"Complete proteome; Transferase"	206
+C6EA96	ECBD_3430			ECBD_3430	C6EA96_ECOBD		Predicted		Transcriptional antiterminator, Rof	"GO:0003723; GO:0006379; GO:0006364; GO:0000172; GO:0030677; GO:0004540; GO:0008033"	Complete proteome	86
+C6EB68	ECBD_1642			ECBD_1642	C6EB68_ECOBD		Predicted		Transcriptional regulator, LysR family	"GO:0003677; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	316
+C6EBC6	ECBD_1706			ECBD_1706	C6EBC6_ECOBD		Predicted		Flagellar motor switch protein FliG	"GO:0009288; GO:0006935; GO:0001539; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum"	331
+C6EBE8	ECBD_1729			ECBD_1729	C6EBE8_ECOBD		Predicted		Two component transcriptional regulator, LuxR family	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	218
+C6EBP6	ECBD_3698			ECBD_3698	C6EBP6_ECOBD		Predicted		SdiA-regulated domain protein		Complete proteome	323
+C6EC41	ECBD_1855			ECBD_1855	C6EC41_ECOBD		Inferred from homology		Transcriptional regulator, AraC family	"GO:0003677; GO:0005737; GO:0045449; GO:0006350"	"Activator; Complete proteome; Cytoplasm; DNA-binding; Repeat; Rhamnose metabolism; Transcription; Transcription regulation"	272
+C6ECM3	ECBD_1910			ECBD_1910	C6ECM3_ECOBD		Predicted		Transcriptional regulator, AraC family	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	279
+C6EF69	ECBD_4196			ECBD_4196	C6EF69_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	168
+C6EFA7	ECBD_0274			ECBD_0274	C6EFA7_ECOBD		Predicted		Putative receptor	GO:0004872	"Complete proteome; Receptor; Signal"	119
+C6EFF4	ECBD_0322			ECBD_0322	C6EFF4_ECOBD		Inferred from homology		RNA 3'-phosphate cyclase (EC 6.5.1.4)	"GO:0006396; GO:0003963; GO:0005737; GO:0005654"	"Complete proteome; Ligase"	338
+C6EFG4	ECBD_0335			ECBD_0335	C6EFG4_ECOBD		Inferred from homology		Putative uncharacterized protein	"GO:0051536; GO:0046872"	"Complete proteome; Iron; Iron-sulfur; Metal-binding"	78
+C6EFV3	ECBD_2338			ECBD_2338	C6EFV3_ECOBD		Inferred from homology	OMP decarboxylase family	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	"GO:0006207; GO:0004590; GO:0006221"	"Complete proteome; Decarboxylase; Lyase; Pyrimidine biosynthesis"	265
+C6EI30	ECBD_2643			ECBD_2643	C6EI30_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	187
+C6EB15	ECBD_3578			ECBD_3578	C6EB15_ECOBD		Predicted		AMP-dependent synthetase and ligase	GO:0016874	"Complete proteome; Ligase"	517
+C6EBA5	ECBD_1685			ECBD_1685	C6EBA5_ECOBD		Inferred from homology	C5-methyltransferase family	Cytosine-specific methyltransferase (EC 2.1.1.37)	"GO:0003886; GO:0003677; GO:0009307"	"Complete proteome; Methyltransferase; Restriction system; Transferase"	472
+C6EBB7	ECBD_1697			ECBD_1697	C6EBB7_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	FliP/mopC/spaP family	Flagellar biosynthetic protein FliP	"GO:0019861; GO:0016021; GO:0009306"	"Cell projection; Cilium; Complete proteome; Flagellum; Membrane; Signal; Transmembrane"	245
+C6EBD8	ECBD_1719			ECBD_1719	C6EBD8_ECOBD		Predicted		Flagellin domain protein	"GO:0009420; GO:0001539; GO:0005198"	"Bacterial flagellum; Cell projection; Cilium; Complete proteome; Flagellum"	498
+C6EBJ5	ECBD_3644			ECBD_3644	C6EBJ5_ECOBD		Inferred from homology		Putative uncharacterized protein	GO:0005886	"Complete proteome; Signal"	53
+C6EBN5	ECBD_3686			ECBD_3686	C6EBN5_ECOBD		Predicted		ATPase associated with various cellular activities AAA_5	"GO:0005524; GO:0016887; GO:0009376; GO:0070011; GO:0005515"	Complete proteome	465
+C6EC77	ECBD_3761			ECBD_3761	C6EC77_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	41
+C6ECN7	ECBD_1924			ECBD_1924	C6ECN7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	35
+C6ED96	ECBD_0030			ECBD_0030	C6ED96_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	82
+C6EDB3	ECBD_0047			ECBD_0047	C6EDB3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EDG5	ECBD_0101			ECBD_0101	C6EDG5_ECOBD		Predicted		Lipopolysaccharide core biosynthesis protein		Complete proteome	230
+C6EDS6	ECBD_2077			ECBD_2077	C6EDS6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	173
+C6EF42	ECBD_4168			ECBD_4168	C6EF42_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EFD3	ECBD_0301			ECBD_0301	C6EFD3_ECOBD		Predicted		GCN5-related N-acetyltransferase	GO:0008080	"Complete proteome; Transferase"	162
+C6EFM7	ECBD_2260			ECBD_2260	C6EFM7_ECOBD		Predicted		Lysis S family protein		Complete proteome	70
+C6EFP0	ECBD_2274			ECBD_2274	C6EFP0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	57
+C6EGK9	ECBD_0495			ECBD_0495	C6EGK9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6EHA2	ECBD_0618			ECBD_0618	C6EHA2_ECOBD		Predicted		Glycerate kinase (EC 2.7.1.31)	"GO:0008887; GO:0031388"	"Complete proteome; Kinase; Transferase"	381
+C6EHG3	ECBD_2550			ECBD_2550	C6EHG3_ECOBD		Predicted		Glycosyl transferase family 2	GO:0016740	"Complete proteome; Transferase"	837
+C6EHH6	ECBD_2563			ECBD_2563	C6EHH6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	173
+C6EIH5	ECBD_0804			ECBD_0804	C6EIH5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EIY3	ECBD_2824			ECBD_2824	C6EIY3_ECOBD		Predicted		Helicase c2	"GO:0005524; GO:0004003; GO:0003677"	"ATP-binding; Complete proteome; Helicase; Hydrolase; Nucleotide-binding"	761
+C6EIY4	ECBD_2825			ECBD_2825	C6EIY4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	149
+C6EJN9	ECBD_2965			ECBD_2965	C6EJN9_ECOBD		Predicted		Osmosensitive K channel His kinase sensor	"GO:0005524; GO:0016020; GO:0018106; GO:0006950; GO:0000155; GO:0000160"	"ATP-binding; Complete proteome; Kinase; Nucleotide-binding; Transferase"	894
+C6EJP9	ECBD_2976			ECBD_2976	C6EJP9_ECOBD		Predicted		CopG domain protein DNA-binding domain protein	"GO:0003677; GO:0006355"	"Complete proteome; DNA-binding"	120
+C6EK93	ECBD_3052			ECBD_3052	C6EK93_ECOBD		Predicted		ParB domain protein nuclease	GO:0003677	Complete proteome	205
+C6EKH3	ECBD_1150			ECBD_1150	C6EKH3_ECOBD		Predicted		Putative enzyme		Complete proteome	284
+C6EKS9	ECBD_3121			ECBD_3121	C6EKS9_ECOBD		Predicted		Excisionase		Complete proteome	123
+C6EL09	ECBD_3201			ECBD_3201	C6EL09_ECOBD		Predicted		Methylated-DNA/protein-cysteine methyltransferase	"GO:0006281; GO:0008168"	"Complete proteome; Methyltransferase; Transferase"	103
+C6ELH6	ECBD_3253			ECBD_3253	C6ELH6_ECOBD		Predicted		Protein-export membrane protein SecD	"GO:0015450; GO:0016021; GO:0006886; GO:0005886; GO:0015628; GO:0015627"	"Cell membrane; Complete proteome; Membrane; Protein transport; Translocation; Transmembrane; Transmembrane helix; Transport"	604
+C6EAN2	ECBD_1580			ECBD_1580	C6EAN2_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	42
+C6EDC8	ECBD_0063			ECBD_0063	C6EDC8_ECOBD		Predicted		Transcriptional regulator, LacI family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700"	Complete proteome	356
+C6EFD5	ECBD_0303			ECBD_0303	C6EFD5_ECOBD		Inferred from homology	Pirin family	Pirin domain protein		Complete proteome	231
+C6EFF6	ECBD_0326			ECBD_0326	C6EFF6_ECOBD		Predicted		Transcriptional regulator, TetR family	"GO:0003677; GO:0006355; GO:0046677; GO:0003700; GO:0016566; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	207
+C6EHS3	ECBD_0669			ECBD_0669	C6EHS3_ECOBD		Inferred from homology	Class-III pyridoxal-phosphate-dependent aminotransferase family	Putrescine aminotransferase (EC 2.6.1.82)	"GO:0033094; GO:0009447; GO:0030170"	"Aminotransferase; Complete proteome; Pyridoxal phosphate; Transferase"	429
+C6EIN8	ECBD_0867			ECBD_0867	C6EIN8_ECOBD		Inferred from homology	ATCase/OTCase family	Carbamoyltransferase YgeW	"GO:0006207; GO:0016597; GO:0004070; GO:0006520"	"Complete proteome; Transferase"	395
+C6EIU0	ECBD_2780			ECBD_2780	C6EIU0_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	92
+C6EJ69	ECBD_0925			ECBD_0925	C6EJ69_ECOBD		Predicted		Transcriptional regulator, LacI family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	332
+C6EKK4	ECBD_1181			ECBD_1181	C6EKK4_ECOBD		Predicted		17 kDa surface antigen	GO:0019867	"Complete proteome; Signal"	171
+C6E9R3	ECBD_1372			ECBD_1372	C6E9R3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6E9T0	ECBD_1389			ECBD_1389	C6E9T0_ECOBD		Predicted		Peptidase C48 SUMO/Sentrin/Ubl1	"GO:0008234; GO:0006508"	Complete proteome	402
+C6EA71	ECBD_3405			ECBD_3405	C6EA71_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	117
+C6EAB1	ECBD_3445			ECBD_3445	C6EAB1_ECOBD		Inferred from homology	UPP synthetase family	Undecaprenyl diphosphate synthase (EC 2.5.1.31)	GO:0008834	"Complete proteome; Transferase"	252
+C6EB85	ECBD_1662			ECBD_1662	C6EB85_ECOBD		Predicted		MATE efflux family protein	"GO:0015297; GO:0015238; GO:0016021"	"Complete proteome; Membrane; Transmembrane; Transmembrane helix"	495
+C6EB97	ECBD_1676			ECBD_1676	C6EB97_ECOBD		Inferred from homology		Oxidoreductase molybdopterin binding	GO:0009055	"Complete proteome; Signal"	334
+C6EBA1	ECBD_1680			ECBD_1680	C6EBA1_ECOBD		Predicted		ThiJ/PfpI domain protein		Complete proteome	283
+C6EBA3	ECBD_1683			ECBD_1683	C6EBA3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	100
+C6EBD5	ECBD_1716			ECBD_1716	C6EBD5_ECOBD		Inferred from homology		Flagellar export chaperone	"GO:0005737; GO:0019861; GO:0043064; GO:0045449; GO:0006350"	"Bacterial flagellum biogenesis; Cell projection; Chaperone; Cilium; Complete proteome; Cytoplasm; Flagellum; Repressor; Transcription; Transcription regulation"	121
+C6EBE3	ECBD_1724			ECBD_1724	C6EBE3_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Polar amino acid ABC transporter, inner membrane subunit	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	222
+C6EC22	ECBD_1833			ECBD_1833	C6EC22_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	115
+C6EC62	ECBD_3742			ECBD_3742	C6EC62_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	85
+C6ECK2	ECBD_1889			ECBD_1889	C6ECK2_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	ABC transporter, permease protein	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	511
+C6ECP2	ECBD_1930			ECBD_1930	C6ECP2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6ED51	ECBD_3958			ECBD_3958	C6ED51_ECOBD		Predicted		Cytochrome c-type biogenesis protein CcmF	"GO:0017004; GO:0015232; GO:0016020; GO:0008535"	Complete proteome	560
+C6EDA7	ECBD_0041			ECBD_0041	C6EDA7_ECOBD		Predicted		Major facilitator superfamily MFS_1	GO:0055085	Complete proteome	396
+C6EDC7	ECBD_0062			ECBD_0062	C6EDC7_ECOBD		Predicted		Major facilitator superfamily MFS_1	GO:0055085	Complete proteome	433
+C6EDN3	ECBD_2031			ECBD_2031	C6EDN3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6EDU8	ECBD_2101			ECBD_2101	C6EDU8_ECOBD		Inferred from homology	Peptidase M3 family	Peptidyl-dipeptidase Dcp (EC 3.4.15.5)	"GO:0004180; GO:0004222; GO:0006508"	"Carboxypeptidase; Complete proteome; Hydrolase; Metalloprotease; Protease; Zinc"	703
+C6EEQ9	ECBD_2185			ECBD_2185	C6EEQ9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EF34	ECBD_4160			ECBD_4160	C6EF34_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	36
+C6EF38	ECBD_4164			ECBD_4164	C6EF38_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EFF3	ECBD_0321			ECBD_0321	C6EFF3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	408
+C6EFG5	ECBD_0336			ECBD_0336	C6EFG5_ECOBD		Predicted		Ferrous iron transport protein B	"GO:0005525; GO:0015093; GO:0016021; GO:0001882"	"Complete proteome; GTP-binding; Nucleotide-binding"	773
+C6EFQ6	ECBD_2291			ECBD_2291	C6EFQ6_ECOBD		Predicted		Peptidase M14 carboxypeptidase A	"GO:0004181; GO:0006508; GO:0008270"	"Carboxypeptidase; Complete proteome; Hydrolase; Protease"	242
+C6EHZ2	ECBD_0738			ECBD_0738	C6EHZ2_ECOBD		Predicted		Carboxymethylenebutenolidase (EC 3.1.1.45)	GO:0008806	"Complete proteome; Hydrolase"	295
+C6EI59	ECBD_2672			ECBD_2672	C6EI59_ECOBD		Inferred from homology		Chromosome segregation and condensation protein MukE	"GO:0006260; GO:0030261; GO:0007059; GO:0005737"	Complete proteome	234
+C6EJ76	ECBD_0933			ECBD_0933	C6EJ76_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	43
+C6EJA1	ECBD_0958			ECBD_0958	C6EJA1_ECOBD		Predicted		Major facilitator superfamily MFS_1	"GO:0016021; GO:0055085; GO:0005215"	"Complete proteome; Membrane; Transmembrane"	469
+C6EK29	ECBD_1123			ECBD_1123	C6EK29_ECOBD		Predicted		CMP/dCMP deaminase zinc-binding	"GO:0016787; GO:0008270"	Complete proteome	167
+C6EK32	ECBD_1126			ECBD_1126	C6EK32_ECOBD	"Cell outer membrane; Peripheral membrane protein. "	Inferred from homology		Lytic transglycosylase catalytic	"GO:0009279; GO:0007047; GO:0016829; GO:0030288; GO:0005886; GO:0005215"	"Cell membrane; Cell outer membrane; Cell wall biogenesis/degradation; Complete proteome; Lyase; Membrane; Signal"	510
+C6ELR6	ECBD_3343			ECBD_3343	C6ELR6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	61
+C6EC74	ECBD_3757			ECBD_3757	C6EC74_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	137
+C6EDL7	ECBD_2015			ECBD_2015	C6EDL7_ECOBD	"Cell inner membrane; Peripheral membrane protein. "	Inferred from homology		Electron transport complex, RnfABCDGE type, C subunit	"GO:0051539; GO:0010181; GO:0051287; GO:0009055; GO:0022900; GO:0046872; GO:0016651; GO:0005886; GO:0006810"	"4Fe-4S; Cell inner membrane; Cell membrane; Complete proteome; Electron transport; Iron; Iron-sulfur; Membrane; Metal-binding; Repeat; Transport"	708
+C6EDZ4	ECBD_4007			ECBD_4007	C6EDZ4_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	92
+C6EEV0	ECBD_2227			ECBD_2227	C6EEV0_ECOBD		Predicted		ATP-dependent helicase HrpA	"GO:0005524; GO:0008026; GO:0003676"	"ATP-binding; Complete proteome; Helicase; Hydrolase; Nucleotide-binding"	1300
+C6EFG9	ECBD_0340			ECBD_0340	C6EFG9_ECOBD		Predicted		Two component transcriptional regulator, winged helix family	"GO:0003677; GO:0005622; GO:0006355; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation; Two-component regulatory system"	239
+C6EGU6	ECBD_2454			ECBD_2454	C6EGU6_ECOBD		Predicted		Diguanylate phosphodiesterase		Complete proteome	521
+C6EGX8	ECBD_2487			ECBD_2487	C6EGX8_ECOBD		Predicted		Transcription-repair coupling factor	"GO:0005524; GO:0008026; GO:0006281; GO:0003684; GO:0006355; GO:0003700"	"ATP-binding; Complete proteome; Helicase; Hydrolase; Nucleotide-binding"	1164
+C6EJ67	ECBD_0923			ECBD_0923	C6EJ67_ECOBD		Predicted		Periplasmic binding protein/LacI transcriptional regulator		"Complete proteome; Signal"	316
+C6EJB1	ECBD_0968			ECBD_0968	C6EJB1_ECOBD		Predicted		Hok/gef cell toxic protein	GO:0016020	"Complete proteome; Signal"	50
+C6E9Z9	ECBD_1459			ECBD_1459	C6E9Z9_ECOBD		Inferred from homology	ABC transporter superfamily	Heme exporter protein CcmA	"GO:0005524; GO:0016887; GO:0017004; GO:0030288; GO:0005886; GO:0005215"	"ATP-binding; Cell membrane; Complete proteome; Cytochrome c-type biogenesis; Hydrolase; Membrane; Nucleotide-binding; Transport"	205
+C6EAY5	ECBD_3547			ECBD_3547	C6EAY5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	43
+C6EB65	ECBD_1639			ECBD_1639	C6EB65_ECOBD		Inferred from homology	Histidinol dehydrogenase family	Histidinol dehydrogenase (EC 1.1.1.23)	"GO:0051287; GO:0000105; GO:0004399; GO:0055114; GO:0008270"	"Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis; Metal-binding; NAD; Oxidoreductase"	434
+C6EBB8	ECBD_1698			ECBD_1698	C6EBB8_ECOBD		Predicted		Flagellar biosynthesis protein FliO	"GO:0019861; GO:0043064; GO:0016021"	"Cell projection; Cilium; Complete proteome; Flagellum"	121
+C6EBD1	ECBD_1712			ECBD_1712	C6EBD1_ECOBD		Predicted		SirA family protein	"GO:0005737; GO:0005515; GO:0016783; GO:0008033"	Complete proteome	77
+C6EBE1	ECBD_1722			ECBD_1722	C6EBE1_ECOBD		Inferred from homology	Bacterial solute-binding protein 3 family	Extracellular solute-binding protein family 3	"GO:0030288; GO:0005215"	"Complete proteome; Signal"	285
+C6EBE6	ECBD_1727			ECBD_1727	C6EBE6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	74
+C6EC26	ECBD_1837			ECBD_1837	C6EC26_ECOBD		Predicted		Long-chain-fatty-acid--CoA ligase	GO:0016874	"Complete proteome; Ligase"	583
+C6EC35	ECBD_1849			ECBD_1849	C6EC35_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6EC76	ECBD_3760			ECBD_3760	C6EC76_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	116
+C6ECK9	ECBD_1896			ECBD_1896	C6ECK9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6ECN9	ECBD_1927			ECBD_1927	C6ECN9_ECOBD	Cytoplasm. 	Inferred from homology	IF-3 family	Translation initiation factor IF-3	"GO:0005737; GO:0003743"	"Complete proteome; Initiation factor; Protein biosynthesis"	180
+C6ED70	ECBD_3978			ECBD_3978	C6ED70_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	67
+C6EEK9	ECBD_2129			ECBD_2129	C6EEK9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	32
+C6EFD6	ECBD_0304			ECBD_0304	C6EFD6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EFE1	ECBD_0309			ECBD_0309	C6EFE1_ECOBD		Inferred from homology	Aspartate-semialdehyde dehydrogenase family	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	"GO:0051287; GO:0050661; GO:0004073; GO:0005737; GO:0009089; GO:0055114; GO:0046983"	"Amino-acid biosynthesis; Complete proteome; NADP; Oxidoreductase"	367
+C6EFW1	ECBD_2346			ECBD_2346	C6EFW1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	42
+C6EGJ1	ECBD_0476			ECBD_0476	C6EGJ1_ECOBD		Inferred from homology	Bacterial solute-binding protein 3 family	Extracellular solute-binding protein family 3	"GO:0030288; GO:0005215"	"Complete proteome; Signal"	341
+C6EGM6	ECBD_2381			ECBD_2381	C6EGM6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EGQ0	ECBD_2405			ECBD_2405	C6EGQ0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	44
+C6EH55	ECBD_0570			ECBD_0570	C6EH55_ECOBD		Inferred from homology		Putative uncharacterized protein	"GO:0005737; GO:0042274"	Complete proteome	140
+C6EHA5	ECBD_0621			ECBD_0621	C6EHA5_ECOBD		Predicted		DNA-binding transcriptional activator TdcR	GO:0003677	"Complete proteome; DNA-binding"	118
+C6EIG1	ECBD_0790			ECBD_0790	C6EIG1_ECOBD		Predicted		Twitching motility protein	"GO:0005524; GO:0005622; GO:0017111; GO:0006810"	Complete proteome	326
+C6EK49	ECBD_3007			ECBD_3007	C6EK49_ECOBD		Predicted		Sel1 domain protein repeat-containing protein	GO:0005488	Complete proteome	98
+C6EKK5	ECBD_1182			ECBD_1182	C6EKK5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EKK7	ECBD_1184			ECBD_1184	C6EKK7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	50
+C6ELI9	ECBD_3266			ECBD_3266	C6ELI9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	80
+C6E9R9	ECBD_1378			ECBD_1378	C6E9R9_ECOBD		Inferred from homology	Complex I 75 kDa subunit family	NADH-quinone oxidoreductase (EC 1.6.99.5)	"GO:0051539; GO:0042773; GO:0008137; GO:0009055; GO:0016020; GO:0030151"	"4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding; NAD; Oxidoreductase"	908
+C6EAN3	ECBD_1581			ECBD_1581	C6EAN3_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	48
+C6EB99	ECBD_1678			ECBD_1678	C6EB99_ECOBD		Predicted		Two component heavy metal response transcriptional regulator, winged helix family	"GO:0003677; GO:0005622; GO:0006355; GO:0007600; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation; Two-component regulatory system"	260
+C6EEV2	ECBD_2229			ECBD_2229	C6EEV2_ECOBD		Predicted		Putative dual specificity phosphatase	"GO:0016020; GO:0006470; GO:0004725; GO:0008138"	"Complete proteome; Hydrolase; Signal"	438
+C6EFC4	ECBD_0291			ECBD_0291	C6EFC4_ECOBD	"Cell inner membrane; Peripheral membrane protein. "	Inferred from homology	ABC transporter superfamily	ABC transporter related	"GO:0005524; GO:0043190; GO:0016887; GO:0008643; GO:0016820; GO:0005886"	"ATP-binding; Cell inner membrane; Cell membrane; Complete proteome; Hydrolase; Membrane; Nucleotide-binding; Sugar transport; Transport"	356
+C6EFF1	ECBD_0319			ECBD_0319	C6EFF1_ECOBD		Predicted		Transcriptional regulator, DeoR family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	252
+C6EG07	ECBD_4234			ECBD_4234	C6EG07_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	77
+C6EHL4	ECBD_2601			ECBD_2601	C6EHL4_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology		Hpt sensor hybrid histidine kinase	"GO:0005524; GO:0016021; GO:0018106; GO:0006355; GO:0000156; GO:0000155; GO:0000160"	"ATP-binding; Complete proteome; Kinase; Membrane; Nucleotide-binding; Phosphoprotein; Transferase; Transmembrane; Two-component regulatory system"	899
+C6EKG4	ECBD_1141			ECBD_1141	C6EKG4_ECOBD		Predicted		DoxX family protein		Complete proteome	140
+C6EKM0	ECBD_1197			ECBD_1197	C6EKM0_ECOBD		Predicted		Transcriptional regulator, NifA subfamily, Fis Family	"GO:0005524; GO:0003677; GO:0005622; GO:0017111; GO:0006355; GO:0003700; GO:0006350; GO:0008134"	"ATP-binding; Complete proteome; DNA-binding; Nucleotide-binding; Transcription; Transcription regulation"	670
+C6E9S6	ECBD_1385			ECBD_1385	C6E9S6_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology		Proton-translocating NADH-quinone oxidoreductase, chain N	"GO:0042773; GO:0008137; GO:0016021"	"Complete proteome; Membrane; Oxidoreductase; Transmembrane"	485
+C6EB05	ECBD_3567			ECBD_3567	C6EB05_ECOBD		Inferred from homology	Dihydrofolate reductase family	Dihydrofolate reductase (EC 1.5.1.3)	"GO:0050661; GO:0004146; GO:0006545; GO:0009165; GO:0055114"	"Complete proteome; Oxidoreductase"	196
+C6EB77	ECBD_1651			ECBD_1651	C6EB77_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	133
+C6EB94	ECBD_1673			ECBD_1673	C6EB94_ECOBD		Predicted		Cytochrome B561	"GO:0009055; GO:0016020; GO:0016491; GO:0022904"	Complete proteome	169
+C6EB98	ECBD_1677			ECBD_1677	C6EB98_ECOBD		Inferred from homology	Transthyretin family	5-hydroxyisourate hydrolase	"GO:0016787; GO:0006810"	"Complete proteome; Hydrolase; Signal"	137
+C6EBB9	ECBD_1699			ECBD_1699	C6EBB9_ECOBD		Predicted		Flagellar motor switch protein FliN	"GO:0009425; GO:0006935; GO:0001539; GO:0016020; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum"	137
+C6EBC3	ECBD_1703			ECBD_1703	C6EBC3_ECOBD		Predicted		Flagellar export protein FliJ	"GO:0044461; GO:0006935; GO:0001539; GO:0016020; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum"	147
+C6EBD7	ECBD_1718			ECBD_1718	C6EBD7_ECOBD		Predicted		Flagellar hook-associated 2 domain protein	"GO:0009288; GO:0007155; GO:0009296"	"Cell projection; Cilium; Complete proteome; Flagellum"	468
+C6EBE9	ECBD_1730			ECBD_1730	C6EBE9_ECOBD		Inferred from homology		Excinuclease ABC, C subunit	"GO:0003677; GO:0009432; GO:0005737; GO:0009381; GO:0009380; GO:0006289"	Complete proteome	610
+C6EBF3	ECBD_1734			ECBD_1734	C6EBF3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	79
+C6EBZ2	ECBD_1803			ECBD_1803	C6EBZ2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	91
+C6ECQ6	ECBD_1945			ECBD_1945	C6ECQ6_ECOBD		Predicted		AMP-dependent synthetase and ligase	GO:0016874	"Complete proteome; Ligase"	548
+C6EDL2	ECBD_2010			ECBD_2010	C6EDL2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EDS2	ECBD_2072			ECBD_2072	C6EDS2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EEH2	ECBD_0228			ECBD_0228	C6EEH2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6EEL2	ECBD_2132			ECBD_2132	C6EEL2_ECOBD		Predicted		Fimbrial protein	"GO:0007155; GO:0009289"	"Complete proteome; Fimbrium"	160
+C6EEX0	ECBD_4096			ECBD_4096	C6EEX0_ECOBD		Inferred from homology		Putative uncharacterized protein	"GO:0000917; GO:0043093; GO:0005737"	Complete proteome	79
+C6EF73	ECBD_4200			ECBD_4200	C6EF73_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6EGW6	ECBD_2474			ECBD_2474	C6EGW6_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Binding-protein-dependent transport systems inner membrane component	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	285
+C6EHJ6	ECBD_2583			ECBD_2583	C6EHJ6_ECOBD		Predicted		Isochorismatase hydrolase	GO:0016787	"Complete proteome; Hydrolase"	231
+C6EHX5	ECBD_0721			ECBD_0721	C6EHX5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EIJ7	ECBD_0826			ECBD_0826	C6EIJ7_ECOBD		Predicted		5-formyltetrahydrofolate cyclo-ligase	"GO:0030272; GO:0005524; GO:0009396"	"Complete proteome; Ligase"	200
+C6EIM3	ECBD_0852			ECBD_0852	C6EIM3_ECOBD		Predicted		4Fe-4S ferredoxin iron-sulfur binding domain protein	"GO:0051539; GO:0009055; GO:0046872"	"4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding"	162
+C6EIW6	ECBD_2807			ECBD_2807	C6EIW6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	42
+C6EJ95	ECBD_0952			ECBD_0952	C6EJ95_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EJF7	ECBD_2877			ECBD_2877	C6EJF7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	136
+C6EK00	ECBD_1094			ECBD_1094	C6EK00_ECOBD		Predicted		Putative lipoprotein		"Complete proteome; Lipoprotein"	114
+C6EK85	ECBD_3043			ECBD_3043	C6EK85_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6EKC5	ECBD_3086			ECBD_3086	C6EKC5_ECOBD		Predicted		Amino acid permease-associated region	"GO:0015171; GO:0016021"	"Complete proteome; Membrane; Transmembrane"	470
+C6EKS8	ECBD_3120			ECBD_3120	C6EKS8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6ELQ8	ECBD_3335			ECBD_3335	C6ELQ8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	106
+C6E9V3	ECBD_1412			ECBD_1412	C6E9V3_ECOBD		Predicted		Mandelate racemase/muconate lactonizing protein	"GO:0003824; GO:0009063"	Complete proteome	401
+C6EB36	ECBD_3601			ECBD_3601	C6EB36_ECOBD		Predicted		Hok/gef cell toxic protein	GO:0016020	"Complete proteome; Signal"	50
+C6EBJ6	ECBD_3645			ECBD_3645	C6EBJ6_ECOBD		Predicted		Transport-associated		"Complete proteome; Signal"	199
+C6EBU9	ECBD_1760			ECBD_1760	C6EBU9_ECOBD		Predicted		Flagellar FlhE family protein	GO:0019861	"Cell projection; Cilium; Complete proteome; Flagellum; Signal"	130
+C6EE72	ECBD_4087			ECBD_4087	C6EE72_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	208
+C6EFC7	ECBD_0294			ECBD_0294	C6EFC7_ECOBD		Predicted		Gamma-glutamyltransferase (EC 2.3.2.2)	"GO:0008415; GO:0003840"	"Acyltransferase; Complete proteome; Signal; Transferase"	580
+C6EGR0	ECBD_2415			ECBD_2415	C6EGR0_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	SLC26A/SulP transporter (TC 2.A.53) family	Sulfate transporter	"GO:0016021; GO:0008271"	"Complete proteome; Membrane; Transmembrane"	550
+C6EID7	ECBD_0765			ECBD_0765	C6EID7_ECOBD		Predicted		Lipoprotein AcfD-like protein		"Complete proteome; Lipoprotein; Signal"	1520
+C6EIE4	ECBD_0772			ECBD_0772	C6EIE4_ECOBD		Predicted		Ornithine decarboxylase (EC 4.1.1.17)	"GO:0006520; GO:0005737; GO:0004586; GO:0030170"	"Complete proteome; Lyase"	711
+C6EIF4	ECBD_0783			ECBD_0783	C6EIF4_ECOBD		Inferred from homology	Asparaginase 1 family	L-asparaginase, type II	"GO:0004067; GO:0006528"	"Complete proteome; Signal"	348
+C6EIF5	ECBD_0784			ECBD_0784	C6EIF5_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	335
+C6EKC1	ECBD_3082			ECBD_3082	C6EKC1_ECOBD		Predicted		Uncharacterized protein YbdJ		"Complete proteome; Signal"	66
+C6EAT2	ECBD_3494			ECBD_3494	C6EAT2_ECOBD		Predicted		Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	"GO:0005737; GO:0004422; GO:0006166"	"Complete proteome; Glycosyltransferase; Transferase"	182
+C6EB47	ECBD_1620			ECBD_1620	C6EB47_ECOBD		Predicted		Acetyltransferase	GO:0016740	"Complete proteome; Transferase"	192
+C6EBC9	ECBD_1710			ECBD_1710	C6EBC9_ECOBD		Predicted		GCN5-related N-acetyltransferase	GO:0008080	"Complete proteome; Transferase"	159
+C6EBQ4	ECBD_3706			ECBD_3706	C6EBQ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	44
+C6EBX5	ECBD_1786			ECBD_1786	C6EBX5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6ECQ4	ECBD_1943			ECBD_1943	C6ECQ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6ECZ6	ECBD_3902			ECBD_3902	C6ECZ6_ECOBD		Predicted		Uncharacterized protein YjdO		Complete proteome	57
+C6ED97	ECBD_0031			ECBD_0031	C6ED97_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	160
+C6EDS5	ECBD_2076			ECBD_2076	C6EDS5_ECOBD		Predicted		Putative uncharacterized protein	GO:0003677	Complete proteome	75
+C6EED0	ECBD_0186			ECBD_0186	C6EED0_ECOBD		Predicted		Molybdopterin guanine dinucleotide-containing S/N-oxide reductase (EC 1.7.2.3)	"GO:0009055; GO:0030151; GO:0055114; GO:0050626"	"Complete proteome; Molybdenum; Oxidoreductase"	777
+C6EEZ3	ECBD_4119			ECBD_4119	C6EEZ3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EFC2	ECBD_0289			ECBD_0289	C6EFC2_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Binding-protein-dependent transport systems inner membrane component	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	295
+C6EFH8	ECBD_0349			ECBD_0349	C6EFH8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6EGB4	ECBD_0399			ECBD_0399	C6EGB4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EHJ5	ECBD_2582			ECBD_2582	C6EHJ5_ECOBD		Predicted		Luciferase-like monooxygenase	"GO:0004497; GO:0055114"	"Complete proteome; Monooxygenase; Oxidoreductase"	363
+C6EIF2	ECBD_0781			ECBD_0781	C6EIF2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EIQ9	ECBD_2748			ECBD_2748	C6EIQ9_ECOBD		Predicted		Transcriptional activator Ogr/delta	GO:0030528	Complete proteome	72
+C6EJM0	ECBD_2943			ECBD_2943	C6EJM0_ECOBD	"Cell outer membrane; Multi-pass membrane protein. "	Inferred from homology	Fimbrial export usher family	Fimbrial biogenesis outer membrane usher protein	"GO:0009279; GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Cell outer membrane; Complete proteome; Fimbrium biogenesis; Membrane; Signal; Transmembrane; Transport"	819
+C6EKY1	ECBD_3173			ECBD_3173	C6EKY1_ECOBD		Predicted		Plasmid maintenance system antidote protein, XRE family	GO:0043565	Complete proteome	131
+C6ELQ2	ECBD_3329			ECBD_3329	C6ELQ2_ECOBD		Predicted		Homoserine/threonine efflux pump	"GO:0006865; GO:0016021; GO:0005886"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	210
+C6ELS5	ECBD_3352			ECBD_3352	C6ELS5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6ELT2	ECBD_3359			ECBD_3359	C6ELT2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6EB93	ECBD_1672			ECBD_1672	C6EB93_ECOBD		Predicted		YodA domain protein	GO:0005488	"Complete proteome; Signal"	216
+C6ECD4	ECBD_3819			ECBD_3819	C6ECD4_ECOBD		Predicted		Putative uncharacterized protein	GO:0016020	"Cell membrane; Complete proteome; Membrane"	321
+C6ECV4	ECBD_1994			ECBD_1994	C6ECV4_ECOBD		Predicted		Transcriptional regulator, TetR family	"GO:0003677; GO:0006355; GO:0003700; GO:0016566; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	199
+C6EHM8	ECBD_2615			ECBD_2615	C6EHM8_ECOBD		Predicted		Membrane bound YbgT family protein		"Complete proteome; Signal"	30
+C6EHQ1	ECBD_0647			ECBD_0647	C6EHQ1_ECOBD		Predicted		D-galactonate transporter	"GO:0016021; GO:0055085; GO:0005215"	"Complete proteome; Signal"	432
+C6EIG6	ECBD_0795			ECBD_0795	C6EIG6_ECOBD		Predicted		Deoxyribonuclease I (EC 3.1.21.1)	GO:0004530	"Complete proteome; Hydrolase; Signal"	235
+C6EJX6	ECBD_1070			ECBD_1070	C6EJX6_ECOBD		Predicted		SmpA/OmlA domain protein	GO:0019867	"Complete proteome; Signal"	113
+C6EJY0	ECBD_1074			ECBD_1074	C6EJY0_ECOBD		Predicted		Putative uncharacterized protein	"GO:0050660; GO:0003824; GO:0055114"	Complete proteome	420
+C6ELT6	ECBD_3363			ECBD_3363	C6ELT6_ECOBD		Predicted		Transcriptional regulator, LuxR family	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350; GO:0000156; GO:0000160"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	180
+C6EA75	ECBD_3409			ECBD_3409	C6EA75_ECOBD		Predicted		DNA polymerase III, epsilon subunit (EC 2.7.7.7)	"GO:0003677; GO:0006260; GO:0003887; GO:0004527; GO:0005622"	"Complete proteome; DNA replication; DNA-directed DNA polymerase; Nucleotidyltransferase; Transferase"	246
+C6EAU5	ECBD_3507			ECBD_3507	C6EAU5_ECOBD		Predicted		Amino acid permease-associated region	"GO:0015171; GO:0016021"	"Complete proteome; Membrane; Transmembrane"	456
+C6EBA2	ECBD_1681			ECBD_1681	C6EBA2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	47
+C6EBB5	ECBD_1695			ECBD_1695	C6EBB5_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	FliR/mopE/spaR family	Flagellar biosynthetic protein fliR	"GO:0009288; GO:0016021; GO:0006605"	"Bacterial flagellum; Cell projection; Cilium; Complete proteome; Flagellum; Membrane; Transmembrane"	261
+C6EBW2	ECBD_1773			ECBD_1773	C6EBW2_ECOBD		Inferred from homology	Nudix hydrolase family	NUDIX hydrolase	"GO:0006281; GO:0008828"	"Complete proteome; Hydrolase"	169
+C6EBY2	ECBD_1793			ECBD_1793	C6EBY2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	36
+C6EBZ4	ECBD_1805			ECBD_1805	C6EBZ4_ECOBD		Predicted		RNA methylase, NOL1/NOP2/sun family	"GO:0003723; GO:0008757; GO:0006364"	"Complete proteome; Methyltransferase; S-adenosyl-L-methionine; Transferase"	481
+C6EDT2	ECBD_2084			ECBD_2084	C6EDT2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	216
+C6EEC6	ECBD_0182			ECBD_0182	C6EEC6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	50
+C6EFC3	ECBD_0290			ECBD_0290	C6EFC3_ECOBD	"Membrane; Multi-pass membrane protein. "	Inferred from homology	Binding-protein-dependent transport system permease family	Binding-protein-dependent transport systems inner membrane component	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport"	281
+C6EFC9	ECBD_0296			ECBD_0296	C6EFC9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EHP9	ECBD_0645			ECBD_0645	C6EHP9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	43
+C6EHY1	ECBD_0727			ECBD_0727	C6EHY1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	37
+C6EIS9	ECBD_2769			ECBD_2769	C6EIS9_ECOBD		Predicted		DinI family protein		Complete proteome	77
+C6EKU6	ECBD_3138			ECBD_3138	C6EKU6_ECOBD		Predicted		Putative carboxylase		Complete proteome	271
+C6EBC1	ECBD_1701			ECBD_1701	C6EBC1_ECOBD		Predicted		Flagellar basal body-associated protein FliL	"GO:0009425; GO:0006935; GO:0001539"	"Cell projection; Cilium; Complete proteome; Flagellum; Signal"	154
+C6EEH6	ECBD_0232			ECBD_0232	C6EEH6_ECOBD		Predicted		Acid-resistance protein		"Complete proteome; Signal"	112
+C6EEP0	ECBD_2162			ECBD_2162	C6EEP0_ECOBD		Predicted		Plasmid maintenance system antidote protein, XRE family	GO:0043565	Complete proteome	94
+C6EFB0	ECBD_0277			ECBD_0277	C6EFB0_ECOBD		Predicted		Signal recognition particle-docking protein FtsY	"GO:0005525; GO:0006614; GO:0017111; GO:0005515"	Complete proteome	497
+C6EFB8	ECBD_0285			ECBD_0285	C6EFB8_ECOBD		Predicted		Inner-membrane translocator	"GO:0016021; GO:0005886; GO:0005215"	"Cell membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix; Transport"	425
+C6EGQ9	ECBD_2414			ECBD_2414	C6EGQ9_ECOBD		Inferred from homology	Ribose-phosphate pyrophosphokinase family	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	"GO:0005737; GO:0016301; GO:0000287; GO:0009116; GO:0009156; GO:0004749"	"Complete proteome; Cytoplasm; Kinase; Magnesium; Metal-binding; Nucleotide biosynthesis; Transferase"	337
+C6EHM4	ECBD_2611			ECBD_2611	C6EHM4_ECOBD		Predicted		Polysaccharide export protein	"GO:0016020; GO:0015159"	"Complete proteome; Signal"	386
+C6EIV2	ECBD_2793			ECBD_2793	C6EIV2_ECOBD		Predicted		Extracellular solute-binding protein family 5	GO:0005215	"Complete proteome; Signal"	512
+C6E9V7	ECBD_1416			ECBD_1416	C6E9V7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	41
+C6EA57	ECBD_3391			ECBD_3391	C6EA57_ECOBD		Predicted		OmpA/MotB domain protein	GO:0009279	Complete proteome	211
+C6EB96	ECBD_1675			ECBD_1675	C6EB96_ECOBD		Predicted		Putative sulfite oxidase subunit YedZ		Complete proteome	101
+C6EBD6	ECBD_1717			ECBD_1717	C6EBD6_ECOBD		Predicted		Flagellar protein FliS	"GO:0009288; GO:0009296"	"Cell projection; Cilium; Complete proteome; Flagellum"	136
+C6EBE7	ECBD_1728			ECBD_1728	C6EBE7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	58
+C6EBP0	ECBD_3692			ECBD_3692	C6EBP0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	57
+C6EBQ5	ECBD_3707			ECBD_3707	C6EBQ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	47
+C6EC14	ECBD_1825			ECBD_1825	C6EC14_ECOBD		Predicted		Putative cytoplasmic protein		Complete proteome	69
+C6ECK6	ECBD_1893			ECBD_1893	C6ECK6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	205
+C6EEI4	ECBD_0240			ECBD_0240	C6EEI4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	57
+C6EEZ5	ECBD_4121			ECBD_4121	C6EEZ5_ECOBD	Cytoplasm. 	Inferred from homology		L-rhamnose isomerase (EC 5.3.1.14)	"GO:0008740; GO:0005737; GO:0030145; GO:0019299"	"Complete proteome; Cytoplasm; Isomerase; Manganese; Metal-binding; Rhamnose metabolism"	419
+C6EFD1	ECBD_0299			ECBD_0299	C6EFD1_ECOBD		Predicted		Uncharacterized protein YrhA		Complete proteome	138
+C6EFE3	ECBD_0311			ECBD_0311	C6EFE3_ECOBD		Inferred from homology		Glycogen debranching enzyme GlgX	"GO:0043169; GO:0005980; GO:0004133; GO:0004553"	Complete proteome	657
+C6EG91	ECBD_4320			ECBD_4320	C6EG91_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	249
+C6EGJ2	ECBD_0477			ECBD_0477	C6EGJ2_ECOBD		Predicted		Putative IS1 encoded protein		Complete proteome	58
+C6EH49	ECBD_0564			ECBD_0564	C6EH49_ECOBD		Predicted		ATP-dependent metalloprotease FtsH (EC 3.6.4.3)	"GO:0005524; GO:0016021; GO:0004222; GO:0008568; GO:0030163; GO:0006508; GO:0008270"	"Complete proteome; Hydrolase; Metalloprotease; Protease"	647
+C6EHG6	ECBD_2553			ECBD_2553	C6EHG6_ECOBD		Predicted		Phospholipase D/Transphosphatidylase	GO:0003824	"Complete proteome; Repeat"	493
+C6EIK7	ECBD_0836			ECBD_0836	C6EIK7_ECOBD		Inferred from homology	Glycosyl hydrolase 1 family	Glycoside hydrolase family 1	"GO:0005975; GO:0043169; GO:0004553"	"Complete proteome; Glycosidase; Hydrolase"	477
+C6EIV3	ECBD_2794			ECBD_2794	C6EIV3_ECOBD		Predicted	ABC transporter superfamily	ABC transporter related	"GO:0005524; GO:0016887; GO:0015833"	"ATP-binding; Complete proteome; Nucleotide-binding; Transport"	623
+C6EJI6	ECBD_2907			ECBD_2907	C6EJI6_ECOBD		Predicted		Beta-galactosidase (EC 3.2.1.23)	"GO:0004565; GO:0005975"	"Complete proteome; Glycosidase; Hydrolase"	149
+C6EJQ5	ECBD_2982			ECBD_2982	C6EJQ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	40
+C6EKX1	ECBD_3163			ECBD_3163	C6EKX1_ECOBD		Predicted		Short-chain dehydrogenase/reductase SDR	"GO:0005488; GO:0055114; GO:0016491"	Complete proteome	256
+C6ELP8	ECBD_3325			ECBD_3325	C6ELP8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	148
+C6EBD3	ECBD_1714			ECBD_1714	C6EBD3_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	137
+C6EDM9	ECBD_2027			ECBD_2027	C6EDM9_ECOBD		Predicted		Transcriptional regulator, TetR family	"GO:0003677; GO:0006355; GO:0003700; GO:0016566; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	192
+C6EDW7	ECBD_2120			ECBD_2120	C6EDW7_ECOBD		Predicted		Diguanylate cyclase	"GO:0009190; GO:0016849"	Complete proteome	472
+C6EEM3	ECBD_2145			ECBD_2145	C6EEM3_ECOBD		Inferred from homology	Peptidase M16 family	Peptidase M16 domain protein	"GO:0004222; GO:0006508; GO:0008270"	"Complete proteome; Signal"	927
+C6EEM7	ECBD_2149			ECBD_2149	C6EEM7_ECOBD		Predicted		Diguanylate cyclase	"GO:0009190; GO:0020037; GO:0019825; GO:0015671; GO:0016849"	Complete proteome	460
+C6EES6	ECBD_2202			ECBD_2202	C6EES6_ECOBD		Predicted		YcfA family protein		Complete proteome	58
+C6EFD2	ECBD_0300			ECBD_0300	C6EFD2_ECOBD		Predicted		Type VI secretion system effector, Hcp1 family		Complete proteome	392
+C6EFD9	ECBD_0307			ECBD_0307	C6EFD9_ECOBD		Predicted		Gluconate transporter	"GO:0015128; GO:0016020"	"Complete proteome; Signal"	446
+C6EG84	ECBD_4313			ECBD_4313	C6EG84_ECOBD		Predicted		Glycoside hydrolase family 13 domain protein	"GO:0005975; GO:0004553"	"Complete proteome; Hydrolase; Signal"	389
+C6EID2	ECBD_0760			ECBD_0760	C6EID2_ECOBD		Predicted		FAD linked oxidase domain protein	"GO:0050660; GO:0016491"	Complete proteome	350
+C6EJY8	ECBD_1082			ECBD_1082	C6EJY8_ECOBD		Predicted		Diguanylate cyclase	"GO:0009190; GO:0016021; GO:0016849; GO:0004871"	"Complete proteome; Signal"	407
+C6EKA2	ECBD_3062			ECBD_3062	C6EKA2_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	68
+C6ELC1	ECBD_1327			ECBD_1327	C6ELC1_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	274
+C6EBA6	ECBD_1686			ECBD_1686	C6EBA6_ECOBD		Predicted		DNA mismatch endonuclease Vsr	"GO:0003677; GO:0004519; GO:0006298"	"Complete proteome; Endonuclease; Hydrolase; Nuclease"	156
+C6EBT4	ECBD_1745			ECBD_1745	C6EBT4_ECOBD		Predicted		UspA domain protein	GO:0006950	Complete proteome	142
+C6ECX7	ECBD_3883			ECBD_3883	C6ECX7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	32
+C6EDD7	ECBD_0072			ECBD_0072	C6EDD7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	288
+C6EDY8	ECBD_4001			ECBD_4001	C6EDY8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6EF78	ECBD_4205			ECBD_4205	C6EF78_ECOBD		Predicted		Carbamate kinase (EC 2.7.2.2)	"GO:0006525; GO:0008804; GO:0008652"	"Complete proteome; Kinase; Transferase"	318
+C6EFA5	ECBD_0272			ECBD_0272	C6EFA5_ECOBD		Predicted		Heavy metal translocating P-type ATPase	"GO:0005524; GO:0006754; GO:0015662; GO:0016021; GO:0046872; GO:0046873"	Complete proteome	732
+C6EFC0	ECBD_0287			ECBD_0287	C6EFC0_ECOBD		Predicted	ABC transporter superfamily	ABC transporter related	"GO:0005524; GO:0016887"	"ATP-binding; Complete proteome; Nucleotide-binding"	237
+C6EFF7	ECBD_0328			ECBD_0328	C6EFF7_ECOBD		Inferred from homology	Glycogen phosphorylase family	Phosphorylase (EC 2.4.1.1)	"GO:0005975; GO:0004645; GO:0030170"	"Carbohydrate metabolism; Complete proteome; Glycosyltransferase; Transferase"	797
+C6EFZ8	ECBD_4225			ECBD_4225	C6EFZ8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	37
+C6EG10	ECBD_4237			ECBD_4237	C6EG10_ECOBD		Inferred from homology		Porphobilinogen deaminase (EC 2.5.1.61)	"GO:0004418; GO:0018160; GO:0006779"	"Complete proteome; Transferase"	320
+C6EG39	ECBD_4267			ECBD_4267	C6EG39_ECOBD		Predicted		Threonine dehydratase, biosynthetic	"GO:0004794; GO:0009097; GO:0030170"	Complete proteome	515
+C6EGU3	ECBD_2450			ECBD_2450	C6EGU3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	94
+C6EHJ2	ECBD_2579			ECBD_2579	C6EHJ2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	69
+C6EHQ9	ECBD_0655			ECBD_0655	C6EHQ9_ECOBD		Predicted		Oxidoreductase domain protein	"GO:0005488; GO:0016491"	Complete proteome	328
+C6EI07	ECBD_0753			ECBD_0753	C6EI07_ECOBD		Predicted		Uncharacterized ATP-binding protein YghS	GO:0005524	"ATP-binding; Complete proteome; Nucleotide-binding"	232
+C6EI21	ECBD_2634			ECBD_2634	C6EI21_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	720
+C6EIE3	ECBD_0771			ECBD_0771	C6EIE3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	235
+C6EIF6	ECBD_0785			ECBD_0785	C6EIF6_ECOBD		Predicted		Oxygen-independent coproporphyrinogen III oxidase (EC 1.3.99.22)	"GO:0051989; GO:0004109; GO:0005737; GO:0051536; GO:0055114; GO:0006779"	"Complete proteome; Oxidoreductase"	378
+C6EIF8	ECBD_0787			ECBD_0787	C6EIF8_ECOBD		Inferred from homology		Putative uncharacterized protein		Complete proteome	96
+C6EIH0	ECBD_0799			ECBD_0799	C6EIH0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	83
+C6EA08	ECBD_1468			ECBD_1468	C6EA08_ECOBD		Predicted		Pertactin	"GO:0007155; GO:0019867"	"Complete proteome; Signal"	863
+C6EBA7	ECBD_1687			ECBD_1687	C6EBA7_ECOBD		Predicted		Carboxylate/amino acid/amine transporter	GO:0016021	"Cell membrane; Complete proteome; Membrane"	306
+C6EGT7	ECBD_2443			ECBD_2443	C6EGT7_ECOBD		Inferred from homology		Putative uncharacterized protein		Complete proteome	97
+C6EGX4	ECBD_2483			ECBD_2483	C6EGX4_ECOBD		Predicted		Lipoprotein releasing system, transmembrane protein LolE	"GO:0009276; GO:0016021; GO:0005886; GO:0006810"	"Cell membrane; Complete proteome; Lipoprotein; Membrane; Signal; Transmembrane; Transmembrane helix"	412
+C6EIC9	ECBD_0757			ECBD_0757	C6EIC9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	378
+C6EID9	ECBD_0767			ECBD_0767	C6EID9_ECOBD		Predicted		Uncharacterized lipoprotein YghG		"Complete proteome; Lipoprotein; Signal"	136
+C6EKB1	ECBD_3071			ECBD_3071	C6EKB1_ECOBD		Predicted		Putative esterase	"GO:0005737; GO:0008849; GO:0005506; GO:0006826"	Complete proteome	400
+C6E9Z1	ECBD_1451			ECBD_1451	C6E9Z1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EB90	ECBD_1668			ECBD_1668	C6EB90_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EBB1	ECBD_1691			ECBD_1691	C6EBB1_ECOBD		Predicted		Mannosyl-3-phosphoglycerate phosphatase family protein	"GO:0005737; GO:0050531"	Complete proteome	271
+C6EBB2	ECBD_1692			ECBD_1692	C6EBB2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	75
+C6EBC4	ECBD_1704			ECBD_1704	C6EBC4_ECOBD		Predicted		ATPase, FliI/YscN family (EC 3.6.3.14)	"GO:0005524; GO:0015986; GO:0016887; GO:0005737; GO:0009296; GO:0016820; GO:0030254; GO:0033178; GO:0030257"	"Complete proteome; Hydrolase"	457
+C6EBE4	ECBD_1725			ECBD_1725	C6EBE4_ECOBD		Predicted	ABC transporter superfamily	ABC transporter related	"GO:0005524; GO:0016887"	"ATP-binding; Complete proteome; Nucleotide-binding"	250
+C6EBF6	ECBD_1737			ECBD_1737	C6EBF6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EBP5	ECBD_3697			ECBD_3697	C6EBP5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	85
+C6EBV3	ECBD_1764			ECBD_1764	C6EBV3_ECOBD		Predicted		CutC family protein	"GO:0005507; GO:0055070"	"Complete proteome; Copper"	248
+C6ED41	ECBD_3948			ECBD_3948	C6ED41_ECOBD		Predicted		Formate dehydrogenase H		Complete proteome	91
+C6EDK9	ECBD_2007			ECBD_2007	C6EDK9_ECOBD		Predicted		Pyridoxal kinase (EC 2.7.1.35)	"GO:0005524; GO:0046872; GO:0008478; GO:0008615"	"ATP-binding; Complete proteome; Kinase; Metal-binding; Nucleotide-binding; Transferase; Zinc"	286
+C6EEE7	ECBD_0203			ECBD_0203	C6EEE7_ECOBD		Predicted		Cellulose biosynthesis protein BcsE		Complete proteome	519
+C6EF13	ECBD_4139			ECBD_4139	C6EF13_ECOBD		Predicted		Thioesterase domain protein	GO:0008080	Complete proteome	313
+C6EFH3	ECBD_0344			ECBD_0344	C6EFH3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	574
+C6EFZ6	ECBD_4223			ECBD_4223	C6EFZ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	163
+C6EG44	ECBD_4272			ECBD_4272	C6EG44_ECOBD		Predicted		Mg chelatase, subunit ChlI	"GO:0015995; GO:0016851; GO:0017111; GO:0000166; GO:0015979"	Complete proteome	506
+C6EGP1	ECBD_2396			ECBD_2396	C6EGP1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	72
+C6EH84	ECBD_0599			ECBD_0599	C6EH84_ECOBD		Predicted		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	"GO:0006044; GO:0004342; GO:0016787"	"Complete proteome; Hydrolase"	233
+C6EHD4	ECBD_2521			ECBD_2521	C6EHD4_ECOBD		Inferred from homology		Flagellar L-ring protein	"GO:0009427; GO:0009279; GO:0001539; GO:0003774"	"Cell projection; Cilium; Complete proteome; Flagellum; Signal"	235
+C6EHJ0	ECBD_2577			ECBD_2577	C6EHJ0_ECOBD		Predicted		FTR1 family protein	"GO:0016020; GO:0055085"	Complete proteome	276
+C6EIB3	ECBD_2726			ECBD_2726	C6EIB3_ECOBD		Predicted		NAD-dependent epimerase/dehydratase	"GO:0003824; GO:0044237; GO:0050662"	Complete proteome	349
+C6EIF7	ECBD_0786			ECBD_0786	C6EIF7_ECOBD		Inferred from homology	HAM1 NTPase family	Nucleoside-triphosphatase (EC 3.6.1.15)	GO:0017111	"Complete proteome; Hydrolase"	197
+C6EIM5	ECBD_0854			ECBD_0854	C6EIM5_ECOBD		Predicted		Guanine deaminase	"GO:0008892; GO:0008270"	Complete proteome	438
+C6EJ14	ECBD_2857			ECBD_2857	C6EJ14_ECOBD		Predicted		NLP/P60 protein		Complete proteome	247
+C6EJD5	ECBD_0992			ECBD_0992	C6EJD5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	44
+C6EKR0	ECBD_1238			ECBD_1238	C6EKR0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6ELJ4	ECBD_3271			ECBD_3271	C6ELJ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	101
+C6ELN1	ECBD_3308			ECBD_3308	C6ELN1_ECOBD		Predicted		Alpha/beta hydrolase fold protein	GO:0016787	"Complete proteome; Hydrolase"	288

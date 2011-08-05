@@ -1,0 +1,278 @@
+253773221	LPP repeat-containing protein 	outer membrane	14304	3887	2770	7,26	67,19	10,74	4	8	6	48,7	65,4	62,8
+253773594	porin Gram-negative type 	outer membrane	8503	2115	4205	2,36	2,1	1,86	14	12	17	33,1	28,2	33,4
+253774378	OmpA domain protein transmembrane region-containing protein 	outer membrane	9615	1667	3359	4,48	2,29	4,97	17	16	21	47,4	43,6	59,8
+253773211	porin LamB type 	outer membrane	2735	2693	2209	1,78	2,16	3,35	13	14	17	33,4	32,5	43
+253773004	type I secretion outer membrane protein, TolC family 	outer membrane	959	1121	1507	1,17	1,04	1,75	13	15	21	28,4	27,2	46
+253773461	Organic solvent tolerance protein 	outer membrane	823	1056	1497	0,65	0,98	1,36	16	21	28	20,8	27,2	33,8
+253772109	outer membrane protein assembly complex, YaeT protein 	outer membrane	586	999	1343	0,64	1,19	1,7	16	26	31	19,8	29,1	41,2
+253774934	peptidoglycan-associated lipoprotein 	outer membrane	1364	804	565	2,16	3,39	1,68	6	10	6	32,9	49,1	32,9
+253775228	cytochrome bd ubiquinol oxidase subunit I 	cytoplasmic membrane	107	1033	1327	0,25	0,64	0,83	6	12	13	11,3	16,7	19,5
+253771639	virulence-related outer membrane protein 	outer membrane	1595	435	288	0,65	0,94	1,3	5	7	4	31	31,6	22,8
+253774455	TonB-dependent siderophore receptor 	outer membrane	415	576	873	0,48	0,73	1,45	12	16	22	17,1	19,9	33,3
+253771546	protein-export membrane protein SecD 	cytoplasmic membrane	404	527	747	0,4	0,96	1,5	10	19	23	18	28,6	34
+253771502	ATP synthase F0, B subunit 	cytoplasmic membrane	245	1034	247	1,04	11,14	2,48	6	12	5	33,3	55,8	34
+253774640	ribosomal protein S3 	cytoplasmic		677	672		1,97	1,07		14	9		61,8	45,1
+253773241	TonB-dependent siderophore receptor 	outer membrane	335	349	557	0,12	0,54	0,66	4	11	18	6	17,3	24,3
+253773307	17 kDa surface antigen 	outer membrane	187	556	423	1,67	4,85	4,85	4	7	6	38,7	42,6	38,7
+253774289	ATP-dependent metalloprotease FtsH 	cytoplasmic membrane	121	359	671	0,2	0,65	0,8	7	13	14	9,9	20,5	23,9
+253771921	PTS system, trehalose-specific IIBC subunit 	cytoplasmic membrane	161	643	296	0,2	0,55	0,64	5	5	6	10,1	11	12,7
+253772669	OmpA/MotB domain protein 	outer membrane	123	631	302	0,15	3,08	0,76	2	6	3	17,8	34,2	25,6
+253774915	HflK protein 	unknown	235	395	363	0,52	0,75	0,75	7	9	11	15,5	22	29,4
+253775385	ribosomal protein L16 	cytoplasmic	114	462	404	0,49	0,82	0,82	2	6	3	22,1	41,2	33,1
+253774020	ribosomal protein S20 	cytoplasmic	99	638	236	1,52	7,61	2,42	3	6	3	29,9	43,7	29,9
+253771699	ribosomal protein L15 	cytoplasmic	201	371	341	1,78	3,18	1,78	7	11	6	51,4	59,7	38,9
+253774280	membrane protein involved in aromatic hydrocarbon degradation 	outer membrane	270	317	310	0,39	0,48	0,48	7	8	8	18,2	17,9	20,2
+253774780	pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase 	cytoplasmic	167	319	378	0,21	0,4	0,47	4	8	8	8,3	13	14,4
+253773897	outer membrane assembly lipoprotein YfgL 	outer membrane	112	297	408	0,08	0,35	0,58	3	6	7	7,7	17,1	21,7
+253774795	Uncharacterized lipoprotein 	unknown	183	384	222	0,16	0,56	0,35	1	5	2	5,7	21,4	13
+253771785	ribosomal protein L22 	cytoplasmic	153	440	174	1,69	6,25	2,45	6	7	6	39,1	60,9	39,1
+253772294	transport-associated 	periplasmic	167	351	246	0,86	1,53	0,86	5	6	5	29,8	34	30,4
+253772919	efflux transporter, RND family, MFP subunit 	cytoplasmic membrane	96	358	295	0,16	0,83	0,7	6	11	7	14,9	31	19,9
+253774450	ribosomal protein S11 	cytoplasmic	126	324	290	0,55	1,98	1,39	4	6	5	33,3	42,6	34,1
+253775553	translation elongation factor Tu 	cytoplasmic	186	292	254	0,34	1,08	0,93	5	13	10	13,2	32,5	23,6
+253772907	60 kDa inner membrane insertion protein 	cytoplasmic membrane	142	201	389	0,23	0,37	0,52	5	6	6	10,2	11,5	12
+253773872	lipoprotein, YaeC family 	cytoplasmic membrane		407	262		0,53	0,38		5	3		25,1	16,6
+253774307	PpiC-type peptidyl-prolyl cis-trans isomerase 	cytoplasmic membrane	101	244	314	0,21	0,53	0,84	6	14	19	9,3	19,9	26,8
+253772730	LppC family lipoprotein 	cytoplasmic membrane	94	294	254	0,14	0,36	0,42	6	13	11	9,1	18,1	17,1
+253772126	outer membrane assembly lipoprotein YfiO 	outer membrane	58	386	167	0,25	1,21	0,4	3	10	6	10,6	39,2	21,2
+253774305	outer membrane lipoprotein 	outer membrane	235	233	137	0,23	0,88	0,52	1	5	2	10,4	41,8	20,9
+253773136	sulfatase 	cytoplasmic membrane	66	191	318	0,1	0,47	0,87	4	11	14	6,2	14,9	23,6
+253774105	ribosomal protein S10 	cytoplasmic		481	92		3,66	0,67		10	2		61,2	23,3
+253772532	glycosyl transferase family 2 	cytoplasmic membrane	138	168	254	0,09	0,09	0,3	1	3	4	3,7	10,9	12,4
+253774913	Uroporphyrinogen-III C-methyltransferase 	cytoplasmic membrane	72	242	234	0,08	0,68	0,35	2	7	4	6,1	17,3	12
+253773413	protein of unknown function DUF1043 	cytoplasmic membrane		267	280		1,78	1,78		4	4		39,4	39,4
+253772330	Rare lipoprotein B 	outer membrane	70	319	143	0,55	1,39	0,79	6	6	4	34,2	39,9	22,8
+253774359	ribosomal protein S13 	cytoplasmic	89	235	202	0,59	7,07	2,19	2	10	8	18,6	69,5	66,9
+253774379	Peptidase M23 	outer membrane	181	129	196	0,37	0,27	0,37	5	6	6	15	15,6	17,4
+253774875	ribosomal protein S7 	cytoplasmic	124	201	165	0,42	1,41	1,88	3	7	6	16,7	39,1	27,6
+253774188	outer membrane lipoprotein LolB 	periplasmic	165	181	135	1,21	0,94	0,7	7	8	5	33,8	35,3	25,1
+253772819	FAD-dependent pyridine nucleotide-disulphide oxidoreductase 	cytoplasmic membrane	67	242	172	0,07	0,22	0,5	1	7	11	2,5	14,5	24,4
+253772145	preprotein translocase, YajC subunit 	cytoplasmic membrane	184	190	88	0,29	0,66	0,66	1	2	2	8,2	20	20
+253775428	TonB-dependent receptor plug 	outer membrane	65	132	253	0,04	0,2	0,33	2	5	12	2,8	8,4	19
+253775449	MltA-interacting MipA family protein 	outer membrane	218	135	91	0,25	0,25	0,12	1	1	1	5,2	5,2	5,2
+253774382	signal peptide peptidase SppA, 67K type 	cytoplasmic membrane	59	154	231	0,05	0,21	0,27	2	3	5	4	6	9,7
+253772899	NADH-ubiquinone/plastoquinone oxidoreductase chain 3 	cytoplasmic membrane	96	167	172	0,45	1,11	0,45	1	4	3	7,5	25,9	24,5
+253772979	TonB-dependent receptor 	outer membrane	121	102	211	0,09	0,23	0,23	4	7	10	6,1	8,6	13,6
+253775091	ribosomal protein L5 	cytoplasmic		270	164		2,97	1,15		9	7		56,4	50,3
+253774545	ribosomal protein S5 	cytoplasmic		152	265		1,02	1,02		6	4		30,5	24,6
+253773442	ribosomal protein L28 	cytoplasmic		107	308		0,91	0,91		4	2		41	23,1
+253775259	ribosomal protein L2 	cytoplasmic	88	160	163	0,69	0,52	1,58	11	10	11	38,5	34,8	45,4
+253774381	membrane lipoprotein lipid attachment site 	unknown		246	141		0,74	0,32		4	2		29,6	13,6
+253771956	cellulose synthase operon C domain protein 	unknown		177	210		0,26	0,19		13	11		10,5	12
+253771756	sulfatase 	cytoplasmic membrane		146	236		0,29	0,43		7	9		10,4	13,7
+253775132	NAD(P) transhydrogenase, alpha subunit 	cytoplasmic membrane		195	176		0,26	0,34		5	6		9,6	11,8
+253774604	ribosomal protein L10 	cytoplasmic	78	285		0,42	1,39		2	6		14,5	40,6	
+253771881	TonB-dependent siderophore receptor 	outer membrane		79	276		0,3	0,57		13	17		12,7	20,4
+253772599	transcriptional regulator, XRE family 	unknown	71	74	191	0,09	0,55	0,84	2	5	8	7,1	16	24
+253771774	ribosomal protein S9 	cytoplasmic	89	105	127	1,28	1,28	1,28	3	7	4	21,5	50,8	31,5
+253775370	NlpBDapX family lipoprotein 	outer membrane	114	67	136	0,29	0,29	0,54	6	6	5	12,2	20,3	18,6
+253774026	peptidase M48 Ste24p 	unknown	49	184	79	0,12	0,59	0,12	2	6	1	8,3	28,2	5,2
+253774355	transporter, hydrophobe/amphiphile efflux-1 (HAE1) family 	cytoplasmic membrane	91	77	142	0,03	0,09	0,25	2	8	10	2,8	7,4	9,2
+253772699	Sporulation domain protein 	unknown		143	161		0,41	0,41		7	7		18,2	19,9
+253774880	ribosomal protein S18 	cytoplasmic	80	142	81	0,39	1,68	0,93	2	3	3	29,3	32	32
+253774084	protein-export membrane protein SecF 	cytoplasmic membrane	106	99	94	0,2	0,09	0,09	2	1	1	4,3	4	4
+253773876	carbon starvation protein CstA 	cytoplasmic membrane	66	118	115	0,04	0,13	0,13	2	4	5	2,7	4,9	5,7
+253773216	PTS system, mannitol-specific IIC subunit 	cytoplasmic membrane		155	141		0,15	0,27		5	6		7,5	12,1
+253772099	ribosomal protein L20 	cytoplasmic	77	66	136	0,57	0,25	0,57	3	6	3	21,2	33,9	20,3
+253771865	succinate dehydrogenase or fumarate reductase, flavoprotein subunit 	cytoplasmic membrane		76	201		0,1	0,28		3	7		5,3	12,9
+253774159	protein of unknown function DUF21 	cytoplasmic membrane	73	113	90	0,07	0,21	0,14	1	4	3	2,7	9,2	6,7
+253771641	membrane-bound PQQ-dependent dehydrogenase, glucose/quinate/shikimate family 	cytoplasmic membrane		92	177		0,2	0,25		6	10		7,2	13,6
+253774775	transcription termination factor Rho 	cytoplasmic	49	85	134	0,15	0,23	0,4	3	9	7	7,4	16,9	18,1
+253773763	D-tagatose-bisphosphate aldolase, class II, non-catalytic subunit 	cytoplasmic	48	50	169	0,07	0,14	0,5	1	5	6	2,6	10,5	12,9
+253772159	nucleoside-specific channel-forming protein Tsx 	outer membrane		170	96		0,21	0,1		3	3		6,5	6,5
+253771940	translation elongation factor G 	cytoplasmic		60	206		0,13	0,34		7	10		9,1	16,1
+253775242	2-amino-3-ketobutyrate coenzyme A ligase 	cytoplasmic	99	72	94	0,16	0,16	0,25	4	6	5	10,6	18,6	13,8
+253775260	PTS system, N-acetylglucosamine-specific IIBC subunit 	cytoplasmic membrane		98	166		0,15	0,15		3	4		5,1	6,5
+253772219	Mammalian cell entry related domain protein 	unknown	88	175		0,37	1,2		3	4		12	23	
+253774348	iron-containing alcohol dehydrogenase 	cytoplasmic		89	174		0,11	0,18		9	8		8,2	8,3
+253774292	ribosomal protein L7/L12 	unknown		153	104		0,63	0,28		2	2		19	19
+253773228	efflux pump membrane protein 	cytoplasmic membrane	47	98	105	0,16	0,25	0,35	3	6	6	8,7	15,6	16,4
+253775589	2-oxo-acid dehydrogenase E1 subunit, homodimeric type 	cytoplasmic		101	148		0,21	0,29		10	14		10,1	13,1
+253774942	HemY protein 	cytoplasmic membrane		80	158		0,15	0,42		4	6		9,3	15,1
+253773813	putative lipoprotein 	unknown		113	124		0,62	0,38		3	4		25,1	31
+253771631	ribosomal protein L1 	cytoplasmic		157	79		0,3	0,3		3	2		17	10,9
+253775331	Rare lipoprotein A 	extracellular		139	93		0,29	0,18		4	3		11	8,6
+253772992	aconitate hydratase 2 	cytoplasmic		97	131		0,03	0,03		4	3		4,3	3,5
+253771880	penicillin-binding protein 1B 	cytoplasmic membrane		46	178		0,11	0,19		7	11		7	12,8
+253775223	PTS system, mannose/fructose/sorbose family, IID subunit 	cytoplasmic membrane	49	112	61	0,22	0,5	0,22	5	5	2	12,6	22,4	6,6
+253773317	glycosyl transferase family 2 	cytoplasmic membrane		111	111		0,03	0,07		5	5		5,1	5
+253771832	ribosomal protein S14 	cytoplasmic	52	71	96	0,3	0,68	0,68	3	3	3	23,8	35,6	29,7
+253772795	3-oxoacyl-(acyl-carrier-protein) reductase 	cytoplasmic	51	69	97	0,13	0,28	0,45	1	2	3	3,7	7,4	11,9
+253771876	ribosomal protein L19 	cytoplasmic		214			2,19			6			34,8	
+253773062	hypothetical protein ECBD_0183 	unknown	100	60	52	0,44	0,28	0,13	3	4	1	14	16,9	3,8
+253771777	Rhodanese domain protein 	unknown		142	70		0,8	0,22		4	1		28,7	10,5
+253771938	cytochrome o ubiquinol oxidase, subunit I 	cytoplasmic membrane		85	127		0,09	0,19		4	6		4,5	7,1
+253775330	sodium:dicarboxylate symporter 	cytoplasmic membrane		102	106		0,07	0,07		1	1		2,3	2,3
+253775257	twin-arginine translocation protein, TatA/E family subunit 	cytoplasmic membrane		85	119		0,51	0,51		1	1		16,4	16,4
+253775387	lipid A ABC exporter, fused ATPase and inner membrane subunits MsbA 	cytoplasmic membrane		51	149		0,05	0,22		3	4		5	7,6
+253775010	ribosomal protein S2 	cytoplasmic		198			1,28			11			45,2	
+253773343	protein of unknown function DUF945 	cytoplasmic membrane		83	115		0,12	0,26		4	4		8	8,8
+253772515	ribosomal protein L17 	cytoplasmic		79	110		0,89	0,53		5	3		28,3	21,3
+253774882	SmpA/OmlA domain protein 	unknown		82	106		1,1	1,1		3	3		19,6	19,6
+253775545	efflux transporter, RND family, MFP subunit 	cytoplasmic membrane		77	111		0,07	0,15		1	2		2,9	5,8
+253774724	ribosomal protein L21 	cytoplasmic		124	61		1,19	0,69		5	2		44,7	21,4
+253775522	ribosomal protein L24 	cytoplasmic		181			2,77			6			31,7	
+253774872	PTS system, mannose/fructose/sorbose family, IIC subunit 	cytoplasmic membrane		112	66		0,12	0,12		1	1		7,1	7,1
+253772236	Bor family protein 	unknown		106	70		0,32	0,75		1	2		10,3	25,8
+253774387	protein of unknown function DUF1131 	unknown		93	82		0,16	0,16		2	1		13,6	7,9
+253775572	metabolite/H+ symporter, major facilitator superfamily (MFS) 	cytoplasmic membrane		62	113		0,06	0,06		1	1		2,6	2,6
+253771872	ABC transporter, CydDC cysteine exporter (CydDC-E) family, permease/ATP-binding protein CydD 	cytoplasmic membrane		57	118		0,1	0,28		5	7		7,5	12,1
+253774581	Tol-Pal system beta propeller repeat protein TolB 	periplasmic		90	83		0,23	0,07		5	4		10	7,7
+253774291	protein TolR 	cytoplasmic membrane		99	73		0,49	1,23		2	4		16,9	29,6
+253774848	binding-protein-dependent transport systems inner membrane component 	cytoplasmic membrane		88	80		0,18	0,18		5	3		8,9	4,9
+253772753	Mammalian cell entry related domain protein 	unknown		79	87		0,11	0,3		4	8		7,7	14,5
+253774081	ribosomal protein S16 	cytoplasmic		165			0,9			6			58,5	
+253773861	Phospholipase A(2) 	outer membrane		105	56		0,33	0,1		2	1		10	4,5
+253774290	alanyl-tRNA synthetase 	cytoplasmic		68	87		0,07	0,07		4	5		5	6,3
+253774935	magnesium and cobalt transport protein CorA 	cytoplasmic membrane	77	77		0,09	0,3		1	3		3,2	8,9	
+253771561	VacJ family lipoprotein 	outer membrane		86	68		0,57	0,4		3	3		12	11,6
+253774793	heavy metal translocating P-type ATPase 	cytoplasmic membrane		70	84		0,13	0,23		4	7		5,9	10,4
+253774373	cytochrome d ubiquinol oxidase, subunit II 	cytoplasmic membrane	54	42	57	0,16	0,08	0,35	2	2	3	5,8	5,8	7,9
+253771981	lipopolysaccharide biosynthesis protein 	cytoplasmic membrane		78	73		0,17	0,17		3	3		9,2	9,2
+253772792	PTS system, galactitol-specific IIC subunit 	cytoplasmic membrane		64	85		0,14	0,22		3	3		4	5,3
+253774823	Diacylglycerol kinase 	cytoplasmic membrane		89	59		0,58	0,26		2	1		17,2	8,2
+253771920	Intracellular growth attenuator IgaA 	cytoplasmic membrane		72	74		0,04	0,04		2	2		3,2	3,1
+253774858	ribonuclease, Rne/Rng family 	cytoplasmic		50	96		0,06	0,06		6	6		4,9	5,2
+253773926	lipoprotein releasing system, transmembrane protein, LolC/E family 	cytoplasmic membrane		89	55		0,16	0,08		2	1		6,5	3,8
+253775384	tyrosyl-tRNA synthetase 	cytoplasmic		61	81		0,14	0,07		2	2		5,4	5,4
+253773430	ribosomal protein S4 	cytoplasmic	44	96		0,14	0,49		4	7		15,5	20,9	
+253772843	ABC transporter related 	cytoplasmic membrane	72	66		0,17	0,17		4	4		9,7	9,2	
+253774306	flagellar L-ring protein 	outer membrane		87	51		0,46	0,14		3	1		12,1	4,3
+253775523	MscS Mechanosensitive ion channel 	cytoplasmic membrane		137			0,36			4			15,7	
+253775229	ribosomal protein L14 	cytoplasmic		84	53		0,56	0,25		5	3		27,6	13,8
+253775175	RNA polymerase, sigma 70 subunit, RpoD 	cytoplasmic		68	66		0,05	0,1		2	3		3,6	4,7
+253775631	NAD(P)(+) transhydrogenase (AB-specific) 	cytoplasmic membrane		68	66		0,22	0,22		5	4		8,2	8,2
+253774183	2-oxoglutarate dehydrogenase, E2 subunit, dihydrolipoamide succinyltransferase 	cytoplasmic			133			0,16			3			6,4
+253775575	ribosomal protein L11 	cytoplasmic		89	43		0,23	0,51		3	3		18,3	18,3
+253774014	HflC protein 	cytoplasmic	59		72	0,09		0,18	2		6	6		20,1
+253772497	rod shape-determining protein MreC 	unknown		54	76		0,08	0,08		1	4		2,2	11,4
+253771999	ribosomal protein L3 	cytoplasmic		67	61		0,15	0,15		2	1		7,7	4,8
+253771753	ribosomal protein L18 	cytoplasmic		83	43		1,04	0,27		3	2		24,8	12,8
+253775636	hypothetical protein ECBD_0269 	periplasmic		81	45		0,6	0,17		2	1		12,4	5,9
+253772446	potassium efflux system protein 	cytoplasmic membrane		68	58		0,11	0,11		3	2		5,2	3,2
+253775198	DNA-directed RNA polymerase, beta' subunit 	cytoplasmic		72	53		0,04	0,04		8	4		5	2,7
+253772980	phosphate acetyltransferase 	cytoplasmic		63	61		0,09	0,04		3	3		4,6	4,5
+253774569	ABC transporter, CydDC cysteine exporter (CydDC-E) family, permease/ATP-binding protein CydC 	cytoplasmic membrane		78	45		0,16	0,05		6	5		7,9	7
+253774288	protein of unknown function DUF496 	cytoplasmic			120			0,61			1			14,7
+253772225	phosphatidylserine decarboxylase 	cytoplasmic membrane	53	65		0,09	0,19		1	2		3,4	6,8	
+253772888	protein of unknown function DUF1615 	unknown		70	47		0,08	0,08		1	2		2,5	4,9
+253775388	ribosomal protein L13 	cytoplasmic		57	57		0,47	0,47		2	2		12	12
+253771879	sodium:dicarboxylate symporter 	cytoplasmic membrane			114			0,14			2			5,4
+253771833	Entericidin EcnAB 	cytoplasmic membrane			114			0,75			1			39,6
+253771860	Pectinesterase 	outer membrane		66	47		0,15	0,07		3	1		7,3	2,6
+253775172	preprotein translocase, SecA subunit 	cytoplasmic membrane		63	50		0,07	0,03		3	2		3,6	2,3
+253773884	Beta-lactamase 	cytoplasmic membrane		45	68		0,16	0,16		6	4		14	8,8
+253771870	D-amino-acid dehydrogenase 	cytoplasmic membrane		61	49		0,07	0,07		1	1		2,3	2,3
+253773892	copper resistance lipoprotein NlpE 	outer membrane		55	54		0,13	0,13		1	1		4,7	4,7
+253775200	outer membrane chaperone Skp (OmpH) 	periplasmic		43	66		0,19	0,19		1	2		7,5	12,4
+253773329	carbamoyl-phosphate synthase, large subunit 	unknown			108			0,11			5			5,2
+253774532	PTS system, glucose-specific IIBC subunit 	cytoplasmic membrane		107			0,13			4			9,2	
+253774085	SH3 domain protein 	unknown		107			1,25			7			33,5	
+253774303	protein of unknown function DUF1440 	cytoplasmic membrane		56	49		0,15	0,15		2	2		12,7	12,7
+253772976	NAD-dependent epimerase/dehydratase 	cytoplasmic		46	58		0,04	0,09		4	3		5,8	4,4
+253771615	Peptidoglycan glycosyltransferase 	cytoplasmic membrane			101			0,2			4			6,2
+253771702	DNA-directed RNA polymerase, beta subunit 	cytoplasmic		100			0,09			7			5,2	
+253775342	ribosomal protein L32 	cytoplasmic		100			0,56			1			26,3	
+253775592	cell division protein FtsN 	cytoplasmic membrane		45	55		0,09	0,3		2	3		5,3	8,8
+253775559	hypothetical protein ECBD_3887 	unknown			100			0,28			1			16,2
+253771988	histidine kinase 	cytoplasmic membrane			97			0,06			1			2,6
+253774057	ribosomal protein S8 	cytoplasmic		95			0,54			1			9,2	
+253772455	DNA mismatch repair protein MutS 	cytoplasmic		46	48					1	1		0,9	0,9
+253775153	AsmA family protein 	unknown			93			0,05			3			5,4
+253773574	twin-arginine translocation protein, TatA/E family subunit 	cytoplasmic membrane			93			0,36			1			14,6
+253775025	DNA gyrase, B subunit 	cytoplasmic		43	48		0,04	0,04		1	1		1,2	1,2
+253772509	porphobilinogen deaminase 	cytoplasmic		44	45		0,1	0,1		2	1		5,5	2,3
+253771863	Glycerol-3-phosphate O-acyltransferase 	cytoplasmic membrane			88			0,07			8			8
+253773441	Alcohol dehydrogenase GroES domain protein 	cytoplasmic		86			0,18			5			15	
+253772127	ribosomal protein L9 	cytoplasmic			86			0,48			3			22,1
+253773868	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase 	cytoplasmic membrane		42	43		0,09	0,09		1	1		3,4	3,4
+253772631	penicillin-binding protein, 1A family 	cytoplasmic membrane			84			0,11			9			11,4
+253774914	NADH dehydrogenase I, D subunit 	cytoplasmic			84			0,15			4			7,5
+253772552	ribosomal protein L30 	cytoplasmic		83			4,71			3			57,6	
+253774796	transketolase 	cytoplasmic			83			0,19			5			6,5
+253773189	ribosomal protein S21 	cytoplasmic		81			1,8			6			45,1	
+253774192	ribonucleoside-diphosphate reductase, alpha subunit 	cytoplasmic			80			0,12			5			5,5
+253773326	ribosomal protein S19 	cytoplasmic		79			1,38			4			28,6	
+253774607	formate acetyltransferase 	cytoplasmic			77			0,08			6			8,4
+253772594	nucleoside transporter 	cytoplasmic membrane			77			0,08			2			5
+253771973	MltA domain protein 	outer membrane			77			0,37			4			13,4
+253774297	gluconate transporter 	cytoplasmic membrane			76			0,07			3			7,1
+253774606	MscS Mechanosensitive ion channel 	cytoplasmic membrane			76			0,08			6			5,5
+253775173	RND efflux system, outer membrane lipoprotein, NodT family 	outer membrane			75			0,14			4			8,8
+253771871	protein TolQ 	cytoplasmic membrane		73			0,28			1			6,5	
+253774088	ribosomal protein S15 	cytoplasmic		73			0,34			3			23,6	
+253772695	histone family protein DNA-binding protein 	cytoplasmic		73			0,36			1			14,4	
+253774433	protein TolA 	cytoplasmic			71			0,08			2			4,3
+253774568	Beta-lactamase 	cytoplasmic membrane			70			0,24			2			4,7
+253775574	protein of unknown function DUF1283 	unknown			69			0,26			1			10,6
+253772369	HtpX domain protein 	cytoplasmic membrane		68			0,11			1			3,8	
+253774068	protein of unknown function DUF1190 	periplasmic		66			0,3			1			7,2	
+253771613	cellulose synthase operon protein YhjU 	cytoplasmic membrane			65			0,05			1			2,7
+253771874	histidine kinase 	cytoplasmic membrane		64			0,08			1			3,9	
+253772733	ribosomal protein S6 	cytoplasmic			64			0,5			2			13,7
+253771439	recA protein 	cytoplasmic		62			0,18			5			13	
+253772411	ATP synthase F1, alpha subunit 	cytoplasmic		62			0,19			6			10,3	
+253773366	ubiquinol oxidase, subunit II 	cytoplasmic membrane	61			0,2			2			5,7		
+253775629	CTP synthase 	cytoplasmic			61			0,05			2			3,9
+253774547	GTP-binding protein LepA 	cytoplasmic membrane			61			0,05			2			3,2
+253771540	phosphoesterase PA-phosphatase related 	cytoplasmic membrane			61			0,12			1			4,2
+253774945	cell divisionFtsK/SpoIIIE 	cytoplasmic membrane			61						1			0,8
+253773888	sugar transporter 	cytoplasmic membrane		60			0,06			2			3,7	
+253772821	hypothetical protein ECBD_0736 	cytoplasmic membrane		60						1			6,1	
+253772790	multi-sensor hybrid histidine kinase 	cytoplasmic membrane			60			0,04			2			2,3
+253775339	AsmA family protein 	unknown			60			0,05			4			5,5
+253775383	NADH-quinone oxidoreductase, chain G 	cytoplasmic		58			0,03			1			1	
+253772779	ABC transporter related 	cytoplasmic membrane		58			0,12			1			5	
+253774776	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ 	cytoplasmic			58			0,22			1			5,7
+253771856	ribosomal protein L25 	cytoplasmic		57			0,75			3			23,4	
+253771875	adenylosuccinate synthetase 	cytoplasmic			57			0,07			2			4,4
+253773263	lysyl-tRNA synthetase 	cytoplasmic			57			0,12			5			9,5
+253775201	ribosomal protein S12 	cytoplasmic			57			0,24			2			16,1
+253772097	cell shape determining protein, MreB/Mrl family 	cytoplasmic		56			0,09			2			5,8	
+253772448	twin-arginine translocation protein, TatB subunit 	cytoplasmic membrane		55			0,18			2			13,5	
+253771866	protein of unknown function DUF163 	unknown		55			0,19			1			5,8	
+253773404	outer membrane lipoprotein, Slp family 	outer membrane		55			0,35			2			11,4	
+253775391	ATP-dependent Clp protease, ATP-binding subunit clpA 	cytoplasmic			55			0,04			2			2,4
+253773400	glutamyl-tRNA synthetase 	cytoplasmic			55			0,06			1			1,9
+253772017	dihydroorotate dehydrogenase 	cytoplasmic membrane			55			0,09			1			3
+253771980	1-acyl-sn-glycerol-3-phosphate acyltransferase 	cytoplasmic membrane		54			0,12			1			4,5	
+253771867	CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase 	cytoplasmic membrane		54			0,16			1			5,5	
+253774548	magnesium-translocating P-type ATPase 	cytoplasmic membrane			54			0,03			2			2,6
+253771882	ribosomal protein L6 	cytoplasmic		53			0,18			1			6,8	
+253774608	GMP synthase, large subunit 	cytoplasmic			53			0,06			2			3,9
+253774804	ribosomal protein S17 	cytoplasmic		52			0,36			4			29,8	
+253774578	tRNA-i(6)A37 thiotransferase enzyme MiaB 	cytoplasmic			52			0,06			1			1,8
+253774854	Phosphatidylglycerol--membrane-oligosaccharide glycerophosphotransferase 	cytoplasmic membrane		51			0,04			1			1,2	
+253772500	electron transport complex, RnfABCDGE type, C subunit 	extracellular		51			0,04			2			2,5	
+253771878	PTS system, fructose subfamily, IIC subunit 	cytoplasmic membrane			51			0,12			4			7,3
+253771834	carbamoyl-phosphate synthase, small subunit 	cytoplasmic		49			0,08			1			1,9	
+253772402	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase 	cytoplasmic			49			0,04			2			3,1
+253771522	Peptidylprolyl isomerase 	periplasmic		48			0,07			1			2,1	
+253771855	ribosomal protein L27 	cytoplasmic		48			0,38			2			22,4	
+253771873	Peptidase M23 	outer membrane		48			0,42			3			11,6	
+253771868	histone family protein DNA-binding protein 	cytoplasmic		48			0,9			1			15,6	
+253774857	phospholipase D/Transphosphatidylase 	cytoplasmic			48			0,06			3			6,2
+253771859	preprotein translocase, SecY subunit 	cytoplasmic membrane			48			0,07			2			6,3
+253771941	cell division protein FtsZ 	cytoplasmic membrane			48			0,08			1			3
+253772014	threonyl-tRNA synthetase 	cytoplasmic			48						2			3,6
+253774042	hydroxyethylthiazole kinase 	unknown	47			0,12			1			2,6		
+253771862	succinate dehydrogenase and fumarate reductase iron-sulfur protein 	cytoplasmic membrane		47			0,12			1			4,2	
+253775134	Beta-ketoacyl synthase 	cytoplasmic			47			0,08			1			3,2
+253773792	DNA-directed RNA polymerase, alpha subunit 	cytoplasmic			47			0,09			1			2,7
+253772967	isoleucyl-tRNA synthetase 	cytoplasmic		46			0,02			1			0,9	
+253774732	apolipoprotein N-acyltransferase 	cytoplasmic membrane		46			0,06			1			2,3	
+253772224	glycosyl transferase family 39 	cytoplasmic membrane		45			0,05			3			4,9	
+253771869	pyruvate kinase 	cytoplasmic		45			0,06			5			9,8	
+253773227	heat shock protein DnaJ domain protein 	cytoplasmic membrane		45						1			4,4	
+253771861	glucosamine/fructose-6-phosphate aminotransferase, isomerizing 	cytoplasmic			45			0,1			3			4,8
+253775338	porin Gram-negative type 	outer membrane	44			0,09			2			4,9		
+253775212	succinate dehydrogenase, hydrophobic membrane anchor protein 	cytoplasmic membrane		44			0,27			2			8,7	
+253774296	UDP-N-acetylmuramoylalanine/D-glutamate ligase 	cytoplasmic		44						2			2,2	
+253772590	uncharacterized lipoprotein YdcL 	unknown			44			0,14			1			4,5
+253773279	Mammalian cell entry related domain protein 	unknown		43			0,03			3			3,3	
+253774580	oxidoreductase FAD/NAD(P)-binding domain protein 	cytoplasmic		43			0,09			2			6,7	
+253773534	transcriptional regulator, TetR family 	cytoplasmic		43			0,3			2			12,6	
+253775660	phosphoenolpyruvate synthase 	cytoplasmic			43			0,04			1			1,1
+253775386	TonB-dependent receptor plug 	outer membrane			43			0,04			4			5,3
+253775406	uncharacterized protein YebO 	unknown		42			0,32			1			9,5	
+253772822	chaperonin GroEL 	cytoplasmic			42			0,06			3			5,5

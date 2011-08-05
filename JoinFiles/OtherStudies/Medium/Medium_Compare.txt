@@ -1,0 +1,3 @@
+../Data/DataSetGO/DB_NoveV10.txt	2	1	1
+OtherStudies/Medium/Minimal medium.txt	1	0	0
+OtherStudies/Medium/Rich medium.txt	1	0	0

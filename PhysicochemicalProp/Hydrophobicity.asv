@@ -1,0 +1,42 @@
+function [PhoMatrix Pho]=Hydrophobicity(PeptideSeq,scale)
+
+%% Load Scale table
+ [aa name Kyte Hopp Cornette Eisenberg Rose Janin Engelman Levitt WW1 WW2 WWd Phobic Philic] = textread('Features/PhoScale.txt','%s %s %s %s %s %s %s %s %s %s %s %s %s',-1,'delimiter','\t');
+%% Assign Scale values acoording to scale choice
+switch (scale)
+    case 'K'
+        PhoMatrix=str2double(Kyte(PeptideSeq+1));
+    case 'H'
+        PhoMatrix=str2double(Hopp(PeptideSeq+1));
+    case 'C'
+        PhoMatrix=str2double(Cornette(PeptideSeq+1));
+    case 'E'
+        PhoMatrix=str2double(Eisenberg(PeptideSeq+1));
+    case 'R'
+        PhoMatrix=str2double(Rose(PeptideSeq+1));
+    case 'J'
+        PhoMatrix=str2double(Janin(PeptideSeq+1));
+    case 'En'
+        PhoMatrix=str2double(Engelman(PeptideSeq+1));
+    case 'L'
+        PhoMatrix=str2double(Levitt(PeptideSeq+1));
+    case 'WW1'
+        PhoMatrix=str2double(WW1(PeptideSeq+1));
+    case 'WW2'
+        PhoMatrix=str2double(WW2(PeptideSeq+1));
+    case 'WWd'
+        PhoMatrix=str2double(WWd(PeptideSeq+1));
+    case 'Phobic'
+        PhoMatrix=str2double(WWd(PeptideSeq+1));
+    case 'Philic'
+        PhoMatrix=str2double(WWd(PeptideSeq+1));    
+    otherwise
+        display('!! Wrong scale name');
+        PhoMatrix=PeptideSeq;
+        return;
+end
+
+Pho=sum(PhoMatrix);
+% PhoMatrix=PhoMatrix./sqrt((PhoMatrix.^2)+1);
+PhoMatrix=PhoMatrix';
+end

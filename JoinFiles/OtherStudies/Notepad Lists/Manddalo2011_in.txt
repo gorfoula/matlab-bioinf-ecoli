@@ -1,0 +1,131 @@
+UniProt #	Gene (c)	Spot # (a)	Protein name (b)	Localization (d)	# TMHs (TMHMM) (e)	Peptides matched (f)	Mascot Mowse Score	Sequence coverage (%) (g)	MW (kDa) (h)	MWr in BN-PAGE (kDa) (i) - MP calib. Markers	MWr in BN-PAGE (kDa) (i) - SP calib. Markers
+P25714	yidC	A4	Inner membrane protein oxaA	IMP	4	4	310	16	62	96	162
+P25714	yidC	A8	Inner membrane protein oxaA	IMP	4	2	126	6	62	96	162
+P0ABC7	hflK	A13	Protein hflK	IMP	1	4	230	10	46	39	86
+P0ABC3	hflC	A14	Protein hflC	IMP	1	4	230	19	38	96	162
+P39099	degQ	A101	Protease degQ	SOL	1	7	350	29	47	148	220
+P0ADS6	yggE	A103	Uncharacterized protein yggE	SOL	0	6	261	27	27	221	292
+P37626	yhiI	A104	Uncharacterized protein yhiI	IMP	1	7	331	28	39	101	168
+P28635	metQ	A106	DL-methionine transporter substrate-binding	LIP	0	9	624	55	29	134	205
+P28635	metQ	A107	DL-methionine transporter substrate-binding	LIP	0	10	687	61	29	93	158
+P0ADT8	ygiM	A109	Uncharacterized protein ygiM	SOL	1	5	367	41	23	153	225
+P0ADT8	ygiM	A110	Uncharacterized protein ygiM	SOL	1	4	324	30	23	153	225
+P0AGA2	secY	A112	Preprotein translocase subunit secY	IMP	10	5	80	9	49	106	174
+P0AG27	yibN	A113	Uncharacterized protein yibN	IMP	1	5	356	38	16	84	147
+P0AG96	secE	A114	Preprotein translocase subunit secE	IMP	3	4	79	19	14	106	174
+P0AG99	secG		Protein-export membrane protein secG	IMP	2	1*	67	16	11	106	174
+P00803	lepB	A124	Signal peptidase I	IMP	2	4	219	25	36	34	78
+P37652	bcsB	B2	Cyclic di-GMP-binding protein	IMP	2	5	277	8	86	100	174
+P10346	glnQ	B51	Glutamine transport ATP-binding protein glnQ	SOL	0	4	140	16	27	77	142
+P69805	manZ	B53	Mannose permease IID component	IMP	1	3	163	7	31	54	108
+P0AB98	atpB	B54	ATP synthase subunit a	IMP	5	1*	65	8	30	345	441
+P0ABA0	atpF	B55	ATP synthase subunit b	IMP	1	4	310	34	17	345	441
+P0AB98	atpB	B56	ATP synthase subunit a	IMP	5	2	91	8	30	95	167
+P0ABA0	atpF	B58	ATP synthase subunit b	IMP	1	4	312	34	17	95	167
+P0AAA1	yagU	B60	Inner membrane protein yagU	IMP	3	4	201	25	23	36	81
+P0ABF8	pgsA	B61	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	IMP	4	2	61	8	21	36	79
+P0ADW3	yhcB	B63	Putative cytochrome d ubiquinol oxidase subunit 3	IMP	1	4	190	45	15	88	158
+P0A742	mscL	B64	MscL	IMP	2	1*	117	14	15	79	146
+P37645	yhjG	B102	Uncharacterized protein yhjG	IMP	1	7	221	17	75	110	186
+P45464	yraM	B103	Uncharacterized protein yraM	LIP	0	4	179	12	73	74	138
+P77804	ydgA	B107	Protein ydgA	IMP	1	7	317	23	55	95	167
+P77804	ydgA	B108	Protein ydgA	IMP	1	6	216	15	55	45	95
+P0CB39	yijP	B111	Phosphoethanolamine transferase cptA	IMP	5	7	254	23	67	45	95
+P0AFJ7	pitA	B114	Low-affinity inorganic phosphate transporter 1	IMP	10	3	189	14	53	52	106
+P0C0L7	proP	B115	Proline/betaine transporter	IMP	12	4	173	9	55	60	118
+P32705	actP		Cation/acetate symporter actP	IMP	13	3	64	5	59	60	118
+P76372	cld	B118	Chain length determinant protein	IMP	2	6	318	32	36	46	97
+P0ADZ7	yajC	B124	UPF0092 membrane protein yajC	IMP	1	5	313	45	12	25	61
+P31224	acrB	C1	Acriflavine resistance protein B	IMP	11	4	76	6	114	356	416
+P0ABB8	mgtA	C4	Magnesium-transporting ATPase, P-type 1	IMP	7	5	356	7	99	98	156
+P0ADY1	ppiD	C16	Peptidyl-prolyl cis-trans isomerase D	IMP	1	5	281	14	68	122	185
+P0ADY1	ppiD	C17	Peptidyl-prolyl cis-trans isomerase D	IMP	1	5	247	14	68	66	116
+P29018	cydD	C20	ATP-binding/permease protein cydD	IMP	5	3	89	5	65	94	152
+P23886	cydC	C21	ATP-binding/permease protein cydC	IMP	6	5	219	12	63	94	152
+P30845	eptA	C29	Phosphoethanolamine transferase eptA	IMP	5	4	227	9	62	54	100
+P77173	zipA	C30	Cell division protein zipA	IMP	1	2	104	13	36	54	100
+P0ABJ9	cydA	C31	Cytochrome d ubiquinol oxidase subunit 1	IMP	9	4	288	10	58	83	138
+P0ABJ9	cydA	C32	Cytochrome d ubiquinol oxidase subunit 1	IMP	9	1*	71	2	58	135	199
+P09127	hemX	C34	Putative uroporphyrinogen-III C-methyltransferase	IMP	1	4	271	13	43	180	249
+P0ABN5	dcuA	C46	Anaerobic C4-dicarboxylate transporter dcuA	IMP	11	2	76	2	46	83	138
+P0AER8	gltS		Sodium/glutamate symport carrier protein	IMP	9	3	206	9	42	83	138
+P0C0S1	mscS yggB	C55	Small-conductance mechanosensitive channel (MscS)	IMP	3	4	322	19	31	262	330
+P0ADK0	yiaF	C57	Uncharacterized protein yiaF	SOL	1	1*	75	6	26	98	156
+P76576	yfgM	C59	UPF0070 protein yfgM	IMP	1	4	473	41	22	122	185
+P0ABJ1	cyoA	C103	Ubiquinol oxidase subunit 2	IMP	3	5	186	27	35	149	214
+P0ABJ1	cyoA	C104	Ubiquinol oxidase subunit 2	IMP	3	6	90	31	35	149	214
+P0ABI8	cyoB	C108	Ubiquinol oxidase subunit 1	IMP	14	1*	64	2	74	149	214
+P76578	yfhM	C111	Uncharacterized lipoprotein yfhM	LIP	0	4	87	4	182	492	532
+P0ACB7	hemY	C117	Protein hemY	IMP	2	4	99	15	45	41	80
+P11557	damX	C120	Protein damX	IMP	1	3	40	11	46	139	204
+P33599	nuoC	C121	NADH-quinone oxidoreductase subunit C/D	SOL	0	3	44	7	68	31	66
+Q46837	yghJ	D1	Putative lipoprotein AcfD homologue	LIP	0	3	72	3	167	198	274
+P0AC41	sdhA	D16	Succinate dehydrogenase flavoprotein subunit	SOL	0	5	431	15	64	364	425
+P05055	pnp	D18	Polyribonucleotide nucleotidyltransferase	SOL	0	4	155	7	77	174	249
+P0A6Y8	dnaK	D25	Chaperone protein dnaK	SOL	0	3	236	10	69	29	68
+P0ABB0	atpA	D33	ATP synthase subunit alpha	SOL	0	5	418	19	55	255	329
+P0ABB4	atpD	D34	ATP synthase subunit beta	SOL	0	4	346	14	50	255	329
+P0AB67	pntB	D42	NAD(P) transhydrogenase subunit beta	IMP	9	3	167	11	49	86	149
+P0ABA6	atpG	D51	ATP synthase gamma chain	SOL	0	4	279	13	32	260	333
+P77757	arnC		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	IMP	2	3	196	13	36		
+P0AEE3	degS	D52	Protease degS	SOL	1	1*	64	4	38	105	173
+P0ADC6	lptG yjgQ	D56	Lipopolysaccharide export system permease protein lptG	IMP	6	1*	71	3	40	139	212
+P0A9V1	lptB yhbG	D61	Lipopolysaccharide export system ATP-binding protein lptB	SOL	0	5	219	25	27	139	212
+P07014	sdhB	D65	Succinate dehydrogenase iron-sulfur subunit	SOL	0	4	222	20	27	364	425
+P64604	mlaD yrbD	D69	Probable phospholipid ABC transporter-binding protein mlaD	SOL	1	5	482	45	20	227	302
+P0AFD6	nuoI	D71	NADH-quinone oxidoreductase subunit I	SOL	0	3	57	17	21	563	584
+P0AEL0	fdoI		Formate dehydrogenase, cytochrome b556(fdo) subunit	IMP	4	1*	85	6	25	563	584
+P64604	mlaD yrbD		Probable phospholipid ABC transporter-binding protein mlaD	SOL	1	1*	44	7	20	563	584
+P0ADV9	lptC yrbK	D73	Lipopolysaccharide export system protein LptC	IMP	1	1*	105	9	22	139	212
+P69054	sdhC	D76	Succinate dehydrogenase cytochrome b556 subunit	IMP	3	4	135	43	14	364	425
+P0AC44	sdhD	D77	Succinate dehydrogenase hydrophobic membrane anchor subunit	IMP	3	2	53	9	13	364	425
+P0A6E6	atpC	D78	ATP synthase epsilon chain	SOL	0	3	274	55	15	264	337
+P0A8K1	psd	D102	Phosphatidylserine decarboxylase proenzyme	SOL	0	3	67	16	36	24	59
+P06149	dld	D103	D-lactate dehydrogenase	SOL	0	9	379	23	65	27	65
+P0A6Z3	htpG	D104	Chaperone protein htpG	SOL	0	4	118	10	71	28	67
+P0A9P0	lpdA	D105	Dihydrolipoyl dehydrogenase	SOL	0	3	173	11	51	59	114
+P69797	manX	D109	PTS system mannose-specific EIIAB component	SOL	0	2	45	10	62	402	457
+P10384	fadL	E5	Long-chain fatty acid transport protein	OMP	0	6	387	22	49	36	88
+P10384	fadL	E14	Long-chain fatty acid transport protein	OMP	0	6	360	22	49	36	88
+P0A908	yeaF mipA	E19	MltA-interacting protein	OMP	0	5	246	26	28	24	67
+P77330	ybcU borD	E102	Lipoprotein bor homolog from lambdoid prophage DLP12	LIP	0	4	111	37	10	29	75
+P77330	ybcU borD	E103	Lipoprotein bor homolog from lambdoid prophage DLP12	LIP	0	4	117	37	10	24	66
+P31554	lptD imp	F2	LPS-assembly protein (LptD)	OMP	0	9	495	21	90	111	179
+P13036	fecA	F8	Iron(III) dicitrate transport protein fecA	OMP	0	8	393	18	85	71	126
+P06971	fhuA	F9	Ferrichrome-iron receptor	OMP	0	8	231	19	82	83	142
+P0A910	ompA	F36	Outer membrane protein A	OMP	0	7	451	28	37	57	105
+P0A910	ompA	F37	Outer membrane protein A	OMP	0	7	474	28	37	37	74
+P0A910	ompA	F44	Outer membrane protein A	OMP	0	8	508	37	37	57	105
+P0A910	ompA	F46	Outer membrane protein A	OMP	0	8	530	37	37	37	74
+P0A927	tsx	F49	Nucleoside-specific channel-forming protein tsx	OMP	0	9	543	47	34	25	53
+P0ADC1	lptE rlpB	F54	LPS-assembly lipoprotein rlpB (LptE)	LIP	0	5	163	27	21	111	179
+P37194	slp	F56	Outer membrane protein slp	LIP	0	2	87	15	21	144	221
+P0A917	ompX	F57	Outer membrane protein X	OMP	0	6	569	70	19	57	105
+P0A915	ompW	F62	Outer membrane protein W	OMP	0	2	37	16	23	21	47
+P0A905	slyB	F64	Outer membrane lipoprotein slyB	LIP	0	4	203	38	16	348	450
+P0A940	bamA yaeT	G7	Outer membrane protein assembly factor yaeT/BamA	OMP	0	10	690	22	91	73	143
+P0A940	bamA yaeT	G8	Outer membrane protein assembly factor yaeT/BamA	OMP	0	10	590	22	91	85	157
+P0A940	bamA yaeT	G10	Outer membrane protein assembly factor yaeT/BamA	OMP	0	10	666	21	91	118	196
+P0A940	bamA yaeT	G12	Outer membrane protein assembly factor yaeT/BamA	OMP	0	9	689	8	91	221	299
+P0A940	bamA yaeT	G13	Outer membrane protein assembly factor yaeT/BamA	OMP	0	10	787	21	91	190	271
+P0A940	bamA yaeT	G14	Outer membrane protein assembly factor yaeT/BamA	OMP	0	9	646	21	91	177	258
+P0A940	bamA yaeT	G15	Outer membrane protein assembly factor yaeT/BamA	OMP	0	10	923	20	91	159	239
+P76115	yncD	G20	Probable tonB-dependent receptor yncD	SOL	0	1*	60	2	77	55	117
+P02930	tolC	G35	Outer membrane protein tolC	OMP	0	7	512	24	54	171	251
+P02930	tolC	G41	Outer membrane protein tolC	OMP	0	7	554	23	54	171	251
+P02943	lamB	G45	Maltoporin	OMP	0	7	493	24	50	112	189
+P02943	lamB	G49	Maltoporin	OMP	0	7	615	24	50	112	189
+P77774	bamB yfgL	G52	Lipoprotein yfgL/BamB	LIP	0	8	434	35	42	221	299
+P02931	ompF	G55	Outer membrane protein F	OMP	0	7	877	45	39	114	192
+P02931	ompF	G58	Outer membrane protein F	OMP	0	5	367	21	39	68	136
+P0AFB1	nlpI yhbM	G67	Lipoprotein nlpI	LIP	0	8	646	44	34	32	81
+P76506	mlaA vacJ	G73	Probable phospholipid-binding lipoprotein mlaA	LIP	0	2	56	7	28	132	211
+P0AC02	bamD yfiO	G74	UPF0169 lipoprotein yfiO/BamD	LIP	0	7	356	36	28	221	299
+P0AC02	bamD yfiO	G75	UPF0169 lipoprotein yfiO/BamD	LIP	0	7	446	42	28	194	274
+P0AC02	bamD yfiO	G76	UPF0169 lipoprotein yfiO/BamD	LIP	0	7	460	42	28	177	258
+P0AC02	bamD yfiO	G77	UPF0169 lipoprotein yfiO/BamD	LIP	0	7	335	42	28	164	245
+P69411	rcsF	G84	Protein rcsF	LIP	0	1*	79	10	14	362	417
+P0A937	bamE smpA	G88	Small protein A/BamE	LIP	0	2	136	49	12	221	299
+P75818	ybjP	G91	Uncharacterized lipoprotein ybjP	LIP	0	7	597	65	19	177	258
+P0A903	bamC nlpB	G92	Lipoprotein 34/BamC	LIP	0	7	409	32	37	221	299
+P0A903	bamC nlpB	G93	Lipoprotein 34/BamC	LIP	0	8	426	37	37	177	258

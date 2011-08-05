@@ -1,0 +1,116 @@
+Gene	Beginning	End	Strand	Description	Essential	Function	Original	New
+acpP	1150838	1151074	1	acyl carrier protein	?	F	b1094‡	
+araH	1980578	1981567	-1	ABC-type arabinose	N	F	b1898	b4460
+araH	1980578	1981567	-1	ABC-type arabinose	N	F	b1899	b4460
+arsR	3646551	3646904	1	transcriptional	?	?	b3501‡	
+b1228	1285932	1286207	1	hypothetical protein	E	?	b1228§	
+b1354	1417192	1417368	1	hypothetical protein	N	?	b1354	
+b2639	2770189	2770707	-1	putative pump protein	N	?	b2639	
+c0184	167332	167511	-1	hypothetical protein	X	?		
+c0500	407792	407944	-1	hypothetical protein	X	?		
+c0824	779463	779756	-1	hypothetical protein	X	?		
+c1294	1096978	1097129	-1	hypothetical protein	X	?		
+c1315	1112638	1112860	1	hypothetical protein	X	?		
+c1403	1647497	1648039	-1	hypothetical protein	X	?		
+c1472	581200	581343	-1	hypothetical protein	X	?		
+c1620	1223176	1223357	1	hypothetical protein	X	?		
+c1675	1268929	1269200	-1	hypothetical protein	X	?
+c1702	1292240	1292365	-1	hypothetical protein	X	?
+c2541	2085269	2085403	-1	hypothetical protein	X	?
+c2624	2176643	2176786	1	hypothetical protein	X	?
+c2993	2580697	2580954	1	hypothetical protein	X	?
+c3016	2618854	2619195	1	hypothetical protein	X	?
+c3045	2651343	2651495	1	hypothetical protein	X	?
+c3369	2931900	2932034	1	hypothetical protein	X	?
+c3421	2962188	2962387	1	hypothetical protein	X	?
+c3433	2974326	2974538	1	hypothetical protein	X	?
+c4352	3697527	3697661	1	hypothetical protein	X	?
+c4359	3703382	3703751	1	hypothetical protein	X	?
+c4363	3705689	3706094	-1	hypothetical protein	X	?
+c4868	4106353	4106487	1	hypothetical protein	X	?
+c4992	4233385	4233447	-1   hypothetical protein	X	?	
+c5055	4275920	4276154	1   hypothetical protein	X	?	
+c5065	4285224	4285419	1   hypothetical protein	X	?			
+c5129	4346390	4346545	1   hypothetical protein	X	?			
+c5270	4409863	4410009	-1   hypothetical protein	X	?			
+c5271	4409877	4410026	-1   hypothetical protein	X	?			
+c5334	4456927	4457308	-1   hypothetical protein	X	?			
+celC	1817479	1817829	-1	PEP-dependent	E	F	b1736||	
+cybC	4457576	4457878	1	Soluble cytochrome	?	F	b4236§	
+dgoR	3872494	3873183	-1	galactonate operon	N	?	b3694	b4479
+dgoR	3872494	3873183	-1	galactonate operon	N	?	b3695	b4479
+emrE	567538	567870	1	EmrE protein	N	F	b0543§	
+flgD	1131077	1131772	1	flagellar biosynthesis,	N	?	b1075	
+flgE	1131797	1133005	1	flagellar biosynthesis,	N	?	b1076	
+gatR	2167717	2169757	-1	Galactitol utilization	N	N	b2087	b4498
+gatR	2167717	2169757	-1	Galactitol utilization	N	N	b2090	b4498
+gnsB	1635633	1635809	-1	GnsB protein	?	F	b1550	
+hdfR	3945151	3945990	-1	Transcription regulator	N	F	b3762	b4480
+hdfR	3945151	3945990	-1	Transcription regulator	N	F	b3763	b4480
+icdA*	1210633	1210797	1	isocitrate	X	-		
+kdpE*	715947	716093	-1	regulator of kdp operon	X	-		
+lplA	4621124	4622140	-1	lipoate-protein ligase A	E	F	b4386§	
+mltA	2944103	2945200	-1	Membrane-bound lytic	N	F	b2813§	
+rhtB	4006462	4007082	-1	homoserine-homoserine	N	F	b3824||	
+rhtC	4005780	4006400	1	threonine efflux protein	N	F	b3823||	
+rtcA	3553855	3554871	-1	Chain B, Phosphate	N	F	b3419	b4475
+rtcA	3553855	3554871	-1	Chain B, Phosphate	N	F	b3420	b4475
+SF1157	1221294	1221468	1	hypothetical protein	X	-		
+SF1333	1388749	1388886	-1	hypothetical protein	X	-		
+SF1821	1438985	1439345	1	hypothetical protein	X	-		
+SF2066	2076467	2076892	1	hypothetical protein	X	-		
+SF3908	4013719	4013822	-1	putative enzyme	?	?	¶	b3830
+SF4150	4266227	4266630	-1   hypothetical protein	X	-			
+smf	3430458	3431582	-1	hypothetical protein	N	?	b3285||	b4473
+smf	3430458	3431582	-1	hypothetical protein	N	?	b3286	b4473
+tdcG	3256307	3257671	-1	L-serine dehydratase	N	F	b3111	b4471
+tdcG	3256307	3257671	-1	L-serine dehydratase	N	F	b3112	b4471
+yabP	58474	59124	1	Unknown function	N	?	b0056	
+yabQ	59121	59279	1	Unknown function	N	?	b0057	
+yagP	296605	297015	-1	putative LysR-like	N	?	b0282	
+yaiS	383283	383693	-1	Putative conserved	E	?	b0364‡	
+ybeM	657478	658041	1	putative amidase	?	?	b0626||	
+ybfO	733443	734876	1	Unknown function	N	?	b0703	
+ycgI	1222918	1223130	1	Putative conserved	X	?	b1173	
+yddJ	1542408	1542743	-1	Unknown function	N	?	b1470	
+yddK	1542782	1543738	-1	putative glycoportein	E	?	b1471	
+ydeT	1586877	1588025	-1	putative fimbrial usher	N	?	b1505	
+ydfA	1646532	1646687	1	hypothetical protein	?	?	b1571	
+yeeR	2072797	2074335	1	hypothetical protein	N	?	b2001	
+yeeS	2074332	2074778	1	hypothetical protein	N	?	b2002	
+yeeU	2075136	2075504	1	hypothetical protein	N	?	b2004	
+yfdP	2471542	2471988	1	hypothetical protein	N	?	b2359	
+yfjD	2746820	2748082	1	hypothetical protein	N	?	b2612||	b4461
+yfjD	2746820	2748082	1	hypothetical protein	N	?	b2613	b4461
+yfjU	2769862	2770176	-1	arsenate reductase	N	?	b2638	
+ygcU	2895986	2897440	-1	Putative conserved	N	?	b2772	b4463
+ygcU	2895986	2897440	-1	Putative conserved	N	?	b2773	b4463
+yggP	3074201	3075478	-1	hypothetical protein	N	?	b2931	b4465
+yggP	3074201	3075478	-1	hypothetical protein	N	?	b2932	b4465
+yghQ	3129363	3130430	-1	hypothetical protein	N	?	b2983	
+yibA*	3621518	3621868	1	putative lyase	X	-		
+yiiE	4077287	4077532	1	hypothetical protein	N	?	b3889	
+yijI	4139880	4140113	1	hypothetical protein	X	-	¶	
+yjgM	4477057	4477560	-1	hypothetical protein	X	?	b4256¶	
+yjgW	4497622	4497957	1	hypothetical protein	N	?	b4274	
+yjgX	4498066	4498512	-1	hypothetical protein	X	?	b4275	
+yjgY	4498455	4498904	-1	hypothetical protein	X	?	b4276	
+ykfC	272086	273216	1	hypothetical protein	N	?	b0258	
+ylbE	547838	548839	1	hypothetical protein	N	?	b0519	
+ylcE	582098	582283	1	hypothetical protein	?	?	b0563	
+ymfH	1200292	1200603	-1	hypothetical protein	N	?	b1142	
+yneF	1608931	1609878	-1	hypothetical protein	N	?	b1522||	
+yohG	2225345	2226541	-1	Putative	N	F	b2138§	
+ytfA	4425792	4426118	1	hypothetical protein	X	?	b4205	
+ytfR	4449081	4450583	1	putative ATP-binding	E	?	b4228	b4485
+ytfR	4449081	4450583	1	putative ATP-binding	E	?	b4229	b4485
+ytjB	4622168	4622812	-1	hypothetical protein	N	?	b4387	
+Z0020	19661	19795	-1	Unknown function	X	?		
+Z0039	34049	34265	-1	Unknown function	X	?		
+Z0362	310963	311189	-1	Unknown function	X	?		
+Z0377	316663	316788	1	putative dehydrogenase	X	?		
+Z3023	2009242	2009379	-1	putative secreted	X	?		
+Z5002	3748548	3748736	1	hypothetical protein	X	?
+Z5148	3837773	3838132	1	Unknown function	X	?
+Z5428	4076339	4076494	1	Unknown function	X	?
+Z5892	4533843	4534081	-1   Unknown function	X	?	

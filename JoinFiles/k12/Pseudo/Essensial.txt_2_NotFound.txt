@@ -1,0 +1,7 @@
+b1736	celC	b1736	1817479	1817829	-1	PEP-dependent	E	F	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b1736&sort=score")
+b4386	lplA	b4386	4621124	4622140	-1	lipoate-protein ligase A	E	F	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4386&sort=score")
+b0364	yaiS	b0364	383283	383693	-1	Putative conserved	E	?	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b0364&sort=score")
+b4047	yjbL	b4047	4258344	4258598	1	orf hypothetical protein	E	?	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4047&sort=score")
+b4048	yjbM	b4048	4258622	4259329	1	orf hypothetical protein	E	?	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4048&sort=score")
+b4215	ytfI	b4215	4435730	4436668	1	orf hypothetical protein	E	?	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4215&sort=score")
+b4228 b4485	ytfR	b4228 b4485	4449081	4450583	1	putative ATP-binding	E	?	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4228 b4485&sort=score")

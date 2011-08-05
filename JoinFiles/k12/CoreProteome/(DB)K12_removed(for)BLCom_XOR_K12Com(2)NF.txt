@@ -1,0 +1,1 @@
+P06965	P06965	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P06965&sort=score")

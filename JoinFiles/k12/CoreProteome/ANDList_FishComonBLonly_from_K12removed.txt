@@ -1,0 +1,80 @@
+P45541		P45541	Ohman pseudo
+P75936		P75936	Ohman pseudo 
+Q47153		Q47153	Uniprot pseudo 
+P75901		P75901	Uniprot pseudo 
+P36943		P36943	Uniprot pseudo 
+P42906		P42906	Uniprot pseudo 
+P37309		P37309	Ohman pseudo
+Q9S4W2		Q9S4W2	Plasmid F
+A5A625		A5A625	Uniprot pseudo 
+P06965		P06965	EcoGene Prophage Integrase 
+P06966		P06966	EcoGene Prophage Integrase 
+P0ADF3		P0ADF3	Ecogene/Uniprot pseudo
+P0ADQ5		P0ADQ5	Ohman pseudo
+P0AGC7		P0AGC7	Ohman pseudo
+P0CF79		P0CF79	Insertion Sequence;Transposase;Rhs Element;Prophage Integrase
+P0CG19		P0CG19	Uniprot pseudo 
+P18310		P18310	Plasmid F
+P27840		P27840	Ohman pseudo
+P28369		P28369	Uniprot pseudo 
+P30852		P30852	Ohman pseudo
+P31450		P31450	Uniprot pseudo
+P32051		P32051	Uniprot pseudo 
+P32690		P32690	Uniprot pseudo 
+P33227		P33227	Uniprot pseudo
+P33345		P33345	Uniprot pseudo 
+P33353		P33353	Uniprot pseudo 
+P33669		P33669	Uniprot pseudo 
+P33924		P33924	Uniprot pseudo;Insertion Sequence;Insertion Element 
+P37003		P37003	Uniprot pseudo 
+P37057		P37057	EcoGene Prophage Integrase 
+P37635		P37635	Uniprot pseudo 
+P37655		P37655	Uniprot pseudo 
+P39180		P39180	EcoGene Prophage Integrase 
+P39309		P39309	Uniprot pseudo 
+P39354		P39354	Uniprot pseudo 
+P39874		P39874	Uniprot pseudo 
+P42626		P42626	Ohman pseudo 
+P45505		P45505	Uniprot pseudo 
+P45766		P45766	Uniprot pseudo 
+P46856		P46856	Uniprot pseudo 
+P46879		P46879	EcoGene pseudo
+P52048		P52048	Ohman pseudo 
+P52137		P52137	Uniprot pseudo 
+P64526		P64526	Uniprot pseudo 
+P64562		P64562	Uniprot pseudo 
+P69789		P69789	Ohman pseudo
+P75675		P75675	Uniprot pseudo 
+P75684		P75684	Uniprot pseudo 
+P75717		P75717	Uniprot pseudo
+P75974		P75974	EcoGene Prophage Integrase 
+P76138		P76138	Uniprot pseudo
+P76147		P76147	Ohman pseudo ; 
+P76161		P76161	EcoGene Prophage Integrase 
+P76165		P76165	Uniprot pseudo
+P76356		P76356	Uniprot pseudo
+P76628		P76628	Uniprot pseudo
+P76692		P76692	Uniprot pseudo
+P77184		P77184	Uniprot pseudo;Insertion Sequence
+P77199		P77199	Uniprot pseudo 
+P77228		P77228	Uniprot pseudo
+P77300		P77300	EcoGene Prophage Integrase 
+P77481		P77481	Uniprot pseudo
+P77601		P77601	Uniprot pseudo
+P77609		P77609	EcoGene Prophage Integrase 
+P77688		P77688	Uniprot pseudo
+P77699		P77699	Uniprot pseudo
+Q2EEQ3		Q2EEQ3	Ecogene/Uniprot pseudo
+Q2EER5		Q2EER5	Uniprot pseudo
+Q2EES0		Q2EES0	EcoGene Prophage Integrase 
+Q46797		Q46797	Uniprot pseudo
+Q46817		Q46817	Ohman pseudo
+Q46833		Q46833	Uniprot pseudo 
+Q46840		Q46840	Uniprot pseudo 
+Q46911		Q46911	Ohman pseudo
+Q47154		Q47154	Uniprot pseudo
+Q47268		Q47268	EcoGene Prophage Integrase 
+Q47272		Q47272	EcoGene Prophage Integrase 
+Q47719		Q47719	Uniprot pseudo
+Q7DFU6		Q7DFU6	Uniprot pseudo;
+Q9JMS3		Q9JMS3	Plasmid F

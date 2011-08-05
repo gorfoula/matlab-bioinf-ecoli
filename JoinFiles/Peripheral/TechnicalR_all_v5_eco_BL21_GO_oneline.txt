@@ -1,0 +1,764 @@
+C6EAX1	peptidoglycan glycosyltransferase activity|transferase activity, transferring glycosyl groups|penicillin binding|transferase activity|catalytic activity	GO:0008955|GO:0016757|GO:0003824|GO:0016740|GO:0008658
+C6ECI0	isomerase activity|DNA topoisomerase activity|DNA topoisomerase (ATP-hydrolyzing) activity|DNA-dependent ATPase activity|DNA binding|nucleotide binding|ATP binding	GO:0003677|GO:0005524|GO:0016853|GO:0000166|GO:0003918|GO:0008094|GO:0003916
+C6EAT0	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EK35	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EH49	metallopeptidase activity|hydrolase activity|CTPase activity|nucleotide binding|ATP binding|manganese ion binding|peptidase activity|ATPase activity|zinc ion binding|metal ion binding	GO:0005524|GO:0008233|GO:0046872|GO:0016787|GO:0008237|GO:0000166|GO:0008270|GO:0043273|GO:0030145|GO:0016887
+C6EBF0	transferase activity|CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity	GO:0008444|GO:0016740
+C6EAB5	translation elongation factor activity|zinc ion binding	GO:0003746|GO:0008270
+C6ECY2	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EH28	glycolipid transporter activity	GO:0017089
+C6EH19	peptidoglycan glycosyltransferase activity|transferase activity	GO:0008955|GO:0016740
+C6EHX6	transferase activity, transferring acyl groups other than amino-acyl groups|transferase activity|1-acylglycerol-3-phosphate O-acyltransferase activity|acyltransferase activity	GO:0008415|GO:0016747|GO:0003841|GO:0016740
+C6EGG2	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EDD6	symporter activity	GO:0015293
+C6EFE8	oxidoreductase activity|glycerol-3-phosphate dehydrogenase activity|sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity|sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity	GO:0052590|GO:0004368|GO:0052591|GO:0016491
+C6E9S2	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity	GO:0050136|GO:0015453|GO:0048038|GO:0008137|GO:0016491
+C6EH15	oxidoreductase activity|iron-sulfur cluster binding|3 iron, 4 sulfur cluster binding|metal ion binding|glutamate synthase (NADPH) activity	GO:0046872|GO:0051536|GO:0051538|GO:0004355|GO:0016491
+C6EKK2	GMP synthase (glutamine-hydrolyzing) activity|GMP synthase activity|nucleotide binding|ligase activity|ATP binding	GO:0003922|GO:0005524|GO:0000166|GO:0003921|GO:0016874
+C6EEY6	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0000155|GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EDF8	transferase activity	GO:0016740
+C6EL22	isomerase activity|peptidyl-prolyl cis-trans isomerase activity	GO:0003755|GO:0016853
+C6EGV5	oxidoreductase activity|isocitrate dehydrogenase (NADP+) activity|metal ion binding	GO:0004450|GO:0046872|GO:0016491
+C6EAA0	acetyl-CoA carboxylase activity|nucleotide binding|ligase activity|ATP binding	GO:0003989|GO:0005524|GO:0000166|GO:0016874
+C6EE02	isomerase activity|pseudouridine synthase activity|RNA binding	GO:0003723|GO:0016853|GO:0009982
+C6ECW4	GDP binding|hydrolase activity|GTP binding|GTPase activity|nucleotide binding|metal ion binding	GO:0046872|GO:0016787|GO:0019003|GO:0000166|GO:0005525|GO:0003924
+C6ED59	antiporter activity	GO:0015297
+C6EH56	RNA binding	GO:0003723
+C6EF39	hydrolase activity|transferase activity|DNA-directed DNA polymerase activity|DNA binding|exonuclease activity|nuclease activity|nucleotidyltransferase activity	GO:0003887|GO:0003677|GO:0004527|GO:0016787|GO:0016779|GO:0016740|GO:0004518
+C6EAD5	hydrolase activity|drug binding|serine-type D-Ala-D-Ala carboxypeptidase activity|transferase activity, transferring glycosyl groups|transferase activity|catalytic activity|peptidoglycan glycosyltransferase activity|penicillin binding	GO:0003824|GO:0008955|GO:0016757|GO:0016787|GO:0009002|GO:0008144|GO:0016740|GO:0008658
+C6EE36	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EBX3	pyruvate kinase activity|transferase activity|kinase activity|nucleotide binding|catalytic activity|metal ion binding|ATP binding	GO:0046872|GO:0004743|GO:0005524|GO:0016301|GO:0000166|GO:0003824|GO:0016740
+C6EGH0	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EGM3	tripeptide transporter activity|oligopeptide-transporting ATPase activity	GO:0042937|GO:0015421
+C6ED13	solute:hydrogen symporter activity|symporter activity|uniporter activity	GO:0015292|GO:0015295|GO:0015293
+C6ECA6	hydrolase activity|magnesium-importing ATPase activity|nucleotide binding|metal ion binding|ATP binding	GO:0046872|GO:0005524|GO:0016787|GO:0000166|GO:0015444
+C6EB40	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EE54	transferase activity	GO:0016740
+C6EH00	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6ELB3	isomerase activity|oxidoreductase activity|lyase activity|enoyl-CoA hydratase activity|3-hydroxybutyryl-CoA epimerase activity|catalytic activity|3-hydroxyacyl-CoA dehydrogenase activity	GO:0016829|GO:0016853|GO:0003824|GO:0003857|GO:0008692|GO:0016491|GO:0004300
+C6EJQ6	transporter activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|transferase activity|kinase activity	GO:0016301|GO:0016740|GO:0008982|GO:0005215
+C6EG74	transaminase activity|transferase activity|glutamine-fructose-6-phosphate transaminase (isomerizing) activity	GO:0008483|GO:0016740|GO:0004360
+C6EE47	NAD(P)+ transhydrogenase (B-specific) activity|oxidoreductase activity	GO:0003957|GO:0016491
+C6EDL8	4 iron, 4 sulfur cluster binding|iron-sulfur cluster binding|2 iron, 2 sulfur cluster binding|metal ion binding	GO:0046872|GO:0051537|GO:0051539|GO:0051536
+C6E9S0	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity	GO:0050136|GO:0015453|GO:0048038|GO:0016491
+C6EE05	methyltransferase activity|cobalamin binding|transferase activity|metal ion binding|methionine synthase activity	GO:0046872|GO:0008705|GO:0031419|GO:0008168|GO:0016740
+C6EH26	hydrolase activity|lipopolysaccharide-transporting ATPase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166|GO:0015437
+C6EK05	methyltransferase activity|transferase activity	GO:0008168|GO:0016740
+C6EGE6	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EC91	hydrolase activity|peptidase activity|aminopeptidase activity|DNA binding|metal ion binding	GO:0046872|GO:0003677|GO:0008233|GO:0004177|GO:0016787
+C6EGJ9	sequence-specific DNA binding|DNA binding	GO:0003677|GO:0043565
+C6EI67	transferase activity|tetraacyldisaccharide 4'-kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0009029
+C6E9Y9	malate dehydrogenase (menaquinone) activity|malate dehydrogenase (quinone) activity|oxidoreductase activity	GO:0052589|GO:0008924|GO:0016491
+C6EGT1	antiporter activity|cation:cation antiporter activity|sodium:hydrogen antiporter activity	GO:0015385|GO:0015297|GO:0015491
+C6EGF6	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6ELD7	acetyl-CoA carboxylase activity|DNA binding|nucleotide binding|ATP binding|ligase activity|mRNA binding|RNA binding|zinc ion binding|metal ion binding	GO:0003989|GO:0003723|GO:0003729|GO:0003677|GO:0005524|GO:0016874|GO:0046872|GO:0000166|GO:0008270
+C6EED7	dipeptide transporter activity	GO:0042936
+C6EBI9	thymidine phosphorylase activity|transferase activity, transferring glycosyl groups|transferase activity	GO:0016757|GO:0009032|GO:0016740
+C6EAU3	dihydrolipoyllysine-residue acetyltransferase activity|lipoic acid binding|oxidoreductase activity|pyruvate dehydrogenase (acetyl-transferring) activity|metal ion binding	GO:0046872|GO:0004742|GO:0004739|GO:0031405|GO:0016491
+C6EK66	protein transporter activity	GO:0008565
+C6EDG1	transferase activity|kinase activity|nucleotide binding|ATP binding	GO:0005524|GO:0016301|GO:0000166|GO:0016740
+C6EDK8	RNA binding|tyrosine-tRNA ligase activity|nucleotide binding|aminoacyl-tRNA ligase activity|ligase activity|ATP binding	GO:0003723|GO:0005524|GO:0000166|GO:0004831|GO:0004812|GO:0016874
+C6EFC4	hydrolase activity|glycerol-3-phosphate-transporting ATPase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166|GO:0015430
+C6EE32	DNA-directed RNA polymerase activity|transferase activity|nucleotidyltransferase activity	GO:0003899|GO:0016779|GO:0016740
+C6EJK4	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor|oxidoreductase activity|iron ion binding|heme binding|metal ion binding	GO:0009055|GO:0046872|GO:0020037|GO:0016682|GO:0005506|GO:0016491
+C6EDE1	DNA-directed RNA polymerase activity|transferase activity|nucleotidyltransferase activity	GO:0003899|GO:0016779|GO:0016740
+C6EE31	DNA-directed RNA polymerase activity|transferase activity|nucleotidyltransferase activity	GO:0003899|GO:0016779|GO:0016740
+C6EF61	2-octaprenylphenol hydroxylase activity	GO:0019168
+C6EGF8	RNA binding|rRNA binding|tRNA binding	GO:0003723|GO:0000049|GO:0019843
+C6EFW8	isomerase activity|pseudouridine synthase activity|RNA binding	GO:0003723|GO:0016853|GO:0009982
+C6EB39	unfolded protein binding|protein homodimerization activity|protein disulfide isomerase activity|zinc ion binding|metal ion binding	GO:0046872|GO:0051082|GO:0003756|GO:0008270|GO:0042803
+C6EDP5	NAD(P)+ transhydrogenase (AB-specific) activity|oxidoreductase activity	GO:0016491|GO:0008750
+C6EB06	antiporter activity|glutathione-regulated potassium exporter activity|enzyme binding|toxin binding|protein homodimerization activity	GO:0015503|GO:0015643|GO:0015297|GO:0019899|GO:0042803
+C6EKZ9	mechanically-gated ion channel activity	GO:0008381
+C6ECY9	oxidoreductase activity|protein-disulfide reductase activity	GO:0047134|GO:0016491
+Entry Name BL21(DE3)	hydroxyacylglutathione hydrolase activity	GO:0004416
+C6EJL1	lipoic acid binding|dihydrolipoyllysine-residue succinyltransferase activity|binding|transferase activity|acyltransferase activity	GO:0008415|GO:0004149|GO:0016740|GO:0005488|GO:0031405
+C6EK01	CDP-diacylglycerol-serine O-phosphatidyltransferase activity|transferase activity	GO:0003882|GO:0016740
+C6EH01	zinc ion binding	GO:0008270
+C6E9U4	hydrolase activity|hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	GO:0016787|GO:0016811
+C6ECY6	lyase activity|aspartate ammonia-lyase activity	GO:0016829|GO:0008797
+C6EEY0	hydrolase activity|CDP-diacylglycerol diphosphatase activity	GO:0016787|GO:0008715
+C6EGW6	polyamine-transporting ATPase activity	GO:0015417
+C6ECQ5	magnesium ion binding|transferase activity|kinase activity|pyruvate, water dikinase activity|nucleotide binding|metal ion binding|ATP binding	GO:0008986|GO:0000287|GO:0046872|GO:0005524|GO:0016301|GO:0000166|GO:0016740
+C6EFG9	two-component response regulator activity|DNA binding	GO:0003677|GO:0000156
+C6EGH6	ion channel activity|mechanically-gated ion channel activity	GO:0008381|GO:0005216
+C6EF52	isomerase activity|oxidoreductase activity|lyase activity|enoyl-CoA hydratase activity|3-hydroxybutyryl-CoA epimerase activity|3-hydroxyacyl-CoA dehydrogenase activity|catalytic activity|dodecenoyl-CoA delta-isomerase activity	GO:0016829|GO:0016853|GO:0003857|GO:0003824|GO:0004165|GO:0008692|GO:0016491|GO:0004300
+C6EKJ3	DNA binding	GO:0003677
+C6EEG1	transporter activity	GO:0005215
+C6EA85	hydrolase activity|ATPase activity|nucleotide binding|ATP binding|D-methionine transmembrane transporter activity	GO:0016787|GO:0005524|GO:0000166|GO:0048474|GO:0016887
+C6EFI0	hydrolase activity|peptidoglycan glycosyltransferase activity|serine-type D-Ala-D-Ala carboxypeptidase activity|transferase activity, transferring glycosyl groups|transferase activity|penicillin binding|catalytic activity	GO:0008955|GO:0016787|GO:0016757|GO:0009002|GO:0016740|GO:0003824|GO:0008658
+C6EK28	tRNA-specific adenosine deaminase activity	GO:0008251
+C6EII5	ion channel activity|mechanically-gated ion channel activity	GO:0008381|GO:0005216
+C6EC13	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity	GO:0016301|GO:0016740|GO:0008982
+C6EI37	oxidoreductase activity|dihydroorotate dehydrogenase activity	GO:0004152|GO:0016491
+C6EI54	L-aspartate:2-oxoglutarate aminotransferase activity|pyridoxal phosphate binding|transaminase activity|transferase activity|protein homodimerization activity|kynurenine-oxoglutarate transaminase activity|L-tyrosine:2-oxoglutarate aminotransferase activity	GO:0004838|GO:0008483|GO:0016740|GO:0016212|GO:0004069|GO:0042803|GO:0030170
+C6EHG3	transferase activity, transferring glycosyl groups|transferase activity	GO:0016757|GO:0016740
+C6EAP0	diguanylate cyclase activity|GTP binding|transferase activity|nucleotide binding|metal ion binding	GO:0046872|GO:0052621|GO:0000166|GO:0016740|GO:0005525
+C6EKS4	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity	GO:0016301|GO:0016740|GO:0008982
+C6EE49	argininosuccinate synthase activity|lyase activity|argininosuccinate lyase activity|ATP binding	GO:0016829|GO:0005524|GO:0004056|GO:0004055
+C6EE50	transferase activity|nucleotide binding|ATP binding|acetylornithine deacetylase activity|cobalt ion binding|kinase activity|acetylglutamate kinase activity|zinc ion binding	GO:0005524|GO:0000166|GO:0008777|GO:0003991|GO:0016301|GO:0008270|GO:0016740|GO:0050897
+C6EDX9	glycerol-3-phosphate O-acyltransferase activity|transferase activity|acyltransferase activity	GO:0008415|GO:0004366|GO:0016740
+C6EAB7	hydrolase activity|peptidase activity|metalloaminopeptidase activity|ferrous iron binding|aminopeptidase activity|metal ion binding	GO:0046872|GO:0008233|GO:0004177|GO:0016787|GO:0070006|GO:0008198
+C6E9Y2	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0000155|GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EAW0	protein binding|GTP binding|GTPase activity|nucleotide binding	GO:0005515|GO:0000166|GO:0005525|GO:0003924
+C6E9S3	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity	GO:0050136|GO:0015453|GO:0048038|GO:0008137|GO:0016491
+C6EGF3	RNA binding|rRNA binding|tRNA binding	GO:0003723|GO:0000049|GO:0019843
+C6EJI7	DNA binding	GO:0003677
+C6EA06	metal ion binding	GO:0046872
+C6EI27	hydrolase activity|serine-type peptidase activity|peptidase activity	GO:0016787|GO:0008233|GO:0008236
+C6EAL9	oxidoreductase activity|oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor|galactitol-1-phosphate 5-dehydrogenase activity|metal ion binding	GO:0046872|GO:0016616|GO:0008868|GO:0016491
+C6EBG1	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity|transferase activity	GO:0004801|GO:0016740
+C6EGX4	lipoprotein transporter activity	GO:0042954
+C6EHC4	transferase activity, transferring acyl groups other than amino-acyl groups|transferase activity	GO:0016747|GO:0016740
+C6EC00	metallopeptidase activity|hydrolase activity|peptidase activity|metalloendopeptidase activity|zinc ion binding|metal ion binding	GO:0046872|GO:0008237|GO:0004222|GO:0008233|GO:0016787|GO:0008270
+C6EJL0	succinate-CoA ligase (ADP-forming) activity|nucleotide binding|metal ion binding|ATP binding|ligase activity	GO:0004775|GO:0046872|GO:0005524|GO:0000166|GO:0016874
+C6EJ86	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EJK9	succinate-CoA ligase (ADP-forming) activity|nucleotide binding|ligase activity|ATP binding	GO:0004775|GO:0005524|GO:0000166|GO:0016874
+C6EF48	oxygen-dependent protoporphyrinogen oxidase activity|oxidoreductase activity|FMN binding|menaquinone-dependent protoporphyrinogen oxidase activity	GO:0010181|GO:0070819|GO:0016491|GO:0004729
+C6EG98	membrane insertase activity	GO:0032977
+C6EJL5	electron carrier activity|heme binding|metal ion binding	GO:0009055|GO:0046872|GO:0020037
+C6EH61	polyribonucleotide nucleotidyltransferase activity|RNA binding|transferase activity|nucleotidyltransferase activity	GO:0003723|GO:0016779|GO:0004654|GO:0016740
+C6EI68	hydrolase activity|drug binding|lipopolysaccharide-transporting ATPase activity|lipid transporter activity|nucleotide binding|ATP binding|lipid binding|lipid-transporting ATPase activity	GO:0005524|GO:0005319|GO:0008289|GO:0016787|GO:0008144|GO:0015437|GO:0000166|GO:0034040
+C6EKZ1	ATPase activity, coupled|nucleotide binding|ATP binding	GO:0005524|GO:0000166|GO:0042623
+C6EAT9	4 iron, 4 sulfur cluster binding|lyase activity|mRNA 3'-UTR binding|isocitrate hydro-lyase (cis-aconitate-forming) activity|aconitate hydratase activity|2-methylisocitrate dehydratase activity|citrate hydro-lyase (cis-aconitate-forming) activity|iron-sulfur cluster binding|mRNA binding|metal ion binding	GO:0003729|GO:0003730|GO:0051536|GO:0003994|GO:0047456|GO:0046872|GO:0016829|GO:0051539|GO:0052632|GO:0052633
+C6EC50	oxidoreductase activity|glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	GO:0016491|GO:0004365
+C6E9U3	transferase activity, transferring pentosyl groups|transferase activity, transferring glycosyl groups|transferase activity	GO:0016763|GO:0016757|GO:0016740
+C6EDN9	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EJN9	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EJL4	electron carrier activity|oxidoreductase activity|flavin adenine dinucleotide binding|succinate dehydrogenase activity	GO:0009055|GO:0000104|GO:0050660|GO:0016491
+C6EC90	lipopolysaccharide-transporting ATPase activity	GO:0015437
+C6EGE7	RNA binding|rRNA binding|translation repressor activity	GO:0003723|GO:0030371|GO:0019843
+C6EIY5	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP-dependent RNA helicase activity|ATP binding	GO:0003723|GO:0016787|GO:0004004|GO:0005524|GO:0000166|GO:0004386
+C6EDJ3	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity	GO:0016301|GO:0016740|GO:0008982
+C6EBZ8	enzyme activator activity	GO:0008047
+C6EFY7	transferase activity|cardiolipin synthase activity	GO:0008808|GO:0016740
+C6EHC9	hydrolase activity|RNA binding|nuclease activity|endonuclease activity	GO:0003723|GO:0016787|GO:0004519|GO:0004518
+C6EK14	sigma factor activity|DNA binding	GO:0003677|GO:0016987
+C6EJL8	transferase activity|citrate (Si)-synthase activity|catalytic activity	GO:0016740|GO:0003824|GO:0004108
+C6EDH2	pyridoxal phosphate binding|transferase activity|glycine C-acetyltransferase activity|acyltransferase activity|ligase activity|metal ion binding	GO:0008415|GO:0046872|GO:0016740|GO:0030170|GO:0008890|GO:0016874
+C6EGF9	structural constituent of ribosome	GO:0003735
+C6EHW7	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EF60	protein transporter activity|proton motive force dependent protein transmembrane transporter activity	GO:0009977|GO:0008565
+C6ELB2	transferase activity|acetyl-CoA C-acyltransferase activity|acyltransferase activity	GO:0008415|GO:0003988|GO:0016740
+C6EI58	GTP binding|DNA binding|nucleotide binding|ATP binding	GO:0003677|GO:0005524|GO:0000166|GO:0005525
+C6EK19	hydrolase activity|peptidase activity|toxin binding	GO:0016787|GO:0008233|GO:0015643
+C6EBK1	methyltransferase activity|transferase activity|rRNA (guanine-N2-)-methyltransferase activity	GO:0008990|GO:0008168|GO:0016740
+C6EHT0	structural constituent of ribosome	GO:0003735
+C6EGZ7	hydrolase activity|serine-type peptidase activity|peptidase activity|serine-type endopeptidase activity	GO:0004252|GO:0016787|GO:0008233|GO:0008236
+C6EGP2	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EDY0	transferase activity|transferase activity, transferring alkyl or aryl (other than methyl) groups|4-hydroxybenzoate octaprenyltransferase activity	GO:0016765|GO:0008412|GO:0016740
+C6EJK5	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors|oxidoreductase activity|heme binding|metal ion binding	GO:0009055|GO:0046872|GO:0020037|GO:0016679|GO:0016491
+C6EBH0	two-component response regulator activity|DNA binding	GO:0003677|GO:0000156
+C6EE73	RNA binding|rRNA binding|metal ion binding	GO:0046872|GO:0003723|GO:0019843
+C6EG71	hydrolase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166
+C6E9Y8	peptide transporter activity|nucleotide binding|ATP binding	GO:0005524|GO:0015197|GO:0000166
+C6EDG8	O antigen ligase activity|ligase activity	GO:0008754|GO:0016874
+C6EEV0	hydrolase activity|helicase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166|GO:0004386
+C6ED10	transferase activity	GO:0016740
+C6EDF9	transferase activity, transferring glycosyl groups|transferase activity	GO:0016757|GO:0016740
+C6ECH6	ribosome binding|rRNA binding|GTP binding|nucleotide binding|ATP binding	GO:0043022|GO:0005524|GO:0000166|GO:0005525|GO:0019843
+C6EDK7	oxidoreductase activity|FMN binding|pyridoxamine-phosphate oxidase activity	GO:0004733|GO:0010181|GO:0016491
+C6EAU2	dihydrolipoyllysine-residue acetyltransferase activity|transferase activity|acyltransferase activity	GO:0008415|GO:0004742|GO:0016740
+C6EKX1	oxidoreductase activity	GO:0016491
+C6EI93	sequence-specific DNA binding|DNA binding	GO:0003677|GO:0043565
+C6EEF5	succinate transmembrane transporter activity|fumarate transmembrane transporter activity|L-aspartate transmembrane transporter activity|symporter activity|malate:hydrogen symporter activity	GO:0015138|GO:0015183|GO:0015141|GO:0015293|GO:0015366
+C6EH17	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding|histidine phosphotransfer kinase activity	GO:0000155|GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0009927|GO:0004673
+C6E9S4	oxidoreductase activity|quinone binding|NADH dehydrogenase (quinone) activity	GO:0050136|GO:0048038|GO:0016491
+C6EHJ1	symporter activity|uniporter activity	GO:0015292|GO:0015293
+C6ED60	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EFA5	hydrolase activity|zinc-exporting ATPase activity|cadmium-exporting ATPase activity|nucleotide binding|metal ion binding|ATP binding	GO:0046872|GO:0008551|GO:0005524|GO:0016787|GO:0016463|GO:0000166
+C6ECP5	DNA binding	GO:0003677
+C6EAW8	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity|transferase activity|phospho-N-acetylmuramoyl-pentapeptide-transferase activity	GO:0051992|GO:0016740|GO:0008963
+C6EKY6	antiporter activity	GO:0015297
+C6EGF2	structural constituent of ribosome|SSU rRNA binding|RNA binding|rRNA binding	GO:0003723|GO:0070181|GO:0003735|GO:0019843
+C6EH63	hydrolase activity|RNA helicase activity|RNA binding|helicase activity|nucleotide binding|ATP-dependent RNA helicase activity|ATP binding	GO:0003723|GO:0016787|GO:0004004|GO:0005524|GO:0000166|GO:0003724|GO:0004386
+C6E9S1	4 iron, 4 sulfur cluster binding|oxidoreduction-driven active transmembrane transporter activity|oxidoreductase activity|quinone binding|iron-sulfur cluster binding|NADH dehydrogenase (quinone) activity|metal ion binding	GO:0050136|GO:0046872|GO:0015453|GO:0051539|GO:0048038|GO:0051536|GO:0016491
+C6EJY2	RNA binding|GTP binding|GTPase activity|nucleotide binding	GO:0003723|GO:0000166|GO:0005525|GO:0003924
+C6EH02	structural constituent of ribosome|RNA binding|tRNA binding	GO:0003723|GO:0003735|GO:0000049
+C6EL55	hydrolase activity|sulfate transmembrane-transporting ATPase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166|GO:0015419
+C6EAA9	metallopeptidase activity|hydrolase activity|peptidase activity|metal ion binding	GO:0046872|GO:0008237|GO:0008233|GO:0016787
+C6EE34	RNA binding	GO:0003723
+C6EG33	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP binding	GO:0003723|GO:0016787|GO:0005524|GO:0000166|GO:0004386
+C6EEJ8	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EKY0	hydrolase activity|glutaminase activity|nucleotide binding|hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances|metal ion binding|ATP binding	GO:0046872|GO:0016787|GO:0005524|GO:0016820|GO:0000166|GO:0004359
+C6EA67	oxidoreductase activity	GO:0016491
+C6EHQ5	neutral amino acid:sodium symporter activity|symporter activity	GO:0005295|GO:0015293
+C6EG56	symporter activity	GO:0015293
+C6E9R5	4 iron, 4 sulfur cluster binding|iron-sulfur cluster binding|quinone binding|oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity|metal ion binding	GO:0050136|GO:0015453|GO:0046872|GO:0051539|GO:0048038|GO:0008137|GO:0051536|GO:0016491
+C6EHX4	isomerase activity|DNA topoisomerase activity|DNA binding	GO:0003677|GO:0016853|GO:0003916
+C6EFW5	hydrolase activity|serine-type peptidase activity|peptidase activity	GO:0016787|GO:0008233|GO:0008236
+C6EK58	drug binding|serine-type D-Ala-D-Ala carboxypeptidase activity|carboxypeptidase activity|penicillin binding|catalytic activity	GO:0004180|GO:0008144|GO:0009002|GO:0003824|GO:0008658
+C6EG69	hydrolase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166
+C6EL14	hydrolase activity|xenobiotic-transporting ATPase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166|GO:0008559
+C6EAV7	nucleotide binding|metal ion binding|ATP binding	GO:0046872|GO:0005524|GO:0000166
+C6EGN0	DNA binding	GO:0003677
+C6EJZ8	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EGC3	mRNA binding|RNA binding|tRNA binding|rRNA binding	GO:0003729|GO:0003723|GO:0000049|GO:0019843
+C6EI70	DNA binding	GO:0003677
+C6EJ32	acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase activity|transferase activity|catalytic activity|nucleotide binding|ligase activity|acyltransferase activity|ATP binding|long-chain fatty acid [acyl-carrier-protein] ligase activity	GO:0008415|GO:0008922|GO:0008779|GO:0005524|GO:0000166|GO:0003824|GO:0016740|GO:0016874
+C6EAM7	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6EA12	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EGF7	structural constituent of ribosome|RNA binding|rRNA binding	GO:0003723|GO:0003735|GO:0019843
+C6EDP6	NAD(P)+ transhydrogenase (AB-specific) activity|oxidoreductase activity	GO:0016491|GO:0008750
+C6EAU1	dihydrolipoyl dehydrogenase activity|disulfide oxidoreductase activity|oxidoreductase activity|flavin adenine dinucleotide binding|zinc ion binding	GO:0015036|GO:0004148|GO:0050660|GO:0008270|GO:0016491
+C6EA31	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity	GO:0016301|GO:0016740|GO:0008982
+C6EIG8	galactose:hydrogen symporter activity|symporter activity	GO:0015293|GO:0015517
+C6EGZ6	L-malate dehydrogenase activity|oxidoreductase activity|malate dehydrogenase activity	GO:0016615|GO:0030060|GO:0016491
+C6EAJ7	methionine-tRNA ligase activity|tRNA binding|nucleotide binding|ATP binding|ligase activity|RNA binding|aminoacyl-tRNA ligase activity|metal ion binding	GO:0003723|GO:0005524|GO:0004825|GO:0000049|GO:0016874|GO:0046872|GO:0000166|GO:0004812
+C6ECA8	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity	GO:0016301|GO:0016740|GO:0008982
+C6EGS8	oxidoreductase activity|D-amino-acid dehydrogenase activity	GO:0008718|GO:0016491
+C6EKZ0	magnesium ion binding|transferase activity|nucleotide binding|kinase activity|ATP binding|adenylate kinase activity|AMP binding	GO:0000287|GO:0005524|GO:0000166|GO:0016208|GO:0016301|GO:0016740|GO:0004017
+C6EG28	drug binding|phosphotransferase activity, for other substituted phosphate groups|manganese ion binding|transferase activity, transferring glycosyl groups|magnesium ion binding|transferase activity|phospho-N-acetylmuramoyl-pentapeptide-transferase activity	GO:0000287|GO:0016757|GO:0008144|GO:0016780|GO:0016740|GO:0030145|GO:0008963
+C6EHF9	transferase activity|acyltransferase activity	GO:0008415|GO:0016740
+C6EDM4	hydrolase activity|adenosine deaminase activity|metal ion binding	GO:0046872|GO:0016787|GO:0004000
+C6EJL3	electron carrier activity|4 iron, 4 sulfur cluster binding|3 iron, 4 sulfur cluster binding|oxidoreductase activity|iron-sulfur cluster binding|2 iron, 2 sulfur cluster binding|succinate dehydrogenase activity|metal ion binding	GO:0009055|GO:0051537|GO:0051536|GO:0000104|GO:0046872|GO:0051539|GO:0016491|GO:0051538
+C6EGE8	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EGG3	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EB19	nucleotide binding|carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity|metal ion binding|ATP binding|ligase activity	GO:0046872|GO:0005524|GO:0000166|GO:0004088|GO:0016874
+C6EG12	methyltransferase activity|uroporphyrin-III C-methyltransferase activity|transferase activity	GO:0008168|GO:0016740|GO:0004851
+C6EIK5	glycine dehydrogenase (decarboxylating) activity|oxidoreductase activity	GO:0016491|GO:0004375
+C6EKU1	isomerase activity|peptidyl-prolyl cis-trans isomerase activity	GO:0003755|GO:0016853
+C6EL34	hydrogen ion transmembrane transporter activity|electron carrier activity|oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|ubiquinone binding	GO:0009055|GO:0015453|GO:0015078|GO:0048039|GO:0016491
+C6EEI7	metallopeptidase activity|hydrolase activity|peptidase activity|metal ion binding	GO:0046872|GO:0008237|GO:0008233|GO:0016787
+C6ECY3	unfolded protein binding	GO:0051082
+C6E9R9	4 iron, 4 sulfur cluster binding|oxidoreduction-driven active transmembrane transporter activity|oxidoreductase activity|quinone binding|iron-sulfur cluster binding|NADH dehydrogenase (quinone) activity|2 iron, 2 sulfur cluster binding|metal ion binding	GO:0050136|GO:0051537|GO:0015453|GO:0046872|GO:0051539|GO:0048038|GO:0051536|GO:0016491
+C6EL35	hydrogen ion transmembrane transporter activity|electron carrier activity|ubiquinone binding|cytochrome bo3 ubiquinol oxidase activity|copper ion binding|heme binding|oxidoreduction-driven active transmembrane transporter activity|oxidoreductase activity|metal ion binding	GO:0009055|GO:0020037|GO:0048039|GO:0015453|GO:0046872|GO:0005507|GO:0009486|GO:0015078|GO:0016491
+C6EBA0	transferase activity|protein kinase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0004672|GO:0016301|GO:0016740|GO:0004673
+C6EL29	isomerase activity|protein binding involved in protein folding|peptidyl-prolyl cis-trans isomerase activity|ribosome binding	GO:0043022|GO:0003755|GO:0016853|GO:0044183
+C6EG40	4 iron, 4 sulfur cluster binding|lyase activity|iron-sulfur cluster binding|dihydroxy-acid dehydratase activity|metal ion binding	GO:0046872|GO:0004160|GO:0016829|GO:0051539|GO:0051536
+C6EAB6	structural constituent of ribosome|zinc ion binding	GO:0008270|GO:0003735
+C6EA23	undecaprenyl-diphosphatase activity|phosphotransferase activity, phosphate group as acceptor	GO:0050380|GO:0016776
+C6EJY0	quinoprotein glucose dehydrogenase activity|pyrroloquinoline quinone binding|ubiquinone binding|magnesium ion binding	GO:0000287|GO:0008876|GO:0070968|GO:0048039
+C6EKY9	lyase activity|ferrochelatase activity|metal ion binding	GO:0046872|GO:0016829|GO:0004325
+C6ECE9	structural constituent of ribosome|RNA binding|rRNA binding	GO:0003723|GO:0003735|GO:0019843
+C6EDH0	transferase activity, transferring glycosyl groups|transferase activity	GO:0016757|GO:0016740
+C6EGX5	hydrolase activity|lipoprotein transporter activity|nucleotide binding|ATP binding	GO:0016787|GO:0042954|GO:0005524|GO:0000166
+C6EGG9	structural constituent of ribosome|SSU rRNA binding|RNA binding|rRNA binding	GO:0003723|GO:0070181|GO:0003735|GO:0019843
+C6EAE1	polynucleotide adenylyltransferase activity|RNA binding|transferase activity|nucleotide binding|ATP binding	GO:0003723|GO:0004652|GO:0005524|GO:0000166|GO:0016740
+C6EGW2	protein histidine kinase activity|transferase activity|kinase activity|nucleotide binding|metal ion binding|ATP binding	GO:0046872|GO:0005524|GO:0016301|GO:0000166|GO:0016740|GO:0004673
+C6ELS0	oxidoreductase activity|choline dehydrogenase activity	GO:0008812|GO:0016491
+C6EJW5	L-2-hydroxyglutarate oxidase activity|(S)-2-hydroxy-acid oxidase activity|oxidoreductase activity|flavin adenine dinucleotide binding	GO:0003973|GO:0034419|GO:0050660|GO:0016491
+C6EJN7	hydrolase activity|two-component sensor activity|potassium-transporting ATPase activity|aspartate kinase activity|nucleotide binding|metal ion binding|ATP binding	GO:0000155|GO:0046872|GO:0004072|GO:0005524|GO:0016787|GO:0000166|GO:0008556
+C6EFE5	transferase activity, transferring glycosyl groups|starch synthase activity|transferase activity	GO:0016757|GO:0009011|GO:0016740
+C6EGC2	structural constituent of ribosome|RNA binding|tRNA binding|rRNA binding|misfolded RNA binding	GO:0034336|GO:0003723|GO:0000049|GO:0003735|GO:0019843
+C6EGF1	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EK07	formate C-acetyltransferase activity|transferase activity|acyltransferase activity	GO:0008415|GO:0008861|GO:0016740
+C6EE39	GTP binding|translation elongation factor activity|nucleotide binding	GO:0000166|GO:0003746|GO:0005525
+C6ECP1	structural constituent of ribosome|RNA binding|rRNA binding|translation repressor activity, nucleic acid binding	GO:0000900|GO:0003723|GO:0003735|GO:0019843
+C6EG89	solute:hydrogen symporter activity|adenine transmembrane transporter activity	GO:0015207|GO:0015295
+C6EGG0	RNA binding|translation repressor activity|rRNA binding	GO:0003723|GO:0030371|GO:0019843
+C6EGG5	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EEX9	isomerase activity|triose-phosphate isomerase activity	GO:0016853|GO:0004807
+C6EAB9	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity|transferase activity|acyltransferase activity	GO:0008415|GO:0008666|GO:0016740
+C6EL15	hydrolase activity|xenobiotic-transporting ATPase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166|GO:0008559
+C6EDW8	hydrolase activity|helicase activity|DNA binding|nucleotide binding|ATP binding	GO:0003677|GO:0016787|GO:0005524|GO:0000166|GO:0004386
+C6EE78	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EH42	RNA binding|rRNA binding|tRNA binding	GO:0003723|GO:0000049|GO:0019843
+C6EAW5	UDP-N-acetyl-D-glucosamine:N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase activity|transferase activity, transferring glycosyl groups|undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity|transferase activity	GO:0051991|GO:0016757|GO:0050511|GO:0016740
+C6EG17	transferase activity, transferring glycosyl groups|transferase activity	GO:0016757|GO:0016740
+C6EGF5	structural constituent of ribosome|SSU rRNA binding|RNA binding|rRNA binding	GO:0003723|GO:0070181|GO:0003735|GO:0019843
+C6EGB3	antiporter activity	GO:0015297
+C6EG68	ATP phosphoribosyltransferase activity	GO:0003879
+C6EJL2	oxoglutarate dehydrogenase (succinyl-transferring) activity|oxidoreductase activity	GO:0004591|GO:0016491
+C6EK18	hydrolase activity|GTP binding|translation elongation factor activity|GTPase activity|nucleotide binding	GO:0016787|GO:0000166|GO:0003746|GO:0005525|GO:0003924
+C6EIX3	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EII3	phosphoglycerate kinase activity|transferase activity|nucleotide binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004618
+C6EGK4	biotin carboxylase activity|acetyl-CoA carboxylase activity|nucleotide binding|ligase activity|ATP binding	GO:0003989|GO:0004075|GO:0005524|GO:0000166|GO:0016874
+C6EB51	transferase activity	GO:0016740
+C6ED48	symporter activity	GO:0015293
+C6EKJ1	nucleoside diphosphate kinase activity|transferase activity|kinase activity|identical protein binding|nucleotide binding|metal ion binding|ATP binding	GO:0046872|GO:0005524|GO:0016301|GO:0042802|GO:0000166|GO:0016740|GO:0004550
+C6EGZ9	oxidoreductase activity	GO:0016491
+C6EI96	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EGC4	GTP binding|translation elongation factor activity|nucleotide binding	GO:0000166|GO:0003746|GO:0005525
+C6EJZ9	symporter activity	GO:0015293
+C6EI71	RNA binding	GO:0003723
+C6EC44	diguanylate cyclase activity|transferase activity|metal ion binding	GO:0046872|GO:0052621|GO:0016740
+C6EKH7	pyridoxal phosphate binding|transferase activity|selenocysteine lyase activity|cysteine desulfurase activity	GO:0009000|GO:0016740|GO:0030170|GO:0031071
+C6ELF7	transferase activity|acetate kinase activity|nucleotide binding|zinc ion binding|kinase activity|ATP binding	GO:0005524|GO:0000166|GO:0016301|GO:0008270|GO:0016740|GO:0008776
+C6EHS8	sigma factor activity|DNA binding	GO:0003677|GO:0016987
+C6EFG5	GTP binding|nucleotide binding	GO:0000166|GO:0005525
+C6EGH1	DNA-directed RNA polymerase activity|transferase activity|zinc ion binding|nucleotidyltransferase activity	GO:0003899|GO:0016779|GO:0008270|GO:0016740
+C6EG30	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP binding	GO:0003723|GO:0016787|GO:0005524|GO:0000166|GO:0004386
+C6EGE9	RNA binding|rRNA binding|zinc ion binding	GO:0003723|GO:0008270|GO:0019843
+C6EE18	DNA binding	GO:0003677
+C6E9R6	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity|catalytic activity	GO:0050136|GO:0015453|GO:0003824|GO:0048038|GO:0008137|GO:0016491
+C6EI95	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EFF9	gluconate transmembrane transporter activity	GO:0015128
+C6EIA2	hydrolase activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166
+C6ECE6	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6ECH0	hydrolase activity|RNA binding|exoribonuclease II activity|exonuclease activity|nuclease activity	GO:0004527|GO:0003723|GO:0016787|GO:0008859|GO:0004518
+C6ED12	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0000155|GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6E9R4	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity	GO:0050136|GO:0015453|GO:0048038|GO:0008137|GO:0016491
+C6EBX2	transferase activity|acyltransferase activity	GO:0008415|GO:0016740
+C6EKJ4	4 iron, 4 sulfur cluster binding|4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity|oxidoreductase activity|iron-sulfur cluster binding|metal ion binding	GO:0046872|GO:0051539|GO:0046429|GO:0051536|GO:0016491
+C6EHJ3	oxidoreductase activity|proline dehydrogenase activity|DNA binding|sequence-specific DNA binding transcription factor activity|flavin adenine dinucleotide binding|catalytic activity|1-pyrroline-5-carboxylate dehydrogenase activity	GO:0003677|GO:0004657|GO:0050660|GO:0003824|GO:0003700|GO:0016491|GO:0003842
+C6EJ92	CTP synthase activity|nucleotide binding|ligase activity|ATP binding	GO:0005524|GO:0000166|GO:0016874|GO:0003883
+C6ECJ1	hydrolase activity|serine-type peptidase activity|peptidase activity	GO:0016787|GO:0008233|GO:0008236
+C6EGX6	lipoprotein transporter activity	GO:0042954
+C6EFY6	ion channel activity|voltage-gated potassium channel activity	GO:0005249|GO:0005216
+C6EJI9	isomerase activity|phosphoglycerate mutase activity|2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity|protein homodimerization activity	GO:0004619|GO:0016853|GO:0046538|GO:0042803
+C6EH57	GTP binding|nucleotide binding|translation initiation factor activity	GO:0003743|GO:0000166|GO:0005525
+C6EJY6	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EFQ8	oxidoreductase activity|peroxidase activity|thioredoxin peroxidase activity|hydroperoxide reductase activity|antioxidant activity	GO:0016209|GO:0004601|GO:0008379|GO:0032843|GO:0016491
+C6EE08	lyase activity|isocitrate lyase activity	GO:0016829|GO:0004451
+C6EGY3	NADH dehydrogenase activity|oxidoreductase activity|NADH dehydrogenase (ubiquinone) activity|flavin adenine dinucleotide binding	GO:0003954|GO:0050660|GO:0008137|GO:0016491
+C6ECE7	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EHT8	hydrolase activity|undecaprenyl-diphosphatase activity	GO:0016787|GO:0050380
+C6EKH4	glycerol-2-phosphatase activity|hydrolase activity|magnesium ion binding|inositol-1(or 4)-monophosphatase activity|lithium ion binding|metal ion binding	GO:0000287|GO:0046872|GO:0016787|GO:0008934|GO:0047954|GO:0031403
+C6EKF1	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0000155|GO:0005524|GO:0000166|GO:0016301|GO:0016740|GO:0004673
+C6ECH7	sequence-specific DNA binding|DNA binding|nucleotide binding|ATP binding	GO:0003677|GO:0005524|GO:0000166|GO:0043565
+C6EGG1	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EFB1	nucleotide binding|ATP binding	GO:0005524|GO:0000166
+C6EGW7	polyamine-transporting ATPase activity	GO:0015417
+C6EK10	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP-dependent RNA helicase activity|ATP binding	GO:0003723|GO:0016787|GO:0004004|GO:0005524|GO:0000166|GO:0004386
+C6ECN9	ribosome binding|RNA binding|translation initiation factor activity	GO:0043022|GO:0003743|GO:0003723
+C6EKC4	ion channel activity|mechanically-gated ion channel activity	GO:0008381|GO:0005216
+C6EBI8	isomerase activity|phosphopentomutase activity|metal ion binding	GO:0046872|GO:0008973|GO:0016853
+C6EGE5	structural constituent of ribosome|tRNA binding	GO:0003735|GO:0000049
+C6EH48	methyltransferase activity|rRNA (uridine-2'-O-)-methyltransferase activity|transferase activity	GO:0008650|GO:0008168|GO:0016740
+C6EH60	structural constituent of ribosome|RNA binding|rRNA binding	GO:0003723|GO:0003735|GO:0019843
+C6EH54	argininosuccinate synthase activity|nucleotide binding|ligase activity|ATP binding	GO:0005524|GO:0004055|GO:0000166|GO:0016874
+C6EH32	hydrolase activity|phospholipid transporter activity|nucleotide binding|ATP binding	GO:0016787|GO:0005524|GO:0000166|GO:0005548
+C6ECA9	hydrolase activity|hydrolase activity, acting on glycosyl bonds|alpha,alpha-phosphotrehalase activity	GO:0008788|GO:0016787|GO:0016798
+C6EGF0	RNA binding|rRNA binding|tRNA binding	GO:0003723|GO:0000049|GO:0019843
+C6EJT4	alanine-tRNA ligase activity|tRNA binding|aminoacyl-tRNA editing activity|nucleotide binding|ATP binding|ligase activity|RNA binding|zinc ion binding|aminoacyl-tRNA ligase activity|metal ion binding	GO:0003723|GO:0005524|GO:0002161|GO:0000049|GO:0016874|GO:0046872|GO:0000166|GO:0008270|GO:0004812|GO:0004813
+C6EGZ1	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity	GO:0016301|GO:0016740|GO:0008982
+C6EGG8	structural constituent of ribosome|RNA binding|rRNA binding|tRNA binding	GO:0003723|GO:0000049|GO:0003735|GO:0019843
+C6EDI4	oxidoreductase activity|FMN binding|lactate dehydrogenase activity|L-lactate dehydrogenase (cytochrome) activity	GO:0004457|GO:0010181|GO:0004460|GO:0016491
+C6EGQ9	transferase activity|kinase activity|ribose phosphate diphosphokinase activity|nucleotide binding|metal ion binding|ATP binding	GO:0046872|GO:0004749|GO:0005524|GO:0016301|GO:0000166|GO:0016740
+C6EJ93	phosphopyruvate hydratase activity|protein binding|lyase activity|magnesium ion binding|metal ion binding	GO:0000287|GO:0046872|GO:0016829|GO:0005515|GO:0004634
+C6EKL0	transferase activity|polyphosphate kinase activity|nucleotide binding|kinase activity|ATP binding	GO:0008976|GO:0005524|GO:0000166|GO:0016301|GO:0016740
+C6EF37	GTP binding|nucleotide binding	GO:0000166|GO:0005525
+C6E9R8	4 iron, 4 sulfur cluster binding|oxidoreductase activity|quinone binding|iron-sulfur cluster binding|NAD binding|NADH dehydrogenase (quinone) activity|metal ion binding	GO:0050136|GO:0046872|GO:0051539|GO:0051287|GO:0048038|GO:0051536|GO:0016491
+C6ED58	symporter activity	GO:0015293
+C6E9W7	oxidoreductase activity|ribonucleoside-diphosphate reductase activity|nucleotide binding|catalytic activity|ATP binding	GO:0004748|GO:0005524|GO:0000166|GO:0003824|GO:0016491
+C6EI52	asparaginase activity|asparagine-tRNA ligase activity|nucleotide binding|ligase activity|ATP binding|amino acid binding|asparagine synthase (glutamine-hydrolyzing) activity|aminoacyl-tRNA ligase activity	GO:0005524|GO:0016597|GO:0016874|GO:0000166|GO:0004067|GO:0004816|GO:0004812|GO:0004066
+C6EGF4	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EGI0	hydrolase activity|peptide deformylase activity|ferrous iron binding|zinc ion binding|metal ion binding	GO:0046872|GO:0042586|GO:0016787|GO:0008270|GO:0008198
+C6EE35	RNA binding|rRNA binding|tRNA binding	GO:0003723|GO:0000049|GO:0019843
+C6EA90	proline-tRNA ligase activity|Ala-tRNA(Pro) hydrolase activity|aminoacyl-tRNA ligase activity|nucleotide binding|ATP binding|ligase activity	GO:0005524|GO:0043906|GO:0000166|GO:0004812|GO:0004827|GO:0016874
+C6EF59	proton motive force dependent protein transmembrane transporter activity	GO:0009977
+C6EK38	transferase activity|acyltransferase activity	GO:0008415|GO:0016740
+C6ECW9	oxidoreductase activity|succinate dehydrogenase activity	GO:0000104|GO:0016491
+C6EBI7	transferase activity, transferring glycosyl groups|transferase activity|purine-nucleoside phosphorylase activity	GO:0004731|GO:0016757|GO:0016740
+C6EAT3	quinoprotein glucose dehydrogenase activity|oxidoreductase activity	GO:0008876|GO:0016491
+C6EB56	oxidoreductase activity|phosphogluconate dehydrogenase (decarboxylating) activity|protein homodimerization activity	GO:0004616|GO:0042803|GO:0016491
+C6EDX8	diacylglycerol kinase activity|transferase activity|nucleotide binding|kinase activity|ATP binding	GO:0004143|GO:0005524|GO:0000166|GO:0016301|GO:0016740
+C6ECX1	electron carrier activity	GO:0009055
+C6EJP7	DNA binding	GO:0003677
+C6EH41	RNA binding|rRNA binding	GO:0003723|GO:0019843
+C6EE52	hydrolase activity|acetylornithine deacetylase activity|cobalt ion binding|zinc ion binding|metal ion binding	GO:0046872|GO:0016787|GO:0008777|GO:0008270|GO:0050897
+C6EJV6	DNA binding	GO:0003677
+C6E9U6	phosphotransferase activity, for other substituted phosphate groups|transferase activity, transferring glycosyl groups|transferase activity	GO:0016757|GO:0016780|GO:0016740
+C6EJ41	transferase activity	GO:0016740
+Process (class=string)		
+C6EAX1	regulation of cell shape|response to antibiotic|response to drug|cellular cell wall organization|peptidoglycan biosynthetic process|cell cycle|metabolic process|cell division	GO:0042493|GO:0008152|GO:0008360|GO:0007047|GO:0009252|GO:0046677|GO:0051301|GO:0007049
+C6ECI0	response to antibiotic|DNA topological change|response to drug|DNA-dependent DNA replication	GO:0046677|GO:0042493|GO:0006261|GO:0006265
+C6EAT0	transport	GO:0006810
+C6EH49	proteolysis	GO:0006508
+C6EBF0	phospholipid biosynthetic process	GO:0008654
+C6EB58	lipopolysaccharide biosynthetic process	GO:0009103
+C6EAB5	translational elongation|translation	GO:0006412|GO:0006414
+C6EH28	lipopolysaccharide transport	GO:0015920
+C6ECY2	cell cycle|cell division	GO:0051301|GO:0007049
+C6EH19	Gram-negative-bacterium-type cell wall biogenesis|regulation of cell shape|peptidoglycan biosynthetic process|cellular cell wall organization	GO:0009252|GO:0008360|GO:0007047|GO:0043164
+C6EHX6	phospholipid biosynthetic process	GO:0008654
+C6EDD6	transport|sodium ion transport|ion transport	GO:0006810|GO:0006814|GO:0006811
+C6EH15	oxidation-reduction process|cellular amino acid biosynthetic process|glutamine metabolic process|glutamate biosynthetic process	GO:0006541|GO:0008652|GO:0006537|GO:0055114
+C6E9S2	oxidation-reduction process|anaerobic respiration	GO:0009061|GO:0055114
+C6EFE8	oxidation-reduction process|glycerol metabolic process	GO:0006071|GO:0055114
+C6EKK2	GMP biosynthetic process|glutamine metabolic process|purine nucleotide biosynthetic process	GO:0006541|GO:0006177|GO:0006164
+C6EEY6	protein autophosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160|GO:0046777
+C6EFZ1	transport|protein transport|peptide transport	GO:0006810|GO:0015833|GO:0015031
+C6EDF8	lipid A biosynthetic process|lipopolysaccharide biosynthetic process	GO:0009103|GO:0009245
+C6EL22	protein folding|response to stress	GO:0006457|GO:0006950
+C6EH08	carbohydrate transport|transport	GO:0006810|GO:0008643
+C6EL02	transport	GO:0006810
+C6EAA0	lipid biosynthetic process|fatty acid biosynthetic process	GO:0006633|GO:0008610
+C6EGV5	oxidation-reduction process|glyoxylate cycle|electron transport chain|tricarboxylic acid cycle	GO:0006099|GO:0006097|GO:0022900|GO:0055114
+C6EEF1	cellulose biosynthetic process	GO:0030244
+C6EE02	rRNA processing|enzyme-directed rRNA pseudouridine synthesis	GO:0000455|GO:0006364
+C6ECW4	ribosomal small subunit biogenesis	GO:0042274
+C6ED59	transport|sodium ion transport|ion transport	GO:0006810|GO:0006814|GO:0006811
+C6EH56	regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription antitermination|transcription termination, DNA-dependent|response to stress	GO:0006353|GO:0031564|GO:0006355|GO:0006950|GO:0006351
+C6EF39	DNA repair|response to DNA damage stimulus|DNA replication	GO:0006281|GO:0006260|GO:0006974
+C6EIY7	cellular iron ion homeostasis	GO:0006879
+C6EE36	stringent response|translational termination	GO:0006415|GO:0015968
+C6EAD5	response to antibiotic|regulation of cell shape|peptidoglycan biosynthetic process|cellular cell wall organization|metabolic process	GO:0046677|GO:0009252|GO:0008152|GO:0008360|GO:0007047
+C6EGH0	response to antibiotic|regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription termination, DNA-dependent|regulation of translation	GO:0046677|GO:0006353|GO:0006355|GO:0006351|GO:0006417
+C6EBX3	glycolysis|metabolic process|phosphorylation	GO:0016310|GO:0008152|GO:0006096
+C6EGM3	transport|protein transport|tripeptide transport|peptide transport	GO:0006810|GO:0042939|GO:0015833|GO:0015031
+C6ED13	proline transport|transport|amino acid transport|hyperosmotic salinity response|response to osmotic stress	GO:0006810|GO:0006865|GO:0006970|GO:0042538|GO:0015824
+C6EJK0	transport|bacteriocin transport|protein transport	GO:0006810|GO:0043213|GO:0015031
+C6EAW2	barrier septum formation|cell cycle|cell division	GO:0051301|GO:0000917|GO:0007049
+C6EJU7	amino acid transport|transport	GO:0006810|GO:0006865
+C6EB40	DNA replication|response to stress	GO:0006260|GO:0006950
+C6EL53	sulfate transport|transport	GO:0006810|GO:0008272
+C6EE54	lipid biosynthetic process|lipopolysaccharide biosynthetic process	GO:0009103|GO:0008610
+C6ELB3	oxidation-reduction process|fatty acid metabolic process|lipid catabolic process|metabolic process|lipid metabolic process	GO:0016042|GO:0008152|GO:0006631|GO:0055114|GO:0006629
+C6EJQ6	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation	GO:0006810|GO:0016310|GO:0008643|GO:0009401
+C6EG74	glutamine metabolic process|UDP-N-acetylglucosamine biosynthetic process	GO:0006541|GO:0006048
+C6EE47	oxidation-reduction process	GO:0055114
+C6EDL8	transport|electron transport chain	GO:0006810|GO:0022900
+C6E9S0	oxidation-reduction process|aerobic respiration|anaerobic respiration	GO:0009061|GO:0055114|GO:0009060
+C6EE05	cellular amino acid biosynthetic process|methionine biosynthetic process|methylation	GO:0008652|GO:0032259|GO:0009086
+C6EH26	transport|lipopolysaccharide transport	GO:0006810|GO:0015920
+C6EK05	methylation	GO:0032259
+C6ECH5	response to heat	GO:0009408
+C6EC91	plasmid recombination|peptide catabolic process	GO:0042150|GO:0043171
+C6EGJ9	regulation of transcription, DNA-dependent|transcription, DNA-dependent	GO:0006355|GO:0006351
+C6ELI2	amino acid transport|transport	GO:0006810|GO:0006865
+C6EI67	lipid biosynthetic process|lipid A biosynthetic process|phosphorylation	GO:0016310|GO:0008610|GO:0009245
+C6EJJ8	transport|bacteriocin transport|protein transport|protein import	GO:0006810|GO:0043213|GO:0017038|GO:0015031
+C6E9Y9	oxidation-reduction process|tricarboxylic acid cycle	GO:0006099|GO:0055114
+C6ELE5	amino acid transport|transport	GO:0006810|GO:0006865
+C6EGT1	transport|cellular sodium ion homeostasis|proton transport|sodium ion transport|response to lithium ion|ion transport|intracellular pH reduction	GO:0006810|GO:0051452|GO:0010226|GO:0006883|GO:0006814|GO:0015992|GO:0006811
+C6EKP2	transport	GO:0006810
+C6EIX2	amino acid transport|transport	GO:0006810|GO:0006865
+C6ELD7	lipid biosynthetic process|negative regulation of translation|fatty acid biosynthetic process|regulation of translation	GO:0017148|GO:0006633|GO:0006417|GO:0008610
+C6ECD6	amino acid transport|transport	GO:0006810|GO:0006865
+C6EG70	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process	GO:0006810|GO:0015986|GO:0006754|GO:0015992|GO:0006811
+C6EED7	dipeptide transport|transport|protein transport|peptide transport	GO:0006810|GO:0042938|GO:0015833|GO:0015031
+C6EAU3	oxidation-reduction process|glycolysis|acetyl-CoA biosynthetic process from pyruvate	GO:0006096|GO:0055114|GO:0006086
+C6EK66	transport|protein transport|transmembrane transport	GO:0006810|GO:0055085|GO:0015031
+C6EDG1	lipopolysaccharide biosynthetic process|phosphorylation	GO:0009103|GO:0016310
+C6EDK8	translation	GO:0006412
+C6EJ75	transport	GO:0006810
+C6EFC4	carbohydrate transport|glycerol-3-phosphate transport|transport|glycerol-2-phosphate transport	GO:0070811|GO:0006810|GO:0008643|GO:0015794
+C6EE32	transcription, DNA-dependent	GO:0006351
+C6EJK4	oxidation-reduction process|cytochrome complex assembly|transport|electron transport chain	GO:0006810|GO:0022900|GO:0017004|GO:0055114
+C6EDE1	transcription, DNA-dependent	GO:0006351
+C6EE31	transcription, DNA-dependent	GO:0006351
+C6EFZ7	transport|ion transport	GO:0006810|GO:0006811
+C6EJW2	amino acid transport|transport	GO:0006810|GO:0006865
+C6EF61	ubiquinone biosynthetic process	GO:0006744
+C6EB39	protein refolding|response to heat|protein unfolding|DNA replication|response to stress	GO:0006260|GO:0006950|GO:0042026|GO:0009408|GO:0043335
+C6EFW8	rRNA processing|enzyme-directed rRNA pseudouridine synthesis	GO:0000455|GO:0006364
+C6EDP5	oxidation-reduction process	GO:0055114
+C6EB06	transport|response to methylglyoxal|potassium ion transport|response to toxin|ion transport	GO:0006810|GO:0006813|GO:0051595|GO:0006811|GO:0009636
+C6EKZ9	cellular water homeostasis|transport|potassium ion transport|ion transport	GO:0006810|GO:0006813|GO:0009992|GO:0006811
+C6EIV1	transport	GO:0006810
+C6EHY7	bacteriocin transport|transport|protein transport	GO:0043213|GO:0006810|GO:0015031
+C6ECY9	oxidation-reduction process|cytochrome complex assembly|transport|electron transport chain	GO:0006810|GO:0022900|GO:0017004|GO:0055114
+C6EJL1	tricarboxylic acid cycle	GO:0006099
+C6EK01	phospholipid biosynthetic process	GO:0008654
+C6EDI0	transport|protein targeting|protein transport|protein transport by the Sec complex|transmembrane transport	GO:0006810|GO:0006605|GO:0055085|GO:0043952|GO:0015031
+C6EGS6	transport	GO:0006810
+C6E9U4	response to antibiotic|response to iron(III) ion|lipid biosynthetic process|lipid A biosynthetic process|lipopolysaccharide biosynthetic process	GO:0046677|GO:0009103|GO:0010041|GO:0008610|GO:0009245
+C6EDH9	transport|deoxyribonucleotide biosynthetic process|electron transport chain	GO:0006810|GO:0009263|GO:0022900
+C6EEY0	phospholipid biosynthetic process	GO:0008654
+C6EGW6	transport|polyamine transport	GO:0006810|GO:0015846
+C6ECQ5	gluconeogenesis|phosphorylation	GO:0016310|GO:0006094
+C6EFG9	regulation of transcription, DNA-dependent|transcription, DNA-dependent|two-component signal transduction system (phosphorelay)	GO:0000160|GO:0006355|GO:0006351
+C6EJ66	carbohydrate transport|transport	GO:0006810|GO:0008643
+C6EGH6	cellular water homeostasis|transport|ion transport	GO:0006810|GO:0009992|GO:0006811
+C6EF52	oxidation-reduction process|fatty acid metabolic process|lipid catabolic process|metabolic process|lipid metabolic process	GO:0016042|GO:0008152|GO:0006631|GO:0055114|GO:0006629
+C6EKJ3	regulation of cell shape|peptidoglycan biosynthetic process	GO:0009252|GO:0008360
+C6EEG1	transport	GO:0006810
+C6EA85	amino acid transport|transport	GO:0006810|GO:0006865
+C6EFI0	regulation of cell shape|response to antibiotic|peptidoglycan biosynthetic process|response to drug|cellular cell wall organization|metabolic process	GO:0046677|GO:0009252|GO:0042493|GO:0008152|GO:0008360|GO:0007047
+C6EK28	tRNA wobble adenosine to inosine editing	GO:0002100
+C6EII5	cellular water homeostasis|transport|ion transport	GO:0006810|GO:0009992|GO:0006811
+C6EE37	transcription, DNA-dependent|regulation of transcription, DNA-dependent|transcription antitermination|transcription termination, DNA-dependent	GO:0006353|GO:0031564|GO:0006355|GO:0006351
+C6EC13	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation	GO:0006810|GO:0016310|GO:0008643|GO:0009401
+C6EI37	oxidation-reduction process|cellular amino acid biosynthetic process|pyrimidine nucleotide biosynthetic process|diaminopimelate biosynthetic process	GO:0008652|GO:0006221|GO:0019877|GO:0055114
+C6EI54	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate|aspartate biosynthetic process	GO:0006532|GO:0033585
+C6EHG3	glucan biosynthetic process|response to osmotic stress	GO:0006970|GO:0009250
+C6ECY7	transport	GO:0006810
+C6EAL5	galactitol metabolic process	GO:0019402
+C6EG27	lipopolysaccharide biosynthetic process|enterobacterial common antigen biosynthetic process	GO:0009103|GO:0009246
+C6EGG6	transport|intracellular protein transmembrane transport|protein transport|protein transport by the Sec complex|transmembrane transport	GO:0006810|GO:0065002|GO:0055085|GO:0043952|GO:0015031
+C6EE49	cellular amino acid biosynthetic process|arginine biosynthetic process	GO:0008652|GO:0006526
+C6EKS4	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation	GO:0006810|GO:0016310|GO:0008643|GO:0009401
+C6EE50	cellular amino acid biosynthetic process|arginine biosynthetic process|phosphorylation	GO:0016310|GO:0008652|GO:0006526
+C6ELL0	transport	GO:0006810
+C6EDX9	phospholipid biosynthetic process	GO:0008654
+C6E9Y2	protein autophosphorylation|cellular response to osmotic stress|single-species biofilm formation|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0071470|GO:0000160|GO:0044010|GO:0046777
+C6EAB7	protein initiator methionine removal	GO:0070084
+C6ECM9	transport	GO:0006810
+C6EAW0	protein polymerization|barrier septum formation|cell cycle|cell division	GO:0051258|GO:0051301|GO:0000917|GO:0007049
+C6E9S3	oxidation-reduction process|transport|anaerobic respiration	GO:0006810|GO:0009061|GO:0055114
+C6EK59	regulation of cell shape	GO:0008360
+C6EF64	DNA recombination	GO:0006310
+C6EJI7	regulation of transcription, DNA-dependent|transcription, DNA-dependent	GO:0006355|GO:0006351
+C6EA06	cytochrome complex assembly	GO:0017004
+C6EAL9	oxidation-reduction process|galactitol catabolic process|galactitol metabolic process	GO:0019402|GO:0055114|GO:0019404
+C6EEJ2	transport|phosphate transport	GO:0006810|GO:0006817
+C6EAL8	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|galactitol metabolic process	GO:0006810|GO:0008643|GO:0019402|GO:0009401
+C6EGX4	transport|lipoprotein transport	GO:0006810|GO:0042953
+C6EBG1	pentose-phosphate shunt	GO:0006098
+C6EC00	proteolysis|response to temperature stimulus|response to stress	GO:0006508|GO:0006950|GO:0009266
+C6EJB9	cell cycle|cell division	GO:0051301|GO:0007049
+C6EHC4	phospholipid biosynthetic process	GO:0008654
+C6EJL0	tricarboxylic acid cycle	GO:0006099
+C6EGR0	transport	GO:0006810
+C6EJ86	transcription, DNA-dependent|regulation of transcription, DNA-dependent|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160|GO:0006355|GO:0006351
+C6EJK9	tricarboxylic acid cycle	GO:0006099
+C6EF48	oxidation-reduction process|heme biosynthetic process|porphyrin biosynthetic process	GO:0055114|GO:0006783|GO:0006779
+C6EAW1	regulation of cell shape|cell cycle|cell division|cytokinesis	GO:0051301|GO:0000910|GO:0007049|GO:0008360
+C6EB69	amino acid transport|transport	GO:0006810|GO:0006865
+C6EG16	amino acid transport|transport	GO:0006810|GO:0006865
+C6EG98	protein insertion into membrane	GO:0051205
+C6EJL5	cytochrome complex assembly|transport|electron transport chain|tricarboxylic acid cycle|aerobic respiration	GO:0006099|GO:0006810|GO:0022900|GO:0017004|GO:0009060
+C6EH61	response to stress	GO:0006950
+C6EI68	transport|lipid transport	GO:0006810|GO:0006869
+C6EKZ1	protein folding|response to heat|response to stress	GO:0006457|GO:0006950|GO:0009408
+C6EAT9	propionate catabolic process, 2-methylcitrate cycle|tricarboxylic acid cycle|regulation of translation	GO:0006099|GO:0006417|GO:0019629
+C6EC50	oxidation-reduction process|glycolysis	GO:0006096|GO:0055114
+C6E9U3	response to iron(III) ion|lipid A biosynthetic process|lipid biosynthetic process|lipopolysaccharide biosynthetic process	GO:0009103|GO:0010041|GO:0009245|GO:0008610
+C6EDN9	protein autophosphorylation|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0018106|GO:0016310|GO:0000160|GO:0046777
+C6EJL4	oxidation-reduction process|transport|tricarboxylic acid cycle|electron transport chain|aerobic respiration	GO:0006810|GO:0006099|GO:0022900|GO:0009060|GO:0055114
+C6EJN9	two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160
+C6EC90	transport|lipopolysaccharide transport	GO:0006810|GO:0015920
+C6EGE7	response to antibiotic|regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription termination, DNA-dependent|regulation of translation	GO:0046677|GO:0006353|GO:0006355|GO:0006351|GO:0006417
+C6EDJ3	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation	GO:0006810|GO:0016310|GO:0008643|GO:0009401
+C6EFP1	transport|ion transport	GO:0006810|GO:0006811
+C6EFT9	transport|protein transport|peptide transport	GO:0006810|GO:0015833|GO:0015031
+C6ED85	transport	GO:0006810
+C6EBZ8	positive regulation of transport	GO:0051050
+C6EHC9	RNA catabolic process	GO:0006401
+C6EFY7	phospholipid biosynthetic process	GO:0008654
+C6EJL8	tricarboxylic acid cycle|metabolic process	GO:0006099|GO:0008152
+C6EK14	regulation of transcription, DNA-dependent|transcription, DNA-dependent|response to stress	GO:0006355|GO:0006950|GO:0006351
+C6EGF9	translation	GO:0006412
+C6EHW7	two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160
+C6EF60	transport|protein transport|transmembrane transport	GO:0006810|GO:0055085|GO:0015031
+C6ELB2	fatty acid metabolic process|lipid catabolic process|lipid metabolic process	GO:0016042|GO:0006631|GO:0006629
+C6EI58	chromosome segregation|chromosome condensation|cell cycle|cell division	GO:0030261|GO:0007059|GO:0051301|GO:0007049
+C6EK19	proteolysis|protein processing	GO:0006508|GO:0016485
+C6EBK1	rRNA base methylation|methylation|rRNA processing|rRNA methylation	GO:0031167|GO:0032259|GO:0006364|GO:0070475
+C6EHT0	translation	GO:0006412
+C6EGZ7	cellular response to misfolded protein	GO:0071218
+C6EGP2	nitrate assimilation|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0042128|GO:0016310|GO:0000160
+C6EDY0	ubiquinone biosynthetic process	GO:0006744
+C6EJK5	oxidation-reduction process|cytochrome complex assembly|transport|electron transport chain	GO:0006810|GO:0022900|GO:0017004|GO:0055114
+C6EBH0	regulation of transcription, DNA-dependent|transcription, DNA-dependent|two-component signal transduction system (phosphorelay)	GO:0000160|GO:0006355|GO:0006351
+C6EG71	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process	GO:0006810|GO:0015986|GO:0006754|GO:0015992|GO:0006811
+C6E9Y8	response to antibiotic|transport|peptide transport	GO:0046677|GO:0006810|GO:0015833
+C6EDG8	lipopolysaccharide core region biosynthetic process|lipopolysaccharide biosynthetic process	GO:0009103|GO:0009244
+C6EEV0	mRNA processing	GO:0006397
+C6EJX9	response to heat|protein unfolding|response to stress	GO:0006950|GO:0009408|GO:0043335
+C6ED10	response to antibiotic|lipid biosynthetic process|lipid A biosynthetic process|lipopolysaccharide biosynthetic process	GO:0046677|GO:0009103|GO:0008610|GO:0009245
+C6EDF9	lipopolysaccharide biosynthetic process	GO:0009103
+C6EDK7	oxidation-reduction process|pyridoxine biosynthetic process|pyridoxal 5'-phosphate salvage	GO:0008615|GO:0009443|GO:0055114
+C6ECH6	response to heat	GO:0009408
+C6EAU2	glycolysis	GO:0006096
+C6EKX1	oxidation-reduction process	GO:0055114
+C6EAW6	regulation of cell shape|peptidoglycan biosynthetic process|cell cycle|cellular cell wall organization|cell division|cytokinesis	GO:0009252|GO:0051301|GO:0000910|GO:0008360|GO:0007049|GO:0007047
+C6EI93	response to leucine|regulation of transcription, DNA-dependent|transcription, DNA-dependent	GO:0043201|GO:0006355|GO:0006351
+C6EEF5	L-aspartate transport|carbohydrate transport|transport|fumarate transport	GO:0015741|GO:0006810|GO:0008643|GO:0070778
+C6EH17	transcription, DNA-dependent|regulation of transcription, DNA-dependent|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160|GO:0006355|GO:0006351
+C6E9S4	oxidation-reduction process	GO:0055114
+C6EHJ1	proline transport|amino acid transport|transport|sodium ion transport|ion transport	GO:0006810|GO:0006865|GO:0015824|GO:0006811|GO:0006814
+C6ED60	transport	GO:0006810
+C6ECP5	transcription, DNA-dependent|regulation of transcription, DNA-dependent|DNA recombination|regulation of translation	GO:0006355|GO:0006351|GO:0006417|GO:0006310
+C6EFA5	response to cadmium ion|detoxification of zinc ion	GO:0046686|GO:0010312
+C6EAW8	regulation of cell shape|peptidoglycan biosynthetic process|cell cycle|cell division|cellular cell wall organization	GO:0009252|GO:0051301|GO:0008360|GO:0007049|GO:0007047
+C6EKY6	transport|ion transport	GO:0006810|GO:0006811
+C6EGF2	translation	GO:0006412
+C6EH63	ribosomal large subunit assembly|cellular response to cold|response to stress	GO:0006950|GO:0000027|GO:0070417
+C6E9S1	oxidation-reduction process|aerobic respiration|anaerobic respiration	GO:0009061|GO:0055114|GO:0009060
+C6EGL0	regulation of cell shape	GO:0008360
+C6EGV9	response to heat	GO:0009408
+C6EJY2	protein targeting to membrane	GO:0006612
+C6EH02	translation	GO:0006412
+C6EIB9	amino acid transport|transport	GO:0006810|GO:0006865
+C6EL55	sulfate transport|transport	GO:0006810|GO:0008272
+C6EA36	response to acidity	GO:0010447
+C6EE34	regulation of translation	GO:0006417
+C6EEJ8	transport	GO:0006810
+C6EAF7	amino acid transport|transport	GO:0006810|GO:0006865
+C6EKY0	copper ion transport|transport|response to acidity|ion transport	GO:0006810|GO:0010447|GO:0006811|GO:0006825
+C6EFI8	cell cycle|cell division|cytokinesis	GO:0051301|GO:0000910|GO:0007049
+C6EA67	oxidation-reduction process|fatty acid metabolic process|lipid metabolic process	GO:0006631|GO:0055114|GO:0006629
+C6EHQ5	amino acid transport|transport|serine transport	GO:0032329|GO:0006810|GO:0006865
+C6EHX4	DNA topological change|sister chromatid cohesion|chromosome segregation|plasmid partitioning|DNA-dependent DNA replication	GO:0007059|GO:0007062|GO:0006261|GO:0030541|GO:0006265
+C6E9R5	oxidation-reduction process|electron transport coupled proton transport|transport|anaerobic respiration|aerobic respiration	GO:0006810|GO:0015990|GO:0009061|GO:0055114|GO:0009060
+C6EG56	transport|potassium ion transport|ion transport	GO:0006810|GO:0006813|GO:0006811
+C6EG69	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process	GO:0006810|GO:0015986|GO:0006754|GO:0015992|GO:0006811
+C6EK58	regulation of cell shape|response to antibiotic|peptidoglycan biosynthetic process|response to drug|cellular cell wall organization|metabolic process	GO:0009252|GO:0046677|GO:0042493|GO:0008152|GO:0008360|GO:0007047
+C6EL14	transport	GO:0006810
+C6EAV7	transport|protein transport|transmembrane transport	GO:0006810|GO:0055085|GO:0015031
+C6EGN0	regulation of transcription, DNA-dependent|transcription, DNA-dependent	GO:0006355|GO:0006351
+C6EJZ8	response to stress	GO:0006950
+C6EI70	transcription, DNA-dependent|regulation of transcription, DNA-dependent|DNA recombination|regulation of translation	GO:0006355|GO:0006351|GO:0006417|GO:0006310
+C6EGC3	negative regulation of translation|ribosomal small subunit assembly|translation	GO:0000028|GO:0017148|GO:0006412
+C6EG72	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process	GO:0006810|GO:0015986|GO:0006754|GO:0015992|GO:0006811
+C6EIY9	transport	GO:0006810
+C6EA86	amino acid transport|transport	GO:0006810|GO:0006865
+C6EJ32	fatty acid metabolic process|metabolic process|phospholipid biosynthetic process	GO:0008654|GO:0008152|GO:0006631
+C6EAM7	two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160
+C6EC11	transport|carbohydrate transport|phosphoenolpyruvate-dependent sugar phosphotransferase system	GO:0006810|GO:0008643|GO:0009401
+C6EK42	amino acid transport|transport	GO:0006810|GO:0006865
+C6EDP6	oxidation-reduction process	GO:0055114
+C6EKW8	transport	GO:0006810
+C6EAU1	oxidation-reduction process|pyruvate metabolic process|glycine decarboxylation via glycine cleavage system|glycolysis|tricarboxylic acid cycle|2-oxoglutarate metabolic process	GO:0006099|GO:0019464|GO:0006090|GO:0006103|GO:0006096|GO:0055114
+C6EA31	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation	GO:0006810|GO:0016310|GO:0008643|GO:0009401
+C6EIG8	carbohydrate transport|galactose transport|transport	GO:0006810|GO:0008643|GO:0015757
+C6EGZ6	oxidation-reduction process|glycolysis|malate metabolic process|tricarboxylic acid cycle|fermentation|anaerobic respiration	GO:0006099|GO:0006096|GO:0009061|GO:0055114|GO:0006108|GO:0006113
+C6EAJ7	translation	GO:0006412
+C6ECA8	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation	GO:0006810|GO:0016310|GO:0008643|GO:0009401
+C6EGS8	oxidation-reduction process	GO:0055114
+C6EKZ0	purine ribonucleotide interconversion|purine ribonucleotide biosynthetic process|nucleotide biosynthetic process|phosphorylation	GO:0016310|GO:0015951|GO:0009165|GO:0009152
+C6EG28	cell wall macromolecule biosynthetic process|lipopolysaccharide biosynthetic process|cellular cell wall organization	GO:0009103|GO:0044038|GO:0007047
+C6EHF9	lipid A biosynthetic process|lipopolysaccharide biosynthetic process|response to stress	GO:0009103|GO:0006950|GO:0009245
+C6EL54	sulfate transport|transport	GO:0006810|GO:0008272
+C6EDM4	purine nucleotide salvage|purine ribonucleoside monophosphate biosynthetic process|hypoxanthine salvage|purine nucleotide interconversion|adenosine catabolic process|nucleotide metabolic process	GO:0015950|GO:0032261|GO:0043103|GO:0006154|GO:0009168|GO:0009117
+C6EJL3	oxidation-reduction process|transport|tricarboxylic acid cycle|electron transport chain|aerobic respiration	GO:0006810|GO:0006099|GO:0022900|GO:0055114|GO:0009060
+C6EL65	cellular amino acid biosynthetic process|transport|cysteine biosynthetic process	GO:0006810|GO:0008652|GO:0019344
+C6EL42	transport	GO:0006810
+C6EGG3	response to antibiotic|translation	GO:0046677|GO:0006412
+C6EG12	porphyrin biosynthetic process|methylation	GO:0032259|GO:0006779
+C6EB19	cellular amino acid biosynthetic process|arginine biosynthetic process|pyrimidine nucleotide biosynthetic process	GO:0008652|GO:0006221|GO:0006526
+C6EIK5	oxidation-reduction process	GO:0055114
+C6ECN2	SOS response|response to DNA damage stimulus	GO:0006974|GO:0009432
+C6EKU1	protein folding	GO:0006457
+C6EKC5	amino acid transport|transport	GO:0006810|GO:0006865
+C6EL76	transport	GO:0006810
+C6EL34	oxidation-reduction process|transport|aerobic electron transport chain|electron transport chain	GO:0006810|GO:0019646|GO:0022900|GO:0055114
+C6ECY3	response to heat|phage assembly|cell cycle|cell division	GO:0051301|GO:0009408|GO:0007049|GO:0042963
+C6EKY5	response to antibiotic	GO:0046677
+C6EH52	transport|intracellular protein transmembrane transport|protein transport|protein transport by the Sec complex|transmembrane transport	GO:0006810|GO:0065002|GO:0055085|GO:0043952|GO:0015031
+C6E9R9	oxidation-reduction process|aerobic respiration|anaerobic respiration	GO:0009061|GO:0055114|GO:0009060
+C6EL35	oxidation-reduction process|electron transport coupled proton transport|transport|aerobic electron transport chain|proton transport|electron transport chain|ion transport	GO:0006810|GO:0019646|GO:0022900|GO:0015990|GO:0055114|GO:0015992|GO:0006811
+C6EBA0	two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160
+C6EL29	protein folding|protein complex assembly|cell cycle|cell division|'de novo' cotranslational protein folding	GO:0006457|GO:0051083|GO:0051301|GO:0006461|GO:0007049
+C6ELH6	transport|protein transport|transmembrane transport	GO:0006810|GO:0055085|GO:0015031
+C6EG40	cellular amino acid biosynthetic process|branched chain family amino acid biosynthetic process	GO:0008652|GO:0009082
+C6EAB6	translation	GO:0006412
+C6EA23	transport|Gram-negative-bacterium-type cell outer membrane assembly	GO:0006810|GO:0043165
+C6EJY0	carbohydrate catabolic process|non-phosphorylated glucose catabolic process	GO:0019595|GO:0016052
+C6ECE9	translation	GO:0006412
+C6EKY9	protoporphyrinogen IX metabolic process|heme biosynthetic process|response to light stimulus|porphyrin biosynthetic process	GO:0046501|GO:0009416|GO:0006783|GO:0006779
+C6EGX5	transport|lipoprotein transport	GO:0006810|GO:0042953
+C6EDH0	lipopolysaccharide biosynthetic process	GO:0009103
+C6EGG9	translation	GO:0006412
+C6EAE1	plasmid maintenance|mRNA processing|mRNA polyadenylation|transcription, DNA-dependent|RNA modification	GO:0006397|GO:0006276|GO:0009451|GO:0006351|GO:0006378
+C6EGW2	two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160
+C6ELS0	oxidation-reduction process|glycine betaine biosynthetic process from choline|response to osmotic stress|response to stress	GO:0019285|GO:0006970|GO:0006950|GO:0055114
+C6EE76	barrier septum formation|cell cycle cytokinesis|cell cycle|cell division	GO:0051301|GO:0033205|GO:0000917|GO:0007049
+C6EJW5	oxidation-reduction process	GO:0055114
+C6EGC2	RNA folding|response to antibiotic|Group I intron splicing|positive regulation of RNA splicing|translation	GO:0046677|GO:0033120|GO:0034337|GO:0006412|GO:0000372
+C6EJN7	transport|potassium ion transport|protein autophosphorylation|ion transport|detection of chemical stimulus|osmosensory signaling pathway via two-component system	GO:0006810|GO:0006813|GO:0009593|GO:0006811|GO:0007234|GO:0046777
+C6EFE5	glycogen biosynthetic process	GO:0005978
+C6EK07	glucose metabolic process|carbohydrate metabolic process	GO:0006006|GO:0005975
+C6EFB2	cell cycle|cell division|cytokinesis	GO:0051301|GO:0000910|GO:0007049
+C6EGF1	response to antibiotic	GO:0046677
+C6EE39	translational elongation|response to antibiotic|translation	GO:0046677|GO:0006412|GO:0006414
+C6EG89	transport|adenine transport	GO:0006810|GO:0015853
+C6ECP1	ribosomal large subunit assembly	GO:0000027
+C6EGG0	translation|regulation of translation|regulation of mRNA stability	GO:0006412|GO:0043488|GO:0006417
+C6EEX9	pentose-phosphate shunt|gluconeogenesis|glycolysis	GO:0006098|GO:0006094|GO:0006096
+C6EAB9	cellular amino acid biosynthetic process|lysine biosynthetic process|diaminopimelate biosynthetic process	GO:0008652|GO:0019877|GO:0009085
+C6EE78	response to heat|response to stress	GO:0006950|GO:0009408
+C6EDW8	DNA replication, synthesis of RNA primer|DNA replication	GO:0006269|GO:0006260
+C6EL15	transport	GO:0006810
+C6EAW5	regulation of cell shape|peptidoglycan biosynthetic process|cell cycle|cell division|cellular cell wall organization	GO:0009252|GO:0051301|GO:0008360|GO:0007049|GO:0007047
+C6EGF5	response to antibiotic|translation	GO:0046677|GO:0006412
+C6EGB3	transport|potassium ion transport|ion transport	GO:0006810|GO:0006813|GO:0006811
+C6EHC0	lipid biosynthetic process|fatty acid biosynthetic process	GO:0006633|GO:0008610
+C6EG68	transport|proton transport|ion transport|histidine biosynthetic process|ATP biosynthetic process	GO:0006810|GO:0006754|GO:0000105|GO:0015992|GO:0006811
+C6EJL2	oxidation-reduction process|glycolysis	GO:0006096|GO:0055114
+C6EK18	translational elongation|translation	GO:0006412|GO:0006414
+C6EIX3	amino acid transport|transport	GO:0006810|GO:0006865
+C6EII3	glycolysis|phosphorylation	GO:0016310|GO:0006096
+C6EGK4	lipid biosynthetic process|negative regulation of fatty acid biosynthetic process|fatty acid biosynthetic process	GO:0045717|GO:0006633|GO:0008610
+C6ELH5	transport|protein transport|transmembrane transport	GO:0006810|GO:0055085|GO:0015031
+C6EK41	amino acid transport|transport	GO:0006810|GO:0006865
+C6EFS8	response to heat|response to stress	GO:0006950|GO:0009408
+C6EB51	lipopolysaccharide biosynthetic process	GO:0009103
+C6ED48	transport	GO:0006810
+C6EKJ1	phosphorylation|nucleotide metabolic process	GO:0016310|GO:0009117
+C6EGZ9	oxidation-reduction process	GO:0055114
+C6EI96	transport	GO:0006810
+C6EIP8	transport	GO:0006810
+C6EGC4	translational elongation|translation	GO:0006412|GO:0006414
+C6EJZ9	transport	GO:0006810
+C6EAU5	amino acid transport|transport	GO:0006810|GO:0006865
+C6EAX2	cell cycle|cell division	GO:0051301|GO:0007049
+C6EKH7	tRNA processing|oxazole or thiazole biosynthetic process|iron-sulfur cluster assembly|tRNA pseudouridine synthesis	GO:0031119|GO:0016226|GO:0018131|GO:0008033
+C6ELF7	phosphorylation	GO:0016310
+C6EHS8	response to heat|transcription, DNA-dependent|regulation of transcription, DNA-dependent	GO:0006355|GO:0006351|GO:0009408
+C6EFG5	transport|ion transport|iron ion homeostasis	GO:0006810|GO:0055072|GO:0006811
+C6EGH1	transcription, DNA-dependent	GO:0006351
+C6EG30	regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcriptional attenuation|transcription termination, DNA-dependent	GO:0006353|GO:0031555|GO:0006355|GO:0006351
+C6EE18	chromosome condensation	GO:0030261
+C6EGL1	regulation of cell shape	GO:0008360
+C6E9R6	oxidation-reduction process|transport|metabolic process|anaerobic respiration	GO:0006810|GO:0008152|GO:0009061|GO:0055114
+C6EI95	transport	GO:0006810
+C6EFF9	D-gluconate metabolic process|transport|carbohydrate transport|gluconate transport	GO:0006810|GO:0008643|GO:0019521|GO:0015725
+C6EIA2	response to antibiotic|transport	GO:0046677|GO:0006810
+C6ECH0	pathogenesis|response to stress	GO:0006950|GO:0009405
+C6ED12	response to iron(III) ion|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0018106|GO:0016310|GO:0000160|GO:0010041
+C6EIQ8	transport	GO:0006810
+C6E9R4	oxidation-reduction process|transport|anaerobic respiration	GO:0006810|GO:0009061|GO:0055114
+C6EBX2	lipopolysaccharide biosynthetic process	GO:0009103
+C6EKJ4	oxidation-reduction process|isoprenoid biosynthetic process	GO:0008299|GO:0055114
+C6EHJ3	oxidation-reduction process|transcription, DNA-dependent|proline catabolic process to glutamate|regulation of transcription, DNA-dependent|proline metabolic process|metabolic process	GO:0008152|GO:0006355|GO:0006351|GO:0010133|GO:0055114|GO:0006560
+C6EJ92	glutamine metabolic process|pyrimidine nucleotide biosynthetic process|CTP biosynthetic process	GO:0006541|GO:0006221|GO:0006241
+C6EG67	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process	GO:0006810|GO:0015986|GO:0006754|GO:0015992|GO:0006811
+C6EAM9	transport	GO:0006810
+C6ECJ1	signal peptide processing	GO:0006465
+C6EGX6	transport|lipoprotein transport	GO:0006810|GO:0042953
+C6EFY6	transport|potassium ion transport|ion transport	GO:0006810|GO:0006813|GO:0006811
+C6EA04	cytochrome complex assembly	GO:0017004
+C6EJI9	glycolysis	GO:0006096
+C6EC12	transport|carbohydrate transport|phosphoenolpyruvate-dependent sugar phosphotransferase system	GO:0006810|GO:0008643|GO:0009401
+C6EH57	translational initiation|translation	GO:0006413|GO:0006412
+C6ELR7	transport|response to stress	GO:0006810|GO:0006950
+C6EFQ8	oxidation-reduction process|cellular response to oxidative stress	GO:0034599|GO:0055114
+C6EE08	glyoxylate cycle|tricarboxylic acid cycle	GO:0006099|GO:0006097
+C6EGY3	oxidation-reduction process|transport|aerobic electron transport chain|electron transport chain|aerobic respiration	GO:0006810|GO:0019646|GO:0022900|GO:0055114|GO:0009060
+C6EFS6	transcription, DNA-dependent|regulation of transcription, DNA-dependent|response to stress	GO:0006355|GO:0006950|GO:0006351
+C6EHT8	response to antibiotic|regulation of cell shape|peptidoglycan biosynthetic process|response to drug|cellular cell wall organization	GO:0046677|GO:0009252|GO:0042493|GO:0008360|GO:0007047
+C6ECE7	translation	GO:0006412
+C6EKH4	inositol phosphate dephosphorylation	GO:0046855
+C6EKF1	protein autophosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation	GO:0016310|GO:0000160|GO:0046777
+C6EL66	barrier septum formation|cell cycle|cell division	GO:0051301|GO:0000917|GO:0007049
+C6ECH7	regulation of DNA replication|DNA replication|DNA-dependent DNA replication	GO:0006260|GO:0006261|GO:0006275
+C6EGG1	response to antibiotic	GO:0046677
+C6EFB1	response to antibiotic|cell cycle|cell division|cytokinesis	GO:0046677|GO:0051301|GO:0000910|GO:0007049
+C6EG13	porphyrin biosynthetic process	GO:0006779
+C6ELE6	amino acid transport|transport	GO:0006810|GO:0006865
+C6EGW7	transport|polyamine transport	GO:0006810|GO:0015846
+C6EK10	ribosomal large subunit assembly	GO:0000027
+C6ECN9	translational initiation|response to cold|ribosome disassembly|translation	GO:0006413|GO:0009409|GO:0006412|GO:0032790
+C6EKC4	transport|ion transport|cellular response to osmotic stress	GO:0006810|GO:0071470|GO:0006811
+C6EGE5	translation|transcription antitermination	GO:0031564|GO:0006412
+C6EH48	enzyme-directed rRNA 2'-O-methylation|methylation|rRNA processing|response to stress	GO:0000453|GO:0006950|GO:0032259|GO:0006364
+C6EH54	cellular amino acid biosynthetic process|arginine biosynthetic process	GO:0008652|GO:0006526
+C6EH60	translation	GO:0006412
+C6EH32	transport|phospholipid transport	GO:0006810|GO:0015914
+C6ECA9	metabolic process	GO:0008152
+C6EJT4	alanyl-tRNA aminoacylation|translation|negative regulation of transcription, DNA-dependent	GO:0045892|GO:0006412|GO:0006419
+C6EGZ1	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation	GO:0006810|GO:0016310|GO:0008643|GO:0009401
+C6EGG8	translation	GO:0006412
+C6EDI4	oxidation-reduction process|lactate metabolic process|L-fucose catabolic process|aerobic respiration	GO:0042355|GO:0006089|GO:0055114|GO:0009060
+C6EIV0	transport	GO:0006810
+C6EGQ9	nucleotide biosynthetic process|phosphorylation	GO:0016310|GO:0009165
+C6EJ93	glycolysis	GO:0006096
+C6EKL0	phosphorylation	GO:0016310
+C6EF37	barrier septum formation|cell cycle|cell division	GO:0051301|GO:0000917|GO:0007049
+C6E9R8	oxidation-reduction process|aerobic respiration|anaerobic respiration	GO:0009061|GO:0055114|GO:0009060
+C6EFH4	response to heat|response to stress	GO:0006950|GO:0009408
+C6ED58	transport|sodium ion transport|ion transport	GO:0006810|GO:0006814|GO:0006811
+C6EG65	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process	GO:0006810|GO:0015986|GO:0006754|GO:0015992|GO:0006811
+C6E9W7	oxidation-reduction process|nucleobase, nucleoside and nucleotide interconversion|deoxyribonucleotide biosynthetic process|DNA replication|metabolic process	GO:0009263|GO:0008152|GO:0006260|GO:0055114|GO:0015949
+C6EJJ9	transport|bacteriocin transport|protein transport	GO:0006810|GO:0043213|GO:0015031
+C6EI52	glutamine metabolic process|cellular amino acid catabolic process|translation|asparagine biosynthetic process	GO:0006541|GO:0009063|GO:0006529|GO:0006412
+C6EGI0	translation|N-terminal protein amino acid modification	GO:0031365|GO:0006412
+C6EE35	negative regulation of translational initiation|regulation of translation	GO:0045947|GO:0006417
+C6EA90	prolyl-tRNA aminoacylation|translation	GO:0006433|GO:0006412
+C6EF59	transport|intracellular protein transmembrane transport|protein transport|transmembrane transport	GO:0006810|GO:0065002|GO:0055085|GO:0015031
+C6ECW9	oxidation-reduction process|transport|electron transport chain	GO:0006810|GO:0022900|GO:0055114
+C6EBI7	purine nucleoside interconversion|purine nucleoside catabolic process	GO:0019686|GO:0006152
+C6EAT3	oxidation-reduction process	GO:0055114
+C6EB56	oxidation-reduction process|D-gluconate metabolic process|pentose-phosphate shunt	GO:0006098|GO:0019521|GO:0055114
+C6EDX8	phosphatidic acid biosynthetic process|phosphorylation|phospholipid biosynthetic process	GO:0008654|GO:0016310|GO:0006654
+C6ECX1	flagellum assembly|ciliary or flagellar motility|fermentation|anaerobic respiration	GO:0009296|GO:0001539|GO:0009061|GO:0006113
+C6EJP7	negative regulation of DNA replication	GO:0008156
+C6EE52	cellular amino acid biosynthetic process|arginine biosynthetic process	GO:0008652|GO:0006526
+C6EIZ0	transport	GO:0006810
+C6E9U6	response to antibiotic|lipid biosynthetic process|lipid A biosynthetic process|lipopolysaccharide biosynthetic process	GO:0046677|GO:0009103|GO:0008610|GO:0009245
+C6EJU1	response to antibiotic|transport|response to drug	GO:0046677|GO:0006810|GO:0042493
+C6EC89	transport|lipopolysaccharide transport	GO:0006810|GO:0015920

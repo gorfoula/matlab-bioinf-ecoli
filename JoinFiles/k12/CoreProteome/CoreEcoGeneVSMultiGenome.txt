@@ -1,0 +1,2 @@
+k12/CoreProteome/CommonCore.txt	5	1
+k12/CoreProteome/CommonCore_MG1655_ref.txt	1	1

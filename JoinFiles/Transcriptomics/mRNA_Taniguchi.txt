@@ -1,0 +1,1019 @@
+Gene Name	B Number	Class	Description	A (mRNA per cell cycle)_RNAseq
+atpD	b3732	noessential	"F1 sector of membrane-bound ATP synthase; beta subunit"	
+pflB	b0903	noessential	pyruvate formate lyase I	
+cspE	b0623	noessential	DNA-binding transcriptional repressor	234,1790318
+glyA	b2551	noessential	serine hydroxymethyltransferase	31,52434522
+tufA	b3339	noessential	protein chain elongation factor EF-Tu (duplicate of tufB)	
+map	b0168	essential	methionine aminopeptidase	7,772093475
+purA	b4177	noessential	adenylosuccinate synthetase	12,14240877
+rpoZ	b3649	noessential	"RNA polymerase; omega subunit"	11,75886744
+csrA	b2696	essential	pleiotropic regulatory protein for carbon source metabolism	77,996549
+yfiA	b2597	noessential	cold shock protein associated with 30S ribosomal subunit	
+fusA	b3340	essential	"protein chain elongation factor EF-G; GTP-binding"	
+fklB	b4207	noessential	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	6,112389226
+thrS	b1719	essential	threonyl-tRNA synthetase	17,9291684
+atpH	b3735	noessential	"F1 sector of membrane-bound ATP synthase; delta subunit"	16,23167566
+aceE	b0114	noessential	"pyruvate dehydrogenase; decarboxylase component E1; thiamin-binding"	15,84047156
+thdF	b3706	noessential	GTPase	
+yliJ	b0838	noessential	predicted glutathione S-transferase	
+hfq	b4172	noessential	"HF-I; host factor for RNA phage Q beta replication"	46,07581019
+gatZ	b2095	noessential	"D-tagatose 1;6-bisphosphate aldolase 2; subunit"	8,86487608
+malK	b4035	noessential	"fused maltose transport subunit; ATP-binding component of ABC superfamily -!- regulatory protein"	3,188691122
+pgk	b2926	essential	phosphoglycerate kinase	20,2293362
+katE	b1732	noessential	hydroperoxidase HPII(III) (catalase)	
+dnaK	b0014	noessential	"chaperone Hsp70; co-chaperone with DnaJ"	15,7662626
+sspA	b3229	noessential	stringent starvation protein A	16,47142465
+tufB	b3980	noessential	protein chain elongation factor EF-Tu (duplicate of tufA)	
+fabZ	b0180	essential	(3R)-hydroxymyristol acyl carrier protein dehydratase	2,19319885
+clpP	b0437	noessential	proteolytic subunit of ClpA-ClpP and ClpX-ClpP ATP-dependent serine proteases	9,37696503
+metK	b2942	essential	methionine adenosyltransferase 1	8,30622344
+yqjD	b3098	noessential	conserved protein	8,881260121
+lysS	b2890	noessential	"lysine tRNA synthetase; constitutive"	4,516207058
+yaiN	b0357	noessential	regulator protein that represses frmRAB operon	
+cydA	b0733	noessential	"cytochrome d terminal oxidase; subunit I"	2,249553446
+rpoB	b3987	essential	"RNA polymerase; beta subunit"	
+secB	b3609	noessential	protein export chaperone	11,20686608
+pepN	b0932	noessential	aminopeptidase N	4,392754723
+yhbH	b3203	noessential	"predicted ribosome-associated; sigma 54 modulation protein"	
+hupB	b0440	noessential	"HU; DNA-binding transcriptional regulator; beta subunit"	
+pykA	b1854	noessential	pyruvate kinase II	0,709461596
+trpS	b3384	essential	tryptophanyl-tRNA synthetase	
+gadE	b3512	noessential	DNA-binding transcriptional activator	17,22915365
+ynaF	b1376	noessential	"stress-induced protein; ATP-binding protein"	
+elaB	b2266	noessential	conserved protein	47,72701918
+yrdA	b3279	noessential	conserved protein	11,67381264
+pssA	b2585	essential	phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase)	6,556476944
+tig	b0436	noessential	peptidyl-prolyl cis/trans isomerase (trigger factor)	23,806795
+deoD	b4384	noessential	purine-nucleoside phosphorylase	
+yjgF	b4243	noessential	ketoacid-binding protein	
+gyrB	b3699	essential	"DNA gyrase; subunit B"	
+yebC	b1864	noessential	conserved protein	3,81957722
+rpsV	b1480	noessential	30S ribosomal subunit protein S22	
+gadA	b3517	noessential	"glutamate decarboxylase A; PLP-dependent"	3,119106542
+groS	b4142	essential	"Cpn10 chaperonin GroES; small subunit of GroESL"	
+pstB	b3725	noessential	phosphate transporter subunit -!- ATP-binding component of ABC superfamily	14,68063249
+deoB	b4383	noessential	phosphopentomutase	
+hupA	b4000	noessential	"HU; DNA-binding transcriptional regulator; alpha subunit"	49,37696073
+yhgI	b3414	noessential	predicted gluconate transport associated protein	
+pnp	b3164	noessential	polynucleotide phosphorylase/polyadenylase	10,4966103
+yaeH	b0163	noessential	conserved protein	
+ppiB	b0525	noessential	peptidyl-prolyl cis-trans isomerase B (rotamase B)	17,01048929
+hslT	b3687	noessential	heat shock chaperone	
+lpd	b0116	noessential	"lipoamide dehydrogenase; E3 component is part of three enzyme complexes"	
+nusA	b3169	essential	transcription termination/antitermination L factor	10,73238524
+zwf	b1852	noessential	glucose-6-phosphate dehydrogenase	4,37335545
+yajQ	b0426	noessential	predicted nucleotide binding protein	
+yhbY	b3180	noessential	predicted RNA-binding protein	38,14435461
+wrbA	b1004	noessential	predicted flavoprotein in Trp regulation	
+tpiA	b3919	noessential	triosephosphate isomerase	15,09416173
+cyoD	b0429	noessential	cytochrome o ubiquinol oxidase subunit IV	17,55084328
+aspC	b0928	noessential	"aspartate aminotransferase; PLP-dependent"	
+aldA	b1415	noessential	"aldehyde dehydrogenase A; NAD-linked"	6,384343619
+mreB	b3251	essential	"cell wall structural complex MreBCD; actin-like component MreB"	11,94127538
+yiiU	b3928	noessential	conserved protein	29,80977577
+pstC	b3727	noessential	phosphate transporter subunit -!- membrane component of ABC superfamily	20,50768187
+rfaD	b3619	noessential	"ADP-L-glycero-D-mannoheptose-6-epimerase; NAD(P)-binding"	7,922583716
+serC	b0907	noessential	3-phosphoserine/phosphohydroxythreonine aminotransferase	16,21233988
+yadR	b0156	essential	conserved protein	7,255359847
+slyD	b3349	noessential	FKBP-type peptidyl prolyl cis-trans isomerase (rotamase)	
+pps	b1702	noessential	phosphoenolpyruvate synthase	4,170224366
+bolA	b0435	noessential	regulator of penicillin binding proteins and beta lactamase transcription (morphogene)	
+aceF	b0115	noessential	"pyruvate dehydrogenase; dihydrolipoyltransacetylase component E2"	8,067519042
+yjiY	b4354	noessential	predicted inner membrane protein	0,133024553
+gltD	b3213	noessential	"glutamate synthase; 4Fe-4S protein; small subunit"	
+pyrH	b0171	essential	uridylate kinase	3,660532514
+fba	b2925	essential	"fructose-bisphosphate aldolase; class II"	
+clpB	b2592	noessential	protein disaggregation chaperone	1,509805081
+yajC	b0407	noessential	SecYEG protein translocase auxillary subunit	10,54951373
+manY	b1818	noessential	mannose-specific enzyme IIC component of PTS	1,989331436
+ydfG	b1539	noessential	"L-allo-threonine dehydrogenase; NAD(P)-binding"	6,617315851
+ppa	b4226	essential	inorganic pyrophosphatase	21,48718202
+yaiE	b0391	noessential	conserved protein	6,200218922
+atpA	b3734	noessential	"F1 sector of membrane-bound ATP synthase; alpha subunit"	
+serS	b0893	essential	"seryl-tRNA synthetase; also charges selenocysteinyl-tRNA with serine"	12,33000625
+trxA	b3781	noessential	thioredoxin 1	25,84112053
+b1555	b1555	noessential	"Qin prophage; predicted protein"	
+galF	b2042	noessential	predicted subunit with GalU	20,42286656
+metJ	b3938	noessential	"DNA-binding transcriptional repressor; S-adenosylmethionine-binding"	
+hslU	b3931	noessential	molecular chaperone and ATPase component of HslUV protease	0,685095489
+purB	b1131	noessential	adenylosuccinate lyase	1,206811678
+rpsE	b3303	essential	30S ribosomal subunit protein S5	
+eno	b2779	essential	enolase	21,83182138
+yebJ	b1831	noessential	predicted structural transport element	
+ybdB	b0597	noessential	conserved protein	
+nuoA	b2288	noessential	"NADH:ubiquinone oxidoreductase; membrane subunit A"	8,070578836
+rcsB	b2217	noessential	DNA-binding response regulator in two-component regulatory system with RcsC and YojN	19,15767328
+vacB	b4179	noessential	"exoribonuclease R; RNase R"	
+prsA	b1207	essential	phosphoribosylpyrophosphate synthase	
+b3836	b3836	noessential	TatABCE protein translocation system subunit	
+fabI	b1288	essential	"enoyl-[acyl-carrier-protein] reductase; NADH-dependent"	
+cspA	b3556	noessential	major cold shock protein	29,00976158
+lpxD	b0179	essential	UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase	
+b2530	b2530	noessential	"cysteine desulfurase (tRNA sulfurtransferase); PLP-dependent"	
+fur	b0683	noessential	DNA-binding transcriptional dual regulator of siderophore biosynthesis and transport	30,37953086
+fldA	b0684	essential	flavodoxin 1	13,72023572
+yccJ	b1003	noessential	predicted protein	
+clpA	b0882	noessential	"ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease; chaperone activity"	4,263595097
+ydhD	b1654	noessential	conserved protein	10,01228778
+ribB	b3041	essential	"3;4-dihydroxy-2-butanone-4-phosphate synthase"	6,223884359
+lon	b0439	noessential	DNA-binding ATP-dependent protease La	5,020753975
+ybeD	b0631	noessential	conserved protein	2,700640359
+gltB	b3212	noessential	"glutamate synthase; large subunit"	6,025639572
+yjgD	b4255	noessential	conserved protein	
+tktA	b2935	noessential	"transketolase 1; thiamin-binding"	4,270168869
+ybbN	b0492	noessential	predicted thioredoxin domain-containing protein	1,626461995
+tnaA	b3708	noessential	"tryptophanase/L-cysteine desulfhydrase; PLP-dependent"	4,230372392
+valS	b4258	essential	valyl-tRNA synthetase	2,604467636
+adk	b0474	essential	adenylate kinase	18,1087013
+ybeX	b0658	noessential	predicteed ion transport	5,007031667
+glf	b2036	noessential	"UDP-galactopyranose mutase; FAD/NAD(P)-binding"	
+yggX	b2962	noessential	protein that protects iron-sulfur proteins against oxidative damage	3,100462495
+acnB	b0118	noessential	bifunctional aconitate hydratase 2 and 2-methylisocitrate dehydratase	6,824782201
+deaD	b3162	noessential	ATP-dependent RNA helicase	
+infA	b0884	essential	translation initiation factor IF-1	50,26351192
+yrfI	b3401	noessential	heat shock protein Hsp33	
+b2529	b2529	noessential	scaffold protein	
+ndk	b2518	noessential	multifunctional nucleoside diphosphate kinase and apyrimidinic endonuclease and 3'-phosphodiesterase	17,53579203
+pepD	b0237	noessential	aminoacyl-histidine dipeptidase (peptidase D)	4,234656008
+nrdA	b2234	essential	"ribonucleoside diphosphate reductase 1; alpha subunit"	4,214056385
+yaaA	b0006	noessential	conserved protein	
+mog	b0009	noessential	predicted molybdochelatase	
+dnaJ	b0015	noessential	"chaperone Hsp40; co-chaperone with DnaK"	2,517444955
+ribF	b0025	essential	bifunctional riboflavin kinase and FAD synthetase	10,42698006
+ileS	b0026	essential	isoleucyl-tRNA synthetase	4,655514435
+lytB	b0029	essential	"1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase; 4Fe-4S protein"	
+dapB	b0031	essential	dihydrodipicolinate reductase	3,72335626
+carA	b0032	noessential	"carbamoyl phosphate synthetase small subunit; glutamine amidotransferase"	27,9946901
+fixB	b0042	noessential	"predicted electron transfer flavoprotein; NAD/FAD-binding domain and ETFP adenine nucleotide-binding domain-like"	
+fixC	b0043	noessential	predicted oxidoreductase with FAD/NAD(P)-binding domain	
+kefC	b0047	noessential	potassium:proton antiporter	0,387545463
+folA	b0048	essential	dihydrofolate reductase	
+apaG	b0050	noessential	protein associated with Co2+ and Mg2+ efflux	1,617685789
+surA	b0053	noessential	peptidyl-prolyl cis-trans isomerase (PPIase)	8,470450082
+yabO	b0058	noessential	pseudouridine synthase for 23S rRNA (position 746) and tRNAphe(position 32)	
+hepA	b0059	noessential	RNA polymerase-associated helicase protein (ATPase and RNA polymerase recycling factor)	1,464897964
+araB	b0063	noessential	L-ribulokinase	
+fruR	b0080	noessential	DNA-binding transcriptional dual regulator	2,924881189
+yabB	b0081	noessential	conserved protein	
+yabC	b0082	noessential	S-adenosyl-dependent methyltransferase activity on membrane-located substrates	
+murE	b0085	essential	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-diaminopimelate ligase	1,238121781
+murF	b0086	essential	UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase	0,491018338
+murG	b0090	essential	N-acetylglucosaminyl transferase	
+ftsA	b0094	essential	ATP-binding cell division protein involved in recruitment of FtsK to Z ring	
+secA	b0098	essential	"preprotein translocase subunit; ATPase"	2,693961519
+mutT	b0099	noessential	"nucleoside triphosphate pyrophosphohydrolase; marked preference for dGTP"	0,619209702
+yacG	b0101	noessential	conserved protein	
+guaC	b0104	noessential	GMP reductase	2,423187711
+hofB	b0107	noessential	conserved protein with nucleoside triphosphate hydrolase domain	0,150059911
+nadC	b0109	noessential	quinolinate phosphoribosyltransferase	1,908469448
+yacL	b0119	noessential	conserved protein	3,783989757
+speD	b0120	noessential	S-adenosylmethionine decarboxylase	0,767077843
+yacK	b0123	noessential	multicopper oxidase (laccase)	
+yadG	b0127	noessential	predicted transporter subunit: ATP-binding component of ABC superfamily	1,102228501
+yadE	b0130	noessential	predicted polysaccharide deacetylase lipoprotein	0,189512
+panC	b0133	noessential	pantothenate synthetase	5,392025434
+htrE	b0139	noessential	predicted outer membrane usher protein	
+pcnB	b0143	noessential	poly(A) polymerase I	11,3995023
+yadB	b0144	noessential	glutamyl-Q tRNA(Asp) synthetase	
+yadP	b0147	noessential	2'-5' RNA ligase	
+mrcB	b0149	noessential	fused glycosyl transferase -!- transpeptidase	1,125502901
+fhuA	b0150	noessential	ferrichrome outer membrane transporter	2,931584937
+fhuC	b0151	noessential	iron-hydroxamate transporter subunit -!- ATP-binding component of ABC superfamily	1,056571402
+yaeG	b0162	noessential	DNA-binding transcriptional activator	
+glnD	b0167	noessential	uridylyltransferase	1,227604983
+tsf	b0170	essential	protein chain elongation factor EF-Ts	
+frr	b0172	essential	ribosome recycling factor	
+b0174	b0174	essential	undecaprenyl pyrophosphate synthase	
+hlpA	b0178	noessential	periplasmic chaperone	
+lpxB	b0182	essential	tetraacyldisaccharide-1-P synthase	0,497364635
+dnaE	b0184	essential	DNA polymerase III alpha subunit	
+ldcC	b0186	noessential	"lysine decarboxylase 2; constitutive"	1,057986034
+yaeR	b0187	noessential	predicted lyase	0,533696702
+yaeQ	b0190	noessential	conserved protein	
+yaeJ	b0191	noessential	conserved protein	2,069249634
+yaeC	b0197	noessential	DL-methionine transporter subunit -!- periplasmic-binding component of ABC superfamily	
+yafC	b0208	noessential	predicted DNA-binding transcriptional regulator	0,748602568
+yafD	b0209	noessential	conserved protein	5,074990309
+dniR	b0211	noessential	predicted membrane-bound lytic murein transglycosylase D	
+gloB	b0212	noessential	predicted hydroxyacylglutathione hydrolase	0,545163602
+yafV	b0219	noessential	"predicted C-N hydrolase family amidase; NAD(P)-binding"	
+fadE	b0221	noessential	acyl coenzyme A dehydrogenase	0,131839439
+dinJ	b0226	noessential	predicted antitoxin of YafQ-DinJ toxin-antitoxin system	6,046147958
+yafM	b0228	noessential	conserved protein	
+yafO	b0233	noessential	predicted toxin of the YafO-YafN toxin-antitoxin system	
+yafA	b0239	noessential	"hydrolase; binds to enzyme IIA(Glc)"	
+proA	b0243	noessential	gamma-glutamylphosphate reductase	5,328201575
+mhpF	b0351	noessential	"acetaldehyde-CoA dehydrogenase II; NAD-binding"	0,771075335
+mhpE	b0352	noessential	"4-hyroxy-2-oxovalerate/4-hydroxy-2-oxopentanoic acid aldolase; class I"	0,468085125
+adhC	b0356	noessential	alcohol dehydrogenase class III/glutathione-dependent formaldehyde dehydrogenase	
+ddlA	b0381	noessential	D-alanine-D-alanine ligase A	3,664020937
+yaiI	b0387	noessential	conserved protein	
+yaiA	b0389	noessential	predicted protein	8,747684113
+sbcC	b0397	noessential	"exonuclease; dsDNA; ATP-dependent"	0,485821032
+phoR	b0400	noessential	sensory histidine kinase in two-component regulatory system with PhoB	6,941192413
+b0420	b0420	essential	"1-deoxyxylulose-5-phosphate synthase; thiamine-requiring; FAD-requiring"	
+ispA	b0421	essential	geranyltranstransferase	3,275983335
+cyoE	b0428	noessential	protoheme IX farnesyltransferase	8,189593179
+cyoC	b0430	noessential	cytochrome o ubiquinol oxidase subunit III	6,27362552
+yajG	b0434	noessential	predicted lipoprotein	5,668191026
+ybaX	b0444	noessential	predicted aluminum resistance protein	
+ybaE	b0445	noessential	predicted transporter subunit: periplasmic-binding component of ABC superfamily	0,080152991
+mdlA	b0448	noessential	fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components	0,689395982
+mdlB	b0449	noessential	fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components	0,339288965
+ybaZ	b0454	noessential	predicted methyltransferase	1,441636678
+ybaA	b0456	noessential	conserved protein	
+ylaD	b0459	noessential	maltose O-acetyltransferase	
+ybaJ	b0461	noessential	predicted protein	9,049861547
+dnaX	b0470	essential	"DNA polymerase III/DNA elongation factor III; tau and gamma subunits"	3,094109854
+ybaB	b0471	noessential	conserved protein	10,2444105
+hemH	b0475	essential	ferrochelatase	1,159404483
+ybaK	b0481	noessential	conserved protein	1,411507579
+ybaP	b0482	noessential	conserved protein	3,387140609
+ybaS	b0485	noessential	predicted glutaminase	12,30671012
+ybbO	b0493	noessential	predicted oxidoreductase with NAD(P)-binding Rossmann-fold domain	1,463157289
+b0502	b0502	noessential	predicted DNA-binding transcriptional regulator	
+ybbB	b0503	noessential	"tRNA 2-selenouridine synthase; selenophosphate-dependent"	
+gcl	b0507	noessential	glyoxylate carboligase	0,08974933
+glxK	b0514	noessential	glycerate kinase II	
+allC	b0516	noessential	allantoate amidohydrolase	0,098142853
+ybbF	b0524	essential	"UDP-2;3-diacylglucosamine pyrophosphatase"	
+cysS	b0526	essential	cysteinyl-tRNA synthetase	3,692953994
+intD	b0537	noessential	"DLP12 prophage; predicted integrase"	3,161706088
+b0542	b0542	noessential	"DLP12 prophage; predicted protein"	
+nfrA	b0568	noessential	"bacteriophage N4 receptor; outer membrane subunit"	0,263177143
+nfrB	b0569	noessential	"bacteriophage N4 receptor; inner membrane subunit"	0,305246696
+cusS	b0570	noessential	"sensory histidine kinase in two-component regulatory system with CusR; senses copper ions"	1,454295457
+ybdG	b0577	noessential	predicted mechanosensitive channel	1,392845266
+ybdF	b0579	noessential	conserved protein	
+ybdK	b0581	noessential	gamma-glutamyl:cysteine ligase	
+entF	b0586	noessential	"enterobactin synthase multienzyme complex component;  ATP-dependent"	0,272301515
+fepB	b0592	noessential	iron-enterobactin transporter subunit -!- periplasmic-binding component of ABC superfamily	2,62587317
+entE	b0594	noessential	"2;3-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex"	0,5180744
+ybdN	b0602	noessential	conserved protein	
+dsbG	b0604	noessential	periplasmic disulfide isomerase/thiol-disulphide oxidase	0,727282664
+ybdQ	b0607	noessential	universal stress protein UP12	
+rnk	b0610	noessential	regulator of nucleoside diphosphate kinase	1,09977726
+rna	b0611	noessential	ribonuclease I	
+citG	b0613	noessential	triphosphoribosyl-dephospho-CoA transferase	
+citB	b0620	noessential	DNA-binding response regulator in two-component regulatory system with citA	
+ybeC	b0627	noessential	TatABCE protein translocation system subunit	
+lipA	b0628	noessential	lipoate synthase	10,34114035
+dacA	b0632	noessential	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)	3,460926782
+ybeA	b0636	noessential	conserved protein	3,023594808
+ybeB	b0637	noessential	predicted protein	6,705190672
+phpB	b0638	noessential	predicted alpha-ribazole-5'-P phosphatase	
+leuS	b0642	essential	leucyl-tRNA synthetase	7,298803708
+ybeL	b0643	noessential	conserved protein	8,360040779
+ybeW	b0650	noessential	"Hsp70 family chaperone Hsc62; binds to RpoD and inhibits transcription"	
+gltI	b0655	noessential	glutamate and aspartate transporter subunit -!- periplasmic-binding component of ABC superfamily	3,714863441
+ybeY	b0659	noessential	conserved protein	5,274574786
+ybeZ	b0660	noessential	predicted protein with nucleoside triphosphate hydrolase domain	2,738730187
+yleB	b0662	noessential	"2-octaprenyl-3-methyl-6-methoxy-1;4-benzoquinol oxygenase"	
+nagC	b0676	noessential	"DNA-binding transcriptional dual regulator; repressor of N-acetylglucosamine"	3,604132867
+glnS	b0680	essential	glutamyl-tRNA synthetase	5,214036044
+ybfF	b0686	noessential	conserved protein	1,253565045
+seqA	b0687	noessential	regulatory protein for replication initiation	7,185055896
+pgm	b0688	noessential	phosphoglucomutase	3,589682267
+kdpE	b0694	noessential	DNA-binding response regulator in two-component regulatory system with KdpD	0,14309529
+kdpD	b0695	noessential	fused sensory histidine kinase in two-component regulatory system with KdpE: signal sensing protein -!- sensory histidine kinase	0,483934069
+b0703	b0703	noessential	"conserved protein; rhs-like"	
+phrB	b0708	noessential	"deoxyribodipyrimidine photolyase; FAD-binding"	
+nei	b0714	noessential	endonuclease VIII -!- 5-formyluracil/5-hydroxymethyluracil DNA glycosylase	0,330309827
+gltA	b0720	noessential	citrate synthase	9,091215961
+b0725	b0725			
+sucA	b0726	noessential	"2-oxoglutarate decarboxylase; thiamin-requiring"	
+ybgC	b0736	noessential	predicted acyl-CoA thioesterase	6,66723991
+tolB	b0740	noessential	periplasmic protein	3,191147538
+ybgF	b0742	noessential	predicted protein	3,069854747
+gpmA	b0755	noessential	phosphoglyceromutase 1	
+galM	b0756	noessential	galactose-1-epimerase (mutarotase)	2,913563757
+bioF	b0776	noessential	8-amino-7-oxononanoate synthase	
+uvrB	b0779	noessential	"excinulease of nucleotide excision repair; DNA damage recognition component"	1,893860448
+moaC	b0783	noessential	"molybdopterin biosynthesis; protein C"	0,869844536
+moaD	b0784	noessential	"molybdopterin synthase; small subunit"	
+moaE	b0785	noessential	"molybdopterin synthase; large subunit"	1,238649535
+ybhF	b0794	noessential	fused predicted transporter subunits of ABC superfamily: ATP-binding components	0,87566713
+ybiB	b0800	noessential	predicted transferase/phosphorylase	0,537569255
+ybiC	b0801	noessential	predicted dehydrogenase	2,212975925
+ybiM	b0806	noessential	predicted protein	
+ybiN	b0807	noessential	predicted SAM-dependent methyltransferase	1,706124859
+dps	b0812	noessential	Fe-binding and storage protein	
+ybiS	b0819	noessential	conserved protein	4,882519782
+ybiT	b0820	noessential	fused predicted transporter subunits of ABC superfamily: ATP-binding components	3,250520173
+b0822	b0822	noessential	predicted hydrolase	
+moeB	b0826	noessential	molybdopterin synthase sulfurylase	1,473429807
+moeA	b0827	noessential	molybdopterin biosynthesis protein	0,699283168
+yliB	b0830	noessential	predicted peptide transporter subunit: periplasmic-binding component of ABC superfamily	
+b0836	b0836	noessential	conserved protein	
+b0844	b0844	noessential	conserved protein	
+artP	b0864	noessential	arginine transporter subunit -!- ATP-binding component of ABC superfamily	4,038829609
+ybjP	b0865	noessential	predicted lipoprotein	2,59390804
+b0866	b0866	noessential	conserved protein	
+ybjX	b0877	noessential	conserved protein	10,3232139
+b0878	b0878	noessential	"macrolide transporter subunit; membrane fusion protein (MFP) component"	
+cspD	b0880	noessential	cold shock protein homolog	25,55289283
+cydC	b0886	noessential	fused cysteine transporter subunits of ABC superfamily: membrane component -!- ATP-binding component	0,864652722
+cydD	b0887	noessential	fused cysteine transporter subunits of ABC superfamily: membrane component -!- ATP-binding component	1,25607674
+ftsK	b0890	essential	DNA-binding membrane protein required for chromosome resolution and partitioning	1,085027304
+lolA	b0891	essential	chaperone for lipoproteins	2,227620763
+ycaJ	b0892	noessential	recombination protein	
+ycaK	b0901	noessential	conserved protein	0,024043001
+ycaO	b0905	noessential	conserved protein	1,216599419
+msbA	b0914	essential	fused lipid transporter subunits of ABC superfamily: membrane component -!- ATP-binding component	2,035516463
+kdsB	b0918	essential	3-deoxy-manno-octulosonate cytidylyltransferase	3,304110334
+b0919	b0919	noessential	conserved protein	
+mukF	b0922	essential	"Involved in chromosome partioning; Ca2+ binding protein"	1,883174422
+mukB	b0924	essential	fused chromosome partitioning protein: predicted nucleotide hydrolase -!- conserved protein -!- conserved protein	
+ycbB	b0925	noessential	predicted carboxypeptidase	2,24092838
+ycbL	b0927	noessential	predicted metal-binding enzyme	14,02512821
+pncB	b0931	noessential	nicotinate phosphoribosyltransferase	7,476548915
+ycbE	b0933	noessential	alkanesulfonate transporter subunit -!- ATP-binding component of ABC superfamily	
+ycbY	b0948	noessential	predicted methyltransferase	1,722690684
+uup	b0949	noessential	fused predicted transporter subunits of ABC superfamily: ATP-binding components	2,063967028
+pqiB	b0951	noessential	paraquat-inducible protein B	
+ymbA	b0952	noessential	conserved protein	
+fabA	b0954	essential	beta-hydroxydecanoyl thioester dehydrase	18,03385231
+sulA	b0958	noessential	SOS cell division inhibitor	1,264505404
+b0959	b0959	noessential	conserved protein	
+b0964	b0964	noessential	conserved protein	
+b0965	b0965	noessential	predicted CoA-binding protein with NAD(P)-binding Rossmann-fold domain	
+b0968	b0968	noessential	predicted acylphosphatase	
+appC	b0978	noessential	"cytochrome bd-II oxidase; subunit I"	0,09547673
+cspG	b0990	noessential	DNA-binding transcriptional regulator	
+torS	b0993	noessential	hybrid sensory histidine kinase in two-component regulatory system with TorR	0,259865181
+torA	b0997	noessential	"trimethylamine N-oxide (TMAO) reductase I; catalytic subunit"	0,084602098
+yccD	b0999	noessential	modulator of CbpA co-chaperone	
+b1010	b1010	noessential	conserved protein	
+b1012	b1012	noessential	predicted monooxygenase	
+putA	b1014	noessential	fused DNA-binding transcriptional regulator -!- proline dehydrogenase -!- pyrroline-5-carboxylate dehydrogenase	0,233506434
+putP	b1015	noessential	proline:sodium symporter	1,121790944
+ycdO	b1018	noessential	conserved protein	2,239378212
+phoH	b1020	noessential	conserved protein with nucleoside triphosphate hydrolase domain	8,798747258
+pgaA	b1024	noessential	predicted outer membrane protein	
+ycdW	b1033	noessential	2-ketoacid reductase	2,997172631
+csgG	b1037	noessential	outer membrane lipoprotein	1,555210437
+csgD	b1040	noessential	DNA-binding transcriptional activator in two-component regulatory system	4,398743816
+ymdC	b1046	noessential	predicted hydrolase	1,024863954
+mdoH	b1049	noessential	glucan biosynthesis: glycosyl transferase	1,40341877
+yceA	b1055	noessential	conserved protein	6,833381649
+mviM	b1068	noessential	predicted oxidoreductase with NAD(P)-binding Rossmann-fold domain	1,100101611
+yceC	b1086	noessential	23S rRNA pseudouridylate synthase	
+yceF	b1087	noessential	predicted protein	3,827759507
+yceD	b1088	noessential	conserved protein	38,94068027
+plsX	b1090	noessential	fatty acid/phospholipid synthesis protein	10,55543684
+fabH	b1091	noessential	3-oxoacyl-[acyl-carrier-protein] synthase III	6,166668401
+fabD	b1092	essential	malonyl-CoA-[acyl-carrier-protein] transacylase	3,344972164
+fabF	b1095	noessential	3-oxoacyl-[acyl-carrier-protein] synthase II	8,130580654
+tmk	b1098	essential	thymidylate kinase	0,885059373
+holB	b1099	essential	"DNA polymerase III; delta prime subunit"	1,482548619
+ycfH	b1100	noessential	predicted metallodependent hydrolase	3,728225127
+ycfF	b1103	noessential	purine nucleoside phosphoramidase	
+nagZ	b1107	noessential	beta N-acetyl-glucosaminidase	2,277305018
+ycfP	b1108	noessential	conserved protein	
+ndh	b1109	noessential	respiratory NADH dehydrogenase 2/cupric reductase	8,383183143
+ycfR	b1112	noessential	predicted protein	
+mfd	b1114	noessential	transcription-repair coupling factor	1,490628666
+b1117	b1117	essential	outer membrane-specific lipoprotein transporter subunit -!- ATP-binding component of ABC superfamily	
+ycfX	b1119	noessential	N-acetyl-D-glucosamine kinase	1,429377939
+cobB	b1120	noessential	"deacetylase of acetyl-CoA synthetase; NAD-dependent"	1,423443922
+pepT	b1127	noessential	peptidase T	5,098082993
+ycfD	b1128	noessential	conserved protein	2,793817775
+phoQ	b1129	noessential	sensory histidine kinase in two-compoent regulatory system with PhoP	1,415194646
+ycfB	b1133	essential	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	
+ycgE	b1162	noessential	predicted DNA-binding transcriptional regulator	7,976036793
+b1163	b1163	noessential	predicted FAD-binding phosphodiesterase	
+fadR	b1187	noessential	DNA-binding transcriptional dual regulator of fatty acid metabolism	3,787482413
+dadX	b1190	noessential	"alanine racemase 2; PLP-binding"	3,884814981
+treA	b1197	noessential	periplasmic trehalase	
+ycgC	b1198	noessential	fused predicted dihydroxyacetone-specific PTS enzymes: HPr component -!- EI component	
+b1200	b1200	noessential	"dihydroxyacetone kinase; N-terminal domain"	
+ycgV	b1202	noessential	predicted adhesin	0,076572078
+pth	b1204	essential	peptidyl-tRNA hydrolase	2,43612216
+ychB	b1208	essential	4-diphosphocytidyl-2-C-methylerythritol kinase	
+prfA	b1211	essential	peptide chain release factor RF-1	3,052339137
+kdsA	b1215	essential	3-deoxy-D-manno-octulosonate 8-phosphate synthase	3,918900451
+narG	b1224	noessential	"nitrate reductase 1; alpha subunit"	
+narH	b1225	noessential	"nitrate reductase 1; beta (Fe-S) subunit"	0,023431729
+narJ	b1226	noessential	molybdenum-cofactor-assembly chaperone subunit (delta subunit) of nitrate reductase 1	
+b1228	b1228	noessential	predicted protein	
+ychJ	b1233	noessential	conserved protein	5,246527809
+ychK	b1234	noessential	conserved protein	
+b1240	b1240		"predicted protein; N-ter fragment (pseudogene)"	
+b1248	b1248	noessential	predicted protein	
+kch	b1250	noessential	voltage-gated potassium channel	1,995479308
+yciI	b1251	noessential	predicted enzyme	5,667029666
+yciE	b1257	noessential	conserved protein	
+yciF	b1258	noessential	conserved protein	
+yciL	b1269	noessential	23S rRNA pseudouridylate synthase	
+sohB	b1272	noessential	predicted inner membrane peptidase	4,169782582
+yciN	b1273	noessential	predicted protein	3,580623265
+topA	b1274	essential	"DNA topoisomerase I; omega subunit"	5,895671855
+cysB	b1275	noessential	"DNA-binding transcriptional dual regulator; O-acetyl-L-serine-binding"	4,904980447
+yciM	b1280	noessential	conserved protein	3,182649139
+sapF	b1290	noessential	predicted antimicrobial peptide transporter subunit -!- ATP-binding component of ABC superfamily	0,552000348
+sapA	b1294	noessential	predicted antimicrobial peptide transporter subunit -!- periplasmic-binding component of ABC superfamily	0,861984195
+ymjA	b1295	noessential	predicted protein	
+ycjX	b1321	noessential	conserved protein with nucleoside triphosphate hydrolase domain	
+tyrR	b1323	noessential	"DNA-binding transcriptional dual regulator; tyrosine-binding"	3,302857875
+b1327	b1327	noessential	predicted hydrolase	
+ydaA	b1333	noessential	stress-induced protein	
+ogt	b1335	noessential	O-6-alkylguanine-DNA:cysteine-protein methyltransferase	0,977181047
+b1337	b1337	noessential	"predicted peptidase; aminobenzoyl-glutamate utilization protein"	
+b1341	b1341	noessential	"predicted diguanylate cyclase; GGDEF domain signalling protein"	
+recE	b1350	noessential	"Rac prophage; exonuclease VIII; 5' -> 3' specific dsDNA exonuclease"	
+b1355	b1355	noessential	"Rac prophage; predicted protein"	
+ydaW	b1361	noessential	"Rac prophage; predicted DNA-binding protein"	
+b1371	b1371		"Rac prophage; predicted protein; C-ter fragment (pseudogene)"	
+b1374	b1374	noessential	"Rac prophage; predicted site-specific recombinase"	
+ydbK	b1378	noessential	fused predicted pyruvate-flavodoxin oxidoreductase: conserved protein -!- conserved protein -!- FeS binding protein	1,026808698
+hslJ	b1379	noessential	heat-inducible protein	5,522329556
+ydbO	b1388	noessential	predicted multicomponent oxygenase/reductase subunit for phenylacetic acid degradation	
+b1391	b1391	noessential	predicted multicomponent oxygenase/reductase subunit for phenylacetic acid degradation	
+paaF	b1393	noessential	enoyl-CoA hydratase-isomerase	
+b1396	b1396	noessential	predicted thioesterase	
+b1398	b1398	noessential	phenylacetyl-CoA ligase	
+b1399	b1399	noessential	"DNA-binding transcriptional repressor of phenylacetic acid degradation; aryl-CoA responsive"	
+ydbC	b1406	noessential	"predicted oxidoreductase; NAD(P)-binding"	0,868819386
+b1410	b1410	noessential	predicted hydrolase	
+hrpA	b1413	noessential	ATP-dependent helicase	0,95173677
+ydcI	b1422	noessential	predicted DNA-binding transcriptional regulator	2,759114729
+b1423	b1423	noessential	conserved protein	
+tehB	b1430	noessential	predicted S-adenosyl-L-methionine-dependent methyltransferase	
+ydcN	b1434	noessential	predicted DNA-binding transcriptional regulator	1,574719705
+ydcP	b1435	noessential	predicted peptidase	1,750395533
+yncB	b1449	noessential	"predicted oxidoreductase; Zn-dependent and NAD(P)-binding"	
+narW	b1466	noessential	"nitrate reductase 2 (NRZ); delta subunit (assembly subunit)"	
+narZ	b1468	noessential	"nitrate reductase 2 (NRZ); alpha subunit"	0,263113058
+fdnG	b1474	noessential	"formate dehydrogenase-N; alpha subunit; nitrate-inducible"	0,020566152
+osmC	b1482	noessential	"osmotically inducible; stress-inducible membrane protein"	
+ddpA	b1487	noessential	D-ala-D-a la transporter subunit -!- periplasmic-binding component of ABC superfamily	
+pqqL	b1494	noessential	predicted peptidase	
+b1501	b1501	noessential	predicted oxidoreductase	
+hipA	b1507	noessential	regulator with hipB	0,915922521
+ydeH	b1535	noessential	conserved protein	3,211751566
+ydeI	b1536	noessential	conserved protein	1,370189996
+ydeJ	b1537	noessential	conserved protein	
+dcp	b1538	noessential	dipeptidyl carboxypeptidase II	1,302591021
+b1552	b1552	noessential	"Qin prophage; cold shock protein"	
+cspB	b1557	noessential	"Qin prophage; cold shock protein"	5,188877733
+relE	b1563	noessential	"Qin prophage; toxin of the RelE-RelB toxin-antitoxin system"	
+relB	b1564	noessential	"Qin prophage; bifunctional antitoxin of the RelE-RelB toxin-antitoxin system and transcriptional repressor"	
+rspA	b1581	noessential	predicted dehydratase	
+b1593	b1593	noessential	predicted dethiobiotin synthetase	
+b1598	b1598	noessential	predicted peptidase	
+fumC	b1611	noessential	"fumarate hydratase (fumarase C);aerobic Class II"	0,943162377
+manA	b1613	noessential	mannose-6-phosphate isomerase	2,774594433
+b1624	b1624	noessential	predicted oxidoreductase	
+b1625	b1625	noessential	predicted regulator	
+b1628	b1628	noessential	predicted iron-sulfur protein	
+rsxC	b1629	noessential	fused predicted 4Fe-4S ferredoxin-type protein -!- conserved protein	1,002873836
+nth	b1633	noessential	DNA glycosylase and apyrimidinic (AP) lyase (endonuclease III)	
+pdxH	b1638	noessential	pyridoxine 5'-phosphate oxidase	4,017367335
+b1648	b1648	noessential	conserved protein	
+b1649	b1649	noessential	predicted DNA-binding transcriptional regulator	
+gloA	b1651	noessential	"glyoxalase I; Ni-dependent"	
+lhr	b1653	noessential	predicted ATP-dependent helicase	0,151489303
+b1667	b1667	noessential	predicted protein	
+b1668	b1668	noessential	conserved protein with FAD/NAD(P)-binding domain	
+b1672	b1672	noessential	predicted protein	
+b1673	b1673	noessential	predicted oxidoreductase	
+b1675	b1675	noessential	predicted protein	
+pykF	b1676	noessential	pyruvate kinase I	
+ynhG	b1678	noessential	conserved protein	0,809792465
+b1685	b1685	noessential	predicted protein	
+ydiJ	b1687	noessential	predicted FAD-linked oxidoreductase	2,638270487
+ydiB	b1692	noessential	"quinate/shikimate 5-dehydrogenase; NAD(P)-binding"	0,846013275
+ydiA	b1703	noessential	conserved protein	1,61089891
+pfkB	b1723	noessential	6-phosphofructokinase II	
+b1731	b1731	noessential	cell division modulator	
+ydjC	b1733	noessential	conserved protein	
+nadE	b1740	essential	"NAD synthetase; NH3/glutamine-dependent"	2,18571279
+spy	b1743	noessential	envelope stress induced periplasmic protein	
+b1745	b1745	noessential	succinylarginine dihydrolase	
+astC	b1748	noessential	"succinylornithine transaminase; PLP-dependent"	0,819362533
+xthA	b1749	noessential	exonuclease III	3,295807248
+topB	b1763	noessential	DNA topoisomerase III	1,620805501
+ydjA	b1765	noessential	predicted oxidoreductase	4,577463274
+ansA	b1767	noessential	cytoplasmic L-asparaginase I	1,258095296
+ydjB	b1768	noessential	nicotinamidase/pyrazinamidase	
+b1770	b1770	noessential	predicted DNA-binding transcriptional regulator	
+b1773	b1773	noessential	predicted aldolase	
+yeaA	b1778	noessential	methionine sulfoxide reductase B	15,79789913
+gapA	b1779	essential	glyceraldehyde-3-phosphate dehydrogenase A	
+yeaU	b1800	noessential	predicted dehydrogenase	
+rnd	b1804	noessential	ribonuclease D	1,716342953
+yeaB	b1813	noessential	predicted NUDIX hydrolase	1,849759001
+manX	b1817	noessential	fused mannose-specific PTS enzymes: IIA component -!- IIB component	
+cspC	b1823	noessential	"stress protein; member of the CspA-family"	99,26409993
+htpX	b1829	noessential	predicted endopeptidase	9,085872423
+yebE	b1846	noessential	conserved protein	1,688660975
+yebG	b1848	noessential	conserved protein regulated by LexA	3,979177637
+edd	b1851	noessential	6-phosphogluconate dehydratase	
+lpxM	b1855	noessential	myristoyl-acyl carrier protein (ACP)-dependent acyltransferase	5,128878117
+yebM	b1858	noessential	zinc transporter subunit: ATP-binding component of ABC superfamily	
+yebB	b1862	noessential	predicted protein	
+ruvC	b1863	noessential	"component of RuvABC resolvasome; endonuclease"	1,20838335
+aspS	b1866	essential	aspartyl-tRNA synthetase	5,511100467
+yecM	b1875	noessential	predicted metal-binding enzyme	4,807710253
+cheY	b1882	noessential	chemotaxis regulator transmitting signal to flagellar motor component	
+tar	b1886	noessential	methyl-accepting chemotaxis protein II	
+cheW	b1887	noessential	purine-binding chemotaxis protein	
+flhC	b1891	noessential	DNA-binding transcriptional dual regulator with FlhD	4,125375966
+flhD	b1892	noessential	DNA-binding transcriptional dual regulator with FlhC	10,78381483
+otsA	b1896	noessential	trehalose-6-phosphate synthase	2,815969266
+pgsA	b1912	essential	phosphatidylglycerophosphate synthetase	1,365633334
+uvrC	b1913	noessential	"excinuclease UvrABC; endonuclease subunit"	3,31346875
+uvrY	b1914	noessential	DNA-binding response regulator in two-component regulatory system with BarA	9,330285967
+sdiA	b1916	noessential	DNA-binding transcriptional activator	1,608406824
+yecC	b1917	noessential	predicted transporter subunit: ATP-binding component of ABC superfamily	
+yedO	b1919	noessential	"D-cysteine desulfhydrase; PLP-dependent"	0,479412407
+fliY	b1920	noessential	cystine transporter subunit -!- periplasmic-binding component of ABC superfamily	5,348256628
+fliN	b1946	noessential	flagellar motor switching and energizing component	
+yedJ	b1962	noessential	predicted phosphohydrolase	4,808055464
+yedU	b1967	noessential	Hsp31 molecular chaperone	
+yedV	b1968	noessential	predicted sensory kinase in two-component regulatory system with YedW	
+yedW	b1969	noessential	predicted DNA-binding response regulator in two-component system with YedV	
+b1983	b1983	noessential	conserved protein	
+cobT	b1991	noessential	nicotinate-nucleotide dimethylbenzimidazole-P phophoribosyl transferase	1,346552947
+flu	b2000	noessential	"CP4-44 prophage; antigen 43 (Ag43) phase-variable biofilm formation autotransporter"	
+yeeR	b2001	noessential	"CP4-44 prophage; predicted membrane protein"	
+yeeX	b2007	noessential	conserved protein	11,65102078
+sbcB	b2011	noessential	exonuclease I	
+hisC	b2021	noessential	histidinol-phosphate aminotransferase	1,063402271
+hisI	b2026	noessential	fused phosphoribosyl-AMP cyclohydrolase -!- phosphoribosyl-ATP pyrophosphatase	
+gnd	b2029	noessential	"gluconate-6-phosphate dehydrogenase; decarboxylating"	
+wbbK	b2032	noessential	lipopolysaccharide biosynthesis protein	
+rfbD	b2040	noessential	"dTDP-4-dehydrorhamnose reductase subunit; NAD(P)-binding; of dTDP-L-rhamnose synthase"	6,254310572
+yegH	b2063	noessential	fused predicted membrane protein -!- predicted membrane protein	0,452873437
+asmA	b2064	noessential	predicted assembly protein	2,576487483
+dcd	b2065	noessential	2'-deoxycytidine 5'-triphosphate deaminase	
+yegE	b2067	noessential	"predicted diguanylate cyclase; GGDEF domain signalling protein"	0,924697288
+alkA	b2068	noessential	3-methyl-adenine DNA glycosylase II	0,593185116
+b2073	b2073	noessential	conserved protein	
+b2074	b2074	noessential	"multidrug efflux system; subunit A"	
+baeR	b2079	noessential	DNA-binding response regulator in two-component regulatory system with BaeS	
+b2085	b2085	noessential	predicted protein	
+gatB	b2093	noessential	galactitol-specific enzyme IIB component of PTS	3,608141692
+gatA	b2094	noessential	galactitol-specific enzyme IIA component of PTS	3,850556796
+gatY	b2096	noessential	"D-tagatose 1;6-bisphosphate aldolase 2; catalytic subunit"	25,95754551
+b2097	b2097	noessential	fructose-bisphosphate aldolase class I	
+yegU	b2099	noessential	predicted hydrolase	
+metG	b2114	essential	methionyl-tRNA synthetase	5,153160907
+yehL	b2119	noessential	predicted transporter subunit: ATP-binding component of ABC superfamily	
+mlrA	b2127	noessential	DNA-binding transcriptional regulator	2,414915665
+pbpG	b2134	noessential	D-alanyl-D-alanine endopeptidase	1,619175982
+yohF	b2137	noessential	predicted oxidoreductase with NAD(P)-binding Rossmann-fold domain	0,601540374
+yohI	b2140	noessential	tRNA-dihydrouridine synthase C	
+yeiA	b2147	noessential	predicted oxidoreductase	0,117945121
+cirA	b2155	noessential	ferric iron-catecholate outer membrane transporter	0,563265057
+nfo	b2159	noessential	endonuclease IV with intrinsic 3'-5' exonuclease activity	2,358690538
+fruK	b2168	noessential	fructose-1-phosphate kinase	1,11744857
+yeiP	b2171	noessential	predicted elongtion factor	3,231115817
+rtn	b2176	noessential	conserved protein	1,11085989
+rsuA	b2183	noessential	16S rRNA pseudouridylate 516 synthase	4,376377356
+yejH	b2184	noessential	predicted ATP-dependet helicase	0,819158478
+yejL	b2187	noessential	conserved protein	5,065692358
+napD	b2207	noessential	assembly protein for periplasmic nitrate reductase	
+yojL	b2214	noessential	predicted thiamine biosynthesis lipoprotein	
+ompC	b2215	noessential	outer membrane porin protein C	66,11476382
+yojN	b2216	noessential	phosphotransfer intermediate protein in two-component regulatory system with RcsBC	
+rcsC	b2218	noessential	hybrid sensory kinase in two-component regulatory system with RcsB and YojN	
+gyrA	b2231	essential	"DNA gyrase (type II topoisomerase); subunit A"	6,570290688
+ubiG	b2232	noessential	bifunctional 3-demethylubiquinone-9 3-methyltransferase and 2-octaprenyl-6-hydroxy phenol methylase	3,69724593
+glpC	b2243	noessential	"sn-glycerol-3-phosphate dehydrogenase (anaerobic); small subunit"	
+b2248	b2248	noessential	predicted DNA-binding transcriptional regulator	
+yfaO	b2251	noessential	predicted NUDIX hydrolase	
+b2255	b2255	noessential	fused UDP-L-Ara4N formyltransferase -!- UDP-GlcA C-4'-decarboxylase	
+menC	b2261	noessential	o-succinylbenzoyl-CoA synthase	
+menB	b2262	noessential	dihydroxynaphthoic acid synthetase	
+menD	b2264	noessential	bifunctional 2-oxoglutarate decarboxylase and SHCHC synthase	0,498770426
+elaA	b2267	noessential	predicted acyltransferase with acyl-CoA N-acyltransferase domain	3,797671114
+nuoG	b2283	noessential	"NADH:ubiquinone oxidoreductase; chain G"	
+nuoF	b2284	noessential	"NADH:ubiquinone oxidoreductase; chain F"	1,356570869
+nuoE	b2285	noessential	"NADH:ubiquinone oxidoreductase; chain E"	8,009589916
+nuoC	b2286	noessential	"NADH:ubiquinone oxidoreductase; chain C;D"	6,287468662
+nuoB	b2287	noessential	"NADH:ubiquinone oxidoreductase; chain B"	11,66003673
+b2290	b2290	noessential	predicted aminotransferase	
+yfbT	b2293	noessential	predicted hydrolase or phosphatase	2,394876395
+ackA	b2296	noessential	acetate kinase A and propionate kinase 2	4,180004927
+pta	b2297	noessential	phosphate acetyltransferase	
+b2299	b2299	noessential	predicted NUDIX hydrolase	
+yfcE	b2300	noessential	predicted phosphatase	
+yfcF	b2301	noessential	predicted enzyme	
+hisJ	b2309	noessential	histidine/lysine/arginine/ornithine transporter subunit -!- periplasmic-binding component of ABC superfamily	1,520671808
+argT	b2310	noessential	lysine/arginine/ornithine transporter subunit -!- periplasmic-binding component of ABC superfamily	3,144975363
+ubiX	b2311	noessential	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	
+dedD	b2314	noessential	conserved protein	2,516803424
+folC	b2315	essential	bifunctional folylpolyglutamate synthase and dihydrofolate synthase	1,160324446
+truA	b2318	noessential	pseudouridylate synthase I	2,440254338
+fabB	b2323	essential	3-oxoacyl-[acyl-carrier-protein] synthase I	14,34719178
+b2341	b2341	noessential	fused enoyl-CoA hydratase and epimerase and isomerase -!- 3-hydroxyacyl-CoA dehydrogenase	
+intC	b2349	noessential	"CPS-53 (KpLE1) prophage; predicted prophage CPS-53 integrase"	
+dsdA	b2366	noessential	D-serine ammonia-lyase	0,100001475
+evgS	b2370	noessential	hybrid sensory histidine kinase in two-component regulatory system with EvgA	1,525168314
+oxc	b2373	noessential	predicted oxalyl-CoA decarboxylase	0,105754324
+b2384	b2384	noessential	predicted peptidase	
+b2385	b2385	noessential	predicted peptidase	
+yfeR	b2409	noessential	predicted DNA-binding transcriptional regulator	
+lig	b2411	essential	"DNA ligase; NAD(+)-dependent"	
+cysM	b2421	noessential	cysteine synthase B (O-acetylserine sulfhydrolase B)	2,678685217
+ucpA	b2426	noessential	"predicted oxidoredutase; sulfate metabolism protein"	1,308974723
+yfeU	b2428	noessential	predicted PTS component	0,05292741
+hemF	b2436	noessential	coproporphyrinogen III oxidase	
+eutB	b2441	noessential	"ethanolamine ammonia-lyase; large subunit; heavy chain"	2,616573071
+b2443	b2443	noessential	"CPZ-55 prophage; predicted protein"	
+eutI	b2458	noessential	predicted phosphotransacetylase subunit	
+b2459	b2459	noessential	predicted cobalamin adenosyltransferase in ethanolamine utilization	
+b2463	b2463	noessential	fused malic enzyme predicted oxidoreductase -!- predicted phosphotransacetylase	
+tktB	b2465	noessential	"transketolase 2; thiamin-binding"	0,679359815
+yffH	b2467	noessential	predicted NUDIX hydrolase	
+ypfI	b2474	noessential	predicted hydrolase	0,467995667
+dapA	b2478	essential	dihydrodipicolinate synthase	17,66472705
+b2496	b2496	essential	ATPase regulatory factor involved in DnaA inactivation	
+ppk	b2501	noessential	"polyphosphate kinase; component of RNA degradosome"	2,020893684
+guaA	b2507	noessential	GMP synthetase (glutamine aminotransferase)	6,412027304
+b2511	b2511	essential	predicted GTP-binding protein	
+hisS	b2514	essential	histidyl tRNA synthetase	9,212667882
+gcpE	b2515	essential	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase	
+yfgA	b2516	noessential	conserved protein	6,107724348
+yfgB	b2517	noessential	predicted enzyme	3,669631762
+b2520	b2520	noessential	conserved protein	
+pepB	b2523	noessential	aminopeptidase B	
+yphE	b2547	noessential	fused predicted sugar transporter subunits of ABC superfamily: ATP-binding components	
+glnB	b2553	noessential	regulatory protein P-II for glutamine synthetase	5,276979561
+yfhA	b2554	noessential	predicted DNA-binding response regulator in two-component system	0,986434861
+purL	b2557	noessential	phosphoribosylformyl-glycineamide synthetase	5,370401963
+yfhC	b2559	noessential	tRNA-specific adenosine deaminase	
+acpS	b2563	essential	holo-[acyl-carrier-protein] synthase 1	
+recO	b2565	noessential	gap repair protein	1,968372918
+era	b2566	essential	"membrane-associated; 16S rRNA-binding GTPase"	7,761329258
+rnc	b2567	noessential	RNase III	12,37439758
+lepA	b2569	noessential	GTP-binding membrane protein	2,846063946
+yfiD	b2579	noessential	pyruvate formate lyase subunit	3,612923022
+ung	b2580	noessential	uracil-DNA-glycosylase	1,242139903
+yfiF	b2581	noessential	predicted methyltransferase	1,320536007
+yfiQ	b2584	noessential	fused predicted acyl-CoA synthetase: NAD(P)-binding subunit -!- ATP-binding subunit	1,163851466
+sfhB	b2594	noessential	23S rRNA pseudouridine synthase	
+tyrA	b2600	noessential	fused chorismate mutase T -!- prephenate dehydrogenase	1,379707445
+yfjB	b2615	essential	NAD kinase	
+recN	b2616	noessential	recombination and repair protein	
+smpB	b2620	noessential	trans-translation protein	6,366705984
+yfjK	b2627	noessential	"CP4-57 prophage; conserved protein"	0,557358931
+yfjL	b2628	noessential	"CP4-57 prophage; predicted protein"	1,53880126
+gabD	b2661	noessential	"succinate-semialdehyde dehydrogenase I; NADP-dependent"	
+b2667	b2667	noessential	predicted DNA-binding transcriptional regulator	
+ygaP	b2668	noessential	predicted inner membrane protein with hydrolase activity	
+nrdH	b2673	noessential	glutaredoxin-like protein	
+gshA	b2688	noessential	gamma-glutamate-cysteine ligase	4,810161152
+yqaB	b2690	noessential	predicted hydrolase	3,614570282
+alaS	b2697	essential	alanyl-tRNA synthetase	9,756847146
+mltB	b2701	noessential	membrane-bound lytic murein transglycosylase B	0,745002085
+hycI	b2717	noessential	protease involved in processing C-terminal end of HycE	
+hycE	b2721	noessential	"hydrogenase 3; large subunit"	
+hycA	b2725	noessential	regulator of the transcriptional regulator FhlA	
+hypA	b2726	noessential	protein involved in nickel insertion into hydrogenases 3	
+hypB	b2727	noessential	GTP hydrolase involved in nickel liganding into hydrogenases	
+hypC	b2728	noessential	protein required for maturation of hydrogenases 1 and 3	
+hypD	b2729	noessential	protein required for maturation of hydrogenases	0,448070179
+hypE	b2730	noessential	"carbamoyl phosphate phosphatase; hydrogenase 3 maturation protein"	0,556928449
+ygbO	b2745	noessential	pseudoruidine synthase	
+ygbB	b2746	essential	"2C-methyl-D-erythritol 2;4-cyclodiphosphate synthase"	
+cysN	b2751	noessential	"sulfate adenylyltransferase; subunit 1"	0,202560865
+ygbT	b2755	noessential	conserved protein	0,147332895
+ygcM	b2765	noessential	6-pyruvoyl tetrahydrobiopterin synthase (PTPS)	1,952334595
+ygcW	b2774	noessential	predicted deoxygluconate dehydrogenase	
+ygcE	b2776	noessential	predicted kinase	
+ygcF	b2777	noessential	conserved protein	2,883885264
+barA	b2786	noessential	"hybrid sensory histidine kinase; in two-component regulatory system with UvrY"	0,726401996
+syd	b2793	noessential	predicted protein	
+exo	b2798	noessential	exonuclease IX (5'-3' exonuclease)	1,87895379
+fucK	b2803	noessential	L-fuculokinase	
+fucU	b2804	noessential	L-fucose mutarotase	1,059549192
+b2810	b2810	noessential	cysteine sulfinate desulfinase	
+mltA	b2813	noessential	membrane-bound lytic murein transglycosylase A	4,574332476
+recD	b2819	noessential	"exonuclease V (RecBCD complex); alpha chain"	
+recB	b2820	noessential	"exonuclease V (RecBCD complex); beta subunit"	0,49877229
+thyA	b2827	noessential	thymidylate synthetase	3,005701487
+ygdP	b2830	noessential	nucleotide hydrolase	
+mutH	b2831	noessential	methyl-directed mismatch repair protein	
+lysA	b2838	noessential	"diaminopimelate decarboxylase; PLP-binding"	0,711113997
+kduI	b2843	noessential	predicted 5-keto 4-deoxyuronate isomerase	0,158435863
+yqeF	b2844	noessential	predicted acyltransferase	5,576979593
+b2865	b2865	noessential	Tetratricopeptide repeat transcriptional regulator	
+b2866	b2866	noessential	"xanthine dehydrogenase; molybdenum binding subunit"	
+ygeV	b2869	noessential	predicted DNA-binding transcriptional regulator	0,185304671
+hyuA	b2873	noessential	D-stereospecific phenylhydantoinase	
+yqeA	b2874	noessential	predicted amino acid kinase	
+yqeB	b2875	noessential	conserved protein with NAD(P)-binding Rossman fold	
+ygfT	b2887	noessential	fused predicted oxidoreductase: Fe-S subunit -!- nucleotide-binding subunit	
+ygfU	b2888	noessential	predicted transporter	
+recJ	b2892	noessential	"ssDNA exonuclease; 5' --> 3'-specific"	1,754960541
+dsbC	b2893	noessential	protein disulfide isomerase II	5,196620063
+gcvP	b2903	noessential	"glycine decarboxylase; PLP-dependent; subunit (protein P) of glycine cleavage complex"	1,055721158
+gcvT	b2905	noessential	"aminomethyltransferase; tetrahydrofolate-dependent; subunit (T protein) of glycine cleavage complex"	1,254846917
+visC	b2906	noessential	predicted oxidoreductase with FAD/NAD(P)-binding domain	0,829592795
+ubiH	b2907	noessential	"2-octaprenyl-6-methoxyphenol hydroxylase; FAD/NAD(P)-binding"	1,527041809
+pepP	b2908	noessential	proline aminopeptidase P II	3,379149323
+ygfB	b2909	noessential	predicted protein	9,306331272
+ygfA	b2912	noessential	predicted ligase	
+iciA	b2916	noessential	"DNA-binding transcriptional activator; replication initiation inhibitor"	
+ygfH	b2920	noessential	propionyl-CoA:succinate-CoA transferase	0,213332002
+yggE	b2922	noessential	conserved protein	2,931300406
+sprT	b2944	noessential	conserved protein	
+yqgE	b2948	noessential	predicted protein	5,263417051
+yqgF	b2949	essential	predicted Holliday junction resolvase	
+yggS	b2951	noessential	predicted enzyme	
+yggV	b2954	noessential	dITP/XTP pyrophosphatase	
+yggW	b2955	noessential	predicted oxidoreductase	0,994455502
+yggH	b2960	noessential	"tRNA (m7G46) methyltransferase; SAM-dependent"	
+mutY	b2961	noessential	adenine DNA glycosylase	1,16914864
+speC	b2965	noessential	"ornithine decarboxylase; constitutive"	0,727186865
+b2971	b2971	noessential	predicted protein	
+glcB	b2976	noessential	malate synthase G	
+hybD	b2993	noessential	predicted maturation element for hydrogenase 2	
+yghA	b3003	noessential	"predicted glutathionylspermidine synthase; with NAD(P)-binding Rossmann-fold domain"	
+yqhD	b3011	noessential	"alcohol dehydrogenase; NAD(P)-dependent"	
+parC	b3019	essential	"DNA topoisomerase IV; subunit A"	2,906842346
+parE	b3030	essential	"DNA topoisomerase IV; subunit B"	2,361299233
+glnE	b3053	noessential	fused deadenylyltransferase -!- adenylyltransferase for glutamine synthetase	1,348551728
+ygiF	b3054	noessential	predicted adenylate cyclase	2,272661504
+cca	b3056	essential	fused tRNA nucleotidyl transferase -!- 2'3'-cyclic phosphodiesterase and 2'nucleotidase and phosphatase	4,76177142
+ygiP	b3060	noessential	predicted DNA-binding transcriptional regulator	
+ygjD	b3064	essential	predicted peptidase	3,507489076
+yqjI	b3071	noessential	predicted transcriptional regulator	2,770633606
+ygjG	b3073	noessential	"putrescine:2-oxoglutaric acid aminotransferase; PLP-dependent"	2,015494555
+ygjH	b3074	noessential	conserved protein	
+uxaA	b3091	noessential	altronate hydrolase	0,252414059
+yqjG	b3102	noessential	predicted S-transferase	
+yhaJ	b3105	noessential	predicted DNA-binding transcriptional regulator	
+tdcD	b3115	noessential	"propionate kinase/acetate kinase C; anaerobic"	
+yhaD	b3124	noessential	glycerate kinase I	
+garL	b3126	noessential	alpha-dehydro-beta-deoxy-D-glucarate aldolase	
+yraL	b3146	noessential	predicted methyltransferase	1,563868445
+yraM	b3147	noessential	conserved protein	2,493939623
+yraN	b3148	noessential	conserved protein	2,155870228
+yhbV	b3159	noessential	predicted protease	
+yhbM	b3163	noessential	conserved protein	
+rbfA	b3167	noessential	30s ribosome binding factor	1,362466451
+yhbC	b3170	noessential	conserved protein	11,09981314
+argG	b3172	noessential	argininosuccinate synthetase	1,816946833
+mrsA	b3176	essential	phosphoglucosamine mutase	
+hflB	b3178	essential	"protease; ATP-dependent zinc-metallo"	
+ftsJ	b3179	noessential	23S rRNA methyltransferase	
+dacB	b3182	noessential	D-alanyl-D-alanine carboxypeptidase	
+yhbZ	b3183	essential	GTPase involved in cell partioning and DNA repair	
+murA	b3189	essential	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2,70706299
+yrbA	b3190	noessential	predicted DNA-binding transcriptional regulator	9,59748842
+yrbB	b3191	noessential	predicted protein	
+yrbC	b3192	noessential	predicted ABC-type organic solvent transporter	1,754402379
+yrbH	b3197	noessential	D-arabinose 5-phosphate isomerase	
+yrbI	b3198	essential	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	
+rpoN	b3202	noessential	"RNA polymerase; sigma 54 (sigma N) factor"	3,140466104
+yhbJ	b3205	noessential	predicted protein with nucleoside triphosphate hydrolase domain	
+arcB	b3210	noessential	hybrid sensory histidine kinase in two-component regulatory system with ArcA	1,440061606
+yhcC	b3211	noessential	predicted Fe-S oxidoreductase	
+b3223	b3223	noessential	predicted N-acetylmannosamine-6-P epimerase	
+sspB	b3228	noessential	ClpXP protease specificity-enhancing factor	10,69193305
+yhcO	b3239	noessential	predicted barnase inhibitor	
+tldD	b3244	noessential	predicted peptidase	2,802845032
+yhdA	b3252	noessential	conserved inner membrane protein	2,092399378
+prmA	b3259	noessential	methylase for 50S ribosomal subunit protein L11	1,653296403
+aroE	b3281	noessential	"dehydroshikimate reductase; NAD(P)-binding"	2,510758683
+yrdC	b3282	essential	predicted ribosome maturation factor	3,775543585
+def	b3287	essential	peptide deformylase	19,24461847
+fmt	b3288	essential	10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase	5,471811141
+yheL	b3343	noessential	predicted intracellular sulfur oxidation protein	1,518632001
+yheM	b3344	noessential	predicted intraceullular sulfur oxidation protein	2,38993471
+yheN	b3345	noessential	predicted intracellular sulfur oxidation protein	5,630372289
+fkpA	b3347	noessential	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	12,01148278
+yheT	b3353	noessential	predicted hydrolase	
+prkB	b3355	noessential	predicted phosphoribulokinase	2,745774668
+yhfG	b3362	noessential	predicted protein	8,214973384
+yhfR	b3375	noessential	predicted DNA-binding transcriptional regulator	
+yhfV	b3379	noessential	predicted hydrolase	
+dam	b3387	noessential	DNA adenine methylase	1,149695641
+aroB	b3389	noessential	3-dehydroquinate synthase	13,98626278
+mrcA	b3396	noessential	fused penicillin-binding protein 1a: murein transglycosylase -!- murein transpeptidase	1,620642202
+yrfG	b3399	noessential	predicted hydrolase	3,606938638
+yrfH	b3400	noessential	ribosome-associated heat shock protein Hsp15	
+ompR	b3405	noessential	DNA-binding response regulator in two-component regulatory system with EnvZ	2,541374712
+feoA	b3408	noessential	"ferrous iron transporter; protein A"	
+malQ	b3416	noessential	4-alpha-glucanotransferase (amylomaltase)	1,60497022
+malP	b3417	noessential	maltodextrin phosphorylase	1,813535785
+glpD	b3426	noessential	"sn-glycerol-3-phosphate dehydrogenase; aerobic; FAD/NAD(P)-binding"	0,790897797
+glgP	b3428	noessential	glycogen phosphorylase	
+glgC	b3430	noessential	glucose-1-phosphate adenylyltransferase	
+ggt	b3447	noessential	gamma-glutamyltranspeptidase	
+ugpB	b3453	noessential	glycerol-3-phosphate transporter subunit -!- periplasmic-binding component of ABC superfamily	
+livJ	b3460	noessential	leucine/isoleucine/valine transporter subunit -!- periplasmic-binding component of ABC superfamily	4,91322568
+ftsX	b3462	essential	predicted transporter subunit: membrane component of ABC superfamily	2,633397688
+yhhF	b3465	noessential	predicted methyltransferase	2,482555693
+zntA	b3469	noessential	"zinc; cobalt and lead efflux system"	
+yhhP	b3470	noessential	conserved protein required for cell growth	
+dcrB	b3472	noessential	periplasmic protein	3,685570549
+nikC	b3478	noessential	nickel transporter subunit -!- membrane component of ABC superfamily	
+nikD	b3479	noessential	nickel transporter subunit -!- ATP-binding component of ABC superfamily	
+nikE	b3480	noessential	nickel transporter subunit -!- ATP-binding component of ABC superfamily	
+yhhG	b3481	noessential	"DNA-binding transcriptional repressor; Ni-binding"	
+yhiI	b3487	noessential	predicted HlyD family secretion protein	2,331102553
+yhiR	b3499	noessential	predicted DNA (exogenous) processing protein	1,43732293
+gor	b3500	noessential	glutathione oxidoreductase	1,114041773
+arsC	b3503	noessential	arsenate reductase	
+hdeB	b3509	noessential	acid-resistance protein	53,81901624
+hdeA	b3510	noessential	stress response protein acid-resistance protein	134,8617851
+yhiU	b3513	noessential	multidrug resistance efflux transporter	
+kdgK	b3526	noessential	ketodeoxygluconokinase	1,78235158
+yhjJ	b3527	noessential	predicted zinc-dependent peptidase	
+yhjL	b3530	noessential	cellulose synthase subunit	
+yhjS	b3536	noessential	conserved protein	
+yhjU	b3538	noessential	predicted inner membrane protein	
+dppA	b3544	noessential	dipeptide transporter -!- periplasmic-binding component of ABC superfamily	10,21570097
+yiaE	b3553	noessential	2-keto-D-gluconate reductase (glyoxalate reductase) (2-ketoaldonate reductase)	
+yiaF	b3554	noessential	conserved protein	7,751405159
+yiaJ	b3574	noessential	predicted DNA-binding transcriptional repressor	
+sgbH	b3581	noessential	3-keto-L-gulonate 6-phosphate decarboxylase	
+yiaV	b3586	noessential	"membrane fusion protein (MFP) component of efflux pump; signal anchor"	
+aldB	b3588	noessential	aldehyde dehydrogenase B	
+selB	b3590	noessential	selenocysteinyl-tRNA-specific translation factor	
+yibA	b3594	noessential	lyase containing HEAT-repeat	
+yibL	b3602	noessential	conserved protein	5,343421396
+lctD	b3605	noessential	"L-lactate dehydrogenase; FMN-linked"	
+yibK	b3606	noessential	predicted rRNA methylase	
+gpsA	b3608	essential	glycerol-3-phosphate dehydrogenase (NAD+)	2,836116099
+yibN	b3611	noessential	predicted rhodanese-related sulfurtransferase	7,467956275
+yibO	b3612	noessential	"phosphoglycero mutase III; cofactor-independent"	
+kbl	b3617	noessential	glycine C-acetyltransferase	
+htrL	b3618	noessential	predicted protein	2,680274436
+kdtA	b3633	essential	3-deoxy-D-manno-octulosonic-acid transferase (KDO transferase)	1,528583091
+mutM	b3635	noessential	formamidopyrimidine/5-formyluracil/ 5-hydroxymethyluracil DNA glycosylase	
+dfp	b3639	essential	"fused 4'-phosphopantothenoylcysteine decarboxylase -!- phosphopantothenoylcysteine synthetase; FMN-binding"	2,487550147
+dut	b3640	essential	deoxyuridinetriphosphatase	2,674262253
+gmk	b3648	essential	guanylate kinase	8,572701988
+spoT	b3650	essential	"bifunctional (p)ppGpp synthetase II and guanosine-3';5'-bis pyrophosphate 3'-pyrophosphohydrolase"	3,959496477
+recG	b3652	noessential	ATP-dependent DNA helicase	0,680675377
+yicH	b3655	noessential	conserved protein	1,2932084
+nlpA	b3661	noessential	cytoplasmic membrane lipoprotein-28	2,010467794
+ilvB	b3671	noessential	"acetolactate synthase I; large subunit"	
+yidH	b3676	noessential	conserved inner membrane protein	
+hslS	b3686	noessential	heat shock chaperone	
+yidR	b3689	noessential	conserved protein	1,390484677
+dnaA	b3702	essential	"chromosomal replication initiator protein DnaA; DNA-binding transcriptional dual regulator"	7,393099005
+rnpA	b3704	essential	protein C5 component of RNase P	6,825150044
+yieF	b3713	noessential	"chromate reductase; Class I; flavoprotein"	
+bglG	b3723	noessential	transcriptional antiterminator of the bgl operon	
+pstS	b3728	noessential	phosphate transporter subunit -!- periplasmic-binding component of ABC superfamily	132,9554438
+glmU	b3730	essential	fused N-acetyl glucosamine-1-phosphate uridyltransferase -!- glucosamine-1-phosphate acetyl transferase	6,799609488
+atpC	b3731	noessential	"F1 sector of membrane-bound ATP synthase; epsilon subunit"	
+atpG	b3733	noessential	"F1 sector of membrane-bound ATP synthase; gamma subunit"	
+gidB	b3740	noessential	"methyltransferase; SAM-dependent methyltransferase; glucose-inhibited cell-division protein"	2,540292294
+asnC	b3743	noessential	DNA-binding transcriptional dual regulator	0,872985255
+yieM	b3745	noessential	predicted von Willibrand factor containing protein	
+yieN	b3746	noessential	fused predicted transcriptional regulator: sigma54 activator protein -!- conserved protein	2,528612877
+rbsB	b3751	noessential	D-ribose transporter subunit -!- periplasmic-binding compoent of ABC superfamily	2,188958023
+ilvD	b3771	noessential	dihydroxyacid dehydratase	0,839977944
+ilvA	b3772	noessential	threonine deaminase	
+ppiC	b3775	noessential	peptidyl-prolyl cis-trans isomerase C (rotamase C)	1,627818976
+rep	b3778	noessential	DNA helicase and single-stranded DNA-dependent ATPase	1,674523334
+gpp	b3779	noessential	guanosine pentaphosphatase/exopolyphosphatase	4,540985407
+rhlB	b3780	noessential	ATP-dependent RNA helicase	9,77610796
+rho	b3783	essential	transcription termination factor	15,30168117
+hemY	b3802	noessential	predicted protoheme IX synthesis protein	2,343559567
+hemX	b3803	noessential	predicted uroporphyrinogen III methylase	4,496332543
+cyaY	b3807	noessential	"frataxin; iron-binding and oxidizing protein"	10,03368042
+dapF	b3809	noessential	diaminopimelate epimerase	7,253417747
+yigA	b3810	noessential	conserved protein	4,909489114
+uvrD	b3813	noessential	DNA-dependent ATPase I and helicase II	1,595717373
+corA	b3816	noessential	magnesium/nickel/cobalt transporter	5,366874496
+pldA	b3821	noessential	outer membrane phospholipase A	2,852949206
+recQ	b3822	noessential	ATP-dependent DNA helicase	1,4341184
+pldB	b3825	noessential	lysophospholipase L(2)	3,66124303
+yigN	b3832	noessential	predicted recombination limiting protein	
+ubiE	b3833	noessential	"bifunctional 2-octaprenyl-6-methoxy-1;4-benzoquinone methylase and S-adenosylmethionine:2-DMK methyltransferase"	5,871596752
+b3838	b3838	noessential	TatABCE protein translocation system subunit	
+fadA	b3845	noessential	3-ketoacyl-CoA thiolase (thiolase I)	
+fadB	b3846	noessential	fused 3-hydroxybutyryl-CoA epimerase and delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase and enoyl-CoA hydratase -!- 3-hydroxyacyl-CoA dehydrogenase	0,176411629
+pepQ	b3847	noessential	proline dipeptidase	2,935121318
+yigZ	b3848	noessential	predicted elongation factor	1,387766118
+mobB	b3856	noessential	molybdopterin-guanine dinucleotide biosynthesis protein B	1,711740891
+mobA	b3857	noessential	molybdopterin-guanine dinucleotide synthase	
+yihD	b3858	noessential	conserved protein	3,06702323
+dsbA	b3860	noessential	periplasmic protein disulfide isomerase I	3,647882757
+polA	b3863	noessential	fused DNA polymerase I 5'->3' exonuclease -!- 3'->5' polymerase -!- 3'->5' exonuclease	4,178249505
+yihI	b3866	noessential	conserved protein	3,848857609
+hemN	b3867	noessential	"coproporphyrinogen III oxidase; SAM and NAD(P)H dependent; oxygen-independent"	1,44635872
+glnL	b3869	noessential	sensory histidine kinase in two-component regulatory system with GlnG	
+yihK	b3871	noessential	GTP-binding protein	
+yihQ	b3878	noessential	alpha-glucosidase	
+yihX	b3885	noessential	predicted hydrolase	4,033173461
+yihZ	b3887	noessential	D-tyr-tRNA(Tyr) deacylase	
+yiiD	b3888	noessential	predicted acetyltransferase	2,095254035
+fdhD	b3895	noessential	formate dehydrogenase formation protein	
+frvX	b3898	noessential	"predicted endo-1;4-beta-glucanase"	
+yiiM	b3910	noessential	conserved protein	3,360088534
+cpxR	b3912	noessential	DNA-binding response regulator in two-component regulatory system with CpxA	3,54371108
+pfkA	b3916	noessential	6-phosphofructokinase I	5,797001285
+menG	b3929	noessential	ribonuclease E (RNase E) inhibitor protein	
+metB	b3939	noessential	"cystathionine gamma-synthase; PLP-dependent"	1,46305426
+metL	b3940	noessential	fused aspartokinase II -!- homoserine dehydrogenase II	0,830575555
+katG	b3942	noessential	catalase/hydroperoxidase HPI(I)	
+gldA	b3945	noessential	"glycerol dehydrogenase; NAD"	
+frwB	b3950	noessential	predicted enzyme IIB component of PTS	
+pflD	b3951	noessential	predicted formate acetyltransferase 2 (pyruvate formate lyase II)	0,201096003
+ppc	b3956	noessential	phosphoenolpyruvate carboxylase	6,077739882
+argE	b3957	noessential	acetylornithine deacetylase	1,001666634
+oxyR	b3961	noessential	DNA-binding transcriptional dual regulator	2,401244959
+fabR	b3963	noessential	DNA-binding transcriptional repressor	
+trmA	b3965	noessential	tRNA (uracil-5-)-methyltransferase	3,673394436
+murI	b3967	essential	glutamate racemase	
+murB	b3972	essential	"UDP-N-acetylenolpyruvoylglucosamine reductase; FAD-binding"	6,977292617
+birA	b3973	essential	"bifunctional biotin-[acetylCoA carboxylase] holoenzyme synthetase and DNA-binding transcriptional repressor; bio-5'-AMP-binding"	2,977192821
+yjaD	b3996	noessential	NADH pyrophosphatase	
+hemE	b3997	noessential	uroporphyrinogen decarboxylase	3,388881167
+nfi	b3998	noessential	endonuclease V	4,01985014
+yjaG	b3999	noessential	conserved protein	2,608379409
+hydH	b4003	noessential	sensory histidine kinase in two-component regulatory system with ZraR	
+arpA	b4017	noessential	regulator of acetyl CoA synthetase	
+pepE	b4021	noessential	(alpha)-aspartyl dipeptidase	
+pgi	b4025	noessential	glucosephosphate isomerase	9,795853013
+ubiC	b4039	noessential	chorismate pyruvate lyase	5,37827331
+plsB	b4041	essential	glycerol-3-phosphate O-acyltransferase	1,762942628
+yjbJ	b4045	noessential	predicted stress response protein	
+qor	b4051	noessential	"quinone oxidoreductase; NADPH-dependent"	2,976157806
+dnaB	b4052	essential	replicative DNA helicase	5,301667051
+alr	b4053	noessential	"alanine racemase 1; PLP-binding; biosynthetic"	
+yjbQ	b4056	noessential	conserved protein	5,092785935
+uvrA	b4058	noessential	ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC	1,257423132
+yjcT	b4084	noessential	D-allose kinase	
+yjcW	b4087	noessential	fused D-allose transporter subunits of ABC superfamily: ATP-binding components	
+rpiB	b4090	noessential	ribose 5-phosphate isomerase B/allose 6-phosphate isomerase	0,975773378
+phnP	b4092	noessential	carbon-phosphorus lyase complex accessory protein	
+phnN	b4094	noessential	"ribose 1;5-bisphosphokinase"	
+phnK	b4097	noessential	carbon-phosphorus lyase complex subunit	
+phnJ	b4098	noessential	carbon-phosphorus lyase complex subunit	
+phnD	b4105	noessential	phosphonate/organophosphate ester transporter subunit -!- periplasmic binding component of ABC superfamily	8,732777343
+basS	b4112	noessential	sensory histidine kinase in two-component regulatory system with BasR	
+basR	b4113	noessential	DNA-binding response regulator in two-component regulatory system with BasS	1,111191042
+adiA	b4117	noessential	biodegradative arginine decarboxylase	
+melR	b4118	noessential	DNA-binding transcriptional dual regulator	
+yjdG	b4124	noessential	DNA-binding response regulator in two-component regulatory system with DcuS	
+yjdI	b4126	noessential	conserved protein	2,390741597
+yjdJ	b4127	noessential	predicted acyltransferase with acyl-CoA N-acyltransferase domain	2,935768221
+lysU	b4129	noessential	"lysine tRNA synthetase; inducible"	0,411782523
+cadA	b4131	noessential	lysine decarboxylase 1	0,152583712
+yjdC	b4135	noessential	predicted transcriptional regulator	4,684826118
+aspA	b4139	noessential	aspartate ammonia-lyase	1,860885741
+yjeA	b4155	noessential	predicted lysyl-tRNA synthetase	
+yjeQ	b4161	essential	ribosome small subunit-dependent GTPase A	
+yjeE	b4168	essential	ATPase with strong ADP affinity	5,640335341
+amiB	b4169	noessential	N-acetylmuramoyl-l-alanine amidase II	1,292670344
+mutL	b4170	noessential	methyl-directed mismatch repair protein	1,352839075
+hflK	b4174	noessential	modulator for HflB protease specific for phage lambda cII repressor	3,345278291
+hflC	b4175	noessential	modulator for HflB protease specific for phage lambda cII repressor	2,375245425
+yjeB	b4178	noessential	predicted DNA-binding transcriptional regulator	3,908936181
+yjfH	b4180	noessential	23S rRNA (Gm2251)-methyltransferase	
+aidB	b4187	noessential	isovaleryl CoA dehydrogenase	1,617957609
+yjfQ	b4191	noessential	DNA-binding transcriptional dual regulator	
+ytfE	b4209	noessential	predicted regulator of cell morphogenesis and cell wall metabolism	
+ytfG	b4211	noessential	NAD(P)H:quinone oxidoreductase	
+ytfL	b4218	noessential	predicted inner membrane protein	1,208045609
+ytfN	b4221	noessential	conserved protein	1,226465684
+ytfP	b4222	noessential	conserved protein	
+yjgA	b4234	noessential	conserved protein	6,997353691
+nrdG	b4237	noessential	anaerobic ribonucleotide reductase activating protein	1,819072725
+nrdD	b4238	noessential	anaerobic ribonucleoside-triphosphate reductase	0,70097161
+mgtA	b4242	noessential	magnesium transporter	3,779449885
+yjgK	b4252	noessential	conserved protein	
+yjgL	b4253	noessential	predicted protein	
+holC	b4259	noessential	"DNA polymerase III; chi subunit"	3,599735935
+yjgR	b4263	noessential	predicted ATPase	0,787695886
+idnO	b4266	noessential	5-keto-D-gluconate-5-reductase	
+yi41	b4278	noessential	"KpLE2 phage-like element; IS4 predicted transposase"	
+yjhG	b4297	noessential	"KpLE2 phage-like element; predicted dehydratase"	
+yjhH	b4298	noessential	"KpLE2 phage-like element; predicted lyase/synthase"	
+yjhI	b4299	noessential	"KpLE2 phage-like element; predicted DNA-binding transcriptional regulator"	
+sgcE	b4301	noessential	"KpLE2 phage-like element; predicted epimerase"	
+yjhP	b4306	noessential	"KpLE2 phage-like element; predicted methyltransferase"	
+yjhT	b4310	noessential	conserved protein	0,32352863
+fimB	b4312	noessential	tyrosine recombinase/inversion of on/off regulator of fimA	1,126688237
+fimE	b4313	noessential	tyrosine recombinase/inversion of on/off regulator of fimA	
+fimD	b4317	noessential	"outer membrane usher protein; type 1 fimbrial synthesis"	0,363873177
+yjiE	b4327	noessential	predicted DNA-binding transcriptional regulator	0,511068788
+yjiN	b4336	noessential	conserved inner membrane protein	0,51544387
+yjiT	b4342	noessential	conserved protein	0,129012999
+mcrB	b4346	noessential	"5-methylcytosine-specific restriction enzyme McrBC; subunit McrB"	
+hsdS	b4348	noessential	specificity determinant for hsdM and hsdR	0,415575938
+hsdM	b4349	noessential	DNA methylase M	0,925965074
+mrr	b4351	noessential	methylated adenine and cytosine restriction protein	1,471636103
+yjiA	b4352	noessential	predicted GTPase	1,266956346
+dnaT	b4362	essential	DNA biosynthesis protein (primosomal protein I)	
+fhuF	b4367	noessential	ferric iron reductase involved in ferric hydroximate transport	4,679107558
+holD	b4372	noessential	"DNA polymerase III; psi subunit"	
+prfC	b4375	noessential	peptide chain release factor RF-3	4,98436944
+osmY	b4376	noessential	periplasmic protein	9,680731031
+yjjU	b4377	noessential	predicted esterase	2,046566462
+yjjV	b4378	noessential	predicted DNase	1,625635369
+yjjI	b4380	noessential	conserved protein	
+lplA	b4386	noessential	lipoate-protein ligase A	0,68493656
+smp	b4387	noessential	conserved protein	
+rob	b4396	noessential	DNA-binding transcriptional activator	15,26262506
+glcF	b4467	noessential	glycolate oxidase iron-sulfur subunit	0,66976403

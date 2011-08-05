@@ -1,0 +1,70 @@
+P32690	yjbI		b4038	JW3998	YJBI_ECOLI		Uncertain	yjbI	4248978	4250306	1	orf hypothetical protein	?	?	b4038	
+P76119	yncI	yncM	b1459	JW1453 JW5237	YNCI_ECOLI		Uncertain	yncI	1529400	1529600	1	orf hypothetical protein	?	?	b1459	
+P39874	ybeM		b4581	JW0620 JW0621	YBEM_ECOLI		Uncertain	ybeM	657478	658041	1	putative amidase	?	?	b0626	
+P77087	ylcE		b0563	JW0552	YLCE_ECOLI		Uncertain	ylcE	582098	582283	1	hypothetical protein	?	?	b0563	
+Q79CP2	ygiA		b3036	JW5889	YGIA_ECOLI		Uncertain	ygiA	3177618	3177878	1	orf hypothetical protein	N	?	b3036	
+P75681	fbpB	afuB	b0263	JW0255	FBPB_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain	afuB	278038	278400	-1	putative transport system permease	N	?	b0263	
+P76205	arpB		b4494	JW5278 JW1710	ARPB_ECOLI		Uncertain	arpB	1801118	1803017	1	orf hypothetical protein	N	?	b1720	b4494
+P76205	arpB		b4494	JW5278 JW1710	ARPB_ECOLI		Uncertain	arpB	1801118	1803017	1	orf hypothetical protein	N	?	b1721	b4494
+P77759	ylbH		b0499	JW0488	YLBH_ECOLI		Uncertain	b0499	527173	527883	1	orf hypothetical protein	N	?	b0499	
+P76628	ygaY		b2681	JW2655	YGAY_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain	b2681	2806598	2807515	1	putative transport protein	N	?	b2681	
+P31452	glvC		b3683	JW3660	PTXC_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain	glvC	3860520	3861887	-1	PTS system arbutin-like IIC	N	?	b3683	
+P77326	tfaS		b2353	JW5383	TFAS_ECOLI		Uncertain	tfaS	2468783	2469127	1	orf hypothetical protein	N	?	b2353	
+P76066	ydaW		b1361	JW5211	YDAW_ECOLI		Uncertain	ydaW	1420725	1421336	1	orf hypothetical protein	N	?	b1361	
+P76165	ydfX		b1568	JW1560	YDFX_ECOLI		Uncertain	ydfX	1645370	1645660	-1	orf hypothetical protein	N	?	b1568	
+P76359	yeeP		b1999	JW5327	YEEP_ECOLI		Uncertain	yeeP	2068525	2069235	1	putative histone	N	?	b1999	
+P33353	yehQ		b2122	JW2110	YEHQ_ECOLI		Uncertain	yehQ	2207098	2208966	1	orf hypothetical protein	N	?	b2122	
+P45505	yfaH		b2238	JW2232	YFAH_ECOLI		Uncertain	yfaH	2347709	2347915	1	orf hypothetical protein	N	?	b2238	
+Q7DFU6	yghX	yghY	b4658	JW5926 JW5496	YGHX_ECOLI		Uncertain	yghX	3144878	3145288	-1	orf hypothetical protein	N	?	b2999	
+P37629	yhiL		b4660	JW3457	YHIL_ECOLI		Uncertain	yhiL	3631243	3632481	-1	orf hypothetical protein	N	?	b3490	
+P32109	yibJ		b3595	JW5647	YIBJ_ECOLI		Uncertain	yibJ	3765244	3765945	1	orf hypothetical protein	N	?	b3595	
+P56259	yifN		b3777	JW3749	YIFN_ECOLI		Uncertain	yifN	3958265	3958525	-1	orf hypothetical protein	N	?	b3777	
+P39387	yjiP	yjiQ	b4339	JW4302	YJIP_ECOLI		Uncertain	yjiP	4567021	4567332	1	orf hypothetical protein	N	?	b4338	
+P39387	yjiP	yjiQ	b4339	JW4302	YJIP_ECOLI		Uncertain	yjiQ	4567381	4567941	1	orf hypothetical protein	N	?	b4339	
+P76119	yncI	yncM	b1459	JW1453 JW5237	YNCI_ECOLI		Uncertain	yncI	1528610	1529356	1	orf hypothetical protein	N	?	b1458	
+P76616	ygaQ	ygaR yqaC yqaD	b4462	JW2631 JW2633 JW5425 JW5426	YGAQ_ECOLI		Uncertain	yqaD	2786399	2786671	1	orf hypothetical protein	N	?	b2658	
+P39220	yabP		b4659	JW0055	YABP_ECOLI		Uncertain	yabP	58474	59124	1	Unknown function	N	?	b0056	
+Null	ykgT	yagP	b4695	Null			Null	yagP	296605	297015	-1	putative LysR-like	N	?	b0282	
+P77779	ybfO		b0703	JW0692	YBFO_ECOLI		Uncertain	ybfO	733443	734876	1	Unknown function	N	?	b0703	
+P76137	ydeT		b1505	JW1499	YDET_ECOLI		Uncertain	ydeT	1586877	1588025	-1	putative fimbrial usher	N	?	b1505	
+P0CF86	yfjU		b2638		YFJU_ECOLI		Uncertain	yfjU	2769862	2770176	-1	arsenate reductase	N	?	b2638	
+Q9Z3A0	yjgW		b4274	JW4233	YJGW_ECOLI		Uncertain	yjgW	4497622	4497957	1	hypothetical protein	N	?	b4274	
+Q47688	ykfC		b0258	JW5813	YKFC_ECOLI		Uncertain	ykfC	272086	273216	1	hypothetical protein	N	?	b0258	
+P77129	ylbE	Null	b4572	JW0507 JW0508			Found by Malvina	ylbE	547838	548839	1	hypothetical protein	N	?	b0519	
+P75971			b1142	JW1128	Y1142_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Uncertain	ymfH	1200292	1200603	-1	hypothetical protein	N	?	b1142	
+P31450	glvG		b4556		GLVG_ECOLI		Uncertain	glvG	3859372	3860010	-1	probable 6-phospho-beta-	X	?	b3681	
+P76616	ygaQ	ygaR yqaC yqaD	b4462	JW2631 JW2633 JW5425 JW5426	YGAQ_ECOLI		Uncertain	ygaQ	2784419	2784751	1	orf hypothetical protein	X	?	b2654	
+P76616	ygaQ	ygaR yqaC yqaD	b4462	JW2631 JW2633 JW5425 JW5426	YGAQ_ECOLI		Uncertain	ygaR	2784770	2785456	1	orf hypothetical protein	X	?	b2655	b4462
+P76616	ygaQ	ygaR yqaC yqaD	b4462	JW2631 JW2633 JW5425 JW5426	YGAQ_ECOLI		Uncertain	ygaR	2784770	2785456	1	orf hypothetical protein	X	?	b2656	b4462
+P76628	ygaY		b2681	JW2655	YGAY_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain	ygaY	2806338	2806604	1	orf hypothetical protein	X	?	b2680	
+Q46797	ygeQ		b2863	JW5461	YGEQ_ECOLI		Uncertain	ygeQ	2996056	2996892	-1	orf hypothetical protein	X	?	b2863	
+Q7DFU6	yghX	yghY	b4658	JW5926 JW5496	YGHX_ECOLI		Uncertain	yghX	3145288	3145713	-1	orf hypothetical protein	X	?	b3000	
+P76356	yoeA		b4582	JW1980	YOEA_ECOLI		Uncertain	yoeA	2066632	2067051	1	orf hypothetical protein	X	?	b1995	
+P76616	ygaQ	ygaR yqaC yqaD	b4462	JW2631 JW2633 JW5425 JW5426	YGAQ_ECOLI		Uncertain	yqaC	2785628	2786260	1	putative enzyme	X	?	b2657	
+P76000	ycgI	ymgH	b4521	JW1162 JW5179	YCGI_ECOLI		Uncertain	ycgI	1222918	1223130	1	Putative conserved	X	?	b1173	
+P39349	yjgX		b4575		YJGX_ECOLI	"Cell membrane; Single-pass membrane protein. "	Uncertain	yjgX	4498066	4498512	-1	hypothetical protein	X	?	b4275	
+P39309	ytfA		b4205	JW4163	YTFA_ECOLI		Uncertain	ytfA	4425792	4426118	1	hypothetical protein	X	?	b4205	
+P33898	gapC		b4493	JW1413 JW5906	G3P3_ECOLI	Cytoplasm. 	Uncertain	gapC_1	1487985	1488389	-1	glyceraldehyde 3-phosphate	?	N	b1416	b4493
+P76335	yedS		b4496	JW5319 JW1948 JW1949	YEDS_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain	yedS	2032045	2032560	1	orf hypothetical protein	?	N	b1965	b4496
+P76349	yeeL		b4497		YEEL_ECOLI		Uncertain	yeeL	2050300	2051352	-1	orf hypothetical protein	?	N	b1979	b4497
+P42906	agaA		b3135	JW5527	AGAA_ECOLI		Uncertain	agaA	3279144	3279647	1	putative N-acetylgalactosamine-6-	N	N	b3135	
+P36943	eaeH		b0297	JW0291	EAEH_ECOLI		Uncertain	eaeH	313581	314468	1	attaching and effacing protein	N	N	b0297	
+P33898	gapC		b4493	JW1413 JW5906	G3P3_ECOLI	Cytoplasm. 	Uncertain	gapC_2	1487737	1487988	-1	glyceraldehyde-3-phosphate	N	N	b1417	b4493
+P00892	ilvG	ilvO	b4488	JW3740 JW3741			Evidence at protein level.	ilvG	3948583	3950227	1	acetolactate synthase II large	N	N	b4488	
+P33345	yehH	molR	b4499		MOLR_ECOLI		Uncertain	molR	2194496	2198291	1	molybdate metabolism regulator	N	N	b2115	b4499
+P33345	yehH	molR	b4499		MOLR_ECOLI		Uncertain	molR	2194496	2198291	1	molybdate metabolism regulator	N	N	b2116	b4499
+P33345	yehH	molR	b4499		MOLR_ECOLI		Uncertain	molR	2194496	2198291	1	molybdate metabolism regulator	N	N	b2117	b4499
+P77199	yaiT		b4580	JW0362 JW5051	YAIT_ECOLI		Uncertain	yaiT	389475	390935	1	orf hypothetical protein	N	N	b0371	
+P77460	ybcY		b0562	JW0551	YBCY_ECOLI		Uncertain	ybcY	581375	581959	-1	orf hypothetical protein	N	N	b0562	
+P75901	efeU	ycdN	b4490	JW5141 JW1002	EFEU_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain	ycdN	1080570	1080689	1	orf hypothetical protein	N	N	b1016	b4490
+P75901	efeU	ycdN	b4490	JW5141 JW1002	EFEU_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain	ycdN	1080570	1080689	1	putative cytochrome	N	N	b1017	b4490
+P76335	yedS		b4496	JW5319 JW1948 JW1949	YEDS_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain	yedS	2032045	2032560	1	putative outer membrane protein	N	N	b1964	b4496
+P76335	yedS		b4496	JW5319 JW1948 JW1949	YEDS_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain	yedS	2032045	2032560	1	putative outer membrane protein	N	N	b1966	b4496
+P76464	yfaS	yfaR	b4500	JW2221 JW2222	YFAS_ECOLI		Uncertain	yfaR	2327820	2332334	-1	orf hypothetical protein	N	N	b2227	b4500
+P37635	yhiS		b3504	JW3471	YHIS_ECOLI		Uncertain	yhiS	3649314	3650096	1	orf hypothetical protein	N	N	b3504	
+P36930	gatR	Null	b4498	JW2074 JW5340			Predicted.	gatR	2167717	2169757	-1	Galactitol utilization	N	N	b2087	b4498
+P36930	gatR	Null	b4498	JW2074 JW5340			Predicted.	gatR	2167717	2169757	-1	Galactitol utilization	N	N	b2090	b4498
+P77184	lomR		b4570	JW5884 JW5904	LOMR_ECOLI		Uncertain	lomR	1425482	1425637	1	orf hypothetical protein	X	N	b1369	
+P76349	yeeL		b4497		YEEL_ECOLI		Uncertain	yeeL	2050300	2051352	-1	orf hypothetical protein	X	N	b1980	b4497
+P76464	yfaS	yfaR	b4500	JW2221 JW2222	YFAS_ECOLI		Uncertain	yfaS	2327820	2332334	-1	putative membrane protein	X	N	b2228	b4500
+P77601	ykgA		b0300	JW5037	YKGA_ECOLI		Uncertain	ykgA	315674	316393	-1	putative ARAC-type regulatory	X	N	b0300	

@@ -1,0 +1,70 @@
+Hydropathy analysis results for protein:
+    BETA_ECOLI
+
+User Comment: 
+
+Changed residues: None
+
+All Asp charged: true
+All Glu charged: true
+All His charged: false
+    His 139 Neutral
+    His 219 Neutral
+    His 224 Neutral
+    His 287 Neutral
+    His 299 Neutral
+    His 342 Neutral
+    His 363 Neutral
+    His 380 Neutral
+    His 385 Neutral
+    His 396 Neutral
+    His 405 Neutral
+    His 407 Neutral
+    His 417 Neutral
+    His 436 Neutral
+    His 467 Neutral
+    His 473 Neutral
+    His 495 Neutral
+Salt bridges: None
+Scale: WW Octanol (Oct)
+DCONH value: 0.0
+Mode: Locate
+Partitioning: bilayer to water
+Window size: 19
+
+Number of hydropathy predicted segments: 3
+
+314-332 (19) : LYPALQWWNQPKIGAEWLF
+    DG = 2,31 for segment sequence
+    DG = 2,31 for most favorable 19AA centered at #323Q
+    (LYPALQWWNQPKIGAEWLF)
+
+355-373 (19) : FAWPNIQYhFLPVAINYNG
+    DG = 5,02 for segment sequence
+    DG = 5,02 for most favorable 19AA centered at #364F
+    (FAWPNIQYhFLPVAINYNG)
+
+505-523 (19) : ASIMPQIITGNLNATTIMI
+    DG = 2,22 for segment sequence
+    DG = 2,22 for most favorable 19AA centered at #514G
+    (ASIMPQIITGNLNATTIMI)
+
+
+Number of known transmembrane regions: 0
+
+Number of user marked segments: 0
+
+
+Working sequence:
+
+MQFDYIIIGAGSAGNVLATRLTEDPNTSVLLLEAGGPDYRFDFRTQMPAALAFPLQGKRY
+NWAYETEPEPFMNNRRMECGRGKGLGGSSLINGMCYIRGNALDLDNWAQEPGLENWSYLD
+CLPYYRKAETRDMGENDYhGGDGPVSVTTSKPGVNPLFEAMIEAGVQAGYPRTDDLNGYQ
+QEGFGPMDRTVTPQGRRASTARGYLDQAKSRPNLTIRThAMTDhIIFDGKRAVGVEWLEG
+DSTIPTRATANKEVLLCAGAIASPQILQRSGVGNAELLAEFDIPLVhELPGVGENLQDhL
+EMYLQYECKEPVSLYPALQWWNQPKIGAEWLFGGTGVGASNhFEAGGFIRSREEFAWPNI
+QYhFLPVAINYNGSNAVKEhGFQChVGSMRSPSRGhVRIKSRDPhQhPAILFNYMShEQD
+WQEFRDAIRITREIMhQPALDQYRGREISPGVECQTDEQLDEFVRNhAETAFhPCGTCKM
+GYDEMSVVDGEGRVhGLEGLRVVDASIMPQIITGNLNATTIMIGEKIADMIRGQEALPRS
+TAGYFVANGMPVRAKK
+

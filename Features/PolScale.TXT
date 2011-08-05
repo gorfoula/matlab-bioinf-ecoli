@@ -1,0 +1,21 @@
+aa	name	Zimmerman	Grantham	Levitt(b-sheet)	Net Charge	Negative	Positive	Phobic
+M	Methionine	1.43	5.7	0.900	1	0	0	1
+A	Alanine	0	8.1	0.990	0	0	0	1
+V	Valine	0.13	5.9	0.760	1	0	0	1
+L	Leucine	0.13	4.9	0.720	1	0	0	1
+I	Isoleucine	0.13	5.2	0.740	1	0	0	1
+P	Proline	1.58	8	0.800	0	0	0	0
+F	Phenylalanine	0.35	5.2	0.750	1	0	0	1
+W	Tryptophan	2.1	5.4	0.920	-1	0	0	0
+G	Glycine	0	9	1.080	0	0	0	1
+S	Serine	1.67	9.2	1.450	-1	0	0	0
+C	Cysteine	1.48	5.5	1.020	1	0	0	1
+N	Asparagine	3.38	11.6	0.770	-1	0	0	0
+Q	Glutamine	3.53	10.5	0.970	-1	0	0	0
+Y	Tyrosine	1.61	6.2	1.320	1	0	0	0
+T	Threonine	1.66	8.6	0.640	-1	0	0	0
+K	Lysine	49.5	11.3	0.950	-1	0	1	0
+R	Arginine	52	10.5	1.210	-1	0	1	0
+H	Histidine	51.6	10.4	1.140	-1	0	0	0
+D	Aspartic acid	49.7	13	1.250	-1	-1	0	0
+E	Glutamic acid	49.9	12.3	1.490	-1	-1	0	0

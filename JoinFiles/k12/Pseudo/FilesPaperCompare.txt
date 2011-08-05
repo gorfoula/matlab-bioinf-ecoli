@@ -1,0 +1,2 @@
+Pseudo/PseudogenesFromDBs.txt	1
+Pseudo/Ef.txt	1

@@ -1,0 +1,5 @@
+BL2119/BL2119_InsertionElement.txt	1	1
+BL2119/BL2119_InsertionSequence.txt	1	1
+BL2119/BL2119_Phage.txt	1	1
+BL2119/BL2119_Rhs.txt	1	1
+BL2119/BL2119_Transposase.txt	1	1

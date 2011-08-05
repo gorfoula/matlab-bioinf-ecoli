@@ -1,0 +1,2 @@
+SignalP/SPDomainsPeriplasmicHMMs.txt
+SignalP/SPDomainsbbarrelHMMs.txt

@@ -1,0 +1,21 @@
+aa	name	Zimmerman	Grantham	Net Charge	Negative	Positive	pKa
+M	Methionine	1.43	5.7	1	0	0	0
+A	Alanine	0.0	8.1	0	0	0	0
+V	Valine	0.13	5.9	1	0	0	0.13
+L	Leucine	0.13	4.9	1	0	0	0.13
+I	Isoleucine	0.13	5.2	1	0	0	0.13
+P	Proline	1.58	8.0	0	0	0	0
+F	Phenylalanine	0.35	5.2	1	0	0	0.35
+W	Tryptophan	2.1	5.4	0	0	0	0
+G	Glycine	0.0	9.0	0	0	0	0
+S	Serine	1.67	9.2	0	0	0	0
+C	Cysteine	1.48	5.5	1	0	0	0
+N	Asparagine	3.38	11.6	-1	0	0	0
+Q	Glutamine	3.53	10.5	-1	0	0	0
+Y	Tyrosine	1.61	6.2	0	0	0	0
+T	Threonine	1.66	8.6	0	0	0	0
+K	Lysine	49.5	11.3	-1	0	1	49.5
+R	Arginine	52.0	10.5	-1	0	1	52.0
+H	Histidine	51.6	10.4	-1	0	0	51.6
+D	Aspartic acid	49.7	13.0	-1	-1	0	49.7
+E	Glutamic acid	49.9	12.3	-1	-1	0	49.9

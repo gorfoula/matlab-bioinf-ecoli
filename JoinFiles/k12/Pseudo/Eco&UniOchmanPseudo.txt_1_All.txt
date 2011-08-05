@@ -1,0 +1,187 @@
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yibV&sort=score")	A5A625	yibV		b4615		YIBV_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=rph&sort=score")	P0CG19	rph		b3643	JW3618	RNPH_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfdO&sort=score")	P0AD35	yfdO		b2358	JW2355	YFDO_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ymjD&sort=score")	P0CD93	ymjD		b4673	JW5960.1	YMJD_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=nmpC&sort=score")	P21420	nmpC	phmA	b0553		NMPC_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=rhsE&sort=score")	P24211	rhsE		b1456	JW1451	RHSE_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=prfH&sort=score")	P28369	prfH		b0236	JW0226	RFH_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ychG&sort=score")	P30192	ychG		b4573	JW1227 JW5883	YCHG_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=nohA&sort=score")	P31061	nohA		b1548	JW1541	NOHA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=glvG&sort=score")	P31450	glvG		b4556		GLVG_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=glvC&sort=score")	P31452	glvC		b3683	JW3660	PTXC_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydeK&sort=score")	P32051	ydeK	orfT	b1510	JW1503	YDEK_ECOLI	"Cell membrane; Lipid-anchor. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yibJ&sort=score")	P32109	yibJ		b3595	JW5647	YIBJ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjbI&sort=score")	P32690	yjbI		b4038	JW3998	YJBI_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=stfE&sort=score")	P33227	stfE		b1157	JW5172	STFE_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yehH&sort=score")	P33345	yehH	molR	b4499		MOLR_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yehQ&sort=score")	P33353	yehQ		b2122	JW2110	YEHQ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydbA&sort=score")	P33666	ydbA		b4492	JW5802 JW1402	YDBA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybbD&sort=score")	P33669	ybbD		b0501	JW0489	YBBD_ECOLI	"Membrane; Single-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=gapC&sort=score")	P33898	gapC		b4493	JW1413 JW5906	G3P3_ECOLI	Cytoplasm. 	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yejO&sort=score")	P33924	yejO		b2190	JW5839	YEJO_ECOLI	"Cell outer membrane; Peripheral membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=eaeH&sort=score")	P36943	eaeH		b0297	JW0291	EAEH_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybfG&sort=score")	P37003	ybfG		b0691	JW5094 JW5095	YBFG_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhiL&sort=score")	P37629	yhiL		b4660	JW3457	YHIL_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhiS&sort=score")	P37635	yhiS		b3504	JW3471	YHIS_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhjQ&sort=score")	P37655	yhjQ		b3534		YHJQ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yabP&sort=score")	P39220	yabP		b4659	JW0055	YABP_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ytfA&sort=score")	P39309	ytfA		b4205	JW4163	YTFA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=intB&sort=score")	P39347	intB		b4271	JW4227	INTB_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjgX&sort=score")	P39349	yjgX		b4575		YJGX_ECOLI	"Cell membrane; Single-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjhD&sort=score")	P39354	yjhD		b4281		YJHD_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjhE&sort=score")	P39355	yjhE		b4282		YJHE_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjhR&sort=score")	P39369	yjhR		b4308	JW4271	YJHR_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjiP&sort=score")	P39387	yjiP	yjiQ	b4339	JW4302	YJIP_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjiT&sort=score")	P39391	yjiT		b4342	JW5787	YJIT_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjiV&sort=score")	P39393	yjiV	mcrD	b4486		YJIV_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybeM&sort=score")	P39874	ybeM		b4581	JW0620 JW0621	YBEM_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybfI&sort=score")	P39901	ybfI		b4636		YBFI_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=agaA&sort=score")	P42906	agaA		b3135	JW5527	AGAA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhcE&sort=score")	P45421	yhcE		b4569		YHCE_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfaH&sort=score")	P45505	yfaH		b2238	JW2232	YFAH_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhdW&sort=score")	P45766	yhdW		b3268	JW3236	YHDW_ECOLI	Periplasm. 	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yrhA&sort=score")	P46856	yrhA		b3443	JW5864	YRHA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfjU&sort=score")	P0CF86	yfjU		b2638		YFJU_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfjV&sort=score")	P52137	yfjV	ypjM	b2641		YFJV_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yifN&sort=score")	P56259	yifN		b3777	JW3749	YIFN_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ypjI&sort=score")	P58095	ypjI		b4644	JW2623.1	YPJI_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yeeW&sort=score")	P64526	yeeW		b2006	JW1988	YEEW_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yqfE&sort=score")	P64562	yqfE		b2915	JW2882	YQFE_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ykfJ&sort=score")	P75675	ykfJ		b0235	JW0225	YKFJ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=fbpB&sort=score")	P75681	fbpB	afuB	b0263	JW0255	FBPB_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yagP&sort=score")	P75684	yagP		b4694	JW0276	YAGP_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yaiX&sort=score")	P75697	yaiX	yaiF	b4579	JW0350 JW5814	YAIX_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ykiA&sort=score")	P75704	ykiA		b0392	JW0383	YKIA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybcC&sort=score")	P75717	ybcC		b0539	JW0526	YBCC_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=renD&sort=score")	P75718	renD		b0542	JW0530	REND_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybfL&sort=score")	P75741	ybfL		b0705	JW0695	YBFL_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=efeU&sort=score")	P75901	efeU	ycdN	b4490	JW5141 JW1002	EFEU_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ymdE&sort=score")	Q7DFV4	ymdE		b1028		YMDE_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ymfN&sort=score")	P75978	ymfN		b1149	JW1135	YMFN_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ymfO&sort=score")	P75980	ymfO		b1151	JW1137	YMFO_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ymfP&sort=score")	P75981	ymfP		b1152	JW5170	YMFP_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ycgI&sort=score")	P76000	ycgI	ymgH	b4521	JW1162 JW5179	YCGI_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydaW&sort=score")	P76066	ydaW		b1361	JW5211	YDAW_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydaY&sort=score")	P76069	ydaY		b1366	JW1360	YDAY_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yncI&sort=score")	P76119	yncI	yncM	b1459	JW1453 JW5237	YNCI_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydeT&sort=score")	P76137	ydeT		b1505	JW1499	YDET_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yneL&sort=score")	P76138	yneL		b1506	JW5244	YNEL_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydfW&sort=score")	P76164	ydfW		b1567	JW1559	YDFW_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydfX&sort=score")	P76165	ydfX		b1568	JW1560	YDFX_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=intQ&sort=score")	P76168	intQ		b1579	JW1571	INTQ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=arpB&sort=score")	P76205	arpB		b4494	JW5278 JW1710	ARPB_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yedN&sort=score")	P76321	yedN		b4495		YEDN_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=intG&sort=score")	P76323	intG		b1936		INTG_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yedS&sort=score")	P76335	yedS		b4496	JW5319 JW1948 JW1949	YEDS_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yeeL&sort=score")	P76349	yeeL		b4497		YEEL_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yoeA&sort=score")	P76356	yoeA		b4582	JW1980	YOEA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yeeP&sort=score")	P76359	yeeP		b1999	JW5327	YEEP_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfaS&sort=score")	P76464	yfaS	yfaR	b4500	JW2221 JW2222	YFAS_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfdL&sort=score")	P76508	yfdL		b2355	JW5384	YFDL_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfdM&sort=score")	P76509	yfdM		b2356	JW2352	YFDM_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=pinH&sort=score")	P76611	pinH		b2648	JW5423	PINH_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygaQ&sort=score")	P76616	ygaQ	ygaR yqaC yqaD	b4462	JW2631 JW2633 JW5425 JW5426	YGAQ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygaY&sort=score")	P76628	ygaY		b2681	JW2655	YGAY_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yqiG&sort=score")	P76655	yqiG		b3046	JW5507	YQIG_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yzgL&sort=score")	P76692	yzgL		b3427	JW3390	YZGL_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ylcE&sort=score")	P77087	ylcE		b0563	JW0552	YLCE_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yagJ&sort=score")	P77169	yagJ		b0276	JW0270	YAGJ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=lomR&sort=score")	P77184	lomR		b4570	JW5884 JW5904	LOMR_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfcU&sort=score")	P77196	yfcU		b4661	JW2334 JW2335	YFCU_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yaiT&sort=score")	P77199	yaiT		b4580	JW0362 JW5051	YAIT_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydfJ&sort=score")	P77228	ydfJ		b4600	JW1536	YDFJ_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=tfaS&sort=score")	P77326	tfaS		b2353	JW5383	TFAS_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yafU&sort=score")	P77354	yafU		b0218	JW0207	YAFU_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybcY&sort=score")	P77460	ybcY		b0562	JW0551	YBCY_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ycjV&sort=score")	P77481	ycjV	ymjB	b4524	JW1311 JW5203	YCJV_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybcD&sort=score")	P77528	ybcD		b4508		YBCD_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=rzpR&sort=score")	P77551	rzpR		b1362	JW5212	RZPR_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ykgA&sort=score")	P77601	ykgA		b0300	JW5037	YKGA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ynaA&sort=score")	P77658	ynaA		b1368	JW1361	YNAA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ylbG&sort=score")	P77688	ylbG		b0502	JW5880	YLBG_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=tfaD&sort=score")	P77699	tfaD		b0561		TFAD_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ylbH&sort=score")	P77759	ylbH		b0499	JW0488	YLBH_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybfO&sort=score")	P77779	ybfO		b0703	JW0692	YBFO_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yafF&sort=score")	Q2EEP9	yafF		b4503	JW0208	YAFF_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ymjC&sort=score")	Q2EER5	ymjC		b4525	JW5960	YMJC_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yoeF&sort=score")	Q2EES3	yoeF		b4538	JW5328	YOEF_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ypdJ&sort=score")	Q2EET0	ypdJ		b4545	JW5386	YPDJ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygeF&sort=score")	Q46786	ygeF		b2850	JW2818	YGEF_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=pbl&sort=score")	Q46790	pbl		b2854		PBL_ECOLI	Periplasm. 	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygeK&sort=score")	Q46791	ygeK	ygeL	b2856	JW5458 JW2824	YGEK_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygeN&sort=score")	Q46793	ygeN	ygeM	b2858	JW5459 JW5460	YGEN_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygeO&sort=score")	Q46795	ygeO		b2859	JW5846	YGEO_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygeQ&sort=score")	Q46797	ygeQ		b2863	JW5461	YGEQ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yghE&sort=score")	Q46833	yghE		b2969		YGHE_ECOLI	Cell inner membrane. 	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yghF&sort=score")	Q46834	yghF		b2970	JW5484	YGHF_ECOLI	Periplasm. 	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yghO&sort=score")	Q46840	yghO		b2981	JW5848	YGHO_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydfE&sort=score")	Q47138	ydfE		b1577	JW1568	YDFE_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=fhiA&sort=score")	Q47153	fhiA		b0229	JW5811	FHIA_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=mbhA&sort=score")	Q47154	mbhA		b0230	JW5812	MBHA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ykfC&sort=score")	Q47688	ykfC		b0258	JW5813	YKFC_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	Q47719			b4286	JW4246	Y4286_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ykgN&sort=score")	Q79E92	ykgN		b4505	JW0258	YKGN_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yghX&sort=score")	Q7DFU6	yghX	yghY	b4658	JW5926 JW5496	YGHX_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=insO1&sort=score")	P75680	insO1		b0257	JW0247	INSO1_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=insO2&sort=score")	Q47718	insO2		b4285		INSO2_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=htgA&sort=score")	P28697	htgA	htpY	b0012	JW5001	HTGA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=insD8&sort=score")	P0CF60	insD8		b1578	JW1570	INSD8_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=fruL&sort=score")	P0ADF0	fruL		b0079		LPFS_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=rhoL&sort=score")	P0ADF3	rhoL		b3782	JW3755	LPRH_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=repA1&sort=score")	P13960	repA1				REA1_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=tisB&sort=score")	A5A627	tisB	ysdB	b4618	JW3649	TISB_ECOLI	"Cell inner membrane; Single-pass membrane protein. "	Evidence at transcript level
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	P75971			b1142	JW1128	Y1142_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	P11291			b3808	JW3780	Y3808_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yahH&sort=score")	Q2EEQ3	yahH		b0322	JW5893	YAHH_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybfQ&sort=score")	Q2EEQ8	ybfQ		b4514	JW0694	YBFQ_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ydeU&sort=score")	P77286	ydeU		b1509	JW1502	YDEU_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygiA&sort=score")	Q79CP2	ygiA		b3036	JW5889	YGIA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjgW&sort=score")	Q9Z3A0	yjgW		b4274	JW4233	YJGW_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yqgD&sort=score")	P46879	yqgD		b2941	JW2908	YQGD_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=gatR&sort=score")	P36930	gatR	Null	b4498	JW2074 JW5340			Predicted.
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yagB&sort=score")	P37008	yagB	Null	b0266	JW0259			Predicted.
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yiiE&sort=score")	P0ADQ5	yiiE		b3889	JW5929	YIIE_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=smp&sort=score")	P0AGC7	smp	ytjB	b4387	JW4350	SMP_ECOLI	"Cell membrane; Peripheral membrane protein. "	Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yigL&sort=score")	P27848	yigL		b3826	JW5854	YIGL_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybfD&sort=score")	P28916	ybfD		b0706	JW0696	YBFD_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=smf&sort=score")	P30852	smf		b4473	JW5708	SMF_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=smf&sort=score")	P30852	smf		b4473	JW5708	SMF_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=arsR&sort=score")	P37309	arsR	arsE	b3501	JW3468	ARSR_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjgM&sort=score")	P39337	yjgM		b4256	JW5758	YJGM_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhaM&sort=score")	P42626	yhaM	yhaN	b4470	JW5518	YHAM_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhaM&sort=score")	P42626	yhaM	yhaN	b4470	JW5518	YHAM_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=glvB&sort=score")	P69789	glvB	glvC	b3682	JW3659	PTXB_ECOLI	"Cell membrane; Single-pass membrane protein. "	Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ybiX&sort=score")	P75779	ybiX		b0804	JW5105	YBIX_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=flgD&sort=score")	P75936	flgD	fla FIV flaV	b1075	JW1062	FLGD_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yeeS&sort=score")	P76362	yeeS		b2002	JW1984	YEES_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygfQ&sort=score")	Q46817	ygfQ	ygfR	b4464	JW5467	YGFQ_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygfQ&sort=score")	Q46817	ygfQ	ygfR	b4464	JW5467	YGFQ_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygiQ&sort=score")	Q46861	ygiQ	ygiR	b4469	JW5501	YGIQ_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygiQ&sort=score")	Q46861	ygiQ	ygiR	b4469	JW5501	YGIQ_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygcU&sort=score")	Q46911	ygcU	ygcT ygcV	b4463	JW5442	YGCU_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ygcU&sort=score")	Q46911	ygcU	ygcT ygcV	b4463	JW5442	YGCU_ECOLI		Inferred from homology
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yidX&sort=score")	P0ADM6	yidX		b3696	JW5858	YIDX_ECOLI	"Membrane; Single-pass membrane protein. "	Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yigE&sort=score")	P27840	yigE		b4482	JW5591	YIGE_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yigE&sort=score")	P27840	yigE		b4482	JW5591	YIGE_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=dgoR&sort=score")	P31460	dgoR	yidW	b4479	JW5627	DGOR_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=dgoR&sort=score")	P31460	dgoR	yidW	b4479	JW5627	DGOR_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yabQ&sort=score")	P39221	yabQ		b0057	JW0056	YABQ_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=frlC&sort=score")	P45541	frlC	yhfO yhfP	b4474	JW5699	FRLC_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=frlC&sort=score")	P45541	frlC	yhfO yhfP	b4474	JW5699	FRLC_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhdP&sort=score")	P46474	yhdP	yhdQ yhdR	b4472	JW5542	YHDP_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhdP&sort=score")	P46474	yhdP	yhdQ yhdR	b4472	JW5542	YHDP_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yggP&sort=score")	P52048	yggP		b4465	JW5477	YGGP_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yggP&sort=score")	P52048	yggP		b4465	JW5477	YGGP_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yqgC&sort=score")	P64570	yqgC		b2940	JW2907	YQGC_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yneF&sort=score")	P76147	yneF		b1522	JW5825	YNEF_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=ypjB&sort=score")	P76612	ypjB		b2649	JW2629	YPJB_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yuaS&sort=score")	Q9JMS2	yuaS	ydfA	ECOK12F031		YUAS_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yuaG&sort=score")	Q9JMT2	yuaG	ybgA	ECOK12F018		YUAG_ECOLI		Predicted
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yaiT&sort=score")	P77199	yaiT		b4580	JW0362 JW5051	YAIT_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfcU&sort=score")	P77196	yfcU		b4661	JW2334 JW2335	YFCU_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yhiL&sort=score")	P37629	yhiL		b4660	JW3457	YHIL_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yfjV&sort=score")	P52137	yfjV	ypjM	b2641		YFJV_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yoeA&sort=score")	P76356	yoeA		b4582	JW1980	YOEA_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yifN&sort=score")	P56259	yifN		b3777	JW3749	YIFN_ECOLI		Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=phnE&sort=score")	P16683	phnE		b4104	JW4065	PHNE_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=yjgX&sort=score")	P39349	yjgX		b4575		YJGX_ECOLI	"Cell membrane; Single-pass membrane protein. "	Uncertain

@@ -1,0 +1,12 @@
+B	948
+G	259
+I	80
+F1	205
+A	1911
+E	18
+H	43
+F2	21
+F4	3
+X	2
+F3	3
+Subcellular Location(this study)	1

@@ -1,0 +1,15 @@
+function [indx]=Classify_Kmeans(X,ctrs)
+
+if(size(X,2)~=size(ctrs,2))
+    display('Number of parameters of X and ctrs must be the same');
+    return;
+end
+
+N=size(ctrs,1);
+params=
+
+for i=1:1:N
+    
+end
+
+end

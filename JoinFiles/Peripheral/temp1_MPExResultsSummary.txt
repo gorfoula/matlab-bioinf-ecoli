@@ -1,0 +1,34 @@
+Results summary for protein: sp|P19931|HYAE_ECOLI Hydrogenase-1 operon protein hyaE OS=Escherichia coli (strain K12) GN=hyaE PE=1 SV=1
+Hydropathy Analysis Results
+All Asp charged: true
+All Glu charged: true
+All His charged: false
+    His 111 Neutral
+Scale: WW Interfacial (IF)
+DCONH value: 0.0
+Mode: Locate
+Partitioning: water to bilayer
+Window size: 19
+
+Number of hydropathy predicted segments: 2
+
+5-23 (19) : TPFDALWQRMLARGWTPVS
+    DG = -1,02 for segment sequence
+    DG = -1,02 for most favorable 19AA centered at #14M
+    (TPFDALWQRMLARGWTPVS)
+
+87-116 (30) : FGVFRFPATLVFTGGNYRGVLNGIhPWAEL
+    DG = -2,87 for segment sequence
+    DG = -2,9 for most favorable 19AA centered at #96L
+    (FGVFRFPATLVFTGGNYRG)
+
+
+Number of known transmembrane regions: 0
+
+
+Working sequence:
+
+MSNDTPFDALWQRMLARGWTPVSESRLDDWLTQAPDGVVLLSSDPKRTPEVSDNPVMIGE
+LLREFPDYTWQVAIADLEQSEAIGDRFGVFRFPATLVFTGGNYRGVLNGIhPWAELINLM
+RGLVEPQQERAS
+

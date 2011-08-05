@@ -1,0 +1,610 @@
+Locus	Gene Symbol	Common Name	EC Number	5' End	3' End	DNA molecule	
+ECK0001:JW4367:b0001	thrL	thr operon leader peptide	 	190	255	Chromosome Escherichia coli W3110	
+ECK0005:JW0004:b0005	yaaX	hypothetical protein	 	5234	5530	Chromosome Escherichia coli W3110	
+ECK0011:JW0010:b0011	yaaW	conserved hypothetical protein	 	11356	10643	Chromosome Escherichia coli W3110	
+ECK0012:JW5001:b0012	htgA	hypothetical protein	 	10830	11315	Chromosome Escherichia coli W3110	
+ECK0015:JW0014:b0015	dnaJ	chaperone Hsp40, co-chaperone with DnaK	 	14168	15298	Chromosome Escherichia coli W3110	
+ECK0020:JW0018:b0019	nhaA	sodium-proton antiporter	 	17489	18655	Chromosome Escherichia coli W3110	
+ECK0048:JW0046:b0047	kefC	potassium:proton antiporter	 	47769	49631	Chromosome Escherichia coli W3110	
+ECK0056:JW0054:b0055	djlA	DnaJ-like protein, membrane anchored	 	57364	58179	Chromosome Escherichia coli W3110	
+ECK0058:JW0056:b0057	yabQ	hypothetical protein	 	59121	59279	Chromosome Escherichia coli W3110	
+ECK0068:JW0066:b0067	thiP	fused subunits of thiamin transporter and membrane components of ABC superfamily	 	74521	72911	Chromosome Escherichia coli W3110	
+ECK0084:JW0081:b0083	ftsL	membrane bound cell division protein at septum containing leucine zipper motif	 	91032	91397	Chromosome Escherichia coli W3110	
+ECK0090:JW0087:b0089	ftsW	integral membrane protein involved in stabilising FstZ ring during cell division	 	98403	99647	Chromosome Escherichia coli W3110	
+ECK0096:JW0093:b0095	ftsZ	GTP-binding tubulin-like cell division protein	 	105305	106456	Chromosome Escherichia coli W3110	
+ECK0114:JW0111:b0115	aceF	pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2	 	125695	127587	Chromosome Escherichia coli W3110	
+ECK0116:JW0113:b0117	yacH	hypothetical protein	 	131260	129407	Chromosome Escherichia coli W3110	
+ECK0127:JW0124:b0128	yadH	predicted transporter subunit	 	143702	144472	Chromosome Escherichia coli W3110	
+ECK0136:JW0133:b0137	yadL	predicted fimbrial-like adhesin protein	 	152231	151626	Chromosome Escherichia coli W3110	
+ECK0148:JW0145:b0149	mrcB	fused glycosyl transferase and transpeptidase	 	164730	167264	Chromosome Escherichia coli W3110	
+ECK0152:JW0149:b0153	fhuB	fused subunits of iron-hydroxamate transporter and membrane components of ABC superfamily transporter	 	171462	173444	Chromosome Escherichia coli W3110	
+ECK0154:JW5012:b0155	clcA	chloride channel, voltage-gated	 	175107	176528	Chromosome Escherichia coli W3110	
+ECK0156:JW0153:b0157	yadS	conserved inner membrane protein	 	177624	177001	Chromosome Escherichia coli W3110	
+ECK0160:JW0157:b0161	degP	serine endoprotease (protease Do), membrane-associated	 	180884	182308	Chromosome Escherichia coli W3110	
+ECK0177:JW0173:b0178	hlpA	periplasmic chaperone	 	200482	200967	Chromosome Escherichia coli W3110	
+ECK0184:JW0180:b0185	accA	acetylCoA carboxylase, carboxytransferase, alpha subunit	 	208621	209580	Chromosome Escherichia coli W3110	
+ECK0186:JW0182:b0187	yaeR	predicted lyase	 	211877	212266	Chromosome Escherichia coli W3110	
+ECK0187:JW0183:b0188	tilS	tRNA(Ile)-lysidine synthetase	 	212331	213629	Chromosome Escherichia coli W3110	
+ECK0196:JW0192:b0196	rcsF	predicted outer membrane protein, signal	 	219995	219591	Chromosome Escherichia coli W3110	
+ECK0198:JW0194:b0198	metI	DL-methionine transporter subunit	 	221621	220968	Chromosome Escherichia coli W3110	
+ECK0218:JW0207:b0218	yafU	predicted inner membrane protein	 	239084	238746	Chromosome Escherichia coli W3110	
+ECK0230:JW5811:b0229	 	flagellar system protein, promoterless fragment	 	250070	248358	Chromosome Escherichia coli W3110	
+ECK0231:JW5812:b0230	 	flagellar system protein, promoterless fragment	 	250072	250827	Chromosome Escherichia coli W3110	
+ECK0241:JW0230:b0240	crl	DNA-binding transcriptional regulator	 	257829	258230	Chromosome Escherichia coli W3110	
+ECK0273:JW0265:b0272	yagI	predicted DNA-binding transcriptional regulator	 	288386	287628	Chromosome Escherichia coli W3110	
+ECK0279:JW0274:b0280	yagN	hypothetical protein	 	294803	294363	Chromosome Escherichia coli W3110	
+ECK0350:JW5046:b0353	mhpT	predicted 3-hydroxyphenylpropionic transporter	 	374683	375894	Chromosome Escherichia coli W3110	
+ECK0356:JW0350:b0359	 	predicted acyl transferase	 	380283	380068	Chromosome Escherichia coli W3110	
+ECK0379:JW5054:b0384	psiF	conserved hypothetical protein	 	402505	402825	Chromosome Escherichia coli W3110	
+ECK0390:JW0386:b0396	araJ	predicted transporter	 	411705	410521	Chromosome Escherichia coli W3110	
+ECK0391:JW0387:b0397	sbcC	exonuclease, dsDNA, ATP-dependent	 	414977	411831	Chromosome Escherichia coli W3110	
+ECK0396:JW5055:b0402	proY	predicted cryptic proline transporter	 	420210	421583	Chromosome Escherichia coli W3110	
+ECK0427:JW0423:b0433	ampG	muropeptide transporter	 	452769	451294	Chromosome Escherichia coli W3110	
+ECK0434:JW0430:b0440	hupB	HU, DNA-binding transcriptional regulator, beta subunit	 	460675	460947	Chromosome Escherichia coli W3110	
+ECK0436:JW0432:b0442	ybaV	conserved hypothetical protein	 	463161	463532	Chromosome Escherichia coli W3110	
+ECK0445:JW0441:b0451	amtB	ammonium transporter	 	472190	473476	Chromosome Escherichia coli W3110	
+ECK0447:JW0443:b0453	ybaY	predicted outer membrane lipoprotein	 	474603	475175	Chromosome Escherichia coli W3110	
+ECK0457:JW0452:b0463	acrA	multidrug efflux system	 	484843	483650	Chromosome Escherichia coli W3110	
+ECK0462:JW0457:b0468	ybaN	conserved inner membrane protein	 	490106	490483	Chromosome Escherichia coli W3110	
+ECK0465:JW0460:b0471	ybaB	conserved hypothetical protein	 	493300	493629	Chromosome Escherichia coli W3110	
+ECK0472:JW0467:b0478	ybaL	predicted transporter with NAD(P)-binding Rossmann-fold domain	 	502462	500786	Chromosome Escherichia coli W3110	
+ECK0473:JW0468:b0479	fsr	predicted fosmidomycin efflux system	 	503920	502700	Chromosome Escherichia coli W3110	
+ECK0480:JW0475:b0486	ybaT	predicted transporter	 	511800	513092	Chromosome Escherichia coli W3110	
+ECK0482:JW5065:b0488	ybbJ	conserved inner membrane protein	 	514080	513625	Chromosome Escherichia coli W3110	
+ECK0485:JW5066:b0491	ybbM	predicted inner membrane protein	 	515807	516586	Chromosome Escherichia coli W3110	
+ECK0490:JW0485:b0496	ybbP	predicted inner membrane protein	 	519640	522054	Chromosome Escherichia coli W3110	
+ECK0492:JW0487:b0498	ybbC	lipoprotein, putative	 	526805	527173	Chromosome Escherichia coli W3110	
+ECK0494:JW0489:b0500	ybbD	hypothetical protein	 	527864	528124	Chromosome Escherichia coli W3110	
+ECK0503:JW0498:b0510	ybbV	hypothetical protein	 	536720	536998	Chromosome Escherichia coli W3110	
+ECK0516:JW0512:b0523	purE	N5-carboxyaminoimidazole ribonucleotide mutase	 	552323	551814	Chromosome Escherichia coli W3110	
+ECK0523:JW0519:b0530	sfmA	predicted fimbrial-like adhesin protein	 	557435	557977	Chromosome Escherichia coli W3110	
+ECK0532:JW0527:b450	 	DLP12 prophage region predicted replication protein fragment	 	565674	565910	Chromosome Escherichia coli W3110	
+ECK0544:JW5078:b0553	 	DLP12 prophage region truncated outer membrane porin	 	576108	574981	Chromosome Escherichia coli W3110	
+ECK0553:JW5815:b056	 	DLP12 prophage region predicted tail fiber assembly protein	 	580757	581320	Chromosome Escherichia coli W3110	
+ECK0562:JW5082:b0570	cusS	sensory histidine kinase in two-component regulatory system with CusR, senses copper ions	 	593993	592551	Chromosome Escherichia coli W3110	
+ECK0575:JW5085:b0583	entD	phosphopantetheinyltransferase component of enterobactin synthase multienzyme complex	 	609311	608682	Chromosome Escherichia coli W3110	
+ECK0582:JW0581:b058	fepG	iron-enterobactin transporter subunit	 	620411	619419	Chromosome Escherichia coli W3110	
+ECK0583:JW0582:b0590	fepD	iron-enterobactin transporter subunit	 	621412	620408	Chromosome Escherichia coli W3110	
+ECK0584:JW0583:b0591	ybdA	predicted transporter	 	621523	622773	Chromosome Escherichia coli W3110	
+ECK0589:JW0588:b0596	entA	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	 	627774	628520	Chromosome Escherichia coli W3110	
+ECK0610:JW0609:b0617	citD	citrate lyase, acyl carrier (gamma) subunit	 	650006	649710	Chromosome Escherichia coli W3110	
+ECK0618:JW0620:b0625	ybeH	hypothetical protein	 	658453	658680	Chromosome Escherichia coli W3110	
+ECK0620:JW0622:b0627	tatE	TatABCE protein translocation system subunit	 	659369	659572	Chromosome Escherichia coli W3110	
+ECK0626:JW0628:b0633	rlpA	minor lipoprotein	 	665612	664524	Chromosome Escherichia coli W3110	
+ECK0627:JW0629:b0634	mrdB	cell wall shape-determining protein	 	666735	665623	Chromosome Escherichia coli W3110	
+ECK0634:JW0636:b0641	rlpB	minor lipoprotein	 	672608	672027	Chromosome Escherichia coli W3110	
+ECK0651:JW0656:b0659	ybeY	conserved hypothetical protein	 	692763	692296	Chromosome Escherichia coli W3110	
+ECK0667:JW0665:b0679	nagE	fused N-acetyl glucosamine specific PTS enzyme IICBA components	 	704366	706312	Chromosome Escherichia coli W3110	
+ECK0673:JW5816:b0685	ybfE	LexA regulated protein	 	712320	712027	Chromosome Escherichia coli W3110	
+ECK0687:JW0687:b4513	kdpF	potassium ion accessory transporter subunit	 	729243	729154	Chromosome Escherichia coli W3110	
+ECK0694:JW0695:b0705	 	predicted transposase	 	737322	738383	Chromosome Escherichia coli W3110	
+ECK0717:JW0718:b0729	sucD	succinyl-CoA synthetase, NAD(P)-binding, alpha subunit	 	764602	765471	Chromosome Escherichia coli W3110	
+ECK0719:JW0720:b0731	mngA	fused 2-O-a-mannosyl-D-glycerate specific PTS enzyme IIABC components	 	766406	768382	Chromosome Escherichia coli W3110	
+ECK0728:JW0729:b0739	tolA	membrane anchored protein in TolA-TolQ-TolR complex	 	776764	778029	Chromosome Escherichia coli W3110	
+ECK0742:JW0736:b0753	ybgS	conserved hypothetical protein	 	785739	785359	Chromosome Escherichia coli W3110	
+ECK0751:JW5102:b0762	ybhT	hypothetical protein	 	795195	795344	Chromosome Escherichia coli W3110	
+ECK0753:JW0747:b0764	modB	molybdate transporter subunit	 	796284	796973	Chromosome Escherichia coli W3110	
+ECK0765:JW0759:b0776	bioF	8-amino-7-oxononanoate synthase	 	810803	811957	Chromosome Escherichia coli W3110	
+ECK0776:JW0770:b0787	ybhM	conserved inner membrane protein	 	821215	821928	Chromosome Escherichia coli W3110	
+ECK0777:JW0771:b0788	ybhN	conserved inner membrane protein	 	822920	821964	Chromosome Escherichia coli W3110	
+ECK0780:JW0774:b0791	ybhQ	predicted inner membrane protein	 	825052	825462	Chromosome Escherichia coli W3110	
+ECK0784:JW0779:b0795	ybhG	predicted membrane fusion protein (MFP) component of efflux pump, membrane anchor	 	830394	829396	Chromosome Escherichia coli W3110	
+ECK0785:JW0780:b0796	ybiH	predicted DNA-binding transcriptional regulator	 	831065	830394	Chromosome Escherichia coli W3110	
+ECK0791:JW0787:b0802	ybiJ	hypothetical protein	 	838347	838087	Chromosome Escherichia coli W3110	
+ECK0799:JW0795:b0810	glnP	glutamine transporter subunit	 	847541	846882	Chromosome Escherichia coli W3110	
+ECK0808:JW0802:b0818	ybiR	predicted transporter	 	854069	855187	Chromosome Escherichia coli W3110	
+ECK0821:JW0815:b0831	yliC	predicted peptide transporter subunit	 	871389	872309	Chromosome Escherichia coli W3110	
+ECK0826:JW0820:b0836	yliH	conserved hypothetical protein	 	878670	879053	Chromosome Escherichia coli W3110	
+ECK0828:JW0822:b0838	yliJ	predicted glutathione S-transferase	 	880902	880276	Chromosome Escherichia coli W3110	
+ECK0835:JW0829:b0845	ybjJ	predicted transporter	 	887761	886553	Chromosome Escherichia coli W3110	
+ECK0841:JW0834:b0850	ybjC	predicted inner membrane protein	 	891335	891622	Chromosome Escherichia coli W3110	
+ECK0848:JW0841:b0857	potI	putrescine transporter subunit	 	897506	898351	Chromosome Escherichia coli W3110	
+ECK0866:JW0859:b0875	aqpZ	aquaporin	 	916469	915774	Chromosome Escherichia coli W3110	
+ECK0901:JW0893:b0910	cmk	cytidylate kinase	 	961623	962306	Chromosome Escherichia coli W3110	
+ECK0902:JW0894:b0911	rpsA	30S ribosomal subunit protein S1	 	962417	964090	Chromosome Escherichia coli W3110	
+ECK0911:JW0903:b0920	ycbC	conserved inner membrane protein	 	973823	973044	Chromosome Escherichia coli W3110	
+ECK0940:JW0932:b0949	uup	fused predicted transporter subunits and ATP-binding components of ABC superfamily	 	1010386	1012293	Chromosome Escherichia coli W3110	
+ECK0949:JW0941:b0958	sulA	SOS cell division inhibitor	 	1021341	1020832	Chromosome Escherichia coli W3110	
+ECK0966:JW0957:b0975	hyaD	protein involved in processing of HyaA and HyaB proteins	 	1036192	1036779	Chromosome Escherichia coli W3110	
+ECK0978:JW5133:b0987	ymcD	hypothetical protein	 	1050166	1049861	Chromosome Escherichia coli W3110	
+ECK1000:JW0994:b1009	rarA	predicted hydrolase	 	1072187	1071387	Chromosome Escherichia coli W3110	
+ECK1006:JW1001:b1015	putP	proline:sodium symporter	 	1079727	1081235	Chromosome Escherichia coli W3110	
+ECK1007:JW5141:b1016	 	ECK1007:JW5141:b1016	 	1081778	1081888	Chromosome Escherichia coli W3110	
+ECK1007:JW1002:b1017	 	ECK1007:JW1002:b1017	 	1081876	1082607	Chromosome Escherichia coli W3110	
+ECK1011:JW1006:b1021	ycdP	predicted inner membrane protein	 	1086941	1086528	Chromosome Escherichia coli W3110	
+ECK1016:JW5145:b1028	 	hypothetical protein	 	1095966	1096268	Chromosome Escherichia coli W3110	
+ECK1024:JW1021:b1038	csgF	predicted transport protein	 	1102368	1101952	Chromosome Escherichia coli W3110	
+ECK1026:JW1023:b1040	csgD	DNA-binding transcriptional activator in two-component regulatory system	 	1103437	1102787	Chromosome Escherichia coli W3110	
+ECK1028:JW1025:b1042	csgA	cryptic curlin major subunit	 	1104688	1105143	Chromosome Escherichia coli W3110	
+ECK1042:JW1044:b1057	yceJ	predicted cytochrome b561	 	1120623	1120057	Chromosome Escherichia coli W3110	
+ECK1050:JW1052:b1065	mdtH	predicted drug efflux system	 	1126903	1125695	Chromosome Escherichia coli W3110	
+ECK1054:JW1056:b1069	mviN	predicted inner membrane protein	 	1129416	1130951	Chromosome Escherichia coli W3110	
+ECK1056:JW1058:b1071	flgM	anti-sigma factor for FliA (sigma 28)	 	1131705	1131412	Chromosome Escherichia coli W3110	
+ECK1060:JW1062:b1075	flgD	flagellar hook assembly protein	 	1133431	1134126	Chromosome Escherichia coli W3110	
+ECK1069:JW1071:b1084	rne	fused ribonucleaseE endoribonuclease and scaffold for formation of degradosome	 	1145944	1142759	Chromosome Escherichia coli W3110	
+ECK1076:JW5156:b1090	plsX	fatty acid/phospholipid synthesis protein	 	1149198	1150268	Chromosome Escherichia coli W3110	
+ECK1080:JW1080:b1094	acpP	acyl carrier protein	 	1153192	1153428	Chromosome Escherichia coli W3110	
+ECK1085:JW1085:b1099	holB	DNA polymerase III, delta prime subunit	 	1157339	1158343	Chromosome Escherichia coli W3110	
+ECK1096:JW1096:b1110	ycfJ	hypothetical protein	 	1169176	1169715	Chromosome Escherichia coli W3110	
+ECK1108:JW5164:b1122	ymfA	predicted inner membrane protein	 	1183302	1182841	Chromosome Escherichia coli W3110	
+ECK1124:JW5166:b1138	ymfE	predicted inner membrane protein	 	1199814	1199110	Chromosome Escherichia coli W3110	
+ECK1143:JW5172:b1157	 	e14 prophage region predicted side tail fiber protein fragment	 	1211232	1210696	Chromosome Escherichia coli W3110	
+ECK1157:JW5901:b1169	 	hypothetical protein, N-ter fragment	 	1222378	1222698	Chromosome Escherichia coli W3110	
+ECK1157:JW5176:b1170	 	hypothetical protein, C-ter fragment	 	1222783	1223799	Chromosome Escherichia coli W3110	
+ECK1159:JW5178:b1172	ymgG	hypothetical protein	 	1224496	1224221	Chromosome Escherichia coli W3110	
+ECK1166:JW1167:b1178	ycgK	hypothetical protein	 	1229049	1228648	Chromosome Escherichia coli W3110	
+ECK1171:JW1172:b1183	umuD	DNA polymerase V, subunit D	 	1232344	1232763	Chromosome Escherichia coli W3110	
+ECK1173:JW5182:b1185	dsbB	oxidoreductase that catalyzes reoxidation of DsbA protein disulfide isomerase I	 	1234607	1234077	Chromosome Escherichia coli W3110	
+ECK1174:JW1175:b1186	nhaB	sodium:proton antiporter	 	1236294	1234753	Chromosome Escherichia coli W3110	
+ECK1179:JW5184:b1191	cvrA	predicted cation/proton antiporter	 	1243648	1241912	Chromosome Escherichia coli W3110	
+ECK1183:JW1184:b1195	ymgE	predicted inner membrane protein	 	1246305	1246559	Chromosome Escherichia coli W3110	
+ECK1193:JW1196:b1205	ychH	predicted inner membrane protein	 	1260368	1260646	Chromosome Escherichia coli W3110	
+ECK1194:JW5189:b1206	ychM	predicted transporter	 	1262380	1260701	Chromosome Escherichia coli W3110	
+ECK1210:JW1207:b1216	chaA	calcium/sodium:proton antiporter	 	1273426	1272326	Chromosome Escherichia coli W3110	
+ECK1217:JW1214:b1223	narK	nitrate/nitrite transporter	 	1279534	1280925	Chromosome Escherichia coli W3110	
+ECK1224:JW1219:b1229	tpr	predicted protamine-like protein	 	1288765	1288664	Chromosome Escherichia coli W3110	
+ECK1234:JW1227:b1239	 	ECK1234:JW1227:b1239	 	1296593	1296003	Chromosome Escherichia coli W3110	
+ECK1234:JW5883:b1240	 	ECK1234:JW5883:b1240	 	1296775	1296545	Chromosome Escherichia coli W3110	
+ECK1239:JW1237:b1245	oppC	oligopeptide transporter subunit	 	1305548	1306456	Chromosome Escherichia coli W3110	
+ECK1246:JW5195:b1252	tonB	membrane spanning protein in TonB-ExbB-ExbD complex	 	1312803	1313522	Chromosome Escherichia coli W3110	
+ECK1248:JW1246:b1254	yciB	predicted inner membrane protein	 	1314604	1314065	Chromosome Escherichia coli W3110	
+ECK1249:JW1247:b1255	yciC	predicted inner membrane protein	 	1315377	1314634	Chromosome Escherichia coli W3110	
+ECK1252:JW1250:b1258	yciF	conserved hypothetical protein	 	1317484	1316984	Chromosome Escherichia coli W3110	
+ECK1259:JW1257:b1265	trpL	trp operon leader peptide	 	1324796	1324752	Chromosome Escherichia coli W3110	
+ECK1264:JW1262:b1270	btuR	cob(I)alamin adenolsyltransferase/cobinamide ATP-dependent adenolsyltransferase	 	1330071	1329481	Chromosome Escherichia coli W3110	
+ECK1266:JW1264:b1272	sohB	predicted inner membrane peptidase	 	1331046	1332095	Chromosome Escherichia coli W3110	
+ECK1270:JW5199:b4523	 	hypothetical protein, C-ter fragment	 	1336984	1337172	Chromosome Escherichia coli W3110	
+ECK1274:JW1271:b1279	yciS	conserved inner membrane protein	 	1341957	1342265	Chromosome Escherichia coli W3110	
+ECK1277:JW1274:b1282	yciH	conserved hypothetical protein	 	1344372	1344698	Chromosome Escherichia coli W3110	
+ECK1278:JW1275:b1283	osmB	lipoprotein	 	1345042	1344824	Chromosome Escherichia coli W3110	
+ECK1284:JW1282:b1289	ycjD	conserved hypothetical protein	 	1353474	1353121	Chromosome Escherichia coli W3110	
+ECK1306:JW1304:b1311	ycjO	predicted sugar transporter subunit	 	1374936	1375817	Chromosome Escherichia coli W3110	
+ECK1334:JW5205:b1338	abgA	predicted peptidase, aminobenzoyl-glutamate utilization protein	 	1406279	1404969	Chromosome Escherichia coli W3110	
+ECK1356:JW1353:b1358	ydaT	hypothetical protein	 	1422398	1422820	Chromosome Escherichia coli W3110	
+ECK1361:JW5213:b4528	rzoR	predicted lipoprotein	 	1425114	1425299	Chromosome Escherichia coli W3110	
+ECK1362:JW1358:b1363	trkG	potassium transporter subunit	 	1425496	1426953	Chromosome Escherichia coli W3110	
+ECK1366:JW5884:b1369	 	Rac prophage region hypothetical protein, N-ter fragment	 	1429172	1429327	Chromosome Escherichia coli W3110	
+ECK1366:JW5904:b1371	 	ECK1366:JW5904:b1371	 	1430528	1430698	Chromosome Escherichia coli W3110	
+ECK1376:JW1374:b1379	hslJ	heat-inducible protein	 	1443457	1443035	Chromosome Escherichia coli W3110	
+ECK1390:JW1388:b1393	paaF	enoyl-CoA hydratase-isomerase	 	1459211	1459978	Chromosome Escherichia coli W3110	
+ECK1391:JW1389:b1394	paaG	acyl-CoA hydratase	 	1459978	1460766	Chromosome Escherichia coli W3110	
+ECK1396:JW1394:b1399	paaX	DNA-binding transcriptional regulator, aryl-CoA responsive	 	1465253	1466203	Chromosome Escherichia coli W3110	
+ECK1398:JW5802:b1401	 	ECK1398:JW5802:b1401	 	1467106	1469664	Chromosome Escherichia coli W3110	
+ECK1398:JW1402:b1405	 	ECK1398:JW1402:b1405	 	1472404	1475727	Chromosome Escherichia coli W3110	
+ECK1401:JW1405:b1408	ynbA	predicted inner membrane protein	 	1479335	1479940	Chromosome Escherichia coli W3110	
+ECK1402:JW1406:b1409	ynbB	predicted CDP-diglyceride synthase	 	1479940	1480836	Chromosome Escherichia coli W3110	
+ECK1409:JW1413:b1416	 	ECK1409:JW1413:b1416	 	1491678	1491427	Chromosome Escherichia coli W3110	
+ECK1409:JW5906:b1417	 	ECK1409:JW5906:b1417	 	1492427	1491675	Chromosome Escherichia coli W3110	
+ECK1410:JW5224:b1418	cybB	cytochrome b561	 	1492616	1493146	Chromosome Escherichia coli W3110	
+ECK1415:JW1417:b1421	trg	methyl-accepting chemotaxis protein III, ribose and galactose sensor receptor	 	1494184	1495824	Chromosome Escherichia coli W3110	
+ECK1425:JW5227:b4530	 	ECK1425:JW5227:b4530	 	1505024	1504857	Chromosome Escherichia coli W3110	
+ECK1425:JW5961:b4531	 	ECK1425:JW5961:b4531	 	1505363	1505076	Chromosome Escherichia coli W3110	
+ECK1437:JW1438:b1443	ydcV	predicted spermidine/putrescine transporter subunit	 	1516476	1517270	Chromosome Escherichia coli W3110	
+ECK1444:JW1445:b1450	yncC	predicted DNA-binding transcriptional regulator	 	1521976	1522641	Chromosome Escherichia coli W3110	
+ECK1460:JW1461:b1466	narW	nitrate reductase 2 (NRZ), delta subunit (assembly subunit)	 	1539023	1538328	Chromosome Escherichia coli W3110	
+ECK1480:JW1481:b1486	ddpB	D-Ala-D-Ala transporter subunit	 	1562643	1561621	Chromosome Escherichia coli W3110	
+ECK1486:JW1487:b1492	gadC	predicted glutamate:gamma-aminobutyric acid antiporter	 	1572203	1570668	Chromosome Escherichia coli W3110	
+ECK1502:JW1502:b1509	 	conserved hypothetical protein	 	1595779	1594379	Chromosome Escherichia coli W3110	
+ECK1507:JW1507:b1514	lsrC	AI2 transporter	 	1604733	1605761	Chromosome Escherichia coli W3110	
+ECK1508:JW1508:b1515	lsrD	AI2 transporter	 	1605761	1606753	Chromosome Escherichia coli W3110	
+ECK1516:JW1516:b1523	yneG	conserved hypothetical protein	 	1614039	1613680	Chromosome Escherichia coli W3110	
+ECK1521:JW1521:b1528	ydeA	predicted arabinose transporter	 	1618742	1619932	Chromosome Escherichia coli W3110	
+ECK1525:JW1525:b1532	marB	hypothetical protein	 	1621703	1621921	Chromosome Escherichia coli W3110	
+ECK1530:JW1530:b1537	ydeJ	conserved hypothetical protein	 	1626487	1627005	Chromosome Escherichia coli W3110	
+ECK1542:JW5251:b4533	ynfO	hypothetical protein	 	1638470	1638703	Chromosome Escherichia coli W3110	
+ECK1544:JW5253:b1550	gnsB	hypothetical protein	 	1639496	1639323	Chromosome Escherichia coli W3110	
+ECK1559:JW1557:b1565	ydfV	hypothetical protein	 	1647611	1647916	Chromosome Escherichia coli W3110	
+ECK1560:JW1558:b1566	flxA	hypothetical protein	 	1648119	1648451	Chromosome Escherichia coli W3110	
+ECK1566:JW1564:b1572	ydfB	hypothetical protein	 	1650379	1650507	Chromosome Escherichia coli W3110	
+ECK1574:JW5257:b4534	 	hypothetical protein	 	1654552	1654442	Chromosome Escherichia coli W3110	
+ECK1578:JW1575:b1583	ynfB	hypothetical protein	 	1657522	1657863	Chromosome Escherichia coli W3110	
+ECK1581:JW5259:b1586	ynfD	hypothetical protein	 	1659279	1659584	Chromosome Escherichia coli W3110	
+ECK1587:JW5263:b1592	clcB	predicted voltage-gated chloride channel	 	1667029	1668285	Chromosome Escherichia coli W3110	
+ECK1592:JW5826:b1597	asr	acid shock-inducible periplasmic protein	 	1673090	1673398	Chromosome Escherichia coli W3110	
+ECK1594:JW1591:b1599	mdtI	multidrug efflux system transporter	 	1674863	1674534	Chromosome Escherichia coli W3110	
+ECK1596:JW1593:b1601	ydgG	predicted inner membrane protein	 	1675627	1676661	Chromosome Escherichia coli W3110	
+ECK1599:JW1596:b1604	ydgH	hypothetical protein	 	1680141	1681085	Chromosome Escherichia coli W3110	
+ECK1620:JW5963:b4409	blr	beta-lactam resistance membrane protein	 	1706265	1706390	Chromosome Escherichia coli W3110	
+ECK1622:JW1618:b1626	ydgK	conserved inner membrane protein	 	1706964	1707404	Chromosome Escherichia coli W3110	
+ECK1625:JW1621:b1629	rsxC	fused predicted 4Fe-4S ferredoxin-type protein	 	1708633	1710855	Chromosome Escherichia coli W3110	
+ECK1628:JW1624:b1632	rsxE	predicted inner membrane NADH-quinone reductase	 	1712542	1713237	Chromosome Escherichia coli W3110	
+ECK1637:JW1633:b1641	slyB	outer membrane lipoprotein	 	1721590	1722057	Chromosome Escherichia coli W3110	
+ECK1639:JW1635:b1643	ydhI	predicted inner membrane protein	 	1722739	1722975	Chromosome Escherichia coli W3110	
+ECK1641:JW1637:b1645	ydhK	conserved inner membrane protein	 	1723835	1725847	Chromosome Escherichia coli W3110	
+ECK1651:JW5270:b1655	ydhO	predicted lipoprotein	 	1736149	1736964	Chromosome Escherichia coli W3110	
+ECK1653:JW1649:b1657	ydhP	predicted transporter	 	1739004	1737835	Chromosome Escherichia coli W3110	
+ECK1656:JW1652:b1660	ydhC	predicted transporter	 	1741625	1742836	Chromosome Escherichia coli W3110	
+ECK1666:JW1660:b1670	ydhU	predicted cytochrome	 	1752062	1751277	Chromosome Escherichia coli W3110	
+ECK1668:JW1662:b1672	ydhW	hypothetical protein	 	1753438	1752791	Chromosome Escherichia coli W3110	
+ECK1685:JW1678:b1688	ydiK	predicted inner membrane protein	 	1770788	1771900	Chromosome Escherichia coli W3110	
+ECK1709:JW1701:b1711	btuC	vitamin B12 transporter subunit	 	1796866	1795886	Chromosome Escherichia coli W3110	
+ECK1713:JW1705:b1715	pheM	phenylalanyl-tRNA synthetase operon leader peptide	 	1800984	1800940	Chromosome Escherichia coli W3110	
+ECK1714:JW1706:b1716	rplT	50S ribosomal subunit protein L20	 	1801463	1801107	Chromosome Escherichia coli W3110	
+ECK1715:JW1707:b1717	rpmI	50S ribosomal subunit protein L35	 	1801713	1801516	Chromosome Escherichia coli W3110	
+ECK1716:JW5829:b1718	infC	protein chain initiation factor IF-3	 	1802352	1801810	Chromosome Escherichia coli W3110	
+ECK1718:JW5278:b1720	 	hypothetical protein, N-ter fragment	 	1804808	1805281	Chromosome Escherichia coli W3110	
+ECK1718:JW1710:b1721	 	ECK1718:JW1710:b1721	 	1805292	1806707	Chromosome Escherichia coli W3110	
+ECK1727:JW1718:b1729	ydjN	predicted transporter	 	1812648	1814039	Chromosome Escherichia coli W3110	
+ECK1736:JW1727:b1738	chbB	N,N-diacetylchitobiose-specific enzyme IIB component of PTS	 	1823333	1823013	Chromosome Escherichia coli W3110	
+ECK1741:JW1732:b1743	spy	envelope stress induced periplasmic protein	 	1827339	1826854	Chromosome Escherichia coli W3110	
+ECK1748:JW1739:b1750	ydjX	predicted inner membrane protein	 	1835115	1835825	Chromosome Escherichia coli W3110	
+ECK1753:JW5285:b1755	ynjC	fused transporter subunits and membrane component of ABC superfamily	 	1838971	1840461	Chromosome Escherichia coli W3110	
+ECK1756:JW1747:b1758	ynjF	predicted phosphatidyl transferase, inner membrane protein	 	1843117	1842497	Chromosome Escherichia coli W3110	
+ECK1773:JW5290:b1775	ydjK	predicted transporter	 	1861943	1860564	Chromosome Escherichia coli W3110	
+ECK1785:JW1776:b1787	yeaK	conserved hypothetical protein	 	1875288	1875791	Chromosome Escherichia coli W3110	
+ECK1786:JW5885:b1788	yoaI	hypothetical protein	 	1875896	1875792	Chromosome Escherichia coli W3110	
+ECK1787:JW1778:b1789	yeaL	conserved inner membrane protein	 	1876066	1876512	Chromosome Escherichia coli W3110	
+ECK1789:JW1780:b1791	yeaN	predicted transporter	 	1877387	1878568	Chromosome Escherichia coli W3110	
+ECK1793:JW1784:b1795	yeaQ	conserved inner membrane protein	 	1880969	1880721	Chromosome Escherichia coli W3110	
+ECK1794:JW1785:b1796	yoaG	hypothetical protein	 	1881299	1881117	Chromosome Escherichia coli W3110	
+ECK1823:JW1814:b1825	yebO	hypothetical protein	 	1910262	1909975	Chromosome Escherichia coli W3110	
+ECK1824:JW1815:b1826	yobG	lipoprotein, putative	 	1910480	1910337	Chromosome Escherichia coli W3110	
+ECK1840:JW1828:b1839	yebY	hypothetical protein	 	1925420	1925079	Chromosome Escherichia coli W3110	
+ECK1842:JW1830:b1841	yobA	conserved hypothetical protein	 	1926683	1926309	Chromosome Escherichia coli W3110	
+ECK1847:JW1835:b1846	yebE	conserved hypothetical protein	 	1931421	1930762	Chromosome Escherichia coli W3110	
+ECK1849:JW1837:b1848	yebG	conserved hypothetical protein regulated by LexA	 	1932461	1932171	Chromosome Escherichia coli W3110	
+ECK1858:JW5831:b1857	znuA	zinc transporter subunit	 	1944297	1943365	Chromosome Escherichia coli W3110	
+ECK1860:JW1848:b1859	znuB	zinc transporter subunit	 	1945128	1945913	Chromosome Escherichia coli W3110	
+ECK1880:JW1868:b1879	flhA	predicted flagellar export pore protein	 	1966764	1964686	Chromosome Escherichia coli W3110	
+ECK1881:JW1869:b1880	flhB	predicted flagellar export pore protein	 	1967905	1966757	Chromosome Escherichia coli W3110	
+ECK1883:JW1871:b1882	cheY	chemotaxis regulator transmitting signal to flagellar motor component	 	1969151	1968762	Chromosome Escherichia coli W3110	
+ECK1887:JW1875:b1886	tar	methyl-accepting chemotaxis protein II	 	1974405	1972744	Chromosome Escherichia coli W3110	
+ECK1906:JW1895:b1907	tyrP	tyrosine transporter	 	1991818	1993029	Chromosome Escherichia coli W3110	
+ECK1917:JW1903:b1918	yecS	predicted transporter subunit	 	2000616	1999948	Chromosome Escherichia coli W3110	
+ECK1922:JW1908:b1923	fliC	flagellar filament structural protein	 	2005743	2004247	Chromosome Escherichia coli W3110	
+ECK1923:JW1909:b1924	fliD	flagellar filament capping protein	 	2006009	2007415	Chromosome Escherichia coli W3110	
+ECK1927:JW1913:b1928	yedD	lipoprotein, putative	 	2010227	2009814	Chromosome Escherichia coli W3110	
+ECK1928:JW1914:b1929	yedE	predicted inner membrane protein	 	2010414	2011619	Chromosome Escherichia coli W3110	
+ECK1932:JW1918:b1933	 	ECK1932:JW1918:b1933	 	2013676	2013485	Chromosome Escherichia coli W3110	
+ECK1932:JW5912:b1934	 	ECK1932:JW5912:b1934	 	2014006	2013686	Chromosome Escherichia coli W3110	
+ECK1934:JW5913:b1936	 	predicted defective phage integrase	 	2014639	2014917	Chromosome Escherichia coli W3110	
+ECK1945:JW5316:b1947	fliO	flagellar biosynthesis protein	 	2023641	2024006	Chromosome Escherichia coli W3110	
+ECK1947:JW1933:b1949	fliQ	flagellar biosynthesis protein	 	2024753	2025022	Chromosome Escherichia coli W3110	
+ECK1956:JW1941:b1958	yedI	conserved inner membrane protein	 	2031503	2030586	Chromosome Escherichia coli W3110	
+ECK1957:JW1942:b1959	yedA	predicted inner membrane protein	 	2031676	2032596	Chromosome Escherichia coli W3110	
+ECK1962:JW5319:b1964	 	hypothetical protein, N-ter fragment	 	2036188	2036673	Chromosome Escherichia coli W3110	
+ECK1962:JW5319+JW1948+JW1	 	hypothetical protein	 	2036188	2037380	Chromosome Escherichia coli W3110	
+ECK1962:JW1948:b1965	 	hypothetical protein, middle fragment	 	2036683	2036892	Chromosome Escherichia coli W3110	
+ECK1962:JW1949:b1966	 	hypothetical protein, C-ter fragment	 	2036976	2037380	Chromosome Escherichia coli W3110	
+ECK1975:JW5325:b1979	 	hypothetical protein, C-ter fragment	 	2054739	2054413	Chromosome Escherichia coli W3110	
+ECK1975:JW1961:b1980	 	hypothetical protein, N-ter fragment	 	2055465	2054761	Chromosome Escherichia coli W3110	
+ECK1987:JW1970:b1992	cobS	cobalamin 5-phosphate synthase	 	2067359	2066616	Chromosome Escherichia coli W3110	
+ECK1989:JW5326:b1995	 	predicted disrupted hemin or colicin receptor	 	2070772	2071164	Chromosome Escherichia coli W3110	
+ECK1991:JW5327:b1999	 	predicted GTP-binding protein	 	2072923	2073348	Chromosome Escherichia coli W3110	
+ECK2013:JW2000:b2018	hisL	his operon leader peptide	 	2092133	2092183	Chromosome Escherichia coli W3110	
+ECK2019:JW2006:b2024	hisA	N-(5-phospho-L-ribosyl-formimino)-5-amino-1- (5-phosphoribosyl)-4-imidazolecarboxamide isomerase	 	2097262	2097999	Chromosome Escherichia coli W3110	
+ECK2025:JW2012:b4540	 	ECK2025:JW2012:b4540	 	2103814	2103533	Chromosome Escherichia coli W3110	
+ECK2025:JW2016:b2031	 	ECK2025:JW2016:b2031	 	2105526	2105053	Chromosome Escherichia coli W3110	
+ECK2073:JW2062:b2077	mdtD	multidrug efflux system protein	 	2163601	2165016	Chromosome Escherichia coli W3110	
+ECK2080:JW5886:b2083	 	hypothetical protein fragment	 	2169957	2169739	Chromosome Escherichia coli W3110	
+ECK2082:JW2070:b2086	yegS	conserved hypothetical protein	 	2170849	2171748	Chromosome Escherichia coli W3110	
+ECK2083:JW5340:b2087	 	DNA-binding transcriptional regulator, N-ter fragment	 	2172276	2171830	Chromosome Escherichia coli W3110	
+ECK2083:JW2074:b2090	 	DNA-binding transcriptional regulator, C-ter fragment	 	2173870	2173532	Chromosome Escherichia coli W3110	
+ECK2085:JW2076:b2092	gatC	galactitol-specific enzyme IIC component of PTS	 	2176413	2175058	Chromosome Escherichia coli W3110	
+ECK2097:JW2091:b2104	thiM	hydoxyethylthiazole kinase	 	2188635	2187847	Chromosome Escherichia coli W3110	
+ECK2099:JW2093:b2106	yohM	membrane protein conferring nickel and cobalt resistance	 	2189251	2190075	Chromosome Escherichia coli W3110	
+ECK2104:JW2098:b2111	yehD	predicted fimbrial-like adhesin protein	 	2195556	2195014	Chromosome Escherichia coli W3110	
+ECK2108:JW5915:b2116	 	DNA-binding transcriptional regulator, middle fragment	 	2200744	2202681	Chromosome Escherichia coli W3110	
+ECK2108:JW5916:b2117	 	ECK2108:JW5916:b2117	 	2202656	2203603	Chromosome Escherichia coli W3110	
+ECK2123:JW2118:b2130	yehY	predicted transporter subunit	 	2221891	2220734	Chromosome Escherichia coli W3110	
+ECK2129:JW2124:b2136	yohD	conserved inner membrane protein	 	2229135	2229713	Chromosome Escherichia coli W3110	
+ECK2134:JW2129:b2141	yohJ	conserved inner membrane protein	 	2233958	2234356	Chromosome Escherichia coli W3110	
+ECK2138:JW5359:b2145	yeiS	predicted inner membrane protein	 	2236934	2237173	Chromosome Escherichia coli W3110	
+ECK2141:JW2135:b2148	mglC	methyl-galactoside transporter subunit	 	2241087	2240077	Chromosome Escherichia coli W3110	
+ECK2145:JW2139:b2152	yeiB	conserved inner membrane protein	 	2246301	2245144	Chromosome Escherichia coli W3110	
+ECK2146:JW2140:b2153	folE	GTP cyclohydrolase I	 	2246986	2246318	Chromosome Escherichia coli W3110	
+ECK2151:JW2145:b2158	yeiH	conserved inner membrane protein	 	2253051	2254100	Chromosome Escherichia coli W3110	
+ECK2160:JW2154:b2167	fruA	fused fructose-specific PTS enzyme IIBBC components	 	2264744	2263053	Chromosome Escherichia coli W3110	
+ECK2162:JW2156:b2169	fruB	fused fructose-specific PTS enzyme IIA component and HPr component	 	2266829	2265699	Chromosome Escherichia coli W3110	
+ECK2176:JW5363:b2182	bcr	bicyclomycin/multidrug efflux system	 	2283094	2281904	Chromosome Escherichia coli W3110	
+ECK2187:JW2183:b2195	ccmG	periplasmic thioredoxin of cytochrome c-type biogenesis	 	2296298	2295741	Chromosome Escherichia coli W3110	
+ECK2190:JW2186:b2198	ccmD	cytochrome c biogenesis protein	 	2298920	2298711	Chromosome Escherichia coli W3110	
+ECK2192:JW2188:b2200	ccmB	heme exporter subunit	 	2300358	2299696	Chromosome Escherichia coli W3110	
+ECK2193:JW5366:b2201	ccmA	heme exporter subunit	 	2300978	2300355	Chromosome Escherichia coli W3110	
+ECK2220:JW2221:b2227	 	hypothetical protein, C-ter fragment	 	2334953	2334468	Chromosome Escherichia coli W3110	
+ECK2220:JW2222:b2228	 	ECK2220:JW2222:b2228	 	2339072	2334969	Chromosome Escherichia coli W3110	
+ECK2232:JW2234:b2240	glpT	sn-glycerol-3-phosphate transporter	 	2357044	2355686	Chromosome Escherichia coli W3110	
+ECK2237:JW5964:b4543	 	ECK2237:JW5964:b4543	 	2362486	2362671	Chromosome Escherichia coli W3110	
+ECK2238:JW2239:b2245	yfaU	predicted 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	 	2363515	2362712	Chromosome Escherichia coli W3110	
+ECK2243:JW5371:b2250	yfaZ	predicted outer membrane porin protein	 	2368945	2368403	Chromosome Escherichia coli W3110	
+ECK2244:JW2245:b2251	yfaO	predicted NUDIX hydrolase	 	2369224	2369649	Chromosome Escherichia coli W3110	
+ECK2251:JW2252:b4544	yfbW	conserved hypothetical protein	 	2377227	2377562	Chromosome Escherichia coli W3110	
+ECK2252:JW5373:b2258	yfbJ	predicted inner membrane protein	 	2377562	2377948	Chromosome Escherichia coli W3110	
+ECK2260:JW2261:b2266	elaB	conserved hypothetical protein	 	2385697	2385392	Chromosome Escherichia coli W3110	
+ECK2264:JW2265:b2270	yfbK	lipoprotein, putative	 	2390392	2388665	Chromosome Escherichia coli W3110	
+ECK2273:JW2274:b2279	nuoK	NADH:ubiquinone oxidoreductase, membrane subunit K	 	2400015	2399713	Chromosome Escherichia coli W3110	
+ECK2274:JW2275:b2280	nuoJ	NADH:ubiquinone oxidoreductase, membrane subunit J	 	2400566	2400012	Chromosome Escherichia coli W3110	
+ECK2301:JW2304:b2307	hisM	histidine/lysine/arginine/ornithine transporter subunit	 	2430679	2429963	Chromosome Escherichia coli W3110	
+ECK2313:JW2316:b2319	usg	predicted semialdehyde dehydrogenase	 	2442095	2441082	Chromosome Escherichia coli W3110	
+ECK2316:JW2319:b2322	yfcJ	predicted transporter	 	2445566	2444388	Chromosome Escherichia coli W3110	
+ECK2322:JW2325:b2328	mepA	murein DD-endopeptidase	 	2451830	2451006	Chromosome Escherichia coli W3110	
+ECK2333:JW2336:b2339	yfcV	predicted fimbrial-like adhesin protein	 	2461092	2460529	Chromosome Escherichia coli W3110	
+ECK2337:JW2340:b2343	yfcZ	conserved hypothetical protein	 	2466380	2466096	Chromosome Escherichia coli W3110	
+ECK2341:JW2344:b2347	yfdC	predicted inner membrane protein	 	2470747	2471679	Chromosome Escherichia coli W3110	
+ECK2344:JW2346:b2350	yfdG	bactoprenol-linked glucose translocase (flippase)	 	2473301	2473663	Chromosome Escherichia coli W3110	
+ECK2347:JW5383:b2353	 	CPS-53 (KpLE1) prophage region  tail fiber assembly protein fragment    gene            complement(2476523..2476963) /gene=yfdK	 	2476249	2476551	Chromosome Escherichia coli W3110	
+ECK2361:JW2362:b2365	dsdX	predicted transporter	 	2483293	2484630	Chromosome Escherichia coli W3110	
+ECK2363:JW2364:b2367	emrY	predicted multidrug efflux system	 	2487622	2486084	Chromosome Escherichia coli W3110	
+ECK2365:JW2366:b2369	evgA	DNA-binding response regulator in two-component regulatory system with EvgS	 	2489201	2489815	Chromosome Escherichia coli W3110	
+ECK2383:JW5389:b2387	ypdH	predicted enzyme IIB component of PTS	 	2513688	2513362	Chromosome Escherichia coli W3110	
+ECK2385:JW2386:b2389	yfeO	predicted ion channel protein	 	2515076	2516332	Chromosome Escherichia coli W3110	
+ECK2386:JW2387:b2390	ypeC	conserved hypothetical protein	 	2516447	2516773	Chromosome Escherichia coli W3110	
+ECK2400:JW2397:b2406	xapB	xanthosine transporter	 	2529431	2528175	Chromosome Escherichia coli W3110	
+ECK2402:JW2399:b2408	yfeN	conserved outer membrane protein	 	2530573	2531337	Chromosome Escherichia coli W3110	
+ECK2419:JW2417:b2424	cysU	sulfate/thiosulfate transporter subunit	 	2547958	2547125	Chromosome Escherichia coli W3110	
+ECK2424:JW2422:b2429	murP	fused predicted enzyme IIBC components of PTS	 	2552119	2553543	Chromosome Escherichia coli W3110	
+ECK2428:JW2426:b2433	yfeZ	predicted inner membrane protein	 	2557172	2556723	Chromosome Escherichia coli W3110	
+ECK2433:JW2431:b2438	yffI	predicted carboxysome structural protein with predicted role in ethanolamine utilization	 	2561174	2560674	Chromosome Escherichia coli W3110	
+ECK2450:JW2439:b2455	eutE	predicted aldehyde dehydrogenase, ethanolamine utilization protein	 	2570407	2569004	Chromosome Escherichia coli W3110	
+ECK2452:JW2441:b2457	cchA	predicted carboxysome structural protein, ethanolamine utilization protein	 	2571106	2570813	Chromosome Escherichia coli W3110	
+ECK2468:JW2457:b4547	ypfN	hypothetical protein	 	2591418	2591618	Chromosome Escherichia coli W3110	
+ECK2473:JW2462:b2477	nlpB	lipoprotein	 	2597521	2596487	Chromosome Escherichia coli W3110	
+ECK2478:JW2467:b2482	hyfB	hydrogenase 4, membrane subunit	 	2600474	2602492	Chromosome Escherichia coli W3110	
+ECK2479:JW2468:b2483	hyfC	hydrogenase 4, membrane subunit	 	2602503	2603450	Chromosome Escherichia coli W3110	
+ECK2482:JW2471:b2486	hyfF	hydrogenase 4, membrane subunit	 	2605573	2607153	Chromosome Escherichia coli W3110	
+ECK2484:JW2473:b2488	hyfH	hydrogenase 4, Fe-S subunit	 	2608820	2609365	Chromosome Escherichia coli W3110	
+ECK2489:JW2478:b2493	yfgO	predicted inner membrane protein	 	2614537	2613476	Chromosome Escherichia coli W3110	
+ECK2501:JW5400:b2505	yfgH	predicted outer membrane lipoprotein	 	2628448	2628966	Chromosome Escherichia coli W3110	
+ECK2502:JW2490:b2506	yfgI	conserved hypothetical protein	 	2628982	2629521	Chromosome Escherichia coli W3110	
+ECK2504:JW5401:b2508	guaB	IMP dehydrogenase	 	2632726	2631260	Chromosome Escherichia coli W3110	
+ECK2512:JW2500:b2516	yfgA	conserved hypothetical protein	 	2641500	2640487	Chromosome Escherichia coli W3110	
+ECK2525:JW2512:b2528	iscA	FeS cluster assembly protein	 	2658542	2658219	Chromosome Escherichia coli W3110	
+ECK2539:JW2526:b2542	hcaD	phenylpropionate dioxygenase, ferredoxin reductase subunit	 	2670703	2671905	Chromosome Escherichia coli W3110	
+ECK2540:JW2527:b2543	yphA	predicted inner membrane protein	 	2671930	2672424	Chromosome Escherichia coli W3110	
+ECK2543:JW2530:b2546	yphD	predicted sugar transporter subunit	 	2675481	2674483	Chromosome Escherichia coli W3110	
+ECK2550:JW2537:b2553	glnB	regulatory protein P-II for glutamine synthetase	 	2686064	2685726	Chromosome Escherichia coli W3110	
+ECK2552:JW2539:b2555	yfhG	lipoprotein, putative	 	2688162	2687449	Chromosome Escherichia coli W3110	
+ECK2561:JW2547:b2563	acpS	holo-[acyl-carrier-protein] synthase 1	 	2699654	2699274	Chromosome Escherichia coli W3110	
+ECK2568:JW2554:b2570	rseC	RseC protein involved in reduction of the SoxR iron-sulfur cluster	 	2706457	2705978	Chromosome Escherichia coli W3110	
+ECK2570:JW2556:b2572	rseA	anti-sigma factor	 	2708060	2707410	Chromosome Escherichia coli W3110	
+ECK2573:JW2559:b2575	yfiC	predicted methyltransferase	 	2711420	2710683	Chromosome Escherichia coli W3110	
+ECK2574:JW2560:b2576	srmB	ATP-dependent RNA helicase	 	2711552	2712886	Chromosome Escherichia coli W3110	
+ECK2577:JW2563:b2579	yfiD	pyruvate formate lyase subunit	 	2715105	2714722	Chromosome Escherichia coli W3110	
+ECK2595:JW2579:b2598	pheL	pheA gene leader peptide	 	2736255	2736302	Chromosome Escherichia coli W3110	
+ECK2608:JW2592:b2611	ypjD	predicted inner membrane protein	 	2746543	2747409	Chromosome Escherichia coli W3110	
+ECK2625:JW2610:b2629	yfjM	hypothetical protein	 	2764432	2764169	Chromosome Escherichia coli W3110	
+ECK2631:JW5888:b2635	ypjK	predicted inner membrane protein	 	2769101	2769337	Chromosome Escherichia coli W3110	
+ECK2637:JW5420:b2641	 	CP4-57 prophage region hypothetical protein	 	2771814	2771632	Chromosome Escherichia coli W3110	
+ECK2645:JW5423:b2648	 	predicted invertase fragment	 	2781864	2781721	Chromosome Escherichia coli W3110	
+ECK2651:JW5426:b2657	 	conserved hypothetical protein	 	2786298	2786894	Chromosome Escherichia coli W3110	
+ECK2661:JW2642:b2667	ygaV	predicted DNA-binding transcriptional regulator	 	2795867	2796166	Chromosome Escherichia coli W3110	
+ECK2663:JW2644:b2669	stpA	DNA binding protein, nucleoid-associated	 	2797151	2796747	Chromosome Escherichia coli W3110	
+ECK2672:JW2653:b2678	proW	glycine betaine transporter subunit	 	2804666	2805730	Chromosome Escherichia coli W3110	
+ECK2675:JW5428:b2681	 	predicted transporter	 	2807268	2808149	Chromosome Escherichia coli W3110	
+ECK2718:JW2693:b2723	hycC	hydrogenase 3, membrane subunit	 	2847897	2846071	Chromosome Escherichia coli W3110	
+ECK2731:JW2706:b2736	ygbJ	predicted dehydrogenase, with NAD(P)-binding Rossmann-fold domain	 	2860086	2860994	Chromosome Escherichia coli W3110	
+ECK2737:JW2712:b2742	nlpD	predicted outer membrane lipoprotein	 	2867409	2866270	Chromosome Escherichia coli W3110	
+ECK2741:JW2716:b2746	ispF	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	 	2870436	2869957	Chromosome Escherichia coli W3110	
+ECK2743:JW2718:b2748	ftsB	cell division protein	 	2871476	2871165	Chromosome Escherichia coli W3110	
+ECK2766:JW5845:b2771	ygcS	predicted transporter	 	2896526	2895189	Chromosome Escherichia coli W3110	
+ECK2772:JW5445:b2778	ygcG	hypothetical protein	 	2904367	2905239	Chromosome Escherichia coli W3110	
+ECK2786:JW2763:b2792	yqcC	conserved hypothetical protein	 	2922769	2922440	Chromosome Escherichia coli W3110	
+ECK2796:JW2772:b2801	fucP	L-fucose transporter	 	2932891	2934207	Chromosome Escherichia coli W3110	
+ECK2819:JW2791:b2823	ppdC	hypothetical protein	 	2961420	2961097	Chromosome Escherichia coli W3110	
+ECK2828:JW2800:b2832	ygdQ	predicted inner membrane protein	 	2969076	2969789	Chromosome Escherichia coli W3110	
+ECK2831:JW2803:b2835	ygeD	predicted inner membrane protein	 	2972518	2971325	Chromosome Escherichia coli W3110	
+ECK2847:JW2817:b2849	yqeK	hypothetical protein	 	2989016	2988591	Chromosome Escherichia coli W3110	
+ECK2852:JW5457:b2854	 	predicted peptidoglycan-binding enzyme	 	2992697	2993071	Chromosome Escherichia coli W3110	
+ECK2856:JW5460:b2858	 	hypothetical protein	 	2994676	2994404	Chromosome Escherichia coli W3110	
+ECK2861:JW2833:b2865	ygeR	Tetratricopeptide repeat transcriptional regulator	 	2998547	2997792	Chromosome Escherichia coli W3110	
+ECK2870:JW2842:b2874	yqeA	predicted amino acid kinase	 	3010117	3011049	Chromosome Escherichia coli W3110	
+ECK2895:JW2868:b2900	yqfB	conserved hypothetical protein	 	3042279	3041968	Chromosome Escherichia coli W3110	
+ECK2920:JW2891:b2924	mscS	mechanosensitive channel	 	3068463	3067603	Chromosome Escherichia coli W3110	
+ECK2929:JW2901:b2934	cmtB	predicted mannitol-specific enzyme IIA component of PTS	 	3077986	3077543	Chromosome Escherichia coli W3110	
+ECK2935:JW2907:b2940	yqgC	hypothetical protein	 	3084843	3085058	Chromosome Escherichia coli W3110	
+ECK2947:JW2919:b2952	yggT	predicted inner membrane protein	 	3094476	3095042	Chromosome Escherichia coli W3110	
+ECK2948:JW5479:b2953	yggU	conserved hypothetical protein	 	3095039	3095329	Chromosome Escherichia coli W3110	
+ECK2961:JW2934:b2966	yqgA	predicted inner membrane protein	 	3108209	3108916	Chromosome Escherichia coli W3110	
+ECK2964:JW5924:b2969	 	predicted secretion pathway protein, L-type protein	 	3110644	3109784	Chromosome Escherichia coli W3110	
+ECK2966:JW2938:b2971	yghG	lipoprotein, putative	 	3112133	3111723	Chromosome Escherichia coli W3110	
+ECK2969:JW2942:b2975	yghK	glycolate transporter	 	3119935	3118253	Chromosome Escherichia coli W3110	
+ECK2981:JW2955:b2987	pitB	phosphate transporter	 	3135027	3133528	Chromosome Escherichia coli W3110	
+ECK2991:JW2965:b2997	hybO	hydrogenase 2, small subunit	 	3144917	3143799	Chromosome Escherichia coli W3110	
+ECK2993:JW5926:b2999	 	predicted hydrolase	 	3145922	3145512	Chromosome Escherichia coli W3110	
+ECK2994:JW5496:b3000	 	predicted dienlactone hydrolase	 	3146275	3145922	Chromosome Escherichia coli W3110	
+ECK3001:JW2976:b3009	yghB	conserved inner membrane protein	 	3152219	3152878	Chromosome Escherichia coli W3110	
+ECK3018:JW2995:b3027	ygiZ	conserved inner membrane protein	 	3170867	3170535	Chromosome Escherichia coli W3110	
+ECK3031:JW3008:b3040	ygiE	zinc transporter	 	3181206	3181979	Chromosome Escherichia coli W3110	
+ECK3040:JW3023:b3051	yqiK	conserved hypothetical protein	 	3191520	3193181	Chromosome Escherichia coli W3110	
+ECK3045:JW3027:b3055	htrG	predicted signal transduction protein	 	3199863	3200483	Chromosome Escherichia coli W3110	
+ECK3048:JW3030:b3058	folB	bifunctional dihydroneopterin aldolase and dihydroneopterin triphosphate 2-epimerase	 	3203245	3202877	Chromosome Escherichia coli W3110	
+ECK3053:JW3035:b3063	ygjE	predicted tartrate:succinate antiporter	 	3206680	3208143	Chromosome Escherichia coli W3110	
+ECK3080:JW3060:b3089	sstT	sodium:serine/threonine symporter	 	3238600	3239844	Chromosome Escherichia coli W3110	
+ECK3087:JW3067:b3096	yqjB	conserved hypothetical protein	 	3247095	3247478	Chromosome Escherichia coli W3110	
+ECK3089:JW3069:b3098	yqjD	conserved hypothetical protein	 	3248031	3248336	Chromosome Escherichia coli W3110	
+ECK3090:JW3070:b3099	yqjE	conserved inner membrane protein	 	3248339	3248743	Chromosome Escherichia coli W3110	
+ECK3092:JW5850:b3101	yqjF	predicted quinol oxidase subunit	 	3249218	3249610	Chromosome Escherichia coli W3110	
+ECK3095:JW3075:b3104	yhaI	predicted inner membrane protein	 	3251567	3251923	Chromosome Escherichia coli W3110	
+ECK3122:JW3103:b3134	 	N-acetylgalactosamine-specific enzyme IIC component of PTS, fragment     gene            3280977..3281480 /gene=agaA	 	3280556	3280957	Chromosome Escherichia coli W3110	
+ECK3157:JW3137:b3168	infB	fused protein chain initiation factor 2, IF2	 	3315869	3313197	Chromosome Escherichia coli W3110	
+ECK3172:JW3150:b3183	obgE	GTPase involved in cell partioning and DNA repair	 	3331609	3330437	Chromosome Escherichia coli W3110	
+ECK3180:JW5535:b3191	yrbB	hypothetical protein	 	3337111	3336818	Chromosome Escherichia coli W3110	
+ECK3191:JW3169:b3202	rpoN	RNA polymerase, sigma 54 (sigma N) factor	 	3344572	3346005	Chromosome Escherichia coli W3110	
+ECK3207:JW3184:b3217	 	hypothetical protein, N-ter fragment	 	3365040	3365519	Chromosome Escherichia coli W3110	
+ECK3207:JW3187:b4549	 	ECK3207:JW3187:b4549	 	3366536	3366784	Chromosome Escherichia coli W3110	
+ECK3211:JW5538:b3222	nanK	predicted N-acetylmannosamine kinase	 	3370205	3369330	Chromosome Escherichia coli W3110	
+ECK3212:JW3192:b3223	nanE	predicted N-acetylmannosamine-6-P epimerase	 	3370891	3370202	Chromosome Escherichia coli W3110	
+ECK3213:JW3193:b3224	nanT	sialic acid transporter	 	3372429	3370939	Chromosome Escherichia coli W3110	
+ECK3222:JW5539:b3233	yhcB	conserved hypothetical protein	 	3380046	3380444	Chromosome Escherichia coli W3110	
+ECK3227:JW5540:b3238	yhcN	conserved hypothetical protein	 	3385393	3385656	Chromosome Escherichia coli W3110	
+ECK3238:JW3219:b3250	mreC	cell wall structural complex MreBCD transmembrane component MreC	 	3399833	3398730	Chromosome Escherichia coli W3110	
+ECK3242:JW3223:b3255	accB	acetyl CoA carboxylase, BCCP subunit	 	3405291	3405761	Chromosome Escherichia coli W3110	
+ECK3244:JW3225:b3257	yhdT	conserved inner membrane protein	 	3407230	3407472	Chromosome Escherichia coli W3110	
+ECK3246:JW3227:b3259	prmA	methylase for 50S ribosomal subunit protein L11	 	3408925	3409806	Chromosome Escherichia coli W3110	
+ECK3254:JW3235:b3267	yhdV	predicted outer membrane protein	 	3418245	3418466	Chromosome Escherichia coli W3110	
+ECK3995:JW3967:b4003	zraS	sensory histidine kinase in two-component regulatory system with ZraR	 	3434755	3433358	Chromosome Escherichia coli W3110	
+ECK3994:JW5546:b4002	zraP	Zn-binding periplasmic protein	 	3434993	3435418	Chromosome Escherichia coli W3110	
+ECK3977:JW3949:b3986	rplL	50S ribosomal subunit protein L7/L12	 	3456121	3455756	Chromosome Escherichia coli W3110	
+ECK3975:JW3947:b3984	rplA	50S ribosomal subunit protein L1	 	3457802	3457098	Chromosome Escherichia coli W3110	
+ECK3972:JW3944:b3981	secE	preprotein translocase membrane subunit	 	3459323	3458940	Chromosome Escherichia coli W3110	
+ECK3971:JW3943:b3980	tufB	protein chain elongation factor EF-Tu	 	3460737	3459553	Chromosome Escherichia coli W3110	
+ECK3955:JW3935:b3963	fabR	DNA-binding transcriptional repressor	 	3475614	3474910	Chromosome Escherichia coli W3110	
+ECK3941:JW3922:b3950	frwB	predicted enzyme IIB component of PTS	 	3493057	3492737	Chromosome Escherichia coli W3110	
+ECK3925:JW3904:b3933	ftsN	essential cell division protein	 	3513342	3514301	Chromosome Escherichia coli W3110	
+ECK3905:JW3883:b3912	cpxR	DNA-binding response regulator in two-component regulatory system with CpxA	 	3531011	3531709	Chromosome Escherichia coli W3110	
+ECK3902:JW5560:b3909	kdgT	2-keto-3-deoxy-D-gluconate transporter	 	3534991	3534008	Chromosome Escherichia coli W3110	
+ECK3879:JW3857:b3886	rbn	tRNA processing exoribonuclease BN	 	3560535	3559663	Chromosome Escherichia coli W3110	
+ECK3859:JW3837:b3866	yihI	conserved hypothetical protein	 	3585334	3584825	Chromosome Escherichia coli W3110	
+ECK3830:JW3813:b3836	tatA	TatABCE protein translocation system subunit	 	3614736	3614467	Chromosome Escherichia coli W3110	
+ECK3802:JW3780:b3808	yzcX	hypothetical protein	 	3642831	3642346	Chromosome Escherichia coli W3110	
+ECK3797:JW3775:b3803	hemX	uroporphyrinogen III methylase	 	3647615	3648796	Chromosome Escherichia coli W3110	
+ECK3788:JW5595:b3795	yifK	predicted transporter	 	3655794	3654409	Chromosome Escherichia coli W3110	
+ECK3786:JW3769:b3793	wzyE	predicted Wzy protein involved in ECA polysaccharide chain elongation	 	3658080	3656728	Chromosome Escherichia coli W3110	
+ECK3782:JW5597:b3790	rffC	TDP-fucosamine acetyltransferase	 	3662085	3661540	Chromosome Escherichia coli W3110	
+ECK3776:JW3758:b3784	rfe	UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase	 	3668765	3667662	Chromosome Escherichia coli W3110	
+ECK3769:JW3750:b3777	 	conserved hypothetical protein	 	3676221	3676439	Chromosome Escherichia coli W3110	
+ECK3760:JW3741:b3768	 	ECK3760:JW3741:b3768	 	3685058	3684477	Chromosome Escherichia coli W3110	
+ECK3760:JW3740:b3767	 	acetolactate synthase II, large subunit, N-ter fragment	 	3686121	3685138	Chromosome Escherichia coli W3110	
+ECK3759:JW3739:b3766	ilvL	ilv operon leader peptide	 	3686359	3686261	Chromosome Escherichia coli W3110	
+ECK3744:JW3729:b3750	rbsC	D-ribose transporter subunit	 	3701393	3700428	Chromosome Escherichia coli W3110	
+ECK3742:JW5857:b3748	rbsD	predicted cytoplasmic sugar-binding protein	 	3703330	3702911	Chromosome Escherichia coli W3110	
+ECK3735:JWS0001:b4489	 	origin of replication	 	3710937	3710706	Chromosome Escherichia coli W3110	
+ECK3732:JW5611:b3739	atpI	ATP synthase, membrane-bound accesory subunit	 	3714241	3714621	Chromosome Escherichia coli W3110	
+ECK3730:JW3715:b3737	atpE	F0 sector of membrane-bound ATP synthase, subunit c	 	3715492	3715731	Chromosome Escherichia coli W3110	
+ECK3729:JW3714:b3736	atpF	F0 sector of membrane-bound ATP synthase, subunit b	 	3715793	3716263	Chromosome Escherichia coli W3110	
+ECK3720:JW3705:b3727	pstC	phosphate transporter subunit	 	3726283	3727242	Chromosome Escherichia coli W3110	
+ECK3697:JW3682:b4557	yidD	hypothetical protein	 	3755599	3755342	Chromosome Escherichia coli W3110	
+ECK3695:JW3680:b3703	rpmH	50S ribosomal subunit protein L34	 	3756079	3755939	Chromosome Escherichia coli W3110	
+ECK3677:JW3662:b3685	yidE	predicted transporter	 	3774142	3775803	Chromosome Escherichia coli W3110	
+ECK3673:JW3658:b3681	 	ECK3673:JW3658:b3681	 	3778428	3779066	Chromosome Escherichia coli W3110	
+ECK3672:JW5937:b4556	 	ECK3672:JW5937:b4556	 	3779066	3779242	Chromosome Escherichia coli W3110	
+ECK3668:JW3653:b3677	yidI	predicted inner membrane protein	 	3784000	3783551	Chromosome Escherichia coli W3110	
+ECK3667:JW3652:b3676	yidH	conserved inner membrane protein	 	3784108	3784455	Chromosome Escherichia coli W3110	
+ECK3666:JW3651:b3675	yidG	predicted inner membrane protein	 	3784445	3784807	Chromosome Escherichia coli W3110	
+ECK3664:JW5634:b3673	emrD	multidrug efflux system protein	 	3786493	3785309	Chromosome Escherichia coli W3110	
+ECK3663:JW3647:b3672	ivbL	ilvB operon leader peptide	 	3787427	3787525	Chromosome Escherichia coli W3110	
+ECK3659:JW3643:b3668	uhpB	sensory histidine kinase in two-component regulatory sytem with UhpA	 	3790279	3791781	Chromosome Escherichia coli W3110	
+ECK3651:JW3635:b3661	nlpA	cytoplasmic membrane lipoprotein-28	 	3800422	3801240	Chromosome Escherichia coli W3110	
+ECK3650:JW3634:b3660	yicL	predicted inner membrane protein	 	3802167	3801244	Chromosome Escherichia coli W3110	
+ECK3643:JW3628:b3653	gltS	glutamate transporter	 	3811750	3812955	Chromosome Escherichia coli W3110	
+ECK3639:JW3624:b3649	rpoZ	RNA polymerase, omega subunit	 	3818309	3818034	Chromosome Escherichia coli W3110	
+ECK3636:JW3621:b3646	yicG	conserved inner membrane protein	 	3821541	3820924	Chromosome Escherichia coli W3110	
+ECK3633:JW3618:b3643	 	ribonuclease PH	 	3823866	3824552	Chromosome Escherichia coli W3110	
+ECK3629:JW5642:b3639	dfp	fused 4-phosphopantothenoylcysteine decarboxylase and phosphopantothenoylcysteine synthetase, FMN-binding	 	3827684	3826464	Chromosome Escherichia coli W3110	
+ECK3612:JW3597:b3622	rfaL	O-antigen ligase	 	3843467	3842208	Chromosome Escherichia coli W3110	
+ECK3593:JW3578:b3603	lldP	L-lactate permease	 	3863016	3861361	Chromosome Escherichia coli W3110	
+ECK3592:JW3577:b3602	yibL	conserved hypothetical protein	 	3863750	3863388	Chromosome Escherichia coli W3110	
+ECK3591:JW3576:b4554	yibT	hypothetical protein	 	3864035	3864244	Chromosome Escherichia coli W3110	
+ECK3567:JW5651:b3578	yiaN	predicted transporter	 	3895611	3894334	Chromosome Escherichia coli W3110	
+ECK3557:JW3540:b3568	xylH	D-xylose transporter subunit	 	3906695	3905514	Chromosome Escherichia coli W3110	
+ECK3553:JW3536:b3564	xylB	xylulokinase	 	3911044	3912498	Chromosome Escherichia coli W3110	
+ECK3539:JW5657:b3552	yiaD	predicted outer membrane lipoprotien	 	3923868	3923209	Chromosome Escherichia coli W3110	
+ECK3534:JW3516:b3547	yhjX	predicted transporter	 	3928408	3929616	Chromosome Escherichia coli W3110	
+ECK3529:JW3511:b3542	dppC	dipeptide transporter	 	3935654	3936556	Chromosome Escherichia coli W3110	
+ECK3528:JW3510:b3541	dppD	dipeptide transporter	 	3936567	3937550	Chromosome Escherichia coli W3110	
+ECK3519:JW5941:b3534	 	cell division protein chromosome partitioning ATPase	 	3944454	3945182	Chromosome Escherichia coli W3110	
+ECK3509:JW3492:b3524	yhjG	predicted outer membrane biogenesis protein	 	3962050	3964125	Chromosome Escherichia coli W3110	
+ECK3508:JW3491:b3523	yhjE	predicted transporter	 	3965629	3964307	Chromosome Escherichia coli W3110	
+ECK3495:JW3479:b3511	hdeD	acid-resistance membrane protein	 	3983420	3982848	Chromosome Escherichia coli W3110	
+ECK3487:JW3469:b3502	arsB	arsenite/antimonite transporter	 	3991480	3990191	Chromosome Escherichia coli W3110	
+ECK3474:JW5674:b3489	 	hypothetical protein	 	4007171	4007563	Chromosome Escherichia coli W3110	
+ECK3472:JW3454:b3487	yhiI	predicted HlyD family secretion protein	 	4009813	4010880	Chromosome Escherichia coli W3110	
+ECK3470:JW5677:b3485	yhhJ	predicted transporter subunit	 	4013612	4014736	Chromosome Escherichia coli W3110	
+ECK3468:JW5678:b4552	 	hypothetical protein fragment	 	4016528	4016283	Chromosome Escherichia coli W3110	
+ECK3465:JW3446:b3481	nikR	DNA-binding transcriptional regulator, Ni-binding	 	4021827	4021426	Chromosome Escherichia coli W3110	
+ECK3457:JW5945:b3473	yhhS	predicted transporter	 	4028682	4029899	Chromosome Escherichia coli W3110	
+ECK3452:JW3433:b3468	yhhN	conserved inner membrane protein	 	4034664	4034038	Chromosome Escherichia coli W3110	
+ECK3451:JW3432:b3467	yhhM	conserved hypothetical protein	 	4034805	4035164	Chromosome Escherichia coli W3110	
+ECK3441:JW3422:b3457	livH	leucine/isoleucine/valine transporter subunit	 	4044012	4044938	Chromosome Escherichia coli W3110	
+ECK3440:JW3421:b3456	livM	leucine/isoleucine/valine transporter subunit	 	4044935	4046212	Chromosome Escherichia coli W3110	
+ECK3432:JW3413:b3448	yhhA	conserved hypothetical protein	 	4053472	4053032	Chromosome Escherichia coli W3110	
+ECK3429:JW5864:b3443	yrhA	conserved hypothetical protein	 	4057374	4056961	Chromosome Escherichia coli W3110	
+ECK3420:JW3397:b3434	yhgN	predicted antibiotic transporter	 	4065344	4064751	Chromosome Escherichia coli W3110	
+ECK3413:JW3390:b3427	yzgL	hypothetical protein	 	4076410	4076691	Chromosome Escherichia coli W3110	
+ECK3402:JW5690:b3415	gntT	gluconate transporter, high-affinity GNT I system	 	4093857	4092541	Chromosome Escherichia coli W3110	
+ECK3400:JW5691:b3413	gntX	gluconate periplasmic binding protein with phosphoribosyltransferase domain, GNT I system	 	4095534	4094851	Chromosome Escherichia coli W3110	
+ECK3389:JW3365:b3402	yhgE	predicted inner membrane protein	 	4107977	4109701	Chromosome Escherichia coli W3110	
+ECK3388:JW5692:b3401	hslO	heat shock protein Hsp33	 	4110642	4109764	Chromosome Escherichia coli W3110	
+ECK3387:JW3363:b3400	hslR	ribosome-associated heat shock protein Hsp15	 	4111068	4110667	Chromosome Escherichia coli W3110	
+ECK3381:JW3357:b3394	yrfC	predicted fimbrial assembly protein	 	4118444	4118983	Chromosome Escherichia coli W3110	
+ECK3375:JW3351:b3388	damX	hypothetical protein	 	4123110	4124396	Chromosome Escherichia coli W3110	
+ECK3363:JW3339:b3376	yhfS	conserved hypothetical protein	 	4134396	4135481	Chromosome Escherichia coli W3110	
+ECK3357:JW3332:b3369	yhfL	conserved secreted peptide	 	4140968	4140801	Chromosome Escherichia coli W3110	
+ECK3351:JW3326:b3363	ppiA	peptidyl-prolyl cis-trans isomerase A	 	4148119	4148691	Chromosome Escherichia coli W3110	
+ECK3350:JW3325:b3362	yhfG	hypothetical protein	 	4148796	4148963	Chromosome Escherichia coli W3110	
+ECK3338:JW3313:b3350	kefB	potassium:proton antiporter	 	4159809	4161614	Chromosome Escherichia coli W3110	
+ECK3335:JW3310:b3348	slyX	conserved hypothetical protein	 	4162776	4162558	Chromosome Escherichia coli W3110	
+ECK3334:JW3309:b3347	fkpA	FKBP-type peptidyl-prolyl cis-trans isomerase	 	4162997	4163809	Chromosome Escherichia coli W3110	
+ECK3332:JW3307:b3345	yheN	predicted intracellular sulfur oxidation protein	 	4164698	4165084	Chromosome Escherichia coli W3110	
+ECK3331:JW3306:b3344	yheM	predicted intraceullular sulfur oxidation protein	 	4165084	4165443	Chromosome Escherichia coli W3110	
+ECK3330:JW3305:b3343	yheL	predicted intracellular sulfur oxidation protein	 	4165451	4165738	Chromosome Escherichia coli W3110	
+ECK3326:JW3301:b3339	tufA	protein chain elongation factor EF-Tu	 	4169087	4170271	Chromosome Escherichia coli W3110	
+ECK3322:JW3297:b3335	gspO	bifunctional prepilin leader peptidase and methylase	 	4174873	4174196	Chromosome Escherichia coli W3110	
+ECK3316:JW3291:b3329	gspH	predicted general secretory pathway component, cryptic	 	4178948	4178439	Chromosome Escherichia coli W3110	
+ECK3311:JW3286:b3324	gspC	general secretory pathway component, cryptic	 	4184838	4184023	Chromosome Escherichia coli W3110	
+ECK3309:JW3284:b3322	pioO	part of gsp divergon involved in type II protein secretion	 	4186489	4186908	Chromosome Escherichia coli W3110	
+ECK3305:JW3280:b3318	rplW	50S ribosomal subunit protein L23	 	4188732	4189034	Chromosome Escherichia coli W3110	
+ECK3299:JW3274:b3312	rpmC	50S ribosomal subunit protein L29	 	4191657	4191848	Chromosome Escherichia coli W3110	
+ECK3295:JW3270:b3308	rplE	50S ribosomal subunit protein L5	 	4192978	4193517	Chromosome Escherichia coli W3110	
+ECK3291:JW3266:b3304	rplR	50S ribosomal subunit protein L18	 	4194819	4195172	Chromosome Escherichia coli W3110	
+ECK3277:JW3252:b3291	mscL	mechanosensitive channel	 	4202392	4201982	Chromosome Escherichia coli W3110	
+ECK4012:JW3980:b4020	yjbB	predicted transporter	 	4231321	4232952	Chromosome Escherichia coli W3110	
+ECK4015:JW3983:b4023	yjbD	conserved hypothetical protein	 	4235221	4234949	Chromosome Escherichia coli W3110	
+ECK4016:JW3984:b4024	lysC	aspartokinase III	 	4236823	4235474	Chromosome Escherichia coli W3110	
+ECK4018:JW3986:b4026	yjbE	hypothetical protein	 	4239496	4239738	Chromosome Escherichia coli W3110	
+ECK4020:JW3988:b4028	yjbG	conserved hypothetical protein	 	4240487	4241224	Chromosome Escherichia coli W3110	
+ECK4022:JW3990:b4030	yjbA	predicted phosphate starvation inducible protein	 	4243915	4244325	Chromosome Escherichia coli W3110	
+ECK4029:JW3997:b4037	malM	maltose regulon periplasmic protein	 	4253144	4254064	Chromosome Escherichia coli W3110	
+ECK4031:JW5713:b4039	ubiC	chorismate pyruvate lyase	 	4256096	4256593	Chromosome Escherichia coli W3110	
+ECK4032:JW4000:b4040	ubiA	p-hydroxybenzoate octaprenyltransferase	 	4256606	4257478	Chromosome Escherichia coli W3110	
+ECK4036:JW4004:b4044	dinF	DNA-damage-inducible SOS response protein	 	4261332	4262711	Chromosome Escherichia coli W3110	
+ECK4057:JW4025:b4064	yjcD	predicted permease	 	4282069	4283418	Chromosome Escherichia coli W3110	
+ECK4058:JW4026:b4065	yjcE	predicted cation/proton antiporter	 	4283570	4285219	Chromosome Escherichia coli W3110	
+ECK4060:JW4028:b4067	actP	acetate transporter	 	4288492	4286843	Chromosome Escherichia coli W3110	
+ECK4061:JW4029:b4068	yjcH	conserved inner membrane protein involved in acetate transport	 	4288803	4288489	Chromosome Escherichia coli W3110	
+ECK4066:JW4034:b4073	nrfD	formate-dependent nitrite reductase, membrane subunit	 	4294066	4295022	Chromosome Escherichia coli W3110	
+ECK4067:JW4035:b4074	nrfE	heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfE	 	4295102	4296760	Chromosome Escherichia coli W3110	
+ECK4068:JW4036:b4075	nrfF	heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfF	 	4296753	4297136	Chromosome Escherichia coli W3110	
+ECK4075:JW4043:b4082	yjcR	predicted membrane fusion protein of efflux pump	 	4307588	4306557	Chromosome Escherichia coli W3110	
+ECK4084:JW5890:b4487	yjdP	conserved hypothetical protein	 	4318546	4318875	Chromosome Escherichia coli W3110	
+ECK4096:JW4064:b4103	 	phosphonate/organophosphate ester transporter	 	4327959	4327121	Chromosome Escherichia coli W3110	
+ECK4097:JW4065:b4104	phnE	phosphonate/organophosphate ester transporter subunit	 	4327959	4327339	Chromosome Escherichia coli W3110	
+ECK4116:JW4084:b4123	dcuB	C4-dicarboxylate antiporter	 	4353422	4352082	Chromosome Escherichia coli W3110	
+ECK4120:JW4088:b4127	yjdJ	predicted acyltransferase with acyl-CoA N-acyltransferase domain	 	4356763	4357035	Chromosome Escherichia coli W3110	
+ECK4130:JW5734:b4136	dipZ	fused thiol:disulfide interchange protein	 	4369720	4368023	Chromosome Escherichia coli W3110	
+ECK4131:JW4097:b4137	cutA	copper binding protein, copper sensitivity	 	4370034	4369696	Chromosome Escherichia coli W3110	
+ECK4134:JW4100:b4140	fxsA	inner membrane protein	 	4373344	4373820	Chromosome Escherichia coli W3110	
+ECK4135:JW4101:b4141	yjeH	predicted transporter	 	4375092	4373836	Chromosome Escherichia coli W3110	
+ECK4142:JW5737:b4410	ecnA	entericidin A membrane lipoprotein, antidote entericidin B	 	4380997	4381122	Chromosome Escherichia coli W3110	
+ECK4144:JW5738:b4148	sugE	multidrug efflux system protein	 	4381555	4381872	Chromosome Escherichia coli W3110	
+ECK4147:JW4112:b4151	frdD	fumarate reductase (anaerobic), membrane anchor subunit	 	4384046	4383687	Chromosome Escherichia coli W3110	
+ECK4148:JW4113:b4152	frdC	fumarate reductase (anaerobic), membrane anchor subunit	 	4384452	4384057	Chromosome Escherichia coli W3110	
+ECK4154:JW4119:b4158	yjeO	conserved inner membrane protein	 	4390384	4390698	Chromosome Escherichia coli W3110	
+ECK4171:JW4133:b4175	hflC	modulator for HflB protease specific for phage lambda cII repressor	 	4407980	4408984	Chromosome Escherichia coli W3110	
+ECK4172:JW4134:b4176	yjeT	conserved inner membrane protein	 	4409066	4409263	Chromosome Escherichia coli W3110	
+ECK4178:JW4140:b4182	yjfJ	predicted transcriptional regulator effector protein	 	4415233	4415931	Chromosome Escherichia coli W3110	
+ECK4181:JW4143:b4185	yjfM	conserved hypothetical protein	 	4417067	4417705	Chromosome Escherichia coli W3110	
+ECK4185:JW5743:b4189	yjfO	lipoprotein, putative	 	4421450	4421121	Chromosome Escherichia coli W3110	
+ECK4195:JW4157:b4199	yjfY	hypothetical protein	 	4429471	4429196	Chromosome Escherichia coli W3110	
+ECK4199:JW4161:b4203	rplI	50S ribosomal subunit protein L9	 	4430788	4431237	Chromosome Escherichia coli W3110	
+ECK4202:JW5745:b4206	ytfB	predicted cell envelope opacity-associated protein	 	4433397	4432759	Chromosome Escherichia coli W3110	
+ECK4225:JW5753:b4230	ytfT	predicted sugar transporter subunit	 	4457254	4458276	Chromosome Escherichia coli W3110	
+ECK4226:JW5754:b4231	yjfF	predicted sugar transporter subunit	 	4458263	4459258	Chromosome Escherichia coli W3110	
+ECK4231:JW4195:b4236	 	cytochrome b562, truncated	 	4464233	4464535	Chromosome Escherichia coli W3110	
+ECK4248:JW4212:b4255	yjgD	conserved hypothetical protein	 	4483153	4483569	Chromosome Escherichia coli W3110	
+ECK4250:JW5759:b4257	yjgN	conserved inner membrane protein	 	4484410	4485606	Chromosome Escherichia coli W3110	
+ECK4254:JW4218:b4261	yjgP	conserved inner membrane protein	 	4490898	4491998	Chromosome Escherichia coli W3110	
+ECK4266:JW5763:b4560	 	KpLE2 phage-like element hypothetical protein, C-ter fragment	 	4504599	4504357	Chromosome Escherichia coli W3110	
+ECK4266:JW4234:b4275	 	KpLE2 phage-like element  hypothetical protein, middle fragment	 	4505169	4504723	Chromosome Escherichia coli W3110	
+ECK4266:JW5764:b4276	 	KpLE2 phage-like element hypothetical protein, N-ter fragment	 	4505471	4505112	Chromosome Escherichia coli W3110	
+ECK4267:JW4236:b4277	yjgZ	hypothetical protein	 	4505940	4506269	Chromosome Escherichia coli W3110	
+ECK4271:JW5770:b4281	 	KpLE2 phage-like element  hypothetical protein	 	4511536	4511306	Chromosome Escherichia coli W3110	
+ECK4272:JW4242:b4282	 	KpLE2 phage-like element predicted membrane protein	 	4511541	4511789	Chromosome Escherichia coli W3110	
+ECK4273:JW5772:b4561	 	KpLE2 phage-like element predicted transposase fragment	 	4513622	4513254	Chromosome Escherichia coli W3110	
+ECK4274:JW4245:b4285	 	ECK4274:JW4245:b4285	 	4513638	4514234	Chromosome Escherichia coli W3110	
+ECK4275:JW5773:b4562	 	KpLE2 phage-like element predicted transposase fragment	 	4514231	4514473	Chromosome Escherichia coli W3110	
+ECK4278:JW4248:b4288	fecD	iron-dicitrate transporter subunit	 	4517094	4516138	Chromosome Escherichia coli W3110	
+ECK4279:JW4249:b4289	fecC	iron-dicitrate transporter subunit	 	4518089	4517091	Chromosome Escherichia coli W3110	
+ECK0022:JW4255:b4563	 	IS1 transposase InsAB, N-ter fragment	 	4523401	4523694	Chromosome Escherichia coli W3110	
+ECK0022:JW4256:b4564	 	IS1 transposase InsAB, C-ter fragment	 	4523695	4523904	Chromosome Escherichia coli W3110	
+ECK4285:JW4258:b4296	yjhF	predicted transporter	 	4526700	4525351	Chromosome Escherichia coli W3110	
+ECK4298:JW5968:b4566	yjhX	conserved hypothetical protein	 	4538733	4538476	Chromosome Escherichia coli W3110	
+ECK4305:JW4277:b4314	fimA	major type 1 subunit fimbrin	 	4547795	4548343	Chromosome Escherichia coli W3110	
+ECK4320:JW4292:b4329	yjiG	conserved inner membrane protein	 	4564680	4564219	Chromosome Escherichia coli W3110	
+ECK4323:JW4295:b4332	yjiJ	predicted inner membrane protein	 	4567355	4566177	Chromosome Escherichia coli W3110	
+ECK4329:JW5953:b4338	 	predicted transposase	 	4573678	4573989	Chromosome Escherichia coli W3110	
+ECK4332:JW4304:b4341	yjiS	conserved hypothetical protein	 	4576431	4576595	Chromosome Escherichia coli W3110	
+ECK4334:JW5954:b4486	 	conserved hypothetical protein	 	4578815	4581535	Chromosome Escherichia coli W3110	
+ECK4344:JW5791:b4354	yjiY	predicted inner membrane protein	 	4595959	4593809	Chromosome Escherichia coli W3110	
+ECK4352:JW4326:b4362	dnaT	DNA biosynthesis protein	 	4606197	4605658	Chromosome Escherichia coli W3110	
+ECK4368:JW5891:b4568	ytjA	hypothetical protein	 	4616790	4616969	Chromosome Escherichia coli W3110	

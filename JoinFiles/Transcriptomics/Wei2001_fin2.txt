@@ -1,0 +1,622 @@
+Accession	Entry name	GeneName	ppm (100)	ABS_CALL	Type
+P0A707	IF3_ECOLI	infC	70	2	High Expressed
+P0A7J7	RL11_ECOLI	rplK	68	2	High Expressed
+P0A7K2	RL7_ECOLI	rplL	66	2	High Expressed
+P0A7L0	RL1_ECOLI	rplA	48	2	High Expressed
+P0ACC1	HEMK_ECOLI	hemK	47	2	High Expressed
+P0A7Q1	RL35_ECOLI	rpmI	46	2	High Expressed
+P0ADZ0	RL23_ECOLI	rplW	44	2	High Expressed
+P0A7J3	RL10_ECOLI	rplJ	43	2	High Expressed
+P0A6A8	ACP_ECOLI	acpP	42	2	High Expressed
+P69776	LPP_ECOLI	lpp	40	2	High Expressed
+P09394	GLPQ_ECOLI	glpQ	39	2	High Expressed
+P0A6M8	EFG_ECOLI	fusA	39	2	High Expressed
+P37188	PTKB_ECOLI	gatB	38	2	High Expressed
+P02358	RS6_ECOLI	rpsF	38	2	High Expressed
+P0CE48	EFTU2_ECOLI	tufB	37	2	High Expressed
+P06996	OMPC_ECOLI	ompC	37	2	High Expressed
+P0A6F9	CH10_ECOLI	mopB	35	2	High Expressed
+P0ABA0	ATPF_ECOLI	atpF	35	2	High Expressed
+P0ACF8	HNS_ECOLI	hns	35	2	High Expressed
+P0A7M2	RL28_ECOLI	rpmB	34	2	High Expressed
+P0A910	OMPA_ECOLI	ompA	33	2	High Expressed
+P0A853	TNAA_ECOLI	tnaA	33	2	High Expressed
+P0A7Z4	RPOA_ECOLI	rpoA	33	2	High Expressed
+P0A873	TRMD_ECOLI	trmD	32	2	High Expressed
+P0A7R1	RL9_ECOLI	rplI	31	2	High Expressed
+P0A9B2	G3P1_ECOLI	gapA	30	2	High Expressed
+P0AA10	RL13_ECOLI	rplM	28	2	High Expressed
+P0A7N9	RL33_ECOLI	rpmG	28	2	High Expressed
+P0A7V3	RS3_ECOLI	rpsC	27	2	High Expressed
+P0A7L3	RL20_ECOLI	rplT	27	2	High Expressed
+P60624	RL24_ECOLI	rplX	27	2	High Expressed
+P07013	PRIB_ECOLI	priB	26	2	High Expressed
+P02931	OMPF_ECOLI	ompF	25	2	High Expressed
+P0ACF0	DBHA_ECOLI	hupA	25	2	High Expressed
+P0A7R5	RS10_ECOLI	rpsJ	25	2	High Expressed
+P60422	RL2_ECOLI	rplB	25	2	High Expressed
+P0AG48	RL21_ECOLI	rplU	25	2	High Expressed
+P0A850	TIG_ECOLI	tig	24	2	High Expressed
+P0CE47	EFTU1_ECOLI	tufA	24	2	High Expressed
+P60723	RL4_ECOLI	rplD	24	2	High Expressed
+P60438	RL3_ECOLI	rplC	24	2	High Expressed
+P69828	PTKA_ECOLI	gatA	24	2	High Expressed
+P0AG67	RS1_ECOLI	rpsA	24	2	High Expressed
+P0C8J6	GATY_ECOLI	gatY	23	2	High Expressed
+P0A7U3	RS19_ECOLI	rpsS	23	2	High Expressed
+P0A7A9	IPYR_ECOLI	ppa	22	2	High Expressed
+P0C8J8	GATZ_ECOLI	gatZ	22	2	High Expressed
+P0A972	CSPE_ECOLI	cspE	21	2	High Expressed
+P0A9Y6	CSPC_ECOLI	cspC	21	2	High Expressed
+P0A6F5	CH60_ECOLI	mopA	21	2	High Expressed
+P0ADY3	RL14_ECOLI	rplN	8.6	2	Ribosomal proteins
+P60624	RL24_ECOLI	rplX	27.1	2	Ribosomal proteins
+P62399	RL5_ECOLI	rplE	10.0	2	Ribosomal proteins
+P0AG59	RS14_ECOLI	rpsN	17.2	2	Ribosomal proteins
+P0A7W7	RS8_ECOLI	rpsH	13.7	2	Ribosomal proteins
+P0AG55	RL6_ECOLI	rplF	6.9	2	Ribosomal proteins
+P0C018	RL18_ECOLI	rplR	14.9	2	Ribosomal proteins
+P0A7W1	RS5_ECOLI	rpsE	11.6	2	Ribosomal proteins
+P0AG51	RL30_ECOLI	rpmD	5.4	2	Ribosomal proteins
+P02413	RL15_ECOLI	rplO	5.8	2	Ribosomal proteins
+P0AGA2	SECY_ECOLI	secY	1.9	2	Ribosomal proteins
+P0A7Q6	RL36_ECOLI	rpmJ	4.0	2	Ribosomal proteins
+P0A7R5	RS10_ECOLI	rpsJ	24.6	2	Ribosomal proteins
+P60438	RL3_ECOLI	rplC	23.9	2	Ribosomal proteins
+P60723	RL4_ECOLI	rplD	24.0	2	Ribosomal proteins
+P0ADZ0	RL23_ECOLI	rplW	43.9	2	Ribosomal proteins
+P60422	RL2_ECOLI	rplB	24.6	2	Ribosomal proteins
+P0A7U3	RS19_ECOLI	rpsS	22.8	2	Ribosomal proteins
+P61175	RL22_ECOLI	rplV	15.7	2	Ribosomal proteins
+P0A7V3	RS3_ECOLI	rpsC	27.4	2	Ribosomal proteins
+P0ADY7	RL16_ECOLI	rplP	19.1	2	Ribosomal proteins
+P0A7M6	RL29_ECOLI	rpmC	13.6	2	Ribosomal proteins
+P0AG63	RS17_ECOLI	rpsQ	7.8	2	Ribosomal proteins
+P0A7S9	RS13_ECOLI	rpsM	8.1	2	Ribosomal proteins
+P0A7R9	RS11_ECOLI	rpsK	8.4	2	Ribosomal proteins
+P0A7V8	RS4_ECOLI	rpsD	15.3	2	Ribosomal proteins
+P0A7Z4	RPOA_ECOLI	rpoA	32.6	2	Ribosomal proteins
+P0AG44	RL17_ECOLI	rplQ	7.1	2	Ribosomal proteins
+P0A7S3	RS12_ECOLI	rpsL	0.9	2	Ribosomal proteins
+P02359	RS7_ECOLI	rpsG	10.0	2	Ribosomal proteins
+P0A6M8	EFG_ECOLI	fusA	38.5	2	Ribosomal proteins
+P0CE47	EFTU1_ECOLI	tufA	24.1	2	Ribosomal proteins
+P0A7J7	RL11_ECOLI	rplK	68.0	2	Ribosomal proteins
+P0A7L0	RL1_ECOLI	rplA	48.0	2	Ribosomal proteins
+P0A7J3	RL10_ECOLI	rplJ	43.4	2	Ribosomal proteins
+P0A7K2	RL7_ECOLI	rplL	66.4	2	Ribosomal proteins
+P0A8V2	RPOB_ECOLI	rpoB	11.4	2	Ribosomal proteins
+P0A8T7	RPOC_ECOLI	rpoC	5.0	2	Ribosomal proteins
+P0ADZ4	RS15_ECOLI	rpsO	16.0	2	Ribosomal proteins
+P05055	PNP_ECOLI	pnp	5.7	2	Ribosomal proteins
+P0A7V0	RS2_ECOLI	rpsB	16.9	2	Ribosomal proteins
+P0A6P1	EFTS_ECOLI	tsf	14.2	2	Ribosomal proteins
+P0A7P5	RL34_ECOLI	rpmH	6.9	2	Ribosomal proteins
+P0A7M2	RL28_ECOLI	rpmB	33.5	2	Ribosomal proteins
+P0A7N9	RL33_ECOLI	rpmG	27.5	2	Ribosomal proteins
+P0A707	IF3_ECOLI	infC	70.2	2	Ribosomal proteins
+P0A7Q1	RL35_ECOLI	rpmI	46.2	2	Ribosomal proteins
+P0A7L3	RL20_ECOLI	rplT	27.2	2	Ribosomal proteins
+P0A7U7	RS20_ECOLI	rpsT	5.3	2	Ribosomal proteins
+P0AG67	RS1_ECOLI	rpsA	23.8	2	Ribosomal proteins
+P02358	RS6_ECOLI	rpsF	38.3	2	Ribosomal proteins
+P07013	PRIB_ECOLI	priB	26.4	2	Ribosomal proteins
+P0A7T7	RS18_ECOLI	rpsR	19.0	2	Ribosomal proteins
+P0A7R1	RL9_ECOLI	rplI	30.6	2	Ribosomal proteins
+P68679	RS21_ECOLI	rpsU	17.3	2	Ribosomal proteins
+P0ABS5	PRIM_ECOLI	dnaG	2.1	2	Ribosomal proteins
+P00579	RPOD_ECOLI	rpoD	4.2	2	Ribosomal proteins
+P68919	RL25_ECOLI	rplY	16.7	2	Ribosomal proteins
+P0A7M2	RL28_ECOLI	rpmB	33.5	2	Ribosomal proteins
+P0A7N9	RL33_ECOLI	rpmG	27.5	2	Ribosomal proteins
+P0AB28	YCED_ECOLI	yceD	1.4	2	Ribosomal proteins
+P0A7N4	RL32_ECOLI	rpmF	9.7	2	Ribosomal proteins
+P0AA10	RL13_ECOLI	rplM	28.0	2	Ribosomal proteins
+P0A7T3	RS16_ECOLI	rpsP	11.2	2	Ribosomal proteins
+P0A7X6	RIMM_ECOLI	rimM	10.1	2	Ribosomal proteins
+P0A873	TRMD_ECOLI	trmD	2.3	2	Ribosomal proteins
+P0A7K6	RL19_ECOLI	rplS	6.3	2	Ribosomal proteins
+P31119	AAS_ECOLI	aas	0	0	Not Expressed at LB
+P41407	AZOR_ECOLI	acpD	0	0	Not Expressed at LB
+P24224	ACPS_ECOLI	acpS	0	0	Not Expressed at LB
+P24181	ACRF_ECOLI	acrF	0	0	Not Expressed at LB
+P33234	ADIY_ECOLI	adiY	0	0	Not Expressed at LB
+P42906	AGAA_ECOLI	agaA	0	0	Not Expressed at LB
+P42909	PTPB1_ECOLI	agaB	0	0	Not Expressed at LB
+P42911	PTPD_ECOLI	agaD	0	0	Not Expressed at LB
+P42912	AGAI_ECOLI	agaI	0	0	Not Expressed at LB
+P0ACK2	AGAR_ECOLI	agaR	0	0	Not Expressed at LB
+P42907	AGAS_ECOLI	agaS	0	0	Not Expressed at LB
+P42904	PTPB2_ECOLI	agaV	0	0	Not Expressed at LB
+P42905	PTPC2_ECOLI	agaW	0	0	Not Expressed at LB
+P45565	AIS_ECOLI	ais	0	0	Not Expressed at LB
+P05050	ALKB_ECOLI	alkB	0	0	Not Expressed at LB
+P33997	ALPA_ECOLI	alpA	0	0	Not Expressed at LB
+P62672	APAG_ECOLI	apaG	0	0	Not Expressed at LB
+P05637	APAH_ECOLI	apaH	0	0	Not Expressed at LB
+P05052	APPY_ECOLI	appY	0	0	Not Expressed at LB
+P60844	AQPZ_ECOLI	aqpZ	0	0	Not Expressed at LB
+P08204	ARAB_ECOLI	araB	0	0	Not Expressed at LB
+P0AE24	ARAE_ECOLI	araE	0	0	Not Expressed at LB
+P0AE26	ARAH_ECOLI	araH	0	0	Not Expressed at LB
+P0A6C5	ARGA_ECOLI	argA	0	0	Not Expressed at LB
+P11446	ARGC_ECOLI	argC	0	0	Not Expressed at LB
+P09551	ARGT_ECOLI	argT	0	0	Not Expressed at LB
+P05194	AROD_ECOLI	aroD	0	0	Not Expressed at LB
+P15770	AROE_ECOLI	aroE	0	0	Not Expressed at LB
+P23325	ARPA_ECOLI	arp	0	0	Not Expressed at LB
+P0AB96	ARSC_ECOLI	arsC	0	0	Not Expressed at LB
+P37309	ARSR_ECOLI	arsR	0	0	Not Expressed at LB
+P30859	ARTI_ECOLI	artI	0	0	Not Expressed at LB
+P0AE30	ARTM_ECOLI	artM	0	0	Not Expressed at LB
+P0AE34	ARTQ_ECOLI	artQ	0	0	Not Expressed at LB
+P36560	ASR_ECOLI	asr	0	0	Not Expressed at LB
+P17446	BETI_ECOLI	betI	0	0	Not Expressed at LB
+P0ABC9	BETT_ECOLI	betT	0	0	Not Expressed at LB
+P11988	BGLB_ECOLI	bglB	0	0	Not Expressed at LB
+P11989	BGLG_ECOLI	bglG	0	0	Not Expressed at LB
+P12999	BIOC_ECOLI	bioC	0	0	Not Expressed at LB
+P13001	BIOH_ECOLI	bioH	0	0	Not Expressed at LB
+P0A901	BLC_ECOLI	blc	0	0	Not Expressed at LB
+P0ABE2	BOLA_ECOLI	bolA	0	0	Not Expressed at LB
+P0A9H3	LDCI_ECOLI	cadA	0	0	Not Expressed at LB
+P23890	CADC_ECOLI	cadC	0	0	Not Expressed at LB
+P31572	CAIB_ECOLI	caiB	0	0	Not Expressed at LB
+P0AE58	CAIF_ECOLI	caiF	0	0	Not Expressed at LB
+Q47083	CBL_ECOLI	cbl	0	0	Not Expressed at LB
+P0AEJ8	EUTN_ECOLI	cchB	0	0	Not Expressed at LB
+P33931	CCMA_ECOLI	ccmA	0	0	Not Expressed at LB
+P0ABL8	CCMB_ECOLI	ccmB	0	0	Not Expressed at LB
+P0ABM1	CCMC_ECOLI	ccmC	0	0	Not Expressed at LB
+P0ABM5	CCMD_ECOLI	ccmD	0	0	Not Expressed at LB
+P0ABF6	CDD_ECOLI	cdd	0	0	Not Expressed at LB
+P69795	PTQB_ECOLI	celA	0	0	Not Expressed at LB
+P69791	PTQA_ECOLI	celC	0	0	Not Expressed at LB
+P0AE63	CHAB_ECOLI	chaB	0	0	Not Expressed at LB
+P07330	CHEB_ECOLI	cheB	0	0	Not Expressed at LB
+P07364	CHER_ECOLI	cheR	0	0	Not Expressed at LB
+P0A964	CHEW_ECOLI	cheW	0	0	Not Expressed at LB
+P0AE67	CHEY_ECOLI	cheY	0	0	Not Expressed at LB
+P0A9H9	CHEZ_ECOLI	cheZ	0	0	Not Expressed at LB
+P0AE70	CHPA_ECOLI	chpA	0	0	Not Expressed at LB
+P0AE72	CHPR_ECOLI	chpR	0	0	Not Expressed at LB
+P69826	PTMCB_ECOLI	cmtA	0	0	Not Expressed at LB
+P69824	PTMA_ECOLI	cmtB	0	0	Not Expressed at LB
+P46891	COF_ECOLI	cof	0	0	Not Expressed at LB
+P24175	MANB_ECOLI	cpsG	0	0	Not Expressed at LB
+P08368	CREB_ECOLI	creB	0	0	Not Expressed at LB
+P0AEF4	DPIA_ECOLI	criR	0	0	Not Expressed at LB
+P28307	CSGA_ECOLI	csgA	0	0	Not Expressed at LB
+P0ABK7	CSGB_ECOLI	csgB	0	0	Not Expressed at LB
+P52106	CSGD_ECOLI	csgD	0	0	Not Expressed at LB
+P0AE98	CSGF_ECOLI	csgF	0	0	Not Expressed at LB
+P0AEA2	CSGG_ECOLI	csgG	0	0	Not Expressed at LB
+P36995	CSPB_ECOLI	cspB	0	0	Not Expressed at LB
+P0A976	CSPF_ECOLI	cspF	0	0	Not Expressed at LB
+P08550	CVPA_ECOLI	cvpA	0	0	Not Expressed at LB
+P00816	CYNS_ECOLI	cynS	0	0	Not Expressed at LB
+P0ABE9	CYNT_ECOLI	cynT	0	0	Not Expressed at LB
+P17854	CYSH_ECOLI	cysH	0	0	Not Expressed at LB
+P38038	CYSJ_ECOLI	cysJ	0	0	Not Expressed at LB
+P16701	CYST_ECOLI	cysU	0	0	Not Expressed at LB
+P0AEB0	CYSW_ECOLI	cysW	0	0	Not Expressed at LB
+P0AEE8	DMA_ECOLI	dam	0	0	Not Expressed at LB
+P0ABP6	DEDA_ECOLI	dedA	0	0	Not Expressed at LB
+P0ACK5	DEOR_ECOLI	deoR	0	0	Not Expressed at LB
+P0ABN1	KDGL_ECOLI	dgkA	0	0	Not Expressed at LB
+P09557	DICB_ECOLI	dicB	0	0	Not Expressed at LB
+P06965	DICC_ECOLI	dicC	0	0	Not Expressed at LB
+P0ABR1	DINI_ECOLI	dinI	0	0	Not Expressed at LB
+Q47150	DINJ_ECOLI	dinJ	0	0	Not Expressed at LB
+P18776	DMSB_ECOLI	dmsB	0	0	Not Expressed at LB
+P18777	DMSC_ECOLI	dmsC	0	0	Not Expressed at LB
+P0AEZ7	MLTD_ECOLI	dniR	0	0	Not Expressed at LB
+P0AEF8	DPPB_ECOLI	dppB	0	0	Not Expressed at LB
+P0AEG1	DPPC_ECOLI	dppC	0	0	Not Expressed at LB
+P0AA86	DSBE_ECOLI	dsbE	0	0	Not Expressed at LB
+P46068	DSDC_ECOLI	dsdC	0	0	Not Expressed at LB
+P08555	DSDX_ECOLI	dsdX	0	0	Not Expressed at LB
+P0AEG8	DSRB_ECOLI	dsrB	0	0	Not Expressed at LB
+P36943	EAEH_ECOLI	eaeH	0	0	Not Expressed at LB
+P0AC73	EBGC_ECOLI	ebgC	0	0	Not Expressed at LB
+P33128	ECPD_ECOLI	ecpD	0	0	Not Expressed at LB
+P52600	EMRY_ECOLI	emrY	0	0	Not Expressed at LB
+P25736	END1_ECOLI	endA	0	0	Not Expressed at LB
+P19925	ENTD_ECOLI	entD	0	0	Not Expressed at LB
+P10378	ENTE_ECOLI	entE	0	0	Not Expressed at LB
+P0ACT2	ENVR_ECOLI	envR	0	0	Not Expressed at LB
+P10805	ENVY_ECOLI	envY	0	0	Not Expressed at LB
+P39176	ERFK_ECOLI	erfK	0	0	Not Expressed at LB
+P0ACZ4	EVGA_ECOLI	evgA	0	0	Not Expressed at LB
+P30855	EVGS_ECOLI	evgS	0	0	Not Expressed at LB
+P0ABU7	EXBB_ECOLI	exbB	0	0	Not Expressed at LB
+P13669	MNGR_ECOLI	farR	0	0	Not Expressed at LB
+P0AEK7	FDNI_ECOLI	fdnI	0	0	Not Expressed at LB
+P23484	FECI_ECOLI	fecI	0	0	Not Expressed at LB
+P23485	FECR_ECOLI	fecR	0	0	Not Expressed at LB
+P0AEL3	FEOA_ECOLI	feoA	0	0	Not Expressed at LB
+P0AEL6	FEPB_ECOLI	fepB	0	0	Not Expressed at LB
+P23876	FEPD_ECOLI	fepD	0	0	Not Expressed at LB
+P26266	FEPE_ECOLI	fepE	0	0	Not Expressed at LB
+P13039	FES_ECOLI	fes	0	0	Not Expressed at LB
+P20605	FIC_ECOLI	fic	0	0	Not Expressed at LB
+P30130	FIMD_ECOLI	fimD	0	0	Not Expressed at LB
+P08189	FIMF_ECOLI	fimF	0	0	Not Expressed at LB
+P08190	FIMG_ECOLI	fimG	0	0	Not Expressed at LB
+P0AEL8	FIMZ_ECOLI	fimZ	0	0	Not Expressed at LB
+P68646	FIXX_ECOLI	fixX	0	0	Not Expressed at LB
+P75933	FLGA_ECOLI	flgA	0	0	Not Expressed at LB
+P0ABX2	FLGC_ECOLI	flgC	0	0	Not Expressed at LB
+P0ABX5	FLGG_ECOLI	flgG	0	0	Not Expressed at LB
+P0A6S0	FLGH_ECOLI	flgH	0	0	Not Expressed at LB
+P29744	FLGL_ECOLI	flgL	0	0	Not Expressed at LB
+P0AEM4	FLGM_ECOLI	flgM	0	0	Not Expressed at LB
+P43533	FLGN_ECOLI	flgN	0	0	Not Expressed at LB
+P76298	FLHA_ECOLI	flhA	0	0	Not Expressed at LB
+P0A8S9	FLHD_ECOLI	flhD	0	0	Not Expressed at LB
+P0AEM6	FLIA_ECOLI	fliA	0	0	Not Expressed at LB
+P04949	FLIC_ECOLI	fliC	0	0	Not Expressed at LB
+P0A8T5	FLIE_ECOLI	fliE	0	0	Not Expressed at LB
+P25798	FLIF_ECOLI	fliF	0	0	Not Expressed at LB
+P0ABZ1	FLIG_ECOLI	fliG	0	0	Not Expressed at LB
+P52613	FLIJ_ECOLI	fliJ	0	0	Not Expressed at LB
+P0ABX8	FLIL_ECOLI	fliL	0	0	Not Expressed at LB
+P06974	FLIM_ECOLI	fliM	0	0	Not Expressed at LB
+P22586	FLIO_ECOLI	fliO	0	0	Not Expressed at LB
+P0AC05	FLIP_ECOLI	fliP	0	0	Not Expressed at LB
+P0AC07	FLIQ_ECOLI	fliQ	0	0	Not Expressed at LB
+P33135	FLIR_ECOLI	fliR	0	0	Not Expressed at LB
+P26608	FLIS_ECOLI	fliS	0	0	Not Expressed at LB
+P0ABY2	FLIT_ECOLI	fliT	0	0	Not Expressed at LB
+P52627	FLIZ_ECOLI	fliZ	0	0	Not Expressed at LB
+P0AC13	DHPS_ECOLI	folP	0	0	Not Expressed at LB
+P0A8Q0	FRDC_ECOLI	frdC	0	0	Not Expressed at LB
+P32155	PTFA_ECOLI	frvA	0	0	Not Expressed at LB
+P32152	FRVR_ECOLI	frvR	0	0	Not Expressed at LB
+P32153	FRVX_ECOLI	frvX	0	0	Not Expressed at LB
+P32676	PTFB3_ECOLI	frwD	0	0	Not Expressed at LB
+P46889	FTSK_ECOLI	ftsK	0	0	Not Expressed at LB
+P0AEN4	FTSL_ECOLI	ftsL	0	0	Not Expressed at LB
+P0AB87	FUCA_ECOLI	fucA	0	0	Not Expressed at LB
+P11553	FUCK_ECOLI	fucK	0	0	Not Expressed at LB
+P0A9S1	FUCO_ECOLI	fucO	0	0	Not Expressed at LB
+P0ACK8	FUCR_ECOLI	fucR	0	0	Not Expressed at LB
+P0AEN8	FUCM_ECOLI	fucU	0	0	Not Expressed at LB
+P05042	FUMC_ECOLI	fumC	0	0	Not Expressed at LB
+P25527	GABP_ECOLI	gabP	0	0	Not Expressed at LB
+P69910	DCEB_ECOLI	gadB	0	0	Not Expressed at LB
+P0A6T3	GAL1_ECOLI	galK	0	0	Not Expressed at LB
+P0A9C3	GALM_ECOLI	galM	0	0	Not Expressed at LB
+P0AEP1	GALP_ECOLI	galP	0	0	Not Expressed at LB
+P03024	GALR_ECOLI	galR	0	0	Not Expressed at LB
+P33898	G3P3_ECOLI	gapC	0	0	Not Expressed at LB
+P36930	GATR_ECOLI	gatR	0	0	Not Expressed at LB
+P0AEP7	GCL_ECOLI	gcl	0	0	Not Expressed at LB
+P0A9F6	GCVA_ECOLI	gcvA	0	0	Not Expressed at LB
+P33236	MOKC_ECOLI	gefL	0	0	Not Expressed at LB
+P0A6U5	RSMG_ECOLI	gidB	0	0	Not Expressed at LB
+P30147	HYI_ECOLI	gip	0	0	Not Expressed at LB
+P0ACL5	GLCC_ECOLI	glcC	0	0	Not Expressed at LB
+P0AEP9	GLCD_ECOLI	glcD	0	0	Not Expressed at LB
+P0AEQ1	GLCG_ECOLI	glcG	0	0	Not Expressed at LB
+P26649	GLGS_ECOLI	glgS	0	0	Not Expressed at LB
+P0A9Z1	GLNB_ECOLI	glnB	0	0	Not Expressed at LB
+P0AC55	GLNK_ECOLI	glnK	0	0	Not Expressed at LB
+P0A6V5	GLPE_ECOLI	glpE	0	0	Not Expressed at LB
+P09391	GLPG_ECOLI	glpG	0	0	Not Expressed at LB
+P09831	GLTB_ECOLI	gltB	0	0	Not Expressed at LB
+P09832	GLTD_ECOLI	gltD	0	0	Not Expressed at LB
+P28721	GLTF_ECOLI	gltF	0	0	Not Expressed at LB
+P69789	PTXB_ECOLI	glvB	0	0	Not Expressed at LB
+P69789	PTXB_ECOLI	glvC	0	0	Not Expressed at LB
+P31450	GLVG_ECOLI	glvG	0	0	Not Expressed at LB
+P46859	GNTK_ECOLI	gntK	0	0	Not Expressed at LB
+P0AC96	GNTU_ECOLI	gntU	0	0	Not Expressed at LB
+P39208	IDNK_ECOLI	gntV	0	0	Not Expressed at LB
+P68688	GLRX1_ECOLI	grxA	0	0	Not Expressed at LB
+Q47706	UIDC_ECOLI	gusC	0	0	Not Expressed at LB
+P15081	GUTM_ECOLI	gutM	0	0	Not Expressed at LB
+P0AES9	HDEA_ECOLI	hdeA	0	0	Not Expressed at LB
+P0AET2	HDEB_ECOLI	hdeB	0	0	Not Expressed at LB
+P0AET8	HDHA_ECOLI	hdhA	0	0	Not Expressed at LB
+P23871	HEMH_ECOLI	hemH	0	0	Not Expressed at LB
+P0ACE3	HHA_ECOLI	hha	0	0	Not Expressed at LB
+P0AEE3	DEGS_ECOLI	hhoB	0	0	Not Expressed at LB
+P0AEV1	HNR_ECOLI	hnr	0	0	Not Expressed at LB
+P36645	HOFB_ECOLI	hofB	0	0	Not Expressed at LB
+P25960	LEP4_ECOLI	hofD	0	0	Not Expressed at LB
+P41441	GSPF_ECOLI	hofF	0	0	Not Expressed at LB
+P41442	GSPG_ECOLI	hofG	0	0	Not Expressed at LB
+P41443	GSPH_ECOLI	hofH	0	0	Not Expressed at LB
+P28631	HOLB_ECOLI	holB	0	0	Not Expressed at LB
+P0ABS8	HOLE_ECOLI	holE	0	0	Not Expressed at LB
+P43329	HRPA_ECOLI	hrpA	0	0	Not Expressed at LB
+P52644	HSLJ_ECOLI	hslJ	0	0	Not Expressed at LB
+P0C058	IBPB_ECOLI	hslS	0	0	Not Expressed at LB
+P27375	HTRC_ECOLI	htrC	0	0	Not Expressed at LB
+P33129	HTRE_ECOLI	htrE	0	0	Not Expressed at LB
+P0ACD8	MBHL_ECOLI	hyaB	0	0	Not Expressed at LB
+P0AAM1	CYBH_ECOLI	hyaC	0	0	Not Expressed at LB
+P19930	HYAD_ECOLI	hyaD	0	0	Not Expressed at LB
+P19931	HYAE_ECOLI	hyaE	0	0	Not Expressed at LB
+P37180	HYBB_ECOLI	hybB	0	0	Not Expressed at LB
+P37182	HYBD_ECOLI	hybD	0	0	Not Expressed at LB
+P0AAN1	HYBE_ECOLI	hybE	0	0	Not Expressed at LB
+P0A703	HYBF_ECOLI	hybF	0	0	Not Expressed at LB
+P0AAM7	HYBG_ECOLI	hybG	0	0	Not Expressed at LB
+P0AEV4	HYCA_ECOLI	hycA	0	0	Not Expressed at LB
+P0AAK1	HYCB_ECOLI	hycB	0	0	Not Expressed at LB
+P16430	HYCD_ECOLI	hycD	0	0	Not Expressed at LB
+P16432	HYCF_ECOLI	hycF	0	0	Not Expressed at LB
+P16433	HYCG_ECOLI	hycG	0	0	Not Expressed at LB
+P0AEV7	HYCH_ECOLI	hycH	0	0	Not Expressed at LB
+P0AEV9	HYCI_ECOLI	hycI	0	0	Not Expressed at LB
+P0AAK4	HYDN_ECOLI	hydN	0	0	Not Expressed at LB
+P0A700	HYPA_ECOLI	hypA	0	0	Not Expressed at LB
+P0AAM3	HYPC_ECOLI	hypC	0	0	Not Expressed at LB
+P24192	HYPD_ECOLI	hypD	0	0	Not Expressed at LB
+P0AEW4	ICC_ECOLI	icc	0	0	Not Expressed at LB
+P0ADG1	ILVM_ECOLI	ilvM	0	0	Not Expressed at LB
+P0ADF8	ILVN_ECOLI	ilvN	0	0	Not Expressed at LB
+P05827	ILVY_ECOLI	ilvY	0	0	Not Expressed at LB
+P0CF07	INSA1_ECOLI	insA1	0	0	Not Expressed at LB
+P0CF08	INSA2_ECOLI	insA2	0	0	Not Expressed at LB
+P0CF09	INSA3_ECOLI	insA3	0	0	Not Expressed at LB
+P21179	CATE_ECOLI	katE	0	0	Not Expressed at LB
+P31069	KCH_ECOLI	kch	0	0	Not Expressed at LB
+P0A712	KDGT_ECOLI	kdgT	0	0	Not Expressed at LB
+P0A6I6	COAD_ECOLI	kdtB	0	0	Not Expressed at LB
+P37769	KDUD_ECOLI	kduD	0	0	Not Expressed at LB
+Q46938	KDUI_ECOLI	kduI	0	0	Not Expressed at LB
+P03819	KEFC_ECOLI	kefC	0	0	Not Expressed at LB
+P07464	THGA_ECOLI	lacA	0	0	Not Expressed at LB
+P33229	LAR_ECOLI	lar	0	0	Not Expressed at LB
+P52095	DCLZ_ECOLI	ldcC	0	0	Not Expressed at LB
+P30126	LEUD_ECOLI	leuD	0	0	Not Expressed at LB
+P10151	LEUO_ECOLI	leuO	0	0	Not Expressed at LB
+P30015	LHR_ECOLI	lhr	0	0	Not Expressed at LB
+P11072	LIT_ECOLI	lit	0	0	Not Expressed at LB
+P04816	LIVK_ECOLI	livK	0	0	Not Expressed at LB
+P0ACJ0	LRP_ECOLI	lrp	0	0	Not Expressed at LB
+P00861	DCDA_ECOLI	lysA	0	0	Not Expressed at LB
+P03030	LYSR_ECOLI	lysR	0	0	Not Expressed at LB
+P31121	MARB_ECOLI	marB	0	0	Not Expressed at LB
+P27245	MARR_ECOLI	marR	0	0	Not Expressed at LB
+P24200	MCRA_ECOLI	mcrA	0	0	Not Expressed at LB
+P0AAG5	MDLB_ECOLI	mdlB	0	0	Not Expressed at LB
+P0C0T5	MEPA_ECOLI	mepA	0	0	Not Expressed at LB
+P07623	META_ECOLI	metA	0	0	Not Expressed at LB
+P06721	METC_ECOLI	metC	0	0	Not Expressed at LB
+P0A9F9	METR_ECOLI	metR	0	0	Not Expressed at LB
+P0ABR9	MHPB_ECOLI	mhpB	0	0	Not Expressed at LB
+P77580	ACDH_ECOLI	mhpE	0	0	Not Expressed at LB
+P30748	MOAD_ECOLI	moaD	0	0	Not Expressed at LB
+P12282	MOEB_ECOLI	moeB	0	0	Not Expressed at LB
+P33345	MOLR_ECOLI	molR	0	0	Not Expressed at LB
+P0ABH4	MRED_ECOLI	mreD	0	0	Not Expressed at LB
+P0A742	MSCL_ECOLI	mscL	0	0	Not Expressed at LB
+P25738	MSYB_ECOLI	msyB	0	0	Not Expressed at LB
+P22523	MUKB_ECOLI	mukB	0	0	Not Expressed at LB
+P06722	MUTH_ECOLI	mutH	0	0	Not Expressed at LB
+P17802	MUTY_ECOLI	mutY	0	0	Not Expressed at LB
+Q47005	NAC_ECOLI	nac	0	0	Not Expressed at LB
+P0ABL3	NAPB_ECOLI	napB	0	0	Not Expressed at LB
+P0ABL5	NAPC_ECOLI	napC	0	0	Not Expressed at LB
+P0AAL0	NAPF_ECOLI	napF	0	0	Not Expressed at LB
+P33934	NAPH_ECOLI	napH	0	0	Not Expressed at LB
+P11350	NARI_ECOLI	narI	0	0	Not Expressed at LB
+P0AF26	NARJ_ECOLI	narJ	0	0	Not Expressed at LB
+P19319	NARZ_ECOLI	narZ	0	0	Not Expressed at LB
+P0A9G2	NHAR_ECOLI	nhaR	0	0	Not Expressed at LB
+P33591	NIKB_ECOLI	nikB	0	0	Not Expressed at LB
+P33593	NIKD_ECOLI	nikD	0	0	Not Expressed at LB
+P33594	NIKE_ECOLI	nikE	0	0	Not Expressed at LB
+P0AC26	NIRC_ECOLI	nirC	0	0	Not Expressed at LB
+P0A9I8	NIRD_ECOLI	nirD	0	0	Not Expressed at LB
+P0ACH1	SFSB_ECOLI	nlp	0	0	Not Expressed at LB
+P23898	NLPC_ECOLI	nlpC	0	0	Not Expressed at LB
+P39452	RIR3_ECOLI	nrdE	0	0	Not Expressed at LB
+P37146	RIR4_ECOLI	nrdF	0	0	Not Expressed at LB
+P0A9N8	NRDG_ECOLI	nrdG	0	0	Not Expressed at LB
+P0ABL1	NRFB_ECOLI	nrfB	0	0	Not Expressed at LB
+P32711	NRFF_ECOLI	nrfF	0	0	Not Expressed at LB
+P32712	NRFG_ECOLI	nrfG	0	0	Not Expressed at LB
+P0AFF4	NUPG_ECOLI	nupG	0	0	Not Expressed at LB
+P37057	OGRK_ECOLI	ogrK	0	0	Not Expressed at LB
+P0ADA7	OSMB_ECOLI	osmB	0	0	Not Expressed at LB
+P0C0L2	OSMC_ECOLI	osmC	0	0	Not Expressed at LB
+P0ADB1	OSME_ECOLI	osmE	0	0	Not Expressed at LB
+P00903	PABA_ECOLI	pabA	0	0	Not Expressed at LB
+P16256	PANF_ECOLI	panF	0	0	Not Expressed at LB
+P06999	K6PF2_ECOLI	pfkB	0	0	Not Expressed at LB
+P0A924	PGPB_ECOLI	pgpB	0	0	Not Expressed at LB
+P0AD74	LPF2_ECOLI	pheM	0	0	Not Expressed at LB
+P16681	PHNB_ECOLI	phnB	0	0	Not Expressed at LB
+P16677	PHNC_ECOLI	phnC	0	0	Not Expressed at LB
+P16682	PHND_ECOLI	phnD	0	0	Not Expressed at LB
+P16684	PHNF_ECOLI	phnF	0	0	Not Expressed at LB
+P16685	PHNG_ECOLI	phnG	0	0	Not Expressed at LB
+P16686	PHNH_ECOLI	phnH	0	0	Not Expressed at LB
+P16688	PHNJ_ECOLI	phnJ	0	0	Not Expressed at LB
+P16678	PHNK_ECOLI	phnK	0	0	Not Expressed at LB
+P16679	PHNL_ECOLI	phnL	0	0	Not Expressed at LB
+P16691	PHNO_ECOLI	phnO	0	0	Not Expressed at LB
+P0AFJ5	PHOB_ECOLI	phoB	0	0	Not Expressed at LB
+P0A9K1	PHOH_ECOLI	phoH	0	0	Not Expressed at LB
+P52086	COBC_ECOLI	phpB	0	0	Not Expressed at LB
+P00914	PHR_ECOLI	phrB	0	0	Not Expressed at LB
+P03825	PIOO_ECOLI	pinO	0	0	Not Expressed at LB
+P43676	PITB_ECOLI	pitB	0	0	Not Expressed at LB
+P0AFK2	PNUC_ECOLI	pnuC	0	0	Not Expressed at LB
+P31133	POTF_ECOLI	potF	0	0	Not Expressed at LB
+P31134	POTG_ECOLI	potG	0	0	Not Expressed at LB
+P33554	PPDA_ECOLI	ppdA	0	0	Not Expressed at LB
+P08371	PPDB_ECOLI	ppdB	0	0	Not Expressed at LB
+P08372	PPDC_ECOLI	ppdC	0	0	Not Expressed at LB
+P36647	PPDD_ECOLI	ppdD	0	0	Not Expressed at LB
+P0A9L5	PPIC_ECOLI	ppiC	0	0	Not Expressed at LB
+P28369	RFH_ECOLI	prfH	0	0	Not Expressed at LB
+P23862	PRIC_ECOLI	priC	0	0	Not Expressed at LB
+P0AEX5	KPPR_ECOLI	prkB	0	0	Not Expressed at LB
+P0A8T1	PRMA_ECOLI	prmA	0	0	Not Expressed at LB
+P0A7B5	PROB_ECOLI	proB	0	0	Not Expressed at LB
+P14175	PROV_ECOLI	proV	0	0	Not Expressed at LB
+P14176	PROW_ECOLI	proW	0	0	Not Expressed at LB
+P0A717	KPRS_ECOLI	prsA	0	0	Not Expressed at LB
+P36678	GSPM_ECOLI	pshM	0	0	Not Expressed at LB
+P0AFM4	PSIF_ECOLI	psiF	0	0	Not Expressed at LB
+P0AFM9	PSPB_ECOLI	pspB	0	0	Not Expressed at LB
+P0AFN2	PSPC_ECOLI	pspC	0	0	Not Expressed at LB
+P0A8R9	HDFR_ECOLI	pssR	0	0	Not Expressed at LB
+P07654	PSTA_ECOLI	pstA	0	0	Not Expressed at LB
+P0A7D1	PTH_ECOLI	pth	0	0	Not Expressed at LB
+P24555	PTRB_ECOLI	ptrB	0	0	Not Expressed at LB
+P0A9N0	PTSO_ECOLI	ptsO	0	0	Not Expressed at LB
+P0AG18	PUR6_ECOLI	purE	0	0	Not Expressed at LB
+P0A7F3	PYRI_ECOLI	pyrI	0	0	Not Expressed at LB
+P0AD83	LPPY_ECOLI	pyrL	0	0	Not Expressed at LB
+P15033	RACC_ECOLI	racC	0	0	Not Expressed at LB
+P27844	RARD_ECOLI	rarD	0	0	Not Expressed at LB
+P69405	RCSA_ECOLI	rcsA	0	0	Not Expressed at LB
+P04993	EX5A_ECOLI	recD	0	0	Not Expressed at LB
+P33228	RECT_ECOLI	recT	0	0	Not Expressed at LB
+P0C079	RELB_ECOLI	relB	0	0	Not Expressed at LB
+P0C077	RELE_ECOLI	relE	0	0	Not Expressed at LB
+P0ACG6	HOKD_ECOLI	relF	0	0	Not Expressed at LB
+P07010	REM_ECOLI	rem	0	0	Not Expressed at LB
+P0AFW0	RFAH_ECOLI	rfaH	0	0	Not Expressed at LB
+P27242	WAAU_ECOLI	rfaK	0	0	Not Expressed at LB
+P27240	RFAY_ECOLI	rfaY	0	0	Not Expressed at LB
+P27241	RFAZ_ECOLI	rfaZ	0	0	Not Expressed at LB
+P32169	RHAD_ECOLI	rhaD	0	0	Not Expressed at LB
+P09378	RHAR_ECOLI	rhaR	0	0	Not Expressed at LB
+P09377	RHAS_ECOLI	rhaS	0	0	Not Expressed at LB
+P32169	RHAD_ECOLI	rhaD	0	0	Not Expressed at LB
+P13857	RIML_ECOLI	rimL	0	0	Not Expressed at LB
+P0AFW2	RMF_ECOLI	rmf	0	0	Not Expressed at LB
+P21338	RNI_ECOLI	rna	0	0	Not Expressed at LB
+P30850	RNB_ECOLI	rnb	0	0	Not Expressed at LB
+P10442	RNH2_ECOLI	rnhB	0	0	Not Expressed at LB
+P0AFW4	RNK_ECOLI	rnk	0	0	Not Expressed at LB
+P37351	RPIB_ECOLI	rpiB	0	0	Not Expressed at LB
+P0ACS7	RPIR_ECOLI	rpiR	0	0	Not Expressed at LB
+P0A7P5	RL34_ECOLI	rpmH	0	0	Not Expressed at LB
+P0A7Q6	RL36_ECOLI	rpmJ	0	0	Not Expressed at LB
+P68191	SRA_ECOLI	rpsV	0	0	Not Expressed at LB
+P38104	RSPA_ECOLI	rspA	0	0	Not Expressed at LB
+P38105	RSPB_ECOLI	rspB	0	0	Not Expressed at LB
+P0AFY2	SANA_ECOLI	sanA	0	0	Not Expressed at LB
+P0AGH3	SAPB_ECOLI	sapB	0	0	Not Expressed at LB
+P0AGH5	SAPC_ECOLI	sapC	0	0	Not Expressed at LB
+P07026	SDIA_ECOLI	sdiA	0	0	Not Expressed at LB
+P0AAA5	SFA_ECOLI	sfa	0	0	Not Expressed at LB
+P38392	SIEB_ECOLI	sieB	0	0	Not Expressed at LB
+P37194	SLP_ECOLI	slp	0	0	Not Expressed at LB
+P30852	SMF_ECOLI	smf	0	0	Not Expressed at LB
+P0A828	SMG_ECOLI	smg	0	0	Not Expressed at LB
+P0A937	SMPA_ECOLI	smpA	0	0	Not Expressed at LB
+P24554	RADA_ECOLI	sms	0	0	Not Expressed at LB
+P0AGD1	SODC_ECOLI	sodC	0	0	Not Expressed at LB
+P15373	SOHA_ECOLI	sohA	0	0	Not Expressed at LB
+P0ACS2	SOXR_ECOLI	soxR	0	0	Not Expressed at LB
+P0A9E2	SOXS_ECOLI	soxS	0	0	Not Expressed at LB
+P60651	SPEB_ECOLI	speB	0	0	Not Expressed at LB
+P21169	DCOR_ECOLI	speC	0	0	Not Expressed at LB
+P39902	SPRT_ECOLI	sprT	0	0	Not Expressed at LB
+P05706	PTHA_ECOLI	srlB	0	0	Not Expressed at LB
+P0AFZ3	SSPB_ECOLI	sspB	0	0	Not Expressed at LB
+P69937	SUGE_ECOLI	sugE	0	0	Not Expressed at LB
+P0AFZ5	SULA_ECOLI	sulA	0	0	Not Expressed at LB
+P0A840	SURE_ECOLI	surE	0	0	Not Expressed at LB
+P0A8U0	SYDP_ECOLI	syd	0	0	Not Expressed at LB
+P32669	FSAB_ECOLI	talC	0	0	Not Expressed at LB
+P07018	MCP4_ECOLI	tap	0	0	Not Expressed at LB
+P0AAD8	TDCC_ECOLI	tdcC	0	0	Not Expressed at LB
+P11866	TDCR_ECOLI	tdcR	0	0	Not Expressed at LB
+P23331	KITH_ECOLI	tdk	0	0	Not Expressed at LB
+P25397	TEHB_ECOLI	tehB	0	0	Not Expressed at LB
+P0AGG2	TESB_ECOLI	tesB	0	0	Not Expressed at LB
+P30137	THIE_ECOLI	thiE	0	0	Not Expressed at LB
+P30140	THIH_ECOLI	thiH	0	0	Not Expressed at LB
+P0AD86	LPT_ECOLI	thrL	0	0	Not Expressed at LB
+P0A8M3	SYT_ECOLI	thrS	0	0	Not Expressed at LB
+P33225	TORA_ECOLI	torA	0	0	Not Expressed at LB
+P36662	TORD_ECOLI	torD	0	0	Not Expressed at LB
+P38684	TORR_ECOLI	torR	0	0	Not Expressed at LB
+P38683	TORT_ECOLI	torT	0	0	Not Expressed at LB
+P02338	PRTL_ECOLI	tpr	0	0	Not Expressed at LB
+P36673	TRER_ECOLI	treR	0	0	Not Expressed at LB
+P23849	TRKG_ECOLI	trkG	0	0	Not Expressed at LB
+P0AD92	LPW_ECOLI	trpL	0	0	Not Expressed at LB
+P0AG03	UBIX_ECOLI	ubiX	0	0	Not Expressed at LB
+P10906	UGPE_ECOLI	ugpE	0	0	Not Expressed at LB
+P0AGC0	UHPT_ECOLI	uhpT	0	0	Not Expressed at LB
+P05804	BGLR_ECOLI	uidA	0	0	Not Expressed at LB
+P0AG11	UMUD_ECOLI	umuD	0	0	Not Expressed at LB
+P12295	UNG_ECOLI	ung	0	0	Not Expressed at LB
+P0A9Q5	ACCD_ECOLI	usg	0	0	Not Expressed at LB
+P0A6L7	UXAB_ECOLI	uxaB	0	0	Not Expressed at LB
+P0A8G3	UXAC_ECOLI	uxaC	0	0	Not Expressed at LB
+P09184	VSR_ECOLI	vsr	0	0	Not Expressed at LB
+P0ACC9	WCAB_ECOLI	wcaB	0	0	Not Expressed at LB
+P23841	XAPR_ECOLI	xapR	0	0	Not Expressed at LB
+P63235	GADC_ECOLI	xasA	0	0	Not Expressed at LB
+P0A8P8	XERD_ECOLI	xerD	0	0	Not Expressed at LB
+P37387	XYLF_ECOLI	xylF	0	0	Not Expressed at LB
+P0AGI4	XYLH_ECOLI	xylH	0	0	Not Expressed at LB
+P0AES6	GYRB_ECOLI	acrB	0	0	Not Detectable Signal
+P42910	PTPC1_ECOLI	agaC	0	0	Not Detectable Signal
+P0AEC3	ARCB_ECOLI	arcB	0	0	Not Detectable Signal
+P0ABJ9	CYDA_ECOLI	cydA	0	0	Not Detectable Signal
+P24228	DACB_ECOLI	dacB	0	0	Not Detectable Signal
+P0A8J2	DNAT_ECOLI	dnaT	0	0	Not Detectable Signal
+P0AEJ2	ENTC_ECOLI	entC	0	0	Not Detectable Signal
+P11454	ENTF_ECOLI	entF	0	0	Not Detectable Signal
+P38506	XNI_ECOLI	exo	0	0	Not Detectable Signal
+P0ADF0	LPFS_ECOLI	fruL	0	0	Not Detectable Signal
+P62522	LPID_ECOLI	ilvL	0	0	Not Detectable Signal
+P0AD79	LPL_ECOLI	leuL	0	0	Not Detectable Signal
+P62623	ISPH_ECOLI	lytB	0	0	Not Detectable Signal
+P0AD72	LPF_ECOLI	pheL	0	0	Not Detectable Signal
+P0AFJ1	PHNA_ECOLI	phnA	0	0	Not Detectable Signal
+P31135	POTH_ECOLI	potH	0	0	Not Detectable Signal
+P09546	PUTA_ECOLI	putA	0	0	Not Detectable Signal
+P04982	RBSD_ECOLI	rbsD	0	0	Not Detectable Signal
+P27127	RFAB_ECOLI	rfaB	0	0	Not Detectable Signal
+P0A8J8	RHLB_ECOLI	rhlB	0	0	Not Detectable Signal
+P0ADF3	LPRH_ECOLI	rhoL	0	0	Not Detectable Signal
+P69054	DHSC_ECOLI	sdhC	0	0	Not Detectable Signal
+P14081	SELB_ECOLI	selB	0	0	Not Detectable Signal
+P0ACQ7	TDCA_ECOLI	tdcA	0	0	Not Detectable Signal
+P0AD89	LPTN_ECOLI	tnaL	0	0	Not Detectable Signal
+P0A940	YAET_ECOLI	b0177	0	0	Not Detectable Signal
+P77162	YKFB_ECOLI	b0250	0	0	Not Detectable Signal
+P77596	YAGF_ECOLI	b0269	0	0	Not Detectable Signal
+P77713	YAGH_ECOLI	b0271	0	0	Not Detectable Signal
+P77802	YAGX_ECOLI	b0291	0	0	Not Detectable Signal
+Q2EEQ3	YAHH_ECOLI	b0322	0	0	Not Detectable Signal
+P77239	CUSB_ECOLI	b0574	0	0	Not Detectable Signal
+P77559	YNFL_ECOLI	b1595	0	0	Not Detectable Signal
+P64508	YOBF_ECOLI	b1824	0	0	Not Detectable Signal
+P76347	YEEJ_ECOLI	b1978	0	0	Not Detectable Signal
+P38097	YEGE_ECOLI	b2067	0	0	Not Detectable Signal
+P76407	YEGS_ECOLI	b2086	0	0	Not Detectable Signal
+P0CF70	INSE5_ECOLI	b2088	0	0	Not Detectable Signal
+P0A991	ALF1_ECOLI	b2097	0	0	Not Detectable Signal
+P76481	YFBK_ECOLI	b2270	0	0	Not Detectable Signal
+P0AFU2	YFBS_ECOLI	b2292	0	0	Not Detectable Signal
+P52129	YFJN_ECOLI	b2630	0	0	Not Detectable Signal
+P52137	YFJV_ECOLI	b2641	0	0	Not Detectable Signal
+Q46787	YGEG_ECOLI	b2851	0	0	Not Detectable Signal
+Q46811	YGFK_ECOLI	b2878	0	0	Not Detectable Signal
+P64606	MLAE_ECOLI	b3194	0	0	Not Detectable Signal
+P32106	YIBG_ECOLI	b3596	0	0	Not Detectable Signal
+P0AFV0	YIBH_ECOLI	b3597	0	0	Not Detectable Signal
+P03061	LPIV_ECOLI	b3672	0	0	Not Detectable Signal
+P31447	YIDJ_ECOLI	b3678	0	0	Not Detectable Signal
+P0ADM6	YIDX_ECOLI	b3696	0	0	Not Detectable Signal
+P0A8Y5	YIDA_ECOLI	b3697	0	0	Not Detectable Signal
+P25714	OXAA_ECOLI	b3705	0	0	Not Detectable Signal
+P0AAA9	ZRAP_ECOLI	b4002	0	0	Not Detectable Signal
+P39336	YJGL_ECOLI	b4253	0	0	Not Detectable Signal
+P39353	YJHC_ECOLI	b4280	0	0	Not Detectable Signal

@@ -1,0 +1,42 @@
+agaW	3278723	3279124	1	PTS system N-	E	?	b3134	
+yddL	1543762	1544052	-1	putative outer membrane porin	E	?	b1472	
+yjbL	4258344	4258598	1	orf hypothetical protein	E	?	b4047	
+yjbM	4258622	4259329	1	orf hypothetical protein	E	?	b4048	
+ypjC	2782551	2783033	-1	orf hypothetical protein	E	?	b2650	
+ytfI	4435730	4436668	1	orf hypothetical protein	E	?	b4215	
+b1228	1285932	1286207	1	hypothetical protein	E	?	b1228	
+celC	1817479	1817829	-1	PEP-dependent	E	F	b1736	
+lplA	4621124	4622140	-1	lipoate-protein ligase A	E	F	b4386	
+yaiS	383283	383693	-1	Putative conserved	E	?	b0364	
+yddK	1542782	1543738	-1	putative glycoportein	E	?	b1471	
+ytfR	4449081	4450583	1	putative ATP-binding	E	?	b4228	b4485
+ytfR	4449081	4450583	1	putative ATP-binding	E	?	b4229	b4485
+acpP	1150838	1151074	1	acyl carrier protein	?	F	b1094	
+cybC	4457576	4457878	1	Soluble cytochrome	?	F	b4236	
+gnsB	1635633	1635809	-1	GnsB protein	?	F	b1550	
+thiE	4191592	4192227	-1	thiamin-phosphate synthase	N	F	b3993	
+tam	1605370	1606128	1	trans-aconitate 2-methyltransferase	N	F	b1519	
+cpxP	4103843	4104343	1	orf hypothetical protein	N	F	b3913	b4484
+cpxP	4103843	4104343	1	orf hypothetical protein	N	F	b3914	b4484
+gntU	3573744	3575084	-1	low-affinity gluconate transport	N	F	b3435	b4476
+gntU	3573744	3575084	-1	low-affinity gluconate transport	N	F	b3436	b4476
+phnE	4320684	4321304	-1	membrane channel protein	N	F	b4104	
+rffT	3975548	3976627	1	orf conceptual translation in	N	F	b4404	b4481
+rffT	3975548	3976627	1	orf conceptual translation in	N	F	b4405	b4481
+tatD	4021577	4022359	1	orf hypothetical protein	N	F	b3841	b4483
+tatD	4021577	4022359	1	orf hypothetical protein	N	F	b3842	b4483
+trkD	3929339	3931207	1	low affinity potassium transport	N	F	b3747	
+trkH	4031168	4032619	1	potassium uptake requires TrkE	N	F	b3849	
+araH	1980578	1981567	-1	ABC-type arabinose	N	F	b1898	b4460
+araH	1980578	1981567	-1	ABC-type arabinose	N	F	b1899	b4460
+emrE	567538	567870	1	EmrE protein	N	F	b0543	
+hdfR	3945151	3945990	-1	Transcription regulator	N	F	b3762	b4480
+hdfR	3945151	3945990	-1	Transcription regulator	N	F	b3763	b4480
+mltA	2944103	2945200	-1	Membrane-bound lytic	N	F	b2813	
+rhtB	4006462	4007082	-1	homoserine-homoserine	N	F	b3824	
+rhtC	4005780	4006400	1	threonine efflux protein	N	F	b3823	
+rtcA	3553855	3554871	-1	Chain B, Phosphate	N	F	b3419	b4475
+rtcA	3553855	3554871	-1	Chain B, Phosphate	N	F	b3420	b4475
+tdcG	3256307	3257671	-1	L-serine dehydratase	N	F	b3111	b4471
+tdcG	3256307	3257671	-1	L-serine dehydratase	N	F	b3112	b4471
+yohG	2225345	2226541	-1	Putative	N	F	b2138	

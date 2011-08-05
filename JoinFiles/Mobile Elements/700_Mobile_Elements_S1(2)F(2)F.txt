@@ -1,0 +1,729 @@
+Entry name (Uniprot)	Accession (UNIPROT)	Gene	Locus_Tag	Subcellular Location(this study)	Name of deletion Island (Posfai 2006)	Mobile Element	Mobile from paper	Pseudogene/Mobile Element Notes	Common Core	Deletion	Subcellular Location (UNIPROT)	Subcellular Location (EchoLOCATION)	1st Secr Sys	2nd Secr Sys	Uniprot Link	Total Length (aa)	Gene_Type	Left End	Right End	Strand	Comments/Annotation	Description (UNIPROT)
+INSL1_ECOLI	P0CF91	insL-1	b0016	A	MD13	2	2	"Insertion Sequence;Insertion Element ;Transposase"		del-MD13		-			P0CF91	370	CDS	15445	16557	+	note: Predicted inner membrane in Bensel	Putative transposase InsL for insertion sequence element IS186A
+HOKC_ECOLI	P0ACG4	hokC	b4412	G		0	0			del-MD13		Cytoplasmic	SEC		P0ACG4	50	CDS	16751	16903	-		Uncharacterized protein yqeI
+MOKC_ECOLI	P33236	mokC	b0018	B	MD13	0	2			del-MD13		Cytoplasmic	SEC		P33236	69	CDS	16751	16960	-		Regulatory protein mokC
+NHAA_ECOLI	P13738	nhaA	b0019	B	MD13	0	2			del-MD13	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P13738	388	CDS	17489	18655	+		Na(+)/H(+) antiporter nhaA (Sodium/proton antiporter nhaA)
+NHAR_ECOLI	P0A9G2	nhaR	b0020	A	MD13	0	2		Common Core	del-MD13	Periplasm. 	Membrane anchored >EXP<			P0A9G2	301	CDS	18715	19620	+		Transcriptional activator protein nhaR (Na(+)/H(+) antiporter regulatory protein)
+INSB1_ECOLI	P0CF25	insB-1	b0021	A	MD13	2	2	"Insertion Element ;Transposase"		del-MD13		-			P0CF25	167	CDS	19811	20314	-	new id	Insertion element IS1 1 protein insB (IS1a)
+INSA1_ECOLI	P0CF07	insA-1	b0022	A	MD13	2	2	Insertion Element 		del-MD13	"Cell inner membrane; Multi-pass membrane protein. "	Cytoplasmic			P0CF07	91	CDS	20233	20508	-	new id	Insertion element IS1 1 protein insA (IS1a)
+FHUA_ECOLI	P06971	fhuA	b0150	H	MD41	0	2			del-MD41	"Membrane; Single-pass membrane protein. "	-	SEC	BAM	P06971	747	CDS	167484	169727	+		Uncharacterized protein yohN
+FHUC_ECOLI	P07821	fhuC	b0151	F1	MD41	0	2		Common Core	del-MD41	Cytoplasm. 	Cytoplasmic			P07821	265	CDS	169778	170575	+		Iron(3+)-hydroxamate import ATP-binding protein fhuC (EC 3.6.3.34) (Ferric hydroxamate uptake protein C) (Ferrichrome transport ATP-binding protein fhuC) (Iron(III)-hydroxamate import ATP-binding protein fhuC)
+FHUD_ECOLI	P07822	fhuD	b0152	G	MD41	0	2		Common Core	del-MD41	Periplasm. 	Periplasmic >EXP<	TAT / SEC		P07822	296	CDS	170575	171465	+	Notes: TAT secretion system Refs: (http://www.jbc.org/content/282/11/8309.abstract)	Iron(3+)-hydroxamate-binding protein fhuD (Ferric hydroxamate uptake protein D) (Ferrichrome-binding periplasmic protein) (Iron(III)-hydroxamate-binding protein fhuD)
+FHUB_ECOLI	P06972	fhuB	b0153	B	MD41	0	2			del-MD41	Cytoplasm. 	Cytoplasmic	SEC		P06972	660	CDS	171462	173444	+		Iron(3+)-hydroxamate import system permease protein fhuB (Ferric hydroxamate uptake protein B) (Ferrichrome transport system permease protein fhuB) (Ferrichrome uptake protein fhuB) (Iron(III)-hydroxamate import system permease protein fhuB)
+YKFI_ECOLI	P77692	ykfI	b0245	A		2	0	Prophage Integrase (EcoGene)		del-MD1	"Cell inner membrane; Multi-pass membrane protein. "	-			P77692	113	CDS	262552	262893	-		Uncharacterized protein ykfI
+YAFW_ECOLI	Q47684	yafW	b0246	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		Cytoplasmic			Q47684	105	CDS	262914	263231	-		Uncharacterized protein yafW
+YKFH_ECOLI	Q9XB42	ykfH	b4504	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	"Cell outer membrane; Lipid-anchor. "	-			Q9XB42	73	CDS	263250	263471	-		Uncharacterized protein ykfH
+YKFG_ECOLI	Q47685	ykfG	b0247	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	Periplasm. 	-			Q47685	158	CDS	263480	263956	-		UPF0758 protein ykfG
+YAFX_ECOLI	P75676	yafX	b0248	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-			P75676	152	CDS	263972	264430	-		Uncharacterized protein yafX
+YKFF_ECOLI	P75677	ykfF	b0249	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-			P75677	79	CDS	264528	264767	-		UPF0401 protein ykfF
+YKFB_ECOLI	P77162	ykfB	b0250	G	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		Outer membrane Lipoprotein	SEC		P77162	155	CDS	264844	265311	-		Uncharacterized protein ykfB
+YAFY_ECOLI	P77365	yafY	b0251	E	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	"Cell outer membrane; Multi-pass membrane protein. "	Outer Membrane &#223-barrel protein >EXP<	SEC	LOL	P77365	147	CDS	265334	266191	-	Inner mebrane lipoprotein (LipoP prediction)	Uncharacterized lipoprotein yafY
+YAFZ_ECOLI	P77206	yafZ	b0252	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	Cytoplasm. 	Cytoplasmic			P77206	273	CDS	266408	267229	-		UPF0380 protein yafZ
+YKFA_ECOLI	P75678	ykfA	b0253	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	Periplasm. 	-			P75678	287	CDS	267321	268184	-		Uncharacterized protein ykfA
+PERR_ECOLI	Q57083	perR	b0254	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		Cytoplasmic			Q57083	297	CDS	268513	269406	-		HTH-type transcriptional regulator perR (Peroxide resistance protein perR)
+INSN1_ECOLI	P75679	insN-1	b0255	A		2	0	"Insertion Sequence;Transposase"		del-MD1	Cytoplasm. 	Cytoplasmic			P75679	134	CDS	269466	269870	+		Transposase insN for insertion sequence element IS911A
+INSI1_ECOLI	P0CF88	insI-1	b0256	A	MD1	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD1		-			P0CF88	383	CDS	269827	270978	+	new id	Transposase InsI for insertion sequence element IS30A
+INSO1_ECOLI	P75680	insO-1	b0257	A		2	0	"pseudogene (Uniprot);Insertion Sequence;Transposase"		del-MD1		-			P75680	141	CDS	271054	271479	+		Putative transposase insO for insertion sequence element IS911A
+YKFC_ECOLI	Q47688	ykfC	b0258	A		2	0	pseudogene (Uniprot) 		del-MD1		-			Q47688	376	CDS	272071	273216	+		Putative uncharacterized protein ykfC
+INSH1_ECOLI	P0CE49	insH-1	b0259	A	MD1	2	2	"Insertion Sequence;Transposase"		del-MD1		Cytoplasmic			P0CE49	338	CDS	273325	274341	-	new id	Transposase insH for insertion sequence element IS5A
+MMUP_ECOLI	Q47689	mmuP	b0260	B	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-	SEC		Q47689	467	CDS	274549	275952	+		Probable S-methylmethionine permease
+MMUM_ECOLI	Q47690	mmuM	b0261	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	Cytoplasm. 	-			Q47690	310	CDS	275939	276871	+		Homocysteine S-methyltransferase (EC 2.1.1.10) (S-methylmethionine:homocysteine methyltransferase)
+FBPC_ECOLI	P37009	afuC	b0262	F1	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-			P37009	348	CDS	276980	278026	-		Fe(3+) ions import ATP-binding protein FbpC (EC 3.6.3.30)
+FBPB_ECOLI	P75681	afuB	b0263	B		2	0	pseudogene (Uniprot) 		del-MD1	Cytoplasm. 	Cytoplasmic	SEC		P75681	115	CDS	278038	278400	-		Putative ferric transport system permease protein fbpB (Fragment)
+INSB2_ECOLI	P0CF26	insB-2	b0264	A	MD1	2	2	"Insertion Element ;Transposase"		del-MD1	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P0CF26	167	CDS	278402	278905	-	new id	Insertion element IS1 2 protein insB (IS1b)
+INSA2_ECOLI	P0CF08	insA-2	b0265	A	MD1	2	2	Insertion Element 		del-MD1	Cytoplasm. 	Cytoplasmic			P0CF08	91	CDS	278824	279099	-	new id	Insertion element IS1 2 protein insA (IS1b)
+YKGN_ECOLI	Q79E92	ykgN	b4505	A		2	0	"pseudogene (Uniprot);Transposase"		del-MD1	"Cell outer membrane; Multi-pass membrane protein. "	-			Q79E92	112	CDS	279248	279586	-		Putative transposase ykgN
+YAGB_ECOLI	P37008	yagB	b0266	A		2	0	pseudogene (Ohman 2006)		del-MD1		Cytoplasmic			P37008	116	CDS	279609	279959	-		Putative uncharacterized protein yagB
+YAGA_ECOLI	P37007	yagA	b0267	A	MD1	2	2	"Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD1		Cytoplasmic			P37007	384	CDS	280053	281207	-		Uncharacterized protein yagA
+YAGE_ECOLI	P75682	yagE	b0268	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	"Cell inner membrane; Multi-pass membrane protein. Secreted. "	-			P75682	309	CDS	281481	282410	+		Uncharacterized protein yagE
+YAGF_ECOLI	P77596	yagF	b0269	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-			P77596	655	CDS	282425	284392	+		Uncharacterized protein yagF (EC 4.-.-.-)
+YAGG_ECOLI	P75683	yagG	b0270	B	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	Cytoplasm. 	-	SEC		P75683	460	CDS	284619	286001	+		Uncharacterized symporter yagG
+YAGH_ECOLI	P77713	yagH	b0271	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-			P77713	536	CDS	286013	287623	+		Putative beta-xylosidase (EC 3.2.1.37) (1,4-beta-D-xylan xylohydrolase) (Xylan 1,4-beta-xylosidase)
+YAGI_ECOLI	P77300	yagI	b0272	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-			P77300	252	CDS	287628	288386	-		Uncharacterized HTH-type transcriptional regulator yagI
+OTC2_ECOLI	P06960	argF	b0273	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		-			P06960	334	CDS	288525	289529	-		Ornithine carbamoyltransferase chain F (EC 2.1.3.3) (OTCase-2)
+INSB3_ECOLI	P0CF27	insB-3	b0274	A	MD1	2	2	"Insertion Element ;Transposase"		del-MD1		Integral Membrane Protein			P0CF27	167	CDS	289873	290376	-	new id	Insertion element IS1 3 protein insB (IS1c)
+INSA3_ECOLI	P0CF09	insA-3	b0275	A	MD1	2	2	Insertion Element 		del-MD1	"Cell membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<			P0CF09	91	CDS	290295	290570	-	new id	Insertion element IS1 3 protein insA (IS1c)
+YAGJ_ECOLI	P77169	yagJ	b0276	A		2	0	pseudogene (Uniprot)		del-MD1	"Cell membrane; Lipid-anchor. "	Inner membrane lipoprotein			P77169	243	CDS	290724	291455	+		Putative uncharacterized protein yagJ
+YAGK_ECOLI	P77657	yagK	b0277	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1	"Cell outer membrane; Lipid-anchor. "	Outer membrane Lipoprotein			P77657	208	CDS	291546	292172	-		Uncharacterized protein yagK
+YAGL_ECOLI	P77607	yagL	b0278	B	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		Periplasmic	SEC		P77607	232	CDS	292444	293142	-		Uncharacterized protein yagL
+YAGM_ECOLI	P71296	yagM	b0279	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		Periplasmic			P71296	284	CDS	293169	294023	-		Uncharacterized protein yagM
+YAGN_ECOLI	P71297	yagN	b0280	A	MD1	2	2	Prophage Integrase (EcoGene)		del-MD1		Cytoplasmic			P71297	146	CDS	294363	294803	-		Uncharacterized protein yagN
+INTF_ECOLI	P71298	intF	b0281	A	MD1	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD1		-			P71298	466	CDS	294920	296320	-		Putative prophage CP4-6 integrase
+YAGP_ECOLI	P75684	yagP	b0282	B		2	0	pseudogene (Uniprot) 		del-MD1		-	SEC		P75684	136	CDS	296605	297015	-		Uncharacterized protein yagP
+YAGQ_ECOLI	P77183	yagQ	b0283	A	MD1	0	2			del-MD1		Periplasmic			P77183	318	CDS	296994	297950	-	"notes: helps yagRST assemple in to an active periplasmic complex but it is not part of the complex itself ; propably remains in the cytoplasm; The YagT protein contains a 49 amino acid Tat leader peptide that allows the export of the active heterotrimer t"	Uncharacterized protein yagQ
+YAGR_ECOLI	P77489	yagR	b0284	G	MD1	0	2			del-MD1		Membrane anchored	TAT piggyback		P77489	732	CDS	297960	300158	-	Notes: TAT piggyback The YagT protein contains a 49 amino acid Tat leader peptide that allows the export of the active heterotrimer to the periplasm (data not shown). Tat substrates are matured in the cytoplasm prior to their translocation. Here, we wante	Putative xanthine dehydrogenase yagR molybdenum-binding subunit (EC 1.17.1.4)
+YAGS_ECOLI	P77324	yagS	b0285	G	MD1	0	2			del-MD1	"Cell membrane; Peripheral membrane protein; Cytoplasmic side. "	Periplasmic	TAT piggyback		P77324	318	CDS	300155	301111	-	Notes: TAT piggyback The YagT protein contains a 49 amino acid Tat leader peptide that allows the export of the active heterotrimer to the periplasm (data not shown). Tat substrates are matured in the cytoplasm prior to their translocation. Here, we wante	Putative xanthine dehydrogenase yagS FAD-binding subunit (EC 1.17.1.4)
+YAGT_ECOLI	P77165	yagT	b0286	G	MD1	0	2			del-MD1		Cytoplasmic	TAT		P77165	229	CDS	301108	301797	-	Notes: The YagT protein contains a 49 amino acid Tat leader peptide that allows the export of the active heterotrimer to the periplasm (data not shown). Tat substrates are matured in the cytoplasm prior to their translocation. Here, we wanted to distingui	Putative xanthine dehydrogenase yagT iron-sulfur-binding subunit
+YAGU_ECOLI	P0AAA1	yagU	b0287	B	MD1	0	2			del-MD1	Periplasm. 	Periplasmic >EXP<	SEC		P0AAA1	204	CDS	302215	302829	+		Inner membrane protein yagU
+YKGJ_ECOLI	P0AAL9	ykgJ	b0288	G	MD1	0	2			del-MD1	Cytoplasm. 	Cytoplasmic	SEC		P0AAL9	109	CDS	303077	303406	-	Localization: <Predicted> Periplasmic	Uncharacterized protein ykgJ
+YAGV_ECOLI	P77263	yagV	b0289	G	MD1	0	2			del-MD1	"Cell outer membrane; Peripheral membrane protein. "	Outer Membrane &#223-barrel protein	SEC		P77263	236	CDS	303719	304429	-		Uncharacterized protein yagV
+YAGW_ECOLI	P77694	yagW	b0290	H	MD1	0	2			del-MD1		Cytoplasmic	SEC	BAM	P77694	547	CDS	304398	306041	-	Putative Outer membrane protein (BOMB  prediction + SignalP 98% prediction)	Uncharacterized protein yagW
+YAGX_ECOLI	P77802	yagX	b0291	G	MD1	0	2			del-MD1		Cytoplasmic	SEC		P77802	841	CDS	306031	308556	-		Uncharacterized protein yagX
+MATC_ECOLI	P77188	yagY	b0292	G	MD1	0	2			del-MD1		Integral Membrane Protein	SEC		P77188	222	CDS	308582	309250	-		Uncharacterized protein matC
+MATB_ECOLI	P0AAA3	yagZ	b0293	G	MD1	0	2			del-MD1	"Cell inner membrane; Single-pass type II membrane protein. "	Periplasmic with N-terminal membrane anchor >EXP<	SEC		P0AAA3	195	CDS	309308	309895	-		Fimbrillin matB homolog
+MATA_ECOLI	P71301	ykgK	b0294	A	MD1	0	2			del-MD1	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P71301	196	CDS	309970	310560	-		Probable HTH-type transcriptional regulator matA homolog
+YKGL_ECOLI	P56257	ykgL	b0295	A	MD1	0	2			del-MD1	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P56257	75	CDS	311336	311563	+		Uncharacterized protein ykgL
+RL362_ECOLI	Q2EEQ2	ykgO	b4506	A	MD1	0	2			del-MD1	Periplasm. 	Outer Membrane &#223-barrel protein			Q2EEQ2	46	CDS	311598	311738	-	translation ribosomal	50S ribosomal protein L36 2
+RL31B_ECOLI	P0A7N1	ykgM	b0296	A	MD1	0	2			del-MD1	Cytoplasm. 	Cytoplasmic			P0A7N1	87	CDS	311738	312001	-	Notes: ribosomal	50S ribosomal protein L31 type B
+EAEH_ECOLI	P36943	eaeH	b0297	H		2	0	pseudogene (Uniprot) 		del-MD1	"Cell outer membrane; Multi-pass membrane protein. "	-	 	 	P36943	295	CDS	313581	314468	+		Putative attaching and effacing protein homolog
+INSE1_ECOLI	P0CF66	insE-1	b0298	A	MD1	2	2	"Insertion Sequence;Transposase"		del-MD1	"Cytoplasm. Cell inner membrane; Peripheral membrane protein; Cytoplasmic side. "	Cytoplasmic			P0CF66	99	CDS	314506	314814	+	new id	Transposase insE for insertion sequence IS3A
+INSF1_ECOLI	P0CF79	insF-1	b0299	A	MD1	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"		del-MD1	Periplasm. 	Integral Membrane Protein			P0CF79	288	CDS	314811	315677	+	note: Predicted inner membrane in Bensel	Transposase insF for insertion sequence IS3A
+YKGA_ECOLI	P77601	ykgA	b0300	A		2	0	pseudogene (Uniprot)		del-MD1		Cytoplasmic			P77601	239	CDS	315674	316360	-		Putative HTH-type transcriptional regulator ykgA
+YKGB_ECOLI	P75685	ykgB	b0301	B	MD1	0	2			del-MD1		Cytoplasmic	SEC		P75685	197	CDS	316950	317543	-		Inner membrane protein ykgB
+YKGI_ECOLI	P75687	ykgI	b0303	G	MD1	0	2			del-MD1		Cytoplasmic	SEC		P75687	78	CDS	317555	317791	-		Uncharacterized protein ykgI
+YKGC_ECOLI	P77212	ykgC	b0304	A	MD1	0	2			del-MD1	"Membrane; Single-pass membrane protein. "	-			P77212	441	CDS	317900	319225	-		Probable pyridine nucleotide-disulfide oxidoreductase ykgC
+YKGD_ECOLI	P77379	ykgD	b0305	B	MD1	0	2			del-MD1	"Membrane; Single-pass membrane protein. "	Membrane anchored	SEC		P77379	284	CDS	319451	320305	+		Uncharacterized HTH-type transcriptional regulator ykgD
+YKGE_ECOLI	P77252	ykgE	b0306	A	MD1	0	2			del-MD1		Cytoplasmic			P77252	239	CDS	320832	321551	+		Uncharacterized protein ykgE
+YKGF_ECOLI	P77536	ykgF	b0307	A	MD1	0	2			del-MD1	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P77536	475	CDS	321562	322989	+		Uncharacterized electron transport protein ykgF
+YKGG_ECOLI	P77433	ykgG	b0308	A	MD1	0	2			del-MD1		Membrane anchored			P77433	231	CDS	322982	323677	+		Uncharacterized protein ykgG
+YKGH_ECOLI	P77180	ykgH	b0310	B	MD1	0	2			del-MD1		Cytoplasmic	SEC		P77180	222	CDS	323920	324588	-		Uncharacterized protein ykgH
+YAHA_ECOLI	P21514	yahA	b0315	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P21514	362	CDS	331595	332683	+		Cyclic di-GMP phosphodiesterase yahA (EC 3.1.4.-)
+YAHB_ECOLI	P77700	yahB	b0316	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P77700	310	CDS	332725	333657	-	CYTO	Uncharacterized HTH-type transcriptional regulator yahB
+YAHC_ECOLI	P77219	yahC	b0317	B	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P77219	165	CDS	333749	334246	-		Uncharacterized protein yahC
+YAHD_ECOLI	P77736	yahD	b0318	A	MD43	0	2			del-MD43	Cytoplasm. 	Cytoplasmic			P77736	201	CDS	334504	335109	+		Putative ankyrin repeat protein yahD
+YAHE_ECOLI	P77297	yahE	b0319	A	MD43	0	2			del-MD43	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P77297	287	CDS	335149	336012	+		Uncharacterized protein yahE
+YAHF_ECOLI	P77187	yahF	b0320	A	MD43	0	2			del-MD43	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P77187	515	CDS	336002	337549	+		Uncharacterized protein yahF
+YAHG_ECOLI	P77221	yahG	b0321	A	MD43	0	2			del-MD43	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P77221	472	CDS	337549	338967	+		Uncharacterized protein yahG
+YAHH_ECOLI	Q2EEQ3	yahH	b0322	B		2	0	pseudogene (Ecogene/Uniprot)		del-MD43		Cytoplasmic			Q2EEQ3	106	CDS	339017	339313	+		Putative uncharacterized protein yahH
+ARCM_ECOLI	P77624	yahI	b0323	A	MD43	0	2			del-MD43	"Membrane; Single-pass membrane protein. "	Membrane anchored			P77624	316	CDS	339389	340339	+		Carbamate kinase-like protein yahI
+YAHJ_ECOLI	P77554	yahJ	b0324	G	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	TAT / SEC		P77554	460	CDS	340349	341731	+	TAT secretion system	Uncharacterized protein yahJ
+YAHK_ECOLI	P75691	yahK	b0325	B	MD43	0	2			del-MD43		Periplasmic	SEC		P75691	349	CDS	342108	343157	+		Uncharacterized zinc-type alcohol dehydrogenase-like protein yahK (EC 1.-.-.-)
+YAHL_ECOLI	P77393	yahL	b0326	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P77393	271	CDS	343400	344215	+		Uncharacterized protein yahL
+YAHM_ECOLI	P75692	yahM	b0327	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Membrane anchored			P75692	81	CDS	344628	344873	+		Uncharacterized protein yahM
+YAHN_ECOLI	P75693	yahN	b0328	B	MD43	0	2			del-MD43		Integral Membrane Protein	SEC		P75693	223	CDS	344890	345561	-		Uncharacterized membrane protein yahN
+YAHO_ECOLI	P75694	yahO	b0329	G	MD43	0	2			del-MD43		Cytoplasmic	SEC		P75694	91	CDS	345708	345983	+		Uncharacterized protein yahO
+PRPR_ECOLI	P77743	prpR	b0330	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P77743	528	CDS	346081	347667	-		Propionate catabolism operon regulatory protein
+PRPB_ECOLI	P77541	prpB	b0331	B	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P77541	296	CDS	347906	348796	+		Methylisocitrate lyase (EC 4.1.3.30) (2-methylisocitrate lyase)
+PRPC_ECOLI	P31660	prpC	b0333	A	MD43	0	2			del-MD43		Cytoplasmic			P31660	389	CDS	349236	350405	+		2-methylcitrate synthase (EC 2.3.3.5) (Citrate synthase 2) (Methylcitrate synthase)
+PRPD_ECOLI	P77243	prpD	b0334	A	MD43	0	2			del-MD43		Cytoplasmic			P77243	483	CDS	350439	351890	+		2-methylcitrate dehydratase (EC 4.2.1.79)
+PRPE_ECOLI	P77495	prpE	b0335	A	MD43	0	2			del-MD43		Periplasmic >EXP<			P77495	628	CDS	351930	353816	+		Propionate--CoA ligase (EC 6.2.1.17) (Propionyl-CoA synthetase)
+CODB_ECOLI	P0AA82	codB	b0336	B	MD43	0	2			del-MD43	Cytoplasm. 	Cytoplasmic	SEC		P0AA82	419	CDS	354146	355405	+		Cytosine permease
+CODA_ECOLI	P25524	codA	b0337	A	MD43	0	2			del-MD43		Cytoplasmic			P25524	427	CDS	355395	356678	+		Cytosine deaminase (EC 3.5.4.1) (Cytosine aminohydrolase)
+CYNR_ECOLI	P27111	cynR	b0338	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P27111	299	CDS	357015	357914	-		HTH-type transcriptional regulator cynR (Cyn operon transcriptional activator)
+CYNT_ECOLI	P0ABE9	cynT	b0339	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0ABE9	219	CDS	358023	358682	+		Carbonic anhydrase 1 (EC 4.2.1.1) (Carbonate dehydratase 1)
+CYNS_ECOLI	P00816	cynS	b0340	A	MD43	0	2			del-MD43		Cytoplasmic >EXP<			P00816	156	CDS	358713	359183	+		Cyanate hydratase (Cyanase) (EC 4.2.1.104) (Cyanate hydrolase) (Cyanate lyase)
+CYNX_ECOLI	P17583	cynX	b0341	B	MD43	0	2			del-MD43		Outer membrane Lipoprotein >EXP<	SEC		P17583	384	CDS	359216	360370	+		Cyanate transport protein cynX
+THGA_ECOLI	P07464	lacA	b0342	A	MD43	0	2			del-MD43	Periplasm. 	-			P07464	203	CDS	360473	361084	-		Galactoside O-acetyltransferase (GAT) (EC 2.3.1.18) (Thiogalactoside acetyltransferase)
+LACY_ECOLI	P02920	lacY	b0343	B	MD43	0	2		Common Core	del-MD43		Cytoplasmic	SEC		P02920	417	CDS	361150	362403	-		Lactose permease (Lactose-proton symport)
+BGAL_ECOLI	P00722	lacZ	b0344	A	MD43	0	2			del-MD43		Cytoplasmic			P00722	1024	CDS	362455	365529	-		Beta-galactosidase (Beta-gal) (EC 3.2.1.23) (Lactase)
+LACI_ECOLI	P03023	lacI	b0345	A	MD43	0	2			del-MD43		Cytoplasmic			P03023	360	CDS	365652	366734	-		Lactose operon repressor
+MHPR_ECOLI	P77569	mhpR	b0346	A	MD43	0	2			del-MD43		Cytoplasmic			P77569	277	CDS	366811	367758	-		Mhp operon transcriptional activator
+MHPA_ECOLI	P77397	mhpA	b0347	B	MD43	0	2			del-MD43	Periplasm. 	Periplasmic	SEC		P77397	554	CDS	367835	369499	+		3-(3-hydroxy-phenyl)propionate/3-hydroxycinnamic acid hydroxylase (3-HCI hydroxylase) (3-HPP hydroxylase) (EC 1.14.13.n3)
+MHPB_ECOLI	P0ABR9	mhpB	b0348	A	MD43	0	2			del-MD43	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0ABR9	314	CDS	369501	370445	+		2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase (EC 1.13.11.16)
+MHPC_ECOLI	P77044	mhpC	b0349	A	MD43	0	2			del-MD43		Cytoplasmic			P77044	293	CDS	370448	371329	+		2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase (EC 3.7.1.n1) (2-hydroxy-6-ketonona-2,4-diene-1,9-dioic acid 5,6-hydrolase) (2-hydroxy-6-oxonona-2,4,7-triene-1,9-dioic acid 5,6-hydrolase) (2-hydroxy-6-oxonona-2,4-diene-1,9-dioic a
+MHPD_ECOLI	P77608	mhpD	b0350	A	MD43	0	2			del-MD43		Cytoplasmic			P77608	269	CDS	371339	372148	+		2-keto-4-pentenoate hydratase (EC 4.2.1.80) (2-hydroxypentadienoic acid hydratase)
+ACDH_ECOLI	P77580	mhpF	b0351	A	MD43	0	2			del-MD43		Cytoplasmic			P77580	316	CDS	372145	373095	+		Acetaldehyde dehydrogenase (EC 1.2.1.10) (Acetaldehyde dehydrogenase [acetylating])
+HOA_ECOLI	P51020	mhpE	b0352	A	MD43	0	2			del-MD43		Membrane anchored			P51020	337	CDS	373092	374105	+		4-hydroxy-2-oxovalerate aldolase (HOA) (EC 4.1.3.39) (4-hydroxy-2-keto-pentanoic acid aldolase) (4-hydroxy-2-oxopentanoate aldolase)
+MHPT_ECOLI	P77589	mhpT	b0353	B	MD43	0	2			del-MD43		Cytoplasmic	SEC		P77589	403	CDS	374683	375894	+		Putative 3-hydroxyphenylpropionic acid transporter
+YAIL_ECOLI	P51024	yaiL	b0354	A	MD43	0	2		Common Core	del-MD43	Periplasm. 	Periplasmic >EXP<			P51024	179	CDS	375996	376535	+		Uncharacterized protein yaiL
+YAIO_ECOLI	Q47534	yaiO	b0358	G		0	0			del-MD16	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		Q47534	257	CDS	379293	380066	-		Uncharacterized protein yaiO
+YAIX_ECOLI	P75697	yaiX	b4579	A		2	0	"pseudogene (Uniprot);Insertion Sequence"		del-MD16	"Membrane; Lipid-anchor. "	-			P75697	230	pseudogene	380068	382096	-		Putative uncharacterized acetyltransferase yaiX (EC 2.3.1.-)
+INSC1_ECOLI	P0CF40	insC-1	b0360	A	MD16	2	2	"Insertion Sequence;Insertion Element ;Transposase"		del-MD16		Cytoplasmic			P0CF40	121	CDS	380530	380940	+	new id	Transposase insC for insertion element IS2A
+INSD1_ECOLI	P0CF53	insD-1	b0361	A	MD16	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD16	Secreted. Bacterial flagellum. 	Cytoplasmic			P0CF53	301	CDS	380898	381803	+	new id	Transposase insD for insertion element IS2A
+YAIP_ECOLI	Q47536	yaiP	b0363	B	MD16	0	2			del-MD16		Periplasmic	SEC		Q47536	398	CDS	381963	383159	-		Uncharacterized protein ykfM
+YAIS_ECOLI	P71311	yaiS	b0364	A	MD16	0	2			del-MD16	Cell outer membrane. 	Outer Membrane &#223-barrel protein			P71311	185	CDS	383283	383840	-		Phenylalanyl--tRNA ligase operon leader peptide (PheST attenuator peptide)
+TAUA_ECOLI	Q47537	tauA	b0365	G	MD16	0	2			del-MD16	Cytoplasm. 	Cytoplasmic	SEC		Q47537	320	CDS	384456	385418	+		Taurine-binding periplasmic protein (Sulfate starvation-induced protein 1) (SSI1)
+TAUB_ECOLI	Q47538	tauB	b0366	F1	MD16	0	2			del-MD16	Cytoplasm. 	Cytoplasmic			Q47538	255	CDS	385431	386198	+		Taurine import ATP-binding protein TauB (EC 3.6.3.36)
+TAUC_ECOLI	Q47539	tauC	b0367	B	MD16	0	2			del-MD16	"Cell inner membrane; Single-pass type I membrane protein. "	Periplasmic with N-terminal membrane anchor >EXP<	SEC		Q47539	275	CDS	386195	387022	+		Taurine transport system permease protein tauC
+TAUD_ECOLI	P37610	tauD	b0368	A	MD16	0	2		Common Core	del-MD16		Cytoplasmic			P37610	283	CDS	387019	387870	+		Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17) (2-aminoethanesulfonate dioxygenase) (Sulfate starvation-induced protein 3) (SSI3)
+YAIT_ECOLI	P77199	yaiT	b4580	H		2	0	pseudogene (Uniprot) 		del-MD17		Cytoplasmic	SEC	T5S	P77199	968	pseudogene	389475	393642		autotransporter	Putative uncharacterized protein yaiT
+INSF2_ECOLI	P0CF80	insF-2	b0372	A	MD17	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"		del-MD17	"Cell outer membrane; Multi-pass membrane protein. "	Outer Membrane &#223-barrel protein >EXP<			P0CF80	288	CDS	390963	391829	-	new id	Transposase insF for insertion sequence IS3B
+INSE2_ECOLI	P0CF67	insE-2	b0373	A	MD17	2	2	"Insertion Sequence;Transposase"		del-MD17	"Cell inner membrane; Single-pass membrane protein. "	Membrane anchored			P0CF67	99	CDS	391826	392134	-	new id	Transposase insE for insertion sequence IS3B
+YAIV_ECOLI	P0AAP5	yaiV	b0375	A	MD17	0	2			del-MD17	Cytoplasm. 	Cytoplasmic			P0AAP5	207	CDS	393685	394353	+		Uncharacterized protein yaiV
+AMPH_ECOLI	P0AD70	ampH	b0376	G	MD17	0	2		Common Core	del-MD17		Cytoplasmic	SEC		P0AD70	385	CDS	394354	395511	-		Penicillin-binding protein AmpH
+SBMA_ECOLI	P0AFY6	sbmA	b0377	B	MD17	0	2		Common Core	del-MD17		-	SEC		P0AFY6	406	CDS	395863	397083	+		Protein sbmA
+YAIW_ECOLI	P77562	yaiW	b0378	I	MD17	0	2			del-MD17		-	SEC	LOL	P77562	364	CDS	397096	398190	+		Uncharacterized protein yaiW
+YAIY_ECOLI	P0AAP7	yaiY	b0379	B	MD17	0	2		Common Core	del-MD17		Cytoplasmic	SEC		P0AAP7	102	CDS	398249	398557	-		Inner membrane protein yaiY
+YAIZ_ECOLI	P0AAQ0	yaiZ	b0380	B	MD17	0	2		Common Core	del-MD17	Cytoplasm. 	Cytoplasmic	SEC		P0AAQ0	70	CDS	398817	399029	+		Uncharacterized protein yaiZ
+RHSD_ECOLI	P16919	rhsD	b0497	A	MD30	2	2	Rhs Element		del-MD30		-			P16919	1426	CDS	522485	526765	+		Protein rhsD
+YBBC_ECOLI	P33668	ybbC	b0498	I	MD30	0	2			del-MD30	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC	LOL	P33668	122	CDS	526805	527173	+		Uncharacterized protein ybbC
+YLBH_ECOLI	P77759	ylbH	b0499	A		2	0	"pseudogene (Uniprot);Rhs Element"		del-MD30		-			P77759	236	CDS	527173	527883	+		Putative uncharacterized protein ylbH
+YBBD_ECOLI	P33669	ybbD	b0500	B		2	0	pseudogene (Uniprot) 		del-MD30	"Cell inner membrane; Multi-pass membrane protein. "	Cytoplasmic	SEC		P33669	86	CDS	527864	528124	+		Putative uncharacterized protein ybbD
+YLBG_ECOLI	P77688	ylbG	b0502	A		2	0	pseudogene (Uniprot)		del-MD30		Cytoplasmic			P77688	123	CDS	528869	529240	-		Putative uncharacterized protein ylbG
+INTD_ECOLI	P24218	intD	b0537	A		2	0	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD12		-			P24218	387	CDS	564038	565201	-		Prophage DLP12 integrase (Prophage QSR' integrase)
+YBCC_ECOLI	P75717	ybcC	b0539	A		2	0	pseudogene (Uniprot)		del-MD12		Cytoplasmic			P75717	87	CDS	565321	565584	-		Putative uncharacterized protein ybCC
+YBCD_ECOLI	P77528	ybcD	b4508	A		2	0	pseudogene (Uniprot)		del-MD12	"Cell membrane; Multi-pass membrane protein. "	Cytoplasmic			P77528	78	pseudogene	565674	565910	+		Putative uncharacterized protein ybcD
+INSE3_ECOLI	P0CF68	insE-3	b0540	A	MD12	2	2	"Insertion Sequence;Transposase"		del-MD12	Periplasm	Periplasmic >EXP<			P0CF68	99	CDS	566056	566364	+	new id	Transposase insE for insertion sequence IS3C
+INSF3_ECOLI	P0CF81	insF-3	b0541	A	MD12	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"		del-MD12	Cytoplasmic	Cytoplasm. 			P0CF81	288	CDS	566361	567227	+	new id	Transposase insF for insertion sequence IS3C
+REND_ECOLI	P75718	renD	b0542	A		2	0	pseudogene (Uniprot)		del-MD12		-			P75718	100	CDS	567285	567470	+		Putative defective protein ren from DLP12 prophage
+EMRE_ECOLI	P23895	emrE	b0543	B	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC		P23895	110	CDS	567538	567870	+		Multidrug transporter emrE (Efflux-multidrug resistance protein emrE) (Ethidium resistance protein) (Methyl viologen resistance protein C)
+YBCK_ECOLI	P77698	ybcK	b0544	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P77698	508	CDS	568125	569651	+		Uncharacterized protein ybcK
+YBCL_ECOLI	P77368	ybcL	b0545	G	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC		P77368	183	CDS	570116	570667	+		UPF0098 protein ybcL
+YBCM_ECOLI	P77634	ybcM	b0546	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P77634	265	CDS	570677	571474	+		Uncharacterized HTH-type transcriptional regulator ybcM
+YBCN_ECOLI	Q47269	ybcN	b0547	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			Q47269	151	CDS	571689	572144	+		Uncharacterized protein ybcN in lambdoid DLP12 prophage region
+NINE_ECOLI	Q47270	ninE	b0548	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12	"Cell inner membrane; Multi-pass membrane protein. "	-			Q47270	56	CDS	572144	572314	+		Protein ninE homolog from lambdoid prophage DLP12
+YBCO_ECOLI	P68661	ybcO	b0549	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P68661	96	CDS	572307	572597	+		82 prophage-derived uncharacterized protein ybcO
+RUSA_ECOLI	P0AG74	rusA	b0550	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P0AG74	120	CDS	572594	572956	+		Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.4) (Holliday junction nuclease rusA) (Holliday junction resolvase)
+YLCG_ECOLI	Q47272	ylcG	b4509	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			Q47272	46	CDS	572953	573093	+		Uncharacterized protein ylcG in lambdoid DLP12 prophage region
+REQ1_ECOLI	Q47274	ybcQ	b0551	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			Q47274	127	CDS	573179	573562	+		Antitermination protein Q homolog from lambdoid prophage DLP12
+INSH2_ECOLI	P0CE50	insH-2	b0552	A	MD12	2	2	"Insertion Sequence;Transposase"		del-MD12		Cytoplasmic			P0CE50	338	CDS	573960	574976	-	new id	Transposase insH for insertion sequence element IS5B
+NMPC_ECOLI	P21420	nmpC	b0553	H		2	0	pseudogene (Uniprot) 		del-MD12	"Cell membrane; Multi-pass membrane protein. "	Cytoplasmic	SEC	BAM	P21420	365	pseudogene	574981	576108	-		Putative outer membrane porin protein nmpC
+ESSD_ECOLI	P0A9R2	essD	b0554	B	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC		P0A9R2	71	CDS	576621	576836	+		Lysis protein S homolog from lambdoid prophage DLP12
+LYSD_ECOLI	P78285	ybcS	b0555	G	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC		P78285	165	CDS	576836	577333	+		Probable lysozyme from lambdoid prophage DLP12 (EC 3.2.1.17) (Endolysin) (Lysis protein) (Muramidase)
+RZPD_ECOLI	P75719	rzpD	b0556	G	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC		P75719	153	CDS	577330	577791	+		Putative Rz endopeptidase from lambdoid prophage DLP12 (EC 3.4.-.-)
+RZOD_ECOLI	P58041	rzoD	b4510	I	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC	LOL	P58041	60	CDS	577550	577732	+		Outer membrane lipoprotein Rz1 from lambdoid prophage DLP12
+BORD_ECOLI	P77330	borD	b0557	I	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC	LOL	P77330	97	CDS	577823	578116	-		Lipoprotein bor homolog from lambdoid prophage DLP12
+YBCV_ECOLI	P77598	ybcV	b0558	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P77598	136	CDS	578407	578817	-		Uncharacterized protein ybcV
+YBCW_ECOLI	P64435	ybcW	b0559	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P64435	68	CDS	579103	579309	+		Uncharacterized protein ybcW
+NOHB_ECOLI	P31062	nohB	b0560	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P31062	181	CDS	580057	580602	+		Prophage QSR' DNA-packaging protein NU1 homolog
+TFAD_ECOLI	P77699	tfaD	b0561	A		2	0	pseudogene (Uniprot)		del-MD12		Integral Membrane Protein			P77699	247	pseudogene	580757	581320	+		Putative tail fiber assembly protein homolog from lambdoid prophage DLP12
+YBCY_ECOLI	P77460	ybcY	b0562	A		2	0	pseudogene (Uniprot)		del-MD12	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P77460	194	CDS	581375	581959	-		Putative uncharacterized protein ybcY
+YLCE_ECOLI	P77087	ylcE	b0563	A		2	0	pseudogene (Uniprot)		del-MD12		Cytoplasmic			P77087	61	CDS	582098	582283	+		Putative uncharacterized protein ylcE
+APPY_ECOLI	P05052	appY	b0564	A	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-			P05052	249	CDS	582904	583653	+		HTH-type transcriptional regulator AppY (M5 polypeptide)
+OMPT_ECOLI	P09169	ompT	b0565	H	MD12	2	2	Prophage Integrase (EcoGene)		del-MD12		-	SEC	BAM	P09169	317	CDS	583903	584856	-		Protease 7 (EC 3.4.23.49) (Omptin) (Outer membrane protein 3B) (Protease A) (Protease VII)
+YBDG_ECOLI	P0AAT4	ybdG	b0577	B		0	0		Common Core	del-MD14	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P0AAT4	415	CDS	602639	603886	-	Localization: membrane protein Notes: mechanosensitive channel of miniconductance activity (MscM) Refs: (http://www.pnas.org/content/107/28/12664.long)	Uncharacterized protein ybdG
+NFNB_ECOLI	P38489	nfnB	b0578	A	MD14	0	2		Common Core	del-MD14		Cytoplasmic >EXP<	SEC		P38489	217	CDS	603994	604647	-	"Notes: Inner Membrane predicted (Bernsel 2009) ; function suggest otherwise Refs: (http://www.ncbi.nlm.nih.gov/pubmed/19766000)"	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) (Dihydropteridine reductase) (EC 1.5.1.34) (FMN-dependent nitroreductase)
+YBDF_ECOLI	P0AAT2	ybdF	b0579	A	MD14	0	2		Common Core	del-MD14	Periplasm. 	Periplasmic >EXP<			P0AAT2	122	CDS	604741	605109	-		Uncharacterized protein ybdF
+YBDJ_ECOLI	P77506	ybdJ	b0580	B	MD14	0	2			del-MD14	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P77506	82	CDS	605174	605422	-		Uncharacterized protein ybdJ
+CAAL_ECOLI	P77213	ybdK	b0581	A	MD14	0	2		Common Core	del-MD14		Cytoplasmic			P77213	372	CDS	605488	606606	-		Carboxylate-amine ligase ybdK (EC 6.3.-.-)
+HOKE_ECOLI	P77091	hokE	b4415	B	MD14	0	2			del-MD14		-	SEC		P77091	50	CDS	607059	607211	+	"Membrane; Single-pass membrane protein / hok/gef family"	Protein hokE
+INSL2_ECOLI	P0CF92	insL-2	b0582	A	MD14	2	2	"Insertion Sequence;Transposase"		del-MD14		Cytoplasmic			P0CF92	370	CDS	607288	608400	+	new id	Putative transposase InsL for insertion sequence element IS186B
+INSH3_ECOLI	P0CE51	insH-3	b0656	A		2	0	"Insertion Sequence;Transposase"		del-MD20		Cytoplasmic			P0CE51	338	CDS	687220	688236	-	new id	Transposase insH for insertion sequence element IS5D
+RHSC_ECOLI	P16918	rhsC	b0700	A	MD31	2	2	Rhs Element		del-MD31		-			P16918	1397	CDS	728806	732999	+		Protein rhsC
+YBFB_ECOLI	P0AAU5	ybfB	b0702	B	MD31	0	2			del-MD31		Cytoplasmic	SEC		P0AAU5	108	CDS	732999	733325	+		Uncharacterized protein ybfB
+YBFO_ECOLI	P77779	ybfO	b0703	A		2	0	"pseudogene (Uniprot);Rhs Element"		del-MD31		-			P77779	477	CDS	733443	734876	+		Putative uncharacterized protein ybfO
+YBFC_ECOLI	P28915	ybfC	b0704	G	MD31	0	2			del-MD31		Cytoplasmic	SEC		P28915	189	CDS	734873	735442	+		Uncharacterized protein ybfC
+YBFQ_ECOLI	Q2EEQ8	ybfQ	b4514	B		2	0	"pseudogene (Ecogene/Uniprot);Transposase"		del-MD31		Cytoplasmic	SEC		Q2EEQ8	84	CDS	735668	735922	+		Putative defective transposase ybfQ
+YBFL_ECOLI	P75741	ybfL	b0705	B		2	0	"Transposase;Rhs Element"		del-MD31	"Cell inner membrane; Peripheral membrane protein. "	-	SEC		P75741	378	pseudogene	736123	737184	+		Putative protein ybfL (H repeat-associated protein in rhsC-phrB intergenic region) (ORF-H2)
+YBFD_ECOLI	P28916	ybfD	b0706	B	MD31	2	2	"pseudogene (Ohman 2006);Transposase;Rhs Element"		del-MD31		Cytoplasmic	SEC		P28916	253	CDS	737315	738076	+		H repeat-associated protein ybfD (ORF-H3)
+ETK_ECOLI	P38134	yccC	b0981	B		0	0			del-MD35		Cytoplasmic	SEC		P38134	726	CDS	1041253	1043433	-		Tyrosine-protein kinase etk (EC 2.7.10.-)
+ETP_ECOLI	P0ACZ2	etp	b0982	A	MD35	0	2			del-MD35		Cytoplasmic			P0ACZ2	148	CDS	1043453	1043899	-		Low molecular weight protein-tyrosine-phosphatase etp (EC 3.1.3.48)
+GFCE_ECOLI	P0A932	yccZ	b0983	I	MD35	0	2			del-MD35	Periplasm. 	Periplasmic	SEC	LOL	P0A932	379	CDS	1043887	1045026	-		Putative polysaccharide export protein gfcE (Group 4 capsule protein E homolog)
+GFCD_ECOLI	P75882	ymcA	b0984	G	MD35	0	2			del-MD35		Cytoplasmic	SEC		P75882	698	CDS	1045072	1047168	-		Uncharacterized lipoprotein gfcD (Group 4 capsule protein D homolog)
+GFCC_ECOLI	P75883	ymcB	b0985	G	MD35	0	2			del-MD35		Cytoplasmic	SEC		P75883	248	CDS	1047168	1047914	-		Uncharacterized protein gfcC (Group 4 capsule protein C homolog)
+GFCB_ECOLI	P75884	ymcC	b0986	I	MD35	0	2			del-MD35		Periplasmic	SEC	LOL	P75884	214	CDS	1047911	1048555	-		Uncharacterized lipoprotein gfcB (Group 4 capsule protein B homolog)
+GFCA_ECOLI	P75885	ymcD	b0987	B	MD35	0	2			del-MD35		Cytoplasmic	SEC		P75885	101	CDS	1048662	1048967	-		Threonine-rich inner membrane protein gfcA (Group 4 capsule protein A homolog)
+INSA4_ECOLI	P0CF10	insA-4	b4516	A	MD35	2	2	Insertion Element 		del-MD35		Cytoplasmic			P0CF10	91	CDS	1049056	1049331	+	new id	Insertion element IS1 4 protein insA (IS1d)
+INSB4_ECOLI	P57998	insB-4	b0988	A	MD9	2	2	"Insertion Element ;Transposase"		del-MD35	"Cell inner membrane; Multi-pass membrane protein. "	-			P57998	167	CDS	1049250	1049753	+		Insertion element IS1 4 protein insB (IS1d)
+PGAD_ECOLI	P69432	ycdP	b1021	B		0	0			del-MD36	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P69432	137	CDS	1085329	1085742	-		Biofilm PGA synthesis protein PgaD
+PGAC_ECOLI	P75905	ycdQ	b1022	B	MD36	0	2			del-MD36	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P75905	441	CDS	1085744	1087069	-		Poly-beta-1,6-N-acetyl-D-glucosamine synthase (PGA synthase) (Poly-beta-1,6-GlcNAc synthase) (EC 2.4.1.-) (Biofilm PGA synthesis protein PgaC) (N-acetylglucosaminyltransferase PgaC)
+PGAB_ECOLI	P75906	ycdR	b1023	I	MD36	0	2			del-MD36	"Cell membrane; Lipid-anchor. "	Membrane Lipoprotein >EXP<	SEC	LOL	P75906	672	CDS	1087062	1089080	-		Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase (PGA N-deacetylase) (Poly-beta-1,6-GlcNAc N-deacetylase) (EC 3.5.1.-)
+PGAA_ECOLI	P69434	ycdS	b1024	H	MD36	0	2			del-MD36		Cytoplasmic	SEC	BAM	P69434	807	CDS	1089089	1091512	-		Poly-beta-1,6-N-acetyl-D-glucosamine export protein (PGA export protein) (Poly-beta-1,6-GlcNAc export protein)
+YCDT_ECOLI	P75908	ycdT	b1025	B	MD36	0	2			del-MD36		Cytoplasmic	SEC		P75908	452	CDS	1092099	1093457	+		Probable diguanylate cyclase YcdT (DGC) (EC 2.7.7.65)
+INSF4_ECOLI	P0CF82	insF-4	b1026	A	MD36	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"		del-MD36	Cytoplasmic	Cytoplasm. 			P0CF82	288	CDS	1093498	1094364	-	new id	Transposase insF for insertion sequence IS3D
+INSE4_ECOLI	P0CF69	insE-4	b1027	A	MD36	2	2	"Insertion Sequence;Transposase"		del-MD36	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0CF69	99	CDS	1094361	1094669	-	new id	Transposase insE for insertion sequence IS3D
+YMDE_ECOLI	Q7DFV4	ymdE	b1028	A		2	0	pseudogene (Uniprot)		del-MD36		-			Q7DFV4	107	pseudogene	1094767	1095069	+		Putative uncharacterized protein ymdE
+YCDU_ECOLI	P75910	ycdU	b1029	B	MD36	0	2			del-MD36		Cytoplasmic	SEC		P75910	328	CDS	1095066	1096052	+		Uncharacterized protein yrbN
+FLGN_ECOLI	P43533	flgN	b1070	A	MD26	0	2		Common Core	del-MD26		Cytoplasmic			P43533	138	CDS	1128637	1129053	-		Flagella synthesis protein flgN
+FLGM_ECOLI	P0AEM4	flgM	b1071	A	MD26	0	2			del-MD26		Cytoplasmic			P0AEM4	97	CDS	1129058	1129351	-		Negative regulator of flagellin synthesis (Anti-sigma-28 factor)
+FLGA_ECOLI	P75933	flgA	b1072	G	MD26	0	2			del-MD26		Cytoplasmic	SEC		P75933	219	CDS	1129427	1130086	-		Flagella basal body P-ring formation protein flgA
+FLGB_ECOLI	P0ABW9	flgB	b1073	G	MD26	0	2		Common Core	del-MD26		Cytoplasmic	T3S		P0ABW9	138	CDS	1130241	1130657	+		Flagellar basal-body rod protein flgB (Putative proximal rod protein)
+FLGC_ECOLI	P0ABX2	flgC	b1074	G	MD26	0	2		Common Core	del-MD26		-	T3S		P0ABX2	134	CDS	1130661	1131065	+		Flagellar basal-body rod protein flgC (Putative proximal rod protein)
+FLGD_ECOLI	P75936	flgD	b1075	F4	MD26	2	2	pseudogene (Ohman 2006) 		del-MD26		Cytoplasmic	SEC		P75936	231	CDS	1131077	1131772	+		Basal-body rod modification protein flgD
+FLGE_ECOLI	P75937	flgE	b1076	F4	MD26	0	2			del-MD26		Cytoplasmic	T3S		P75937	402	CDS	1131797	1133005	+		Flagellar hook protein flgE
+FLGF_ECOLI	P75938	flgF	b1077	G	MD26	0	2		Common Core	del-MD26		Cytoplasmic >EXP<	T3S		P75938	251	CDS	1133025	1133780	+	Notes: homolog to flgG	Flagellar basal-body rod protein flgF (Putative proximal rod protein)
+FLGG_ECOLI	P0ABX5	flgG	b1078	G	MD26	0	2		Common Core	del-MD26		Cytoplasmic	T3S		P0ABX5	260	CDS	1133952	1134734	+		Flagellar basal-body rod protein flgG (Distal rod protein)
+FLGH_ECOLI	P0A6S0	flgH	b1079	I	MD26	0	2		Common Core	del-MD26		Cytoplasmic	SEC	LOL	P0A6S0	232	CDS	1134787	1135485	+		Flagellar L-ring protein (Basal body L-ring protein)
+FLGI_ECOLI	P0A6S3	flgI	b1080	G	MD26	0	2			del-MD26		Cytoplasmic	T3S		P0A6S3	365	CDS	1135497	1136594	+		Flagellar P-ring protein (Basal body P-ring protein)
+FLGJ_ECOLI	P75942	flgJ	b1081	A	MD26	0	2		Common Core	del-MD26	"Cell inner membrane; Single-pass type I membrane protein. "	Membrane anchored			P75942	313	CDS	1136594	1137535	+		Peptidoglycan hydrolase flgJ (EC 3.2.1.-) (Muramidase flgJ)
+FLGK_ECOLI	P33235	flgK	b1082	F4	MD26	0	2		Common Core	del-MD26	"Cell outer membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<	T3S		P33235	547	CDS	1137601	1139244	+		Flagellar hook-associated protein 1 (HAP1)
+FLGL_ECOLI	P29744	flgL	b1083	F4	MD26	0	2		Common Core	del-MD26	"Cell inner membrane; Peripheral membrane protein. "	Membrane anchored	T3S		P29744	317	CDS	1139256	1140209	+		Flagellar hook-associated protein 3 (HAP3) (Hook-filament junction protein)
+YMFD_ECOLI	P75967	ymfD	b1137	A		2	0	Prophage Integrase (EcoGene)		del-MD11		Cytoplasmic			P75967	221	CDS	1196090	1196755	-		Uncharacterized protein ymfD
+YMFE_ECOLI	P75968	ymfE	b1138	B	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11	"Cell inner membrane; Multi-pass membrane protein. "	Cytoplasmic	SEC		P75968	234	CDS	1196756	1197460	-		Uncharacterized protein ymfE
+LIT_ECOLI	P11072	lit	b1139	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P11072	297	CDS	1197918	1198811	+		Bacteriophage T4 late gene expression-blocking protein (GpLit)
+INTE_ECOLI	P75969	intE	b1140	A	MD11	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD11		-			P75969	375	CDS	1198902	1200029	-		Prophage lambda integrase (Int(Lambda)) (Prophage e14 integrase)
+VXIS_ECOLI	P75970	ymfG	b1141	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11	Cell inner membrane. 	-			P75970	81	CDS	1200010	1200255	-		Excisionase-like protein from lambdoid prophage 14
+Y1142_ECOLI	P75971	ymfH	b1142	B		2	0	pseudogene (Ecogene/Uniprot)		del-MD11		Cytoplasmic	SEC		P75971	103	CDS	1200292	1200603	-		Putative uncharacterized protein b1142
+YMFI_ECOLI	P75972	ymfI	b1143	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11	"Membrane; Single-pass membrane protein. "	-			P75972	113	CDS	1200720	1201061	+		Uncharacterized protein ymfI
+YMFJ_ECOLI	P75973	ymfJ	b1144	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P75973	102	CDS	1200999	1201307	-		Uncharacterized protein ymfJ
+YMFK_ECOLI	P75974	ymfK	b1145	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P75974	224	CDS	1201482	1202156	-		Putative lambdoid prophage e14 repressor protein C2
+YMFT_ECOLI	P75975	ymfT	b1146	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		Integral Membrane Protein			P75975	66	CDS	1202247	1202447	+		Uncharacterized protein ymfT
+YMFL_ECOLI	P75976	ymfL	b1147	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P75976	185	CDS	1202479	1203048	+		Uncharacterized protein ymfL
+YMFM_ECOLI	P75977	ymfM	b1148	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11	Periplasm. 	-			P75977	112	CDS	1203045	1203383	+		Uncharacterized protein ymfM
+YMFN_ECOLI	P75978	ymfN	b1149	A		2	0	pseudogene (Uniprot) 		del-MD11		Integral Membrane Protein			P75978	455	CDS	1203393	1204760	+		Uncharacterized protein ymfN
+YMFR_ECOLI	P75979	ymfR	b1150	B	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-	SEC		P75979	60	CDS	1204772	1204954	+		Uncharacterized protein ymfR
+YMFO_ECOLI	P75980	ymfO	b1151	A		2	0	pseudogene (Uniprot)		del-MD11		-			P75980	157	CDS	1204954	1205427	+		Putative uncharacterized protein ymfO
+YMFP_ECOLI	P75981	ymfP	b1152	A		2	0	pseudogene (Uniprot)		del-MD11		-			P75981	263	CDS	1205483	1206145	+		Putative protein ymfP (Uncharacterized protein ymfP in lambdoid prophage e14 region)
+YMFQ_ECOLI	P75982	ymfQ	b1153	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P75982	194	CDS	1206136	1206720	+		Uncharacterized protein ymfQ in lambdoid prophage e14 region
+YCFK_ECOLI	P45581	ycfK	b1154	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P45581	209	CDS	1206724	1207353	+		Uncharacterized protein ycfK
+YMFS_ECOLI	P09154	ymfS	b1155	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P09154	137	CDS	1207355	1207768	+		Uncharacterized protein ymfS
+TFAE_ECOLI	P09153	tfaE	b1156	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P09153	200	CDS	1207740	1208342	-		Tail fiber assembly protein homolog from lambdoid prophage e14
+STFE_ECOLI	P33227	stfE	b1157	A		2	0	pseudogene (Uniprot)		del-MD11		-			P33227	166	pseudogene	1208342	1208878	-		Putative protein stfE (Side tail fiber protein homolog from lambdoid prophage e14) (Fragment)
+PINE_ECOLI	P03014	pin	b1158	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P03014	184	CDS	1208908	1209462	+		DNA-invertase from lambdoid prophage e14
+MCRA_ECOLI	P24200	mcrA	b1159	A	MD11	2	2	Prophage Integrase (EcoGene)		del-MD11		-			P24200	277	CDS	1209569	1210402	+		5-methylcytosine-specific restriction enzyme A (EC 3.1.21.-) (EcoKMcrA)
+IDH_ECOLI	P08200	icdC	b1136	B		0	0		Common Core	del-MD11	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P08200	416	pseudogene	1210648	1210800	+		Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)
+IRAM_ECOLI	P75987	elbA	b1160	A	MD11	0	2			del-MD11		Cytoplasmic			P75987	107	CDS	1210903	1211226	-		Anti-adapter protein iraM (Enhancing lycopene biosynthesis protein 1)
+YCGX_ECOLI	P75988	ycgX	b1161	A	MD11	0	2			del-MD11		Cytoplasmic			P75988	134	CDS	1211926	1212330	-		Uncharacterized protein ycgX
+YCGE_ECOLI	P75989	ycgE	b1162	A	MD11	0	2			del-MD11	"Cell inner membrane; Multi-pass membrane protein. "	Membrane Lipoprotein			P75989	243	CDS	1212551	1213282	-		HTH-type transcriptional repressor YcgE
+YCGF_ECOLI	P75990	ycgF	b1163	A	MD11	0	2			del-MD11	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P75990	403	CDS	1213487	1214698	-		Blue light- and temperature-regulated antirepressor YcgF (Blrp)
+YCGZ_ECOLI	P75991	ycgZ	b1164	A	MD11	0	2			del-MD11	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P75991	78	CDS	1215012	1215248	+		Probable two-component-system connector protein YcgZ
+YMGA_ECOLI	P75992	ymgA	b1165	A	MD11	0	2			del-MD11		Cytoplasmic			P75992	90	CDS	1215291	1215563	+		Probable two-component-system connector protein YmgA
+ARIR_ECOLI	P75993	ymgB	b1166	A	MD11	0	2			del-MD11		Cytoplasmic			P75993	88	CDS	1215592	1215858	+		Probable two-component-system connector protein AriR
+YMGC_ECOLI	P75994	ymgC	b1167	A	MD11	0	2			del-MD11		Cytoplasmic			P75994	82	CDS	1215971	1216219	+		Uncharacterized protein YmgC
+YCGG_ECOLI	P75995	ycgG	b1168	A	MD11	0	2			del-MD11		Cytoplasmic	SEC		P75995	507	CDS	1216551	1218074	+	notes: Bernsel Theoretical but no predictions	Uncharacterized protein YcgG
+YMGF_ECOLI	P58034	ymgF	b4520	B	MD11	0	2			del-MD11	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P58034	72	CDS	1218206	1218424	+		Uncharacterized protein ymgF
+YMGD_ECOLI	P0AB46	ymgD	b1171	G	MD11	0	2			del-MD11	Cytoplasm. 	-	SEC		P0AB46	109	CDS	1221528	1221857	-		Uncharacterized protein ymgD
+YMGG_ECOLI	Q7DFV3	ymgG	b1172	B	MD11	0	2			del-MD11	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		Q7DFV3	91	CDS	1221867	1222142	-	"localization: inner membrane protein (potential; could be also periplasmic but let's call it IM)  refs: (http://jb.asm.org/cgi/reprint/190/6/2065.pdf), (http://www3.interscience.wiley.com/cgi-bin/fulltext/116312285/PDFSTART) Belongs to the UPF0757 family."	UPF0757 protein ymgG
+AEEP_ECOLI	P51981	ycjG	b1325	B	MD21	0	2		Common Core	del-MD21	"Cell inner membrane; Single-pass type II membrane protein. "	Membrane anchored	SEC		P51981	321	CDS	1386954	1387919	+		L-Ala-D/L-Glu epimerase (AE epimerase) (AEE) (EC 5.1.1.-)
+MPAA_ECOLI	P0ACV6	mpaA	b1326	A	MD21	0	2			del-MD21		Cytoplasmic			P0ACV6	242	CDS	1387894	1388682	-	"Notes: murein peptide amidase A; this is a cytoplasmic enzyme. Refs: Park 2008 (http://www.ncbi.nlm.nih.gov/pubmed/18535144);Uehara 2003 (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC145344/);Gevaert (http://www.ncbi.nlm.nih.gov/pubmed/12488465)"	Protein mpaA
+YMJC_ECOLI	Q2EER5	ymjC	b4525	A		2	0	pseudogene (Uniprot)		del-MD21		Cytoplasmic			Q2EER5	60	CDS	1388704	1388886	-		Putative uncharacterized protein ymjC
+YCJY_ECOLI	P76049	ycjY	b1327	A	MD21	0	2			del-MD21		Cytoplasmic			P76049	306	CDS	1388957	1389889	-		Uncharacterized protein ycjY
+YCJZ_ECOLI	P77333	ycjZ	b1328	B	MD21	0	2			del-MD21		Periplasmic	SEC		P77333	299	CDS	1390015	1390914	+		Uncharacterized HTH-type transcriptional regulator ycjZ
+MPPA_ECOLI	P77348	mppA	b1329	G	MD21	0	2			del-MD21		Cytoplasmic	SEC		P77348	537	CDS	1391251	1392864	+		Periplasmic murein peptide-binding protein
+YNAI_ECOLI	P0AEB5	ynaI	b1330	B	MD21	0	2		Common Core	del-MD21	Cytoplasm. 	Cytoplasmic	SEC		P0AEB5	343	CDS	1392915	1393946	-		MscS family inner membrane protein ynaI
+INSH4_ECOLI	P0CE52	insH-4	b1331	A	MD20	2	2	"Insertion Sequence;Transposase"		del-MD21		Cytoplasmic			P0CE52	338	CDS	1394100	1395116	+	new id	Transposase insH for insertion sequence element IS5F
+YNAJ_ECOLI	P64445	ynaJ	b1332	B	MD21	0	2		Common Core	del-MD21	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P64445	85	CDS	1395389	1395646	+		Uncharacterized protein ynaJ
+USPE_ECOLI	P0AAC0	uspE	b1333	A		0	0		Common Core	del-MD21	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0AAC0	316	CDS	1395696	1396646	-		Universal stress protein E
+ABGT_ECOLI	P46133	abgT	b1336	B		0	0			del-MD2		Cytoplasmic	SEC		P46133	508	CDS	1398271	1399797	-		Aminobenzoyl-glutamate transport protein
+ABGB_ECOLI	P76052	abgB	b1337	A	MD2	0	2			del-MD2		Cytoplasmic			P76052	481	CDS	1399834	1401279	-		Aminobenzoyl-glutamate utilization protein B
+ABGA_ECOLI	P77357	abgA	b1338	A	MD2	0	2			del-MD2	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P77357	436	CDS	1401279	1402589	-		Aminobenzoyl-glutamate utilization protein A
+ABGR_ECOLI	P77744	abgR	b1339	A	MD2	0	2			del-MD2		Cytoplasmic			P77744	302	CDS	1402765	1403673	+		HTH-type transcriptional regulator AbgR
+YDAL_ECOLI	P76053	ydaL	b1340	A	MD2	0	2		Common Core	del-MD2	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P76053	187	CDS	1404003	1404566	+		Uncharacterized protein ydaL
+YDAM_ECOLI	P77302	ydaM	b1341	A	MD2	0	2			del-MD2		Cytoplasmic			P77302	410	CDS	1404587	1405819	-		Probable diguanylate cyclase YdaM (DGC) (EC 2.7.7.65)
+ZNTB_ECOLI	P64423	ydaN	b1342	B	MD2	0	2		Common Core	del-MD2	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P64423	327	CDS	1406074	1407057	+		Zinc transport protein zntB
+DBPA_ECOLI	P21693	dbpA	b1343	A	MD2	0	2		Common Core	del-MD2		Cytoplasmic			P21693	457	CDS	1407535	1408908	+	Notes: ribosome	ATP-independent RNA helicase dbpA (EC 3.6.4.13)
+TTCA_ECOLI	P76055	ydaO	b1344	A	MD2	0	2		Common Core	del-MD2	Cytoplasm. 	Cytoplasmic			P76055	311	CDS	1409037	1409972	-		tRNA 2-thiocytidine biosynthesis protein TtcA
+INTR_ECOLI	P76056	intR	b1345	A	MD2	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD2		-			P76056	411	CDS	1410024	1411259	-		Putative lambdoid prophage Rac integrase
+YDAQ_ECOLI	P76057	ydaQ	b1346	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		Integral Membrane Protein >EXP<			P76057	71	CDS	1411261	1411476	-		Uncharacterized protein ydaQ
+YDAC_ECOLI	P33230	ydaC	b1347	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P33230	69	CDS	1411555	1411764	-		Uncharacterized protein ydaC
+LAR_ECOLI	P33229	lar	b1348	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P33229	64	CDS	1411757	1411951	-		Restriction alleviation and modification enhancement protein
+RECT_ECOLI	P33228	recT	b1349	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P33228	269	CDS	1412008	1412817	-		Protein recT (P33)
+RECE_ECOLI	P15032	recE	b1350	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P15032	866	CDS	1412810	1415410	-		Exodeoxyribonuclease 8 (EC 3.1.11.-) (Exodeoxyribonuclease VIII) (EXO VIII)
+RACC_ECOLI	P15033	racC	b1351	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P15033	91	CDS	1415512	1415787	-		Protein racC
+YDAE_ECOLI	P38394	ydaE	b4526	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P38394	56	CDS	1415862	1416032	-		Uncharacterized protein ydaE
+KIL_ECOLI	P38393	kil	b1352	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P38393	73	CDS	1416032	1416253	-		Protein kil
+SIEB_ECOLI	P38392	sieB	b1353	B	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-	SEC		P38392	162	CDS	1416695	1417183	+		Superinfection exclusion protein B
+YDAF_ECOLI	P0ACW0	ydaF	b4527	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P0ACW0	51	CDS	1417180	1417335	-		Uncharacterized protein ydaF
+YDAG_ECOLI	P76061	ydaG	b1355	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P76061	44	CDS	1417346	1417480	-		Uncharacterized protein ydaG
+RACR_ECOLI	P76062	racR	b1356	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		Cytoplasmic			P76062	158	CDS	1417789	1418265	-		Rac prophage repressor
+YDAS_ECOLI	P76063	ydaS	b1357	G	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-	SEC		P76063	98	CDS	1418389	1418685	+		Uncharacterized protein ydaS
+YDAT_ECOLI	P76064	ydaT	b1358	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2	"Cell inner membrane; Peripheral membrane protein. "	Cytoplasmic			P76064	140	CDS	1418708	1419130	+		Uncharacterized protein ydaT
+YDAU_ECOLI	P76065	ydaU	b1359	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P76065	285	CDS	1419143	1420000	+		Uncharacterized protein ydaU
+YDAV_ECOLI	P77546	ydaV	b1360	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		Cytoplasmic			P77546	248	CDS	1420007	1420753	+		Uncharacterized protein ydaV
+YDAW_ECOLI	P76066	ydaW	b1361	A		2	0	pseudogene (Uniprot) 		del-MD2		Cytoplasmic			P76066	203	CDS	1420776	1421336	+		Putative uncharacterized protein ydaW
+RZPR_ECOLI	P77551	rzpR	b1362	B		2	0	pseudogene (Uniprot)		del-MD2		Cytoplasmic	SEC		P77551	147	CDS	1421369	1421668	+		Putative Rz endopeptidase from lambdoid prophage Rac (EC 3.4.-.-) (Fragment)
+RZOR_ECOLI	P58042	rzoR	b4528	I	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2	Cytoplasm. 	-	SEC	LOL	P58042	61	CDS	1421424	1421609	+		Outer membrane lipoprotein Rz1 from lambdoid prophage Rac
+TRKG_ECOLI	P23849	trkG	b1363	B	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-	SEC		P23849	485	CDS	1421806	1423263	+		Trk system potassium uptake protein trkG
+YNAK_ECOLI	P76068	ynaK	b1365	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2	"Cytoplasm. Cell membrane; Peripheral membrane protein. "	-			P76068	87	CDS	1423401	1423664	+		Uncharacterized protein ynaK
+YDAY_ECOLI	P76069	ydaY	b1366	A		2	0	pseudogene (Uniprot)		del-MD2		-			P76069	119	CDS	1423645	1424004	+		Putative uncharacterized protein ydaY
+YNAA_ECOLI	P77658	ynaA	b1368	A		0	0			del-MD2	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P77658	342	CDS	1424478	1425506	+		Uncharacterized protein ygcH
+LOMR_ECOLI	P77184	lomR	b4570	A		2	0	"pseudogene (Uniprot);Insertion Sequence"		del-MD2	"Membrane; Multi-pass membrane protein. "	-			P77184	164	pseudogene	1425419	1427008	+		Putative protein lomR
+INSH5_ECOLI	P76071	insH-5	b1370	A		2	0	"Insertion Sequence;Transposase"		del-MD2	Fimbrium. 	Cytoplasmic			P76071	326	CDS	1425770	1426750	-		Transposase insH for insertion sequence element IS5Y
+STFR_ECOLI	P76072	stfR	b1372	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		Cytoplasmic			P76072	1120	CDS	1427073	1430435	+		Side tail fiber protein homolog from lambdoid prophage Rac
+TFAR_ECOLI	P77163	tfaR	b1373	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		Cytoplasmic			P77163	191	CDS	1430435	1431010	+		Tail fiber assembly protein homolog from lambdoid prophage Rac
+PINR_ECOLI	P0ADI0	pinR	b1374	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P0ADI0	196	CDS	1431108	1431698	-		Putative DNA-invertase from lambdoid prophage Rac
+YNAE_ECOLI	P76073	ynaE	b1375	A	MD2	2	2	Prophage Integrase (EcoGene)		del-MD2		-			P76073	88	CDS	1432015	1432281	-		Uncharacterized protein ynaE
+USPF_ECOLI	P37903	uspF	b1376	A	MD2	0	2		Common Core	del-MD2	Cytoplasm. 	Cytoplasmic			P37903	144	CDS	1433209	1433643	-		Universal stress protein F
+OMPN_ECOLI	P77747	ompN	b1377	H	MD2	0	2			del-MD2	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC	BAM	P77747	377	CDS	1433784	1434917	-		Outer membrane protein N (Porin ompN)
+NIFJ_ECOLI	P52647	ydbK	b1378	A	MD2	0	2		Common Core	del-MD2	Cytoplasm. 	Cytoplasmic			P52647	1174	CDS	1435284	1438808	-		Probable pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+YDBJ_ECOLI	P0ACW2	ydbJ	b4529	I	MD2	0	2			del-MD2	"Cell outer membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<	SEC	LOL	P0ACW2	88	CDS	1439082	1439348	+		Uncharacterized protein ydbJ
+HSLJ_ECOLI	P52644	hslJ	b1379	I	MD2	0	2			del-MD2		Cytoplasmic	SEC	LOL	P52644	140	CDS	1439345	1439767	-		Heat shock protein hslJ
+LDHD_ECOLI	P52643	ldhA	b1380	A	MD2	0	2		Common Core	del-MD2	Cytoplasm. 	Cytoplasmic			P52643	329	CDS	1439878	1440867	-		D-lactate dehydrogenase (D-LDH) (EC 1.1.1.28) (Fermentative lactate dehydrogenase)
+YDBH_ECOLI	P52645	ydbH	b1381	B	MD2	0	2		Common Core	del-MD2	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P52645	879	CDS	1441075	1443714	+	Notes: Echolocation says Signal peptide may be membrane anchored or cleaved and the protein therefore exported (signalP score near threshold). BOMP reliability scores are below 2 and so this is unlikely to be an OMP.	Uncharacterized protein ydbH
+YNBE_ECOLI	P64448	ynbE	b1382	I	MD2	0	2			del-MD2		Cytoplasmic	SEC	LOL	P64448	61	CDS	1443711	1443896	+		Uncharacterized protein ynbE
+YDBL_ECOLI	P76076	ydbL	b1383	G	MD2	0	2			del-MD2		Cytoplasmic	SEC		P76076	108	CDS	1443904	1444230	+		Uncharacterized protein ydbL
+FEAR_ECOLI	Q47129	feaR	b1384	A	MD2	0	2			del-MD2	Periplasm. 	-			Q47129	301	CDS	1444402	1445307	-		Transcriptional activator feaR
+FEAB_ECOLI	P80668	feaB	b1385	A	MD2	0	2			del-MD2		Cytoplasmic			P80668	499	CDS	1445543	1447042	+		Phenylacetaldehyde dehydrogenase (PAD) (EC 1.2.1.39)
+AMO_ECOLI	P46883	tynA	b1386	G	MD2	0	2			del-MD2		-	SEC		P46883	757	CDS	1447100	1449373	-		Glutamate/aspartate transport ATP-binding protein gltL
+MAOC_ECOLI	P77455	maoC	b1387	B	MD2	0	2			del-MD2	Periplasm. 	Periplasmic	SEC		P77455	681	CDS	1449621	1451666	-		Uncharacterized protein ycdU
+PAAA_ECOLI	P76077	paaA	b1388	A	MD2	0	2			del-MD2		-			P76077	309	CDS	1451951	1452880	+		Molybdate-binding periplasmic protein
+PAAB_ECOLI	P76078	paaB	b1389	A	MD2	0	2			del-MD2	"Cell inner membrane; Peripheral membrane protein. "	Membrane Anchored >EXP<			P76078	95	CDS	1452892	1453179	+		Ferrichrome-iron receptor (Ferric hydroxamate receptor) (Ferric hydroxamate uptake)
+PAAC_ECOLI	P76079	paaC	b1390	A	MD2	0	2			del-MD2		Cytoplasmic			P76079	248	CDS	1453188	1453934	+		Outer membrane protein C (Outer membrane protein 1B) (Porin ompC)
+PAAD_ECOLI	P76080	paaD	b1391	A	MD2	0	2			del-MD2		Cytoplasmic			P76080	165	CDS	1453949	1454446	+		Entericidin A
+PAAE_ECOLI	P76081	paaE	b1392	A	MD2	0	2			del-MD2		-			P76081	356	CDS	1454454	1455524	+		Protein sufA
+PAAF_ECOLI	P76082	paaF	b1393	A	MD2	0	2			del-MD2		Outer membrane Lipoprotein			P76082	255	CDS	1455521	1456288	+		Probable enoyl-CoA hydratase paaF (EC 4.2.1.17)
+PAAG_ECOLI	P77467	paaG	b1394	A	MD2	0	2			del-MD2		Cytoplasmic			P77467	262	CDS	1456288	1457076	+		Transcriptional regulator lsrR
+PAAH_ECOLI	P76083	paaH	b1395	B	MD2	0	2			del-MD2	"Cell outer membrane; Multi-pass membrane protein. "	Outer Membrane &#223-barrel protein	SEC		P76083	475	CDS	1457078	1458505	+		Crotonobetainyl-CoA:carnitine CoA-transferase (EC 2.8.3.-)
+PAAI_ECOLI	P76084	paaI	b1396	A	MD2	0	2			del-MD2		Cytoplasmic			P76084	140	CDS	1458495	1458917	+		Transcriptional repressor rcnR
+PAAJ_ECOLI	P0C7L2	paaJ	b1397	A	MD2	0	2			del-MD2		Cytoplasmic			P0C7L2	401	CDS	1458917	1460122	+		Uncharacterized protein yefG (GalF transferase)
+PAAK_ECOLI	P76085	paaK	b1398	A	MD2	0	2			del-MD2		Cytoplasmic			P76085	437	CDS	1460149	1461462	+		Lipopolysaccharide 1,2-N-acetylglucosaminetransferase (EC 2.4.1.56)
+PAAX_ECOLI	P76086	paaX	b1399	A	MD2	0	2			del-MD2		Cytoplasmic			P76086	316	CDS	1461563	1462513	+		Small toxic protein shoB
+PAAY_ECOLI	P77181	paaY	b1400	A	MD2	0	2			del-MD2		Cytoplasmic			P77181	196	CDS	1462495	1463085	+		Uncharacterized protein yjfZ
+YDBA_ECOLI	P33666	ydbA	b4492	H		0	0			del-MD2	"Membrane; Single-pass membrane protein. "	Periplasmic	SEC	T5S	P33666	2003	pseudogene	1463416	1472037	+	autotransporter	Uncharacterized outer membrane protein ypjA
+INSD2_ECOLI	P0CF54	insD-2	b1402	A		2	0	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD2	Cytoplasm. 	Cytoplasmic			P0CF54	301	CDS	1465945	1466850	-	new id	Transposase insD for insertion element IS2D
+INSC2_ECOLI	P0CF41	insC-2	b1403	A		2	0	"Insertion Sequence;Insertion Element ;Transposase"		del-MD2	"Cell inner membrane; Multi-pass membrane protein. "	Cytoplasmic			P0CF41	121	CDS	1466808	1467218	-	new id	Transposase insC for insertion element IS2D
+INSI3_ECOLI	P0CF89	insI-2	b1404	A	MD2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD2		Cytoplasmic			P0CF89	383	CDS	1467382	1468533	+	new id	Transposase InsI for insertion sequence element IS30C
+YDBC_ECOLI	P25906	ydbC	b1406	A	MD2	0	2			del-MD2		Cytoplasmic			P25906	286	CDS	1472245	1473105	+		Beta-ketoadipyl-CoA thiolase (EC 2.3.1.174) (3-oxoadipyl-CoA thiolase)
+YDBD_ECOLI	P25907	ydbD	b1407	G	MD2	0	2			del-MD2	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P25907	768	CDS	1473168	1475474	+		Uncharacterized protein ydbD
+YNBA_ECOLI	P76090	ynbA	b1408	B	MD2	0	2			del-MD2	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P76090	201	CDS	1475645	1476250	+		Inner membrane protein ynbA
+YNBB_ECOLI	P76091	ynbB	b1409	B	MD2	0	2			del-MD2		-	SEC		P76091	298	CDS	1476250	1477146	+		Uncharacterized protein ynbB
+YNBC_ECOLI	P76092	ynbC	b1410	A	MD2	0	2			del-MD2		Periplasmic			P76092	585	CDS	1477162	1478919	+		Uncharacterized protein ynbC
+YNBD_ECOLI	P76093	ynbD	b1411	B	MD2	0	2			del-MD2	"Cell membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<	SEC		P76093	430	CDS	1478933	1480225	+		Uncharacterized protein ynbD
+RHSE_ECOLI	P24211	rhsE	b1456	A		2	0	"pseudogene (Uniprot);Rhs Element"		del-MD32		-			P24211	682	CDS	1525914	1527962	+		Putative protein rhsE
+YDCD_ECOLI	P31991	ydcD	b1457	B	MD32	0	2			del-MD32		Cytoplasmic	SEC		P31991	160	CDS	1527946	1528428	+		Uncharacterized protein ydcD (ORF-E2)
+YNCI_ECOLI	P76119	yncI	b1458	B		2	0	"pseudogene (Uniprot);Transposase"		del-MD32		-	SEC		P76119	374	CDS	1528610	1529356	+		Putative transposase yncI
+YNCI_ECOLI	P76119	yncM	b1459	B		2	0	"pseudogene (Uniprot);Transposase"		del-MD32		-	SEC		P76119	374	CDS	1529400	1529600	+		Putative transposase yncI
+YDCC_ECOLI	P28917	ydcC	b1460	B	MD32	2	2	"Transposase;Rhs Element"		del-MD32		-	SEC		P28917	378	CDS	1529840	1530976	+		H repeat-associated protein ydcC (ORF-H)
+PPTA_ECOLI	P31992	ydcE	b1461	A	MD32	0	2			del-MD32	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P31992	77	CDS	1531076	1531309	+		Tautomerase pptA (EC 5.3.2.-)
+YDDH_ECOLI	P76121	yddH	b1462	A		0	0		Common Core	del-MD32		Cytoplasmic			P76121	189	CDS	1531306	1531875	-		Uncharacterized protein yddH
+YDFG_ECOLI	P39831	ydfG	b1539	A		0	0		Common Core	del-MD8		-			P39831	248	CDS	1625541	1626287	+		NADP-dependent L-serine/L-allo-threonine dehydrogenase ydfG (EC 1.1.1.-)
+YDFH_ECOLI	P0ACM2	ydfH	b1540	A	MD8	0	2		Common Core	del-MD8	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0ACM2	228	CDS	1626376	1627062	+		Uncharacterized HTH-type transcriptional regulator ydfH
+YDFZ_ECOLI	P64463	ydfZ	b1541	A	MD8	0	2			del-MD8	Cytoplasm. 	Cytoplasmic			P64463	67	CDS	1627239	1627442	+		Putative selenoprotein ydfZ
+YDFI_ECOLI	P77260	ydfI	b1542	A	MD8	0	2		Common Core	del-MD8	Cytoplasm. 	-			P77260	486	CDS	1627477	1628937	-		Uncharacterized oxidoreductase ydfI (EC 1.-.-.-)
+YDFJ_ECOLI	P77228	ydfJ	b1543	B		2	0	pseudogene (Uniprot)		del-MD8	"Cell outer membrane; Lipid-anchor. "	Integral Membrane Protein	SEC		P77228	427	CDS	1629026	1630309	-		Putative inner membrane metabolite transport protein ydfJ
+YDFK_ECOLI	P76154	ydfK	b1544	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P76154	88	CDS	1631063	1631329	+		Uncharacterized protein ydfK
+PINQ_ECOLI	P77170	pinQ	b1545	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P77170	196	CDS	1631646	1632236	+		Putative DNA-invertase from lambdoid prophage Qin
+TFAQ_ECOLI	P76155	tfaQ	b1546	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		Cytoplasmic			P76155	191	CDS	1632334	1632909	-		Tail fiber assembly protein homolog from lambdoid prophage Qin
+STFQ_ECOLI	P77515	stfQ	b1547	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		Cytoplasmic			P77515	320	CDS	1632909	1633871	-		Side tail fiber protein homolog from lambdoid prophage Qin
+NOHA_ECOLI	P31061	nohA	b1548	A		2	0	pseudogene (Uniprot)		del-MD8		-			P31061	189	CDS	1633822	1634391	-		Putative prophage Qin DNA-packaging protein NU1 homolog
+YNFO_ECOLI	Q2EES0	ynfO	b4533	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			Q2EES0	77	CDS	1634780	1635013	+		Uncharacterized protein ynfO from qin prophage
+YDFO_ECOLI	P76156	ydfO	b1549	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		Cytoplasmic			P76156	136	CDS	1635071	1635481	+		Uncharacterized protein ydfO
+GNSB_ECOLI	P77695	gnsB	b1550	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P77695	57	CDS	1635633	1635806	-		Protein gnsB
+YNFN_ECOLI	P76157	ynfN	b1551	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		Cytoplasmic			P76157	51	CDS	1635978	1636133	-		Uncharacterized protein ynfN
+CSPI_ECOLI	P0A986	cspI	b1552	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P0A986	70	CDS	1636479	1636691	-		Cold shock-like protein cspI (CPS-I)
+RZPQ_ECOLI	P76158	ydfP	b1553	G	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		Cytoplasmic	SEC		P76158	165	CDS	1637054	1637551	-		Uncharacterized protein rzpQ
+LYSQ_ECOLI	P76159	ydfQ	b1554	G	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-	SEC		P76159	177	CDS	1637548	1638081	-	Belongs to the glycosyl hydrolase 24 family. / Essential for lysis of bacterial cell wall, by showing cell wall hydrolyzing activity	Probable lysozyme from lambdoid prophage Qin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Muramidase)
+YDFR_ECOLI	P76160	ydfR	b1555	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P76160	103	CDS	1638078	1638389	-		Uncharacterized protein ydfR
+ESSQ_ECOLI	P77237	essQ	b1556	B	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8	"Cell inner membrane; Single-pass membrane protein. "	-	SEC		P77237	71	CDS	1638394	1638609	-		Lysis protein S homolog from lambdoid prophage Qin
+CSPB_ECOLI	P36995	cspB	b1557	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P36995	71	CDS	1639363	1639578	-		Cold shock-like protein cspB (CSP-B)
+CSPF_ECOLI	P0A976	cspF	b1558	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P0A976	70	CDS	1639879	1640091	+		Cold shock-like protein cspF (CSP-F)
+REQ2_ECOLI	P76161	ydfT	b1559	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P76161	250	CDS	1640513	1641265	-		Antitermination protein Q homolog from lambdoid prophage Qin
+YDFU_ECOLI	P76162	ydfU	b1560	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P76162	349	CDS	1641279	1642328	-		Uncharacterized protein ydfU
+REM_ECOLI	P07010	rem	b1561	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P07010	83	CDS	1642675	1642926	-		Uncharacterized protein rem
+HOKD_ECOLI	P0ACG6	hokD	b1562	G	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-	SEC		P0ACG6	51	CDS	1643143	1643298	-		Protein hokD (Protein relF)
+RELE_ECOLI	P0C077	relE	b1563	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P0C077	95	CDS	1643370	1643657	-		Toxin relE
+RELB_ECOLI	P0C079	relB	b1564	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P0C079	79	CDS	1643657	1643896	-		Antitoxin RelB
+YDFV_ECOLI	P76163	ydfV	b1565	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P76163	101	CDS	1643921	1644226	+		Uncharacterized protein ydfV
+FLXA_ECOLI	P77609	flxA	b1566	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P77609	110	CDS	1644429	1644761	+		Protein flxA
+YDFW_ECOLI	P76164	ydfW	b1567	A		2	0	pseudogene (Uniprot)		del-MD8		Cytoplasmic			P76164	75	CDS	1645198	1645347	-		Uncharacterized protein ydfW in Qin prophage region
+YDFX_ECOLI	P76165	ydfX	b1568	A		2	0	pseudogene (Uniprot)		del-MD8		Cytoplasmic			P76165	96	CDS	1645370	1645660	-		Uncharacterized protein ydfX
+DICC_ECOLI	P06965	dicC	b1569	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P06965	76	CDS	1645644	1645874	-		Repressor protein of division inhibition gene dicB
+DICA_ECOLI	P06966	dicA	b1570	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P06966	135	CDS	1645958	1646365	+		HTH-type transcriptional regulator dicA (Repressor protein of division inhibition gene dicA)
+YDFA_ECOLI	P0ACW8	ydfA	b1571	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P0ACW8	51	CDS	1646532	1646687	+		Uncharacterized protein ydfA
+YDFB_ECOLI	P29009	ydfB	b1572	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P29009	42	CDS	1646689	1646817	+		Uncharacterized protein ydfB
+YDFC_ECOLI	P21418	ydfC	b1573	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P21418	72	CDS	1646847	1647065	+		Uncharacterized protein ydfC
+DICB_ECOLI	P09557	dicB	b1575	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P09557	62	CDS	1647633	1647821	+		Division inhibition protein dicB
+YDFD_ECOLI	P29010	ydfD	b1576	A	MD8	2	2	Prophage Integrase (EcoGene)		del-MD8		-			P29010	63	CDS	1647818	1648009	+		Uncharacterized protein ydfD
+YDFE_ECOLI	Q47138	ydfE	b1577	A		0	0			del-MD8		Cytoplasmic			Q47138	255	CDS	1648102	1649022	+		Putative uncharacterized protein ydfE (ORF6) (Fragment)
+INSD8_ECOLI	P0CF60	insD-7	b1578	A	MD18	2	2	"pseudogene (Ecogene/Uniprot);Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD8		-			P0CF60	218	CDS	1648905	1649561	+	new id	Putative transposase insD for insertion element IS2E
+INTQ_ECOLI	P76168	intQ	b1579	A		2	0	"Rhs Element;Prophage Integrase"		del-MD8		-			P76168	385	CDS	1649536	1650732	+		Putative lambdoid prophage Qin defective integrase (Fragment)
+YEAJ_ECOLI	P76237	yeaJ	b1786	B		0	0			del-MD40		Cytoplasmic	SEC		P76237	496	CDS	1870065	1871555	+		Putative diguanylate cylase YeaJ (DGC) (EC 2.7.7.65)
+FLHE_ECOLI	P76297	flhE	b1878	G	MD27	0	2		Common Core	del-MD27		Cytoplasmic	SEC		P76297	130	CDS	1960604	1960996	-		Flagellar protein flhE
+FLHA_ECOLI	P76298	flhA	b1879	B	MD27	0	2			del-MD27		Cytoplasmic	SEC		P76298	692	CDS	1960996	1963074	-		Flagellar biosynthesis protein flhA
+FLHB_ECOLI	P76299	flhB	b1880	B	MD27	0	2			del-MD27	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P76299	382	CDS	1963067	1964215	-		Flagellar biosynthetic protein flhB
+CHEZ_ECOLI	P0A9H9	cheZ	b1881	A	MD27	0	2		Common Core	del-MD27	Cytoplasm. 	Cytoplasmic			P0A9H9	214	CDS	1964417	1965061	-		Protein phosphatase CheZ (EC 3.1.3.-) (Chemotaxis protein CheZ)
+CHEY_ECOLI	P0AE67	cheY	b1882	A	MD27	0	2			del-MD27		Periplasmic			P0AE67	129	CDS	1965072	1965461	-		Chemotaxis protein CheY
+CHEB_ECOLI	P07330	cheB	b1883	A	MD27	0	2		Common Core	del-MD27	Cytoplasm. 	Cytoplasmic			P07330	349	CDS	1965476	1966525	-		Chemotaxis response regulator protein-glutamate methylesterase (EC 3.1.1.61)
+CHER_ECOLI	P07364	cheR	b1884	A	MD27	0	2		Common Core	del-MD27	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P07364	286	CDS	1966528	1967388	-		Chemotaxis protein methyltransferase (EC 2.1.1.80)
+MCP4_ECOLI	P07018	tap	b1885	B	MD27	0	2			del-MD27		Cytoplasmic >EXP<	SEC		P07018	533	CDS	1967407	1969008	-		Methyl-accepting chemotaxis protein IV (MCP-IV) (Dipeptide chemoreceptor protein)
+MCP2_ECOLI	P07017	tar	b1886	B	MD27	0	2			del-MD27		Cytoplasmic	SEC		P07017	553	CDS	1969054	1970715	-		Methyl-accepting chemotaxis protein II (MCP-II) (Aspartate chemoreceptor protein)
+CHEW_ECOLI	P0A964	cheW	b1887	A	MD27	0	2			del-MD27		Cytoplasmic			P0A964	167	CDS	1970860	1971363	-		Chemotaxis protein CheW
+CHEA_ECOLI	P07363	cheA	b1888	A	MD27	0	2			del-MD27	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P07363	654	CDS	1971384	1973348	-	"Notes: Inner Membrane predicted (Bernsel 2009) ; function suggest otherwise Refs: (http://www.ncbi.nlm.nih.gov/pubmed/19766000)"	Chemotaxis protein CheA (EC 2.7.13.3)
+MOTB_ECOLI	P0AF06	motB	b1889	B	MD27	0	2		Common Core	del-MD27	"Cell inner membrane; Single-pass membrane protein. "	Membrane anchored	SEC		P0AF06	308	CDS	1973353	1974279	-		Motility protein B (Chemotaxis protein MotB)
+MOTA_ECOLI	P09348	motA	b1890	B	MD27	0	2		Common Core	del-MD27	Periplasm. 	Membrane anchored	SEC		P09348	295	CDS	1974276	1975163	-		Motility protein A (Chemotaxis protein MotA)
+FLHC_ECOLI	P0ABY7	flhC	b1891	A	MD27	0	2			del-MD27	Cytoplasm. 	Cytoplasmic			P0ABY7	192	CDS	1975290	1975868	-		Flagellar transcriptional activator flhC
+FLHD_ECOLI	P0A8S9	flhD	b1892	A	MD27	0	2			del-MD27	Cytoplasm. 	Cytoplasmic			P0A8S9	116	CDS	1975871	1976230	-		Transcriptional activator FlhD
+INSB5_ECOLI	P0CF28	insB-5	b1893	A	MD38	2	2	"Insertion Element ;Transposase"		del-MD27		Cytoplasmic			P0CF28	167	CDS	1976542	1977045	-	new id	Insertion element IS1 5 protein insB (IS1h)
+INSA5_ECOLI	P0CF11	insA-5	b1894	A	MD38	2	2	Insertion Element 		del-MD27		Cytoplasmic			P0CF11	91	CDS	1976964	1977239	-	new id	Insertion element IS1 5 protein insA (IS1h)
+YECC_ECOLI	P37774	yecC	b1917	F1		0	0			del-MD28		-			P37774	250	CDS	1995086	1995838	-		Uncharacterized amino-acid ABC transporter ATP-binding protein yecC
+YECS_ECOLI	P0AFT2	yecS	b1918	B	MD28	0	2			del-MD28		Cytoplasmic	SEC		P0AFT2	222	CDS	1995835	1996503	-		Inner membrane amino-acid ABC transporter permease protein yecS
+DCYD_ECOLI	P76316	yedO	b1919	A	MD28	0	2			del-MD28	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P76316	328	CDS	1996518	1997504	-		D-cysteine desulfhydrase (EC 4.4.1.15)
+FLIY_ECOLI	P0AEM9	fliY	b1920	G	MD28	0	2			del-MD28		Cytoplasmic	SEC		P0AEM9	266	CDS	1997609	1998409	-		Cystine-binding periplasmic protein (CBP) (Protein fliY) (Sulfate starvation-induced protein 7) (SSI7)
+FLIZ_ECOLI	P52627	fliZ	b1921	A	MD28	2	2	Prophage Integrase		del-MD28	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P52627	183	CDS	1998497	1999048	-		Regulator of sigma S factor FliZ
+FLIA_ECOLI	P0AEM6	fliA	b1922	A	MD28	0	2			del-MD28		Cytoplasmic			P0AEM6	239	CDS	1999094	1999813	-		RNA polymerase sigma factor for flagellar operon (Sigma-27) (Sigma-28) (Sigma-F factor)
+FLIC_ECOLI	P04949	fliC	b1923	F4	MD28	0	2			del-MD28		Cytoplasmic	T3S		P04949	498	CDS	2000134	2001630	-		Flagellin
+FLID_ECOLI	P24216	fliD	b1924	F4	MD28	0	2			del-MD28		Cytoplasmic	T3S		P24216	468	CDS	2001896	2003302	+		Flagellar hook-associated protein 2 (HAP2) (Filament cap protein) (Flagellar cap protein)
+FLIS_ECOLI	P26608	fliS	b1925	A	MD28	0	2			del-MD28		Cytoplasmic			P26608	136	CDS	2003327	2003737	+		Flagellar protein fliS
+FLIT_ECOLI	P0ABY2	fliT	b1926	A	MD28	0	2			del-MD28	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0ABY2	121	CDS	2003737	2004102	+		Flagellar protein fliT
+AMY2_ECOLI	P26612	amyA	b1927	A	MD28	0	2			del-MD28	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P26612	495	CDS	2004180	2005667	+		Cytoplasmic alpha-amylase (EC 3.2.1.1) (1,4-alpha-D-glucan glucanohydrolase)
+YEDD_ECOLI	P31063	yedD	b1928	I	MD28	0	2			del-MD28		Cytoplasmic	SEC	LOL	P31063	137	CDS	2005701	2006114	-		Uncharacterized lipoprotein yedD
+YEDE_ECOLI	P31064	yedE	b1929	B	MD28	0	2			del-MD28		Periplasmic	SEC		P31064	401	CDS	2006301	2007506	+		UPF0394 inner membrane protein yedE
+YEDF_ECOLI	P0AA31	yedF	b1930	A	MD28	0	2			del-MD28	"Cell outer membrane; Multi-pass membrane protein. "	Outer Membrane &#223-barrel protein >EXP<			P0AA31	77	CDS	2007503	2007736	+		UPF0033 protein yedF
+YEDK_ECOLI	P76318	yedK	b1931	A	MD28	0	2			del-MD28		Cytoplasmic			P76318	222	CDS	2007845	2008513	+		Uncharacterized protein yedK
+YEDL_ECOLI	P76319	yedL	b1932	A	MD28	0	2			del-MD28	"Membrane; Single-pass membrane protein. "	Cytoplasmic			P76319	159	CDS	2008624	2009103	+		Uncharacterized N-acetyltransferase yedL (EC 2.3.1.-)
+YEDN_ECOLI	P76321	yedN	b4495	A		2	0	pseudogene (Uniprot)		del-MD28		Cytoplasmic			P76321	173	pseudogene	2009372	2009893	-		Putative uncharacterized protein yedN
+YEDM_ECOLI	P76322	yedM	b1935	A		0	0			del-MD28	"Cytoplasm. Cell inner membrane; Peripheral membrane protein; Cytoplasmic side. "	Cytoplasmic			P76322	116	CDS	2010025	2010375	-		Lipopolysaccharide core biosynthesis protein rfaS
+INTG_ECOLI	P76323	intG	b1936	A		2	0	"pseudogene (Uniprot);Rhs Element;Prophage Integrase"		del-MD28	"Membrane; Single-pass membrane protein. "	-			P76323	92	pseudogene	2010526	2010804	+		Putative lambdoid prophage defective integrase
+FLIE_ECOLI	P0A8T5	fliE	b1937	B	MD28	0	2			del-MD28		Cytoplasmic			P0A8T5	104	CDS	2010724	2011038	-	Localization: although it does not have any transmembrane regions it is located in the inner membrane plane as part of the flagellar basal body provides physical connection to the FlgB component of the rod. Refs: (http://www.ncbi.nlm.nih.gov/pubmed/10809679)	Flagellar hook-basal body complex protein fliE
+FLIF_ECOLI	P25798	fliF	b1938	B	MD28	0	2			del-MD28		Cytoplasmic	SEC		P25798	552	CDS	2011253	2012911	+		Flagellar M-ring protein
+FLIG_ECOLI	P0ABZ1	fliG	b1939	F1	MD28	0	2			del-MD28	Cytoplasm. 	Cytoplasmic			P0ABZ1	331	CDS	2012904	2013899	+	Notes: Flaggelar C-ring proteins - FliG, FliM, and FliN	Flagellar motor switch protein FliG
+FLIH_ECOLI	P31068	fliH	b1940	A	MD28	0	2			del-MD28		Cytoplasmic			P31068	228	CDS	2013892	2014578	+		Flagellar assembly protein fliH
+FLII_ECOLI	P52612	fliI	b1941	A	MD28	0	2			del-MD28	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P52612	457	CDS	2014578	2015951	+		Flagellum-specific ATP synthase (EC 3.6.3.14)
+FLIJ_ECOLI	P52613	fliJ	b1942	F1	MD28	0	2			del-MD28		Periplasmic			P52613	147	CDS	2015970	2016413	+		Flagellar fliJ protein
+FLIK_ECOLI	P52614	fliK	b1943	A	MD28	0	2			del-MD28		Periplasmic			P52614	375	CDS	2016410	2017537	+		Flagellar hook-length control protein
+FLIL_ECOLI	P0ABX8	fliL	b1944	F1	MD28	0	2			del-MD28		Cytoplasmic			P0ABX8	154	CDS	2017642	2018106	+		Flagellar protein FliL
+FLIM_ECOLI	P06974	fliM	b1945	F1	MD28	0	2			del-MD28	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P06974	334	CDS	2018111	2019115	+	Notes: Flaggelar C-ring proteins - FliG, FliM, and FliN	Flagellar motor switch protein FliM
+FLIN_ECOLI	P15070	fliN	b1946	F1	MD28	0	2			del-MD28		Cytoplasmic			P15070	137	CDS	2019112	2019525	+	Flaggelar C-ring proteins - FliG, FliM, and FliN	Flagellar motor switch protein FliN
+FLIO_ECOLI	P22586	fliO	b1947	B	MD28	0	2			del-MD28		Cytoplasmic	SEC		P22586	121	CDS	2019528	2019893	+		Flagellar protein fliO
+FLIP_ECOLI	P0AC05	fliP	b1948	B	MD28	0	2			del-MD28		Cytoplasmic	SEC		P0AC05	245	CDS	2019893	2020630	+		Flagellar biosynthetic protein fliP
+FLIQ_ECOLI	P0AC07	fliQ	b1949	B	MD28	0	2			del-MD28	Cytoplasm. 	-	SEC		P0AC07	89	CDS	2020640	2020909	+		Flagellar biosynthetic protein FliQ
+FLIR_ECOLI	P33135	fliR	b1950	B	MD28	0	2			del-MD28	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P33135	261	CDS	2020917	2021702	+		Flagellar biosynthetic protein fliR
+INSH6_ECOLI	P0CE53	insH-6	b1994	A	MD21	2	2	"Insertion Sequence;Transposase"		del-MD5	Cell outer membrane. 	Cytoplasmic			P0CE53	338	CDS	2064329	2065345	-	new id	Transposase insH for insertion sequence element IS5H
+YOEA_ECOLI	P76356	yoeA	b4582	H		2	0	pseudogene (Uniprot)		del-MD5		Cytoplasmic	SEC	BAM	P76356	167	pseudogene	2066659	2068498	+		Putative uncharacterized protein yoeA
+INSD3_ECOLI	P0CF55	insD-3	b1996	A		2	0	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD5	"Cell inner membrane; Multi-pass membrane protein. "	Cytoplasmic			P0CF55	301	CDS	2066976	2067881	-	new id	Transposase insD for insertion element IS2F
+INSC3_ECOLI	P0CF42	insC-3	b1997	A		2	0	"Insertion Sequence;Insertion Element ;Transposase"		del-MD5		-			P0CF42	121	CDS	2067839	2068249	-	new id	Transposase insC for insertion element IS2F
+YEEP_ECOLI	P76359	yeeP	b1999	A		2	0	pseudogene (Uniprot)		del-MD5		Cytoplasmic			P76359	236	pseudogene	2068810	2069235	+		Putative uncharacterized protein yeeP
+AG43_ECOLI	P39180	flu	b2000	H	MD5	2	2	Prophage Integrase (EcoGene)		del-MD5		Cytoplasmic	SEC	T5S	P39180	1039	CDS	2069563	2072682	+	autotransporter	"Antigen 43 (AG43) (Fluffing protein) [Cleaved into: Antigen 43 alpha chain; Antigen 43 beta chain]"
+YEER_ECOLI	P76361	yeeR	b2001	B	MD5	2	2	Prophage Integrase (EcoGene)		del-MD5		-	SEC		P76361	510	CDS	2072803	2074335	+		Inner membrane protein yeeR
+YEES_ECOLI	P76362	yeeS	b2002	A	MD5	2	2	"pseudogene (Ohman 2006) ; Prophage Integrase (EcoGene)"		del-MD5		Cytoplasmic			P76362	148	CDS	2074332	2074778	+		UPF0758 protein yeeS
+YEET_ECOLI	P64521	yeeT	b2003	A	MD5	2	2	Prophage Integrase (EcoGene)		del-MD5		-			P64521	73	CDS	2074841	2075062	+		Uncharacterized protein yeeT
+YEEU_ECOLI	P76364	yeeU	b2004	A	MD5	2	2	Prophage Integrase (EcoGene)		del-MD5		Cytoplasmic			P76364	122	CDS	2075136	2075504	+		Uncharacterized protein yeeU
+YEEV_ECOLI	P64524	yeeV	b2005	A	MD5	2	2	Prophage Integrase (EcoGene)		del-MD5		-			P64524	124	CDS	2075593	2075967	+		Uncharacterized protein yeeV
+YEEW_ECOLI	P64526	yeeW	b2006	A		2	0	pseudogene (Uniprot) 		del-MD5		Periplasmic			P64526	64	CDS	2075964	2076158	+		Putative uncharacterized protein yeeW
+YOEF_ECOLI	Q2EES3	yoeF	b4538	A		2	0	pseudogene (Uniprot)		del-MD5		Cytoplasmic			Q2EES3	118	CDS	2076599	2076955	+		Putative uncharacterized protein yoeF
+YEEX_ECOLI	P0A8M6	yeeX	b2007	A	MD5	0	2		Common Core	del-MD5		Cytoplasmic			P0A8M6	109	CDS	2077056	2077451	-		UPF0265 protein yeeX
+YEEA_ECOLI	P33011	yeeA	b2008	B	MD5	0	2		Common Core	del-MD5		Cytoplasmic	SEC		P33011	352	CDS	2077557	2078615	-		Inner membrane protein yeeA
+WBBL_ECOLI	P36667	wbbL	b4571	A		0	0			del-MD22	Periplasm. 	Periplasmic >EXP<			P36667	264	pseudogene	2099420	2101413	-		Small toxic protein ibsA
+INSH7_ECOLI	P0CE54	insH-7	b2030	A		2	0	"Insertion Sequence;Transposase"		del-MD22		Cytoplasmic			P0CE54	338	CDS	2099919	2100935	-	new id	Transposase insH for insertion sequence element IS5I
+YEFI_ECOLI	P37751	wbbK	b2032	F1	MD22	0	2			del-MD22		Periplasmic			P37751	372	CDS	2101415	2102533	-		Uncharacterized protein yefI
+WBBJ_ECOLI	P37750	wbbJ	b2033	A	MD22	0	2			del-MD22		Cytoplasmic			P37750	196	CDS	2102518	2103108	-		Putative lipopolysaccharide biosynthesis O-acetyl transferase wbbJ (EC 2.3.1.-)
+YEFG_ECOLI	P37749	wbbI	b2034	A	MD22	0	2			del-MD22		Cytoplasmic			P37749	330	CDS	2103089	2104081	-		L-fuculose phosphate aldolase (EC 4.1.2.17) (L-fuculose-1-phosphate aldolase)
+RFC_ECOLI	P37748	wbbH	b2035	B	MD22	0	2			del-MD22		Cytoplasmic	SEC		P37748	388	CDS	2104084	2105250	-		Uncharacterized protein yjjJ
+GLF_ECOLI	P37747	glf	b2036	B	MD22	0	2			del-MD22		Cytoplasmic	SEC		P37747	367	CDS	2105250	2106353	-		Uncharacterized permease yjhF
+RFBX_ECOLI	P37746	rfbX	b2037	B	MD22	0	2			del-MD22	Cytoplasm. 	Cytoplasmic	SEC		P37746	415	CDS	2106361	2107608	-		Uncharacterized protein yjiS
+RMLC_ECOLI	P37745	rfbC	b2038	A	MD22	0	2			del-MD22		Periplasmic			P37745	185	CDS	2107605	2108162	-		dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13) (Thymidine diphospho-4-keto-rhamnose 3,5-epimerase) (dTDP-4-keto-6-deoxyglucose 3,5-epimerase) (dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase) (dTDP-L-rhamnose synthase)
+RMLA1_ECOLI	P37744	rfbA	b2039	B	MD22	0	2			del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P37744	293	CDS	2108162	2109043	-		Glucose-1-phosphate thymidylyltransferase 1 (G1P-TT 1) (EC 2.7.7.24) (dTDP-glucose pyrophosphorylase 1) (dTDP-glucose synthase 1)
+RMLD_ECOLI	P37760	rfbD	b2040	A	MD22	0	2			del-MD22		Periplasmic			P37760	299	CDS	2109101	2110000	-		dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133) (dTDP-4-keto-L-rhamnose reductase) (dTDP-6-deoxy-L-lyxo-4-hexulose reductase) (dTDP-6-deoxy-L-mannose dehydrogenase) (dTDP-L-rhamnose synthase)
+RMLB1_ECOLI	P37759	rfbB	b2041	A	MD22	0	2			del-MD22		Periplasmic			P37759	361	CDS	2110000	2111085	-		dTDP-glucose 4,6-dehydratase 1 (EC 4.2.1.46)
+GALF_ECOLI	P0AAB6	galF	b2042	B	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Peripheral membrane protein. "	Cytoplasmic >EXP<	SEC		P0AAB6	297	CDS	2111458	2112351	-		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9) (Alpha-D-glucosyl-1-phosphate uridylyltransferase) (UDP-glucose pyrophosphorylase) (UDPGP) (Uridine diphosphoglucose pyrophosphorylase)
+WCAM_ECOLI	P71244	wcaM	b2043	G	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	TAT		P71244	464	CDS	2112526	2113920	-	Notes: TAT secretion system Refs: (http://www.jbc.org/content/282/11/8309.abstract)	Colanic acid biosynthesis protein wcaM
+WCAL_ECOLI	P71243	wcaL	b2044	A	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P71243	406	CDS	2113931	2115151	-		Putative colanic acid biosynthesis glycosyltransferase wcaL (EC 2.4.-.-)
+WCAK_ECOLI	P71242	wcaK	b2045	A	MD22	0	2		Common Core	del-MD22	Cytoplasm. 	Cytoplasmic			P71242	426	CDS	2115148	2116428	-		Colanic acid biosynthesis protein wcaK (EC 2.-.-.-)
+WZXC_ECOLI	P77377	wzxC	b2046	B	MD22	0	2		Common Core	del-MD22		-	SEC		P77377	492	CDS	2116704	2118182	-		Lipopolysaccharide biosynthesis protein wzxC
+WCAJ_ECOLI	P71241	wcaJ	b2047	B	MD22	0	2		Common Core	del-MD22	Cytoplasm. 	Cytoplasmic	SEC		P71241	464	CDS	2118184	2119578	-		Putative colanic biosynthesis UDP-glucose lipid carrier transferase
+MANB_ECOLI	P24175	cpsG	b2048	A	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P24175	456	CDS	2119633	2121003	-		Phosphomannomutase (PMM) (EC 5.4.2.8)
+MANC_ECOLI	P24174	cpsB	b2049	A	MD22	0	2		Common Core	del-MD22		Cytoplasmic			P24174	478	CDS	2121108	2122544	-		Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) (GDP-mannose pyrophosphorylase) (GMP) (GMPP)
+WCAI_ECOLI	P32057	wcaI	b2050	B	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P32057	407	CDS	2122547	2123770	-		Putative colanic acid biosynthesis glycosyl transferase wcaI
+NUDD_ECOLI	P32056	nudD	b2051	A	MD22	0	2		Common Core	del-MD22	"Cell outer membrane; Lipid-anchor. "	Cytoplasmic			P32056	159	CDS	2123767	2124246	-		GDP-mannose mannosyl hydrolase (GDPMH) (EC 3.6.1.-) (Colanic acid biosynthesis protein wcaH)
+FCL_ECOLI	P32055	fcl	b2052	A	MD22	0	2		Common Core	del-MD22	"Cell outer membrane; Lipid-anchor. "	-			P32055	321	CDS	2124249	2125214	-		GDP-L-fucose synthase (EC 1.1.1.271) (GDP-4-keto-6-deoxy-D-mannose-3,5-epimerase-4-reductase)
+GM4D_ECOLI	P0AC88	gmd	b2053	A	MD22	0	2		Common Core	del-MD22		Cytoplasmic			P0AC88	373	CDS	2125217	2126338	-		GDP-mannose 4,6-dehydratase (EC 4.2.1.47) (GDP-D-mannose dehydratase)
+WCAF_ECOLI	P0ACD2	wcaF	b2054	A	MD22	0	2		Common Core	del-MD22	Cytoplasm. 	-			P0ACD2	182	CDS	2126364	2126912	-		Putative colanic acid biosynthesis acetyltransferase wcaF (EC 2.3.1.-)
+WCAE_ECOLI	P71239	wcaE	b2055	A	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P71239	248	CDS	2126928	2127674	-		Putative colanic acid biosynthesis glycosyl transferase wcaE
+WCAD_ECOLI	P71238	wcaD	b2056	B	MD22	0	2			del-MD22		Cytoplasmic	SEC		P71238	405	CDS	2127685	2128902	-		Putative colanic acid polymerase
+WCAC_ECOLI	P71237	wcaC	b2057	A	MD22	0	2		Common Core	del-MD22	Cytoplasm. 	Cytoplasmic			P71237	405	CDS	2128877	2130094	-		Putative colanic acid biosynthesis glycosyl transferase wcaC
+WCAB_ECOLI	P0ACC9	wcaB	b2058	A	MD22	0	2		Common Core	del-MD22		Cytoplasmic			P0ACC9	162	CDS	2130091	2130579	-		Putative colanic acid biosynthesis acetyltransferase wcaB (EC 2.3.1.-)
+WCAA_ECOLI	P77414	wcaA	b2059	A	MD22	0	2		Common Core	del-MD22	Cytoplasm. 	Cytoplasmic			P77414	279	CDS	2130582	2131421	-		Putative colanic acid biosynthesis glycosyl transferase wcaA
+WZC_ECOLI	P76387	wzc	b2060	B	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	-	SEC		P76387	720	CDS	2131514	2133676	-		Tyrosine-protein kinase wzc (EC 2.7.10.-)
+WZB_ECOLI	P0AAB2	wzb	b2061	A	MD22	0	2		Common Core	del-MD22		Cytoplasmic			P0AAB2	147	CDS	2133679	2134122	-		Low molecular weight protein-tyrosine-phosphatase wzb (EC 3.1.3.48)
+WZA_ECOLI	P0A930	wza	b2062	I	MD22	0	2		Common Core	del-MD22	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC	LOL	P0A930	379	CDS	2134128	2135267	-	Localization: outer membrane but also lipoprotein Notes: has a helical structure that crosses membrane	Putative polysaccharide export protein wza
+YEGP_ECOLI	P76402	yegP	b2080	A	MD37	0	2		Common Core	del-MD37		Cytoplasmic			P76402	110	CDS	2163213	2163545	+		UPF0339 protein yegP
+YEGQ_ECOLI	P76403	yegQ	b2081	A	MD37	0	2		Common Core	del-MD37		Cytoplasmic			P76403	453	CDS	2163692	2165053	+		Uncharacterized protease yegQ (EC 3.4.-.-)
+OGRK_ECOLI	P37057	ogrK	b2082	A	MD37	2	2	Prophage Integrase (EcoGene)		del-MD37		-			P37057	72	CDS	2165326	2165544	-		Prophage P2 OGR protein
+YEGR_ECOLI	P76406	yegR	b2085	I	MD37	0	2		Common Core	del-MD37		Cytoplasmic	SEC	LOL	P76406	105	CDS	2166013	2166330	-		Uncharacterized protein yegR
+YEGS_ECOLI	P76407	yegS	b2086	A	MD37	0	2			del-MD37		Cytoplasmic			P76407	299	CDS	2166736	2167635	+		Lipid kinase yegS (EC 2.7.1.-)
+GATR_ECOLI	P36930	gatR	b4498	A		2	0	"pseudogene (Ecogene);Insertion Sequence"		del-MD37		Cytoplasmic			P36930	259	pseudogene	2167717	2169757	-		Galactitol utilization operon repressor
+INSE5_ECOLI	P0CF70	insE-5	b2088	A	MD37	2	2	"Insertion Sequence;Transposase"		del-MD37	"Cell inner membrane; Multi-pass membrane protein. "	Membrane anchored			P0CF70	99	CDS	2168251	2168559	+	new id	Transposase insE for insertion sequence IS3E
+INSF5_ECOLI	P0CF83	insF-5	b2089	A	MD37	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"		del-MD37		-			P0CF83	288	CDS	2168556	2169422	+	new id	Transposase insF for insertion sequence IS3E
+GATD_ECOLI	P0A9S3	gatD	b2091	B	MD37	0	2			del-MD37		Cytoplasmic	SEC		P0A9S3	346	CDS	2169857	2170897	-		Galactitol-1-phosphate 5-dehydrogenase (EC 1.1.1.251)
+PTKC_ECOLI	P69831	gatC	b2092	B	MD37	0	2			del-MD37		Cytoplasmic	SEC		P69831	451	CDS	2170945	2172300	-		Galactitol permease IIC component (EIIC-Gat) (PTS system galactitol-specific EIIC component)
+PTKB_ECOLI	P37188	gatB	b2093	F1	MD37	0	2			del-MD37		Integral Membrane Protein			P37188	94	CDS	2172304	2172588	-	Peripheral inner membrane cyto side but strong Signal Peptide prediction	Galactitol-specific phosphotransferase enzyme IIB component (EC 2.7.1.69) (EIIB-Gat) (PTS system galactitol-specific EIIB component)
+PTKA_ECOLI	P69828	gatA	b2094	F1	MD37	0	2			del-MD37		Cytoplasmic			P69828	150	CDS	2172619	2173071	-	Galactitol-specific phosphotransferase enzyme IIA componentlocation: peripheral inner membrane protein facing the cytoplasm (potential) notes: refs: 	Galactitol-specific phosphotransferase enzyme IIA component (EC 2.7.1.-) (EIIA-Gat) (PTS system galactitol-specific EIIA component)
+GATZ_ECOLI	P0C8J8	gatZ	b2095	A	MD37	0	2			del-MD37		Periplasmic			P0C8J8	420	CDS	2173081	2174343	-		D-tagatose-1,6-bisphosphate aldolase subunit gatZ
+GATY_ECOLI	P0C8J6	gatY	b2096	A	MD37	0	2			del-MD37	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0C8J6	284	CDS	2174372	2175226	-		D-tagatose-1,6-bisphosphate aldolase subunit gatY (TBPA) (TagBP aldolase) (EC 4.1.2.40) (D-tagatose-bisphosphate aldolase class II) (Tagatose-bisphosphate aldolase)
+YEJO_ECOLI	P33924	yejO	b2190	H		2	0	"pseudogene (Uniprot);Insertion Sequence;Insertion Element "		del-MD23	"Membrane; Single-pass membrane protein. "	-	SEC	T5S	P33924	863	CDS	2284412	2286922	-	autotransporter	Putative uncharacterized outer membrane protein yejO
+INSH8_ECOLI	P0CE55	insH-8	b2192	A	MD5	2	2	"Insertion Sequence;Transposase"		del-MD23		Cytoplasmic			P0CE55	338	CDS	2287087	2288103	-	new id	Transposase insH for insertion sequence element IS5K
+INTS_ECOLI	P37326	intS	b2349	A	MD7	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD7		-			P37326	385	CDS	2464567	2465724	+		Putative prophage CPS-53 integrase
+GTRA_ECOLI	P77682	yfdG	b2350	B	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7		-	SEC		P77682	120	CDS	2465877	2466239	+		Bactoprenol-linked glucose translocase homolog from prophage CPS-53
+GTRB_ECOLI	P77293	yfdH	b2351	B	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7	"Cell outer membrane; Lipid-anchor. "	-	SEC		P77293	306	CDS	2466236	2467156	+		Bactoprenol glucosyl transferase homolog from prophage CPS-53 (EC 2.4.1.-)
+YFDI_ECOLI	P76507	yfdI	b2352	B	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7		-	SEC		P76507	443	CDS	2467153	2468484	+		Uncharacterized protein yfdI
+TFAS_ECOLI	P77326	tfaS	b2353	A		2	0	pseudogene (Uniprot)		del-MD7		Periplasmic			P77326	114	pseudogene	2468825	2469127	+		Putative tail fiber assembly protein homolog from prophage CPS-53
+YFDK_ECOLI	P77656	yfdK	b2354	A	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7	"Cell inner membrane; Multi-pass membrane protein. "	-			P77656	146	CDS	2469099	2469539	-		Uncharacterized protein yfdK
+YFDL_ECOLI	P76508	yfdL	b2355	A		2	0	pseudogene (Uniprot)		del-MD7		Cytoplasmic			P76508	172	CDS	2469566	2470084	-		Putative uncharacterized protein yfdL
+YFDM_ECOLI	P76509	yfdM	b2356	A		2	0	pseudogene (Uniprot)		del-MD7		Cytoplasmic			P76509	91	CDS	2470134	2470409	-		Putative uncharacterized protein yfdM
+YFDN_ECOLI	P76510	yfdN	b2357	A	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7		Cytoplasmic			P76510	164	CDS	2470409	2470903	-		Uncharacterized protein yfdN
+YFDO_ECOLI	P0AD35	yfdO	b2358	A		2	0	pseudogene (Uniprot) 		del-MD7		Cytoplasmic			P0AD35	122	CDS	2470900	2471268	-		Putative uncharacterized protein yfdO
+YFDP_ECOLI	P76512	yfdP	b2359	A	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7		-			P76512	120	CDS	2471542	2471988	+		Uncharacterized protein yfdP
+YFDQ_ECOLI	P76513	yfdQ	b2360	A	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7		-			P76513	274	CDS	2472054	2472878	+		Uncharacterized protein yfdQ
+YFDR_ECOLI	P76514	yfdR	b2361	A	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7	"Membrane; Single-pass membrane protein. "	-			P76514	178	CDS	2473006	2473542	+		Uncharacterized protein yfdR
+YFDS_ECOLI	P76515	yfdS	b2362	A	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7	"Cell inner membrane; Multi-pass membrane protein. "	-			P76515	120	CDS	2473533	2473895	+		Uncharacterized protein yfdS
+YFDT_ECOLI	P76516	yfdT	b2363	A	MD7	2	2	Prophage Integrase (EcoGene)		del-MD7	Periplasm. 	-			P76516	101	CDS	2473895	2474200	+		Uncharacterized protein yfdT
+YPDJ_ECOLI	Q2EET0	ypdJ	b4545	A		2	0	pseudogene (Uniprot)		del-MD7		Cytoplasmic			Q2EET0	46	CDS	2474116	2474256	+		Putative uncharacterized protein ypdJ
+YFEO_ECOLI	P67729	yfeO	b2389	B		0	0			del-MD15		Cytoplasmic	SEC		P67729	418	CDS	2507652	2508908	+		Putative ion-transport protein yfeO
+YPEC_ECOLI	P64542	ypeC	b2390	G	MD15	0	2			del-MD15		Cytoplasmic	SEC		P64542	108	CDS	2509023	2509349	+		Uncharacterized protein ypeC
+MNTH_ECOLI	P0A769	mntH	b2392	B	MD15	0	2		Common Core	del-MD15	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P0A769	412	CDS	2509490	2510728	-		Manganese transport protein mntH
+NUPC_ECOLI	P0AFF2	nupC	b2393	B	MD15	0	2		Common Core	del-MD15	"Cell inner membrane; Peripheral membrane protein. "	Cytoplasmic	SEC		P0AFF2	400	CDS	2511064	2512266	+		Nucleoside permease nupC (Nucleoside-transport system protein nupC)
+INSL3_ECOLI	P0CF93	insL-3	b2394	A	MD15	2	2	"Insertion Sequence;Transposase"		del-MD15	"Membrane; Peripheral membrane protein. "	Integral Membrane Protein			P0CF93	370	CDS	2512353	2513465	+	(INSL3_ECOLI)	Putative transposase InsL for insertion sequence element IS186C
+YFEA_ECOLI	P23842	yfeA	b2395	B	MD15	0	2			del-MD15		Membrane anchored	SEC		P23842	729	CDS	2513665	2515854	-		Uncharacterized protein YfeA
+INTZ_ECOLI	P76542	intZ	b2442	A	MD3	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD3		-			P76542	402	CDS	2556793	2558088	+		Putative prophage CPZ-55 integrase
+YFFL_ECOLI	P76543	yffL	b2443	A	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3	Cytoplasm. 	-			P76543	213	CDS	2558279	2558920	+		Uncharacterized protein yffL
+YFFM_ECOLI	P76544	yffM	b2444	A	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3		-			P76544	81	CDS	2559390	2559635	+		Uncharacterized protein yffM
+YFFN_ECOLI	P76545	yffN	b2445	A	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3	Cell outer membrane. 	-			P76545	122	CDS	2559632	2560015	+		Uncharacterized protein yffN
+YFFO_ECOLI	P76546	yffO	b2446	A	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3		-			P76546	138	CDS	2560133	2560549	+		Uncharacterized protein yffO
+YFFP_ECOLI	P76547	yffP	b2447	A	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3	"Cell inner membrane; Multi-pass membrane protein. "	-			P76547	197	CDS	2560546	2561139	+		Uncharacterized protein yffP
+YFFQ_ECOLI	P76548	yffQ	b2448	G	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3		-	SEC		P76548	125	CDS	2561599	2561991	+		Uncharacterized protein yffQ
+YFFR_ECOLI	P76549	yffR	b2449	A	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3		-			P76549	130	CDS	2562002	2562394	+		Uncharacterized protein yffR
+YFFS_ECOLI	P76550	yffS	b2450	A	MD3	2	2	Prophage Integrase (EcoGene)		del-MD3	"Cell outer membrane; Lipid-anchor; Periplasmic side. "	-			P76550	269	CDS	2562515	2563354	+		Uncharacterized protein yffS
+INTA_ECOLI	P32053	intA	b2622	B	MD4	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"		del-MD4		-	SEC		P32053	413	CDS	2754181	2755422	+		Prophage CP4-57 integrase
+YFJH_ECOLI	P52123	yfjH	b2623	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4	"Cell membrane; Lipid-anchor. "	Cytoplasmic			P52123	318	CDS	2755666	2756622	-		Uncharacterized protein yfjH
+ALPA_ECOLI	P33997	alpA	b2624	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		-			P33997	70	CDS	2756666	2756878	+		Prophage CP4-57 regulatory protein AlpA
+YFJI_ECOLI	P52124	yfjI	b2625	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4	"Cell membrane; Multi-pass membrane protein. "	Cytoplasmic			P52124	469	CDS	2757007	2758416	+		Uncharacterized protein yfjI
+YFJJ_ECOLI	P52125	yfjJ	b2626	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Cytoplasmic			P52125	208	CDS	2758569	2759195	+		Uncharacterized protein yfjJ
+YFJK_ECOLI	P52126	yfjK	b2627	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		-			P52126	729	CDS	2759373	2761562	-		Uncharacterized protein yfjK
+YFJL_ECOLI	P52127	yfjL	b2628	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4	"Cell inner membrane; Single-pass membrane protein. "	-			P52127	538	CDS	2761559	2763175	-		Uncharacterized protein yfjL
+YFJM_ECOLI	P52128	yfjM	b2629	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Cytoplasmic			P52128	87	CDS	2763535	2763798	-		Uncharacterized protein yfjM
+YFJN_ECOLI	P52129	yfjN	b2630	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Cytoplasmic			P52129	357	CDS	2763940	2765013	+		Uncharacterized protein yfjN
+YFJO_ECOLI	P52130	yfjO	b2631	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		-			P52130	123	CDS	2765006	2765377	+		Uncharacterized protein yfjO
+YFJP_ECOLI	P52131	yfjP	b2632	F1	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Cytoplasmic			P52131	287	CDS	2765732	2766595	+	(YFJP_ECOLI)-http://nar.oxfordjournals.org/cgi/content/full/35/6/e37	Uncharacterized protein yfjP
+YFJQ_ECOLI	P52132	yfjQ	b2633	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4	Cytoplasm. 	Cytoplasmic			P52132	273	CDS	2766687	2767508	+		UPF0380 protein yfjQ
+YFJR_ECOLI	P52133	yfjR	b2634	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		-			P52133	233	CDS	2767725	2768426	+		Uncharacterized HTH-type transcriptional regulator yfjR
+YPJK_ECOLI	P52134	ypjK	b2635	B	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		-	SEC		P52134	78	CDS	2768467	2768703	+		Uncharacterized protein ypjK
+YFJS_ECOLI	O52982	yfjS	b2636	E	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Periplasmic	SEC	LOL	O52982	147	CDS	2768703	2769146	+		Uncharacterized lipoprotein yfjS
+YFJT_ECOLI	P52135	yfjT	b2637	G	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Membrane anchored	SEC		P52135	155	CDS	2769170	2769637	+		Uncharacterized protein yfjT
+YFJU_ECOLI	P0CF86	yfjU	b2638	A		2	0	pseudogene (Uniprot) 		del-MD4		-			P0CF86	51	CDS	2769862	2770176	-	new id	Putative arsenate reductase-like protein
+YFJV_ECOLI	P52137	ypjL	b2639	B		2	0	pseudogene (Uniprot) 		del-MD4		Cytoplasmic	SEC		P52137	338	CDS	2770189	2770707	-		Putative arsenical pump membrane protein (Fragment)
+YFJV_ECOLI	P52137	yfjV	b2640	B		2	0	pseudogene (Uniprot) 		del-MD4		Cytoplasmic	SEC		P52137	338	CDS	2770858	2771058	-		Putative arsenical pump membrane protein (Fragment)
+YFJV_ECOLI	P52137	ypjM	b2641	B		2	0	pseudogene (Uniprot) 		del-MD4		Cytoplasmic	SEC		P52137	338	pseudogene	2770998	2771180	-		Putative arsenical pump membrane protein (Fragment)
+YFJW_ECOLI	P52138	yfjW	b2642	B	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Cytoplasmic	SEC		P52138	567	CDS	2771340	2773043	+		Uncharacterized protein yfjW
+YFJX_ECOLI	P52139	yfjX	b2643	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		Cytoplasmic			P52139	152	CDS	2773941	2774399	+		Uncharacterized protein yfjX
+YFJY_ECOLI	P52140	yfjY	b2644	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P52140	160	CDS	2774408	2774890	+		UPF0758 protein yfjY
+YPJJ_ECOLI	P58033	ypjJ	b4548	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4	"Cell membrane; Multi-pass membrane protein. "	-			P58033	66	CDS	2774899	2775099	+		Uncharacterized protein ypjJ
+YFJZ_ECOLI	P52141	yfjZ	b2645	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4		-			P52141	105	CDS	2775137	2775454	+		Uncharacterized protein yfjZ
+YPJF_ECOLI	Q46953	ypjF	b2646	A	MD4	2	2	Prophage Integrase (EcoGene)		del-MD4	"Cell inner membrane; Multi-pass membrane protein. "	-			Q46953	109	CDS	2775475	2775804	+		Uncharacterized protein ypjF
+YPJA_ECOLI	P52143	ypjA	b2647	H	MD4	0	2			del-MD4		Cytoplasmic	SEC	T5S	P52143	1526	CDS	2776168	2780748	-	autotransporter	Uncharacterized outer membrane usher protein yhcD
+PINH_ECOLI	P76611	pinH	b2648	A		2	0	pseudogene (Uniprot)		del-MD4		Cytoplasmic			P76611	79	pseudogene	2781087	2781230	-		Putative DNA-invertase from prophage CP4-44 (Fragment)
+YPJB_ECOLI	P76612	ypjB	b2649	A		2	0	pseudogene (Ohman 2006)		del-MD4		Cytoplasmic			P76612	263	CDS	2781660	2782451	-		Uncharacterized protein ypjB
+YPJC_ECOLI	P76613	ypjC	b2650	A		0	0			del-MD4		-			P76613	160	CDS	2782551	2783033	-		Uncharacterized protein ygeI
+YGAQ_ECOLI	P76616	ygaQ	b2654	A		2	0	pseudogene (Uniprot)		del-MD4		Cytoplasmic			P76616	750	CDS	2784419	2784751	+		Putative uncharacterized protein ygaQ
+YGAQ_ECOLI	P76616	ygaR	b4462	A		2	0	pseudogene (Uniprot)		del-MD4		Cytoplasmic			P76616	750	CDS	2784770	2785456	+		Putative uncharacterized protein ygaQ
+YGAQ_ECOLI	P76616	yqaC	b2657	A		2	0	pseudogene (Uniprot)		del-MD4		Cytoplasmic			P76616	750	pseudogene	2785664	2786260	+		Putative uncharacterized protein ygaQ
+YGAQ_ECOLI	P76616	yqaD	b2658	A		2	0	pseudogene (Uniprot)		del-MD4		Cytoplasmic			P76616	750	CDS	2786399	2786671	+		Putative uncharacterized protein ygaQ
+CSID_ECOLI	P76621	ygaT	b2659	A	MD4	0	2			del-MD4		Periplasmic			P76621	325	CDS	2787007	2787984	+		Protein csiD
+YGAF_ECOLI	P37339	ygaF	b2660	B		0	0		Common Core	del-MD4		Cytoplasmic	SEC		P37339	422	CDS	2788004	2789272	+		Uncharacterized protein ygaF
+YGEK_ECOLI	Q46791	ygeL	b2856	A		2	0	pseudogene (Uniprot) 		del-MD18		Cytoplasmic			Q46791	210	CDS	2992959	2993114	-		Putative uncharacterized response regulatory protein ygeK
+YGEN_ECOLI	Q46793	ygeM	b2857	A		2	0	pseudogene (Uniprot)		del-MD18		Cytoplasmic			Q46793	235	CDS	2993336	2993767	-		Putative uncharacterized protein ygeN
+YGEN_ECOLI	Q46793	ygeN	b2858	A		2	0	pseudogene (Uniprot)		del-MD18		Cytoplasmic			Q46793	235	pseudogene	2993770	2994042	-		Putative uncharacterized protein ygeN
+YGEO_ECOLI	Q46795	ygeO	b2859	A		2	0	pseudogene (Uniprot)		del-MD18		Cytoplasmic			Q46795	132	CDS	2993984	2994409	-		Putative uncharacterized protein ygeO (Fragment)
+INSD4_ECOLI	P0CF56	insD-4	b2860	A	MD2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD18		-			P0CF56	301	CDS	2994394	2995299	-	new id	Transposase insD for insertion element IS2H
+INSC4_ECOLI	P0CF43	insC-4	b2861	A	MD2	2	2	"Insertion Sequence;Insertion Element ;Transposase"		del-MD18	"Cell inner membrane; Single-pass type II membrane protein. "	Membrane anchored			P0CF43	121	CDS	2995257	2995667	-	new id	Transposase insC for insertion element IS2H
+YGEP_ECOLI	Q46796	ygeP	b2862	A		0	0			del-MD18		Cytoplasmic			Q46796	99	CDS	2995711	2996010	-		Uncharacterized protein ybhH
+YGEQ_ECOLI	Q46797	ygeQ	b2863	G		2	0	pseudogene (Uniprot)		del-MD18		Cytoplasmic	SEC		Q46797	278	CDS	2996056	2996850	-		Putative uncharacterized protein ygeQ
+END1_ECOLI	P25736	endA	b2945	G	MD42	0	2			del-MD42		Cytoplasmic	SEC		P25736	235	CDS	3088369	3089076	+		Endonuclease-1 (EC 3.1.21.1) (Endonuclease I) (Endo I)
+YGHD_ECOLI	Q46832	yghD	b2968	B		0	0			del-MD10	Fimbrium. 	Periplasmic	SEC		Q46832	178	CDS	3108612	3109148	-		Putative general secretion pathway protein M-type yghD
+YGHE_ECOLI	Q46833	yghE	b2969	B		2	0	pseudogene (Uniprot) 		del-MD10		Cytoplasmic	SEC		Q46833	286	pseudogene	3109150	3110010	-		Putative general secretion pathway protein L-type yghE
+YGHF_ECOLI	Q46834	yghF	b2970	G		0	0			del-MD10	Cytoplasm. 	Cytoplasmic	SEC		Q46834	288	CDS	3110076	3110942	-	Belongs to the GSP C family. / potential periplasm	Putative general secretion pathway protein C-type yghF
+YGHG_ECOLI	Q46835	yghG	b2971	I	MD10	0	2			del-MD10		Membrane Lipoprotein	SEC	LOL	Q46835	136	CDS	3111089	3111499	-		Uncharacterized lipoprotein yghG
+PPPA_ECOLI	Q46836	pppA	b2972	B	MD10	0	2			del-MD10		Cytoplasmic	SEC		Q46836	269	CDS	3111565	3112374	-		Leader peptidase pppA
+ACFD_ECOLI	Q46837	yghJ	b4466	E	MD10	0	2			del-MD10	Periplasm. 	-	SEC	LOL	Q46837	1520	CDS	3112572	3117134	-		Putative lipoprotein AcfD homolog
+GLCA_ECOLI	Q46839	glcA	b2975	B	MD10	0	2			del-MD10	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		Q46839	560	CDS	3117619	3119301	-		Glycolate permease glcA
+MASZ_ECOLI	P37330	glcB	b2976	A	MD10	0	2			del-MD10		Cytoplasmic			P37330	723	CDS	3119656	3121827	-		Malate synthase G (MSG) (EC 2.3.3.9)
+GLCG_ECOLI	P0AEQ1	glcG	b2977	A	MD10	0	2			del-MD10		Periplasmic			P0AEQ1	134	CDS	3121849	3122253	-		Protein glcG
+GLCF_ECOLI	P52074	glcF	b4467	A	MD10	0	2			del-MD10	"Membrane; Single-pass membrane protein. "	-			P52074	407	CDS	3122258	3123481	-		Glycolate oxidase iron-sulfur subunit
+GLCE_ECOLI	P52073	glcE	b4468	A	MD10	0	2			del-MD10	Fimbrium. 	Periplasmic			P52073	350	CDS	3123492	3124544	-		Glycolate oxidase subunit glcE
+GLCD_ECOLI	P0AEP9	glcD	b2979	A	MD10	0	2			del-MD10		Cytoplasmic			P0AEP9	499	CDS	3124544	3126043	-		Glycolate oxidase subunit glcD
+GLCC_ECOLI	P0ACL5	glcC	b2980	A	MD10	0	2			del-MD10	Cytoplasm. 	-			P0ACL5	254	CDS	3126294	3127058	+		Glc operon transcriptional activator
+YGHO_ECOLI	Q46840	yghO	b2981	A		2	0	pseudogene (Uniprot) 		del-MD10		Cytoplasmic			Q46840	366	CDS	3127065	3128237	-		Putative uncharacterized protein yghO (Fragment)
+INSH9_ECOLI	P0CE56	insH-9	b2982	A	MD22	2	2	"Insertion Sequence;Transposase"		del-MD10		-			P0CE56	338	CDS	3128200	3129216	+	new id	Transposase insH for insertion sequence element IS5LO
+YGHQ_ECOLI	Q46841	yghQ	b2983	B	MD10	0	2			del-MD10		Cytoplasmic	SEC		Q46841	355	CDS	3129363	3130430	-		Inner membrane protein yghQ
+YGHR_ECOLI	P64572	yghR	b2984	B	MD10	0	2			del-MD10	"Membrane; Single-pass membrane protein. "	Outer membrane Lipoprotein >EXP<	SEC		P64572	252	CDS	3130476	3131234	-		Uncharacterized ATP-binding protein yghR
+YGHS_ECOLI	Q46843	yghS	b2985	B	MD10	0	2			del-MD10		Cytoplasmic	SEC		Q46843	237	CDS	3131266	3131979	-		Uncharacterized ATP-binding protein yghS
+YGHT_ECOLI	Q46844	yghT	b2986	B	MD10	0	2			del-MD10	Periplasm. 	Periplasmic >EXP<	SEC		Q46844	230	CDS	3132153	3132845	+		Uncharacterized ATP-binding protein yghT
+PITB_ECOLI	P43676	pitB	b2987	B	MD10	0	2			del-MD10	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P43676	499	CDS	3132894	3134393	-		Probable low-affinity inorganic phosphate transporter 2
+YQIC_ECOLI	Q46868	yqiC	b3042	A	MD19	0	2			del-MD19		Cytoplasmic			Q46868	96	CDS	3182862	3183152	+		Uncharacterized protein yqiC
+YGIL_ECOLI	P39834	ygiL	b3043	G	MD19	0	2			del-MD19	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC	CU	P39834	183	CDS	3183436	3183987	+	"notes: secretion 1: Sec secretion 2: CU (for Chaperone-Usher) ref: (http://www.ncbi.nlm.nih.gov/pubmed/19820722) ""Structural biology of the chaperone-usher pathway of pilus biogenesis."", (http://www.ncbi.nlm.nih.gov/pubmed/20345943) ""Escherichia coli K-12"	Uncharacterized fimbrial-like protein ygiL
+INSC5_ECOLI	P0CF44	insC-5	b3044	A		2	0	"Insertion Sequence;Insertion Element ;Transposase"		del-MD19	"Cell membrane; Single-pass membrane protein. "	Periplasmic			P0CF44	121	CDS	3184164	3184574	+	new id	Transposase insC for insertion element IS2I
+INSD5_ECOLI	P0CF57	insD-5	b3045	A		2	0	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD19		Cytoplasmic			P0CF57	301	CDS	3184532	3185437	+	new id	Transposase insD for insertion element IS2I
+YQIG_ECOLI	P76655	yqiG	b3046	H		0	0			del-MD19		Cytoplasmic	SEC	BAM	P76655	821	CDS	3185422	3187887	+		Putative outer membrane usher protein yqiG
+YQIH_ECOLI	P77616	yqiH	b3047	H	MD19	0	2			del-MD19		Cytoplasmic	SEC	BAM	P77616	249	CDS	3187903	3188652	+		Uncharacterized fimbrial chaperone yqiH
+YQII_ECOLI	P76656	yqiI	b3048	G	MD19	0	2			del-MD19	"Membrane; Single-pass membrane protein. "	-	SEC		P76656	354	CDS	3188654	3189718	+		Uncharacterized protein yqiI
+YHCA_ECOLI	P28722	yhcA	b3215	G		0	0			del-MD24	"Membrane; Single-pass membrane protein. "	-	SEC		P28722	224	CDS	3360134	3360808	+		Uncharacterized protein yqeJ
+YHCD_ECOLI	P45420	yhcD	b3216	H	MD24	0	2			del-MD24		Cytoplasmic	SEC	BAM	P45420	793	CDS	3360829	3363210	+		Uncharacterized outer membrane usher protein yehB
+YHCE_ECOLI	P45421	yhcE	b4569	G		2	0	pseudogene (Uniprot) 		del-MD24		Cytoplasmic	SEC		P45421	181	pseudogene	3363207	3364951	+		Putative uncharacterized protein yhcE
+INH10_ECOLI	P0CE57	insH-10	b3218	A		2	0	"Insertion Sequence;Transposase"		del-MD24		Cytoplasmic			P0CE57	338	CDS	3363724	3364740	-	new id	Transposase insH for insertion sequence element IS5R
+YHCF_ECOLI	P45422	yhcF	b3219	G	MD24	0	2			del-MD24		-	SEC		P45422	238	CDS	3364948	3365664	+		Uncharacterized protein yehD
+GSPA_ECOLI	P45756	gspA	b3323	B	MD6	0	2			del-MD6		Cytoplasmic	SEC		P45756	489	CDS	3451951	3453420	-		Probable general secretion pathway protein A
+GSPC_ECOLI	P45757	gspC	b3324	B	MD6	0	2			del-MD6	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P45757	271	CDS	3453600	3454415	+		Probable general secretion pathway protein C
+GSPD_ECOLI	P45758	gspD	b3325	G	MD6	0	2			del-MD6		Cytoplasmic	SEC	T2S	P45758	650	CDS	3454399	3456351	+		Probable general secretion pathway protein D
+GSPE_ECOLI	P45759	gspE	b3326	F1	MD6	0	2			del-MD6		Cytoplasmic			P45759	493	CDS	3456361	3457842	+	location: peripheral inner membrane protein note: ATPase of the Type II secretion system (cryptic in K12) refs: (http://www.ncbi.nlm.nih.gov/pubmed/18175178), (http://www.ncbi.nlm.nih.gov/pubmed/17255937), (http://www.ncbi.nlm.nih.gov/pubmed/16525507)	Probable general secretion pathway protein E (Type II traffic warden ATPase)
+GSPF_ECOLI	P41441	gspF	b3327	B	MD6	0	2			del-MD6		Cytoplasmic	SEC		P41441	398	CDS	3457839	3459035	+		Putative general secretion pathway protein F (Protein transport protein hofF)
+GSPG_ECOLI	P41442	gspG	b3328	B	MD6	0	2			del-MD6		Cytoplasmic	SEC		P41442	145	CDS	3459045	3459482	+		Putative general secretion pathway protein G (Protein transport protein hofG)
+GSPH_ECOLI	P41443	gspH	b3329	G	MD6	0	2			del-MD6		Cytoplasmic	SEC	T2S	P41443	169	CDS	3459490	3459999	+	Localization: Periplasm Notes: GspH is one of four low abundance pseudopillins together with GspI, J and K. These assemble together with the major pseudopillin GspG and may be involved in initiation, stabilization, regulation or capping of the periplasmic	Putative general secretion pathway protein H (Protein transport protein hofH)
+GSPI_ECOLI	P45760	gspI	b3330	G	MD6	0	2			del-MD6	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein		T2S	P45760	125	CDS	3459996	3460373	+		Probable general secretion pathway protein I
+GSPJ_ECOLI	P45761	gspJ	b3331	G	MD6	0	2			del-MD6	"Membrane; Single-pass membrane protein. "	Membrane anchored	SEC	T2S	P45761	195	CDS	3460366	3460953	+		Probable general secretion pathway protein J
+GSPK_ECOLI	P45762	gspK	b3332	G	MD6	0	2			del-MD6		Cytoplasmic	SEC	T2S	P45762	327	CDS	3460946	3461929	+		Probable general secretion pathway protein K
+GSPL_ECOLI	P45763	gspL	b3333	B	MD6	0	2			del-MD6	Cytoplasm. 	Cytoplasmic >EXP<	SEC		P45763	387	CDS	3461944	3463107	+		Probable general secretion pathway protein L
+GSPM_ECOLI	P36678	gspM	b3334	B	MD6	0	2			del-MD6	Periplasm. 	Membrane anchored >EXP<	SEC		P36678	153	CDS	3463104	3463565	+		Putative general secretion pathway protein M (Transport protein pshM)
+LEP4_ECOLI	P25960	gspO	b3335	B	MD6	0	2			del-MD6		Cytoplasmic	SEC		P25960	225	CDS	3463565	3464242	+		"Type 4 prepilin-like proteins leader peptide-processing enzyme [Includes: Leader peptidase (EC 3.4.23.43) (Prepilin peptidase); N-methyltransferase (EC 2.1.1.-)]"
+BFR_ECOLI	P0ABD3	bfr	b3336	A	MD6	0	2			del-MD6	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P0ABD3	158	CDS	3464271	3464747	-		Bacterioferritin (BFR) (Cytochrome b-1) (Cytochrome b-557)
+BFD_ECOLI	P0AE56	bfd	b3337	A	MD6	0	2			del-MD6	Cytoplasm. 	Cytoplasmic			P0AE56	64	CDS	3464819	3465013	-		Bacterioferritin-associated ferredoxin
+CHIA_ECOLI	P13656	chiA	b3338	G	MD6	0	2			del-MD6	"Cell membrane; Peripheral membrane protein. "	Cytoplasmic	SEC		P13656	897	CDS	3465182	3467875	-		"Probable bifunctional chitinase/lysozyme [Includes: Chitinase (EC 3.2.1.14); Lysozyme (EC 3.2.1.17)]"
+YHHY_ECOLI	P46854	yhhY	b3441	A	MD38	0	2			del-MD38	Periplasm. 	-			P46854	162	CDS	3579161	3579649	+		Uncharacterized N-acetyltransferase yhhY (EC 2.3.1.-)
+YHHZ_ECOLI	P46855	yhhZ	b3442	A	MD38	0	2			del-MD38	"Cell membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<			P46855	392	CDS	3579886	3581064	+		Uncharacterized protein yhhZ
+YRHA_ECOLI	P46856	yrhA	b3443	A		2	0	pseudogene (Uniprot) 		del-MD38		Cytoplasmic			P46856	138	CDS	3581064	3581477	+		Putative uncharacterized protein yrhA
+INSA6_ECOLI	P0CF12	insA-6	b3444	A	MD9	2	2	Insertion Element 		del-MD38		Cytoplasmic			P0CF12	91	CDS	3581506	3581781	+	new id	Insertion element IS1 6 protein insA (IS1e)
+INSB6_ECOLI	P0CF29	insB-6	b3445	A		2	0	"Insertion Element ;Transposase"		del-MD38	Periplasm. 	Cell surface appendage >EXP<			P0CF29	167	CDS	3581700	3582203	+	new id	Insertion element IS1 6 protein insB (IS1e)
+YRHB_ECOLI	P46857	yrhB	b3446	A		0	0			del-MD38	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<			P46857	94	CDS	3582782	3583066	+		Uncharacterized protein yrhB
+RHSB_ECOLI	P16917	rhsB	b3482	A	MD33	2	2	Rhs Element		del-MD33		-			P16917	1411	CDS	3617215	3621450	+		Protein rhsB
+YHHH_ECOLI	P28911	yhhH	b3483	B	MD33	0	2			del-MD33	Periplasm. 	Periplasmic >EXP<	SEC		P28911	127	CDS	3621422	3621805	+		Uncharacterized protein yhhH (ORF-B2)
+YHHI_ECOLI	P28912	yhhI	b3484	B	MD33	2	2	"Transposase;Rhs Element"		del-MD33		-	SEC		P28912	378	CDS	3622401	3623537	+		H repeat-associated protein yhhI (ORF-H)
+YHIS_ECOLI	P37635	yhiS	b3504	A		2	0	pseudogene (Uniprot) 		del-MD25		Cytoplasmic			P37635	260	CDS	3649314	3650096	+		Putative uncharacterized protein yhiS
+INH11_ECOLI	P0CE58	insH-11	b3505	A	MD23	2	2	"Insertion Sequence;Transposase"		del-MD25		Cytoplasmic			P0CE58	338	CDS	3650205	3651221	-	new id	Transposase insH for insertion sequence element IS5T
+INSJ_ECOLI	P19768	insJ	b3557	A	MD39	2	2	Insertion Element 		del-MD39		Outer Membrane &#223-barrel protein >EXP<			P19768	173	CDS	3718703	3719224	+		Insertion element IS150 uncharacterized 19.7 kDa protein (ORFA)
+INSK_ECOLI	P19769	insK	b3558	A	MD39	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD39	"Cell membrane; Lipid-anchor. "	Cytoplasmic			P19769	283	CDS	3719221	3720072	+		Putative transposase InsK for insertion sequence element IS150
+RHSA_ECOLI	P16916	rhsA	b3593	A	MD34	2	2	Rhs Element		del-MD34		-			P16916	1377	CDS	3760206	3764339	+		Protein rhsA
+YIBA_ECOLI	P0ADK6	yibA	b3594	A	MD34	0	2			del-MD34	Periplasm. 	Periplasmic >EXP<			P0ADK6	280	CDS	3764360	3765202	+		Protein yibA
+YIBJ_ECOLI	P32109	yibJ	b3595	A		2	0	"pseudogene (Uniprot);Rhs Element"		del-MD34	"Cell membrane; Multi-pass membrane protein. "	-			P32109	233	CDS	3765244	3765945	+		Putative uncharacterized protein yibJ
+YIBG_ECOLI	P32106	yibG	b3596	G	MD34	0	2			del-MD34		Cytoplasmic	SEC		P32106	153	CDS	3766200	3766661	+		Uncharacterized protein yibG (ORF-A3)
+INTB_ECOLI	P39347	intB	b4271	B		2	0	"pseudogene (Uniprot);Rhs Element;Prophage Integrase"		del-MD9	"Cell outer membrane; Peripheral membrane protein. "	-	SEC		P39347	396	CDS	4494773	4495963	+		Putative prophage P4 integrase (Int(P4))
+INSC6_ECOLI	P0CF45	insC-6	b4272	A	MD5	2	2	"Insertion Sequence;Insertion Element ;Transposase"		del-MD9		-			P0CF45	121	CDS	4496250	4496660	+	new id	Transposase insC for insertion element IS2K
+INSD6_ECOLI	P0CF58	insD-6	b4273	A	MD5	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD9		-			P0CF58	301	CDS	4496618	4497523	+	new id	Transposase insD for insertion element IS2K
+YJGW_ECOLI	Q9Z3A0	yjgW	b4274	A		2	0	pseudogene (Ecogene/Uniprot)		del-MD9		Cytoplasmic			Q9Z3A0	111	CDS	4497622	4497957	+		Putative uncharacterized protein yjgW
+YJGX_ECOLI	P39349	yjgX	b4575	B		2	0	pseudogene (Uniprot)		del-MD9		Cytoplasmic	SEC		P39349	371	pseudogene	4497700	4498814	-		Putative phosphoethanolamine transferase yjgX (EC 2.7.-.-)
+YJGZ_ECOLI	P39351	yjgZ	b4277	A	MD9	0	2			del-MD9		Membrane anchored			P39351	109	CDS	4499283	4499612	+		Uncharacterized protein yeaG
+INSG_ECOLI	P03835	insG	b4278	B	MD9	2	2	"Insertion Sequence;Transposase"		del-MD9		-	SEC		P03835	442	CDS	4500126	4501454	-		Transposase insG for insertion sequence element IS4
+YJHB_ECOLI	P39352	yjhB	b4279	B	MD9	0	2			del-MD9		Cytoplasmic	SEC		P39352	405	CDS	4502081	4503298	+		Putative metabolite transport protein yjhB
+YJHC_ECOLI	P39353	yjhC	b4280	A	MD9	0	2			del-MD9		Integral Membrane Protein			P39353	372	CDS	4503310	4504428	+		Uncharacterized oxidoreductase yjhC (EC 1.-.-.-)
+YJHD_ECOLI	P39354	yjhD	b4281	A		2	0	pseudogene (Uniprot) 		del-MD9	"Cell membrane; Multi-pass membrane protein. "	Cytoplasmic			P39354	76	pseudogene	4504649	4504879	-		Putative uncharacterized protein yjhD
+YJHE_ECOLI	P39355	yjhE	b4282	B		2	0	pseudogene (Uniprot) 		del-MD9		Cytoplasmic	SEC		P39355	82	pseudogene	4504884	4505132	+		Putative uncharacterized protein yjhE
+INSN2_ECOLI	P39212	insN-2	b4283	A		2	0	"Insertion Sequence;Transposase"		del-MD9	"Cell membrane; Peripheral membrane protein. "	Membrane anchored			P39212	100	CDS	4505220	4505486	+		Transposase insN for insertion sequence element IS911B
+INSI4_ECOLI	P0CF90	insI-3	b4284	A	MD9	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"		del-MD9	"Cell inner membrane; Peripheral membrane protein. "	Cytoplasmic			P0CF90	383	CDS	4505489	4506640	-	new id	Transposase InsI for insertion sequence element IS30D
+INSO2_ECOLI	Q47718	insO-2	b4285	B		2	0	"pseudogene (Uniprot);Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"		del-MD9		-	SEC		Q47718	198	pseudogene	4506981	4507577	+		Putative transposase insO for insertion sequence element IS911B
+Y4286_ECOLI	Q47719	yjhV	b4286	A		2	0	pseudogene (Uniprot)		del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Cytoplasmic			Q47719	137	CDS	4507743	4508156	+		Putative uncharacterized protein b4286
+FECE_ECOLI	P15031	fecE	b4287	F1	MD9	0	2			del-MD9	Periplasm. 	Periplasmic >EXP<			P15031	255	CDS	4508713	4509480	-		Fe(3+) dicitrate transport ATP-binding protein fecE (Iron(III) dicitrate transport ATP-binding protein fecE)
+FECD_ECOLI	P15029	fecD	b4288	B	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P15029	318	CDS	4509481	4510437	-		Fe(3+) dicitrate transport system permease protein fecD (Iron(III) dicitrate transport system permease protein fecD)
+FECC_ECOLI	P15030	fecC	b4289	B	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein >EXP<	SEC		P15030	332	CDS	4510434	4511432	-		Fe(3+) dicitrate transport system permease protein fecC (Iron(III) dicitrate transport system permease protein fecC)
+FECB_ECOLI	P15028	fecB	b4290	G	MD9	0	2			del-MD9	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P15028	300	CDS	4511429	4512331	-		Fe(3+) dicitrate-binding periplasmic protein (Iron(III) dicitrate-binding periplasmic protein)
+FECA_ECOLI	P13036	fecA	b4291	H	MD9	0	2			del-MD9		Cytoplasmic	SEC	BAM	P13036	774	CDS	4512376	4514700	-		Fe(3+) dicitrate transport protein fecA (Iron(III) dicitrate transport protein fecA)
+FECR_ECOLI	P23485	fecR	b4292	B	MD9	0	2			del-MD9		Cytoplasmic	SEC		P23485	317	CDS	4514787	4515740	-		Protein fecR
+FECI_ECOLI	P23484	fecI	b4293	A	MD9	0	2			del-MD9		Membrane anchored			P23484	173	CDS	4515737	4516258	-		Probable RNA polymerase sigma factor fecI
+INSA7_ECOLI	P19767	insA-7	b4294	A		2	0	Insertion Element 		del-MD9		Membrane anchored			P19767	91	CDS	4516550	4516825	+		Insertion element IS1 7 protein insA (IS1f)
+YJHU_ECOLI	P39356	yjhU	b4295	A	MD9	0	2			del-MD9		Cytoplasmic			P39356	328	CDS	4517361	4518347	-		Uncharacterized protein yfbO
+YJHF_ECOLI	P39357	yjhF	b4296	B	MD9	0	2			del-MD9		Membrane Lipoprotein	SEC		P39357	449	CDS	4518694	4520043	-		Uncharacterized protein yoeI
+YJHG_ECOLI	P39358	yjhG	b4297	A	MD9	0	2			del-MD9		Periplasmic			P39358	655	CDS	4520150	4522117	-		Uncharacterized protein yedM
+YJHH_ECOLI	P39359	yjhH	b4298	A	MD9	0	2			del-MD9		Cytoplasmic			P39359	301	CDS	4522128	4523033	-		Antitoxin yefM
+YJHI_ECOLI	P39360	yjhI	b4299	A	MD9	0	2			del-MD9		Cytoplasmic			P39360	262	CDS	4523038	4523826	-		Uncharacterized protein yfbN
+SGCR_ECOLI	P39361	sgcR	b4300	A	MD9	0	2			del-MD9		Periplasmic			P39361	260	CDS	4524129	4524911	-		Putative sgc region transcriptional regulator
+SGCE_ECOLI	P39362	sgcE	b4301	A	MD9	0	2			del-MD9	"Cell membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P39362	210	CDS	4524928	4525560	-		Protein sgcE (EC 5.1.3.-)
+SGCA_ECOLI	P39363	sgcA	b4302	A	MD9	0	2			del-MD9		Cytoplasmic			P39363	143	CDS	4525572	4526003	-		Putative phosphotransferase IIA component sgcA (EC 2.7.1.-) (Putative PTS system EIIA component)
+SGCQ_ECOLI	P39364	sgcQ	b4303	A	MD9	0	2			del-MD9		Cytoplasmic			P39364	268	CDS	4526134	4526940	-		Putative sgc region protein sgcQ
+SGCC_ECOLI	P39365	sgcC	b4304	B	MD9	0	2			del-MD9		Cytoplasmic	SEC		P39365	437	CDS	4526953	4528266	-		Putative permease IIC component (Putative PTS system EIIC component)
+SGCB_ECOLI	P58035	sgcB	b4565	F1	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P58035	92	CDS	4528278	4528556	-	Peripheral accossiated cyto side	Putative phosphotransferase enzyme IIB component sgcB (EC 2.7.1.69) (Putative PTS system EIIB component)
+SGCX_ECOLI	P39366	sgcX	b4305	A	MD9	0	2			del-MD9		Outer membrane Lipoprotein >EXP<			P39366	373	CDS	4528553	4529674	-		Putative aminopeptidase sgcX (EC 3.4.11.-)
+YJHP_ECOLI	P39367	yjhP	b4306	A	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P39367	248	CDS	4530460	4531206	-		Uncharacterized protein yjhP
+YJHQ_ECOLI	P39368	yjhQ	b4307	A	MD9	0	2			del-MD9		Cytoplasmic			P39368	181	CDS	4531262	4531807	-		Uncharacterized N-acetyltransferase yjhQ (EC 2.3.1.-)
+YJHX_ECOLI	Q2EEU2	yjhX	b4566	A	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	-			Q2EEU2	85	CDS	4531819	4532076	-		UPF0386 protein yjhX
+YJHR_ECOLI	P39369	yjhR	b4308	A		2	0	pseudogene (Uniprot) 		del-MD9		Cytoplasmic			P39369	338	CDS	4533038	4534054	+		Putative uncharacterized protein yjhR
+YJHS_ECOLI	P39370	yjhS	b4309	A	MD9	0	2			del-MD9		Periplasmic			P39370	326	CDS	4534637	4535617	-		Uncharacterized protein yjhS
+NANM_ECOLI	P39371	yjhT	b4310	G	MD9	0	2			del-MD9		Cytoplasmic	SEC		P39371	368	CDS	4535682	4536788	-		N-acetylneuraminate epimerase (EC 5.1.3.n1) (N-acetylneuraminate mutarotase) (Neu5Ac mutarotase) (Sialic acid epimerase)
+NANC_ECOLI	P69856	yjhA	b4311	G	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC		P69856	238	CDS	4536808	4537524	-		Probable N-acetylneuraminic acid outer membrane channel protein nanC (NanR-regulated channel) (Porin nanC)
+FIMB_ECOLI	P0ADH5	fimB	b4312	A	MD9	2	2	Prophage Integrase		del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0ADH5	200	CDS	4538980	4539582	+		Type 1 fimbriae regulatory protein fimB
+FIME_ECOLI	P0ADH7	fimE	b4313	A	MD9	2	2	Prophage Integrase		del-MD9		-			P0ADH7	198	CDS	4540060	4540656	+		Type 1 fimbriae regulatory protein fimE
+FIMA1_ECOLI	P04128	fimA	b4314	F4	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC	T3S	P04128	182	CDS	4541138	4541686	+		Type-1 fimbrial protein, A chain (Type-1A pilin)
+FIMI_ECOLI	P39264	fimI	b4315	G	MD9	0	2			del-MD9		Cytoplasmic	SEC	CU	P39264	179	CDS	4541751	4542290	+	"notes: secretion 1: Sec secretion 2: CU (for Chaperone-Usher) ref: (http://www.ncbi.nlm.nih.gov/pubmed/19820722) ""Structural biology of the chaperone-usher pathway of pilus biogenesis."""	Fimbrin-like protein fimI
+FIMC_ECOLI	P31697	fimC	b4316	G	MD9	0	2			del-MD9		Cytoplasmic	SEC		P31697	241	CDS	4542327	4543052	+		Chaperone protein fimC
+FIMD_ECOLI	P30130	fimD	b4317	H	MD9	0	2			del-MD9	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein	SEC	BAM	P30130	878	CDS	4543119	4545755	+		Outer membrane usher protein fimD
+FIMF_ECOLI	P08189	fimF	b4318	F4	MD9	0	2			del-MD9	"Cell outer membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<	SEC	CU	P08189	176	CDS	4545765	4546295	+	"Notes: secretion 1: Sec secretion 2: CU (for Chaperone-Usher) Refs: (http://www.ncbi.nlm.nih.gov/pubmed/19820722) ""Structural biology of the chaperone-usher pathway of pilus biogenesis."""	Protein fimF
+FIMG_ECOLI	P08190	fimG	b4319	F4	MD9	0	2			del-MD9	Periplasm. 	Periplasmic >EXP<	SEC	CU	P08190	167	CDS	4546308	4546811	+	"Notes: secretion 1: Sec secretion 2: CU (for Chaperone-Usher) Refs: (http://www.ncbi.nlm.nih.gov/pubmed/19820722) ""Structural biology of the chaperone-usher pathway of pilus biogenesis."""	Protein fimG
+FIMH_ECOLI	P08191	fimH	b4320	F4	MD9	0	2			del-MD9		Cytoplasmic	SEC	CU	P08191	300	CDS	4546831	4547733	+	"Notes: secretion 1: Sec secretion 2: CU (for Chaperone-Usher) Refs: (http://www.ncbi.nlm.nih.gov/pubmed/19820722) ""Structural biology of the chaperone-usher pathway of pilus biogenesis."""	Protein fimH
+YJIC_ECOLI	P39374	yjiC	b4325	A	MD29	0	2			del-MD29	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P39374	276	CDS	4553513	4554343	-		Uncharacterized protein yjiC
+IRAD_ECOLI	P39375	yjiD	b4326	A	MD29	0	2			del-MD29	"Membrane; Single-pass membrane protein. "	Membrane anchored			P39375	130	CDS	4555016	4555408	+		Anti-adapter protein iraD
+YJIE_ECOLI	P39376	yjiE	b4327	B	MD29	0	2			del-MD29	"Cell membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<	SEC		P39376	303	CDS	4555401	4556312	-		Uncharacterized HTH-type transcriptional regulator yjiE
+IADA_ECOLI	P39377	iadA	b4328	A	MD29	0	2			del-MD29		Periplasmic			P39377	390	CDS	4556377	4557549	-		Isoaspartyl dipeptidase (EC 3.4.19.-)
+YJIG_ECOLI	P0AEH8	yjiG	b4329	B	MD29	0	2			del-MD29		Cytoplasmic	SEC		P0AEH8	153	CDS	4557562	4558023	-		Inner membrane protein yjiG
+YJIH_ECOLI	P39379	yjiH	b4330	B	MD29	0	2			del-MD29		Cytoplasmic	SEC		P39379	227	CDS	4558020	4558703	-		Uncharacterized protein yjiH
+KPTA_ECOLI	P39380	kptA	b4331	A	MD29	0	2			del-MD29	"Cell outer membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<			P39380	184	CDS	4558953	4559507	+		RNA 2'-phosphotransferase (EC 2.7.1.-)
+YJIJ_ECOLI	P39381	yjiJ	b4332	B	MD29	0	2			del-MD29	"Membrane; Single-pass membrane protein. "	Membrane anchored	SEC		P39381	392	CDS	4559520	4560698	-		Uncharacterized protein yjiJ
+YJIK_ECOLI	P39382	yjiK	b4333	B	MD29	0	2			del-MD29		Cytoplasmic	SEC		P39382	286	CDS	4560766	4561734	-	"Cell membrane; Single-pass membrane protein(potential) /  Belongs to the yjiK family."	Uncharacterized protein yjiK
+YJIL_ECOLI	P39383	yjiL	b4334	A	MD29	0	2			del-MD29		Membrane anchored			P39383	255	CDS	4561945	4562712	-		Uncharacterized protein yjiL
+YJIM_ECOLI	P39384	yjiM	b4335	A	MD29	0	2			del-MD29		Outer membrane Lipoprotein			P39384	383	CDS	4562722	4563873	-		Uncharacterized protein yjiM
+YJIN_ECOLI	P39385	yjiN	b4336	B	MD29	0	2			del-MD29		Cytoplasmic	SEC		P39385	426	CDS	4563989	4565269	-		Uncharacterized protein yjiN
+MDTM_ECOLI	P39386	yjiO	b4337	B	MD29	0	2			del-MD29	"Cell inner membrane; Single-pass membrane protein. "	Integral Membrane Protein	SEC		P39386	410	CDS	4565310	4566542	-		Multidrug resistance protein mdtM
+YJIP_ECOLI	P39387	yjiP	b4338	A		2	0	"pseudogene (Uniprot);Transposase"		del-MD29		-			P39387	306	pseudogene	4567021	4567332	+		Putative uncharacterized protein yjiP
+YJIP_ECOLI	P39387	yjiQ	b4339	A		2	0	"pseudogene (Uniprot);Transposase"		del-MD29		-			P39387	306	CDS	4567381	4567941	+		Putative uncharacterized protein yjiP
+YJIR_ECOLI	P39389	yjiR	b4340	A	MD29	0	2			del-MD29		Outer membrane Lipoprotein			P39389	470	CDS	4568185	4569597	-		Uncharacterized protein yfbP
+YJIS_ECOLI	P39390	yjiS	b4341	A	MD29	0	2			del-MD29		Cytoplasmic			P39390	54	CDS	4569774	4569938	+		Uncharacterized protein yfdF
+YJIT_ECOLI	P39391	yjiT	b4342	A		2	0	pseudogene (Uniprot) 		del-MD29		Cytoplasmic			P39391	521	CDS	4570437	4571954	+		Putative uncharacterized protein yjiT
+YJIV_ECOLI	P39393	yjiV	b4486	B		2	0	pseudogene (Uniprot) 		del-MD29		Cytoplasmic	SEC		P39393	906	pseudogene	4572158	4574878	+		Putative uncharacterized protein yjiV
+MCRC_ECOLI	P15006	mcrC	b4345	A	MD29	0	2			del-MD29	Periplasm. 	Periplasmic			P15006	348	CDS	4574935	4575981	-		Protein mcrC
+MCRB_ECOLI	P15005	mcrB	b4346	A	MD29	0	2			del-MD29		Cytoplasmic			P15005	459	CDS	4575981	4577360	-		5-methylcytosine-specific restriction enzyme B (EC 3.1.21.-) (EcoKMcrBC)
+SYME_ECOLI	P39394	yjiW	b4347	A	MD29	0	2			del-MD29		Cytoplasmic			P39394	113	CDS	4577522	4577920	-		Toxic protein symE (Putative endoribonuclease symE) (EC 3.1.-.-)
+T1SK_ECOLI	P05719	hsdS	b4348	A	MD29	0	2			del-MD29		Cytoplasmic			P05719	464	CDS	4578091	4579485	-		Protein htrL
+T1MK_ECOLI	P08957	hsdM	b4349	A	MD29	0	2			del-MD29	Cytoplasm. 	Cytoplasmic			P08957	529	CDS	4579482	4581071	-		Type I restriction enzyme EcoKI M protein (M.EcoKI) (EC 2.1.1.72)
+T1RK_ECOLI	P08956	hsdR	b4350	A	MD29	0	2			del-MD29		Cytoplasmic			P08956	1170	CDS	4581272	4584838	-		Type I restriction enzyme EcoKI R protein (R.EcoKI) (EC 3.1.21.3)
+MRR_ECOLI	P24202	mrr	b4351	A	MD29	0	2			del-MD29	Cytoplasm. 	Integral Membrane Protein			P24202	304	CDS	4584972	4585886	+		Mrr restriction system protein (EcoKMrr)
+YJIA_ECOLI	P24203	yjiA	b4352	A	MD29	0	2			del-MD29		Periplasmic			P24203	318	CDS	4585932	4586888	-		Uncharacterized GTP-binding protein yjiA
+YJIX_ECOLI	P0ADC8	yjiX	b4353	A	MD29	0	2			del-MD29	"Cell inner membrane; Multi-pass membrane protein. "	Integral Membrane Protein			P0ADC8	67	CDS	4586899	4587102	-		Uncharacterized protein yjiX
+YJIY_ECOLI	P39396	yjiY	b4354	B	MD29	0	2			del-MD29	"Cell membrane; Lipid-anchor. "	Inner membrane lipoprotein	SEC		P39396	716	CDS	4587152	4589302	-		Inner membrane protein yjiY
+MCP1_ECOLI	P02942	tsr	b4355	B	MD29	0	2			del-MD29		Cytoplasmic	SEC		P02942	551	CDS	4589680	4591335	+		Methyl-accepting chemotaxis protein I (MCP-I) (Serine chemoreceptor protein)
+YJJL_ECOLI	P39398	yjiZ	b4356	B	MD29	0	2			del-MD29	"Membrane; Single-pass membrane protein. "	Membrane anchored	SEC		P39398	453	CDS	4591384	4592745	-		L-galactonate transporter
+YJJM_ECOLI	P39399	yjjM	b4357	A	MD29	0	2			del-MD29		Membrane anchored			P39399	304	CDS	4592960	4593874	-		Uncharacterized protein ygbT
+YJJN_ECOLI	P39400	yjjN	b4358	B	MD29	0	2			del-MD29	"Cell membrane; Lipid-anchor. "	Outer membrane Lipoprotein >EXP<	SEC		P39400	340	CDS	4594013	4595035	+		Putative L-galactonate oxidoreductase (EC 1.1.1.-)

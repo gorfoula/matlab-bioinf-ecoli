@@ -1,0 +1,1 @@
+Merge ID	Masuda2009_fin	Wang2007_fin	Wang2007_noglucose_fin	Oberto2009_fin	DetectedProtein	# Studies	DB_NoveV12 Duplicates	Normalized And Descr Itensity	0BS_C0LL	ABS_CALL	ABS_CALL	Merge ID	Masuda2009_fin	Taniguchi2010_fin_mmol	DetectedProtein	# Studies	DB_NoveV12 Duplicates	Copy number per cell	mMol	Merge ID

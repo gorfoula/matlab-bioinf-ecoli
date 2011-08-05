@@ -1,0 +1,67 @@
+function []=Myscatter(X,Y,groups,r)
+
+u=unique(groups);
+n=length(u);
+Colors=RainbowColor(100);
+col_index=1:floor(length(Colors)./n):length(Colors);
+Colors=Colors(col_index,:);
+
+fa=abs(max(X)-min(X));if(fa==0)fa=1;end
+fb=abs(max(Y)-min(Y));if(fb==0)fb=1;end
+[cx cy]=Ellipse([0 0],r*fa,r*fb);
+count=1;
+for i=u'
+%     [cx cy]=CirclePatch([0 0],r);    
+%   [coords]=SquarePatch([X(i) Y(i)],r);
+%   p = patch(coords(1,:),coords(2,:),ones(1,size(coords,2)));
+    
+    [X0g,Xg] = meshgrid(X(groups==i),cx);
+    [Y0g,Yg] = meshgrid(Y(groups==i),cy);
+    
+    p = patch((Xg+X0g),(Yg+Y0g),ones(size(Yg)));
+    set(p,'FaceColor',Colors(count,:),'EdgeColor','none');
+    alpha(p,0.6);
+    count=count+1;
+end
+
+end
+
+function [coords]=SquarePatch(pos,a)
+
+coordsx=[pos(1)-(a/2) pos(1)-(a/2) pos(1)+(a/2) pos(1)+(a/2)];
+coordsy=[pos(2)-(a/2) pos(2)+(a/2) pos(2)+(a/2) pos(2)-(a/2)];
+
+coords=[coordsx;coordsy];
+
+
+end
+
+function [X Y]=CirclePatch(p,r)
+
+x=p(1)-(r):(r/40):p(1)+(r);
+y=sqrt(abs((r.^2)-(x-p(1)).^2))+p(2);
+y_=-sqrt(abs((r.^2)-(x-p(1)).^2))+p(2);
+
+X=[x x(end:-1:1)]';
+Y=[y y_(end:-1:1)]';
+
+% figure;
+% p = patch(X,Y,ones(size(Y)));
+% set(p,'FaceColor',[1 0 0],'EdgeColor','none');
+
+end
+
+
+function [X Y]=Ellipse(p,a,b)
+
+% a=1;b=1;
+
+x=-a:(2*a/40):a;
+
+y=sqrt(abs(1-(((x-p(1)).^2)/a^2)))*abs(b)+p(2);
+y_=-sqrt(abs(1-(((x-p(1)).^2)/a^2)))*abs(b)+p(2);
+
+X=[x x(end:-1:1)]';
+Y=[y y_(end:-1:1)]';
+
+end

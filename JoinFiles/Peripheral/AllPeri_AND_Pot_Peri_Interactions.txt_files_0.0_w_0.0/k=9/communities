@@ -1,0 +1,8 @@
+# The communities at k=9
+# from H:\Data\Complexomics\Tools\CFinderWinLinux\CFinder-2.0.5--1440\H:\Data\MATLAB\II Rotation\JoinFiles\Peripheral\AllPeri_AND_Pot_Peri_Interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# The maximal allowed time per node during clique search was 3.000000 secs.
+
+0: RS5_ECOLI RLMN_ECOLI CSPC_ECOLI RL3_ECOLI RS1_ECOLI DEAD_ECOLI RS13_ECOLI RL21_ECOLI RS4_ECOLI RS7_ECOLI RL9_ECOLI RS2_ECOLI RNE_ECOLI RS3_ECOLI IF3_ECOLI RL1_ECOLI RL4_ECOLI RLUB_ECOLI RNR_ECOLI HFQ_ECOLI YFIF_ECOLI PNP_ECOLI CSPE_ECOLI HRPA_ECOLI CSRA_ECOLI ILVG_ECOLI RPPH_ECOLI YBJX_ECOLI PHOL_ECOLI PSS_ECOLI TGT_ECOLI YBCJ_ECOLI SELB_ECOLI 

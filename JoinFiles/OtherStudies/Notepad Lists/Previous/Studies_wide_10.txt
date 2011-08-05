@@ -1,0 +1,14 @@
+JoinFiles/k12/TableS3_K12_ProteomeV13_conBL21.txt	1	2	5	1	3
+JoinFiles/OtherStudies/Notepad Lists/Gevaert2002.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/Corbin2003.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/Taoka2004.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/Butland2005.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/Lopez2005.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/Arifuzzaman2006.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/Ji2006.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/Zhang2007.txt	0	1	1
+JoinFiles/Transcriptomics/Ishihama2008_fin.txt	1	1	8	9
+JoinFiles/OtherStudies/Notepad Lists/Iwasaki2009.txt	0	1	1
+JoinFiles/Transcriptomics/Masuda2009_fin2.txt	1	1	6	7
+JoinFiles/OtherStudies/Notepad Lists/Iwasaki2010.txt	0	1	1
+JoinFiles/OtherStudies/Notepad Lists/OurStudy_Feb2011_Common.txt	0	1	1

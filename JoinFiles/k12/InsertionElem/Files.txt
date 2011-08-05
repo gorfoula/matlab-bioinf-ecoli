@@ -1,0 +1,7 @@
+k12/InsertionElem/InsSeq.txt	1	1
+k12/InsertionElem/InsElem.txt	1	1
+k12/InsertionElem/Transposase.txt	1	1
+k12/InsertionElem/Rhs Element.txt	1	0
+k12/InsertionElem/Prophage Integrases.txt	1	0
+k12/InsertionElem/Prophage_EcoGene.txt	1	0
+k12/InsertionElem/F-plasmid_2.txt	1	1

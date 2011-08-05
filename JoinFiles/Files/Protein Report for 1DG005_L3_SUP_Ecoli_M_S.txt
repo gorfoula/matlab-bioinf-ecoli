@@ -1,0 +1,1555 @@
+A5A616	YNEM_ECOLI Uncharacterized protein yneM OS=Escherichia coli (strain K12) GN=yneM PE=1 SV=1
+P00350	6PGD_ECOLI 6-phosphogluconate dehydrogenase, decarboxylating OS=Escherichia coli (strain K12) GN=gnd PE=1 SV=2
+P00363	FRDA_ECOLI Fumarate reductase flavoprotein subunit OS=Escherichia coli (strain K12) GN=frdA PE=1 SV=3
+P00393	DHNA_ECOLI NADH dehydrogenase OS=Escherichia coli (strain K12) GN=ndh PE=1 SV=2
+P00448	SODM_ECOLI Superoxide dismutase [Mn] OS=Escherichia coli (strain K12) GN=sodA PE=1 SV=2
+P00452	RIR1_ECOLI Ribonucleoside-diphosphate reductase 1 subunit alpha OS=Escherichia coli (strain K12) GN=nrdA PE=1 SV=2
+P00490	PHSM_ECOLI Maltodextrin phosphorylase OS=Escherichia coli (strain K12) GN=malP PE=1 SV=7
+P00509	AAT_ECOLI Aspartate aminotransferase OS=Escherichia coli (strain K12) GN=aspC PE=1 SV=1
+P00547	KHSE_ECOLI Homoserine kinase OS=Escherichia coli (strain K12) GN=thrB PE=1 SV=2
+P00550	PTM3C_ECOLI PTS system mannitol-specific EIICBA component OS=Escherichia coli (strain K12) GN=mtlA PE=1 SV=1
+P00561	AK1H_ECOLI Bifunctional aspartokinase/homoserine dehydrogenase 1 OS=Escherichia coli (strain K12) GN=thrA PE=1 SV=2
+P00562	AK2H_ECOLI Bifunctional aspartokinase/homoserine dehydrogenase 2 OS=Escherichia coli (strain K12) GN=metL PE=1 SV=3
+P00579	RPOD_ECOLI RNA polymerase sigma factor rpoD OS=Escherichia coli (strain K12) GN=rpoD PE=1 SV=2
+P00582	DPO1_ECOLI DNA polymerase I OS=Escherichia coli (strain K12) GN=polA PE=1 SV=1
+P00722	BGAL_ECOLI Beta-galactosidase OS=Escherichia coli (strain K12) GN=lacZ PE=1 SV=2
+P00803	LEP_ECOLI Signal peptidase I OS=Escherichia coli (strain K12) GN=lepB PE=1 SV=2
+P00864	CAPP_ECOLI Phosphoenolpyruvate carboxylase OS=Escherichia coli (strain K12) GN=ppc PE=1 SV=1
+P00887	AROH_ECOLI Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive OS=Escherichia coli (strain K12) GN=aroH PE=3 SV=4
+P00892	ILVG_ECOLI Acetolactate synthase isozyme 2 large subunit OS=Escherichia coli (strain K12) GN=ilvG PE=1 SV=3
+P00894	ILVH_ECOLI Acetolactate synthase isozyme 3 small subunit OS=Escherichia coli (strain K12) GN=ilvH PE=1 SV=3
+P00903	PABA_ECOLI Para-aminobenzoate synthase glutamine amidotransferase component II OS=Escherichia coli (strain K12) GN=pabA PE=1 SV=1
+P00909	TRPC_ECOLI Tryptophan biosynthesis protein trpCF OS=Escherichia coli (strain K12) GN=trpC PE=1 SV=3
+P00934	THRC_ECOLI Threonine synthase OS=Escherichia coli (strain K12) GN=thrC PE=1 SV=1
+P00935	METB_ECOLI Cystathionine gamma-synthase OS=Escherichia coli (strain K12) GN=metB PE=1 SV=1
+P00954	SYW_ECOLI Tryptophanyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=trpS PE=1 SV=3
+P00956	SYI_ECOLI Isoleucyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=ileS PE=1 SV=5
+P00956	SYI_ECOLI Isoleucyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=ileS PE=1 SV=5
+P00957	SYA_ECOLI Alanyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=alaS PE=1 SV=2
+P00959	SYM_ECOLI Methionyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=metG PE=1 SV=2
+P00960	SYGA_ECOLI Glycyl-tRNA synthetase alpha subunit OS=Escherichia coli (strain K12) GN=glyQ PE=1 SV=2
+P00961	SYGB_ECOLI Glycyl-tRNA synthetase beta subunit OS=Escherichia coli (strain K12) GN=glyS PE=1 SV=4
+P00962	SYQ_ECOLI Glutaminyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=glnS PE=1 SV=3
+P00963	ASNA_ECOLI Aspartate--ammonia ligase OS=Escherichia coli (strain K12) GN=asnA PE=1 SV=1
+P00968	CARB_ECOLI Carbamoyl-phosphate synthase large chain OS=Escherichia coli (strain K12) GN=carB PE=1 SV=2
+P02358	RS6_ECOLI 30S ribosomal protein S6 OS=Escherichia coli (strain K12) GN=rpsF PE=1 SV=1
+P02359	RS7_ECOLI 30S ribosomal protein S7 OS=Escherichia coli (strain K12) GN=rpsG PE=1 SV=3
+P02413	RL15_ECOLI 50S ribosomal protein L15 OS=Escherichia coli (strain K12) GN=rplO PE=1 SV=1
+P02918	PBPA_ECOLI Penicillin-binding protein 1A OS=Escherichia coli (strain K12) GN=mrcA PE=1 SV=1
+P02919	PBPB_ECOLI Penicillin-binding protein 1B OS=Escherichia coli (strain K12) GN=mrcB PE=1 SV=2
+P02925	RBSB_ECOLI D-ribose-binding periplasmic protein OS=Escherichia coli (strain K12) GN=rbsB PE=1 SV=1
+P02929	TONB_ECOLI Protein tonB OS=Escherichia coli (strain K12) GN=tonB PE=1 SV=2
+P02930	TOLC_ECOLI Outer membrane protein tolC OS=Escherichia coli (strain K12) GN=tolC PE=1 SV=3
+P02931	OMPF_ECOLI Outer membrane protein F OS=Escherichia coli (strain K12) GN=ompF PE=1 SV=1
+P02943	LAMB_ECOLI Maltoporin OS=Escherichia coli (strain K12) GN=lamB PE=1 SV=1
+P03004	DNAA_ECOLI Chromosomal replication initiator protein dnaA OS=Escherichia coli (strain K12) GN=dnaA PE=1 SV=2
+P03007	DPO3E_ECOLI DNA polymerase III subunit epsilon OS=Escherichia coli (strain K12) GN=dnaQ PE=1 SV=1
+P03018	UVRD_ECOLI DNA helicase II OS=Escherichia coli (strain K12) GN=uvrD PE=1 SV=1
+P03023	LACI_ECOLI Lactose operon repressor OS=Escherichia coli (strain K12) GN=lacI PE=1 SV=3
+P03024	GALR_ECOLI HTH-type transcriptional regulator galR OS=Escherichia coli (strain K12) GN=galR PE=1 SV=1
+P03030	LYSR_ECOLI Transcriptional activator protein lysR OS=Escherichia coli (strain K12) GN=lysR PE=1 SV=1
+P03842	RNPH_ECOLI Ribonuclease PH OS=Escherichia coli (strain K12) GN=rph PE=1 SV=2
+P04036	DAPB_ECOLI Dihydrodipicolinate reductase OS=Escherichia coli (strain K12) GN=dapB PE=1 SV=1
+P04079	GUAA_ECOLI GMP synthase [glutamine-hydrolyzing] OS=Escherichia coli (strain K12) GN=guaA PE=1 SV=1
+P04335	FRSA_ECOLI Esterase frsA OS=Escherichia coli (strain K12) GN=frsA PE=3 SV=2
+P04391	OTC1_ECOLI Ornithine carbamoyltransferase chain I OS=Escherichia coli (strain K12) GN=argI PE=1 SV=3
+P04425	GSHB_ECOLI Glutathione synthetase OS=Escherichia coli (strain K12) GN=gshB PE=1 SV=1
+P04693	TYRB_ECOLI Aromatic-amino-acid aminotransferase OS=Escherichia coli (strain K12) GN=tyrB PE=1 SV=1
+P04805	SYE_ECOLI Glutamyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=gltX PE=1 SV=1
+P04825	AMPN_ECOLI Aminopeptidase N OS=Escherichia coli (strain K12) GN=pepN PE=1 SV=2
+P04846	NLPA_ECOLI Lipoprotein 28 OS=Escherichia coli (strain K12) GN=nlpA PE=1 SV=1
+P04951	KDSB_ECOLI 3-deoxy-manno-octulosonate cytidylyltransferase OS=Escherichia coli (strain K12) GN=kdsB PE=1 SV=2
+P04968	THD1_ECOLI Threonine dehydratase biosynthetic OS=Escherichia coli (strain K12) GN=ilvA PE=1 SV=1
+P04993	EX5A_ECOLI Exodeoxyribonuclease V alpha chain OS=Escherichia coli (strain K12) GN=recD PE=1 SV=2
+P04994	EX7L_ECOLI Exodeoxyribonuclease 7 large subunit OS=Escherichia coli (strain K12) GN=xseA PE=1 SV=2
+P04995	EX1_ECOLI Exodeoxyribonuclease I OS=Escherichia coli (strain K12) GN=sbcB PE=1 SV=2
+P05055	PNP_ECOLI Polyribonucleotide nucleotidyltransferase OS=Escherichia coli (strain K12) GN=pnp PE=1 SV=3
+P05194	AROD_ECOLI 3-dehydroquinate dehydratase OS=Escherichia coli (strain K12) GN=aroD PE=1 SV=2
+P05458	PTRA_ECOLI Protease 3 OS=Escherichia coli (strain K12) GN=ptrA PE=1 SV=1
+P05523	FPG_ECOLI Formamidopyrimidine-DNA glycosylase OS=Escherichia coli (strain K12) GN=mutM PE=1 SV=3
+P05704	MCP3_ECOLI Methyl-accepting chemotaxis protein III OS=Escherichia coli (strain K12) GN=trg PE=1 SV=3
+P05791	ILVD_ECOLI Dihydroxy-acid dehydratase OS=Escherichia coli (strain K12) GN=ilvD PE=1 SV=5
+P05793	ILVC_ECOLI Ketol-acid reductoisomerase OS=Escherichia coli (strain K12) GN=ilvC PE=1 SV=4
+P05825	FEPA_ECOLI Ferrienterobactin receptor OS=Escherichia coli (strain K12) GN=fepA PE=1 SV=2
+P05827	ILVY_ECOLI HTH-type transcriptional regulator ilvY OS=Escherichia coli (strain K12) GN=ilvY PE=4 SV=1
+P05852	GCP_ECOLI Probable O-sialoglycoprotein endopeptidase OS=Escherichia coli (strain K12) GN=gcp PE=3 SV=2
+P06129	BTUB_ECOLI Vitamin B12 transporter btuB OS=Escherichia coli (strain K12) GN=btuB PE=1 SV=2
+P06136	FTSQ_ECOLI Cell division protein ftsQ OS=Escherichia coli (strain K12) GN=ftsQ PE=1 SV=1
+P06149	DLD_ECOLI D-lactate dehydrogenase OS=Escherichia coli (strain K12) GN=dld PE=1 SV=3
+P06282	CDH_ECOLI CDP-diacylglycerol pyrophosphatase OS=Escherichia coli (strain K12) GN=cdh PE=3 SV=1
+P06611	BTUD_ECOLI Vitamin B12 import ATP-binding protein btuD OS=Escherichia coli (strain K12) GN=btuD PE=1 SV=1
+P06612	TOP1_ECOLI DNA topoisomerase 1 OS=Escherichia coli (strain K12) GN=topA PE=1 SV=2
+P06616	ERA_ECOLI GTP-binding protein era OS=Escherichia coli (strain K12) GN=era PE=1 SV=2
+P06709	BIRA_ECOLI Bifunctional protein birA OS=Escherichia coli (strain K12) GN=birA PE=1 SV=1
+P06710	DPO3X_ECOLI DNA polymerase III subunit tau OS=Escherichia coli (strain K12) GN=dnaX PE=1 SV=1
+P06720	AGAL_ECOLI Alpha-galactosidase OS=Escherichia coli (strain K12) GN=melA PE=1 SV=1
+P06722	MUTH_ECOLI DNA mismatch repair protein mutH OS=Escherichia coli (strain K12) GN=mutH PE=1 SV=3
+P06846	EBGR_ECOLI HTH-type transcriptional regulator ebgR OS=Escherichia coli (strain K12) GN=ebgR PE=4 SV=2
+P06959	ODP2_ECOLI Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex OS=Escherichia coli (strain K12) GN=aceF PE=1 SV=3
+P06971	FHUA_ECOLI Ferrichrome-iron receptor OS=Escherichia coli (strain K12) GN=fhuA PE=1 SV=2
+P06983	HEM3_ECOLI Porphobilinogen deaminase OS=Escherichia coli (strain K12) GN=hemC PE=1 SV=2
+P06986	HIS8_ECOLI Histidinol-phosphate aminotransferase OS=Escherichia coli (strain K12) GN=hisC PE=1 SV=2
+P06987	HIS7_ECOLI Histidine biosynthesis bifunctional protein hisB OS=Escherichia coli (strain K12) GN=hisB PE=1 SV=1
+P06988	HISX_ECOLI Histidinol dehydrogenase OS=Escherichia coli (strain K12) GN=hisD PE=1 SV=5
+P06989	HIS2_ECOLI Histidine biosynthesis bifunctional protein hisIE OS=Escherichia coli (strain K12) GN=hisI PE=3 SV=3
+P06992	RSMA_ECOLI Ribosomal RNA small subunit methyltransferase A OS=Escherichia coli (strain K12) GN=rsmA PE=1 SV=1
+P06999	K6PF2_ECOLI 6-phosphofructokinase isozyme 2 OS=Escherichia coli (strain K12) GN=pfkB PE=1 SV=2
+P07000	PLDB_ECOLI Lysophospholipase L2 OS=Escherichia coli (strain K12) GN=pldB PE=4 SV=4
+P07001	PNTA_ECOLI NAD(P) transhydrogenase subunit alpha OS=Escherichia coli (strain K12) GN=pntA PE=1 SV=2
+P07003	POXB_ECOLI Pyruvate dehydrogenase [cytochrome] OS=Escherichia coli (strain K12) GN=poxB PE=1 SV=1
+P07012	RF2_ECOLI Peptide chain release factor 2 OS=Escherichia coli (strain K12) GN=prfB PE=1 SV=3
+P07014	DHSB_ECOLI Succinate dehydrogenase iron-sulfur subunit OS=Escherichia coli (strain K12) GN=sdhB PE=1 SV=1
+P07023	TYRA_ECOLI T-protein OS=Escherichia coli (strain K12) GN=tyrA PE=1 SV=1
+P07024	USHA_ECOLI Protein ushA OS=Escherichia coli (strain K12) GN=ushA PE=1 SV=2
+P07109	HISP_ECOLI Histidine transport ATP-binding protein hisP OS=Escherichia coli (strain K12) GN=hisP PE=1 SV=2
+P07117	PUTP_ECOLI Sodium/proline symporter OS=Escherichia coli (strain K12) GN=putP PE=1 SV=1
+P07118	SYV_ECOLI Valyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=valS PE=1 SV=2
+P07395	SYFB_ECOLI Phenylalanyl-tRNA synthetase beta chain OS=Escherichia coli (strain K12) GN=pheT PE=1 SV=2
+P07604	TYRR_ECOLI Transcriptional regulatory protein tyrR OS=Escherichia coli (strain K12) GN=tyrR PE=1 SV=2
+P07639	AROB_ECOLI 3-dehydroquinate synthase OS=Escherichia coli (strain K12) GN=aroB PE=3 SV=1
+P07648	EX5C_ECOLI Exodeoxyribonuclease V gamma chain OS=Escherichia coli (strain K12) GN=recC PE=1 SV=1
+P07650	TYPH_ECOLI Thymidine phosphorylase OS=Escherichia coli (strain K12) GN=deoA PE=1 SV=3
+P07813	SYL_ECOLI Leucyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=leuS PE=1 SV=2
+P07821	FHUC_ECOLI Iron(3+)-hydroxamate import ATP-binding protein fhuC OS=Escherichia coli (strain K12) GN=fhuC PE=1 SV=3
+P07822	FHUD_ECOLI Iron(3+)-hydroxamate-binding protein fhuD OS=Escherichia coli (strain K12) GN=fhuD PE=1 SV=3
+P07862	DDLB_ECOLI D-alanine--D-alanine ligase B OS=Escherichia coli (strain K12) GN=ddlB PE=1 SV=3
+P07913	TDH_ECOLI L-threonine 3-dehydrogenase OS=Escherichia coli (strain K12) GN=tdh PE=1 SV=1
+P08142	ILVB_ECOLI Acetolactate synthase isozyme 1 large subunit OS=Escherichia coli (strain K12) GN=ilvB PE=1 SV=1
+P08178	PUR5_ECOLI Phosphoribosylformylglycinamidine cyclo-ligase OS=Escherichia coli (strain K12) GN=purM PE=1 SV=3
+P08192	FOLC_ECOLI Bifunctional protein folC OS=Escherichia coli (strain K12) GN=folC PE=1 SV=2
+P08200	IDH_ECOLI Isocitrate dehydrogenase [NADP] OS=Escherichia coli (strain K12) GN=icd PE=1 SV=1
+P08312	SYFA_ECOLI Phenylalanyl-tRNA synthetase alpha chain OS=Escherichia coli (strain K12) GN=pheS PE=1 SV=2
+P08331	CPDB_ECOLI 2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase OS=Escherichia coli (strain K12) GN=cpdB PE=1 SV=2
+P08368	CREB_ECOLI Transcriptional regulatory protein creB OS=Escherichia coli (strain K12) GN=creB PE=3 SV=1
+P08390	USG_ECOLI USG-1 protein OS=Escherichia coli (strain K12) GN=usg PE=1 SV=1
+P08395	SPPA_ECOLI Protease 4 OS=Escherichia coli (strain K12) GN=sppA PE=1 SV=2
+P08506	DACC_ECOLI D-alanyl-D-alanine carboxypeptidase dacC OS=Escherichia coli (strain K12) GN=dacC PE=1 SV=2
+P08622	DNAJ_ECOLI Chaperone protein dnaJ OS=Escherichia coli (strain K12) GN=dnaJ PE=1 SV=3
+P08839	PT1_ECOLI Phosphoenolpyruvate-protein phosphotransferase OS=Escherichia coli (strain K12) GN=ptsI PE=1 SV=1
+P08956	T1RK_ECOLI Type I restriction enzyme EcoKI R protein OS=Escherichia coli (strain K12) GN=hsdR PE=3 SV=3
+P08957	T1MK_ECOLI Type I restriction enzyme EcoKI M protein OS=Escherichia coli (strain K12) GN=hsdM PE=1 SV=1
+P09030	EX3_ECOLI Exodeoxyribonuclease III OS=Escherichia coli (strain K12) GN=xthA PE=1 SV=4
+P09053	AVTA_ECOLI Valine--pyruvate aminotransferase OS=Escherichia coli (strain K12) GN=avtA PE=3 SV=3
+P09126	HEM4_ECOLI Uroporphyrinogen-III synthase OS=Escherichia coli (strain K12) GN=hemD PE=3 SV=1
+P09127	HEMX_ECOLI Putative uroporphyrinogen-III C-methyltransferase OS=Escherichia coli (strain K12) GN=hemX PE=1 SV=1
+P09152	NARG_ECOLI Respiratory nitrate reductase 1 alpha chain OS=Escherichia coli (strain K12) GN=narG PE=1 SV=4
+P09184	VSR_ECOLI Very short patch repair protein OS=Escherichia coli (strain K12) GN=vsr PE=1 SV=3
+P09323	PTW3C_ECOLI PTS system N-acetylglucosamine-specific EIICBA component OS=Escherichia coli (strain K12) GN=nagE PE=4 SV=1
+P09323	PTW3C_ECOLI PTS system N-acetylglucosamine-specific EIICBA component OS=Escherichia coli (strain K12) GN=nagE PE=4 SV=1
+P09372	GRPE_ECOLI Protein grpE OS=Escherichia coli (strain K12) GN=grpE PE=1 SV=1
+P09373	PFLB_ECOLI Formate acetyltransferase 1 OS=Escherichia coli (strain K12) GN=pflB PE=1 SV=2
+P09377	RHAS_ECOLI HTH-type transcriptional activator rhaS OS=Escherichia coli (strain K12) GN=rhaS PE=1 SV=1
+P09391	GLPG_ECOLI Rhomboid protease glpG OS=Escherichia coli (strain K12) GN=glpG PE=1 SV=5
+P09546	PUTA_ECOLI Bifunctional protein putA OS=Escherichia coli (strain K12) GN=putA PE=1 SV=3
+P09549	DEDD_ECOLI Protein dedD OS=Escherichia coli (strain K12) GN=dedD PE=4 SV=2
+P09551	ARGT_ECOLI Lysine-arginine-ornithine-binding periplasmic protein OS=Escherichia coli (strain K12) GN=argT PE=1 SV=3
+P09831	GLTB_ECOLI Glutamate synthase [NADPH] large chain OS=Escherichia coli (strain K12) GN=gltB PE=1 SV=2
+P09832	GLTD_ECOLI Glutamate synthase [NADPH] small chain OS=Escherichia coli (strain K12) GN=gltD PE=1 SV=3
+P09980	REP_ECOLI ATP-dependent DNA helicase rep OS=Escherichia coli (strain K12) GN=rep PE=1 SV=3
+P0A698	UVRA_ECOLI UvrABC system protein A OS=Escherichia coli (strain K12) GN=uvrA PE=1 SV=1
+P0A6A0	UBIB_ECOLI Probable ubiquinone biosynthesis protein ubiB OS=Escherichia coli (strain K12) GN=ubiB PE=1 SV=1
+P0A6A8	ACP_ECOLI Acyl carrier protein OS=Escherichia coli (strain K12) GN=acpP PE=1 SV=2
+P0A6B7	ISCS_ECOLI Cysteine desulfurase OS=Escherichia coli (strain K12) GN=iscS PE=1 SV=1
+P0A6C1	END4_ECOLI Endonuclease 4 OS=Escherichia coli (strain K12) GN=nfo PE=1 SV=1
+P0A6C5	ARGA_ECOLI Amino-acid acetyltransferase OS=Escherichia coli (strain K12) GN=argA PE=1 SV=1
+P0A6C8	ARGB_ECOLI Acetylglutamate kinase OS=Escherichia coli (strain K12) GN=argB PE=1 SV=1
+P0A6D0	ARGR_ECOLI Arginine repressor OS=Escherichia coli (strain K12) GN=argR PE=1 SV=1
+P0A6D3	AROA_ECOLI 3-phosphoshikimate 1-carboxyvinyltransferase OS=Escherichia coli (strain K12) GN=aroA PE=1 SV=1
+P0A6D7	AROK_ECOLI Shikimate kinase 1 OS=Escherichia coli (strain K12) GN=aroK PE=1 SV=2
+P0A6E1	AROL_ECOLI Shikimate kinase 2 OS=Escherichia coli (strain K12) GN=aroL PE=1 SV=3
+P0A6E4	ASSY_ECOLI Argininosuccinate synthase OS=Escherichia coli (strain K12) GN=argG PE=1 SV=2
+P0A6E6	ATPE_ECOLI ATP synthase epsilon chain OS=Escherichia coli (strain K12) GN=atpC PE=1 SV=2
+P0A6E9	BIOD2_ECOLI Putative dethiobiotin synthetase OS=Escherichia coli (strain K12) GN=ynfK PE=3 SV=1
+P0A6F1	CARA_ECOLI Carbamoyl-phosphate synthase small chain OS=Escherichia coli (strain K12) GN=carA PE=1 SV=1
+P0A6F3	GLPK_ECOLI Glycerol kinase OS=Escherichia coli (strain K12) GN=glpK PE=1 SV=2
+P0A6F5	CH60_ECOLI 60 kDa chaperonin OS=Escherichia coli (strain K12) GN=groL PE=1 SV=2
+P0A6F9	CH10_ECOLI 10 kDa chaperonin OS=Escherichia coli (strain K12) GN=groS PE=1 SV=1
+P0A6G7	CLPP_ECOLI ATP-dependent Clp protease proteolytic subunit OS=Escherichia coli (strain K12) GN=clpP PE=1 SV=1
+P0A6H1	CLPX_ECOLI ATP-dependent Clp protease ATP-binding subunit clpX OS=Escherichia coli (strain K12) GN=clpX PE=1 SV=2
+P0A6H5	HSLU_ECOLI ATP-dependent hsl protease ATP-binding subunit hslU OS=Escherichia coli (strain K12) GN=hslU PE=1 SV=1
+P0A6H8	CLS_ECOLI Cardiolipin synthase OS=Escherichia coli (strain K12) GN=cls PE=1 SV=1
+P0A6I0	KCY_ECOLI Cytidylate kinase OS=Escherichia coli (strain K12) GN=cmk PE=1 SV=1
+P0A6J1	CYSC_ECOLI Adenylyl-sulfate kinase OS=Escherichia coli (strain K12) GN=cysC PE=1 SV=2
+P0A6J3	CYSZ_ECOLI Protein cysZ OS=Escherichia coli (strain K12) GN=cysZ PE=1 SV=1
+P0A6J5	DADA_ECOLI D-amino acid dehydrogenase small subunit OS=Escherichia coli (strain K12) GN=dadA PE=2 SV=1
+P0A6J8	DDLA_ECOLI D-alanine--D-alanine ligase A OS=Escherichia coli (strain K12) GN=ddlA PE=3 SV=1
+P0A6K1	DAPF_ECOLI Diaminopimelate epimerase OS=Escherichia coli (strain K12) GN=dapF PE=3 SV=1
+P0A6K3	DEF_ECOLI Peptide deformylase OS=Escherichia coli (strain K12) GN=def PE=1 SV=2
+P0A6K6	DEOB_ECOLI Phosphopentomutase OS=Escherichia coli (strain K12) GN=deoB PE=1 SV=1
+P0A6L0	DEOC_ECOLI Deoxyribose-phosphate aldolase OS=Escherichia coli (strain K12) GN=deoC PE=1 SV=1
+P0A6L2	DAPA_ECOLI Dihydrodipicolinate synthase OS=Escherichia coli (strain K12) GN=dapA PE=1 SV=1
+P0A6L4	NANA_ECOLI N-acetylneuraminate lyase OS=Escherichia coli (strain K12) GN=nanA PE=1 SV=2
+P0A6L9	HSCB_ECOLI Co-chaperone protein hscB OS=Escherichia coli (strain K12) GN=hscB PE=1 SV=1
+P0A6M8	EFG_ECOLI Elongation factor G OS=Escherichia coli (strain K12) GN=fusA PE=1 SV=2
+P0CE47	EFTU_ECOLI Elongation factor Tu OS=Escherichia coli (strain K12) GN=tufA PE=1 SV=2
+P0A6N4	EFP_ECOLI Elongation factor P OS=Escherichia coli (strain K12) GN=efp PE=1 SV=2
+P0A6N8	EFPL_ECOLI Elongation factor P-like protein OS=Escherichia coli (strain K12) GN=yeiP PE=1 SV=1
+P0A6P1	EFTS_ECOLI Elongation factor Ts OS=Escherichia coli (strain K12) GN=tsf PE=1 SV=2
+P0A6P5	ENGA_ECOLI GTP-binding protein engA OS=Escherichia coli (strain K12) GN=engA PE=3 SV=1
+P0A6P7	ENGB_ECOLI Probable GTP-binding protein engB OS=Escherichia coli (strain K12) GN=engB PE=1 SV=1
+P0A6P9	ENO_ECOLI Enolase OS=Escherichia coli (strain K12) GN=eno PE=1 SV=2
+P0A6Q3	FABA_ECOLI 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase OS=Escherichia coli (strain K12) GN=fabA PE=1 SV=2
+P0A6Q6	FABZ_ECOLI (3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase OS=Escherichia coli (strain K12) GN=fabZ PE=1 SV=1
+P0A6R0	FABH_ECOLI 3-oxoacyl-[acyl-carrier-protein] synthase 3 OS=Escherichia coli (strain K12) GN=fabH PE=1 SV=1
+P0A6R3	FIS_ECOLI DNA-binding protein fis OS=Escherichia coli (strain K12) GN=fis PE=1 SV=1
+P0A6S0	FLGH_ECOLI Flagellar L-ring protein OS=Escherichia coli (strain K12) GN=flgH PE=3 SV=1
+P0A6S5	FTSB_ECOLI Cell division protein ftsB OS=Escherichia coli (strain K12) GN=ftsB PE=1 SV=1
+P0A6S7	GPDA_ECOLI Glycerol-3-phosphate dehydrogenase [NAD(P)+] OS=Escherichia coli (strain K12) GN=gpsA PE=3 SV=1
+P0A6T5	GCH1_ECOLI GTP cyclohydrolase 1 OS=Escherichia coli (strain K12) GN=folE PE=1 SV=2
+P0A6T9	GCSH_ECOLI Glycine cleavage system H protein OS=Escherichia coli (strain K12) GN=gcvH PE=1 SV=2
+P0A6U3	MNMG_ECOLI tRNA uridine 5-carboxymethylaminomethyl modification enzyme mnmG OS=Escherichia coli (strain K12) GN=mnmG PE=1 SV=1
+P0A6U5	RSMG_ECOLI Ribosomal RNA small subunit methyltransferase G OS=Escherichia coli (strain K12) GN=rsmG PE=1 SV=1
+P0A6U8	GLGA_ECOLI Glycogen synthase OS=Escherichia coli (strain K12) GN=glgA PE=1 SV=1
+P0A6W0	GLSA2_ECOLI Glutaminase 2 OS=Escherichia coli (strain K12) GN=glsA2 PE=3 SV=1
+P0A6W3	MRAY_ECOLI Phospho-N-acetylmuramoyl-pentapeptide-transferase OS=Escherichia coli (strain K12) GN=mraY PE=1 SV=1
+P0A6W5	GREA_ECOLI Transcription elongation factor greA OS=Escherichia coli (strain K12) GN=greA PE=1 SV=1
+P0A6X1	HEM1_ECOLI Glutamyl-tRNA reductase OS=Escherichia coli (strain K12) GN=hemA PE=1 SV=1
+P0A6X7	IHFA_ECOLI Integration host factor subunit alpha OS=Escherichia coli (strain K12) GN=ihfA PE=1 SV=1
+P0A6Y1	IHFB_ECOLI Integration host factor subunit beta OS=Escherichia coli (strain K12) GN=ihfB PE=1 SV=1
+P0A6Y5	HSLO_ECOLI 33 kDa chaperonin OS=Escherichia coli (strain K12) GN=hslO PE=1 SV=1
+P0A6Y8	DNAK_ECOLI Chaperone protein dnaK OS=Escherichia coli (strain K12) GN=dnaK PE=1 SV=2
+P0A6Z1	HSCA_ECOLI Chaperone protein hscA OS=Escherichia coli (strain K12) GN=hscA PE=1 SV=1
+P0A6Z3	HTPG_ECOLI Chaperone protein htpG OS=Escherichia coli (strain K12) GN=htpG PE=1 SV=1
+P0A6Z6	NIKR_ECOLI Nickel-responsive regulator OS=Escherichia coli (strain K12) GN=nikR PE=1 SV=1
+P0A705	IF2_ECOLI Translation initiation factor IF-2 OS=Escherichia coli (strain K12) GN=infB PE=1 SV=1
+P0A707	IF3_ECOLI Translation initiation factor IF-3 OS=Escherichia coli (strain K12) GN=infC PE=1 SV=1
+P0A715	KDSA_ECOLI 2-dehydro-3-deoxyphosphooctonate aldolase OS=Escherichia coli (strain K12) GN=kdsA PE=1 SV=1
+P0A717	KPRS_ECOLI Ribose-phosphate pyrophosphokinase OS=Escherichia coli (strain K12) GN=prs PE=1 SV=2
+P0A720	KTHY_ECOLI Thymidylate kinase OS=Escherichia coli (strain K12) GN=tmk PE=1 SV=1
+P0A722	LPXA_ECOLI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain K12) GN=lpxA PE=1 SV=1
+P0A725	LPXC_ECOLI UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase OS=Escherichia coli (strain K12) GN=lpxC PE=3 SV=1
+P0A734	MINE_ECOLI Cell division topological specificity factor OS=Escherichia coli (strain K12) GN=minE PE=1 SV=1
+P0A742	MSCL_ECOLI Large-conductance mechanosensitive channel OS=Escherichia coli (strain K12) GN=mscL PE=1 SV=1
+P0A744	MSRA_ECOLI Peptide methionine sulfoxide reductase msrA OS=Escherichia coli (strain K12) GN=msrA PE=1 SV=2
+P0A749	MURA_ECOLI UDP-N-acetylglucosamine 1-carboxyvinyltransferase OS=Escherichia coli (strain K12) GN=murA PE=1 SV=1
+P0A756	KEFG_ECOLI Glutathione-regulated potassium-efflux system ancillary protein kefG OS=Escherichia coli (strain K12) GN=kefG PE=3 SV=1
+P0A759	NAGB_ECOLI Glucosamine-6-phosphate deaminase OS=Escherichia coli (strain K12) GN=nagB PE=1 SV=1
+P0A763	NDK_ECOLI Nucleoside diphosphate kinase OS=Escherichia coli (strain K12) GN=ndk PE=1 SV=2
+P0A776	RPPH_ECOLI RNA pyrophosphohydrolase OS=Escherichia coli (strain K12) GN=rppH PE=1 SV=1
+P0A780	NUSB_ECOLI N utilization substance protein B OS=Escherichia coli (strain K12) GN=nusB PE=1 SV=1
+P0A786	PYRB_ECOLI Aspartate carbamoyltransferase catalytic chain OS=Escherichia coli (strain K12) GN=pyrB PE=1 SV=2
+P0A796	K6PF1_ECOLI 6-phosphofructokinase isozyme 1 OS=Escherichia coli (strain K12) GN=pfkA PE=1 SV=1
+P0A799	PGK_ECOLI Phosphoglycerate kinase OS=Escherichia coli (strain K12) GN=pgk PE=1 SV=2
+P0A7A2	GPMB_ECOLI Probable phosphoglycerate mutase gpmB OS=Escherichia coli (strain K12) GN=gpmB PE=1 SV=1
+P0A7A5	PIMT_ECOLI Protein-L-isoaspartate O-methyltransferase OS=Escherichia coli (strain K12) GN=pcm PE=1 SV=2
+P0A7A7	PLSB_ECOLI Glycerol-3-phosphate acyltransferase OS=Escherichia coli (strain K12) GN=plsB PE=1 SV=2
+P0A7B1	PPK_ECOLI Polyphosphate kinase OS=Escherichia coli (strain K12) GN=ppk PE=1 SV=2
+P0A7B3	PPNK_ECOLI Probable inorganic polyphosphate/ATP-NAD kinase OS=Escherichia coli (strain K12) GN=ppnK PE=3 SV=1
+P0A7B5	PROB_ECOLI Glutamate 5-kinase OS=Escherichia coli (strain K12) GN=proB PE=1 SV=1
+P0A7B8	HSLV_ECOLI ATP-dependent protease hslV OS=Escherichia coli (strain K12) GN=hslV PE=1 SV=2
+P0A7C2	LEXA_ECOLI LexA repressor OS=Escherichia coli (strain K12) GN=lexA PE=1 SV=1
+P0A7D1	PTH_ECOLI Peptidyl-tRNA hydrolase OS=Escherichia coli (strain K12) GN=pth PE=1 SV=1
+P0A7D4	PURA_ECOLI Adenylosuccinate synthetase OS=Escherichia coli (strain K12) GN=purA PE=1 SV=2
+P0A7D7	PUR7_ECOLI Phosphoribosylaminoimidazole-succinocarboxamide synthase OS=Escherichia coli (strain K12) GN=purC PE=1 SV=1
+P0A7E1	PYRD_ECOLI Dihydroorotate dehydrogenase OS=Escherichia coli (strain K12) GN=pyrD PE=1 SV=1
+P0A7E3	PYRE_ECOLI Orotate phosphoribosyltransferase OS=Escherichia coli (strain K12) GN=pyrE PE=1 SV=2
+P0A7E5	PYRG_ECOLI CTP synthase OS=Escherichia coli (strain K12) GN=pyrG PE=1 SV=2
+P0A7E9	PYRH_ECOLI Uridylate kinase OS=Escherichia coli (strain K12) GN=pyrH PE=1 SV=2
+P0A7F3	PYRI_ECOLI Aspartate carbamoyltransferase regulatory chain OS=Escherichia coli (strain K12) GN=pyrI PE=1 SV=2
+P0A7F9	QUEA_ECOLI S-adenosylmethionine:tRNA ribosyltransferase-isomerase OS=Escherichia coli (strain K12) GN=queA PE=1 SV=1
+P0A7G2	RBFA_ECOLI Ribosome-binding factor A OS=Escherichia coli (strain K12) GN=rbfA PE=1 SV=2
+P0A7H0	RECF_ECOLI DNA replication and repair protein recF OS=Escherichia coli (strain K12) GN=recF PE=1 SV=2
+P0A7I0	RF1_ECOLI Peptide chain release factor 1 OS=Escherichia coli (strain K12) GN=prfA PE=1 SV=1
+P0A7I4	RF3_ECOLI Peptide chain release factor 3 OS=Escherichia coli (strain K12) GN=prfC PE=1 SV=2
+P0A7I7	RIBA_ECOLI GTP cyclohydrolase-2 OS=Escherichia coli (strain K12) GN=ribA PE=1 SV=1
+P0A7J3	RL10_ECOLI 50S ribosomal protein L10 OS=Escherichia coli (strain K12) GN=rplJ PE=1 SV=2
+P0A7J7	RL11_ECOLI 50S ribosomal protein L11 OS=Escherichia coli (strain K12) GN=rplK PE=1 SV=2
+P0A7K2	RL7_ECOLI 50S ribosomal protein L7/L12 OS=Escherichia coli (strain K12) GN=rplL PE=1 SV=2
+P0A7K6	RL19_ECOLI 50S ribosomal protein L19 OS=Escherichia coli (strain K12) GN=rplS PE=1 SV=2
+P0A7L0	RL1_ECOLI 50S ribosomal protein L1 OS=Escherichia coli (strain K12) GN=rplA PE=1 SV=2
+P0A7L3	RL20_ECOLI 50S ribosomal protein L20 OS=Escherichia coli (strain K12) GN=rplT PE=1 SV=2
+P0A7L8	RL27_ECOLI 50S ribosomal protein L27 OS=Escherichia coli (strain K12) GN=rpmA PE=1 SV=2
+P0A7M2	RL28_ECOLI 50S ribosomal protein L28 OS=Escherichia coli (strain K12) GN=rpmB PE=1 SV=2
+P0A7M6	RL29_ECOLI 50S ribosomal protein L29 OS=Escherichia coli (strain K12) GN=rpmC PE=1 SV=1
+P0A7M9	RL31_ECOLI 50S ribosomal protein L31 OS=Escherichia coli (strain K12) GN=rpmE PE=1 SV=1
+P0A7N4	RL32_ECOLI 50S ribosomal protein L32 OS=Escherichia coli (strain K12) GN=rpmF PE=1 SV=2
+P0A7N9	RL33_ECOLI 50S ribosomal protein L33 OS=Escherichia coli (strain K12) GN=rpmG PE=1 SV=2
+P0A7Q1	RL35_ECOLI 50S ribosomal protein L35 OS=Escherichia coli (strain K12) GN=rpmI PE=1 SV=2
+P0A7R1	RL9_ECOLI 50S ribosomal protein L9 OS=Escherichia coli (strain K12) GN=rplI PE=1 SV=1
+P0A7R5	RS10_ECOLI 30S ribosomal protein S10 OS=Escherichia coli (strain K12) GN=rpsJ PE=1 SV=1
+P0A7R9	RS11_ECOLI 30S ribosomal protein S11 OS=Escherichia coli (strain K12) GN=rpsK PE=1 SV=2
+P0A7S3	RS12_ECOLI 30S ribosomal protein S12 OS=Escherichia coli (strain K12) GN=rpsL PE=1 SV=2
+P0A7S9	RS13_ECOLI 30S ribosomal protein S13 OS=Escherichia coli (strain K12) GN=rpsM PE=1 SV=2
+P0A7T3	RS16_ECOLI 30S ribosomal protein S16 OS=Escherichia coli (strain K12) GN=rpsP PE=1 SV=1
+P0A7T7	RS18_ECOLI 30S ribosomal protein S18 OS=Escherichia coli (strain K12) GN=rpsR PE=1 SV=2
+P0A7U3	RS19_ECOLI 30S ribosomal protein S19 OS=Escherichia coli (strain K12) GN=rpsS PE=1 SV=2
+P0A7U7	RS20_ECOLI 30S ribosomal protein S20 OS=Escherichia coli (strain K12) GN=rpsT PE=1 SV=2
+P0A7V0	RS2_ECOLI 30S ribosomal protein S2 OS=Escherichia coli (strain K12) GN=rpsB PE=1 SV=2
+P0A7V3	RS3_ECOLI 30S ribosomal protein S3 OS=Escherichia coli (strain K12) GN=rpsC PE=1 SV=2
+P0A7V8	RS4_ECOLI 30S ribosomal protein S4 OS=Escherichia coli (strain K12) GN=rpsD PE=1 SV=2
+P0A7W1	RS5_ECOLI 30S ribosomal protein S5 OS=Escherichia coli (strain K12) GN=rpsE PE=1 SV=2
+P0A7W7	RS8_ECOLI 30S ribosomal protein S8 OS=Escherichia coli (strain K12) GN=rpsH PE=1 SV=2
+P0A7X3	RS9_ECOLI 30S ribosomal protein S9 OS=Escherichia coli (strain K12) GN=rpsI PE=1 SV=2
+P0A7X6	RIMM_ECOLI Ribosome maturation factor rimM OS=Escherichia coli (strain K12) GN=rimM PE=1 SV=1
+P0A7Y0	RNC_ECOLI Ribonuclease 3 OS=Escherichia coli (strain K12) GN=rnc PE=1 SV=1
+P0A7Y4	RNH_ECOLI Ribonuclease HI OS=Escherichia coli (strain K12) GN=rnhA PE=1 SV=1
+P0A7Y8	RNPA_ECOLI Ribonuclease P protein component OS=Escherichia coli (strain K12) GN=rnpA PE=3 SV=1
+P0A7Z0	RPIA_ECOLI Ribose-5-phosphate isomerase A OS=Escherichia coli (strain K12) GN=rpiA PE=1 SV=1
+P0A7Z4	RPOA_ECOLI DNA-directed RNA polymerase subunit alpha OS=Escherichia coli (strain K12) GN=rpoA PE=1 SV=1
+P0A800	RPOZ_ECOLI DNA-directed RNA polymerase subunit omega OS=Escherichia coli (strain K12) GN=rpoZ PE=1 SV=1
+P0A805	RRF_ECOLI Ribosome-recycling factor OS=Escherichia coli (strain K12) GN=frr PE=1 SV=1
+P0A809	RUVA_ECOLI Holliday junction ATP-dependent DNA helicase ruvA OS=Escherichia coli (strain K12) GN=ruvA PE=1 SV=1
+P0A812	RUVB_ECOLI Holliday junction ATP-dependent DNA helicase ruvB OS=Escherichia coli (strain K12) GN=ruvB PE=1 SV=1
+P0A814	RUVC_ECOLI Crossover junction endodeoxyribonuclease ruvC OS=Escherichia coli (strain K12) GN=ruvC PE=1 SV=2
+P0A817	METK_ECOLI S-adenosylmethionine synthetase OS=Escherichia coli (strain K12) GN=metK PE=1 SV=2
+P0A823	SFSA_ECOLI Sugar fermentation stimulation protein A OS=Escherichia coli (strain K12) GN=sfsA PE=3 SV=1
+P0A825	GLYA_ECOLI Serine hydroxymethyltransferase OS=Escherichia coli (strain K12) GN=glyA PE=1 SV=1
+P0A830	DCTA_ECOLI Aerobic C4-dicarboxylate transport protein OS=Escherichia coli (strain K12) GN=dctA PE=1 SV=1
+P0A832	SSRP_ECOLI SsrA-binding protein OS=Escherichia coli (strain K12) GN=smpB PE=1 SV=2
+P0A836	SUCC_ECOLI Succinyl-CoA ligase [ADP-forming] subunit beta OS=Escherichia coli (strain K12) GN=sucC PE=1 SV=1
+P0A840	SURE_ECOLI Multifunctional protein surE OS=Escherichia coli (strain K12) GN=surE PE=1 SV=1
+P0A850	TIG_ECOLI Trigger factor OS=Escherichia coli (strain K12) GN=tig PE=1 SV=1
+P0A855	TOLB_ECOLI Protein tolB OS=Escherichia coli (strain K12) GN=tolB PE=1 SV=1
+P0A858	TPIS_ECOLI Triosephosphate isomerase OS=Escherichia coli (strain K12) GN=tpiA PE=1 SV=1
+P0A862	TPX_ECOLI Thiol peroxidase OS=Escherichia coli (strain K12) GN=tpx PE=1 SV=2
+P0A867	TALA_ECOLI Transaldolase A OS=Escherichia coli (strain K12) GN=talA PE=1 SV=1
+P0A870	TALB_ECOLI Transaldolase B OS=Escherichia coli (strain K12) GN=talB PE=1 SV=2
+P0A877	TRPA_ECOLI Tryptophan synthase alpha chain OS=Escherichia coli (strain K12) GN=trpA PE=1 SV=1
+P0A879	TRPB_ECOLI Tryptophan synthase beta chain OS=Escherichia coli (strain K12) GN=trpB PE=1 SV=2
+P0A887	UBIE_ECOLI Ubiquinone/menaquinone biosynthesis methyltransferase ubiE OS=Escherichia coli (strain K12) GN=ubiE PE=1 SV=1
+P0A894	YHBJ_ECOLI UPF0042 nucleotide-binding protein yhbJ OS=Escherichia coli (strain K12) GN=yhbJ PE=1 SV=1
+P0A898	YBEY_ECOLI Putative metalloprotease ybeY OS=Escherichia coli (strain K12) GN=ybeY PE=1 SV=1
+P0A8A0	YEBC_ECOLI UPF0082 protein yebC OS=Escherichia coli (strain K12) GN=yebC PE=1 SV=1
+P0A8A2	YEEN_ECOLI UPF0082 protein yeeN OS=Escherichia coli (strain K12) GN=yeeN PE=1 SV=1
+P0A8A4	YDIA_ECOLI Putative phosphotransferase ydiA OS=Escherichia coli (strain K12) GN=ydiA PE=1 SV=1
+P0A8A8	RIMP_ECOLI Ribosome maturation factor rimP OS=Escherichia coli (strain K12) GN=rimP PE=1 SV=2
+P0A8B2	YFCN_ECOLI UPF0115 protein yfcN OS=Escherichia coli (strain K12) GN=yfcN PE=3 SV=1
+P0A8C1	YBJQ_ECOLI UPF0145 protein ybjQ OS=Escherichia coli (strain K12) GN=ybjQ PE=1 SV=1
+P0A8C4	YGFB_ECOLI UPF0149 protein ygfB OS=Escherichia coli (strain K12) GN=ygfB PE=3 SV=1
+P0A8D0	NRDR_ECOLI Transcriptional repressor nrdR OS=Escherichia coli (strain K12) GN=nrdR PE=1 SV=1
+P0A8D3	YAII_ECOLI UPF0178 protein yaiI OS=Escherichia coli (strain K12) GN=yaiI PE=1 SV=1
+P0A8D6	YMDB_ECOLI UPF0189 protein ymdB OS=Escherichia coli (strain K12) GN=ymdB PE=1 SV=1
+P0A8E1	YCFP_ECOLI UPF0227 protein ycfP OS=Escherichia coli (strain K12) GN=ycfP PE=3 SV=1
+P0A8E7	YAJQ_ECOLI UPF0234 protein yajQ OS=Escherichia coli (strain K12) GN=yajQ PE=1 SV=2
+P0A8F0	UPP_ECOLI Uracil phosphoribosyltransferase OS=Escherichia coli (strain K12) GN=upp PE=1 SV=1
+P0A8F4	URK_ECOLI Uridine kinase OS=Escherichia coli (strain K12) GN=udk PE=3 SV=1
+P0A8F8	UVRB_ECOLI UvrABC system protein B OS=Escherichia coli (strain K12) GN=uvrB PE=1 SV=2
+P0A8G0	UVRC_ECOLI UvrABC system protein C OS=Escherichia coli (strain K12) GN=uvrC PE=1 SV=1
+P0A8G6	WRBA_ECOLI Flavoprotein wrbA OS=Escherichia coli (strain K12) GN=wrbA PE=1 SV=2
+P0A8H6	YIHI_ECOLI UPF0241 protein yihI OS=Escherichia coli (strain K12) GN=yihI PE=1 SV=1
+P0A8I1	RUVX_ECOLI Putative Holliday junction resolvase OS=Escherichia coli (strain K12) GN=yqgF PE=1 SV=1
+P0A8I3	YAAA_ECOLI UPF0246 protein yaaA OS=Escherichia coli (strain K12) GN=yaaA PE=1 SV=1
+P0A8I5	TRMB_ECOLI tRNA (guanine-N(7)-)-methyltransferase OS=Escherichia coli (strain K12) GN=trmB PE=1 SV=1
+P0A8I8	RLMH_ECOLI Ribosomal RNA large subunit methyltransferase H OS=Escherichia coli (strain K12) GN=rlmH PE=1 SV=1
+P0A8J2	DNAT_ECOLI Primosomal protein 1 OS=Escherichia coli (strain K12) GN=dnaT PE=1 SV=2
+P0A8J4	YBED_ECOLI UPF0250 protein ybeD OS=Escherichia coli (strain K12) GN=ybeD PE=1 SV=1
+P0A8J8	RHLB_ECOLI ATP-dependent RNA helicase rhlB OS=Escherichia coli (strain K12) GN=rhlB PE=1 SV=2
+P0A8K1	PSD_ECOLI Phosphatidylserine decarboxylase proenzyme OS=Escherichia coli (strain K12) GN=psd PE=1 SV=1
+P0A8L1	SYS_ECOLI Seryl-tRNA synthetase OS=Escherichia coli (strain K12) GN=serS PE=1 SV=1
+P0A8M0	SYN_ECOLI Asparaginyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=asnS PE=1 SV=2
+P0A8M3	SYT_ECOLI Threonyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=thrS PE=1 SV=1
+P0A8M6	YEEX_ECOLI UPF0265 protein yeeX OS=Escherichia coli (strain K12) GN=yeeX PE=3 SV=1
+P0A8N0	YCBG_ECOLI UPF0268 protein ycbG OS=Escherichia coli (strain K12) GN=ycbG PE=3 SV=1
+P0A8N3	SYK1_ECOLI Lysyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=lysS PE=1 SV=2
+P0A8N5	SYK2_ECOLI Lysyl-tRNA synthetase, heat inducible OS=Escherichia coli (strain K12) GN=lysU PE=1 SV=2
+P0A8P1	LFTR_ECOLI Leucyl/phenylalanyl-tRNA--protein transferase OS=Escherichia coli (strain K12) GN=aat PE=1 SV=1
+P0A8R0	RRAA_ECOLI Regulator of ribonuclease activity A OS=Escherichia coli (strain K12) GN=rraA PE=1 SV=1
+P0A8R7	YCJF_ECOLI UPF0283 membrane protein ycjF OS=Escherichia coli (strain K12) GN=ycjF PE=1 SV=1
+P0A8R9	HDFR_ECOLI HTH-type transcriptional regulator hdfR OS=Escherichia coli (strain K12) GN=hdfR PE=3 SV=1
+P0A8S1	ICIA_ECOLI Chromosome initiation inhibitor OS=Escherichia coli (strain K12) GN=iciA PE=1 SV=1
+P0A8T1	PRMA_ECOLI Ribosomal protein L11 methyltransferase OS=Escherichia coli (strain K12) GN=prmA PE=1 SV=1
+P0A8T7	RPOC_ECOLI DNA-directed RNA polymerase subunit beta' OS=Escherichia coli (strain K12) GN=rpoC PE=1 SV=1
+P0A8U0	SYDP_ECOLI Protein syd OS=Escherichia coli (strain K12) GN=syd PE=1 SV=1
+P0A8V2	RPOB_ECOLI DNA-directed RNA polymerase subunit beta OS=Escherichia coli (strain K12) GN=rpoB PE=1 SV=1
+P0A8V6	FADR_ECOLI Fatty acid metabolism regulator protein OS=Escherichia coli (strain K12) GN=fadR PE=1 SV=2
+P0A8W0	NANR_ECOLI Transcriptional regulator nanR OS=Escherichia coli (strain K12) GN=nanR PE=3 SV=1
+P0A8W2	SLYA_ECOLI Transcriptional regulator slyA OS=Escherichia coli (strain K12) GN=slyA PE=3 SV=1
+P0A8W5	YQGE_ECOLI UPF0301 protein yqgE OS=Escherichia coli (strain K12) GN=yqgE PE=1 SV=1
+P0A8W8	YFBU_ECOLI UPF0304 protein yfbU OS=Escherichia coli (strain K12) GN=yfbU PE=1 SV=1
+P0A8X0	YJGA_ECOLI UPF0307 protein yjgA OS=Escherichia coli (strain K12) GN=yjgA PE=1 SV=1
+P0A8Y1	YJJG_ECOLI 5'-nucleotidase yjjG OS=Escherichia coli (strain K12) GN=yjjG PE=1 SV=1
+P0A8Y5	YIDA_ECOLI Phosphatase yidA OS=Escherichia coli (strain K12) GN=yidA PE=1 SV=1
+P0A8Z0	YCIA_ECOLI Acyl-CoA thioester hydrolase yciA OS=Escherichia coli (strain K12) GN=yciA PE=3 SV=1
+P0A8Z3	YBGC_ECOLI Acyl-CoA thioester hydrolase ybgC OS=Escherichia coli (strain K12) GN=ybgC PE=1 SV=1
+P0A8Z7	YQIA_ECOLI Esterase yqiA OS=Escherichia coli (strain K12) GN=yqiA PE=4 SV=1
+P0A903	NLPB_ECOLI Lipoprotein 34 OS=Escherichia coli (strain K12) GN=nlpB PE=1 SV=1
+P0A905	SLYB_ECOLI Outer membrane lipoprotein slyB OS=Escherichia coli (strain K12) GN=slyB PE=2 SV=1
+P0A908	MIPA_ECOLI MltA-interacting protein OS=Escherichia coli (strain K12) GN=mipA PE=1 SV=1
+P0A910	OMPA_ECOLI Outer membrane protein A OS=Escherichia coli (strain K12) GN=ompA PE=1 SV=1
+P0A912	PAL_ECOLI Peptidoglycan-associated lipoprotein OS=Escherichia coli (strain K12) GN=pal PE=1 SV=1
+P0A917	OMPX_ECOLI Outer membrane protein X OS=Escherichia coli (strain K12) GN=ompX PE=1 SV=1
+P0A921	PA1_ECOLI Phospholipase A1 OS=Escherichia coli (strain K12) GN=pldA PE=1 SV=1
+P0A927	TSX_ECOLI Nucleoside-specific channel-forming protein tsx OS=Escherichia coli (strain K12) GN=tsx PE=1 SV=1
+P0A935	MLTA_ECOLI Membrane-bound lytic murein transglycosylase A OS=Escherichia coli (strain K12) GN=mltA PE=1 SV=1
+P0A937	SMPA_ECOLI Small protein A OS=Escherichia coli (strain K12) GN=smpA PE=3 SV=1
+P0A940	YAET_ECOLI Outer membrane protein assembly factor yaeT OS=Escherichia coli (strain K12) GN=yaeT PE=1 SV=1
+P0A948	RIMJ_ECOLI Ribosomal-protein-alanine acetyltransferase OS=Escherichia coli (strain K12) GN=rimJ PE=1 SV=1
+P0A951	ATDA_ECOLI Spermidine N(1)-acetyltransferase OS=Escherichia coli (strain K12) GN=speG PE=1 SV=2
+P0A953	FABB_ECOLI 3-oxoacyl-[acyl-carrier-protein] synthase 1 OS=Escherichia coli (strain K12) GN=fabB PE=1 SV=1
+P0A955	ALKH_ECOLI KHG/KDPG aldolase OS=Escherichia coli (strain K12) GN=eda PE=1 SV=1
+P0A959	YFBQ_ECOLI Uncharacterized aminotransferase yfbQ OS=Escherichia coli (strain K12) GN=yfbQ PE=1 SV=1
+P0A988	DPO3B_ECOLI DNA polymerase III subunit beta OS=Escherichia coli (strain K12) GN=dnaN PE=1 SV=1
+P0A991	ALF1_ECOLI Fructose-bisphosphate aldolase class 1 OS=Escherichia coli (strain K12) GN=fbaB PE=1 SV=2
+P0A993	F16PA_ECOLI Fructose-1,6-bisphosphatase class 1 OS=Escherichia coli (strain K12) GN=fbp PE=1 SV=1
+P0A998	FTNA_ECOLI Ferritin-1 OS=Escherichia coli (strain K12) GN=ftnA PE=1 SV=1
+P0A9A2	FTNB_ECOLI Ferritin-like protein 2 OS=Escherichia coli (strain K12) GN=ftnB PE=3 SV=1
+P0A9A6	FTSZ_ECOLI Cell division protein ftsZ OS=Escherichia coli (strain K12) GN=ftsZ PE=1 SV=1
+P0A9B2	G3P1_ECOLI Glyceraldehyde-3-phosphate dehydrogenase A OS=Escherichia coli (strain K12) GN=gapA PE=1 SV=2
+P0A9C0	GLPA_ECOLI Anaerobic glycerol-3-phosphate dehydrogenase subunit A OS=Escherichia coli (strain K12) GN=glpA PE=1 SV=1
+P0A9C5	GLNA_ECOLI Glutamine synthetase OS=Escherichia coli (strain K12) GN=glnA PE=1 SV=2
+P0A9C9	GLPX_ECOLI Fructose-1,6-bisphosphatase class 2 OS=Escherichia coli (strain K12) GN=glpX PE=1 SV=1
+P0A9D8	DAPD_ECOLI 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase OS=Escherichia coli (strain K12) GN=dapD PE=1 SV=1
+P0A9E5	FNR_ECOLI Fumarate and nitrate reduction regulatory protein OS=Escherichia coli (strain K12) GN=fnr PE=1 SV=1
+P0A9F1	MNTR_ECOLI Transcriptional regulator mntR OS=Escherichia coli (strain K12) GN=mntR PE=1 SV=1
+P0A9F3	CYSB_ECOLI HTH-type transcriptional regulator cysB OS=Escherichia coli (strain K12) GN=cysB PE=3 SV=1
+P0A9F6	GCVA_ECOLI Glycine cleavage system transcriptional activator OS=Escherichia coli (strain K12) GN=gcvA PE=1 SV=1
+P0A9F9	METR_ECOLI HTH-type transcriptional regulator metR OS=Escherichia coli (strain K12) GN=metR PE=4 SV=1
+P0A9G2	NHAR_ECOLI Transcriptional activator protein nhaR OS=Escherichia coli (strain K12) GN=nhaR PE=1 SV=1
+P0A9G6	ACEA_ECOLI Isocitrate lyase OS=Escherichia coli (strain K12) GN=aceA PE=1 SV=1
+P0A9H1	MUG_ECOLI G/U mismatch-specific DNA glycosylase OS=Escherichia coli (strain K12) GN=mug PE=1 SV=1
+P0A9H5	BTUR_ECOLI Cob(I)yrinic acid a,c-diamide adenosyltransferase OS=Escherichia coli (strain K12) GN=btuR PE=3 SV=1
+P0A9H7	CFA_ECOLI Cyclopropane-fatty-acyl-phospholipid synthase OS=Escherichia coli (strain K12) GN=cfa PE=1 SV=2
+P0A9H9	CHEZ_ECOLI Chemotaxis protein cheZ OS=Escherichia coli (strain K12) GN=cheZ PE=1 SV=1
+P0A9I1	CITE_ECOLI Citrate lyase subunit beta OS=Escherichia coli (strain K12) GN=citE PE=3 SV=1
+P0A9I3	GCVR_ECOLI Glycine cleavage system transcriptional repressor OS=Escherichia coli (strain K12) GN=gcvR PE=1 SV=2
+P0A9J0	RNG_ECOLI Ribonuclease G OS=Escherichia coli (strain K12) GN=rng PE=1 SV=2
+P0A9J4	PANE_ECOLI 2-dehydropantoate 2-reductase OS=Escherichia coli (strain K12) GN=panE PE=1 SV=1
+P0A9J8	PHEA_ECOLI P-protein OS=Escherichia coli (strain K12) GN=pheA PE=1 SV=1
+P0A9K1	PHOH_ECOLI Protein phoH OS=Escherichia coli (strain K12) GN=phoH PE=1 SV=1
+P0A9K3	PHOL_ECOLI PhoH-like protein OS=Escherichia coli (strain K12) GN=ybeZ PE=1 SV=2
+P0A9K7	PHOU_ECOLI Phosphate transport system protein phoU OS=Escherichia coli (strain K12) GN=phoU PE=1 SV=1
+P0A9K9	SLYD_ECOLI FKBP-type peptidyl-prolyl cis-trans isomerase slyD OS=Escherichia coli (strain K12) GN=slyD PE=1 SV=1
+P0A9L3	FKBB_ECOLI FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase OS=Escherichia coli (strain K12) GN=fklB PE=1 SV=2
+P0A9L5	PPIC_ECOLI Peptidyl-prolyl cis-trans isomerase C OS=Escherichia coli (strain K12) GN=ppiC PE=1 SV=2
+P0A9L8	P5CR_ECOLI Pyrroline-5-carboxylate reductase OS=Escherichia coli (strain K12) GN=proC PE=1 SV=1
+P0A9M0	LON_ECOLI ATP-dependent protease La OS=Escherichia coli (strain K12) GN=lon PE=1 SV=1
+P0A9M2	HPRT_ECOLI Hypoxanthine phosphoribosyltransferase OS=Escherichia coli (strain K12) GN=hpt PE=1 SV=1
+P0A9M5	XGPT_ECOLI Xanthine phosphoribosyltransferase OS=Escherichia coli (strain K12) GN=gpt PE=1 SV=1
+P0A9M8	PTA_ECOLI Phosphate acetyltransferase OS=Escherichia coli (strain K12) GN=pta PE=1 SV=2
+P0A9P0	DLDH_ECOLI Dihydrolipoyl dehydrogenase OS=Escherichia coli (strain K12) GN=lpdA PE=1 SV=2
+P0A9P4	TRXB_ECOLI Thioredoxin reductase OS=Escherichia coli (strain K12) GN=trxB PE=1 SV=2
+P0A9P6	DEAD_ECOLI Cold-shock DEAD box protein A OS=Escherichia coli (strain K12) GN=deaD PE=1 SV=2
+P0A9Q1	ARCA_ECOLI Aerobic respiration control protein arcA OS=Escherichia coli (strain K12) GN=arcA PE=1 SV=1
+P0A9Q5	ACCD_ECOLI Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta OS=Escherichia coli (strain K12) GN=accD PE=1 SV=1
+P0A9Q9	DHAS_ECOLI Aspartate-semialdehyde dehydrogenase OS=Escherichia coli (strain K12) GN=asd PE=1 SV=1
+P0A9R7	FTSE_ECOLI Cell division ATP-binding protein ftsE OS=Escherichia coli (strain K12) GN=ftsE PE=1 SV=1
+P0A9S3	GATD_ECOLI Galactitol-1-phosphate 5-dehydrogenase OS=Escherichia coli (strain K12) GN=gatD PE=3 SV=1
+P0A9S7	LIVG_ECOLI High-affinity branched-chain amino acid transport ATP-binding protein livG OS=Escherichia coli (strain K12) GN=livG PE=3 SV=1
+P0A9T4	TAS_ECOLI Protein tas OS=Escherichia coli (strain K12) GN=tas PE=1 SV=1
+P0A9T8	YBBA_ECOLI Uncharacterized ABC transporter ATP-binding protein ybbA OS=Escherichia coli (strain K12) GN=ybbA PE=3 SV=1
+P0A9U1	YBHF_ECOLI Uncharacterized ABC transporter ATP-binding protein ybhF OS=Escherichia coli (strain K12) GN=ybhF PE=1 SV=1
+P0A9U3	YBIT_ECOLI Uncharacterized ABC transporter ATP-binding protein ybiT OS=Escherichia coli (strain K12) GN=ybiT PE=1 SV=1
+P0A9V1	LPTB_ECOLI Lipopolysaccharide export system ATP-binding protein lptB OS=Escherichia coli (strain K12) GN=lptB PE=1 SV=2
+P0A9W0	ULAR_ECOLI HTH-type transcriptional regulator ulaR OS=Escherichia coli (strain K12) GN=ulaR PE=1 SV=1
+P0A9W3	YJJK_ECOLI Uncharacterized ABC transporter ATP-binding protein yjjK OS=Escherichia coli (strain K12) GN=yjjK PE=1 SV=2
+P0A9W9	YRDA_ECOLI Protein yrdA OS=Escherichia coli (strain K12) GN=yrdA PE=1 SV=1
+P0A9X1	ZNUC_ECOLI Zinc import ATP-binding protein znuC OS=Escherichia coli (strain K12) GN=znuC PE=1 SV=1
+P0A9X4	MREB_ECOLI Rod shape-determining protein mreB OS=Escherichia coli (strain K12) GN=mreB PE=1 SV=1
+P0AA10	RL13_ECOLI 50S ribosomal protein L13 OS=Escherichia coli (strain K12) GN=rplM PE=1 SV=1
+P0AA16	OMPR_ECOLI Transcriptional regulatory protein ompR OS=Escherichia coli (strain K12) GN=ompR PE=1 SV=1
+P0AA25	THIO_ECOLI Thioredoxin-1 OS=Escherichia coli (strain K12) GN=trxA PE=1 SV=2
+P0AA39	RLUC_ECOLI Ribosomal large subunit pseudouridine synthase C OS=Escherichia coli (strain K12) GN=rluC PE=1 SV=1
+P0AA53	QMCA_ECOLI Protein qmcA OS=Escherichia coli (strain K12) GN=qmcA PE=3 SV=1
+P0AA86	DSBE_ECOLI Thiol:disulfide interchange protein dsbE OS=Escherichia coli (strain K12) GN=dsbE PE=1 SV=1
+P0AA91	YEAY_ECOLI Uncharacterized lipoprotein yeaY OS=Escherichia coli (strain K12) GN=yeaY PE=4 SV=1
+P0AA97	YAEQ_ECOLI Uncharacterized protein yaeQ OS=Escherichia coli (strain K12) GN=yaeQ PE=1 SV=1
+P0AAA1	YAGU_ECOLI Inner membrane protein yagU OS=Escherichia coli (strain K12) GN=yagU PE=1 SV=1
+P0AAB4	UBID_ECOLI 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=Escherichia coli (strain K12) GN=ubiD PE=1 SV=1
+P0AAB6	GALF_ECOLI UTP--glucose-1-phosphate uridylyltransferase OS=Escherichia coli (strain K12) GN=galF PE=1 SV=1
+P0AAB8	USPD_ECOLI Universal stress protein D OS=Escherichia coli (strain K12) GN=uspD PE=2 SV=1
+P0AAC0	USPE_ECOLI Universal stress protein E OS=Escherichia coli (strain K12) GN=uspE PE=1 SV=2
+P0AAC4	YBHL_ECOLI Inner membrane protein ybhL OS=Escherichia coli (strain K12) GN=ybhL PE=1 SV=1
+P0AAC8	ISCA_ECOLI Iron-binding protein iscA OS=Escherichia coli (strain K12) GN=iscA PE=1 SV=1
+P0AAD6	SDAC_ECOLI Serine transporter OS=Escherichia coli (strain K12) GN=sdaC PE=1 SV=1
+P0AAE0	CYCA_ECOLI D-serine/D-alanine/glycine transporter OS=Escherichia coli (strain K12) GN=cycA PE=1 SV=1
+P0AAF6	ARTP_ECOLI Arginine transport ATP-binding protein artP OS=Escherichia coli (strain K12) GN=artP PE=1 SV=1
+P0AAG0	DPPD_ECOLI Dipeptide transport ATP-binding protein dppD OS=Escherichia coli (strain K12) GN=dppD PE=3 SV=1
+P0AAG8	MGLA_ECOLI Galactose/methyl galactoside import ATP-binding protein mglA OS=Escherichia coli (strain K12) GN=mglA PE=1 SV=1
+P0AAH0	PSTB_ECOLI Phosphate import ATP-binding protein pstB OS=Escherichia coli (strain K12) GN=pstB PE=1 SV=2
+P0AAH4	SAPD_ECOLI Peptide transport system ATP-binding protein sapD OS=Escherichia coli (strain K12) GN=sapD PE=3 SV=1
+P0AAH8	SAPF_ECOLI Peptide transport system ATP-binding protein sapF OS=Escherichia coli (strain K12) GN=sapF PE=1 SV=1
+P0AAI3	FTSH_ECOLI Cell division protease ftsH OS=Escherichia coli (strain K12) GN=ftsH PE=1 SV=1
+P0AAI5	FABF_ECOLI 3-oxoacyl-[acyl-carrier-protein] synthase 2 OS=Escherichia coli (strain K12) GN=fabF PE=1 SV=2
+P0AAI9	FABD_ECOLI Malonyl CoA-acyl carrier protein transacylase OS=Escherichia coli (strain K12) GN=fabD PE=1 SV=2
+P0AAJ5	FDOH_ECOLI Formate dehydrogenase-O iron-sulfur subunit OS=Escherichia coli (strain K12) GN=fdoH PE=1 SV=1
+P0AAN1	HYBE_ECOLI Hydrogenase-2 operon protein hybE OS=Escherichia coli (strain K12) GN=hybE PE=1 SV=1
+P0AAP3	FRMR_ECOLI Transcriptional repressor frmR OS=Escherichia coli (strain K12) GN=frmR PE=1 SV=1
+P0AAR3	YBAK_ECOLI Uncharacterized protein ybaK OS=Escherichia coli (strain K12) GN=ybaK PE=1 SV=1
+P0AAS0	YLAC_ECOLI Inner membrane protein ylaC OS=Escherichia coli (strain K12) GN=ylaC PE=1 SV=2
+P0AAT4	YBDG_ECOLI Uncharacterized protein ybdG OS=Escherichia coli (strain K12) GN=ybdG PE=4 SV=1
+P0AAT9	YBEL_ECOLI Uncharacterized protein ybeL OS=Escherichia coli (strain K12) GN=ybeL PE=4 SV=1
+P0AAW1	YBHP_ECOLI Uncharacterized protein ybhP OS=Escherichia coli (strain K12) GN=ybhP PE=4 SV=1
+P0AAX8	YBIS_ECOLI Uncharacterized protein ybiS OS=Escherichia coli (strain K12) GN=ybiS PE=1 SV=1
+P0AAY6	YBJN_ECOLI Uncharacterized protein ybjN OS=Escherichia coli (strain K12) GN=ybjN PE=4 SV=1
+P0AAZ4	RARA_ECOLI Replication-associated recombination protein A OS=Escherichia coli (strain K12) GN=rarA PE=1 SV=1
+P0AB01	YCBC_ECOLI Uncharacterized protein ycbC OS=Escherichia coli (strain K12) GN=ycbC PE=4 SV=1
+P0AB06	YCBK_ECOLI Uncharacterized protein ycbK OS=Escherichia coli (strain K12) GN=ycbK PE=4 SV=1
+P0AB10	YMBA_ECOLI Uncharacterized lipoprotein ymbA OS=Escherichia coli (strain K12) GN=ymbA PE=4 SV=2
+P0AB12	YCCF_ECOLI Inner membrane protein yccF OS=Escherichia coli (strain K12) GN=yccF PE=1 SV=1
+P0AB20	HSPQ_ECOLI Heat shock protein hspQ OS=Escherichia coli (strain K12) GN=hspQ PE=1 SV=2
+P0AB24	YCDO_ECOLI UPF0409 protein ycdO OS=Escherichia coli (strain K12) GN=ycdO PE=1 SV=1
+P0AB26	YCEB_ECOLI Uncharacterized lipoprotein yceB OS=Escherichia coli (strain K12) GN=yceB PE=1 SV=1
+P0AB28	YCED_ECOLI Uncharacterized protein yceD OS=Escherichia coli (strain K12) GN=yceD PE=4 SV=1
+P0AB38	YCFM_ECOLI Uncharacterized protein ycfM OS=Escherichia coli (strain K12) GN=ycfM PE=4 SV=1
+P0AB58	YCIM_ECOLI Uncharacterized protein yciM OS=Escherichia coli (strain K12) GN=yciM PE=4 SV=1
+P0AB67	PNTB_ECOLI NAD(P) transhydrogenase subunit beta OS=Escherichia coli (strain K12) GN=pntB PE=1 SV=1
+P0AB71	ALF_ECOLI Fructose-bisphosphate aldolase class 2 OS=Escherichia coli (strain K12) GN=fbaA PE=1 SV=2
+P0AB77	KBL_ECOLI 2-amino-3-ketobutyrate coenzyme A ligase OS=Escherichia coli (strain K12) GN=kbl PE=1 SV=1
+P0AB80	ILVE_ECOLI Branched-chain-amino-acid aminotransferase OS=Escherichia coli (strain K12) GN=ilvE PE=1 SV=2
+P0AB83	END3_ECOLI Endonuclease III OS=Escherichia coli (strain K12) GN=nth PE=1 SV=1
+P0AB98	ATP6_ECOLI ATP synthase subunit a OS=Escherichia coli (strain K12) GN=atpB PE=1 SV=1
+P0ABA0	ATPF_ECOLI ATP synthase subunit b OS=Escherichia coli (strain K12) GN=atpF PE=1 SV=1
+P0ABA4	ATPD_ECOLI ATP synthase subunit delta OS=Escherichia coli (strain K12) GN=atpH PE=1 SV=1
+P0ABA6	ATPG_ECOLI ATP synthase gamma chain OS=Escherichia coli (strain K12) GN=atpG PE=1 SV=1
+P0ABB0	ATPA_ECOLI ATP synthase subunit alpha OS=Escherichia coli (strain K12) GN=atpA PE=1 SV=1
+P0ABB4	ATPB_ECOLI ATP synthase subunit beta OS=Escherichia coli (strain K12) GN=atpD PE=1 SV=2
+P0ABB8	ATMA_ECOLI Magnesium-transporting ATPase, P-type 1 OS=Escherichia coli (strain K12) GN=mgtA PE=1 SV=1
+P0ABC3	HFLC_ECOLI Protein hflC OS=Escherichia coli (strain K12) GN=hflC PE=1 SV=1
+P0ABC7	HFLK_ECOLI Protein hflK OS=Escherichia coli (strain K12) GN=hflK PE=1 SV=1
+P0ABC9	BETT_ECOLI High-affinity choline transport protein OS=Escherichia coli (strain K12) GN=betT PE=2 SV=1
+P0ABD3	BFR_ECOLI Bacterioferritin OS=Escherichia coli (strain K12) GN=bfr PE=1 SV=1
+P0ABD5	ACCA_ECOLI Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha OS=Escherichia coli (strain K12) GN=accA PE=1 SV=2
+P0ABD8	BCCP_ECOLI Biotin carboxyl carrier protein of acetyl-CoA carboxylase OS=Escherichia coli (strain K12) GN=accB PE=1 SV=1
+P0ABE2	BOLA_ECOLI Protein bolA OS=Escherichia coli (strain K12) GN=bolA PE=1 SV=1
+P0ABF1	PCNB_ECOLI Poly(A) polymerase OS=Escherichia coli (strain K12) GN=pcnB PE=1 SV=2
+P0ABF8	PGSA_ECOLI CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase OS=Escherichia coli (strain K12) GN=pgsA PE=1 SV=2
+P0ABG7	RODA_ECOLI Rod shape-determining protein rodA OS=Escherichia coli (strain K12) GN=mrdB PE=1 SV=1
+P0ABH0	FTSA_ECOLI Cell division protein ftsA OS=Escherichia coli (strain K12) GN=ftsA PE=3 SV=1
+P0ABH7	CISY_ECOLI Citrate synthase OS=Escherichia coli (strain K12) GN=gltA PE=1 SV=1
+P0ABI4	CORA_ECOLI Magnesium transport protein corA OS=Escherichia coli (strain K12) GN=corA PE=1 SV=1
+P0ABI8	CYOB_ECOLI Ubiquinol oxidase subunit 1 OS=Escherichia coli (strain K12) GN=cyoB PE=1 SV=1
+P0ABJ1	CYOA_ECOLI Ubiquinol oxidase subunit 2 OS=Escherichia coli (strain K12) GN=cyoA PE=1 SV=1
+P0ABJ9	CYDA_ECOLI Cytochrome d ubiquinol oxidase subunit 1 OS=Escherichia coli (strain K12) GN=cydA PE=1 SV=1
+P0ABK2	CYDB_ECOLI Cytochrome d ubiquinol oxidase subunit 2 OS=Escherichia coli (strain K12) GN=cydB PE=1 SV=1
+P0ABK5	CYSK_ECOLI Cysteine synthase A OS=Escherichia coli (strain K12) GN=cysK PE=1 SV=2
+P0ABM9	CCMH_ECOLI Cytochrome c-type biogenesis protein ccmH OS=Escherichia coli (strain K12) GN=ccmH PE=1 SV=1
+P0ABN1	KDGL_ECOLI Diacylglycerol kinase OS=Escherichia coli (strain K12) GN=dgkA PE=1 SV=2
+P0ABN5	DCUA_ECOLI Anaerobic C4-dicarboxylate transporter dcuA OS=Escherichia coli (strain K12) GN=dcuA PE=1 SV=1
+P0ABP6	DEDA_ECOLI Protein dedA OS=Escherichia coli (strain K12) GN=dedA PE=1 SV=1
+P0ABP8	DEOD_ECOLI Purine nucleoside phosphorylase deoD-type OS=Escherichia coli (strain K12) GN=deoD PE=1 SV=2
+P0ABQ0	COABC_ECOLI Coenzyme A biosynthesis bifunctional protein coaBC OS=Escherichia coli (strain K12) GN=coaBC PE=1 SV=2
+P0ABR1	DINI_ECOLI DNA-damage-inducible protein I OS=Escherichia coli (strain K12) GN=dinI PE=1 SV=1
+P0ABR5	HCAE_ECOLI 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Escherichia coli (strain K12) GN=hcaE PE=1 SV=1
+P0ABS1	DKSA_ECOLI DnaK suppressor protein OS=Escherichia coli (strain K12) GN=dksA PE=1 SV=1
+P0ABS5	PRIM_ECOLI DNA primase OS=Escherichia coli (strain K12) GN=dnaG PE=1 SV=1
+P0ABT2	DPS_ECOLI DNA protection during starvation protein OS=Escherichia coli (strain K12) GN=dps PE=1 SV=2
+P0ABT5	DUSB_ECOLI tRNA-dihydrouridine synthase B OS=Escherichia coli (strain K12) GN=dusB PE=1 SV=1
+P0ABU2	ENGD_ECOLI GTP-dependent nucleic acid-binding protein engD OS=Escherichia coli (strain K12) GN=engD PE=1 SV=2
+P0ABU5	ELBB_ECOLI Enhancing lycopene biosynthesis protein 2 OS=Escherichia coli (strain K12) GN=elbB PE=1 SV=1
+P0ABU7	EXBB_ECOLI Biopolymer transport protein exbB OS=Escherichia coli (strain K12) GN=exbB PE=1 SV=1
+P0ABU9	TOLQ_ECOLI Protein tolQ OS=Escherichia coli (strain K12) GN=tolQ PE=1 SV=1
+P0ABV6	TOLR_ECOLI Protein tolR OS=Escherichia coli (strain K12) GN=tolR PE=1 SV=1
+P0ABZ6	SURA_ECOLI Chaperone surA OS=Escherichia coli (strain K12) GN=surA PE=1 SV=1
+P0AC02	YFIO_ECOLI UPF0169 lipoprotein yfiO OS=Escherichia coli (strain K12) GN=yfiO PE=1 SV=1
+P0AC13	DHPS_ECOLI Dihydropteroate synthase OS=Escherichia coli (strain K12) GN=folP PE=1 SV=1
+P0AC16	FOLB_ECOLI Dihydroneopterin aldolase OS=Escherichia coli (strain K12) GN=folB PE=1 SV=1
+P0AC30	FTSX_ECOLI Cell division protein ftsX OS=Escherichia coli (strain K12) GN=ftsX PE=1 SV=1
+P0AC33	FUMA_ECOLI Fumarate hydratase class I, aerobic OS=Escherichia coli (strain K12) GN=fumA PE=1 SV=2
+P0AC38	ASPA_ECOLI Aspartate ammonia-lyase OS=Escherichia coli (strain K12) GN=aspA PE=1 SV=1
+P0AC41	DHSA_ECOLI Succinate dehydrogenase flavoprotein subunit OS=Escherichia coli (strain K12) GN=sdhA PE=1 SV=1
+P0AC44	DHSD_ECOLI Succinate dehydrogenase hydrophobic membrane anchor subunit OS=Escherichia coli (strain K12) GN=sdhD PE=1 SV=1
+P0AC47	FRDB_ECOLI Fumarate reductase iron-sulfur subunit OS=Escherichia coli (strain K12) GN=frdB PE=1 SV=2
+P0AC53	G6PD_ECOLI Glucose-6-phosphate 1-dehydrogenase OS=Escherichia coli (strain K12) GN=zwf PE=1 SV=1
+P0AC59	GLRX2_ECOLI Glutaredoxin-2 OS=Escherichia coli (strain K12) GN=grxB PE=1 SV=1
+P0AC69	GLRX4_ECOLI Glutaredoxin-4 OS=Escherichia coli (strain K12) GN=grxD PE=1 SV=1
+P0AC75	KDTA_ECOLI 3-deoxy-D-manno-octulosonic-acid transferase OS=Escherichia coli (strain K12) GN=waaA PE=3 SV=1
+P0AC78	WECA_ECOLI Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase OS=Escherichia coli (strain K12) GN=wecA PE=1 SV=1
+P0AC84	GLO2_ECOLI Hydroxyacylglutathione hydrolase OS=Escherichia coli (strain K12) GN=gloB PE=1 SV=1
+P0AC86	PHSG_ECOLI Glycogen phosphorylase OS=Escherichia coli (strain K12) GN=glgP PE=3 SV=1
+P0AC92	GNSA_ECOLI Protein gnsA OS=Escherichia coli (strain K12) GN=gnsA PE=3 SV=1
+P0ACA3	SSPA_ECOLI Stringent starvation protein A OS=Escherichia coli (strain K12) GN=sspA PE=1 SV=2
+P0ACA7	YLIJ_ECOLI Uncharacterized GST-like protein yliJ OS=Escherichia coli (strain K12) GN=yliJ PE=1 SV=1
+P0ACB0	DNAB_ECOLI Replicative DNA helicase OS=Escherichia coli (strain K12) GN=dnaB PE=1 SV=1
+P0ACB4	HEMG_ECOLI Protoporphyrinogen oxidase OS=Escherichia coli (strain K12) GN=hemG PE=1 SV=1
+P0ACB7	HEMY_ECOLI Protein hemY OS=Escherichia coli (strain K12) GN=hemY PE=1 SV=1
+P0ACC1	HEMK_ECOLI Protein methyltransferase hemK OS=Escherichia coli (strain K12) GN=hemK PE=1 SV=1
+P0ACC3	ERPA_ECOLI Iron-sulfur cluster insertion protein erpA OS=Escherichia coli (strain K12) GN=erpA PE=1 SV=1
+P0ACC7	GLMU_ECOLI Bifunctional protein glmU OS=Escherichia coli (strain K12) GN=glmU PE=1 SV=1
+P0ACD4	NIFU_ECOLI NifU-like protein OS=Escherichia coli (strain K12) GN=nifU PE=1 SV=1
+P0ACE0	MBHM_ECOLI Hydrogenase-2 large chain OS=Escherichia coli (strain K12) GN=hybC PE=1 SV=2
+P0ACF0	DBHA_ECOLI DNA-binding protein HU-alpha OS=Escherichia coli (strain K12) GN=hupA PE=1 SV=1
+P0ACF4	DBHB_ECOLI DNA-binding protein HU-beta OS=Escherichia coli (strain K12) GN=hupB PE=1 SV=1
+P0ACF8	HNS_ECOLI DNA-binding protein H-NS OS=Escherichia coli (strain K12) GN=hns PE=1 SV=2
+P0ACG1	STPA_ECOLI DNA-binding protein stpA OS=Escherichia coli (strain K12) GN=stpA PE=3 SV=1
+P0ACG8	HSLR_ECOLI Heat shock protein 15 OS=Escherichia coli (strain K12) GN=hslR PE=1 SV=1
+P0ACJ0	LRP_ECOLI Leucine-responsive regulatory protein OS=Escherichia coli (strain K12) GN=lrp PE=1 SV=2
+P0ACJ8	CRP_ECOLI Catabolite gene activator OS=Escherichia coli (strain K12) GN=crp PE=1 SV=1
+P0ACK5	DEOR_ECOLI Deoxyribose operon repressor OS=Escherichia coli (strain K12) GN=deoR PE=1 SV=1
+P0ACK8	FUCR_ECOLI L-fucose operon activator OS=Escherichia coli (strain K12) GN=fucR PE=4 SV=1
+P0ACL0	GLPR_ECOLI Glycerol-3-phosphate regulon repressor OS=Escherichia coli (strain K12) GN=glpR PE=1 SV=1
+P0ACL2	EXUR_ECOLI Exu regulon transcriptional regulator OS=Escherichia coli (strain K12) GN=exuR PE=4 SV=1
+P0ACL7	LLDR_ECOLI Putative L-lactate dehydrogenase operon regulatory protein OS=Escherichia coli (strain K12) GN=lldR PE=2 SV=1
+P0ACL9	PDHR_ECOLI Pyruvate dehydrogenase complex repressor OS=Escherichia coli (strain K12) GN=pdhR PE=1 SV=1
+P0ACM2	YDFH_ECOLI Uncharacterized HTH-type transcriptional regulator ydfH OS=Escherichia coli (strain K12) GN=ydfH PE=1 SV=1
+P0ACN4	ALLR_ECOLI HTH-type transcriptional repressor allR OS=Escherichia coli (strain K12) GN=allR PE=1 SV=1
+P0ACN7	CYTR_ECOLI HTH-type transcriptional repressor cytR OS=Escherichia coli (strain K12) GN=cytR PE=1 SV=1
+P0ACP1	FRUR_ECOLI Fructose repressor OS=Escherichia coli (strain K12) GN=fruR PE=1 SV=1
+P0ACP5	GNTR_ECOLI HTH-type transcriptional regulator gntR OS=Escherichia coli (strain K12) GN=gntR PE=1 SV=1
+P0ACP7	PURR_ECOLI HTH-type transcriptional repressor purR OS=Escherichia coli (strain K12) GN=purR PE=1 SV=2
+P0ACQ0	RBSR_ECOLI Ribose operon repressor OS=Escherichia coli (strain K12) GN=rbsR PE=1 SV=2
+P0ACQ4	OXYR_ECOLI Hydrogen peroxide-inducible genes activator OS=Escherichia coli (strain K12) GN=oxyR PE=1 SV=1
+P0ACR4	YEIE_ECOLI Uncharacterized HTH-type transcriptional regulator yeiE OS=Escherichia coli (strain K12) GN=yeiE PE=4 SV=1
+P0ACR7	YFER_ECOLI Uncharacterized HTH-type transcriptional regulator yfeR OS=Escherichia coli (strain K12) GN=yfeR PE=4 SV=1
+P0ACR9	MPRA_ECOLI Transcriptional repressor mprA OS=Escherichia coli (strain K12) GN=mprA PE=2 SV=1
+P0ACS2	SOXR_ECOLI Redox-sensitive transcriptional activator soxR OS=Escherichia coli (strain K12) GN=soxR PE=1 SV=1
+P0ACS7	RPIR_ECOLI HTH-type transcriptional regulator rpiR OS=Escherichia coli (strain K12) GN=rpiR PE=1 SV=1
+P0ACS9	ACRR_ECOLI HTH-type transcriptional regulator acrR OS=Escherichia coli (strain K12) GN=acrR PE=1 SV=1
+P0ACT6	UIDR_ECOLI HTH-type transcriptional regulator uidR OS=Escherichia coli (strain K12) GN=uidR PE=4 SV=1
+P0ACU0	YBIH_ECOLI Uncharacterized HTH-type transcriptional regulator ybiH OS=Escherichia coli (strain K12) GN=ybiH PE=4 SV=1
+P0ACU2	RUTR_ECOLI HTH-type transcriptional regulator rutR OS=Escherichia coli (strain K12) GN=rutR PE=1 SV=1
+P0ACU5	FABR_ECOLI HTH-type transcriptional repressor fabR OS=Escherichia coli (strain K12) GN=fabR PE=1 SV=1
+P0ACU7	YJDC_ECOLI HTH-type transcriptional regulator yjdC OS=Escherichia coli (strain K12) GN=yjdC PE=1 SV=1
+P0ACV0	HTRB_ECOLI Lipid A biosynthesis lauroyl acyltransferase OS=Escherichia coli (strain K12) GN=htrB PE=1 SV=1
+P0ACV4	YCIS_ECOLI Inner membrane protein yciS OS=Escherichia coli (strain K12) GN=yciS PE=1 SV=1
+P0ACY1	YDJA_ECOLI Putative NAD(P)H nitroreductase ydjA OS=Escherichia coli (strain K12) GN=ydjA PE=1 SV=1
+P0ACY3	YEAG_ECOLI Uncharacterized protein yeaG OS=Escherichia coli (strain K12) GN=yeaG PE=3 SV=1
+P0ACZ8	CUSR_ECOLI Transcriptional regulatory protein cusR OS=Escherichia coli (strain K12) GN=cusR PE=1 SV=1
+P0AD05	YECA_ECOLI Uncharacterized protein yecA OS=Escherichia coli (strain K12) GN=yecA PE=4 SV=1
+P0AD12	YEEZ_ECOLI Protein yeeZ OS=Escherichia coli (strain K12) GN=yeeZ PE=1 SV=1
+P0AD21	YEJG_ECOLI Uncharacterized protein yejG OS=Escherichia coli (strain K12) GN=yejG PE=4 SV=1
+P0AD42	YFHB_ECOLI Uncharacterized protein yfhB OS=Escherichia coli (strain K12) GN=yfhB PE=4 SV=1
+P0AD57	ISPB_ECOLI Octaprenyl-diphosphate synthase OS=Escherichia coli (strain K12) GN=ispB PE=1 SV=1
+P0AD61	KPYK1_ECOLI Pyruvate kinase I OS=Escherichia coli (strain K12) GN=pykF PE=1 SV=1
+P0AD65	PBP2_ECOLI Penicillin-binding protein 2 OS=Escherichia coli (strain K12) GN=mrdA PE=3 SV=1
+P0AD68	FTSI_ECOLI Peptidoglycan synthetase ftsI OS=Escherichia coli (strain K12) GN=ftsI PE=1 SV=1
+P0AD96	LIVJ_ECOLI Leu/Ile/Val-binding protein OS=Escherichia coli (strain K12) GN=livJ PE=1 SV=1
+P0AD99	BRNQ_ECOLI Branched-chain amino acid transport system 2 carrier protein OS=Escherichia coli (strain K12) GN=brnQ PE=1 SV=1
+P0ADA1	TESA_ECOLI Acyl-CoA thioesterase I OS=Escherichia coli (strain K12) GN=tesA PE=1 SV=1
+P0ADA3	NLPD_ECOLI Lipoprotein nlpD OS=Escherichia coli (strain K12) GN=nlpD PE=1 SV=1
+P0ADA5	YAJG_ECOLI Uncharacterized lipoprotein yajG OS=Escherichia coli (strain K12) GN=yajG PE=4 SV=1
+P0ADB1	OSME_ECOLI Osmotically-inducible lipoprotein E OS=Escherichia coli (strain K12) GN=osmE PE=2 SV=1
+P0ADB7	ECNB_ECOLI Entericidin B OS=Escherichia coli (strain K12) GN=ecnB PE=3 SV=1
+P0ADC1	LPTE_ECOLI LPS-assembly lipoprotein lptE OS=Escherichia coli (strain K12) GN=lptE PE=1 SV=1
+P0ADC3	LOLC_ECOLI Lipoprotein-releasing system transmembrane protein lolC OS=Escherichia coli (strain K12) GN=lolC PE=1 SV=1
+P0ADC6	LPTG_ECOLI Lipopolysaccharide export system permease protein lptG OS=Escherichia coli (strain K12) GN=lptG PE=1 SV=1
+P0ADE4	YTFM_ECOLI Uncharacterized protein ytfM OS=Escherichia coli (strain K12) GN=ytfM PE=1 SV=1
+P0ADE6	YGAU_ECOLI Uncharacterized protein ygaU OS=Escherichia coli (strain K12) GN=ygaU PE=1 SV=2
+P0ADE8	YGFZ_ECOLI tRNA-modifying protein ygfZ OS=Escherichia coli (strain K12) GN=ygfZ PE=1 SV=2
+P0ADF8	ILVN_ECOLI Acetolactate synthase isozyme 1 small subunit OS=Escherichia coli (strain K12) GN=ilvN PE=1 SV=1
+P0ADG4	SUHB_ECOLI Inositol-1-monophosphatase OS=Escherichia coli (strain K12) GN=suhB PE=1 SV=1
+P0ADG7	IMDH_ECOLI Inosine-5'-monophosphate dehydrogenase OS=Escherichia coli (strain K12) GN=guaB PE=1 SV=1
+P0ADI7	YECD_ECOLI Isochorismatase family protein yecD OS=Escherichia coli (strain K12) GN=yecD PE=1 SV=2
+P0ADK0	YIAF_ECOLI Uncharacterized protein yiaF OS=Escherichia coli (strain K12) GN=yiaF PE=4 SV=2
+P0ADK8	YIBL_ECOLI Uncharacterized protein yibL OS=Escherichia coli (strain K12) GN=yibL PE=1 SV=1
+P0ADM8	YIEE_ECOLI Uncharacterized protein yieE OS=Escherichia coli (strain K12) GN=yieE PE=4 SV=2
+P0ADN6	YIFL_ECOLI Uncharacterized lipoprotein yifL OS=Escherichia coli (strain K12) GN=yifL PE=4 SV=1
+P0ADP0	YIGB_ECOLI Uncharacterized protein yigB OS=Escherichia coli (strain K12) GN=yigB PE=4 SV=1
+P0ADP2	YIGI_ECOLI Uncharacterized protein yigI OS=Escherichia coli (strain K12) GN=yigI PE=4 SV=1
+P0ADP7	YIGP_ECOLI Uncharacterized protein yigP OS=Escherichia coli (strain K12) GN=yigP PE=1 SV=1
+P0ADQ2	YIID_ECOLI Uncharacterized protein yiiD OS=Escherichia coli (strain K12) GN=yiiD PE=4 SV=1
+P0ADR6	RLMM_ECOLI Ribosomal RNA large subunit methyltransferase M OS=Escherichia coli (strain K12) GN=rlmM PE=1 SV=1
+P0ADR8	YGDH_ECOLI UPF0717 protein ygdH OS=Escherichia coli (strain K12) GN=ygdH PE=1 SV=1
+P0ADS2	ZAPA_ECOLI Cell division protein zapA OS=Escherichia coli (strain K12) GN=zapA PE=1 SV=1
+P0ADS6	YGGE_ECOLI Uncharacterized protein yggE OS=Escherichia coli (strain K12) GN=yggE PE=4 SV=1
+P0ADS9	YGGN_ECOLI Uncharacterized protein yggN OS=Escherichia coli (strain K12) GN=yggN PE=4 SV=1
+P0ADT2	YGIB_ECOLI UPF0441 protein ygiB OS=Escherichia coli (strain K12) GN=ygiB PE=3 SV=2
+P0ADT5	YGIC_ECOLI Uncharacterized protein ygiC OS=Escherichia coli (strain K12) GN=ygiC PE=4 SV=1
+P0ADT8	YGIM_ECOLI Uncharacterized protein ygiM OS=Escherichia coli (strain K12) GN=ygiM PE=4 SV=1
+P0ADU2	YGIN_ECOLI Probable quinol monooxygenase ygiN OS=Escherichia coli (strain K12) GN=ygiN PE=1 SV=1
+P0ADV1	LPTA_ECOLI Lipopolysaccharide export system protein lptA OS=Escherichia coli (strain K12) GN=lptA PE=1 SV=1
+P0ADV5	YHBW_ECOLI Uncharacterized protein yhbW OS=Escherichia coli (strain K12) GN=yhbW PE=4 SV=1
+P0ADV7	YRBC_ECOLI Protein yrbC OS=Escherichia coli (strain K12) GN=yrbC PE=1 SV=1
+P0ADV9	LPTC_ECOLI Lipopolysaccharide export system protein lptC OS=Escherichia coli (strain K12) GN=lptC PE=1 SV=1
+P0ADW3	YHCB_ECOLI Putative cytochrome d ubiquinol oxidase subunit 3 OS=Escherichia coli (strain K12) GN=yhcB PE=1 SV=2
+P0ADX7	YHHA_ECOLI Uncharacterized protein yhhA OS=Escherichia coli (strain K12) GN=yhhA PE=4 SV=1
+P0ADX9	RSMD_ECOLI Ribosomal RNA small subunit methyltransferase D OS=Escherichia coli (strain K12) GN=rsmD PE=1 SV=1
+P0ADY1	PPID_ECOLI Peptidyl-prolyl cis-trans isomerase D OS=Escherichia coli (strain K12) GN=ppiD PE=1 SV=1
+P0ADY3	RL14_ECOLI 50S ribosomal protein L14 OS=Escherichia coli (strain K12) GN=rplN PE=1 SV=1
+P0ADY7	RL16_ECOLI 50S ribosomal protein L16 OS=Escherichia coli (strain K12) GN=rplP PE=1 SV=1
+P0ADZ0	RL23_ECOLI 50S ribosomal protein L23 OS=Escherichia coli (strain K12) GN=rplW PE=1 SV=1
+P0ADZ4	RS15_ECOLI 30S ribosomal protein S15 OS=Escherichia coli (strain K12) GN=rpsO PE=1 SV=2
+P0ADZ7	YAJC_ECOLI UPF0092 membrane protein yajC OS=Escherichia coli (strain K12) GN=yajC PE=1 SV=1
+P0AE01	TRMJ_ECOLI tRNA (cytidine/uridine-2'-O-)-methyltransferase trmJ OS=Escherichia coli (strain K12) GN=trmJ PE=1 SV=1
+P0AE06	ACRA_ECOLI Acriflavine resistance protein A OS=Escherichia coli (strain K12) GN=acrA PE=1 SV=1
+P0AE08	AHPC_ECOLI Alkyl hydroperoxide reductase subunit C OS=Escherichia coli (strain K12) GN=ahpC PE=1 SV=2
+P0AE14	AMPE_ECOLI Protein ampE OS=Escherichia coli (strain K12) GN=ampE PE=1 SV=1
+P0AE18	AMPM_ECOLI Methionine aminopeptidase OS=Escherichia coli (strain K12) GN=map PE=1 SV=1
+P0AE30	ARTM_ECOLI Arginine ABC transporter permease protein artM OS=Escherichia coli (strain K12) GN=artM PE=1 SV=1
+P0AE34	ARTQ_ECOLI Arginine ABC transporter permease protein artQ OS=Escherichia coli (strain K12) GN=artQ PE=1 SV=1
+P0AE39	YPDB_ECOLI Uncharacterized response regulatory protein ypdB OS=Escherichia coli (strain K12) GN=ypdB PE=1 SV=1
+P0AE45	YTFL_ECOLI UPF0053 inner membrane protein ytfL OS=Escherichia coli (strain K12) GN=ytfL PE=1 SV=1
+P0AE48	YTFP_ECOLI UPF0131 protein ytfP OS=Escherichia coli (strain K12) GN=ytfP PE=1 SV=1
+P0AE52	BCP_ECOLI Putative peroxiredoxin bcp OS=Escherichia coli (strain K12) GN=bcp PE=1 SV=1
+P0AE78	CORC_ECOLI Magnesium and cobalt efflux protein corC OS=Escherichia coli (strain K12) GN=corC PE=3 SV=1
+P0AE82	CPXA_ECOLI Sensor protein cpxA OS=Escherichia coli (strain K12) GN=cpxA PE=1 SV=1
+P0AE88	CPXR_ECOLI Transcriptional regulatory protein cpxR OS=Escherichia coli (strain K12) GN=cpxR PE=1 SV=1
+P0AE91	CREA_ECOLI Protein creA OS=Escherichia coli (strain K12) GN=creA PE=4 SV=1
+P0AEA8	CYSG_ECOLI Siroheme synthase OS=Escherichia coli (strain K12) GN=cysG PE=1 SV=1
+P0AEB2	DACA_ECOLI D-alanyl-D-alanine carboxypeptidase dacA OS=Escherichia coli (strain K12) GN=dacA PE=1 SV=1
+P0AEB5	YNAI_ECOLI MscS family inner membrane protein ynaI OS=Escherichia coli (strain K12) GN=ynaI PE=1 SV=1
+P0AEC0	YOAE_ECOLI UPF0053 inner membrane protein yoaE OS=Escherichia coli (strain K12) GN=yoaE PE=1 SV=1
+P0AEC3	ARCB_ECOLI Aerobic respiration control sensor protein arcB OS=Escherichia coli (strain K12) GN=arcB PE=1 SV=1
+P0AED0	USPA_ECOLI Universal stress protein A OS=Escherichia coli (strain K12) GN=uspA PE=1 SV=2
+P0AEE1	DCRB_ECOLI Protein dcrB OS=Escherichia coli (strain K12) GN=dcrB PE=1 SV=1
+P0AEE3	DEGS_ECOLI Protease degS OS=Escherichia coli (strain K12) GN=degS PE=1 SV=1
+P0AEE8	DMA_ECOLI DNA adenine methylase OS=Escherichia coli (strain K12) GN=dam PE=1 SV=1
+P0AEF0	DNAC_ECOLI DNA replication protein dnaC OS=Escherichia coli (strain K12) GN=dnaC PE=1 SV=1
+P0AEG4	DSBA_ECOLI Thiol:disulfide interchange protein dsbA OS=Escherichia coli (strain K12) GN=dsbA PE=1 SV=1
+P0AEG6	DSBC_ECOLI Thiol:disulfide interchange protein dsbC OS=Escherichia coli (strain K12) GN=dsbC PE=1 SV=1
+P0AEH1	RSEP_ECOLI Regulator of sigma E protease OS=Escherichia coli (strain K12) GN=rseP PE=1 SV=1
+P0AEH5	ELAB_ECOLI Protein elaB OS=Escherichia coli (strain K12) GN=elaB PE=1 SV=1
+P0AEI1	MIAB_ECOLI (Dimethylallyl)adenosine tRNA methylthiotransferase miaB OS=Escherichia coli (strain K12) GN=miaB PE=1 SV=1
+P0AEI4	RIMO_ECOLI Ribosomal protein S12 methylthiotransferase rimO OS=Escherichia coli (strain K12) GN=rimO PE=1 SV=1
+P0AEJ2	ENTC_ECOLI Isochorismate synthase entC OS=Escherichia coli (strain K12) GN=entC PE=1 SV=1
+P0AEK0	EXOX_ECOLI Exodeoxyribonuclease 10 OS=Escherichia coli (strain K12) GN=exoX PE=1 SV=1
+P0AEK2	FABG_ECOLI 3-oxoacyl-[acyl-carrier-protein] reductase OS=Escherichia coli (strain K12) GN=fabG PE=1 SV=1
+P0AEK4	FABI_ECOLI Enoyl-[acyl-carrier-protein] reductase [NADH] OS=Escherichia coli (strain K12) GN=fabI PE=1 SV=2
+P0AEL6	FEPB_ECOLI Ferrienterobactin-binding periplasmic protein OS=Escherichia coli (strain K12) GN=fepB PE=1 SV=1
+P0AEM0	FKBX_ECOLI FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase OS=Escherichia coli (strain K12) GN=fkpB PE=1 SV=2
+P0AEM4	FLGM_ECOLI Negative regulator of flagellin synthesis OS=Escherichia coli (strain K12) GN=flgM PE=1 SV=1
+P0AEN1	FRE_ECOLI NAD(P)H-flavin reductase OS=Escherichia coli (strain K12) GN=fre PE=1 SV=2
+P0AEN8	FUCM_ECOLI L-fucose mutarotase OS=Escherichia coli (strain K12) GN=fucU PE=1 SV=1
+P0AEP3	GALU_ECOLI UTP--glucose-1-phosphate uridylyltransferase OS=Escherichia coli (strain K12) GN=galU PE=1 SV=2
+P0AEQ3	GLNH_ECOLI Glutamine-binding periplasmic protein OS=Escherichia coli (strain K12) GN=glnH PE=1 SV=1
+P0AER3	GLTJ_ECOLI Glutamate/aspartate transport system permease protein gltJ OS=Escherichia coli (strain K12) GN=gltJ PE=3 SV=1
+P0AER8	GLTS_ECOLI Sodium/glutamate symport carrier protein OS=Escherichia coli (strain K12) GN=gltS PE=1 SV=1
+P0AES0	GSP_ECOLI Bifunctional glutathionylspermidine synthetase/amidase OS=Escherichia coli (strain K12) GN=gsp PE=1 SV=1
+P0AES0	GSP_ECOLI Bifunctional glutathionylspermidine synthetase/amidase OS=Escherichia coli (strain K12) GN=gsp PE=1 SV=1
+P0AES4	GYRA_ECOLI DNA gyrase subunit A OS=Escherichia coli (strain K12) GN=gyrA PE=1 SV=1
+P0AES6	GYRB_ECOLI DNA gyrase subunit B OS=Escherichia coli (strain K12) GN=gyrB PE=1 SV=2
+P0AEU0	HISJ_ECOLI Histidine-binding periplasmic protein OS=Escherichia coli (strain K12) GN=hisJ PE=1 SV=1
+P0AEU3	HISM_ECOLI Histidine transport system permease protein hisM OS=Escherichia coli (strain K12) GN=hisM PE=1 SV=1
+P0AEU7	SKP_ECOLI Chaperone protein skp OS=Escherichia coli (strain K12) GN=skp PE=1 SV=1
+P0AEV1	HNR_ECOLI Protein hnr OS=Escherichia coli (strain K12) GN=hnr PE=1 SV=1
+P0AEW6	INGK_ECOLI Inosine-guanosine kinase OS=Escherichia coli (strain K12) GN=gsk PE=1 SV=1
+P0AEW9	K1PF_ECOLI 1-phosphofructokinase OS=Escherichia coli (strain K12) GN=fruK PE=3 SV=1
+P0AEX3	KGTP_ECOLI Alpha-ketoglutarate permease OS=Escherichia coli (strain K12) GN=kgtP PE=1 SV=1
+P0AEX9	MALE_ECOLI Maltose-binding periplasmic protein OS=Escherichia coli (strain K12) GN=malE PE=1 SV=1
+P0AEY5	MDAB_ECOLI Modulator of drug activity B OS=Escherichia coli (strain K12) GN=mdaB PE=1 SV=1
+P0AEY8	MDFA_ECOLI Multidrug translocase mdfA OS=Escherichia coli (strain K12) GN=cmr PE=1 SV=1
+P0AEZ1	METF_ECOLI 5,10-methylenetetrahydrofolate reductase OS=Escherichia coli (strain K12) GN=metF PE=1 SV=1
+P0AEZ3	MIND_ECOLI Septum site-determining protein minD OS=Escherichia coli (strain K12) GN=minD PE=1 SV=2
+P0AEZ9	MOAB_ECOLI Molybdenum cofactor biosynthesis protein B OS=Escherichia coli (strain K12) GN=moaB PE=1 SV=2
+P0AF03	MOG_ECOLI Molybdopterin biosynthesis mog protein OS=Escherichia coli (strain K12) GN=mog PE=1 SV=1
+P0AF08	MRP_ECOLI Protein mrp OS=Escherichia coli (strain K12) GN=mrp PE=3 SV=1
+P0AF10	MTLR_ECOLI Mannitol operon repressor OS=Escherichia coli (strain K12) GN=mtlR PE=1 SV=1
+P0AF12	MTNN_ECOLI 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase OS=Escherichia coli (strain K12) GN=mtnN PE=1 SV=1
+P0AF20	NAGC_ECOLI N-acetylglucosamine repressor OS=Escherichia coli (strain K12) GN=nagC PE=2 SV=1
+P0AF24	NAGD_ECOLI Protein nagD OS=Escherichia coli (strain K12) GN=nagD PE=1 SV=1
+P0AF28	NARL_ECOLI Nitrate/nitrite response regulator protein narL OS=Escherichia coli (strain K12) GN=narL PE=1 SV=1
+P0AF50	YJBR_ECOLI Uncharacterized protein yjbR OS=Escherichia coli (strain K12) GN=yjbR PE=1 SV=1
+P0AF52	YJCD_ECOLI Putative permease yjcD OS=Escherichia coli (strain K12) GN=yjcD PE=1 SV=1
+P0AF63	NSRR_ECOLI HTH-type transcriptional repressor nsrR OS=Escherichia coli (strain K12) GN=nsrR PE=1 SV=1
+P0AF67	YJEE_ECOLI UPF0079 ATP-binding protein yjeE OS=Escherichia coli (strain K12) GN=yjeE PE=3 SV=1
+P0AF70	YJEI_ECOLI Uncharacterized protein yjeI OS=Escherichia coli (strain K12) GN=yjeI PE=4 SV=1
+P0AF93	YJGF_ECOLI UPF0076 protein yjgF OS=Escherichia coli (strain K12) GN=yjgF PE=1 SV=2
+P0AF98	LPTF_ECOLI Lipopolysaccharide export system permease protein lptF OS=Escherichia coli (strain K12) GN=lptF PE=1 SV=1
+P0AFA7	NHAB_ECOLI Na(+)/H(+) antiporter nhaB OS=Escherichia coli (strain K12) GN=nhaB PE=1 SV=1
+P0AFB1	NLPI_ECOLI Lipoprotein nlpI OS=Escherichia coli (strain K12) GN=nlpI PE=1 SV=1
+P0AFB5	NTRB_ECOLI Nitrogen regulation protein NR(II) OS=Escherichia coli (strain K12) GN=glnL PE=1 SV=1
+P0AFB8	NTRC_ECOLI Nitrogen regulation protein NR(I) OS=Escherichia coli (strain K12) GN=glnG PE=3 SV=1
+P0AFC0	NUDB_ECOLI Dihydroneopterin triphosphate pyrophosphatase OS=Escherichia coli (strain K12) GN=nudB PE=1 SV=1
+P0AFC3	NUOA_ECOLI NADH-quinone oxidoreductase subunit A OS=Escherichia coli (strain K12) GN=nuoA PE=3 SV=1
+P0AFC7	NUOB_ECOLI NADH-quinone oxidoreductase subunit B OS=Escherichia coli (strain K12) GN=nuoB PE=1 SV=1
+P0AFD1	NUOE_ECOLI NADH-quinone oxidoreductase subunit E OS=Escherichia coli (strain K12) GN=nuoE PE=1 SV=1
+P0AFD4	NUOH_ECOLI NADH-quinone oxidoreductase subunit H OS=Escherichia coli (strain K12) GN=nuoH PE=1 SV=1
+P0AFD6	NUOI_ECOLI NADH-quinone oxidoreductase subunit I OS=Escherichia coli (strain K12) GN=nuoI PE=1 SV=1
+P0AFE0	NUOJ_ECOLI NADH-quinone oxidoreductase subunit J OS=Escherichia coli (strain K12) GN=nuoJ PE=1 SV=1
+P0AFE4	NUOK_ECOLI NADH-quinone oxidoreductase subunit K OS=Escherichia coli (strain K12) GN=nuoK PE=1 SV=1
+P0AFE8	NUOM_ECOLI NADH-quinone oxidoreductase subunit M OS=Escherichia coli (strain K12) GN=nuoM PE=1 SV=1
+P0AFF0	NUON_ECOLI NADH-quinone oxidoreductase subunit N OS=Escherichia coli (strain K12) GN=nuoN PE=1 SV=2
+P0AFF2	NUPC_ECOLI Nucleoside permease nupC OS=Escherichia coli (strain K12) GN=nupC PE=1 SV=1
+P0AFF4	NUPG_ECOLI Nucleoside permease nupG OS=Escherichia coli (strain K12) GN=nupG PE=1 SV=1
+P0AFF6	NUSA_ECOLI Transcription elongation protein nusA OS=Escherichia coli (strain K12) GN=nusA PE=1 SV=1
+P0AFG0	NUSG_ECOLI Transcription antitermination protein nusG OS=Escherichia coli (strain K12) GN=nusG PE=1 SV=2
+P0AFG3	ODO1_ECOLI 2-oxoglutarate dehydrogenase E1 component OS=Escherichia coli (strain K12) GN=sucA PE=1 SV=1
+P0AFG6	ODO2_ECOLI Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex OS=Escherichia coli (strain K12) GN=sucB PE=1 SV=2
+P0AFG8	ODP1_ECOLI Pyruvate dehydrogenase E1 component OS=Escherichia coli (strain K12) GN=aceE PE=1 SV=2
+P0AFH0	OGT_ECOLI Methylated-DNA--protein-cysteine methyltransferase OS=Escherichia coli (strain K12) GN=ogt PE=1 SV=1
+P0AFH8	OSMY_ECOLI Osmotically-inducible protein Y OS=Escherichia coli (strain K12) GN=osmY PE=1 SV=1
+P0AFI2	PARC_ECOLI DNA topoisomerase 4 subunit A OS=Escherichia coli (strain K12) GN=parC PE=1 SV=1
+P0AFI7	PDXH_ECOLI Pyridoxine/pyridoxamine 5'-phosphate oxidase OS=Escherichia coli (strain K12) GN=pdxH PE=1 SV=2
+P0AFI9	PERM_ECOLI Putative permease perM OS=Escherichia coli (strain K12) GN=perM PE=3 SV=1
+P0AFJ7	PITA_ECOLI Low-affinity inorganic phosphate transporter 1 OS=Escherichia coli (strain K12) GN=pitA PE=1 SV=1
+P0AFK0	PMBA_ECOLI Protein pmbA OS=Escherichia coli (strain K12) GN=pmbA PE=1 SV=1
+P0AFK2	PNUC_ECOLI Nicotinamide riboside transporter pnuC OS=Escherichia coli (strain K12) GN=pnuC PE=1 SV=1
+P0AFK9	POTD_ECOLI Spermidine/putrescine-binding periplasmic protein OS=Escherichia coli (strain K12) GN=potD PE=1 SV=1
+P0AFL3	PPIA_ECOLI Peptidyl-prolyl cis-trans isomerase A OS=Escherichia coli (strain K12) GN=ppiA PE=1 SV=1
+P0AFM2	PROX_ECOLI Glycine betaine-binding periplasmic protein OS=Escherichia coli (strain K12) GN=proX PE=1 SV=1
+P0AFM6	PSPA_ECOLI Phage shock protein A OS=Escherichia coli (strain K12) GN=pspA PE=1 SV=2
+P0AFM9	PSPB_ECOLI Phage shock protein B OS=Escherichia coli (strain K12) GN=pspB PE=2 SV=1
+P0AFN2	PSPC_ECOLI Phage shock protein C OS=Escherichia coli (strain K12) GN=pspC PE=2 SV=1
+P0AFP4	YBBO_ECOLI Uncharacterized oxidoreductase ybbO OS=Escherichia coli (strain K12) GN=ybbO PE=3 SV=1
+P0AFP9	YBHR_ECOLI Inner membrane transport permease ybhR OS=Escherichia coli (strain K12) GN=ybhR PE=1 SV=1
+P0AFQ7	YCFH_ECOLI Uncharacterized deoxyribonuclease ycfH OS=Escherichia coli (strain K12) GN=ycfH PE=1 SV=1
+P0AFR4	YCIO_ECOLI Uncharacterized protein yciO OS=Escherichia coli (strain K12) GN=yciO PE=1 SV=1
+P0AFS5	TQSA_ECOLI AI-2 transport protein tqsA OS=Escherichia coli (strain K12) GN=tqsA PE=1 SV=1
+P0AFS7	YDIK_ECOLI UPF0118 inner membrane protein ydiK OS=Escherichia coli (strain K12) GN=ydiK PE=1 SV=1
+P0AFT5	YEHT_ECOLI Uncharacterized response regulatory protein yehT OS=Escherichia coli (strain K12) GN=yehT PE=3 SV=1
+P0AFU4	YFHA_ECOLI Uncharacterized protein yfhA OS=Escherichia coli (strain K12) GN=yfhA PE=3 SV=1
+P0AFV8	PSPD_ECOLI Phage shock protein D OS=Escherichia coli (strain K12) GN=pspD PE=2 SV=1
+P0AFW0	RFAH_ECOLI Transcriptional activator rfaH OS=Escherichia coli (strain K12) GN=rfaH PE=1 SV=1
+P0AFX0	RP5M_ECOLI Probable sigma(54) modulation protein OS=Escherichia coli (strain K12) GN=yhbH PE=1 SV=1
+P0AFX4	RSD_ECOLI Regulator of sigma D OS=Escherichia coli (strain K12) GN=rsd PE=1 SV=1
+P0AFX9	RSEB_ECOLI Sigma-E factor regulatory protein rseB OS=Escherichia coli (strain K12) GN=rseB PE=1 SV=1
+P0AFY2	SANA_ECOLI Protein sanA OS=Escherichia coli (strain K12) GN=sanA PE=4 SV=1
+P0AFY6	SBMA_ECOLI Protein sbmA OS=Escherichia coli (strain K12) GN=sbmA PE=1 SV=1
+P0AFY8	SEQA_ECOLI Protein seqA OS=Escherichia coli (strain K12) GN=seqA PE=1 SV=1
+P0AFZ1	SSEB_ECOLI Protein sseB OS=Escherichia coli (strain K12) GN=sseB PE=4 SV=1
+P0AFZ3	SSPB_ECOLI Stringent starvation protein B OS=Escherichia coli (strain K12) GN=sspB PE=1 SV=1
+P0AG00	WZZE_ECOLI Lipopolysaccharide biosynthesis protein wzzE OS=Escherichia coli (strain K12) GN=wzzE PE=1 SV=2
+P0AG03	UBIX_ECOLI 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=Escherichia coli (strain K12) GN=ubiX PE=3 SV=1
+P0AG14	SOHB_ECOLI Probable protease sohB OS=Escherichia coli (strain K12) GN=sohB PE=1 SV=1
+P0AG18	PUR6_ECOLI Phosphoribosylaminoimidazole carboxylase catalytic subunit OS=Escherichia coli (strain K12) GN=purE PE=1 SV=2
+P0AG20	RELA_ECOLI GTP pyrophosphokinase OS=Escherichia coli (strain K12) GN=relA PE=3 SV=1
+P0AG24	SPOT_ECOLI Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase OS=Escherichia coli (strain K12) GN=spoT PE=1 SV=1
+P0AG27	YIBN_ECOLI Uncharacterized protein yibN OS=Escherichia coli (strain K12) GN=yibN PE=1 SV=1
+P0AG30	RHO_ECOLI Transcription termination factor rho OS=Escherichia coli (strain K12) GN=rho PE=1 SV=1
+P0AG40	RIBF_ECOLI Riboflavin biosynthesis protein ribF OS=Escherichia coli (strain K12) GN=ribF PE=1 SV=1
+P0AG44	RL17_ECOLI 50S ribosomal protein L17 OS=Escherichia coli (strain K12) GN=rplQ PE=1 SV=1
+P0AG48	RL21_ECOLI 50S ribosomal protein L21 OS=Escherichia coli (strain K12) GN=rplU PE=1 SV=1
+P0AG51	RL30_ECOLI 50S ribosomal protein L30 OS=Escherichia coli (strain K12) GN=rpmD PE=1 SV=2
+P0AG55	RL6_ECOLI 50S ribosomal protein L6 OS=Escherichia coli (strain K12) GN=rplF PE=1 SV=2
+P0AG59	RS14_ECOLI 30S ribosomal protein S14 OS=Escherichia coli (strain K12) GN=rpsN PE=1 SV=2
+P0AG63	RS17_ECOLI 30S ribosomal protein S17 OS=Escherichia coli (strain K12) GN=rpsQ PE=1 SV=2
+P0AG67	RS1_ECOLI 30S ribosomal protein S1 OS=Escherichia coli (strain K12) GN=rpsA PE=1 SV=1
+P0AG71	RMUC_ECOLI DNA recombination protein rmuC OS=Escherichia coli (strain K12) GN=rmuC PE=1 SV=1
+P0AG82	PSTS_ECOLI Phosphate-binding protein pstS OS=Escherichia coli (strain K12) GN=pstS PE=1 SV=1
+P0AG86	SECB_ECOLI Protein-export protein secB OS=Escherichia coli (strain K12) GN=secB PE=1 SV=1
+P0AG90	SECD_ECOLI Protein-export membrane protein secD OS=Escherichia coli (strain K12) GN=secD PE=3 SV=1
+P0AG93	SECF_ECOLI Protein-export membrane protein secF OS=Escherichia coli (strain K12) GN=secF PE=1 SV=1
+P0AG96	SECE_ECOLI Preprotein translocase subunit secE OS=Escherichia coli (strain K12) GN=secE PE=1 SV=1
+P0AG96	SECE_ECOLI Preprotein translocase subunit secE OS=Escherichia coli (strain K12) GN=secE PE=1 SV=1
+P0AG99	SECG_ECOLI Protein-export membrane protein secG OS=Escherichia coli (strain K12) GN=secG PE=1 SV=1
+P0AGA2	SECY_ECOLI Preprotein translocase subunit secY OS=Escherichia coli (strain K12) GN=secY PE=1 SV=1
+P0AGA6	UHPA_ECOLI Transcriptional regulatory protein uhpA OS=Escherichia coli (strain K12) GN=uhpA PE=1 SV=1
+P0AGB0	SERB_ECOLI Phosphoserine phosphatase OS=Escherichia coli (strain K12) GN=serB PE=1 SV=1
+P0AGB6	RPOE_ECOLI RNA polymerase sigma-E factor OS=Escherichia coli (strain K12) GN=rpoE PE=1 SV=1
+P0AGC3	SLT_ECOLI Soluble lytic murein transglycosylase OS=Escherichia coli (strain K12) GN=slt PE=1 SV=1
+P0AGC7	SMP_ECOLI Protein smp OS=Escherichia coli (strain K12) GN=smp PE=3 SV=1
+P0AGD3	SODF_ECOLI Superoxide dismutase [Fe] OS=Escherichia coli (strain K12) GN=sodB PE=1 SV=2
+P0AGD7	SRP54_ECOLI Signal recognition particle protein OS=Escherichia coli (strain K12) GN=ffh PE=1 SV=1
+P0AGE0	SSB_ECOLI Single-stranded DNA-binding protein OS=Escherichia coli (strain K12) GN=ssb PE=1 SV=2
+P0AGE9	SUCD_ECOLI Succinyl-CoA ligase [ADP-forming] subunit alpha OS=Escherichia coli (strain K12) GN=sucD PE=1 SV=2
+P0AGF6	THD2_ECOLI Threonine dehydratase catabolic OS=Escherichia coli (strain K12) GN=tdcB PE=1 SV=1
+P0AGG0	THIL_ECOLI Thiamine-monophosphate kinase OS=Escherichia coli (strain K12) GN=thiL PE=3 SV=1
+P0AGG4	THIO2_ECOLI Thioredoxin-2 OS=Escherichia coli (strain K12) GN=trxC PE=1 SV=1
+P0AGG8	TLDD_ECOLI Protein tldD OS=Escherichia coli (strain K12) GN=tldD PE=1 SV=1
+P0AGI8	TRKA_ECOLI Trk system potassium uptake protein trkA OS=Escherichia coli (strain K12) GN=trkA PE=1 SV=1
+P0AGJ5	YFIF_ECOLI Uncharacterized tRNA/rRNA methyltransferase yfiF OS=Escherichia coli (strain K12) GN=yfiF PE=3 SV=1
+P0AGJ9	SYY_ECOLI Tyrosyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=tyrS PE=1 SV=2
+P0AGK8	ISCR_ECOLI HTH-type transcriptional regulator iscR OS=Escherichia coli (strain K12) GN=iscR PE=1 SV=1
+P0AGL7	RSME_ECOLI Ribosomal RNA small subunit methyltransferase E OS=Escherichia coli (strain K12) GN=rsmE PE=1 SV=1
+P0AGM5	SIRB1_ECOLI Protein sirB1 OS=Escherichia coli (strain K12) GN=sirB1 PE=3 SV=1
+P0C018	RL18_ECOLI 50S ribosomal protein L18 OS=Escherichia coli (strain K12) GN=rplR PE=1 SV=1
+P0C054	IBPA_ECOLI Small heat shock protein ibpA OS=Escherichia coli (strain K12) GN=ibpA PE=1 SV=1
+P0C058	IBPB_ECOLI Small heat shock protein ibpB OS=Escherichia coli (strain K12) GN=ibpB PE=1 SV=1
+P0C093	SLMA_ECOLI HTH-type protein slmA OS=Escherichia coli (strain K12) GN=slmA PE=1 SV=1
+P0C0K3	RDOA_ECOLI Protein rdoA OS=Escherichia coli (strain K12) GN=rdoA PE=1 SV=1
+P0C0L7	PROP_ECOLI Proline/betaine transporter OS=Escherichia coli (strain K12) GN=proP PE=1 SV=1
+P0C0R7	RLME_ECOLI Ribosomal RNA large subunit methyltransferase E OS=Escherichia coli (strain K12) GN=rlmE PE=1 SV=1
+P0C0S1	MSCS_ECOLI Small-conductance mechanosensitive channel OS=Escherichia coli (strain K12) GN=mscS PE=1 SV=1
+P0C0T5	MEPA_ECOLI Penicillin-insensitive murein endopeptidase OS=Escherichia coli (strain K12) GN=mepA PE=1 SV=1
+P0C0U4	RIMK_ECOLI Ribosomal protein S6 modification protein OS=Escherichia coli (strain K12) GN=rimK PE=3 SV=1
+P0C0V0	DEGP_ECOLI Protease do OS=Escherichia coli (strain K12) GN=degP PE=1 SV=1
+P0C0V0	DEGP_ECOLI Protease do OS=Escherichia coli (strain K12) GN=degP PE=1 SV=1
+P0C5W4	INSD_ECOLI Transposase insD for insertion element IS2A/D/F/H/I/K OS=Escherichia coli (strain K12) GN=insD1 PE=4 SV=1
+P0C8J6	GATY_ECOLI D-tagatose-1,6-bisphosphate aldolase subunit gatY OS=Escherichia coli (strain K12) GN=gatY PE=1 SV=1
+P0C8J8	GATZ_ECOLI D-tagatose-1,6-bisphosphate aldolase subunit gatZ OS=Escherichia coli (strain K12) GN=gatZ PE=1 SV=1
+P0C960	EMTA_ECOLI Endo-type membrane-bound lytic murein transglycosylase A OS=Escherichia coli (strain K12) GN=emtA PE=1 SV=1
+P0CB39	CPTA_ECOLI Phosphoethanolamine transferase cptA OS=Escherichia coli (strain K12) GN=cptA PE=1 SV=1
+P10100	RLPA_ECOLI Rare lipoprotein A OS=Escherichia coli (strain K12) GN=rlpA PE=1 SV=1
+P10121	FTSY_ECOLI Cell division protein ftsY OS=Escherichia coli (strain K12) GN=ftsY PE=1 SV=1
+P10346	GLNQ_ECOLI Glutamine transport ATP-binding protein glnQ OS=Escherichia coli (strain K12) GN=glnQ PE=1 SV=1
+P10371	HIS4_ECOLI 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase OS=Escherichia coli (strain K12) GN=hisA PE=1 SV=2
+P10384	FADL_ECOLI Long-chain fatty acid transport protein OS=Escherichia coli (strain K12) GN=fadL PE=1 SV=5
+P10408	SECA_ECOLI Protein translocase subunit secA OS=Escherichia coli (strain K12) GN=secA PE=1 SV=2
+P10441	LPXB_ECOLI Lipid-A-disaccharide synthase OS=Escherichia coli (strain K12) GN=lpxB PE=1 SV=2
+P10442	RNH2_ECOLI Ribonuclease HII OS=Escherichia coli (strain K12) GN=rnhB PE=1 SV=2
+P10443	DPO3A_ECOLI DNA polymerase III subunit alpha OS=Escherichia coli (strain K12) GN=dnaE PE=1 SV=1
+P10907	UGPC_ECOLI sn-glycerol-3-phosphate import ATP-binding protein ugpC OS=Escherichia coli (strain K12) GN=ugpC PE=1 SV=3
+P11349	NARH_ECOLI Respiratory nitrate reductase 1 beta chain OS=Escherichia coli (strain K12) GN=narH PE=1 SV=3
+P11446	ARGC_ECOLI N-acetyl-gamma-glutamyl-phosphate reductase OS=Escherichia coli (strain K12) GN=argC PE=3 SV=1
+P11447	ARLY_ECOLI Argininosuccinate lyase OS=Escherichia coli (strain K12) GN=argH PE=1 SV=3
+P11557	DAMX_ECOLI Protein damX OS=Escherichia coli (strain K12) GN=damX PE=1 SV=2
+P11875	SYR_ECOLI Arginyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=argS PE=1 SV=1
+P11880	MURF_ECOLI UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase OS=Escherichia coli (strain K12) GN=murF PE=1 SV=2
+P12008	AROC_ECOLI Chorismate synthase OS=Escherichia coli (strain K12) GN=aroC PE=1 SV=4
+P12281	MOEA_ECOLI Molybdopterin biosynthesis protein moeA OS=Escherichia coli (strain K12) GN=moeA PE=1 SV=1
+P12282	MOEB_ECOLI Molybdopterin biosynthesis protein moeB OS=Escherichia coli (strain K12) GN=moeB PE=1 SV=1
+P12295	UNG_ECOLI Uracil-DNA glycosylase OS=Escherichia coli (strain K12) GN=ung PE=1 SV=2
+P13001	BIOH_ECOLI Carboxylesterase bioH OS=Escherichia coli (strain K12) GN=bioH PE=1 SV=1
+P13009	METH_ECOLI Methionine synthase OS=Escherichia coli (strain K12) GN=metH PE=1 SV=5
+P13024	FDHE_ECOLI Protein fdhE OS=Escherichia coli (strain K12) GN=fdhE PE=3 SV=2
+P13029	KATG_ECOLI Catalase-peroxidase OS=Escherichia coli (strain K12) GN=katG PE=1 SV=2
+P13035	GLPD_ECOLI Aerobic glycerol-3-phosphate dehydrogenase OS=Escherichia coli (strain K12) GN=glpD PE=1 SV=3
+P13036	FECA_ECOLI Fe(3+) dicitrate transport protein fecA OS=Escherichia coli (strain K12) GN=fecA PE=1 SV=2
+P13445	RPOS_ECOLI RNA polymerase sigma factor rpoS OS=Escherichia coli (strain K12) GN=rpoS PE=3 SV=3
+P13458	SBCC_ECOLI Nuclease sbcCD subunit C OS=Escherichia coli (strain K12) GN=sbcC PE=1 SV=1
+P13669	MNGR_ECOLI Mannosyl-D-glycerate transport/metabolism system repressor mngR OS=Escherichia coli (strain K12) GN=mngR PE=1 SV=1
+P14081	SELB_ECOLI Selenocysteine-specific elongation factor OS=Escherichia coli (strain K12) GN=selB PE=1 SV=3
+P14175	PROV_ECOLI Glycine betaine/L-proline transport ATP-binding protein proV OS=Escherichia coli (strain K12) GN=proV PE=1 SV=1
+P14176	PROW_ECOLI Glycine betaine/L-proline transport system permease protein proW OS=Escherichia coli (strain K12) GN=proW PE=1 SV=1
+P14294	TOP3_ECOLI DNA topoisomerase 3 OS=Escherichia coli (strain K12) GN=topB PE=1 SV=1
+P14375	ZRAR_ECOLI Transcriptional regulatory protein zraR OS=Escherichia coli (strain K12) GN=zraR PE=1 SV=2
+P14376	RCSC_ECOLI Sensor kinase protein rcsC OS=Escherichia coli (strain K12) GN=rcsC PE=1 SV=3
+P15005	MCRB_ECOLI 5-methylcytosine-specific restriction enzyme B OS=Escherichia coli (strain K12) GN=mcrB PE=1 SV=3
+P15028	FECB_ECOLI Fe(3+) dicitrate-binding periplasmic protein OS=Escherichia coli (strain K12) GN=fecB PE=3 SV=3
+P15031	FECE_ECOLI Fe(3+) dicitrate transport ATP-binding protein fecE OS=Escherichia coli (strain K12) GN=fecE PE=1 SV=1
+P15038	HELD_ECOLI Helicase IV OS=Escherichia coli (strain K12) GN=helD PE=1 SV=2
+P15042	DNLJ_ECOLI DNA ligase OS=Escherichia coli (strain K12) GN=ligA PE=1 SV=2
+P15254	PUR4_ECOLI Phosphoribosylformylglycinamidine synthase OS=Escherichia coli (strain K12) GN=purL PE=1 SV=3
+P15254	PUR4_ECOLI Phosphoribosylformylglycinamidine synthase OS=Escherichia coli (strain K12) GN=purL PE=1 SV=3
+P15286	FLK_ECOLI Flagellar regulator flk OS=Escherichia coli (strain K12) GN=flk PE=3 SV=2
+P15288	PEPD_ECOLI Aminoacyl-histidine dipeptidase OS=Escherichia coli (strain K12) GN=pepD PE=1 SV=3
+P15770	AROE_ECOLI Shikimate dehydrogenase OS=Escherichia coli (strain K12) GN=aroE PE=1 SV=1
+P15877	DHG_ECOLI Quinoprotein glucose dehydrogenase OS=Escherichia coli (strain K12) GN=gcd PE=1 SV=3
+P16095	SDHL_ECOLI L-serine dehydratase 1 OS=Escherichia coli (strain K12) GN=sdaA PE=1 SV=3
+P16384	MIAA_ECOLI tRNA Delta(2)-isopentenylpyrophosphate transferase OS=Escherichia coli (strain K12) GN=miaA PE=1 SV=2
+P16433	HYCG_ECOLI Formate hydrogenlyase subunit 7 OS=Escherichia coli (strain K12) GN=hycG PE=1 SV=2
+P16456	SELD_ECOLI Selenide, water dikinase OS=Escherichia coli (strain K12) GN=selD PE=1 SV=1
+P16525	TUS_ECOLI DNA replication terminus site-binding protein OS=Escherichia coli (strain K12) GN=tus PE=1 SV=1
+P16528	ICLR_ECOLI Acetate operon repressor OS=Escherichia coli (strain K12) GN=iclR PE=1 SV=1
+P16659	SYP_ECOLI Prolyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=proS PE=1 SV=4
+P16676	CYSA_ECOLI Sulfate/thiosulfate import ATP-binding protein cysA OS=Escherichia coli (strain K12) GN=cysA PE=3 SV=2
+P16700	CYSP_ECOLI Thiosulfate-binding protein OS=Escherichia coli (strain K12) GN=cysP PE=1 SV=1
+P16926	MREC_ECOLI Rod shape-determining protein mreC OS=Escherichia coli (strain K12) GN=mreC PE=3 SV=1
+P17115	GUTQ_ECOLI Protein gutQ OS=Escherichia coli (strain K12) GN=gutQ PE=3 SV=3
+P17117	NFSA_ECOLI Oxygen-insensitive NADPH nitroreductase OS=Escherichia coli (strain K12) GN=nfsA PE=1 SV=2
+P17169	GLMS_ECOLI Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] OS=Escherichia coli (strain K12) GN=glmS PE=1 SV=4
+P17443	MURG_ECOLI UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase OS=Escherichia coli (strain K12) GN=murG PE=1 SV=3
+P17444	BETA_ECOLI Choline dehydrogenase OS=Escherichia coli (strain K12) GN=betA PE=1 SV=1
+P17445	BETB_ECOLI Betaine aldehyde dehydrogenase OS=Escherichia coli (strain K12) GN=betB PE=1 SV=3
+P17846	CYSI_ECOLI Sulfite reductase [NADPH] hemoprotein beta-component OS=Escherichia coli (strain K12) GN=cysI PE=1 SV=4
+P17854	CYSH_ECOLI Phosphoadenosine phosphosulfate reductase OS=Escherichia coli (strain K12) GN=cysH PE=1 SV=3
+P17888	PRIA_ECOLI Primosomal protein N' OS=Escherichia coli (strain K12) GN=priA PE=1 SV=2
+P17952	MURC_ECOLI UDP-N-acetylmuramate--L-alanine ligase OS=Escherichia coli (strain K12) GN=murC PE=1 SV=2
+P17993	UBIG_ECOLI 3-demethylubiquinone-9 3-methyltransferase OS=Escherichia coli (strain K12) GN=ubiG PE=1 SV=1
+P18196	MINC_ECOLI Septum site-determining protein minC OS=Escherichia coli (strain K12) GN=minC PE=1 SV=1
+P18335	ARGD_ECOLI Acetylornithine/succinyldiaminopimelate aminotransferase OS=Escherichia coli (strain K12) GN=argD PE=1 SV=4
+P18775	DMSA_ECOLI Anaerobic dimethyl sulfoxide reductase chain A OS=Escherichia coli (strain K12) GN=dmsA PE=1 SV=2
+P18843	NADE_ECOLI NH(3)-dependent NAD(+) synthetase OS=Escherichia coli (strain K12) GN=nadE PE=1 SV=2
+P19319	NARZ_ECOLI Respiratory nitrate reductase 2 alpha chain OS=Escherichia coli (strain K12) GN=narZ PE=1 SV=5
+P19624	PDXA_ECOLI 4-hydroxythreonine-4-phosphate dehydrogenase OS=Escherichia coli (strain K12) GN=pdxA PE=1 SV=1
+P19926	AGP_ECOLI Glucose-1-phosphatase OS=Escherichia coli (strain K12) GN=agp PE=1 SV=1
+P19934	TOLA_ECOLI Protein tolA OS=Escherichia coli (strain K12) GN=tolA PE=1 SV=1
+P20083	PARE_ECOLI DNA topoisomerase 4 subunit B OS=Escherichia coli (strain K12) GN=parE PE=1 SV=3
+P20605	FIC_ECOLI Probable adenosine monophosphate-protein transferase fic OS=Escherichia coli (strain K12) GN=fic PE=1 SV=1
+P20966	PTFBC_ECOLI PTS system fructose-specific EIIBC component OS=Escherichia coli (strain K12) GN=fruA PE=4 SV=1
+P21151	FADA_ECOLI 3-ketoacyl-CoA thiolase OS=Escherichia coli (strain K12) GN=fadA PE=1 SV=3
+P21165	PEPQ_ECOLI Xaa-Pro dipeptidase OS=Escherichia coli (strain K12) GN=pepQ PE=1 SV=2
+P21170	SPEA_ECOLI Biosynthetic arginine decarboxylase OS=Escherichia coli (strain K12) GN=speA PE=1 SV=2
+P21177	FADB_ECOLI Fatty acid oxidation complex subunit alpha OS=Escherichia coli (strain K12) GN=fadB PE=1 SV=2
+P21179	CATE_ECOLI Catalase HPII OS=Escherichia coli (strain K12) GN=katE PE=1 SV=1
+P21338	RNI_ECOLI Ribonuclease I OS=Escherichia coli (strain K12) GN=rna PE=1 SV=1
+P21345	GLTP_ECOLI Proton glutamate symport protein OS=Escherichia coli (strain K12) GN=gltP PE=1 SV=2
+P21365	YCIC_ECOLI UPF0259 membrane protein yciC OS=Escherichia coli (strain K12) GN=yciC PE=1 SV=2
+P21367	YCAC_ECOLI Uncharacterized protein ycaC OS=Escherichia coli (strain K12) GN=ycaC PE=1 SV=1
+P21499	RNR_ECOLI Ribonuclease R OS=Escherichia coli (strain K12) GN=rnr PE=1 SV=2
+P21507	SRMB_ECOLI ATP-dependent RNA helicase srmB OS=Escherichia coli (strain K12) GN=srmB PE=1 SV=1
+P21513	RNE_ECOLI Ribonuclease E OS=Escherichia coli (strain K12) GN=rne PE=1 SV=6
+P21515	ACPH_ECOLI Acyl carrier protein phosphodiesterase OS=Escherichia coli (strain K12) GN=acpH PE=3 SV=2
+P21599	KPYK2_ECOLI Pyruvate kinase II OS=Escherichia coli (strain K12) GN=pykA PE=1 SV=3
+P21645	LPXD_ECOLI UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase OS=Escherichia coli (strain K12) GN=lpxD PE=1 SV=2
+P21693	DBPA_ECOLI ATP-independent RNA helicase dbpA OS=Escherichia coli (strain K12) GN=dbpA PE=1 SV=2
+P21865	KDPD_ECOLI Sensor protein kdpD OS=Escherichia coli (strain K12) GN=kdpD PE=1 SV=2
+P21866	KDPE_ECOLI KDP operon transcriptional regulatory protein kdpE OS=Escherichia coli (strain K12) GN=kdpE PE=1 SV=3
+P21888	SYC_ECOLI Cysteinyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=cysS PE=1 SV=2
+P21889	SYD_ECOLI Aspartyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=aspS PE=1 SV=1
+P21893	RECJ_ECOLI Single-stranded-DNA-specific exonuclease recJ OS=Escherichia coli (strain K12) GN=recJ PE=1 SV=2
+P22106	ASNB_ECOLI Asparagine synthetase B [glutamine-hydrolyzing] OS=Escherichia coli (strain K12) GN=asnB PE=1 SV=3
+P22186	MRAZ_ECOLI Protein mraZ OS=Escherichia coli (strain K12) GN=mraZ PE=3 SV=1
+P22188	MURE_ECOLI UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase OS=Escherichia coli (strain K12) GN=murE PE=1 SV=2
+P22255	CYSQ_ECOLI 3'(2'),5'-bisphosphate nucleotidase cysQ OS=Escherichia coli (strain K12) GN=cysQ PE=1 SV=2
+P22256	GABT_ECOLI 4-aminobutyrate aminotransferase OS=Escherichia coli (strain K12) GN=gabT PE=1 SV=1
+P22259	PCKA_ECOLI Phosphoenolpyruvate carboxykinase [ATP] OS=Escherichia coli (strain K12) GN=pckA PE=1 SV=2
+P22333	ADD_ECOLI Adenosine deaminase OS=Escherichia coli (strain K12) GN=add PE=3 SV=2
+P22523	MUKB_ECOLI Chromosome partition protein mukB OS=Escherichia coli (strain K12) GN=mukB PE=1 SV=2
+P22524	MUKE_ECOLI Chromosome partition protein mukE OS=Escherichia coli (strain K12) GN=mukE PE=1 SV=5
+P22525	YCBB_ECOLI Uncharacterized protein ycbB OS=Escherichia coli (strain K12) GN=ycbB PE=1 SV=2
+P22634	MURI_ECOLI Glutamate racemase OS=Escherichia coli (strain K12) GN=murI PE=1 SV=2
+P22731	LIVF_ECOLI High-affinity branched-chain amino acid transport ATP-binding protein livF OS=Escherichia coli (strain K12) GN=livF PE=1 SV=2
+P22939	ISPA_ECOLI Geranyltranstransferase OS=Escherichia coli (strain K12) GN=ispA PE=1 SV=1
+P23305	YIGA_ECOLI Uncharacterized protein yigA OS=Escherichia coli (strain K12) GN=yigA PE=4 SV=1
+P23367	MUTL_ECOLI DNA mismatch repair protein mutL OS=Escherichia coli (strain K12) GN=mutL PE=1 SV=2
+P23538	PPSA_ECOLI Phosphoenolpyruvate synthase OS=Escherichia coli (strain K12) GN=ppsA PE=1 SV=5
+P23721	SERC_ECOLI Phosphoserine aminotransferase OS=Escherichia coli (strain K12) GN=serC PE=1 SV=4
+P23827	ECOT_ECOLI Ecotin OS=Escherichia coli (strain K12) GN=eco PE=1 SV=1
+P23830	PSS_ECOLI CDP-diacylglycerol--serine O-phosphatidyltransferase OS=Escherichia coli (strain K12) GN=pssA PE=1 SV=2
+P23836	PHOP_ECOLI Transcriptional regulatory protein phoP OS=Escherichia coli (strain K12) GN=phoP PE=1 SV=1
+P23839	YICC_ECOLI UPF0701 protein yicC OS=Escherichia coli (strain K12) GN=yicC PE=1 SV=2
+P23842	YFEA_ECOLI Uncharacterized protein yfeA OS=Escherichia coli (strain K12) GN=yfeA PE=4 SV=2
+P23843	OPPA_ECOLI Periplasmic oligopeptide-binding protein OS=Escherichia coli (strain K12) GN=oppA PE=1 SV=2
+P23845	CYSN_ECOLI Sulfate adenylyltransferase subunit 1 OS=Escherichia coli (strain K12) GN=cysN PE=1 SV=1
+P23847	DPPA_ECOLI Periplasmic dipeptide transport protein OS=Escherichia coli (strain K12) GN=dppA PE=1 SV=1
+P23862	PRIC_ECOLI Primosomal replication protein N'' OS=Escherichia coli (strain K12) GN=priC PE=1 SV=3
+P23865	PRC_ECOLI Tail-specific protease OS=Escherichia coli (strain K12) GN=prc PE=1 SV=2
+P23869	PPIB_ECOLI Peptidyl-prolyl cis-trans isomerase B OS=Escherichia coli (strain K12) GN=ppiB PE=1 SV=2
+P23871	HEMH_ECOLI Ferrochelatase OS=Escherichia coli (strain K12) GN=hemH PE=1 SV=3
+P23878	FEPC_ECOLI Ferric enterobactin transport ATP-binding protein fepC OS=Escherichia coli (strain K12) GN=fepC PE=3 SV=2
+P23882	FMT_ECOLI Methionyl-tRNA formyltransferase OS=Escherichia coli (strain K12) GN=fmt PE=1 SV=4
+P23886	CYDC_ECOLI ATP-binding/permease protein cydC OS=Escherichia coli (strain K12) GN=cydC PE=3 SV=2
+P23893	GSA_ECOLI Glutamate-1-semialdehyde 2,1-aminomutase OS=Escherichia coli (strain K12) GN=hemL PE=1 SV=2
+P23894	HTPX_ECOLI Probable protease htpX OS=Escherichia coli (strain K12) GN=htpX PE=1 SV=1
+P23908	ARGE_ECOLI Acetylornithine deacetylase OS=Escherichia coli (strain K12) GN=argE PE=1 SV=2
+P23909	MUTS_ECOLI DNA mismatch repair protein mutS OS=Escherichia coli (strain K12) GN=mutS PE=1 SV=1
+P23930	LNT_ECOLI Apolipoprotein N-acyltransferase OS=Escherichia coli (strain K12) GN=lnt PE=1 SV=1
+P24171	DCP_ECOLI Peptidyl-dipeptidase dcp OS=Escherichia coli (strain K12) GN=dcp PE=1 SV=4
+P24173	RFAC_ECOLI Lipopolysaccharide heptosyltransferase 1 OS=Escherichia coli (strain K12) GN=rfaC PE=1 SV=1
+P24175	MANB_ECOLI Phosphomannomutase OS=Escherichia coli (strain K12) GN=manB PE=3 SV=1
+P24177	ACRD_ECOLI Probable aminoglycoside efflux pump OS=Escherichia coli (strain K12) GN=acrD PE=3 SV=3
+P24182	ACCC_ECOLI Biotin carboxylase OS=Escherichia coli (strain K12) GN=accC PE=1 SV=2
+P24186	FOLD_ECOLI Bifunctional protein folD OS=Escherichia coli (strain K12) GN=folD PE=1 SV=4
+P24188	YCEA_ECOLI UPF0176 protein yceA OS=Escherichia coli (strain K12) GN=yceA PE=2 SV=2
+P24192	HYPD_ECOLI Hydrogenase isoenzymes formation protein hypD OS=Escherichia coli (strain K12) GN=hypD PE=1 SV=1
+P24193	HYPE_ECOLI Hydrogenase isoenzymes formation protein hypE OS=Escherichia coli (strain K12) GN=hypE PE=1 SV=2
+P24202	MRR_ECOLI Mrr restriction system protein OS=Escherichia coli (strain K12) GN=mrr PE=1 SV=1
+P24203	YJIA_ECOLI Uncharacterized GTP-binding protein yjiA OS=Escherichia coli (strain K12) GN=yjiA PE=1 SV=3
+P24205	MSBB_ECOLI Lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase OS=Escherichia coli (strain K12) GN=msbB PE=1 SV=1
+P24228	DACB_ECOLI D-alanyl-D-alanine carboxypeptidase dacB OS=Escherichia coli (strain K12) GN=dacB PE=1 SV=2
+P24230	RECG_ECOLI ATP-dependent DNA helicase recG OS=Escherichia coli (strain K12) GN=recG PE=1 SV=1
+P24241	PTIBC_ECOLI PTS system arbutin-, cellobiose-, and salicin-specific EIIBC component OS=Escherichia coli (strain K12) GN=ascF PE=4 SV=3
+P24251	CRL_ECOLI Sigma factor-binding protein crl OS=Escherichia coli (strain K12) GN=crl PE=1 SV=5
+P24255	RP54_ECOLI RNA polymerase sigma-54 factor OS=Escherichia coli (strain K12) GN=rpoN PE=3 SV=2
+P24554	RADA_ECOLI DNA repair protein radA OS=Escherichia coli (strain K12) GN=radA PE=3 SV=1
+P25397	TEHB_ECOLI Tellurite resistance protein tehB OS=Escherichia coli (strain K12) GN=tehB PE=4 SV=1
+P25437	FRMA_ECOLI S-(hydroxymethyl)glutathione dehydrogenase OS=Escherichia coli (strain K12) GN=frmA PE=1 SV=3
+P25516	ACON1_ECOLI Aconitate hydratase 1 OS=Escherichia coli (strain K12) GN=acnA PE=1 SV=3
+P25519	HFLX_ECOLI GTP-binding protein hflX OS=Escherichia coli (strain K12) GN=hflX PE=1 SV=3
+P25522	MNME_ECOLI tRNA modification GTPase mnmE OS=Escherichia coli (strain K12) GN=mnmE PE=1 SV=3
+P25534	UBIH_ECOLI 2-octaprenyl-6-methoxyphenol hydroxylase OS=Escherichia coli (strain K12) GN=ubiH PE=1 SV=2
+P25535	VISC_ECOLI Protein visC OS=Escherichia coli (strain K12) GN=visC PE=3 SV=2
+P25553	ALDA_ECOLI Lactaldehyde dehydrogenase OS=Escherichia coli (strain K12) GN=aldA PE=1 SV=2
+P25714	OXAA_ECOLI Inner membrane protein oxaA OS=Escherichia coli (strain K12) GN=oxaA PE=1 SV=2
+P25740	RFAG_ECOLI Lipopolysaccharide core biosynthesis protein rfaG OS=Escherichia coli (strain K12) GN=rfaG PE=1 SV=1
+P25741	RFAP_ECOLI Lipopolysaccharide core heptose(I) kinase rfaP OS=Escherichia coli (strain K12) GN=rfaP PE=3 SV=1
+P25746	HFLD_ECOLI High frequency lysogenization protein hflD OS=Escherichia coli (strain K12) GN=hflD PE=1 SV=1
+P25894	YGGG_ECOLI Uncharacterized metalloprotease yggG OS=Escherichia coli (strain K12) GN=yggG PE=1 SV=2
+P26602	UBIC_ECOLI Chorismate--pyruvate lyase OS=Escherichia coli (strain K12) GN=ubiC PE=1 SV=2
+P26612	AMY2_ECOLI Cytoplasmic alpha-amylase OS=Escherichia coli (strain K12) GN=amyA PE=3 SV=3
+P26616	MAO1_ECOLI NAD-dependent malic enzyme OS=Escherichia coli (strain K12) GN=sfcA PE=3 SV=4
+P26646	YHDH_ECOLI Putative quinone oxidoreductase yhdH OS=Escherichia coli (strain K12) GN=yhdH PE=1 SV=1
+P26647	PLSC_ECOLI 1-acyl-sn-glycerol-3-phosphate acyltransferase OS=Escherichia coli (strain K12) GN=plsC PE=1 SV=1
+P26648	SUFI_ECOLI Protein sufI OS=Escherichia coli (strain K12) GN=sufI PE=1 SV=2
+P27240	RFAY_ECOLI Lipopolysaccharide core heptose(II) kinase rfaY OS=Escherichia coli (strain K12) GN=rfaY PE=3 SV=2
+P27247	PLSX_ECOLI Phosphate acyltransferase OS=Escherichia coli (strain K12) GN=plsX PE=1 SV=2
+P27248	GCST_ECOLI Aminomethyltransferase OS=Escherichia coli (strain K12) GN=gcvT PE=1 SV=3
+P27249	GLND_ECOLI [Protein-PII] uridylyltransferase OS=Escherichia coli (strain K12) GN=glnD PE=3 SV=2
+P27278	NADR_ECOLI Transcriptional regulator nadR OS=Escherichia coli (strain K12) GN=nadR PE=4 SV=2
+P27297	BAX_ECOLI Protein bax OS=Escherichia coli (strain K12) GN=bax PE=4 SV=3
+P27298	OPDA_ECOLI Oligopeptidase A OS=Escherichia coli (strain K12) GN=prlC PE=3 SV=3
+P27300	LPXK_ECOLI Tetraacyldisaccharide 4'-kinase OS=Escherichia coli (strain K12) GN=lpxK PE=1 SV=2
+P27302	TKT1_ECOLI Transketolase 1 OS=Escherichia coli (strain K12) GN=tktA PE=1 SV=5
+P27303	EMRA_ECOLI Multidrug resistance protein A OS=Escherichia coli (strain K12) GN=emrA PE=3 SV=2
+P27305	GLUQ_ECOLI Glutamyl-Q tRNA(Asp) synthetase OS=Escherichia coli (strain K12) GN=gluQ PE=1 SV=6
+P27306	STHA_ECOLI Soluble pyridine nucleotide transhydrogenase OS=Escherichia coli (strain K12) GN=sthA PE=1 SV=5
+P27431	YCFD_ECOLI Uncharacterized protein ycfD OS=Escherichia coli (strain K12) GN=ycfD PE=4 SV=2
+P27434	RODZ_ECOLI Cytoskeleton protein rodZ OS=Escherichia coli (strain K12) GN=rodZ PE=1 SV=2
+P27550	ACSA_ECOLI Acetyl-coenzyme A synthetase OS=Escherichia coli (strain K12) GN=acs PE=1 SV=2
+P27828	WECB_ECOLI UDP-N-acetylglucosamine 2-epimerase OS=Escherichia coli (strain K12) GN=wecB PE=1 SV=2
+P27829	WECC_ECOLI UDP-N-acetyl-D-mannosamine dehydrogenase OS=Escherichia coli (strain K12) GN=wecC PE=3 SV=4
+P27833	RFFA_ECOLI Lipopolysaccharide biosynthesis protein rffA OS=Escherichia coli (strain K12) GN=rffA PE=3 SV=2
+P27836	WECG_ECOLI Probable UDP-N-acetyl-D-mannosaminuronic acid transferase OS=Escherichia coli (strain K12) GN=wecG PE=3 SV=2
+P27848	YIGL_ECOLI Uncharacterized protein yigL OS=Escherichia coli (strain K12) GN=yigL PE=3 SV=4
+P27862	YIGZ_ECOLI IMPACT family member yigZ OS=Escherichia coli (strain K12) GN=yigZ PE=1 SV=2
+P28246	BCR_ECOLI Bicyclomycin resistance protein OS=Escherichia coli (strain K12) GN=bcr PE=1 SV=4
+P28248	DCD_ECOLI Deoxycytidine triphosphate deaminase OS=Escherichia coli (strain K12) GN=dcd PE=1 SV=1
+P28249	ASMA_ECOLI Protein asmA OS=Escherichia coli (strain K12) GN=asmA PE=4 SV=2
+P28304	QOR_ECOLI Quinone oxidoreductase OS=Escherichia coli (strain K12) GN=qor PE=1 SV=1
+P28305	PABC_ECOLI Aminodeoxychorismate lyase OS=Escherichia coli (strain K12) GN=pabC PE=1 SV=1
+P28306	YCEG_ECOLI UPF0755 protein yceG OS=Escherichia coli (strain K12) GN=yceG PE=1 SV=2
+P28630	HOLA_ECOLI DNA polymerase III subunit delta OS=Escherichia coli (strain K12) GN=holA PE=1 SV=1
+P28631	HOLB_ECOLI DNA polymerase III subunit delta' OS=Escherichia coli (strain K12) GN=holB PE=1 SV=2
+P28635	METQ_ECOLI D-methionine-binding lipoprotein metQ OS=Escherichia coli (strain K12) GN=metQ PE=1 SV=2
+P28903	NRDD_ECOLI Anaerobic ribonucleoside-triphosphate reductase OS=Escherichia coli (strain K12) GN=nrdD PE=1 SV=2
+P28904	TREC_ECOLI Trehalose-6-phosphate hydrolase OS=Escherichia coli (strain K12) GN=treC PE=3 SV=3
+P29013	YCGB_ECOLI Uncharacterized protein ycgB OS=Escherichia coli (strain K12) GN=ycgB PE=4 SV=2
+P29018	CYDD_ECOLI ATP-binding/permease protein cydD OS=Escherichia coli (strain K12) GN=cydD PE=1 SV=3
+P29131	FTSN_ECOLI Cell division protein ftsN OS=Escherichia coli (strain K12) GN=ftsN PE=1 SV=3
+P29217	YCEH_ECOLI UPF0502 protein yceH OS=Escherichia coli (strain K12) GN=yceH PE=1 SV=3
+P29680	DCUP_ECOLI Uroporphyrinogen decarboxylase OS=Escherichia coli (strain K12) GN=hemE PE=1 SV=3
+P30011	NADC_ECOLI Nicotinate-nucleotide pyrophosphorylase [carboxylating] OS=Escherichia coli (strain K12) GN=nadC PE=1 SV=7
+P30014	RNT_ECOLI Ribonuclease T OS=Escherichia coli (strain K12) GN=rnt PE=1 SV=1
+P30126	LEUD_ECOLI 3-isopropylmalate dehydratase small subunit OS=Escherichia coli (strain K12) GN=leuD PE=1 SV=3
+P30128	GREB_ECOLI Transcription elongation factor greB OS=Escherichia coli (strain K12) GN=greB PE=1 SV=2
+P30137	THIE_ECOLI Thiamine-phosphate pyrophosphorylase OS=Escherichia coli (strain K12) GN=thiE PE=1 SV=1
+P30138	THIF_ECOLI Adenylyltransferase thiF OS=Escherichia coli (strain K12) GN=thiF PE=1 SV=2
+P30178	YBIC_ECOLI Uncharacterized oxidoreductase ybiC OS=Escherichia coli (strain K12) GN=ybiC PE=1 SV=2
+P30744	SDHM_ECOLI L-serine dehydratase 2 OS=Escherichia coli (strain K12) GN=sdaB PE=1 SV=2
+P30745	MOAA_ECOLI Molybdenum cofactor biosynthesis protein A OS=Escherichia coli (strain K12) GN=moaA PE=1 SV=1
+P30750	METN_ECOLI Methionine import ATP-binding protein metN OS=Escherichia coli (strain K12) GN=metN PE=1 SV=4
+P30843	BASR_ECOLI Transcriptional regulatory protein basR OS=Escherichia coli (strain K12) GN=basR PE=2 SV=3
+P30845	EPTA_ECOLI Phosphoethanolamine transferase eptA OS=Escherichia coli (strain K12) GN=eptA PE=1 SV=2
+P30847	BAES_ECOLI Signal transduction histidine-protein kinase baeS OS=Escherichia coli (strain K12) GN=baeS PE=3 SV=2
+P30850	RNB_ECOLI Exoribonuclease 2 OS=Escherichia coli (strain K12) GN=rnb PE=1 SV=3
+P30859	ARTI_ECOLI Putative ABC transporter arginine-binding protein 2 OS=Escherichia coli (strain K12) GN=artI PE=1 SV=3
+P30860	ARTJ_ECOLI ABC transporter arginine-binding protein 1 OS=Escherichia coli (strain K12) GN=artJ PE=1 SV=2
+P30864	YAFC_ECOLI Uncharacterized HTH-type transcriptional regulator yafC OS=Escherichia coli (strain K12) GN=yafC PE=1 SV=1
+P30870	GLNE_ECOLI Glutamate-ammonia-ligase adenylyltransferase OS=Escherichia coli (strain K12) GN=glnE PE=1 SV=2
+P30871	YGIF_ECOLI Uncharacterized protein ygiF OS=Escherichia coli (strain K12) GN=ygiF PE=4 SV=1
+P30958	MFD_ECOLI Transcription-repair-coupling factor OS=Escherichia coli (strain K12) GN=mfd PE=1 SV=2
+P31069	KCH_ECOLI Putative potassium channel protein OS=Escherichia coli (strain K12) GN=kch PE=1 SV=1
+P31119	AAS_ECOLI Bifunctional protein aas OS=Escherichia coli (strain K12) GN=aas PE=1 SV=2
+P31120	GLMM_ECOLI Phosphoglucosamine mutase OS=Escherichia coli (strain K12) GN=glmM PE=1 SV=3
+P31121	MARB_ECOLI Multiple antibiotic resistance protein marB OS=Escherichia coli (strain K12) GN=marB PE=4 SV=1
+P31142	THTM_ECOLI 3-mercaptopyruvate sulfurtransferase OS=Escherichia coli (strain K12) GN=sseA PE=1 SV=3
+P31224	ACRB_ECOLI Acriflavine resistance protein B OS=Escherichia coli (strain K12) GN=acrB PE=1 SV=1
+P31433	YICH_ECOLI Uncharacterized protein yicH OS=Escherichia coli (strain K12) GN=yicH PE=4 SV=2
+P31466	YIEG_ECOLI Putative permease yieG OS=Escherichia coli (strain K12) GN=yieG PE=1 SV=2
+P31473	RAVA_ECOLI ATPase ravA OS=Escherichia coli (strain K12) GN=ravA PE=1 SV=2
+P31475	YIEP_ECOLI Uncharacterized HTH-type transcriptional regulator yieP OS=Escherichia coli (strain K12) GN=yieP PE=4 SV=3
+P31547	METI_ECOLI D-methionine transport system permease protein metI OS=Escherichia coli (strain K12) GN=metI PE=1 SV=1
+P31548	THIQ_ECOLI Thiamine import ATP-binding protein thiQ OS=Escherichia coli (strain K12) GN=thiQ PE=1 SV=2
+P31550	THIB_ECOLI Thiamine-binding periplasmic protein OS=Escherichia coli (strain K12) GN=thiB PE=1 SV=2
+P31554	LPTD_ECOLI LPS-assembly protein lptD OS=Escherichia coli (strain K12) GN=lptD PE=1 SV=2
+P31663	PANC_ECOLI Pantothenate synthetase OS=Escherichia coli (strain K12) GN=panC PE=1 SV=1
+P31677	OTSA_ECOLI Alpha,alpha-trehalose-phosphate synthase [UDP-forming] OS=Escherichia coli (strain K12) GN=otsA PE=1 SV=3
+P31678	OTSB_ECOLI Trehalose-phosphate phosphatase OS=Escherichia coli (strain K12) GN=otsB PE=1 SV=2
+P31680	DJLA_ECOLI DnaJ-like protein djlA OS=Escherichia coli (strain K12) GN=djlA PE=1 SV=1
+P31801	CHAA_ECOLI Calcium/proton antiporter OS=Escherichia coli (strain K12) GN=chaA PE=1 SV=1
+P31802	NARP_ECOLI Nitrate/nitrite response regulator protein narP OS=Escherichia coli (strain K12) GN=narP PE=3 SV=1
+P31806	YJEF_ECOLI Uncharacterized protein yjeF OS=Escherichia coli (strain K12) GN=yjeF PE=1 SV=2
+P31808	YCIK_ECOLI Uncharacterized oxidoreductase yciK OS=Escherichia coli (strain K12) GN=yciK PE=1 SV=3
+P31979	NUOF_ECOLI NADH-quinone oxidoreductase subunit F OS=Escherichia coli (strain K12) GN=nuoF PE=1 SV=3
+P32055	FCL_ECOLI GDP-L-fucose synthetase OS=Escherichia coli (strain K12) GN=fcl PE=1 SV=2
+P32099	LPLA_ECOLI Lipoate-protein ligase A OS=Escherichia coli (strain K12) GN=lplA PE=1 SV=3
+P32131	HEMN_ECOLI Oxygen-independent coproporphyrinogen-III oxidase OS=Escherichia coli (strain K12) GN=hemN PE=1 SV=4
+P32132	TYPA_ECOLI GTP-binding protein typA/BipA OS=Escherichia coli (strain K12) GN=typA PE=1 SV=2
+P32141	YIHT_ECOLI Uncharacterized aldolase yihT OS=Escherichia coli (strain K12) GN=yihT PE=3 SV=1
+P32144	YIHW_ECOLI Uncharacterized HTH-type transcriptional regulator yihW OS=Escherichia coli (strain K12) GN=yihW PE=4 SV=2
+P32160	YIIQ_ECOLI Uncharacterized protein yiiQ OS=Escherichia coli (strain K12) GN=yiiQ PE=4 SV=1
+P32173	MOBA_ECOLI Molybdopterin-guanine dinucleotide biosynthesis protein A OS=Escherichia coli (strain K12) GN=mobA PE=1 SV=1
+P32176	FDOG_ECOLI Formate dehydrogenase-O major subunit OS=Escherichia coli (strain K12) GN=fdoG PE=1 SV=5
+P32664	NUDC_ECOLI NADH pyrophosphatase OS=Escherichia coli (strain K12) GN=nudC PE=1 SV=2
+P32668	YIJF_ECOLI Uncharacterized protein yijF OS=Escherichia coli (strain K12) GN=yijF PE=4 SV=1
+P32680	YJAG_ECOLI Uncharacterized protein yjaG OS=Escherichia coli (strain K12) GN=yjaG PE=4 SV=1
+P32684	RLUF_ECOLI Ribosomal large subunit pseudouridine synthase F OS=Escherichia coli (strain K12) GN=rluF PE=1 SV=1
+P32684	RLUF_ECOLI Ribosomal large subunit pseudouridine synthase F OS=Escherichia coli (strain K12) GN=rluF PE=1 SV=1
+P32695	DUSA_ECOLI tRNA-dihydrouridine synthase A OS=Escherichia coli (strain K12) GN=dusA PE=3 SV=3
+P33029	YEIQ_ECOLI Uncharacterized oxidoreductase yeiQ OS=Escherichia coli (strain K12) GN=yeiQ PE=3 SV=1
+P33030	YEIR_ECOLI Uncharacterized protein yeiR OS=Escherichia coli (strain K12) GN=yeiR PE=3 SV=2
+P33136	OPGG_ECOLI Glucans biosynthesis protein G OS=Escherichia coli (strain K12) GN=mdoG PE=1 SV=1
+P33195	GCSP_ECOLI Glycine dehydrogenase [decarboxylating] OS=Escherichia coli (strain K12) GN=gcvP PE=1 SV=3
+P33218	YEBE_ECOLI Inner membrane protein yebE OS=Escherichia coli (strain K12) GN=yebE PE=1 SV=2
+P33221	PURT_ECOLI Phosphoribosylglycinamide formyltransferase 2 OS=Escherichia coli (strain K12) GN=purT PE=1 SV=3
+P33232	LLDD_ECOLI L-lactate dehydrogenase [cytochrome] OS=Escherichia coli (strain K12) GN=lldD PE=1 SV=1
+P33355	YEHS_ECOLI Uncharacterized protein yehS OS=Escherichia coli (strain K12) GN=yehS PE=4 SV=1
+P33358	MLRA_ECOLI HTH-type transcriptional regulator mlrA OS=Escherichia coli (strain K12) GN=mlrA PE=4 SV=1
+P33360	YEHX_ECOLI Putative osmoprotectant uptake system ATP-binding protein yehX OS=Escherichia coli (strain K12) GN=yehX PE=2 SV=1
+P33363	BGLX_ECOLI Periplasmic beta-glucosidase OS=Escherichia coli (strain K12) GN=bglX PE=1 SV=2
+P33366	YOHD_ECOLI Inner membrane protein yohD OS=Escherichia coli (strain K12) GN=yohD PE=1 SV=1
+P33368	YOHF_ECOLI Uncharacterized oxidoreductase yohF OS=Escherichia coli (strain K12) GN=yohF PE=3 SV=2
+P33599	NUOCD_ECOLI NADH-quinone oxidoreductase subunit C/D OS=Escherichia coli (strain K12) GN=nuoC PE=1 SV=3
+P33602	NUOG_ECOLI NADH-quinone oxidoreductase subunit G OS=Escherichia coli (strain K12) GN=nuoG PE=1 SV=4
+P33607	NUOL_ECOLI NADH-quinone oxidoreductase subunit L OS=Escherichia coli (strain K12) GN=nuoL PE=1 SV=2
+P33643	RLUD_ECOLI Ribosomal large subunit pseudouridine synthase D OS=Escherichia coli (strain K12) GN=rluD PE=1 SV=4
+P33913	YEJA_ECOLI Uncharacterized protein yejA OS=Escherichia coli (strain K12) GN=yejA PE=4 SV=3
+P33915	YEJE_ECOLI Inner membrane ABC transporter permease protein yejE OS=Escherichia coli (strain K12) GN=yejE PE=1 SV=1
+P33916	YEJF_ECOLI Uncharacterized ABC transporter ATP-binding protein yejF OS=Escherichia coli (strain K12) GN=yejF PE=3 SV=1
+P33920	NDPA_ECOLI Nucleoid-associated protein ndpA OS=Escherichia coli (strain K12) GN=ndpA PE=1 SV=3
+P33931	CCMA_ECOLI Cytochrome c biogenesis ATP-binding export protein ccmA OS=Escherichia coli (strain K12) GN=ccmA PE=1 SV=2
+P33937	NAPA_ECOLI Periplasmic nitrate reductase OS=Escherichia coli (strain K12) GN=napA PE=1 SV=3
+P33940	MQO_ECOLI Malate:quinone oxidoreductase OS=Escherichia coli (strain K12) GN=mqo PE=1 SV=2
+P33941	YOJI_ECOLI ABC transporter ATP-binding protein yojI OS=Escherichia coli (strain K12) GN=yojI PE=1 SV=2
+P34209	YDCF_ECOLI Protein ydcF OS=Escherichia coli (strain K12) GN=ydcF PE=1 SV=3
+P35340	AHPF_ECOLI Alkyl hydroperoxide reductase subunit F OS=Escherichia coli (strain K12) GN=ahpF PE=1 SV=2
+P36548	AMIA_ECOLI Probable N-acetylmuramoyl-L-alanine amidase amiA OS=Escherichia coli (strain K12) GN=amiA PE=3 SV=1
+P36649	CUEO_ECOLI Blue copper oxidase cueO OS=Escherichia coli (strain K12) GN=cueO PE=1 SV=2
+P36655	DSBD_ECOLI Thiol:disulfide interchange protein dsbD OS=Escherichia coli (strain K12) GN=dsbD PE=1 SV=4
+P36659	CBPA_ECOLI Curved DNA-binding protein OS=Escherichia coli (strain K12) GN=cbpA PE=1 SV=2
+P36672	PTTBC_ECOLI PTS system trehalose-specific EIIBC component OS=Escherichia coli (strain K12) GN=treB PE=1 SV=4
+P36673	TRER_ECOLI HTH-type transcriptional regulator treR OS=Escherichia coli (strain K12) GN=treR PE=1 SV=2
+P36680	YACF_ECOLI UPF0289 protein yacF OS=Escherichia coli (strain K12) GN=yacF PE=3 SV=2
+P36683	ACON2_ECOLI Aconitate hydratase 2 OS=Escherichia coli (strain K12) GN=acnB PE=1 SV=3
+P36767	RDGC_ECOLI Recombination-associated protein rdgC OS=Escherichia coli (strain K12) GN=rdgC PE=1 SV=1
+P36771	LRHA_ECOLI Probable HTH-type transcriptional regulator lrhA OS=Escherichia coli (strain K12) GN=lrhA PE=4 SV=2
+P36879	YADG_ECOLI Uncharacterized ABC transporter ATP-binding protein yadG OS=Escherichia coli (strain K12) GN=yadG PE=1 SV=1
+P36928	YEGD_ECOLI Uncharacterized chaperone protein yegD OS=Escherichia coli (strain K12) GN=yegD PE=3 SV=2
+P36938	PGM_ECOLI Phosphoglucomutase OS=Escherichia coli (strain K12) GN=pgm PE=1 SV=1
+P36979	RLMN_ECOLI Ribosomal RNA large subunit methyltransferase N OS=Escherichia coli (strain K12) GN=rlmN PE=1 SV=1
+P36999	RLMA_ECOLI Ribosomal RNA large subunit methyltransferase A OS=Escherichia coli (strain K12) GN=rlmA PE=1 SV=1
+P37005	LAST_ECOLI Uncharacterized tRNA/rRNA methyltransferase lasT OS=Escherichia coli (strain K12) GN=lasT PE=3 SV=2
+P37025	LIGT_ECOLI 2'-5'-RNA ligase OS=Escherichia coli (strain K12) GN=ligT PE=1 SV=3
+P37028	BTUF_ECOLI Vitamin B12-binding protein OS=Escherichia coli (strain K12) GN=btuF PE=1 SV=2
+P37095	PEPB_ECOLI Peptidase B OS=Escherichia coli (strain K12) GN=pepB PE=1 SV=2
+P37128	NUDK_ECOLI GDP-mannose pyrophosphatase nudK OS=Escherichia coli (strain K12) GN=nudK PE=1 SV=2
+P37177	PT1P_ECOLI Phosphoenolpyruvate-protein phosphotransferase ptsP OS=Escherichia coli (strain K12) GN=ptsP PE=3 SV=2
+P37182	HYBD_ECOLI Hydrogenase 2 maturation protease OS=Escherichia coli (strain K12) GN=hybD PE=1 SV=2
+P37188	PTKB_ECOLI Galactitol-specific phosphotransferase enzyme IIB component OS=Escherichia coli (strain K12) GN=gatB PE=1 SV=2
+P37313	DPPF_ECOLI Dipeptide transport ATP-binding protein dppF OS=Escherichia coli (strain K12) GN=dppF PE=3 SV=1
+P37338	YGAE_ECOLI Uncharacterized HTH-type transcriptional regulator ygaE OS=Escherichia coli (strain K12) GN=ygaE PE=1 SV=2
+P37344	PSPF_ECOLI Psp operon transcriptional activator OS=Escherichia coli (strain K12) GN=pspF PE=1 SV=2
+P37348	YECE_ECOLI UPF0759 protein yecE OS=Escherichia coli (strain K12) GN=yecE PE=1 SV=4
+P37349	DHAM_ECOLI PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit dhaM OS=Escherichia coli (strain K12) GN=dhaM PE=1 SV=3
+P37440	UCPA_ECOLI Oxidoreductase ucpA OS=Escherichia coli (strain K12) GN=ucpA PE=1 SV=3
+P37597	YDHC_ECOLI Inner membrane transport protein ydhC OS=Escherichia coli (strain K12) GN=ydhC PE=1 SV=3
+P37617	ATZN_ECOLI Lead, cadmium, zinc and mercury-transporting ATPase OS=Escherichia coli (strain K12) GN=zntA PE=1 SV=1
+P37624	YHIH_ECOLI Uncharacterized ABC transporter ATP-binding protein yhiH OS=Escherichia coli (strain K12) GN=yhiH PE=1 SV=3
+P37626	YHII_ECOLI Uncharacterized protein yhiI OS=Escherichia coli (strain K12) GN=yhiI PE=4 SV=1
+P37634	YHIR_ECOLI Uncharacterized protein yhiR OS=Escherichia coli (strain K12) GN=yhiR PE=1 SV=1
+P37640	YHJB_ECOLI Putative HTH-type transcriptional regulator yhjB OS=Escherichia coli (strain K12) GN=yhjB PE=1 SV=1
+P37641	YHJC_ECOLI Uncharacterized HTH-type transcriptional regulator yhjC OS=Escherichia coli (strain K12) GN=yhjC PE=1 SV=2
+P37642	YHJD_ECOLI Inner membrane protein yhjD OS=Escherichia coli (strain K12) GN=yhjD PE=1 SV=1
+P37645	YHJG_ECOLI Uncharacterized protein yhjG OS=Escherichia coli (strain K12) GN=yhjG PE=4 SV=3
+P37648	YHJJ_ECOLI Protein yhjJ OS=Escherichia coli (strain K12) GN=yhjJ PE=1 SV=1
+P37649	YHJK_ECOLI Protein yhjK OS=Escherichia coli (strain K12) GN=yhjK PE=1 SV=2
+P37650	BCSC_ECOLI Cellulose synthase operon protein C OS=Escherichia coli (strain K12) GN=bcsC PE=1 SV=3
+P37650	BCSC_ECOLI Cellulose synthase operon protein C OS=Escherichia coli (strain K12) GN=bcsC PE=1 SV=3
+P37652	BCSB_ECOLI Cyclic di-GMP-binding protein OS=Escherichia coli (strain K12) GN=bcsB PE=1 SV=2
+P37665	YIAD_ECOLI Inner membrane lipoprotein yiaD OS=Escherichia coli (strain K12) GN=yiaD PE=1 SV=2
+P37666	GHRB_ECOLI Glyoxylate/hydroxypyruvate reductase B OS=Escherichia coli (strain K12) GN=ghrB PE=1 SV=3
+P37689	GPMI_ECOLI 2,3-bisphosphoglycerate-independent phosphoglycerate mutase OS=Escherichia coli (strain K12) GN=gpmI PE=1 SV=1
+P37690	YIBP_ECOLI Uncharacterized protein yibP OS=Escherichia coli (strain K12) GN=yibP PE=4 SV=2
+P37691	YIBQ_ECOLI Uncharacterized protein yibQ OS=Escherichia coli (strain K12) GN=yibQ PE=4 SV=2
+P37692	RFAF_ECOLI ADP-heptose--LPS heptosyltransferase 2 OS=Escherichia coli (strain K12) GN=rfaF PE=1 SV=1
+P37759	RFBB_ECOLI dTDP-glucose 4,6-dehydratase OS=Escherichia coli (strain K12) GN=rfbB PE=3 SV=2
+P37760	RFBD_ECOLI dTDP-4-dehydrorhamnose reductase OS=Escherichia coli (strain K12) GN=rfbD PE=3 SV=2
+P37765	RLUB_ECOLI Ribosomal large subunit pseudouridine synthase B OS=Escherichia coli (strain K12) GN=rluB PE=1 SV=2
+P37767	YFHH_ECOLI Uncharacterized HTH-type transcriptional regulator yfhH OS=Escherichia coli (strain K12) GN=yfhH PE=4 SV=2
+P37769	KDUD_ECOLI 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase OS=Escherichia coli (strain K12) GN=kduD PE=3 SV=2
+P37773	MPL_ECOLI UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase OS=Escherichia coli (strain K12) GN=mpl PE=1 SV=3
+P37902	GLTI_ECOLI Glutamate/aspartate periplasmic-binding protein OS=Escherichia coli (strain K12) GN=gltI PE=1 SV=2
+P37903	USPF_ECOLI Universal stress protein F OS=Escherichia coli (strain K12) GN=uspF PE=1 SV=2
+P37906	PUUB_ECOLI Gamma-glutamylputrescine oxidoreductase OS=Escherichia coli (strain K12) GN=puuB PE=4 SV=2
+P37908	YFJD_ECOLI UPF0053 inner membrane protein yfjD OS=Escherichia coli (strain K12) GN=yfjD PE=1 SV=5
+P38489	NFNB_ECOLI Oxygen-insensitive NAD(P)H nitroreductase OS=Escherichia coli (strain K12) GN=nfnB PE=1 SV=1
+P38506	XNI_ECOLI Uncharacterized exonuclease xni OS=Escherichia coli (strain K12) GN=xni PE=1 SV=3
+P38521	YGGL_ECOLI Uncharacterized protein yggL OS=Escherichia coli (strain K12) GN=yggL PE=4 SV=2
+P39099	DEGQ_ECOLI Protease degQ OS=Escherichia coli (strain K12) GN=degQ PE=1 SV=1
+P39163	CHAC_ECOLI Cation transport protein chaC OS=Escherichia coli (strain K12) GN=chaC PE=3 SV=3
+P39173	YEAD_ECOLI Putative glucose-6-phosphate 1-epimerase OS=Escherichia coli (strain K12) GN=yeaD PE=1 SV=2
+P39176	ERFK_ECOLI Protein erfK/srfK OS=Escherichia coli (strain K12) GN=erfK PE=1 SV=2
+P39177	USPG_ECOLI Universal stress protein G OS=Escherichia coli (strain K12) GN=uspG PE=1 SV=2
+P39208	IDNK_ECOLI Thermosensitive gluconokinase OS=Escherichia coli (strain K12) GN=idnK PE=3 SV=1
+P39270	YJDF_ECOLI Inner membrane protein yjdF OS=Escherichia coli (strain K12) GN=yjdF PE=1 SV=1
+P39285	YJEP_ECOLI Uncharacterized mscS family protein yjeP OS=Escherichia coli (strain K12) GN=yjeP PE=3 SV=3
+P39286	RSGA_ECOLI Putative ribosome biogenesis GTPase rsgA OS=Escherichia coli (strain K12) GN=rsgA PE=1 SV=2
+P39300	ULAG_ECOLI Probable L-ascorbate-6-phosphate lactonase ulaG OS=Escherichia coli (strain K12) GN=ulaG PE=2 SV=2
+P39309	YTFA_ECOLI Putative uncharacterized protein ytfA OS=Escherichia coli (strain K12) GN=ytfA PE=5 SV=1
+P39310	YTFB_ECOLI Uncharacterized protein ytfB OS=Escherichia coli (strain K12) GN=ytfB PE=4 SV=2
+P39321	YTFN_ECOLI Uncharacterized protein ytfN OS=Escherichia coli (strain K12) GN=ytfN PE=1 SV=2
+P39325	YTFQ_ECOLI ABC transporter periplasmic-binding protein ytfQ OS=Escherichia coli (strain K12) GN=ytfQ PE=1 SV=1
+P39334	YJGJ_ECOLI Uncharacterized HTH-type transcriptional regulator yjgJ OS=Escherichia coli (strain K12) GN=yjgJ PE=4 SV=2
+P39337	YJGM_ECOLI Uncharacterized N-acetyltransferase yjgM OS=Escherichia coli (strain K12) GN=yjgM PE=3 SV=2
+P39342	YJGR_ECOLI Uncharacterized protein yjgR OS=Escherichia coli (strain K12) GN=yjgR PE=1 SV=1
+P39343	IDNR_ECOLI HTH-type transcriptional regulator idnR OS=Escherichia coli (strain K12) GN=idnR PE=1 SV=1
+P39363	SGCA_ECOLI Putative phosphotransferase IIA component sgcA OS=Escherichia coli (strain K12) GN=sgcA PE=3 SV=1
+P39375	IRAD_ECOLI Anti-adapter protein iraD OS=Escherichia coli (strain K12) GN=iraD PE=1 SV=2
+P39384	YJIM_ECOLI Uncharacterized protein yjiM OS=Escherichia coli (strain K12) GN=yjiM PE=4 SV=2
+P39389	YJIR_ECOLI Uncharacterized HTH-type transcriptional regulator yjiR OS=Escherichia coli (strain K12) GN=yjiR PE=1 SV=1
+P39396	YJIY_ECOLI Inner membrane protein yjiY OS=Escherichia coli (strain K12) GN=yjiY PE=1 SV=2
+P39406	RSMC_ECOLI Ribosomal RNA small subunit methyltransferase C OS=Escherichia coli (strain K12) GN=rsmC PE=1 SV=3
+P39411	YJJX_ECOLI UPF0244 protein yjjX OS=Escherichia coli (strain K12) GN=yjjX PE=1 SV=2
+P39451	ADHP_ECOLI Alcohol dehydrogenase, propanol-preferring OS=Escherichia coli (strain K12) GN=adhP PE=1 SV=1
+P39452	RIR3_ECOLI Ribonucleoside-diphosphate reductase 2 subunit alpha OS=Escherichia coli (strain K12) GN=nrdE PE=3 SV=3
+P39830	YBAL_ECOLI Inner membrane protein ybaL OS=Escherichia coli (strain K12) GN=ybaL PE=1 SV=2
+P39831	YDFG_ECOLI NADP-dependent L-serine/L-allo-threonine dehydrogenase ydfG OS=Escherichia coli (strain K12) GN=ydfG PE=1 SV=2
+P39835	GNTT_ECOLI High-affinity gluconate transporter OS=Escherichia coli (strain K12) GN=gntT PE=1 SV=3
+P39836	YFEH_ECOLI Uncharacterized protein yfeH OS=Escherichia coli (strain K12) GN=yfeH PE=4 SV=2
+P40120	OPGD_ECOLI Glucans biosynthesis protein D OS=Escherichia coli (strain K12) GN=mdoD PE=1 SV=3
+P40191	PDXK_ECOLI Pyridoxine kinase OS=Escherichia coli (strain K12) GN=pdxK PE=1 SV=2
+P40710	NLPE_ECOLI Lipoprotein nlpE OS=Escherichia coli (strain K12) GN=nlpE PE=1 SV=1
+P40719	QSEC_ECOLI Sensor protein qseC OS=Escherichia coli (strain K12) GN=qseC PE=1 SV=2
+P41052	MLTB_ECOLI Membrane-bound lytic murein transglycosylase B OS=Escherichia coli (strain K12) GN=mltB PE=1 SV=1
+P41068	TRAP_ECOLI Protein traP OS=Escherichia coli (strain K12) GN=traP PE=4 SV=1
+P42596	RLMG_ECOLI Ribosomal RNA large subunit methyltransferase G OS=Escherichia coli (strain K12) GN=rlmG PE=1 SV=2
+P42597	YGJP_ECOLI Uncharacterized protein ygjP OS=Escherichia coli (strain K12) GN=ygjP PE=4 SV=2
+P42601	ALX_ECOLI Inner membrane protein alx OS=Escherichia coli (strain K12) GN=alx PE=1 SV=2
+P42626	YHAM_ECOLI UPF0597 protein yhaM OS=Escherichia coli (strain K12) GN=yhaM PE=3 SV=3
+P42632	TDCE_ECOLI Keto-acid formate acetyltransferase OS=Escherichia coli (strain K12) GN=tdcE PE=1 SV=2
+P42641	OBG_ECOLI GTPase obgE/cgtA OS=Escherichia coli (strain K12) GN=obgE PE=1 SV=1
+P42904	PTPB2_ECOLI N-acetylgalactosamine-specific phosphotransferase enzyme IIB component 2 OS=Escherichia coli (strain K12) GN=agaV PE=4 SV=1
+P43329	HRPA_ECOLI ATP-dependent RNA helicase hrpA OS=Escherichia coli (strain K12) GN=hrpA PE=3 SV=3
+P43341	LPXH_ECOLI UDP-2,3-diacylglucosamine hydrolase OS=Escherichia coli (strain K12) GN=lpxH PE=1 SV=2
+P43671	PQIB_ECOLI Paraquat-inducible protein B OS=Escherichia coli (strain K12) GN=pqiB PE=2 SV=2
+P43672	UUP_ECOLI ABC transporter ATP-binding protein uup OS=Escherichia coli (strain K12) GN=uup PE=1 SV=2
+P45464	YRAM_ECOLI Uncharacterized protein yraM OS=Escherichia coli (strain K12) GN=yraM PE=1 SV=1
+P45469	YRAR_ECOLI Uncharacterized protein yraR OS=Escherichia coli (strain K12) GN=yraR PE=4 SV=2
+P45523	FKBA_ECOLI FKBP-type peptidyl-prolyl cis-trans isomerase fkpA OS=Escherichia coli (strain K12) GN=fkpA PE=1 SV=1
+P45524	YHET_ECOLI Putative esterase yheT OS=Escherichia coli (strain K12) GN=yheT PE=3 SV=1
+P45537	YHFK_ECOLI Uncharacterized protein yhfK OS=Escherichia coli (strain K12) GN=yhfK PE=3 SV=2
+P45552	YHFZ_ECOLI Uncharacterized protein yhfZ OS=Escherichia coli (strain K12) GN=yhfZ PE=4 SV=3
+P45565	AIS_ECOLI Lipopolysaccharide core heptose(II)-phosphate phosphatase OS=Escherichia coli (strain K12) GN=ais PE=2 SV=2
+P45577	PROQ_ECOLI ProP effector OS=Escherichia coli (strain K12) GN=proQ PE=1 SV=2
+P45578	LUXS_ECOLI S-ribosylhomocysteine lyase OS=Escherichia coli (strain K12) GN=luxS PE=1 SV=3
+P45748	RIMN_ECOLI Putative ribosome maturation factor rimN OS=Escherichia coli (strain K12) GN=rimN PE=1 SV=2
+P45799	NUDE_ECOLI ADP compounds hydrolase nudE OS=Escherichia coli (strain K12) GN=nudE PE=1 SV=1
+P45800	IGAA_ECOLI Putative membrane protein igaA homolog OS=Escherichia coli (strain K12) GN=yrfF PE=1 SV=1
+P45955	YBGF_ECOLI Uncharacterized protein ybgF OS=Escherichia coli (strain K12) GN=ybgF PE=4 SV=2
+P46022	MTGA_ECOLI Monofunctional biosynthetic peptidoglycan transglycosylase OS=Escherichia coli (strain K12) GN=mtgA PE=3 SV=1
+P46118	HEXR_ECOLI HTH-type transcriptional regulator hexR OS=Escherichia coli (strain K12) GN=hexR PE=3 SV=2
+P46130	YBHC_ECOLI Putative acyl-CoA thioester hydrolase ybhC OS=Escherichia coli (strain K12) GN=ybhC PE=1 SV=2
+P46474	YHDP_ECOLI Uncharacterized protein yhdP OS=Escherichia coli (strain K12) GN=yhdP PE=4 SV=4
+P46482	AAEA_ECOLI p-hydroxybenzoic acid efflux pump subunit aaeA OS=Escherichia coli (strain K12) GN=aaeA PE=2 SV=1
+P46837	YHGF_ECOLI Protein yhgF OS=Escherichia coli (strain K12) GN=yhgF PE=1 SV=3
+P46859	GNTK_ECOLI Thermoresistant gluconokinase OS=Escherichia coli (strain K12) GN=gntK PE=1 SV=4
+P46888	USPC_ECOLI Universal stress protein C OS=Escherichia coli (strain K12) GN=uspC PE=2 SV=1
+P46889	FTSK_ECOLI DNA translocase ftsK OS=Escherichia coli (strain K12) GN=ftsK PE=1 SV=2
+P46890	YBAE_ECOLI Uncharacterized protein ybaE OS=Escherichia coli (strain K12) GN=ybaE PE=4 SV=2
+P47737	X19F_ECOLI X polypeptide OS=Escherichia coli (strain K12) GN=yubQ PE=3 SV=1
+P50456	MLC_ECOLI Protein mlc OS=Escherichia coli (strain K12) GN=mlc PE=1 SV=2
+P50465	END8_ECOLI Endonuclease VIII OS=Escherichia coli (strain K12) GN=nei PE=1 SV=3
+P51020	HOA_ECOLI 4-hydroxy-2-oxovalerate aldolase OS=Escherichia coli (strain K12) GN=mhpE PE=1 SV=2
+P51024	YAIL_ECOLI Uncharacterized protein yaiL OS=Escherichia coli (strain K12) GN=yaiL PE=4 SV=2
+P52007	YECM_ECOLI Protein yecM OS=Escherichia coli (strain K12) GN=yecM PE=1 SV=3
+P52076	QSEB_ECOLI Transcriptional regulatory protein qseB OS=Escherichia coli (strain K12) GN=qseB PE=2 SV=1
+P52094	HISQ_ECOLI Histidine transport system permease protein hisQ OS=Escherichia coli (strain K12) GN=hisQ PE=1 SV=2
+P52108	RSTA_ECOLI Transcriptional regulatory protein rstA OS=Escherichia coli (strain K12) GN=rstA PE=2 SV=2
+P52598	YGBI_ECOLI Uncharacterized HTH-type transcriptional regulator ygbI OS=Escherichia coli (strain K12) GN=ygbI PE=4 SV=2
+P52645	YDBH_ECOLI Uncharacterized protein ydbH OS=Escherichia coli (strain K12) GN=ydbH PE=4 SV=2
+P52647	NIFJ_ECOLI Probable pyruvate-flavodoxin oxidoreductase OS=Escherichia coli (strain K12) GN=ydbK PE=3 SV=2
+P54901	CSIE_ECOLI Stationary phase-inducible protein csiE OS=Escherichia coli (strain K12) GN=csiE PE=4 SV=3
+P55135	RUMA_ECOLI 23S rRNA (uracil-5-)-methyltransferase rumA OS=Escherichia coli (strain K12) GN=rumA PE=1 SV=3
+P55734	YGAP_ECOLI Inner membrane protein ygaP OS=Escherichia coli (strain K12) GN=ygaP PE=1 SV=1
+P56258	WECF_ECOLI 4-alpha-L-fucosyltransferase OS=Escherichia coli (strain K12) GN=wecF PE=1 SV=2
+P56262	DLHH_ECOLI Putative carboxymethylenebutenolidase OS=Escherichia coli (strain K12) GN=ysgA PE=3 SV=3
+P60240	RAPA_ECOLI RNA polymerase-associated protein rapA OS=Escherichia coli (strain K12) GN=rapA PE=1 SV=2
+P60293	MUKF_ECOLI Chromosome partition protein mukF OS=Escherichia coli (strain K12) GN=mukF PE=1 SV=1
+P60390	MRAW_ECOLI S-adenosyl-L-methionine-dependent methyltransferase mraW OS=Escherichia coli (strain K12) GN=mraW PE=1 SV=1
+P60422	RL2_ECOLI 50S ribosomal protein L2 OS=Escherichia coli (strain K12) GN=rplB PE=1 SV=2
+P60438	RL3_ECOLI 50S ribosomal protein L3 OS=Escherichia coli (strain K12) GN=rplC PE=1 SV=1
+P60546	KGUA_ECOLI Guanylate kinase OS=Escherichia coli (strain K12) GN=gmk PE=1 SV=1
+P60584	CAIA_ECOLI Crotonobetainyl-CoA dehydrogenase OS=Escherichia coli (strain K12) GN=caiA PE=1 SV=1
+P60595	HIS5_ECOLI Imidazole glycerol phosphate synthase subunit hisH OS=Escherichia coli (strain K12) GN=hisH PE=1 SV=1
+P60624	RL24_ECOLI 50S ribosomal protein L24 OS=Escherichia coli (strain K12) GN=rplX PE=1 SV=2
+P60651	SPEB_ECOLI Agmatinase OS=Escherichia coli (strain K12) GN=speB PE=1 SV=1
+P60664	HIS6_ECOLI Imidazole glycerol phosphate synthase subunit hisF OS=Escherichia coli (strain K12) GN=hisF PE=1 SV=1
+P60716	LIPA_ECOLI Lipoyl synthase OS=Escherichia coli (strain K12) GN=lipA PE=1 SV=1
+P60720	LIPB_ECOLI Octanoyltransferase OS=Escherichia coli (strain K12) GN=lipB PE=1 SV=1
+P60723	RL4_ECOLI 50S ribosomal protein L4 OS=Escherichia coli (strain K12) GN=rplD PE=1 SV=1
+P60752	MSBA_ECOLI Lipid A export ATP-binding/permease protein msbA OS=Escherichia coli (strain K12) GN=msbA PE=1 SV=1
+P60757	HIS1_ECOLI ATP phosphoribosyltransferase OS=Escherichia coli (strain K12) GN=hisG PE=1 SV=1
+P60785	LEPA_ECOLI GTP-binding protein lepA OS=Escherichia coli (strain K12) GN=lepA PE=1 SV=1
+P60906	SYH_ECOLI Histidyl-tRNA synthetase OS=Escherichia coli (strain K12) GN=hisS PE=1 SV=2
+P60932	UPPP_ECOLI Undecaprenyl-diphosphatase OS=Escherichia coli (strain K12) GN=uppP PE=1 SV=1
+P60955	LGT_ECOLI Prolipoprotein diacylglyceryl transferase OS=Escherichia coli (strain K12) GN=lgt PE=1 SV=1
+P61175	RL22_ECOLI 50S ribosomal protein L22 OS=Escherichia coli (strain K12) GN=rplV PE=1 SV=1
+P61320	LOLB_ECOLI Outer-membrane lipoprotein lolB OS=Escherichia coli (strain K12) GN=lolB PE=1 SV=1
+P61517	CAN_ECOLI Carbonic anhydrase 2 OS=Escherichia coli (strain K12) GN=can PE=1 SV=1
+P61714	RISB_ECOLI 6,7-dimethyl-8-ribityllumazine synthase OS=Escherichia coli (strain K12) GN=ribH PE=1 SV=1
+P61887	RMLA2_ECOLI Glucose-1-phosphate thymidylyltransferase 2 OS=Escherichia coli (strain K12) GN=rmlA2 PE=1 SV=1
+P61889	MDH_ECOLI Malate dehydrogenase OS=Escherichia coli (strain K12) GN=mdh PE=1 SV=1
+P61949	FLAV_ECOLI Flavodoxin-1 OS=Escherichia coli (strain K12) GN=fldA PE=1 SV=2
+P62399	RL5_ECOLI 50S ribosomal protein L5 OS=Escherichia coli (strain K12) GN=rplE PE=1 SV=2
+P62517	OPGH_ECOLI Glucans biosynthesis glucosyltransferase H OS=Escherichia coli (strain K12) GN=mdoH PE=1 SV=1
+P62620	ISPG_ECOLI 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase OS=Escherichia coli (strain K12) GN=ispG PE=1 SV=1
+P62623	ISPH_ECOLI 4-hydroxy-3-methylbut-2-enyl diphosphate reductase OS=Escherichia coli (strain K12) GN=ispH PE=1 SV=1
+P62672	APAG_ECOLI Protein apaG OS=Escherichia coli (strain K12) GN=apaG PE=3 SV=1
+P62707	GPMA_ECOLI 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase OS=Escherichia coli (strain K12) GN=gpmA PE=1 SV=2
+P62768	YAEH_ECOLI UPF0325 protein yaeH OS=Escherichia coli (strain K12) GN=yaeH PE=3 SV=1
+P63020	NFUA_ECOLI Fe/S biogenesis protein nfuA OS=Escherichia coli (strain K12) GN=nfuA PE=1 SV=1
+P63177	RLMB_ECOLI 23S rRNA (guanosine-2'-O-)-methyltransferase rlmB OS=Escherichia coli (strain K12) GN=rlmB PE=1 SV=1
+P63224	GMHA_ECOLI Phosphoheptose isomerase OS=Escherichia coli (strain K12) GN=gmhA PE=1 SV=1
+P63284	CLPB_ECOLI Chaperone protein clpB OS=Escherichia coli (strain K12) GN=clpB PE=1 SV=1
+P63284	CLPB_ECOLI Isoform ClpB-3 of Chaperone protein clpB OS=Escherichia coli (strain K12) GN=clpB
+P63386	YRBF_ECOLI Uncharacterized ABC transporter ATP-binding protein yrbF OS=Escherichia coli (strain K12) GN=yrbF PE=1 SV=1
+P63389	YHES_ECOLI Uncharacterized ABC transporter ATP-binding protein yheS OS=Escherichia coli (strain K12) GN=yheS PE=1 SV=1
+P63883	AMIC_ECOLI N-acetylmuramoyl-L-alanine amidase amiC OS=Escherichia coli (strain K12) GN=amiC PE=3 SV=1
+P64423	ZNTB_ECOLI Zinc transport protein zntB OS=Escherichia coli (strain K12) GN=zntB PE=1 SV=1
+P64429	YPFJ_ECOLI Uncharacterized protein ypfJ OS=Escherichia coli (strain K12) GN=ypfJ PE=4 SV=1
+P64483	YEAK_ECOLI Uncharacterized protein yeaK OS=Escherichia coli (strain K12) GN=yeaK PE=4 SV=1
+P64499	YEBO_ECOLI Uncharacterized protein yebO OS=Escherichia coli (strain K12) GN=yebO PE=4 SV=1
+P64554	YGCF_ECOLI Uncharacterized protein ygcF OS=Escherichia coli (strain K12) GN=ygcF PE=1 SV=1
+P64574	YGHW_ECOLI Uncharacterized protein yghW OS=Escherichia coli (strain K12) GN=yghW PE=4 SV=1
+P64581	YQJD_ECOLI Uncharacterized protein yqjD OS=Escherichia coli (strain K12) GN=yqjD PE=4 SV=1
+P64596	YRAP_ECOLI Uncharacterized protein yraP OS=Escherichia coli (strain K12) GN=yraP PE=4 SV=1
+P64602	YRBB_ECOLI Uncharacterized protein yrbB OS=Escherichia coli (strain K12) GN=yrbB PE=4 SV=1
+P64604	YRBD_ECOLI Uncharacterized protein yrbD OS=Escherichia coli (strain K12) GN=yrbD PE=4 SV=1
+P64606	YRBE_ECOLI UPF0393 inner membrane protein yrbE OS=Escherichia coli (strain K12) GN=yrbE PE=1 SV=1
+P64612	YHCM_ECOLI Uncharacterized protein yhcM OS=Escherichia coli (strain K12) GN=yhcM PE=1 SV=1
+P64624	YHEO_ECOLI Uncharacterized protein yheO OS=Escherichia coli (strain K12) GN=yheO PE=4 SV=1
+P64636	YRFG_ECOLI Uncharacterized protein yrfG OS=Escherichia coli (strain K12) GN=yrfG PE=4 SV=1
+P65556	YFCD_ECOLI Uncharacterized Nudix hydrolase yfcD OS=Escherichia coli (strain K12) GN=yfcD PE=1 SV=1
+P66817	DIAA_ECOLI DnaA initiator-associating protein diaA OS=Escherichia coli (strain K12) GN=diaA PE=1 SV=1
+P66948	YFGC_ECOLI TPR repeat-containing protein yfgC OS=Escherichia coli (strain K12) GN=yfgC PE=4 SV=1
+P67080	YGGS_ECOLI UPF0001 protein yggS OS=Escherichia coli (strain K12) GN=yggS PE=1 SV=1
+P67087	YRAL_ECOLI UPF0011 protein yraL OS=Escherichia coli (strain K12) GN=yraL PE=1 SV=1
+P67244	YQHA_ECOLI UPF0114 protein yqhA OS=Escherichia coli (strain K12) GN=yqhA PE=3 SV=1
+P67553	YNFC_ECOLI UPF0257 lipoprotein ynfC OS=Escherichia coli (strain K12) GN=ynfC PE=3 SV=1
+P67660	YHAJ_ECOLI Uncharacterized HTH-type transcriptional regulator yhaJ OS=Escherichia coli (strain K12) GN=yhaJ PE=4 SV=1
+P67660	YHAJ_ECOLI Uncharacterized HTH-type transcriptional regulator yhaJ OS=Escherichia coli (strain K12) GN=yhaJ PE=4 SV=1
+P67662	AAER_ECOLI HTH-type transcriptional activator aaeR OS=Escherichia coli (strain K12) GN=aaeR PE=4 SV=1
+P67762	YHBP_ECOLI UPF0306 protein yhbP OS=Escherichia coli (strain K12) GN=yhbP PE=3 SV=1
+P67910	HLDD_ECOLI ADP-L-glycero-D-manno-heptose-6-epimerase OS=Escherichia coli (strain K12) GN=hldD PE=1 SV=1
+P68066	GRCA_ECOLI Autonomous glycyl radical cofactor OS=Escherichia coli (strain K12) GN=grcA PE=1 SV=1
+P68567	YHIQ_ECOLI UPF0341 protein yhiQ OS=Escherichia coli (strain K12) GN=yhiQ PE=1 SV=1
+P68679	RS21_ECOLI 30S ribosomal protein S21 OS=Escherichia coli (strain K12) GN=rpsU PE=1 SV=2
+P68688	GLRX1_ECOLI Glutaredoxin-1 OS=Escherichia coli (strain K12) GN=grxA PE=1 SV=1
+P68699	ATPL_ECOLI ATP synthase subunit c OS=Escherichia coli (strain K12) GN=atpE PE=1 SV=1
+P68739	NFI_ECOLI Endonuclease V OS=Escherichia coli (strain K12) GN=nfi PE=1 SV=1
+P68767	AMPA_ECOLI Cytosol aminopeptidase OS=Escherichia coli (strain K12) GN=pepA PE=1 SV=1
+P68919	RL25_ECOLI 50S ribosomal protein L25 OS=Escherichia coli (strain K12) GN=rplY PE=1 SV=1
+P69222	IF1_ECOLI Translation initiation factor IF-1 OS=Escherichia coli (strain K12) GN=infA PE=1 SV=2
+P69228	BAER_ECOLI Transcriptional regulatory protein baeR OS=Escherichia coli (strain K12) GN=baeR PE=3 SV=1
+P69380	FIEF_ECOLI Ferrous-iron efflux pump fieF OS=Escherichia coli (strain K12) GN=fieF PE=1 SV=1
+P69411	RCSF_ECOLI Protein rcsF OS=Escherichia coli (strain K12) GN=rcsF PE=4 SV=1
+P69423	TATC_ECOLI Sec-independent protein translocase protein tatC OS=Escherichia coli (strain K12) GN=tatC PE=1 SV=2
+P69425	TATB_ECOLI Sec-independent protein translocase protein tatB OS=Escherichia coli (strain K12) GN=tatB PE=1 SV=1
+P69428	TATA_ECOLI Sec-independent protein translocase protein tatA OS=Escherichia coli (strain K12) GN=tatA PE=1 SV=1
+P69441	KAD_ECOLI Adenylate kinase OS=Escherichia coli (strain K12) GN=adk PE=1 SV=1
+P69451	LCFA_ECOLI Long-chain-fatty-acid--CoA ligase OS=Escherichia coli (strain K12) GN=fadD PE=1 SV=1
+P69503	APT_ECOLI Adenine phosphoribosyltransferase OS=Escherichia coli (strain K12) GN=apt PE=1 SV=1
+P69741	MBHT_ECOLI Hydrogenase-2 small chain OS=Escherichia coli (strain K12) GN=hybO PE=1 SV=1
+P69776	LPP_ECOLI Major outer membrane lipoprotein OS=Escherichia coli (strain K12) GN=lpp PE=1 SV=1
+P69783	PTGA_ECOLI Glucose-specific phosphotransferase enzyme IIA component OS=Escherichia coli (strain K12) GN=crr PE=1 SV=2
+P69786	PTGCB_ECOLI PTS system glucose-specific EIICB component OS=Escherichia coli (strain K12) GN=ptsG PE=1 SV=1
+P69797	PTNAB_ECOLI PTS system mannose-specific EIIAB component OS=Escherichia coli (strain K12) GN=manX PE=1 SV=2
+P69801	PTNC_ECOLI Mannose permease IIC component OS=Escherichia coli (strain K12) GN=manY PE=1 SV=1
+P69805	PTND_ECOLI Mannose permease IID component OS=Escherichia coli (strain K12) GN=manZ PE=1 SV=1
+P69811	PTFAH_ECOLI Multiphosphoryl transfer protein OS=Escherichia coli (strain K12) GN=fruB PE=1 SV=1
+P69828	PTKA_ECOLI Galactitol-specific phosphotransferase enzyme IIA component OS=Escherichia coli (strain K12) GN=gatA PE=4 SV=1
+P69829	PTSN_ECOLI Nitrogen regulatory protein OS=Escherichia coli (strain K12) GN=ptsN PE=1 SV=1
+P69831	PTKC_ECOLI Galactitol permease IIC component OS=Escherichia coli (strain K12) GN=gatC PE=1 SV=1
+P69853	DMSD_ECOLI Twin-arginine leader-binding protein dmsD OS=Escherichia coli (strain K12) GN=dmsD PE=1 SV=2
+P69874	POTA_ECOLI Spermidine/putrescine import ATP-binding protein potA OS=Escherichia coli (strain K12) GN=potA PE=1 SV=1
+P69913	CSRA_ECOLI Carbon storage regulator OS=Escherichia coli (strain K12) GN=csrA PE=1 SV=1
+P69924	RIR2_ECOLI Ribonucleoside-diphosphate reductase 1 subunit beta OS=Escherichia coli (strain K12) GN=nrdB PE=1 SV=2
+P71242	WCAK_ECOLI Colanic acid biosynthesis protein wcaK OS=Escherichia coli (strain K12) GN=wcaK PE=3 SV=2
+P71298	INTF_ECOLI Putative prophage CP4-6 integrase OS=Escherichia coli (strain K12) GN=intF PE=3 SV=1
+P75726	CILA_ECOLI Citrate lyase alpha chain OS=Escherichia coli (strain K12) GN=citF PE=3 SV=1
+P75728	UBIF_ECOLI 2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase OS=Escherichia coli (strain K12) GN=ubiF PE=1 SV=1
+P75745	YBGK_ECOLI Uncharacterized protein ybgK OS=Escherichia coli (strain K12) GN=ybgK PE=4 SV=1
+P75746	YBGL_ECOLI UPF0271 protein ybgL OS=Escherichia coli (strain K12) GN=ybgL PE=1 SV=1
+P75777	YBHG_ECOLI UPF0194 membrane protein ybhG OS=Escherichia coli (strain K12) GN=ybhG PE=3 SV=1
+P75782	RLMF_ECOLI Ribosomal RNA large subunit methyltransferase F OS=Escherichia coli (strain K12) GN=rlmF PE=1 SV=2
+P75796	GSIA_ECOLI Glutathione import ATP-binding protein gsiA OS=Escherichia coli (strain K12) GN=gsiA PE=1 SV=3
+P75801	YLIF_ECOLI Uncharacterized membrane protein yliF OS=Escherichia coli (strain K12) GN=yliF PE=4 SV=1
+P75809	YBJI_ECOLI Phosphatase ybjI OS=Escherichia coli (strain K12) GN=ybjI PE=1 SV=3
+P75817	RUMB_ECOLI 23S rRNA (uracil-5-)-methyltransferase rumB OS=Escherichia coli (strain K12) GN=rumB PE=3 SV=1
+P75818	YBJP_ECOLI Uncharacterized lipoprotein ybjP OS=Escherichia coli (strain K12) GN=ybjP PE=1 SV=1
+P75821	YBJS_ECOLI Uncharacterized protein ybjS OS=Escherichia coli (strain K12) GN=ybjS PE=4 SV=2
+P75822	YBJT_ECOLI Uncharacterized protein ybjT OS=Escherichia coli (strain K12) GN=ybjT PE=4 SV=2
+P75823	LTAE_ECOLI Low specificity L-threonine aldolase OS=Escherichia coli (strain K12) GN=ltaE PE=1 SV=1
+P75829	YBJX_ECOLI Uncharacterized protein ybjX OS=Escherichia coli (strain K12) GN=ybjX PE=4 SV=1
+P75830	MACA_ECOLI Macrolide-specific efflux protein macA OS=Escherichia coli (strain K12) GN=macA PE=1 SV=2
+P75838	YCAO_ECOLI UPF0142 protein ycaO OS=Escherichia coli (strain K12) GN=ycaO PE=3 SV=2
+P75849	YCBL_ECOLI Uncharacterized protein ycbL OS=Escherichia coli (strain K12) GN=ycbL PE=3 SV=1
+P75863	YCBX_ECOLI Uncharacterized protein ycbX OS=Escherichia coli (strain K12) GN=ycbX PE=1 SV=1
+P75864	RLML_ECOLI Ribosomal RNA large subunit methyltransferase L OS=Escherichia coli (strain K12) GN=rlmL PE=1 SV=1
+P75867	LONH_ECOLI Putative protease La homolog OS=Escherichia coli (strain K12) GN=ycbZ PE=3 SV=1
+P75870	YCCS_ECOLI Inner membrane protein yccS OS=Escherichia coli (strain K12) GN=yccS PE=1 SV=2
+P75874	YCCU_ECOLI Uncharacterized protein yccU OS=Escherichia coli (strain K12) GN=yccU PE=1 SV=2
+P75876	RLMI_ECOLI Ribosomal RNA large subunit methyltransferase I OS=Escherichia coli (strain K12) GN=rlmI PE=1 SV=2
+P75901	EFEU_ECOLI Putative ferrous iron permease efeU OS=Escherichia coli (strain K12) GN=efeU PE=5 SV=2
+P75913	GHRA_ECOLI Glyoxylate/hydroxypyruvate reductase A OS=Escherichia coli (strain K12) GN=ghrA PE=1 SV=2
+P75914	YCDX_ECOLI Putative hydrolase ycdX OS=Escherichia coli (strain K12) GN=ycdX PE=1 SV=1
+P75915	YCDY_ECOLI Uncharacterized protein ycdY OS=Escherichia coli (strain K12) GN=ycdY PE=3 SV=1
+P75919	YMDC_ECOLI Uncharacterized protein ymdC OS=Escherichia coli (strain K12) GN=ymdC PE=3 SV=2
+P75949	NAGZ_ECOLI Beta-hexosaminidase OS=Escherichia coli (strain K12) GN=nagZ PE=1 SV=1
+P75957	LOLD_ECOLI Lipoprotein-releasing system ATP-binding protein lolD OS=Escherichia coli (strain K12) GN=lolD PE=1 SV=2
+P75958	LOLE_ECOLI Lipoprotein-releasing system transmembrane protein lolE OS=Escherichia coli (strain K12) GN=lolE PE=1 SV=3
+P76002	YCGK_ECOLI Uncharacterized protein ycgK OS=Escherichia coli (strain K12) GN=ycgK PE=1 SV=1
+P76014	DHAL_ECOLI PTS-dependent dihydroxyacetone kinase, ADP-binding subunit dhaL OS=Escherichia coli (strain K12) GN=dhaL PE=1 SV=3
+P76016	DHAR_ECOLI PTS-dependent dihydroxyacetone kinase operon regulatory protein OS=Escherichia coli (strain K12) GN=dhaR PE=4 SV=2
+P76027	OPPD_ECOLI Oligopeptide transport ATP-binding protein oppD OS=Escherichia coli (strain K12) GN=oppD PE=3 SV=2
+P76034	YCIT_ECOLI Uncharacterized HTH-type transcriptional regulator yciT OS=Escherichia coli (strain K12) GN=yciT PE=4 SV=1
+P76046	YCJX_ECOLI Uncharacterized protein ycjX OS=Escherichia coli (strain K12) GN=ycjX PE=1 SV=1
+P76053	YDAL_ECOLI Uncharacterized protein ydaL OS=Escherichia coli (strain K12) GN=ydaL PE=4 SV=1
+P76055	TTCA_ECOLI tRNA 2-thiocytidine biosynthesis protein ttcA OS=Escherichia coli (strain K12) GN=ttcA PE=1 SV=1
+P76078	PAAB_ECOLI Phenylacetic acid degradation protein paaB OS=Escherichia coli (strain K12) GN=paaB PE=2 SV=1
+P76104	YDCP_ECOLI Uncharacterized protease ydcP OS=Escherichia coli (strain K12) GN=ydcP PE=1 SV=2
+P76115	YNCD_ECOLI Probable tonB-dependent receptor yncD OS=Escherichia coli (strain K12) GN=yncD PE=3 SV=1
+P76116	YNCE_ECOLI Uncharacterized protein yncE OS=Escherichia coli (strain K12) GN=yncE PE=1 SV=1
+P76177	YDGH_ECOLI Protein ydgH OS=Escherichia coli (strain K12) GN=ydgH PE=1 SV=1
+P76185	YDHJ_ECOLI Uncharacterized protein ydhJ OS=Escherichia coli (strain K12) GN=ydhJ PE=3 SV=2
+P76193	YNHG_ECOLI Uncharacterized protein ynhG OS=Escherichia coli (strain K12) GN=ynhG PE=3 SV=1
+P76208	YNIB_ECOLI Uncharacterized protein yniB OS=Escherichia coli (strain K12) GN=yniB PE=4 SV=1
+P76245	YEAP_ECOLI Probable diguanylate cyclase yeaP OS=Escherichia coli (strain K12) GN=yeaP PE=1 SV=2
+P76250	YEAT_ECOLI Uncharacterized HTH-type transcriptional regulator yeaT OS=Escherichia coli (strain K12) GN=yeaT PE=4 SV=2
+P76251	TTUC_ECOLI Probable tartrate dehydrogenase/decarboxylase OS=Escherichia coli (strain K12) GN=yeaU PE=1 SV=1
+P76256	YEAZ_ECOLI M22 peptidase homolog yeaZ OS=Escherichia coli (strain K12) GN=yeaZ PE=1 SV=1
+P76257	YOAA_ECOLI Probable ATP-dependent helicase yoaA OS=Escherichia coli (strain K12) GN=yoaA PE=3 SV=1
+P76268	KDGR_ECOLI Transcriptional regulator kdgR OS=Escherichia coli (strain K12) GN=kdgR PE=1 SV=1
+P76270	YEBR_ECOLI UPF0067 protein yebR OS=Escherichia coli (strain K12) GN=yebR PE=1 SV=2
+P76272	YEBT_ECOLI Uncharacterized protein yebT OS=Escherichia coli (strain K12) GN=yebT PE=1 SV=2
+P76273	RSMF_ECOLI Ribosomal RNA small subunit methyltransferase F OS=Escherichia coli (strain K12) GN=rsmF PE=1 SV=2
+P76290	CMOA_ECOLI tRNA (cmo5U34)-methyltransferase OS=Escherichia coli (strain K12) GN=cmoA PE=1 SV=1
+P76298	FLHA_ECOLI Flagellar biosynthesis protein flhA OS=Escherichia coli (strain K12) GN=flhA PE=1 SV=1
+P76339	YEDV_ECOLI Putative sensor-like histidine kinase yedV OS=Escherichia coli (strain K12) GN=yedV PE=1 SV=1
+P76340	YEDW_ECOLI Probable transcriptional regulatory protein yedW OS=Escherichia coli (strain K12) GN=yedW PE=1 SV=2
+P76346	MTFA_ECOLI Protein mtfA OS=Escherichia coli (strain K12) GN=mtfA PE=1 SV=2
+P76372	WZZB_ECOLI Chain length determinant protein OS=Escherichia coli (strain K12) GN=wzzB PE=1 SV=2
+P76373	UDG_ECOLI UDP-glucose 6-dehydrogenase OS=Escherichia coli (strain K12) GN=ugd PE=1 SV=1
+P76389	YEGH_ECOLI UPF0053 protein yegH OS=Escherichia coli (strain K12) GN=yegH PE=3 SV=2
+P76397	MDTA_ECOLI Multidrug resistance protein mdtA OS=Escherichia coli (strain K12) GN=mdtA PE=2 SV=2
+P76399	MDTC_ECOLI Multidrug resistance protein mdtC OS=Escherichia coli (strain K12) GN=mdtC PE=1 SV=1
+P76422	THID_ECOLI Phosphomethylpyrimidine kinase OS=Escherichia coli (strain K12) GN=thiD PE=1 SV=1
+P76445	YEIU_ECOLI Inner membrane protein yeiU OS=Escherichia coli (strain K12) GN=yeiU PE=1 SV=2
+P76472	ARND_ECOLI Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase arnD OS=Escherichia coli (strain K12) GN=arnD PE=1 SV=1
+P76473	ARNT_ECOLI Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase OS=Escherichia coli (strain K12) GN=arnT PE=1 SV=1
+P76491	YFBR_ECOLI 5'-nucleotidase yfbR OS=Escherichia coli (strain K12) GN=yfbR PE=1 SV=1
+P76502	SIXA_ECOLI Phosphohistidine phosphatase sixA OS=Escherichia coli (strain K12) GN=sixA PE=1 SV=1
+P76503	FADI_ECOLI 3-ketoacyl-CoA thiolase OS=Escherichia coli (strain K12) GN=fadI PE=1 SV=1
+P76506	VACJ_ECOLI Lipoprotein vacJ OS=Escherichia coli (strain K12) GN=vacJ PE=1 SV=1
+P76535	MURQ_ECOLI N-acetylmuramic acid 6-phosphate etherase OS=Escherichia coli (strain K12) GN=murQ PE=1 SV=1
+P76537	YFEY_ECOLI Uncharacterized protein yfeY OS=Escherichia coli (strain K12) GN=yfeY PE=1 SV=1
+P76558	MAO2_ECOLI NADP-dependent malic enzyme OS=Escherichia coli (strain K12) GN=maeB PE=1 SV=1
+P76576	YFGM_ECOLI UPF0070 protein yfgM OS=Escherichia coli (strain K12) GN=yfgM PE=3 SV=1
+P76578	YFHM_ECOLI Uncharacterized lipoprotein yfhM OS=Escherichia coli (strain K12) GN=yfhM PE=4 SV=1
+P76594	YFIQ_ECOLI Uncharacterized protein yfiQ OS=Escherichia coli (strain K12) GN=yfiQ PE=4 SV=1
+P76621	CSID_ECOLI Protein csiD OS=Escherichia coli (strain K12) GN=csiD PE=1 SV=2
+P76658	HLDE_ECOLI Bifunctional protein hldE OS=Escherichia coli (strain K12) GN=hldE PE=1 SV=1
+P76909	YNJD_ECOLI Uncharacterized ABC transporter ATP-binding protein ynjD OS=Escherichia coli (strain K12) GN=ynjD PE=3 SV=2
+P77171	YDCI_ECOLI Uncharacterized HTH-type transcriptional regulator ydcI OS=Escherichia coli (strain K12) GN=ydcI PE=4 SV=2
+P77173	ZIPA_ECOLI Cell division protein zipA OS=Escherichia coli (strain K12) GN=zipA PE=1 SV=3
+P77179	RNFE_ECOLI Electron transport complex protein rnfE OS=Escherichia coli (strain K12) GN=rnfE PE=1 SV=1
+P77187	YAHF_ECOLI Uncharacterized protein yahF OS=Escherichia coli (strain K12) GN=yahF PE=4 SV=1
+P77258	NEMA_ECOLI N-ethylmaleimide reductase OS=Escherichia coli (strain K12) GN=nemA PE=1 SV=1
+P77285	RNFG_ECOLI Electron transport complex protein rnfG OS=Escherichia coli (strain K12) GN=rnfG PE=3 SV=1
+P77300	YAGI_ECOLI Uncharacterized HTH-type transcriptional regulator yagI OS=Escherichia coli (strain K12) GN=yagI PE=4 SV=1
+P77301	YBAP_ECOLI Uncharacterized protein ybaP OS=Escherichia coli (strain K12) GN=ybaP PE=4 SV=1
+P77302	YDAM_ECOLI Uncharacterized protein ydaM OS=Escherichia coli (strain K12) GN=ydaM PE=4 SV=2
+P77307	YBBM_ECOLI UPF0014 inner membrane protein ybbM OS=Escherichia coli (strain K12) GN=ybbM PE=1 SV=2
+P77309	YNEJ_ECOLI Uncharacterized HTH-type transcriptional regulator yneJ OS=Escherichia coli (strain K12) GN=yneJ PE=4 SV=1
+P77330	BORD_ECOLI Lipoprotein bor homolog from lambdoid prophage DLP12 OS=Escherichia coli (strain K12) GN=borD PE=3 SV=1
+P77334	GMR_ECOLI Protein gmr OS=Escherichia coli (strain K12) GN=gmr PE=4 SV=1
+P77338	KEFA_ECOLI Potassium efflux system kefA OS=Escherichia coli (strain K12) GN=kefA PE=1 SV=1
+P77348	MPPA_ECOLI Periplasmic murein peptide-binding protein OS=Escherichia coli (strain K12) GN=mppA PE=1 SV=2
+P77395	YBBN_ECOLI Uncharacterized protein ybbN OS=Escherichia coli (strain K12) GN=ybbN PE=1 SV=2
+P77398	ARNA_ECOLI Bifunctional polymyxin resistance protein arnA OS=Escherichia coli (strain K12) GN=arnA PE=1 SV=1
+P77399	FADJ_ECOLI Fatty acid oxidation complex subunit alpha OS=Escherichia coli (strain K12) GN=fadJ PE=1 SV=1
+P77433	YKGG_ECOLI Uncharacterized protein ykgG OS=Escherichia coli (strain K12) GN=ykgG PE=3 SV=2
+P77434	YFDZ_ECOLI Uncharacterized aminotransferase yfdZ OS=Escherichia coli (strain K12) GN=yfdZ PE=2 SV=1
+P77439	PTFX1_ECOLI Multiphosphoryl transfer protein 1 OS=Escherichia coli (strain K12) GN=fryA PE=1 SV=1
+P77444	SUFS_ECOLI Cysteine desulfurase OS=Escherichia coli (strain K12) GN=sufS PE=1 SV=1
+P77475	YQAB_ECOLI Phosphatase yqaB OS=Escherichia coli (strain K12) GN=yqaB PE=1 SV=1
+P77488	DXS_ECOLI 1-deoxy-D-xylulose-5-phosphate synthase OS=Escherichia coli (strain K12) GN=dxs PE=1 SV=3
+P77499	SUFC_ECOLI Probable ATP-dependent transporter sufC OS=Escherichia coli (strain K12) GN=sufC PE=1 SV=1
+P77522	SUFB_ECOLI FeS cluster assembly protein sufB OS=Escherichia coli (strain K12) GN=sufB PE=1 SV=2
+P77529	YDJN_ECOLI Uncharacterized symporter ydjN OS=Escherichia coli (strain K12) GN=ydjN PE=3 SV=1
+P77552	YDHQ_ECOLI Uncharacterized protein ydhQ OS=Escherichia coli (strain K12) GN=ydhQ PE=4 SV=1
+P77559	YNFL_ECOLI Uncharacterized HTH-type transcriptional regulator ynfL OS=Escherichia coli (strain K12) GN=ynfL PE=4 SV=1
+P77562	YAIW_ECOLI Uncharacterized protein yaiW OS=Escherichia coli (strain K12) GN=yaiW PE=4 SV=1
+P77569	MHPR_ECOLI Mhp operon transcriptional activator OS=Escherichia coli (strain K12) GN=mhpR PE=4 SV=2
+P77581	ASTC_ECOLI Succinylornithine transaminase OS=Escherichia coli (strain K12) GN=astC PE=1 SV=1
+P77611	RNFC_ECOLI Electron transport complex protein rnfC OS=Escherichia coli (strain K12) GN=rnfC PE=3 SV=1
+P77625	YFBT_ECOLI Phosphatase yfbT OS=Escherichia coli (strain K12) GN=yfbT PE=1 SV=2
+P77649	YDIU_ECOLI UPF0061 protein ydiU OS=Escherichia coli (strain K12) GN=ydiU PE=1 SV=1
+P77667	SUFA_ECOLI Protein sufA OS=Escherichia coli (strain K12) GN=sufA PE=1 SV=1
+P77690	ARNB_ECOLI UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase OS=Escherichia coli (strain K12) GN=arnB PE=1 SV=2
+P77717	YBAY_ECOLI Uncharacterized lipoprotein ybaY OS=Escherichia coli (strain K12) GN=ybaY PE=1 SV=1
+P77718	THII_ECOLI Thiamine biosynthesis protein thiI OS=Escherichia coli (strain K12) GN=thiI PE=3 SV=1
+P77730	YDCR_ECOLI Uncharacterized HTH-type transcriptional regulator ydcR OS=Escherichia coli (strain K12) GN=ydcR PE=1 SV=1
+P77735	YAJO_ECOLI Uncharacterized oxidoreductase yajO OS=Escherichia coli (strain K12) GN=yajO PE=3 SV=2
+P77736	YAHD_ECOLI Putative ankyrin repeat protein yahD OS=Escherichia coli (strain K12) GN=yahD PE=4 SV=1
+P77737	OPPF_ECOLI Oligopeptide transport ATP-binding protein oppF OS=Escherichia coli (strain K12) GN=oppF PE=3 SV=1
+P77739	YNIA_ECOLI Uncharacterized protein yniA OS=Escherichia coli (strain K12) GN=yniA PE=3 SV=1
+P77744	ABGR_ECOLI HTH-type transcriptional regulator abgR OS=Escherichia coli (strain K12) GN=abgR PE=1 SV=1
+P77748	YDIJ_ECOLI Uncharacterized protein ydiJ OS=Escherichia coli (strain K12) GN=ydiJ PE=4 SV=1
+P77756	QUEC_ECOLI Queuosine biosynthesis protein queC OS=Escherichia coli (strain K12) GN=queC PE=1 SV=1
+P77757	ARNC_ECOLI Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase OS=Escherichia coli (strain K12) GN=arnC PE=1 SV=1
+P77766	TRPH_ECOLI Protein trpH OS=Escherichia coli (strain K12) GN=trpH PE=3 SV=1
+P77774	YFGL_ECOLI Lipoprotein yfgL OS=Escherichia coli (strain K12) GN=yfgL PE=1 SV=1
+P77775	YFCH_ECOLI Epimerase family protein yfcH OS=Escherichia coli (strain K12) GN=yfcH PE=3 SV=1
+P77783	YNFF_ECOLI Probable dimethyl sulfoxide reductase chain ynfF OS=Escherichia coli (strain K12) GN=ynfF PE=3 SV=4
+P77804	YDGA_ECOLI Protein ydgA OS=Escherichia coli (strain K12) GN=ydgA PE=1 SV=1
+P77808	CINAL_ECOLI CinA-like protein OS=Escherichia coli (strain K12) GN=yfaY PE=1 SV=1
+P78061	PUUA_ECOLI Gamma-glutamylputrescine synthetase OS=Escherichia coli (strain K12) GN=puuA PE=3 SV=2
+P80645	SSUD_ECOLI Alkanesulfonate monooxygenase OS=Escherichia coli (strain K12) GN=ssuD PE=1 SV=3
+Q2MB16	YOBH_ECOLI Uncharacterized protein yobH OS=Escherichia coli (strain K12) GN=yobH PE=4 SV=1
+Q46798	YGER_ECOLI Uncharacterized lipoprotein ygeR OS=Escherichia coli (strain K12) GN=ygeR PE=4 SV=2
+Q46800	XDHB_ECOLI Xanthine dehydrogenase FAD-binding subunit OS=Escherichia coli (strain K12) GN=xdhB PE=3 SV=1
+Q46833	YGHE_ECOLI Putative general secretion pathway protein L-type yghE OS=Escherichia coli (strain K12) GN=yghE PE=5 SV=1
+Q46837	ACFD_ECOLI Putative lipoprotein acfD homolog OS=Escherichia coli (strain K12) GN=yghJ PE=4 SV=3
+Q46840	YGHO_ECOLI Putative uncharacterized protein yghO (Fragment) OS=Escherichia coli (strain K12) GN=yghO PE=5 SV=2
+Q46855	YQHC_ECOLI Uncharacterized HTH-type transcriptional regulator yqhC OS=Escherichia coli (strain K12) GN=yqhC PE=4 SV=2
+Q46857	DKGA_ECOLI 2,5-diketo-D-gluconic acid reductase A OS=Escherichia coli (strain K12) GN=dkgA PE=1 SV=3
+Q46868	YQIC_ECOLI Uncharacterized protein yqiC OS=Escherichia coli (strain K12) GN=yqiC PE=1 SV=2
+Q46871	YQJH_ECOLI Uncharacterized protein yqjH OS=Escherichia coli (strain K12) GN=yqjH PE=4 SV=1
+Q46877	NORV_ECOLI Anaerobic nitric oxide reductase flavorubredoxin OS=Escherichia coli (strain K12) GN=norV PE=1 SV=1
+Q46889	YGBK_ECOLI Uncharacterized protein ygbK OS=Escherichia coli (strain K12) GN=ygbK PE=4 SV=1
+Q46920	QUEF_ECOLI NADPH-dependent 7-cyano-7-deazaguanine reductase OS=Escherichia coli (strain K12) GN=queF PE=1 SV=1
+Q46925	CSDA_ECOLI Cysteine sulfinate desulfinase OS=Escherichia coli (strain K12) GN=csdA PE=1 SV=1
+Q46927	YGDL_ECOLI Uncharacterized protein ygdL OS=Escherichia coli (strain K12) GN=ygdL PE=3 SV=1
+Q46939	YQEF_ECOLI Probable acetyl-CoA acetyltransferase OS=Escherichia coli (strain K12) GN=yqeF PE=3 SV=2
+Q47129	FEAR_ECOLI Transcriptional activator feaR OS=Escherichia coli (strain K12) GN=feaR PE=1 SV=1
+Q47141	HCAR_ECOLI Hca operon transcriptional activator OS=Escherichia coli (strain K12) GN=hcaR PE=1 SV=2
+Q47146	FADE_ECOLI Acyl-coenzyme A dehydrogenase OS=Escherichia coli (strain K12) GN=fadE PE=2 SV=2
+Q47147	YAFJ_ECOLI Putative glutamine amidotransferase yafJ OS=Escherichia coli (strain K12) GN=yafJ PE=4 SV=1
+Q47319	YFIP_ECOLI DTW domain-containing protein yfiP OS=Escherichia coli (strain K12) GN=yfiP PE=3 SV=2
+Q47622	SAPA_ECOLI Peptide transport periplasmic protein sapA OS=Escherichia coli (strain K12) GN=sapA PE=3 SV=1
+Q57261	TRUD_ECOLI tRNA pseudouridine synthase D OS=Escherichia coli (strain K12) GN=truD PE=1 SV=1
+Q59385	COPA_ECOLI Copper-exporting P-type ATPase A OS=Escherichia coli (strain K12) GN=copA PE=1 SV=4
+Q6BEX5	YJDP_ECOLI Uncharacterized protein yjdP OS=Escherichia coli (strain K12) GN=yjdP PE=4 SV=1
+Q6BF16	DGOA_ECOLI 2-dehydro-3-deoxy-6-phosphogalactonate aldolase OS=Escherichia coli (strain K12) GN=dgoA PE=1 SV=1
+Q9S4W2	YUBM_ECOLI Uncharacterized protein yubM OS=Escherichia coli (strain K12) GN=yubM PE=3 SV=1

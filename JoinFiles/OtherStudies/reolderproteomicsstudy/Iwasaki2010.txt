@@ -1,0 +1,2603 @@
+Accession number	Gene name	Product	GO annotation	GRAVY score	Membrane Proteins	transmembrane domains (TMHMM)	Number of identified peptides	Protein Score
+JW2804	aas	ethanolamine acyl transferase -!- acyl-	Bacteria) -!- GO:0019866 inner	-0,04	1	0	199	
+JW0868	aat		GO:0005737 cytoplasm	-0,25	0	0	59	
+JW5205	abgA			-0,10	0	0	44	
+JW0180	accA		GO:0005737 cytoplasm	-0,23	0	0	978	
+JW3223	accB	acetyl CoA carboxylase, BCCP subunit		0,01	1	0	181	
+JW3224	accC		GO:0005737 cytoplasm	-0,17	0	0	1299	
+JW2313	accD		GO:0005737 cytoplasm	0,00	0	15		
+JW3975	aceA	isocitrate lyase	GO:0005737 cytoplasm	-0,22	0	0	2191	
+JW3974	aceB	malate synthase A	GO:0005737 cytoplasm	-0,32	0	0	2709	
+JW0110	aceE			-0,44	0	0	55	3988
+JW0111	aceF			0,00	1	0	2348	
+JW3976	aceK			-0,29	0	0	555	
+JW2293	ackA	acetate kinase A and propionate kinase	GO:0005737 cytoplasm	-0,05	0	0	1430	
+JW1268	acnA	aconitate hydratase 1		-0,23	0	0	48	3371
+JW0114	acnB			-0,12	0	0	46	3579
+JW1080	acpP	acyl carrier protein (ACP)		-0,35	0	0	267	
+JW2547	acpS	holo-[acyl-carrier-protein] synthase 1	GO:0005737 cytoplasm	0,01	1	0	21	
+JW0452	acrA	multidrug efflux system		1,00	0	15		
+JW0451	acrB	multidrug efflux system protein		0,27	1	11	1280	
+JW2454	acrD	aminoglycoside/multidrug efflux system		0,16	1	11	24	
+JW3234	acrF	multidrug efflux system protein		0,32	1	12	40	
+JW0453	acrR	DNA-binding transcriptional regulator	GO:0005737 cytoplasm	-0,19	0	0	114	
+JW4030	acs			-0,29	0	0	1764	
+JW4028	actP	acetate transporter		0,79	1	13	117	
+JW2201	ada	regulator -!- O6-methylguanine-DNA	GO:0005737 cytoplasm	-0,35	0	0	42	
+JW1615	add	adenosine deaminase		-0,02	0	0	705	
+JW3640	ade	cryptic adenine deaminase	0	0,00	0	6		
+JW1228	adhE	dehydrogenase -!- iron-dependent		-0,07	0	0	46	3336
+JW1474	adhP			0,10	1	0	818	
+JW0463	adk	adenylate kinase	GO:0005737 cytoplasm	0,00	0	16		
+JW0465	aes	acetyl esterase	GO:0005737 cytoplasm	-0,19	0	0	112	
+JW3107	agaB		GO:0005737 cytoplasm	-0,13	0	0	36	
+JW3109	agaD			0,57	1	5	38	
+JW3100	agaR	DNA-binding transcriptional dual	0	0,00	0	3		
+JW3102	agaV		GO:0005737 cytoplasm	0,23	1	0	164	
+JW0987	agp		GO:0042597 periplasmic space	-0,33	0	0	1279	
+JW0598	ahpC		0	0,00	0	12		
+JW0599	ahpF			-0,12	0	0	1816	
+JW5867	aidB	isovaleryl CoA dehydrogenase		-0,14	0	0	1398	
+JW2667	alaS	alanyl-tRNA synthetase	GO:0005737 cytoplasm	-0,30	0	0	50	3647
+JW1412	aldA	aldehyde dehydrogenase A, NAD-linked		-0,06	0	0	2084	
+JW3561	aldB	aldehyde dehydrogenase B	0	0,00	0	15		
+JW2053	alkA	3-methyl-adenine DNA glycosylase II	GO:0005737 cytoplasm	-0,04	0	0	41	
+JW2200	alkB	methyladenine or N3-methylcytosine	GO:0005737 cytoplasm	-0,29	0	0	29	
+JW0504	allC	allantoate amidohydrolase		-0,23	0	0	31	
+JW0505	allD	ureidoglycolate dehydrogenase		-0,14	0	0	31	
+JW0494	allR	DNA-binding transcriptional regulator	GO:0005737 cytoplasm	0,07	1	0	436	
+JW4013	alr			-0,11	0	0	273
+JW4048	alsA	ATP-binding components of ABC	GO:0005737 cytoplasm	-0,09	0	0	35
+JW4049	alsB		GO:0042597 periplasmic space	0,01	1	1	627
+JW2428	amiA	N-acetylmuramoyl-l-alanine amidase I	GO:0009274 cell wall (sensu	-0,32	0	0	278
+JW4127	amiB	N-acetylmuramoyl-l-alanine amidase II	GO:0009274 cell wall (sensu	-0,30	0	0	226
+JW5449	amiC	N-acetylmuramoyl-L-alanine amidase	GO:0009274 cell wall (sensu	-0,21	0	0	287
+JW1963	amn	AMP nucleosidase	GO:0042597 periplasmic space	-0,30	0	0	890
+JW4111	ampC			0,00	0	4	
+JW0106	ampD			0,00	0	6	
+JW0107	ampE	predicted inner membrane protein		0,47	1	4	190
+JW0441	amtB	ammonium transporter		0,94	1	12	74
+JW1912	amyA	cytoplasmic alpha-amylase	GO:0005737 cytoplasm	-0,38	0	0	712
+JW1756	ansA	cytoplasmic L-asparaginase I	GO:0005737 cytoplasm	-0,19	0	0	424
+JW2924	ansB	periplasmic L-asparaginase II	GO:0042597 periplasmic space	-0,11	1	1	418
+JW0049	apaG			-0,05	0	0	112
+JW0048	apaH	diadenosine tetraphosphatase	GO:0005737 cytoplasm	-0,25	0	0	431
+JW4015	aphA		GO:0005737 cytoplasm	-0,28	0	0	32
+JW0963	appA	phosphoanhydride phosphorylase	GO:0042597 periplasmic space	0,00	0	14	
+JW0960	appC	cytochrome bd-II oxidase, subunit I	GO:0019866 inner membrane	0,36	1	9	320
+JW0458	apt	adenine phosphoribosyltransferase	GO:0005737 cytoplasm	0,02	1	0	577
+JW0063	araC	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,32	0	0	65
+JW2809	araE	arabinose transporter		0,63	1	12	27
+JW1889	araF	periplasmic-binding component of ABC	GO:0042597 periplasmic space	0,00	0	17	
+JW1887	araH	!- membrane components of ABC	Bacteria) -!- GO:0019866 inner	1,04	1	10	63
+JW4364	arcA	component regulatory system with ArcB	GO:0005737 cytoplasm	-0,49	0	0	622
+JW5536	arcB			-0,25	1	2	1249
+JW5553	argB	acetylglutamate kinase	GO:0005737 cytoplasm	0,21	1	0	166
+JW3930	argC		GO:0005737 cytoplasm	0,16	1	0	38
+JW3322	argD	aminotransferase -!-	GO:0005737 cytoplasm	0,05	1	0	465
+JW3929	argE	acetylornithine deacetylase	GO:0005737 cytoplasm	-0,18	0	0	497
+JW3140	argG	argininosuccinate synthetase	GO:0005737 cytoplasm	-0,37	0	0	1513
+JW3932	argH	argininosuccinate lyase	GO:0005737 cytoplasm	-0,19	0	0	501
+JW4211	argI	ornithine carbamoyltransferase 1	GO:0005737 cytoplasm	-0,23	0	0	47
+JW2883	argP		GO:0005737 cytoplasm	-0,17	0	0	271
+JW3206	argR		GO:0005737 cytoplasm	-0,01	0	0	143
+JW1865	argS	arginyl-tRNA synthetase	GO:0005737 cytoplasm	-0,26	0	0	1969
+JW2307	argT	subunit -!- periplasmic-binding	GO:0042597 periplasmic space	0,00	0	14	
+JW0891	aroA			-0,01	0	0	702
+JW3352	aroB	3-dehydroquinate synthase	0	1,00	0	14	
+JW2326	aroC	chorismate synthase	0	0,00	0	12	
+JW1683	aroD	3-dehydroquinate dehydratase		0,07	1	0	626
+JW3242	aroE		0	1,00	0	9	
+JW2582	aroF			-0,30	0	0	126
+JW0737	aroG	phosphate synthase, phenylalanine		-0,18	0	0	985
+JW1694	aroH	phosphate synthase, tryptophan		-0,32	0	0	420
+JW5947	aroK	shikimate kinase I	0	0,00	0	11	
+JW0379	aroL	shikimate kinase II	GO:0005737 cytoplasm	-0,01	0	0	57
+JW0381	aroM	conserved protein	0	1,00	0	3	
+JW3470	arsC	arsenate reductase		-0,28	0	0	177
+JW0847	artI		GO:0042597 periplasmic space	-0,33	0	0	999
+JW0844	artJ		GO:0042597 periplasmic space	0,00	0	10	
+JW0848	artP			0,00	0	6	
+JW0846	artQ			1,00	4	2	
+JW2686	ascB	cryptic 6-phospho-beta-glucosidase		-0,36	0	0	29
+JW5434	ascG	DNA-binding transcriptional regulator	GO:0005737 cytoplasm	-0,07	0	0	63
+JW3396	asd		0	0,00	0	14	
+JW2049	asmA	predicted assembly protein	0	1,00	1	18	
+JW3722	asnA	asparagine synthetase A	GO:0005737 cytoplasm	0,00	0	13	
+JW0660	asnB	asparagine synthetase B	GO:0005737 cytoplasm	-0,36	0	0	891
+JW3721	asnC	DNA-binding transcriptional dual	GO:0005737 cytoplasm	0,06	1	0	84
+JW0913	asnS	asparaginyl tRNA synthetase	GO:0005737 cytoplasm	-0,26	0	0	1641
+JW4099	aspA	aspartate ammonia-lyase	GO:0005737 cytoplasm	-0,07	0	0	1479
+JW0911	aspC		GO:0005737 cytoplasm	-0,20	0	0	1723
+JW1855	aspS	aspartyl-tRNA synthetase	GO:0005737 cytoplasm	-0,27	0	0	2647
+JW1736	astA	arginine succinyltransferase		-0,20	0	0	92
+JW1734	astB	succinylarginine dihydrolase	0	0,00	0	7	
+JW1737	astC			-0,06	0	0	1287
+JW5282	astD		0	0,00	0	12	
+JW1733	astE	succinylglutamate desuccinylase		-0,07	0	0	230
+JW2214	atoC		GO:0005737 cytoplasm	-0,17	0	0	251
+JW3712	atpA			-0,05	1	0	2425
+JW3716	atpB			1,00	5	3	
+JW3709	atpC			-0,10	1	0	224
+JW3710	atpD			-0,12	1	0	2477
+JW3715	atpE			1,00	2	2	
+JW3714	atpF			1,00	1	9	
+JW3711	atpG			1,00	0	21	
+JW3713	atpH			0,06	1	0	628
+JW5652	avtA	valine-pyruvate aminotransferase	0	0,00	0	7	
+JW1409	azoR	NADH-azoreductase, FMN-dependent		0,07	1	0	392
+JW3029	bacA			0,93	1	7	29
+JW2064	baeR		GO:0005737 cytoplasm	-0,28	0	0	548
+JW2063	baeS			-0,21	1	2	124
+JW2757	barA			-0,11	1	2	225
+JW4074	basR		GO:0005737 cytoplasm	-0,15	0	0	58
+JW4073	basS			1,00	2	6	
+JW2465	bcp	thiol peroxidase, thioredoxin-dependent	GO:0005737 cytoplasm	-0,43	0	0	700
+JW5363	bcr	bicyclomycin/multidrug efflux system		0,95	1	12	37
+JW3500	bcsB			-0,13	1	2	28
+JW5942	bcsC	cellulose synthase subunit		-0,59	0	0	66
+JW3506	bcsG	predicted inner membrane protein	0	1,00	4	2	
+JW0303	betA	choline dehydrogenase, a flavoprotein		-0,47	1	0	38
+JW0304	betB			-0,08	0	0	581
+JW3298	bfr		GO:0005737 cytoplasm	0,00	0	12	
+JW2869	bglA	6-phospho-beta-glucosidase A		-0,45	0	0	1398
+JW3699	bglB	cryptic phospho-beta-glucosidase B		-0,30	0	0	20
+JW3700	bglF			0,62	1	10	21
+JW3701	bglG		GO:0005737 cytoplasm	-0,20	0	0	21
+JW3698	bglH			-0,59	1	0	39
+JW2120	bglX		GO:0042597 periplasmic space	-0,26	0	0	1215
+JW3375	bioH		0	1,00	0	6	
+JW5571	bipA	GTP-binding protein		-0,30	0	0	1462
+JW3941	birA		GO:0005737 cytoplasm	-0,03	0	0	267
+JW5940	bisC	biotin sulfoxide reductase		-0,30	0	0	318
+JW4110	blc	outer membrane lipoprotein (lipocalin)		-0,21	1	0	636
+JW5060	bolA			0,00	0	5	
+JW3938	btuB			-0,53	1	0	785
+JW1699	btuD		GO:0005737 cytoplasm	-0,13	0	0	168
+JW1700	btuE	predicted glutathione peroxidase	GO:0042597 periplasmic space	-0,13	0	0	707
+JW0154	btuF	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,12	0	0	89
+JW1262	btuR	adenolsyltransferase/cobinamide ATP-	GO:0005737 cytoplasm	0,00	0	2	
+JW4092	cadA	lysine decarboxylase 1	GO:0005737 cytoplasm	0,00	0	24	
+JW0122	can	carbonic anhydrase		-0,23	0	0	658	
+JW0030	carA		0	0,00	0	14		
+JW0031	carB			-0,16	0	0	55	3623
+JW0985	cbpA	homologue that functions as a co-	GO:0005737 cytoplasm	-0,59	0	0	927	
+JW0984	cbpM	modulator of CbpA co-chaperone		0,09	1	0	257	
+JW3028	cca		GO:0005737 cytoplasm	0,00	0	12		
+JW5366	ccmA		GO:0005737 cytoplasm	-0,23	0	0	61	
+JW2187	ccmC			0,59	1	6	53	
+JW2185	ccmE	periplasmic heme chaperone	GO:0019866 inner membrane	1,00	1	3		
+JW2184	ccmF	heme lyase, CcmF subunit		0,64	1	15	23	
+JW2183	ccmG			-0,19	1	1	73	
+JW2182	ccmH	heme lyase, CcmH subunit		1,00	3	4		
+JW5013	cdaR	DNA-binding transcriptional regulator		-0,23	0	0	114	
+JW2131	cdd	cytidine/deoxycytidine deaminase		0,00	1	0	653	
+JW3889	cdh	CDP-diacylglycerol	0	1,00	1	6		
+JW1720	cedA	cell division modulator		-0,52	0	0	62	
+JW1653	cfa	synthase (unsaturated-phospholipid	0	0,00	0	21	
+JW1208	chaB	predicted cation regulator	GO:0005737 cytoplasm	-1,48	0	0	234
+JW1727	chbB			0,25	1	0	162
+JW1723	chbF		GO:0005737 cytoplasm	-0,10	0	0	43
+JW1722	chbG	conserved protein		-0,05	0	0	63
+JW1872	cheB	glutamate methylesterase, in two-	GO:0005737 cytoplasm	0,05	1	0	27
+JW1871	cheY		GO:0005737 cytoplasm	0,03	1	0	114
+JW2753	chpA			-0,09	0	0	48
+JW2754	chpR			-0,30	0	0	49
+JW2142	cirA			-0,60	1	0	228
+JW0609	citD	citrate lyase, acyl carrier (gamma)	GO:0005737 cytoplasm	0,03	1	0	21
+JW0608	citE		GO:0005737 cytoplasm	-0,17	0	0	62
+JW5087	citF		GO:0005737 cytoplasm	-0,09	0	0	46
+JW5012	clcA	chloride channel, voltage-gated		0,64	1	11	62
+JW5836	cld		0	1,00	2	11	
+JW0866	clpA	ClpP ATP-dependent serine protease,	GO:0005737 cytoplasm	-0,30	0	0	1986
+JW2573	clpB	protein disaggregation chaperone	GO:0005737 cytoplasm	-0,36	0	0	54	4068
+JW0427	clpP		GO:0005737 cytoplasm	-0,15	0	0	434	
+JW0428	clpX		GO:0005737 cytoplasm	-0,24	0	0	1464	
+JW1241	cls	cardiolipin synthase 1		0,19	1	2	577	
+JW0893	cmk	cytidylate kinase	GO:0005737 cytoplasm	0,00	0	0	766	
+JW3942	coaA	pantothenate kinase		-0,25	0	0	274	
+JW3609	coaD			0,01	1	0	198	
+JW0100	coaE	dephospho-CoA kinase		-0,12	0	0	273	
+JW1106	cobB		0	0,00	0	9		
+JW1970	cobS	cobalamin 5'-phosphate synthase		0,87	1	4	61	
+JW1969	cobT	dimethylbenzimidazole-P phophoribosyl		0,34	1	0	72	
+JW1971	cobU		0	0,00	0	1		
+JW0328	codA	cytosine deaminase	GO:0005737 cytoplasm	0,00	0	3		
+JW0473	copA	copper transporter		0,21	1	8	1367	
+JW3789	corA	magnesium/nickel/cobalt transporter		-0,16	1	2	636	
+JW3000	cpdA		GO:0005737 cytoplasm	-0,20	0	0	254	
+JW4171	cpdB		GO:0005737 cytoplasm	-0,29	0	0	1446
+JW3882	cpxA			1,00	2	9	
+JW5558	cpxP	periplasmic protein combats stress		0,00	0	6	
+JW3883	cpxR		GO:0005737 cytoplasm	-0,34	0	0	474
+JW4360	creA	conserved protein		-0,03	0	0	347
+JW4361	creB		GO:0005737 cytoplasm	-0,13	0	0	26
+JW4362	creC	component regulatory system with CreB	Bacteria) -!- GO:0019866 inner	0,01	1	2	47
+JW0230	crl	DNA-binding transcriptional regulator		0,00	0	7	
+JW5702	crp	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,23	0	0	818
+JW2410	crr		GO:0005737 cytoplasm	1,00	0	11	
+JW2781	csdA	cysteine sulfinate desulfinase		0,04	1	0	74
+JW1023	csgD			-0,42	0	0	32
+JW5878	csiE	stationary phase inducible protein		-0,23	0	0	494
+JW2639	csiR	DNA-binding transcriptional dual		-0,13	0	0	324
+JW3525	cspA	major cold shock protein	GO:0005737 cytoplasm	-0,25	0	0	242
+JW1812	cspC	stress protein, member of the CspA-	0	0,00	0	4	
+JW0864	cspD	cold shock protein homolog	GO:0005737 cytoplasm	-0,20	0	0	239
+JW0618	cspE	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,21	0	0	326
+JW0974	cspG	DNA-binding transcriptional regulator		-0,36	0	0	59
+JW2666	csrA		GO:0005737 cytoplasm	0,00	0	2	
+JW0590	cstA	carbon starvation protein		0,78	1	18	449
+JW0119	cueO	multicopper oxidase (laccase)		-0,17	0	0	390
+JW0476	cueR	DNA-binding transcriptional activator		-0,58	0	0	90
+JW0564	cusA			0,28	1	12	36
+JW0560	cusR			0,08	1	0	176
+JW5082	cusS	component regulatory system with	GO:0019866 inner membrane	0,01	1	2	29
+JW4097	cutA	copper binding protein, copper		-0,03	0	0	75
+JW1863	cutC	copper homeostasis protein	GO:0005737 cytoplasm	0,02	1	0	327
+JW2310	cvpA			0,96	1	4	26
+JW5184	cvrA	predicted cation/proton antiporter		0,67	1	11	30
+JW3778	cyaA	adenylate cyclase	GO:0005737 cytoplasm	0,00	0	8	
+JW3779	cyaY	frataxin, iron-binding and oxidizing		-0,59	0	0	490
+JW4166	cycA	D-alanine/D-serine/glycine transporter		0,83	1	12	173
+JW0722	cydA			0,40	1	9	990
+JW0723	cydB			0,66	1	8	144
+JW0869	cydC	membrane component and ATP-binding	Bacteria) -!- GO:0019866 inner	1,00	6	12	
+JW0870	cydD	membrane component and ATP-binding	Bacteria) -!- GO:0019866 inner	0,16	1	5	395
+JW0332	cynX	predicted cyanate transporter		0,86	1	12	20
+JW0422	cyoA			-0,01	1	3	643
+JW0421	cyoB			0,66	1	14	409
+JW0420	cyoC			0,72	1	5	72
+JW2415	cysA	ATP-binding component of ABC	GO:0005737 cytoplasm	-0,27	0	0	28
+JW1267	cysB		GO:0005737 cytoplasm	-0,08	0	0	614
+JW2722	cysD	sulfate adenylyltransferase, subunit 2		-0,54	0	0	30
+JW3582	cysE	serine acetyltransferase	GO:0005737 cytoplasm	0,00	1	0	367
+JW3331	cysG			-0,04	0	0	414
+JW2732	cysH			-0,44	0	0	280
+JW2733	cysI		0	0,00	0	15	
+JW2734	cysJ			-0,26	0	0	288
+JW2407	cysK		GO:0005737 cytoplasm	-0,08	0	0	579
+JW2721	cysN	sulfate adenylyltransferase, subunit 1		-0,18	0	0	335
+JW2418	cysP	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,41	0	0	631
+JW4172	cysQ	phosphosulfate) 3'(2'),5'-bisphosphate		-0,25	0	0	787
+JW0515	cysS	cysteinyl-tRNA synthetase	GO:0005737 cytoplasm	-0,42	0	0	1214
+JW2406	cysZ	predicted inner membrane protein		0,55	1	4	115
+JW3905	cytR	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,14	0	0	263
+JW0627	dacA		GO:0019866 inner membrane	1,00	0	17	
+JW3149	dacB	D-alanyl-D-alanine carboxypeptidase		-0,05	0	0	325
+JW0823	dacC		GO:0042597 periplasmic space	0,00	0	15	
+JW1178	dadA	D-amino acid dehydrogenase		-0,22	0	0	1377
+JW1179	dadX	alanine racemase 2, PLP-binding		-0,03	0	0	433
+JW3350	dam	DNA adenine methylase	GO:0005737 cytoplasm	-0,39	0	0	110
+JW3351	damX	predicted protein		-0,94	1	1	661
+JW2463	dapA	dihydrodipicolinate synthase	GO:0005737 cytoplasm	0,07	1	0	719
+JW0029	dapB	dihydrodipicolinate reductase		1,00	0	18	
+JW0161	dapD		GO:0005737 cytoplasm	0,00	0	15	
+JW2456	dapE	N-succinyl-diaminopimelate deacylase		-0,07	0	0	586
+JW5592	dapF	diaminopimelate epimerase	GO:0005737 cytoplasm	0,00	0	8	
+JW1337	dbpA		(sensu Bacteria) -!- GO:0005737	0,01	1	0	88
+JW2050	dcd			-0,16	0	0	462
+JW1944	dcm	DNA cytosine methylase	GO:0005737 cytoplasm	-0,45	0	0	258
+JW1531	dcp	dipeptidyl carboxypeptidase II		-0,33	0	0	1591
+JW5682	dcrB	periplasmic protein	0	0,00	0	8	
+JW3496	dctA			0,87	1	8	442
+JW5735	dcuA	C4-dicarboxylate antiporter		0,80	1	9	237
+JW4085	dcuR		GO:0005737 cytoplasm	-0,25	0	0	185
+JW4086	dcuS	component regulatory system with		-0,11	1	2	34
+JW0372	ddlA	D-alanine-D-alanine ligase A		1,00	0	14	
+JW0090	ddlB	D-Alanine:D-alanine ligase		1,00	0	11	
+JW5240	ddpA	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,47	0	0	645
+JW1479	ddpD		GO:0005737 cytoplasm	0,02	1	0	21
+JW5531	deaD	ATP-dependent RNA helicase	GO:0005737 cytoplasm	-0,59	0	0	430
+JW2314	dedA	conserved inner membrane protein	GO:0009274 cell wall (sensu	0,81	1	4	31
+JW5378	dedD	conserved protein	0	1,00	1	3	
+JW3248	def	peptide deformylase		-0,29	0	0	371
+JW0157	degP		GO:0042597 periplasmic space	-0,07	0	0	1673
+JW3203	degQ	serine endoprotease, periplasmic		0,06	1	1	1211
+JW3204	degS	serine endoprotease, periplasmic	GO:0042597 periplasmic space	0,12	1	1	273
+JW4345	deoA	thymidine phosphorylase		0,01	1	0	1660
+JW4346	deoB	phosphopentomutase		-0,27	0	0	1699
+JW4344	deoC		GO:0005737 cytoplasm	-0,01	0	0	1307
+JW4347	deoD	purine-nucleoside phosphorylase		0,07	1	0	1465
+JW0824	deoR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,18	0	0	129
+JW5403	der	predicted GTP-binding protein	0	0,00	0	19	
+JW5642	dfp		GO:0005737 cytoplasm	1,00	0	9	
+JW4002	dgkA	diacylglycerol kinase		0,88	1	2	159
+JW5627	dgoR		GO:0005737 cytoplasm	-0,36	0	0	122
+JW5859	dgoT	D-galactonate transporter		0,68	1	11	25
+JW1586	dgsA	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	0,10	1	0	202
+JW0156	dgt		GO:0005737 cytoplasm	-0,45	0	0	286
+JW5185	dhaH	specific PTS enzyme HPr component -!-	0	0,00	0	14	
+JW5187	dhaK		0	0,00	0	14	
+JW5186	dhaL			-0,11	0	0	502
+JW5188	dhaR			-0,09	0	0	27
+JW1562	dicA	"Qin prophage; predicted regulator for"	0	0,00	0	4	
+JW0784	dinG	ATP-dependent DNA helicase	GO:0005737 cytoplasm	-0,24	0	0	20
+JW0216	dinJ			-0,14	0	0	289
+JW0054	djlA	DnaJ-like protein, membrane anchored	0	1,00	1	8	
+JW5499	dkgA	2,5-diketo-D-gluconate reductase A	GO:0005737 cytoplasm	-0,38	0	0	1267
+JW0197	dkgB	2,5-diketo-D-gluconate reductase B	GO:0005737 cytoplasm	0,00	0	10	
+JW0141	dksA		GO:0005737 cytoplasm	0,00	0	6	
+JW2121	dld		GO:0005737 cytoplasm	0,00	0	24	
+JW5118	dmsA			-0,44	1	0	1667	
+JW0878	dmsB			-0,48	1	0	393	
+JW0879	dmsC			1,06	1	8	74	
+JW5262	dmsD			-0,09	0	0	197	
+JW3679	dnaA	DnaA, DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,36	0	0	381	
+JW4012	dnaB	replicative DNA helicase	GO:0005737 cytoplasm	-0,42	0	0	893	
+JW4325	dnaC	DNA biosynthesis protein		-0,48	0	0	166	
+JW0179	dnaE	DNA polymerase III alpha subunit	GO:0005737 cytoplasm	-0,24	0	0	335	
+JW3038	dnaG	DNA primase	GO:0005737 cytoplasm	-0,39	0	0	564	
+JW0014	dnaJ		GO:0005737 cytoplasm	0,00	0	11		
+JW0013	dnaK		GO:0005737 cytoplasm	-0,41	0	0	46	3734
+JW3678	dnaN	DNA polymerase III, beta subunit	GO:0005737 cytoplasm	-0,13	0	0	581	
+JW0205	dnaQ	DNA polymerase III epsilon subunit	GO:0005737 cytoplasm	-0,16	0	0	86	
+JW4326	dnaT		GO:0005737 cytoplasm	0,00	0	2		
+JW0459	dnaX		GO:0005737 cytoplasm	-0,26	0	0	480	
+JW3513	dppA		GO:0042597 periplasmic space	-0,46	0	0	1621	
+JW3512	dppB			0,69	1	6	188
+JW3511	dppC			1,00	5	3	
+JW3510	dppD		GO:0005737 cytoplasm	-0,11	0	0	638
+JW3509	dppF		GO:0005737 cytoplasm	0,00	0	11	
+JW0797	dps	Fe-binding and storage protein	GO:0005737 cytoplasm	-0,21	0	0	1498
+JW3832	dsbA	periplasmic protein disulfide isomerase I	GO:0042597 periplasmic space	-0,13	0	0	632
+JW5182	dsbB	reoxidation of DsbA protein disulfide		1,00	4	4	
+JW2861	dsbC	protein disulfide isomerase II	GO:0042597 periplasmic space	0,00	0	10	
+JW0597	dsbG		GO:0042597 periplasmic space	-0,22	0	0	501
+JW2363	dsdA	D-serine ammonia-lyase	GO:0005737 cytoplasm	0,00	0	14	
+JW2362	dsdX	predicted transporter		1,12	1	12	20
+JW3858	dtd	D-Tyr-tRNA(Tyr) deacylase	GO:0005737 cytoplasm	-0,17	0	0	97
+JW3228	dusB	tRNA-dihydrouridine synthase B		-0,25	0	0	85
+JW2128	dusC	tRNA-dihydrouridine synthase C	0	0,00	0	4	
+JW3615	dut	deoxyuridinetriphosphatase		0,01	1	0	385
+JW0168	dxr		0	0,00	0	14	
+JW0410	dxs		0	0,00	0	15	
+JW3046	ebgR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,15	0	0	145
+JW5737	ecnA			0,47	1	0	20
+JW4108	ecnB	entericidin B membrane lipoprotein		0,42	1	1	131
+JW2197	eco	ecotin, a serine protease inhibitor	GO:0042597 periplasmic space	-0,26	0	0	645
+JW1839	eda		GO:0005737 cytoplasm	0,32	1	0	663
+JW1840	edd	6-phosphogluconate dehydratase		-0,02	0	0	27
+JW4107	efp	Elongation factor EF-P	GO:0005737 cytoplasm	-0,22	0	0	194
+JW1506	ego		GO:0005737 cytoplasm	-0,05	0	0	281
+JW2262	elaA			-0,22	0	0	229
+JW2261	elaB	conserved protein	0	1,00	1	8	
+JW2263	elaC	binuclear zinc phosphodiesterase		-0,06	0	0	258
+JW3176	elbB			0,27	1	0	633
+JW2660	emrA	multidrug efflux system		-0,13	1	1	383
+JW2365	emrK			-0,24	1	1	58
+JW5821	emtA	lytic murein endotransglycosylase E		-0,20	1	0	87
+JW2912	endA	DNA-specific endonuclease I		-0,74	0	0	29
+JW2750	eno	enolase	GO:0005737 cytoplasm	-0,16	0	0	1783
+JW0588	entA			0,03	1	0	114
+JW0587	entB	isochorismatase	GO:0005737 cytoplasm	0,00	0	2	
+JW0586	entE	component of enterobactin synthase		0,00	0	3	
+JW0578	entF		GO:0005737 cytoplasm	0,00	0	2	
+JW5646	envC	protease with a role in cell division		1,00	1	6	
+JW3367	envZ			-0,06	1	2	159
+JW2894	epd	D-erythrose 4-phosphate	GO:0005737 cytoplasm	-0,04	0	0	307
+JW5660	eptB	predicted metal dependent hydrolase	GO:0009274 cell wall (sensu	-0,11	1	5	156
+JW2550	era			-0,19	0	0	313
+JW1968	erfK			-0,34	0	0	639
+JW2434	eutB		0	0,00	0	15	
+JW2433	eutC			-0,10	0	0	346
+JW2432	eutL	protein with predicted role in		0,19	1	0	51
+JW2444	eutQ	conserved protein		-0,12	0	0	94
+JW2366	evgA		GO:0005737 cytoplasm	-0,09	0	0	273
+JW2367	evgS			-0,20	1	0	131
+JW2974	exbB			0,27	1	3	367
+JW2973	exbD			0,01	1	1	26
+JW5446	exo	exonuclease IX (5'-3' exonuclease)		-0,21	0	0	129
+JW1833	exoX	DNA exonuclease X	GO:0005737 cytoplasm	0,00	0	2	
+JW3065	exuR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,52	0	0	335
+JW0937	fabA		0	0,00	0	10	
+JW2320	fabB	3-oxoacyl-[acyl-carrier-protein] synthase	GO:0005737 cytoplasm	0,01	1	0	1497
+JW1078	fabD		GO:0005737 cytoplasm	1,00	0	12	
+JW1081	fabF	3-oxoacyl-[acyl-carrier-protein] synthase	GO:0005737 cytoplasm	0,00	1	0	1007
+JW1079	fabG	3-oxoacyl-[acyl-carrier-protein]	GO:0005737 cytoplasm	1,00	0	11	
+JW1077	fabH	3-oxoacyl-[acyl-carrier-protein] synthase	GO:0005737 cytoplasm	1,00	0	11	
+JW1281	fabI		GO:0005737 cytoplasm	1,00	0	15	
+JW0175	fabZ		GO:0005737 cytoplasm	0,05	1	0	34
+JW5578	fadA	3-ketoacyl-CoA thiolase (thiolase I)	GO:0005737 cytoplasm	0,13	1	0	579
+JW3822	fadB	enoyl-CoA isomerase/enoyl-CoA		-0,09	0	0	798
+JW1794	fadD			0,00	0	11	
+JW5020	fadE	acyl coenzyme A dehydrogenase	0	1,00	2	22	
+JW3052	fadH			-0,06	0	0	710
+JW2341	fadL			-0,30	1	0	95
+JW1176	fadR	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,28	0	0	381
+JW2892	fbaA	fructose-bisphosphate aldolase, class II		-0,22	0	0	1014
+JW5344	fbaB	fructose-bisphosphate aldolase class I		-0,15	0	0	1627
+JW4191	fbp	fructose-1,6-bisphosphatase I	GO:0005737 cytoplasm	-0,22	0	0	915
+JW3866	fdhD	formate dehydrogenase formation	GO:0005737 cytoplasm	-0,17	0	0	204
+JW3862	fdhE	formate dehydrogenase formation		-0,29	0	0	798
+JW4040	fdhF			-0,33	0	0	45
+JW1470	fdnG		GO:0005737 cytoplasm	-0,42	0	0	33
+JW1471	fdnH			-0,27	1	1	143
+JW1472	fdnI			0,36	1	4	37
+JW3865	fdoG	formate dehydrogenase-O, large	GO:0005737 cytoplasm	-0,35	0	0	1819
+JW3864	fdoH	formate dehydrogenase-O, Fe-S subunit		-0,36	1	0	616
+JW3863	fdoI			0,50	1	4	171
+JW2509	fdx	[2Fe-2S] ferredoxin		-0,36	0	0	548
+JW1380	feaB	phenylacetaldehyde dehydrogenase		-0,04	0	0	276
+JW4250	fecB	transporter subunit -!- periplasmic-	GO:0042597 periplasmic space	0,03	1	0	330
+JW4247	fecE	transporter subunit -!- ATP-binding	GO:0005737 cytoplasm	-0,07	0	0	27
+JW3372	feoB	fused ferrous iron transporter, protein B		0,42	1	10	269
+JW5086	fepA			-0,58	1	0	66
+JW0584	fepB	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,07	0	0	258
+JW0579	fepE			-0,17	1	2	43
+JW5414	ffh		0	0,00	0	20	
+JW2701	fhlA	DNA-binding transcriptional activator	GO:0005737 cytoplasm	-0,24	0	0	202
+JW0146	fhuA	ferrichrome outer membrane transporter		-0,48	1	0	55
+JW0147	fhuC	ATP-binding component of ABC	GO:0005737 cytoplasm	0,02	1	0	47
+JW0148	fhuD	periplasmic-binding component of ABC	GO:0042597 periplasmic space	0,07	1	0	43
+JW3324	fic	stationary-phase protein, cell division	0	0,00	0	10	
+JW3886	fieF	zinc transporter		0,38	1	6	57
+JW4279	fimC	chaperone, periplasmic		1,00	1	2	
+JW3229	fis		GO:0005737 cytoplasm	-0,53	0	0	44
+JW0042	fixC			0,06	1	0	23
+JW5746	fklB		0	0,00	0	10	
+JW3309	fkpA		GO:0042597 periplasmic space	-0,46	0	0	761
+JW0026	fkpB		GO:0005737 cytoplasm	-0,10	0	0	240
+JW0671	fldA	flavodoxin 1	0	0,00	0	7	
+JW2863	fldB	flavodoxin 2	0	0,00	0	4	
+JW1060	flgB			-0,47	0	0	26
+JW1067	flgI	predicted flagellar basal body protein	GO:0019861 flagellum	0,06	1	0	26
+JW1058	flgM	anti-sigma factor for FliA (sigma 28)		-0,50	0	0	61
+JW1868	flhA	predicted flagellar export pore protein	GO:0009274 cell wall (sensu	0,38	1	7	41
+JW1908	fliC		GO:0019861 flagellum	0,00	0	3	
+JW1922	fliF			-0,48	1	2	33
+JW1923	fliG		GO:0019861 flagellum	-0,11	0	0	29
+JW1926	fliJ	flagellar protein	GO:0019861 flagellum	-0,98	0	0	49
+JW5316	fliO	flagellar biosynthesis protein	GO:0019861 flagellum	0,32	1	1	29
+JW1932	fliP	flagellar biosynthesis protein		0,80	1	5	35
+JW1905	fliY		GO:0042597 periplasmic space	-0,30	0	0	1616
+JW2318	flk	predicted flagella assembly protein		-0,31	1	1	75
+JW1982	flu	phase-variable biofilm formation	0	1,00	1	11	
+JW3249	fmt		GO:0005737 cytoplasm	0,00	0	12	
+JW1328	fnr		GO:0005737 cytoplasm	-0,27	0	0	364
+JW0887	focA	formate transporter		0,77	1	6	83
+JW0047	folA	dihydrofolate reductase		-0,29	0	0	255
+JW2312	folC		0	1,00	0	16	
+JW0518	folD	tetrahydrofolate dehydrogenase -!- 5,10-	0	1,00	0	8	
+JW2140	folE	GTP cyclohydrolase I		-0,12	0	0	768
+JW0138	folK	hydroxymethyldihyropteridine		-0,21	0	0	145
+JW1598	folM	dihydrofolate reductase isozyme		-0,07	0	0	89
+JW3144	folP	7,8-dihydropteroate synthase		-0,02	0	0	440
+JW2300	folX	triphosphate 2'-epimerase and		-0,43	0	0	323
+JW3895	fpr	ferredoxin-NADP reductase	0	0,00	0	12	
+JW4115	frdA		GO:0005737 cytoplasm	-0,37	0	0	2196
+JW4114	frdB		GO:0005737 cytoplasm	-0,22	0	0	559
+JW4113	frdC			0,55	1	3	165
+JW4112	frdD			1,01	1	3	95
+JW3820	fre	flavin reductase		-0,12	0	0	551
+JW5698	frlR			-0,35	0	0	66
+JW0347	frmA	III/glutathione-dependent formaldehyde	GO:0005737 cytoplasm	0,00	0	14	
+JW0346	frmB	predicted esterase		-0,36	0	0	117
+JW0348	frmR			-0,50	0	0	259
+JW0167	frr	ribosome recycling factor	GO:0005737 cytoplasm	0,00	0	12	
+JW0229	frsA	hydrolase, binds to enzyme IIA(Glc)	0	0,00	0	22	
+JW2154	fruA			0,59	1	9	314
+JW2156	fruB		GO:0005737 cytoplasm	-0,03	0	0	413
+JW2155	fruK	fructose-1-phosphate kinase	0	1,00	0	9	
+JW0078	fruR	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,35	0	0	622
+JW1893	ftn	ferritin iron storage protein (cytoplasmic)	GO:0005737 cytoplasm	-0,57	0	0	494
+JW0092	ftsA			-0,03	1	0	650
+JW3428	ftsE		GO:0005737 cytoplasm	0,00	0	8	
+JW3145	ftsH	protease, ATP-dependent zinc-metallo		-0,26	1	2	2125
+JW0082	ftsI	peptidoglycan synthesis (penicillin-		-0,15	1	1	92
+JW0873	ftsK			-0,41	1	5	115
+JW0081	ftsL			-0,03	1	1	44
+JW3904	ftsN	essential cell division protein	GO:0019866 inner membrane	-1,02	1	1	496
+JW0091	ftsQ		GO:0019866 inner membrane	-0,50	1	1	46
+JW3427	ftsX			0,19	1	4	454
+JW3429	ftsY			-0,34	1	0	1245
+JW0093	ftsZ	GTP-binding tubulin-like cell division	GO:0005737 cytoplasm	-0,01	0	0	1463
+JW2771	fucA	L-fuculose-1-phosphate aldolase	0	0,00	0	3	
+JW2773	fucI	L-fucose isomerase	0	0,00	0	14	
+JW2770	fucO	L-1,2-propanediol oxidoreductase		0,09	1	0	761
+JW2776	fucR	DNA-binding transcriptional activator	GO:0005737 cytoplasm	-0,32	0	0	43	
+JW2775	fucU	L-fucose mutarotase		0,18	1	0	109	
+JW1604	fumA			-0,37	0	0	2211	
+JW4083	fumB			-0,32	0	0	452	
+JW1603	fumC		0	0,00	0	17		
+JW0669	fur	DNA-binding transcriptional dual	GO:0005737 cytoplasm	0,00	0	8		
+JW3302	fusA	protein chain elongation factor EF-G	GO:0005737 cytoplasm	-0,29	0	0	38	3283
+JW4100	fxsA	inner membrane protein		0,39	1	3	111	
+JW2636	gabD			-0,07	0	0	1584	
+JW2638	gabP	gamma-aminobutyrate transporter		0,83	1	12	28	
+JW2637	gabT			0,00	1	0	1848	
+JW3485	gadA		GO:0005737 cytoplasm	-0,28	0	0	795	
+JW1488	gadB		GO:0005737 cytoplasm	-0,30	0	0	2557	
+JW1487	gadC			0,85	1	12	390	
+JW3480	gadE	DNA-binding transcriptional activator		-0,20	0	0	460	
+JW3483	gadW	DNA-binding transcriptional activator		-0,15	0	0	28	
+JW3484	gadX	DNA-binding transcriptional dual		-0,08	0	0	159
+JW0742	galE	UDP-galactose-4-epimerase		0,00	0	12	
+JW2027	galF	predicted subunit with GalU	GO:0005737 cytoplasm	0,00	0	14	
+JW0740	galK	galactokinase		0,00	0	13	
+JW0739	galM	galactose-1-epimerase (mutarotase)	GO:0042597 periplasmic space	0,00	0	14	
+JW2910	galP	D-galactose transporter		0,60	1	12	57
+JW2805	galR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,07	0	0	179
+JW2138	galS	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	1,00	0	6	
+JW0741	galT			0,00	0	13	
+JW1224	galU	glucose-1-phosphate uridylyltransferase	GO:0030113 capsule (sensu	1,00	0	11	
+JW1768	gapA		GO:0005737 cytoplasm	0,00	0	20	
+JW5906	gapC	dehydrogenase C, C-ter fragment		0,03	1	0	58
+JW3097	garD	(D)-galactarate dehydrogenase		-0,01	0	0	584
+JW3093	garK	glycerate kinase I		0,08	1	0	267
+JW3095	garL			0,07	1	0	324
+JW3096	garP	predicted (D)-galactarate transporter		0,70	1	11	26
+JW5526	garR	tartronate semialdehyde reductase		0,26	1	0	927	
+JW2081	gatA			-0,03	0	0	388	
+JW2078	gatA			-0,06	0	0	225	
+JW2077	gatB		GO:0005737 cytoplasm	0,31	1	0	491	
+JW2076	gatC			0,82	1	11	411	
+JW2075	gatD		0	1,00	0	12		
+JW5343	gatY			-0,09	0	0	983	
+JW2082	gatZ			-0,12	0	0	1529	
+JW0120	gcd	glucose dehydrogenase		1,00	5	19		
+JW2779	gcvA	DNA-binding transcriptional dual	GO:0005737 cytoplasm	0,00	0	4		
+JW2872	gcvH	glycine cleavage complex lipoylprotein		-0,14	0	0	189	
+JW2871	gcvP	subunit (protein P) of glycine cleavage		-0,07	0	0	46	3739
+JW2464	gcvR		GO:0005737 cytoplasm	-0,02	0	0	268	
+JW2873	gcvT	tetrahydrofolate-dependent, subunit (T	0	0,00	0	15		
+JW1750	gdhA	glutamate dehydrogenase, NADP-	GO:0005737 cytoplasm	0,00	0	18		
+JW3412	ggt	gamma-glutamyltranspeptidase		-0,22	0	0	621	
+JW3719	gidA	glucose-inhibited cell-division protein		-0,31	0	0	381
+JW3718	gidB			-0,15	0	0	368
+JW2943	glcB	malate synthase G		-0,33	0	0	2119
+JW2947	glcC		GO:0005737 cytoplasm	-0,25	0	0	39
+JW2946	glcD	glycolate oxidase subunit, FAD-linked	0	1,00	0	3	
+JW5487	glcE	glycolate oxidase FAD binding subunit	0	0,00	0	2	
+JW5486	glcF	glycolate oxidase iron-sulfur subunit	0	0,00	0	4	
+JW2944	glcG	conserved protein		0,16	1	0	27
+JW5556	gldA	glycerol dehydrogenase, NAD		0,17	1	0	762
+JW2021	glf		Bacteria) -!- GO:0009274 cell wall	0,00	0	18	
+JW3392	glgA	glycogen synthase	GO:0005737 cytoplasm	1,00	0	14	
+JW3395	glgB	1,4-alpha-glucan branching enzyme	GO:0005737 cytoplasm	-0,51	0	0	993
+JW3393	glgC	glucose-1-phosphate	GO:0005737 cytoplasm	0,00	0	17	
+JW3391	glgP	glycogen phosphorylase	GO:0005737 cytoplasm	-0,34	0	0	1243
+JW3021	glgS	predicted glycogen synthesis protein	GO:0005737 cytoplasm	0,00	0	3	
+JW3394	glgX	glycogen debranching enzyme	GO:0005737 cytoplasm	-0,34	0	0	432
+JW2385	glk	glucokinase	GO:0005737 cytoplasm	1,00	0	13	
+JW3143	glmM	phosphoglucosamine mutase	Bacteria) -!- GO:0009274 cell wall	0,01	1	0	1404
+JW3707	glmS		Bacteria) -!- GO:0009274 cell wall	-0,10	0	0	1962
+JW3708	glmU	phosphate uridyltransferase -!-	Bacteria) -!- GO:0009274 cell wall	0,00	0	16	
+JW3841	glnA	glutamine synthetase	GO:0005737 cytoplasm	-0,29	0	0	2011
+JW2537	glnB		GO:0005737 cytoplasm	0,01	1	0	308
+JW0162	glnD	uridylyltransferase	GO:0005737 cytoplasm	-0,29	0	0	910
+JW3025	glnE	adenylyltransferase for glutamine	0	0,00	0	19	
+JW3839	glnG	in two-component regulatory system	GO:0005737 cytoplasm	-0,25	0	0	451
+JW0796	glnH	periplasmic binding component of ABC	GO:0042597 periplasmic space	0,00	0	12	
+JW0440	glnK		0	1,00	0	5	
+JW3840	glnL			-0,17	1	0	168
+JW0795	glnP			1,00	3	5	
+JW0794	glnQ		GO:0005737 cytoplasm	0,00	0	8	
+JW0666	glnS	glutamyl-tRNA synthetase	GO:0005737 cytoplasm	-0,52	0	0	1846
+JW1643	gloA	glyoxalase I, Ni-dependent		-0,35	0	0	278
+JW0202	gloB		0	0,00	0	8	
+JW2235	glpA	(anaerobic), large subunit,	Bacteria) -!- GO:0019866 inner	-0,13	1	0	347
+JW2236	glpB			0,06	1	0	62
+JW2237	glpC			-0,21	1	0	56
+JW3389	glpD		GO:0005737 cytoplasm	0,00	0	25	
+JW3388	glpE			-0,27	0	0	63
+JW3897	glpK	glycerol kinase		-0,29	0	0	2014
+JW2233	glpQ		GO:0042597 periplasmic space	0,00	0	19	
+JW3386	glpR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,21	0	0	236
+JW2234	glpT	sn-glycerol-3-phosphate transporter		0,49	1	12	409
+JW3896	glpX	fructose 1,6-bisphosphatase II	GO:0005737 cytoplasm	-0,02	0	0	768
+JW0710	gltA	citrate synthase		-0,23	0	0	1596
+JW3179	gltB	glutamate synthase, large subunit		-0,22	0	0	1566
+JW3180	gltD			-0,31	0	0	791
+JW5092	gltI	subunit -!- periplasmic-binding	GO:0042597 periplasmic space	0,00	0	15	
+JW0649	gltJ	subunit -!- membrane component of	Bacteria) -!- GO:0019866 inner	0,61	1	5	43
+JW0648	gltK	subunit -!- membrane component of	Bacteria) -!- GO:0019866 inner	0,87	1	5	22	
+JW0647	gltL	subunit -!- ATP-binding component of	GO:0005737 cytoplasm	0,00	0	6		
+JW2395	gltX	glutamyl-tRNA synthetase	GO:0005737 cytoplasm	-0,53	0	0	1932	
+JW0502	glxK	glycerate kinase II		0,34	1	0	62	
+JW2535	glyA	serine hydroxymethyltransferase	GO:0005737 cytoplasm	-0,23	0	0	1860	
+JW3531	glyQ	glycine tRNA synthetase, alpha subunit	GO:0005737 cytoplasm	-0,39	0	0	627	
+JW3530	glyS	glycine tRNA synthetase, beta subunit	GO:0005737 cytoplasm	-0,22	0	0	38	2910
+JW0196	gmhB			-0,25	0	0	318	
+JW3623	gmk	guanylate kinase	GO:0005737 cytoplasm	0,00	0	8		
+JW1278	gmr	modulator of Rnase II stability		-0,19	0	0	145	
+JW2011	gnd			-0,20	0	0	2157	
+JW0976	gnsA		GO:0005737 cytoplasm	-0,55	0	0	168	
+JW5253	gnsB	"Qin prophage; predicted protein"		-0,48	0	0	278	
+JW3400	gntK			-0,32	0	0	40	
+JW5946	gntR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,10	0	0	433	
+JW5690	gntT			1,03	1	11	29	
+JW3377	gntY			-0,26	0	0	463
+JW3467	gor	glutathione oxidoreductase	GO:0005737 cytoplasm	0,00	0	18	
+JW3348	gph	phosphoglycolate phosphatase		-0,13	0	0	378
+JW0738	gpmA	phosphoglyceromutase 1	0	0,00	0	18	
+JW3587	gpmI		GO:0005737 cytoplasm	-0,20	0	0	1215
+JW5603	gpp		GO:0005737 cytoplasm	-0,02	0	0	559
+JW3583	gpsA		GO:0005737 cytoplasm	-0,03	0	0	923
+JW0228	gpt		GO:0005737 cytoplasm	-0,05	0	0	47
+JW3148	greA	transcription elongation factor	GO:0005737 cytoplasm	-0,37	0	0	762
+JW3369	greB	transcription elongation factor	GO:0005737 cytoplasm	-0,69	0	0	131
+JW4103	groL		GO:0005737 cytoplasm	-0,01	0	0	2832
+JW4102	groS		GO:0005737 cytoplasm	0,00	0	0	374
+JW2594	grpE	heat shock protein	GO:0005737 cytoplasm	0,00	0	14	
+JW0833	grxA			-0,57	0	0	126
+JW1051	grxB	glutaredoxin 2 (Grx2)		-0,26	0	0	885
+JW3585	grxC	glutaredoxin 3		-0,31	0	0	389
+JW2663	gshA	gamma-glutamate-cysteine ligase		-0,31	0	0	1234
+JW2914	gshB	glutathione synthetase		-0,26	0	0	923
+JW0466	gsk	inosine/guanosine kinase		-0,35	0	0	619
+JW5707	gspD			-0,18	0	0	28
+JW2956	gss		0	1,00	1	15	
+JW1627	gst	glutathionine S-transferase	0	0,00	0	12	
+JW2491	guaA		GO:0005737 cytoplasm	-0,10	0	0	2407
+JW5401	guaB	IMP dehydrogenase	GO:0005737 cytoplasm	-0,10	0	0	1654
+JW0101	guaC	GMP reductase	GO:0005737 cytoplasm	-0,07	0	0	781
+JW5466	guaD	guanine deaminase		-0,37	0	0	118
+JW2758	gudD	(D)-glucarate dehydratase 1		-0,22	0	0	474
+JW2759	gudX	predicted glucarate dehydratase		-0,20	0	0	31
+JW5431	gutQ	predicted phosphosugar-binding protein	GO:0030113 capsule (sensu	0,14	1	0	387
+JW2225	gyrA		GO:0005737 cytoplasm	-0,24	0	0	2642
+JW5625	gyrB	DNA gyrase, subunit B	GO:0005737 cytoplasm	-0,45	0	0	2326
+JW2525	hcaB			0,17	1	0	38
+JW2522	hcaE			-0,48	0	0	50
+JW1950	hchA	Hsp31 molecular chaperone	0	0,00	0	12	
+JW0857	hcp			0,04	1	0	50
+JW5117	hcr	HCP oxidoreductase, NADH-dependent		-0,07	0	0	155
+JW5397	hda			-0,12	0	0	46
+JW3478	hdeA			-0,21	1	1	310
+JW5669	hdeB	acid-resistance protein	0	0,00	0	3	
+JW3479	hdeD	acid-resistance membrane protein	0	1,00	6	2	
+JW5607	hdfR	DNA-binding transcriptional regulator	GO:0005737 cytoplasm	-0,28	0	0	97
+JW1611	hdhA		GO:0005737 cytoplasm	0,14	1	0	810
+JW0945	helD	DNA helicase IV	GO:0005737 cytoplasm	-0,41	0	0	625
+JW1201	hemA	glutamyl tRNA reductase	GO:0005737 cytoplasm	-0,19	0	0	20
+JW0361	hemB	porphobilinogen synthase	0	0,00	0	19	
+JW5932	hemC	hydroxymethylbilane synthase	0	0,00	0	14	
+JW3776	hemD	uroporphyrinogen III synthase		-0,12	0	0	325
+JW3961	hemE	uroporphyrinogen decarboxylase		-0,16	0	0	498
+JW3827	hemG	protoporphyrin oxidase, flavoprotein		-0,59	0	0	339
+JW0464	hemH	ferrochelatase		-0,19	0	0	256
+JW0150	hemL		0	1,00	0	16	
+JW3838	hemN			-0,35	0	0	566
+JW3775	hemX	uroporphyrinogen III methylase	0	1,00	1	17	
+JW3774	hemY	predicted protoheme IX synthesis	0	1,00	2	15	
+JW0058	hepA	protein (ATPase and RNA polymerase		-0,36	0	0	1680
+JW4133	hflC			-0,37	1	1	721
+JW5165	hflD	predicted lysogenization regulator		0,13	1	0	447
+JW4132	hflK		0	1,00	1	16	
+JW4131	hflX	predicted GTPase	0	0,00	0	20	
+JW4130	hfq			-0,51	0	0	39
+JW0449	hha	modulator of gene expression, with H-		-0,57	0	0	56
+JW1089	hinT	purine nucleoside phosphoramidase		-0,06	0	0	390
+JW1500	hipA	regulator with hipB		0,00	0	3	
+JW2006	hisA	amino-1-(5'-phosphoribosyl)-4-	GO:0005737 cytoplasm	0,06	1	0	378
+JW2004	hisB		0	0,00	0	13	
+JW2003	hisC	histidinol-phosphate aminotransferase	0	0,00	0	10	
+JW2002	hisD			-0,01	0	0	610
+JW2007	hisF		GO:0005737 cytoplasm	0,00	0	10	
+JW2001	hisG	ATP phosphoribosyltransferase	GO:0005737 cytoplasm	-0,15	0	0	586
+JW2005	hisH			-0,07	0	0	273
+JW2008	hisI		GO:0005737 cytoplasm	0,00	0	6	
+JW2306	hisJ	transporter subunit -!- periplasmic-	GO:0042597 periplasmic space	-0,30	1	1	1237
+JW2303	hisP	transporter subunit -!- ATP-binding	GO:0005737 cytoplasm	-0,24	0	0	75
+JW2498	hisS	histidyl tRNA synthetase	GO:0005737 cytoplasm	-0,27	0	0	1465
+JW0173	hlpA	periplasmic chaperone		-0,47	0	0	375
+JW5181	hlyE	hemolysin E	GO:0005576 extracellular	1,00	1	8	
+JW2536	hmp			-0,29	0	0	791
+JW1225	hns			0,00	0	9	
+JW3354	hofQ	predicted fimbrial transporter		-0,12	0	0	29
+JW5084	hokE	toxic polypeptide, small		0,78	1	1	32
+JW0635	holA	DNA polymerase III, delta subunit	GO:0005737 cytoplasm	-0,10	0	0	120
+JW1085	holB	DNA polymerase III, delta prime subunit	GO:0005737 cytoplasm	0,00	0	3	
+JW4216	holC	DNA polymerase III, chi subunit	GO:0005737 cytoplasm	-0,37	0	0	241
+JW4334	holD	DNA polymerase III, psi subunit	GO:0005737 cytoplasm	-0,16	0	0	97
+JW1831	holE	DNA polymerase III, theta subunit	GO:0005737 cytoplasm	-0,45	0	0	41
+JW5009	hpt	hypoxanthine phosphoribosyltransferase	GO:0005737 cytoplasm	-0,07	0	0	438
+JW5905	hrpA	ATP-dependent helicase	GO:0005737 cytoplasm	-0,44	0	0	1487
+JW0144	hrpB	predicted ATP-dependent helicase	GO:0005737 cytoplasm	-0,17	0	0	62
+JW2510	hscA		GO:0005737 cytoplasm	-0,03	0	0	804
+JW2511	hscB		0	0,00	0	6	
+JW4312	hsdM	DNA methylase M	GO:0005737 cytoplasm	0,00	0	22	
+JW4313	hsdR	endonuclease R	GO:0005737 cytoplasm	-0,49	0	0	30
+JW4311	hsdS	specificity determinant for hsdM and	GO:0005737 cytoplasm	-0,26	0	0	442
+JW1374	hslJ	heat-inducible protein		-0,13	0	0	127
+JW5692	hslO	heat shock protein Hsp33		-0,31	0	0	660
+JW3363	hslR		GO:0005737 cytoplasm	0,00	0	5	
+JW3902	hslU		GO:0005737 cytoplasm	-0,36	0	0	1652
+JW3903	hslV		GO:0005737 cytoplasm	-0,03	0	0	435
+JW0462	htpG	molecular chaperone HSP90 family		-0,52	0	0	2594
+JW1818	htpX	predicted endopeptidase		1,00	4	4	
+JW3027	htrG			1,00	1	9	
+JW5644	htrL	predicted protein		-0,27	0	0	60
+JW3964	hupA		GO:0005737 cytoplasm	0,00	0	4	
+JW0430	hupB		GO:0005737 cytoplasm	-0,04	0	0	383
+JW0954	hyaA	hydrogenase 1, small subunit	GO:0019866 inner membrane	1,00	2	10	
+JW0955	hyaB	hydrogenase 1, large subunit	GO:0019866 inner membrane	-0,21	1	0	2148
+JW0956	hyaC			1,00	4	2	
+JW0957	hyaD			-0,11	0	0	154
+JW0958	hyaE		0	0,00	0	7	
+JW0959	hyaF			-0,16	0	0	145
+JW2964	hybA			-0,45	0	0	660
+JW2962	hybC	hydrogenase 2, large subunit	GO:0019866 inner membrane	-0,14	1	0	1408
+JW2961	hybD			0,30	1	0	170
+JW2960	hybE	hydrogenase 2-specific chaperone		-0,05	0	0	168
+JW2965	hybO	hydrogenase 2, small subunit	GO:0019866 inner membrane	-0,19	1	1	390
+JW2695	hycA		GO:0005737 cytoplasm	-0,36	0	0	30
+JW2687	hycI			0,02	1	0	174
+JW2467	hyfB	hydrogenase 4, membrane subunit		0,89	1	16	35
+JW2472	hyfG	hydrogenase 4, subunit		-0,28	0	0	63
+JW0496	hyi	hydroxypyruvate isomerase	GO:0005737 cytoplasm	-0,34	0	0	59
+JW2697	hypB			-0,24	0	0	427
+JW2699	hypD			-0,09	0	0	86
+JW2700	hypE			0,33	1	0	429
+JW5433	hypF		GO:0005737 cytoplasm	-0,09	0	0	46
+JW2841	hyuA	D-stereospecific phenylhydantoinase		-0,16	0	0	27
+JW0812	iaaA	L-asparaginase		0,10	1	0	26
+JW2723	iap			-0,37	0	0	27
+JW3664	ibpA	heat shock chaperone		-0,53	0	0	203
+JW1122	icd			-0,15	0	0	1711
+JW5173	icdC	conserved protein (pseudogene)	GO:0005737 cytoplasm	0,05	1	0	84
+JW3978	iclR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,05	0	0	48
+JW2857	idi	isopentenyl diphosphate isomerase	GO:0005737 cytoplasm	-0,29	0	0	285
+JW4224	idnD	L-idonate 5-dehydrogenase, NAD-		-0,02	0	0	45
+JW4223	idnO	5-keto-D-gluconate-5-reductase	GO:0005737 cytoplasm	1,00	0	2	
+JW1702	ihfA		GO:0005737 cytoplasm	0,00	0	10	
+JW0895	ihfB		GO:0005737 cytoplasm	-0,78	0	0	345
+JW0024	ileS	isoleucyl-tRNA synthetase	GO:0005737 cytoplasm	-0,26	0	0	2798
+JW3745	ilvA	threonine deaminase		-0,05	0	0	120
+JW3646	ilvB	acetolactate synthase I, large subunit		0,04	1	0	427
+JW3747	ilvC		GO:0005737 cytoplasm	0,00	0	17	
+JW5605	ilvD	dihydroxyacid dehydratase	0	0,00	0	12	
+JW5606	ilvE			-0,17	0	0	445
+JW0077	ilvH			-0,06	0	0	167
+JW0076	ilvI	acetolactate synthase III, large subunit		-0,05	0	0	50
+JW3645	ilvN	acetolactate synthase I, small subunit		-0,20	0	0	365
+JW3746	ilvY	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,14	0	0	121
+JW0053	imp			-0,66	1	0	1837
+JW0867	infA	translation initiation factor IF-1	GO:0005737 cytoplasm	-0,35	0	0	326
+JW3137	infB	fused protein chain initiation factor 2,	GO:0005737 cytoplasm	-0,53	0	0	2600
+JW5829	infC	protein chain initiation factor IF-3	GO:0005737 cytoplasm	-0,67	0	0	620
+JW0021	insA	IS1 repressor protein InsA		-0,32	0	0	41
+JW4254	insA			-0,38	0	0	31
+JW5036	insE	IS3 element protein		-0,96	0	0	23
+JW0250	insH			-0,53	0	0	56
+JW0246	insI	"CP4-6 prophage; IS30 transposase"	0	0,00	0	4	
+JW3528	insK	IS150 conserved protein InsB		-0,67	0	0	27
+JW0275	intF			-0,41	0	0	113
+JW1571	intQ			-0,43	0	0	37
+JW2345	intS			-0,39	0	0	31
+JW2512	iscA	FeS cluster assembly protein		-0,10	0	0	286
+JW2515	iscR	DNA-binding transcriptional activator		-0,26	0	0	177	
+JW2514	iscS			-0,27	0	0	1209	
+JW2513	iscU	scaffold protein	0	0,00	0	8		
+JW0411	ispA	geranyltranstransferase	GO:0005737 cytoplasm	-0,12	0	0	239	
+JW3154	ispB	octaprenyl diphosphate synthase	0	0,00	0	8		
+JW2717	ispD		GO:0005737 cytoplasm	-0,17	0	0	236	
+JW1199	ispE		GO:0005737 cytoplasm	0,00	0	6		
+JW2716	ispF		GO:0005737 cytoplasm	0,09	1	0	424	
+JW2499	ispG			-0,16	0	0	1679	
+JW0027	ispH		GO:0005737 cytoplasm	-0,17	0	0	387	
+JW0169	ispU	undecaprenyl pyrophosphate synthase	GO:0005737 cytoplasm	-0,40	0	0	43	
+JW0210	ivy	inhibitor of vertebrate C-lysozyme		-0,10	0	0	484	
+JW1721	katE	hydroperoxidase HPII(III) (catalase)	GO:0005737 cytoplasm	-0,50	0	0	1528	
+JW3914	katG	catalase/hydroperoxidase HPI(I)		-0,37	0	0	42	3092
+JW3101	kbaZ			-0,18	0	0	21	
+JW3592	kbl	glycine C-acetyltransferase		-0,05	0	0	1469	
+JW1242	kch	voltage-gated potassium channel	GO:0019866 inner membrane	0,42	1	7	286
+JW5668	kdgK	ketodeoxygluconokinase		-0,20	0	0	550
+JW1816	kdgR		GO:0005737 cytoplasm	-0,28	0	0	775
+JW0685	kdpB			0,36	1	7	28
+JW0683	kdpD			-0,09	1	4	37
+JW5096	kdpE		GO:0005737 cytoplasm	-0,15	0	0	204
+JW1206	kdsA		(sensu Bacteria) -!- GO:0030113	-0,03	0	0	1208
+JW0901	kdsB		(sensu Bacteria) -!- GO:0030113	0,00	0	8	
+JW3165	kdsC		0	1,00	0	2	
+JW3164	kdsD	D-arabinose 5-phosphate isomerase	GO:0030113 capsule (sensu	0,22	1	0	447
+JW3608	kdtA		Bacteria) -!- GO:0030113 capsule	0,02	1	0	172
+JW2810	kduD	2-deoxy-D-gluconate 3-dehydrogenase		0,15	1	0	88
+JW2811	kduI			-0,19	0	0	30
+JW0454	kefA			1,00	12	15	
+JW3313	kefB	potassium:proton antiporter		0,45	1	13	43
+JW0046	kefC	potassium:proton antiporter		0,46	1	13	177
+JW0045	kefF			-0,23	0	0	48
+JW3314	kefG			-0,25	0	0	109
+JW2571	kgtP	alpha-ketoglutarate transporter		0,62	1	12	57
+JW5784	kptA	2'-phosphotransferase	GO:0005737 cytoplasm	-0,26	0	0	48
+JW0050	ksgA		GO:0005737 cytoplasm	0,00	0	10	
+JW0336	lacI	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	1,00	0	6	
+JW3996	lamB			-0,52	1	0	73
+JW1181	ldcA	L,D-carboxypeptidase A		1,00	0	9	
+JW0181	ldcC	lysine decarboxylase 2, constitutive		-0,19	0	0	559
+JW1375	ldhA			-0,10	0	0	974
+JW2553	lepA	GTP binding membrane protein		-0,20	0	0	1359
+JW2552	lepB	leader peptidase (signal peptidase I)		-0,16	1	2	411
+JW0073	leuA	2-isopropylmalate synthase	GO:0005737 cytoplasm	-0,19	0	0	30
+JW5807	leuB	3-isopropylmalate dehydrogenase	GO:0005737 cytoplasm	0,00	0	4	
+JW0071	leuC		GO:0005737 cytoplasm	0,00	0	8	
+JW0070	leuD	3-isopropylmalate isomerase subunit	GO:0005737 cytoplasm	0,00	0	5	
+JW0637	leuS	leucyl-tRNA synthetase	GO:0005737 cytoplasm	-0,37	0	0	2627
+JW4003	lexA	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,24	0	0	455
+JW2796	lgt			0,44	1	5	274
+JW1645	lhr	predicted ATP-dependent helicase	GO:0005737 cytoplasm	-0,17	0	0	62
+JW2403	ligA	DNA ligase, NAD(+)-dependent	GO:0005737 cytoplasm	-0,14	0	0	1545
+JW3622	ligB	DNA ligase, NAD(+)-dependent	0	0,00	0	6	
+JW5011	ligT	2'-5' RNA ligase	(sensu Bacteria) -!- GO:0005737	-0,24	0	0	43
+JW0623	lipA	lipoate synthase	GO:0005737 cytoplasm	-0,33	0	0	772
+JW5089	lipB	lipoyl-protein ligase	0	0,00	0	7	
+JW3425	livJ	subunit -!- periplasmic-binding	GO:0042597 periplasmic space	-0,19	0	0	117
+JW3423	livK		GO:0042597 periplasmic space	-0,23	0	0	230
+JW3580	lldD	L-lactate dehydrogenase, FMN-linked		0,04	1	0	1454
+JW0654	lnt	apolipoprotein N-acyltransferase		0,27	1	6	226
+JW0874	lolA	chaperone for lipoproteins	GO:0042597 periplasmic space	0,00	0	8	
+JW1200	lolB	chaperone for lipoproteins		1,00	0	12	
+JW5161	lolC	transporter subunit -!- membrane	Bacteria) -!- GO:0019866 inner	0,32	1	4	264
+JW5162	lolD	transporter subunit -!- ATP-binding	GO:0005737 cytoplasm	0,00	0	6	
+JW1104	lolE	transporter subunit -!- membrane	Bacteria) -!- GO:0019866 inner	0,41	1	4	118
+JW0429	lon	DNA-binding ATP-dependent protease	GO:0005737 cytoplasm	-0,31	0	0	2703
+JW0212	lpcA	D-sedoheptulose 7-phosphate	GO:0005737 cytoplasm	0,00	0	13	
+JW0112	lpd		GO:0005737 cytoplasm	-0,01	0	0	1684
+JW4349	lplA	lipoate-protein ligase A	GO:0005737 cytoplasm	0,00	0	10	
+JW1667	lpp	murein lipoprotein		-0,31	1	0	190
+JW0176	lpxA		GO:0005737 cytoplasm	0,00	1	0	380
+JW0177	lpxB	tetraacyldisaccharide-1-P synthase		0,00	0	6	
+JW0094	lpxC			0,00	0	8	
+JW0174	lpxD			0,13	1	0	310
+JW1041	lpxL			1,00	1	6	
+JW1844	lpxM			-0,45	1	1	319
+JW2284	lrhA	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,01	0	0	172
+JW0872	lrp		GO:0005737 cytoplasm	-0,42	0	0	640
+JW1509	lsrB		GO:0042597 periplasmic space	0,00	0	9	
+JW1507	lsrC			0,89	1	9	89
+JW1508	lsrD			1,10	1	9	26
+JW1510	lsrF	predicted aldolase	0	0,00	0	15	
+JW1511	lsrG	conserved protein		-0,53	0	0	325
+JW0854	ltaE	L-allo-threonine aldolase, PLP-	GO:0005737 cytoplasm	-0,13	0	0	557
+JW2662	luxS	S-ribosylhomocysteinase		-0,32	0	0	765
+JW2806	lysA		0	0,00	0	3	
+JW3984	lysC	aspartokinase III	GO:0005737 cytoplasm	0,21	1	0	131
+JW2143	lysP	lysine transporter		0,62	1	12	27
+JW2858	lysS	lysine tRNA synthetase, constitutive	GO:0005737 cytoplasm	-0,40	0	0	1819
+JW4090	lysU	lysine tRNA synthetase, inducible	GO:0005737 cytoplasm	-0,40	0	0	2257
+JW0862	macA			-0,18	1	1	197
+JW0863	macB	ATP-binding component and membrane	Bacteria) -!- GO:0019866 inner	0,13	1	4	96
+JW2447	maeB	oxidoreductase -!- predicted		0,05	1	0	2339
+JW0385	mak	manno(fructo)kinase		-0,20	0	0	788
+JW3994	malE		GO:0042597 periplasmic space	-0,25	0	0	1869
+JW3993	malF			0,29	1	8	339	
+JW3992	malG			0,84	1	6	53	
+JW3995	malK	binding component of ABC superfamily	GO:0005737 cytoplasm	-0,03	0	0	614	
+JW3997	malM	maltose regulon periplasmic protein	GO:0042597 periplasmic space	0,00	0	9		
+JW5689	malP	maltodextrin phosphorylase		-0,35	0	0	44	2957
+JW3379	malQ		GO:0005737 cytoplasm	0,00	0	19		
+JW3543	malS	alpha-amylase	GO:0042597 periplasmic space	-0,47	0	0	92	
+JW3381	malT		GO:0005737 cytoplasm	0,00	0	4		
+JW1613	malX			0,70	1	8	28	
+JW1614	malY		GO:0005737 cytoplasm	0,00	0	7		
+JW0393	malZ	maltodextrin glucosidase	GO:0005737 cytoplasm	0,00	0	5		
+JW1605	manA	mannose-6-phosphate isomerase		0,00	0	15		
+JW1806	manX		GO:0005737 cytoplasm	0,00	0	15		
+JW1807	manY			1,01	1	7	172	
+JW1808	manZ			0,41	1	2	628	
+JW0163	map	methionine aminopeptidase	0	0,00	0	11		
+JW1522	marC	predicted transporter	GO:0009274 cell wall (sensu	0,82	1	5	36
+JW2752	mazG			-0,52	0	0	35
+JW1145	mcrA			-0,44	0	0	30
+JW5871	mcrB		GO:0005737 cytoplasm	-0,46	0	0	145
+JW2996	mdaB	NADPH quinone reductase		-0,36	0	0	626
+JW3205	mdh	malate dehydrogenase, NAD(P)-binding		0,19	1	0	1715
+JW0438	mdlA	subunits -!- ATP-binding components of	Bacteria) -!- GO:0019866 inner	0,09	1	6	50
+JW5061	mdlB	subunits -!- ATP binding components of	Bacteria) -!- GO:0019866 inner	0,25	1	4	54
+JW5794	mdoB	phosphoglycerol transferase I		1,00	4	9	
+JW1420	mdoD	glucan biosynthesis protein, periplasmic	GO:0042597 periplasmic space	-0,41	0	0	1296
+JW1035	mdoG	glucan biosynthesis protein, periplasmic	GO:0042597 periplasmic space	-0,54	0	0	1470
+JW1037	mdoH			-0,05	1	6	989
+JW5338	mdtA	multidrug efflux system, subunit A		-0,22	1	1	159
+JW2060	mdtB	multidrug efflux system, subunit B		0,38	1	11	116
+JW2061	mdtC	multidrug efflux system, subunit C		1,00	10	4	
+JW3481	mdtE	multidrug resistance efflux transporter		-0,21	1	0	1507
+JW3482	mdtF	multidrug transporter, RpoS-dependent		0,32	1	11	1388
+JW1655	mdtK	multidrug efflux system transporter		1,00	12	3	
+JW3688	mdtL	multidrug efflux system protein		0,99	1	11	30
+JW4080	melA	alpha-galactosidase, NAD(P)-binding		-0,18	0	0	452
+JW3901	menA			0,66	1	9	28
+JW2257	menB	dihydroxynaphthoic acid synthetase	0	0,00	0	14	
+JW2256	menC	o-succinylbenzoyl-CoA synthase		-0,12	0	0	252
+JW5374	menD			-0,13	0	0	392
+JW2255	menE	o-succinylbenzoate-CoA ligase		-0,07	0	0	46
+JW2260	menF	isochorismate synthase 2		-0,34	0	0	546
+JW3910	metB		GO:0005737 cytoplasm	-0,02	0	0	56
+JW2975	metC	cystathionine beta-lyase, PLP-	GO:0005737 cytoplasm	0,02	1	0	373
+JW3805	metE		GO:0005737 cytoplasm	-0,26	0	0	460
+JW3913	metF	5,10-methylenetetrahydrofolate		-0,24	0	0	20
+JW2101	metG	methionyl-tRNA synthetase	GO:0005737 cytoplasm	-0,30	0	0	2311
+JW3979	metH		0	0,00	0	23	
+JW0194	metI	membrane component protein of ABC	Bacteria) -!- GO:0019866 inner	0,99	1	5	44
+JW3909	metJ		GO:0005737 cytoplasm	0,00	0	7	
+JW2909	metK	methionine adenosyltransferase 1	GO:0005737 cytoplasm	-0,19	0	0	1391
+JW3911	metL		0	0,00	0	16	
+JW0195	metN		GO:0005737 cytoplasm	-0,07	0	0	196
+JW0193	metQ	periplasmic-binding component of ABC	Bacteria) -!- GO:0042597	-0,14	0	0	387
+JW1100	mfd	transcription-repair coupling factor	GO:0005737 cytoplasm	-0,29	0	0	1783
+JW2136	mglA	subunitsl -!- ATP-binding components of	GO:0005737 cytoplasm	-0,16	0	0	1377
+JW2137	mglB	!- periplasmic-binding component of	GO:0042597 periplasmic space	-0,27	1	1	1735
+JW2135	mglC			1,00	1	9	74
+JW5129	mgsA	methylglyoxal synthase	GO:0005737 cytoplasm	1,00	0	5	
+JW4201	mgtA	magnesium transporter		0,16	1	7	242
+JW0340	mhpC			-0,20	0	0	28
+JW0341	mhpD	2-keto-4-pentenoate hydratase		-0,03	0	0	52
+JW0342	mhpF		GO:0005737 cytoplasm	1,00	0	2	
+JW0337	mhpR		GO:0005737 cytoplasm	-0,18	0	0	95
+JW5046	mhpT			0,96	1	12	24
+JW4129	miaA		GO:0005737 cytoplasm	-0,16	0	0	276
+JW0658	miaB		GO:0005737 cytoplasm	-0,38	0	0	1501
+JW1165	minC	cell division inhibitor	GO:0005737 cytoplasm	0,00	0	5	
+JW1164	minD			-0,12	1	0	1018
+JW1163	minE	cell division topological specificity factor	GO:0005737 cytoplasm	-0,29	0	0	453
+JW3720	mioC	FMN-binding protein MioC		-0,16	0	0	283
+JW1771	mipA		(sensu Bacteria) -!- GO:0009279	-0,40	1	0	438
+JW2115	mlrA	DNA-binding transcriptional regulator		-0,35	0	0	242
+JW2784	mltA			-0,41	1	0	114
+JW2671	mltB			-0,33	1	0	269
+JW5481	mltC			-0,35	1	0	46
+JW5018	mltD		GO:0005737 cytoplasm	-0,41	0	0	35
+JW0253	mmuM	methylmethionine:homocysteine	0	0,00	0	3	
+JW0801	mntR	transcriptional regulator of mntH		-0,38	0	0	229
+JW0764	moaA	molybdopterin biosynthesis protein A		-0,35	0	0	60
+JW0765	moaB	molybdopterin biosynthesis protein B		-0,23	0	0	611
+JW0766	moaC	molybdopterin biosynthesis, protein C		-0,04	0	0	387
+JW0767	moaD	molybdopterin synthase, small subunit		0,20	1	0	167
+JW0768	moaE	molybdopterin synthase, large subunit		-0,50	0	0	446
+JW3829	mobA			-0,19	0	0	143
+JW5575	mobB		0	0,00	0	3	
+JW0746	modA	periplasmic-binding component of ABC	GO:0042597 periplasmic space	0,00	0	15	
+JW0748	modC		GO:0005737 cytoplasm	-0,05	0	0	44
+JW0744	modE	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,02	0	0	705
+JW0743	modF	-!- ATP-binding components of ABC	GO:0005737 cytoplasm	-0,22	0	0	240
+JW0811	moeA	molybdopterin biosynthesis protein	0	1,00	0	13	
+JW0810	moeB	molybdopterin synthase sulfurylase		0,16	1	0	197
+JW0008	mog	predicted molybdochelatase	GO:0005737 cytoplasm	-0,01	0	0	238
+JW2102	molR			-0,31	0	0	27
+JW1319	mpaA	murein peptide amidase A		-0,15	0	0	204
+JW4192	mpl			-0,05	0	0	910
+JW1322	mppA		Bacteria) -!- GO:0042597	0,00	0	20	
+JW2659	mprA	DNA-binding transcriptional regulator	GO:0005737 cytoplasm	0,00	0	7	
+JW0080	mraW			-0,40	0	0	917
+JW0085	mraY			1,00	10	4	
+JW0079	mraZ	conserved protein		-0,25	0	0	186
+JW3359	mrcA			-0,26	1	1	200
+JW0145	mrcB			-0,42	1	1	761
+JW0630	mrdA			1,00	1	6	
+JW0629	mrdB	cell wall shape-determining protein		0,91	1	9	27
+JW3220	mreB			0,06	1	0	1019
+JW3219	mreC			1,00	1	5	
+JW2100	mrp	antiporter inner membrane protein		0,00	0	0	633
+JW4314	mrr		GO:0005737 cytoplasm	-0,36	0	0	389
+JW0897	msbA	membrane component and ATP-binding	Bacteria) -!- GO:0019866 inner	1,00	5	17	
+JW3252	mscL	mechanosensitive channel		0,50	1	2	470
+JW2891	mscS	mechanosensitive channel	0	1,00	3	2	
+JW4178	msrA	methionine sulfoxide reductase A		-0,33	0	0	486
+JW1039	msyB	predicted protein	0	0,00	0	6	
+JW3573	mtlA			0,33	1	8	1249
+JW3574	mtlD			-0,04	0	0	1272
+JW3575	mtlR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,20	0	0	36
+JW3130	mtr	tryptophan transporter of high affinity		0,86	1	11	165
+JW0907	mukB	fused chromosome partitioning proteins		-0,60	0	0	2361
+JW0906	mukE	protein involved in chromosome	0	0,00	0	7	
+JW0905	mukF			-0,38	0	0	575
+JW3156	murA			0,07	1	0	496
+JW3940	murB			0,00	0	12	
+JW0089	murC	UDP-N-acetylmuramate:L-alanine ligase	GO:0009274 cell wall (sensu	-0,16	0	0	474
+JW0086	murD			1,00	1	12	
+JW0083	murE			0,00	0	18	
+JW0084	murF			1,00	0	10	
+JW0088	murG	N-acetylglucosaminyl transferase		0,04	1	0	365
+JW5550	murI	glutamate racemase	GO:0009274 cell wall (sensu	1,00	0	7	
+JW4128	mutL	methyl-directed mismatch repair protein	GO:0005737 cytoplasm	-0,26	0	0	546
+JW3610	mutM		GO:0005737 cytoplasm	0,00	0	4	
+JW2703	mutS	methyl-directed mismatch repair protein	GO:0005737 cytoplasm	0,00	0	19	
+JW0097	mutT	pyrophosphohydrolase, marked	GO:0005737 cytoplasm	-0,48	0	0	96
+JW2928	mutY	adenine DNA glycosylase	GO:0005737 cytoplasm	-0,15	0	0	63
+JW1055	mviM			-0,10	0	0	37
+JW1056	mviN	predicted inner membrane protein		0,88	1	13	86
+JW0733	nadA	quinolinate synthase, subunit A	GO:0005737 cytoplasm	-0,14	0	0	51
+JW0105	nadC	quinolinate phosphoribosyltransferase		-0,23	0	0	770
+JW0634	nadD		0	0,00	0	2	
+JW1729	nadE	NAD synthetase, NH3/glutamine-	0	0,00	0	15	
+JW5800	nadR			-0,36	0	0	606
+JW0663	nagA		0	1,00	0	17	
+JW0664	nagB	glucosamine-6-phosphate deaminase		-0,19	0	0	761
+JW0662	nagC	DNA-binding transcriptional dual	GO:0005737 cytoplasm	0,00	0	19	
+JW0661	nagD	UMP phosphatase		0,11	1	0	559	
+JW0665	nagE			0,58	1	10	883	
+JW1093	nagZ	beta N-acetyl-glucosaminidase		-0,29	0	0	495	
+JW3194	nanA	N-acetylneuraminate lyase		-0,03	0	0	660	
+JW3192	nanE		GO:0005737 cytoplasm	0,16	1	0	376	
+JW5538	nanK	predicted N-acetylmannosamine kinase	GO:0005737 cytoplasm	0,27	1	0	552	
+JW3195	nanR	DNA-binding transcriptional dual		-0,41	0	0	408	
+JW3193	nanT	sialic acid transporter		0,69	1	12	91	
+JW2194	napA		GO:0042597 periplasmic space	-0,44	0	0	1771	
+JW5367	napB		GO:0042597 periplasmic space	-0,41	0	0	119	
+JW2190	napC		GO:0019866 inner membrane	-0,62	1	1	57	
+JW2193	napG	electron transfer from ubiquinol to		-0,16	0	0	42	
+JW2192	napH	electron transfer from ubiquinol to		0,40	1	4	29	
+JW1215	narG	nitrate reductase 1, alpha subunit	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner	-0,51	1	0	67	4507
+JW1216	narH	nitrate reductase 1, beta (Fe-S) subunit		-0,48	1	0	1610	
+JW1218	narI			0,58	1	5	193	
+JW1217	narJ	chaperone subunit (delta subunit) of		-0,26	0	0	278
+JW1214	narK	nitrate/nitrite transporter		0,68	1	12	336
+JW1212	narL	component regulatory system with NarX	GO:0005737 cytoplasm	0,00	0	12	
+JW2181	narP	component regulatory system with NarQ	GO:0005737 cytoplasm	0,00	0	5	
+JW2453	narQ			-0,15	1	2	27
+JW1464	narU	nitrate/nitrite transporter		0,78	1	12	45
+JW1460	narV			0,55	1	5	73
+JW1213	narX			1,00	2	9	
+JW1462	narY	nitrate reductase 2 (NRZ), beta subunit		-0,43	1	0	330
+JW1463	narZ	nitrate reductase 2 (NRZ), alpha subunit		1,00	0	14	
+JW1095	ndh		GO:0005737 cytoplasm	0,00	0	20	
+JW2502	ndk	kinase -!- apyrimidinic endonuclease -!-	GO:0042597 periplasmic space	-0,08	0	0	489
+JW0704	nei		GO:0005737 cytoplasm	0,00	0	5	
+JW1642	nemA	N-ethylmaleimide reductase, FMN-		-0,31	0	0	560
+JW5547	nfi	endonuclease V		-0,06	0	0	385
+JW0567	nfnB			-0,21	0	0	757
+JW2146	nfo			-0,20	0	0	655
+JW0557	nfrA			-0,45	1	0	233
+JW0835	nfsA			-0,16	0	0	755
+JW0018	nhaA	sodium-proton antiporter		1,00	11	2	
+JW1175	nhaB	sodium:proton antiporter		1,00	12	3	
+JW3441	nikA		GO:0042597 periplasmic space	0,00	0	18	
+JW3446	nikR		GO:0005737 cytoplasm	-0,53	0	0	183
+JW3328	nirB		GO:0005737 cytoplasm	-0,21	0	0	450
+JW3329	nirD		GO:0005737 cytoplasm	-0,21	0	0	90
+JW3635	nlpA	cytoplasmic membrane lipoprotein-28		1,00	0	2	
+JW2462	nlpB	lipoprotein		1,00	0	16	
+JW2712	nlpD	predicted outer membrane lipoprotein		1,00	0	9	
+JW0188	nlpE			-0,31	1	0	393
+JW3132	nlpI	conserved protein	0	0,00	0	7	
+JW3173	npr	phosphotransferase component of N-	GO:0005737 cytoplasm	0,00	0	1	
+JW2228	nrdA			-0,34	0	0	2159
+JW2229	nrdB		0	0,00	0	18	
+JW4197	nrdD		0	0,00	0	22	
+JW2651	nrdF		GO:0005737 cytoplasm	-0,26	0	0	25
+JW4196	nrdG			-0,38	0	0	246
+JW4031	nrfA		GO:0042597 periplasmic space	-0,59	0	0	720
+JW4032	nrfB		GO:0042597 periplasmic space	-0,54	0	0	83
+JW4033	nrfC			-0,16	1	0	74
+JW4034	nrfD			1,00	1	8	49
+JW1625	nth		GO:0005737 cytoplasm	-0,12	0	0	82
+JW1854	nudB	dATP pyrophosphohydrolase		-0,27	0	0	85
+JW5548	nudC	NADH pyrophosphatase	0	0,00	0	11	
+JW3360	nudE	ADP-ribose diphosphatase		-0,25	0	0	231
+JW3002	nudF	ADP-ribose pyrophosphatase	0	0,00	0	6	
+JW2798	nudH	nucleotide hydrolase	0	0,00	0	2	
+JW2283	nuoA			0,57	1	3	163
+JW5875	nuoB	NADH:ubiquinone oxidoreductase,	GO:0005737 cytoplasm	-0,32	0	0	564
+JW5375	nuoC		GO:0005737 cytoplasm	-0,31	0	0	2368
+JW2280	nuoE	NADH:ubiquinone oxidoreductase,	GO:0005737 cytoplasm	-0,39	0	0	442
+JW2279	nuoF	NADH:ubiquinone oxidoreductase,	GO:0005737 cytoplasm	-0,32	0	0	1364
+JW2278	nuoG	NADH:ubiquinone oxidoreductase,	GO:0005737 cytoplasm	-0,32	0	0	2489
+JW2277	nuoH			0,81	1	8	265
+JW2276	nuoI	NADH:ubiquinone oxidoreductase,	GO:0005737 cytoplasm	-0,33	0	0	438
+JW2275	nuoJ			0,91	1	5	49
+JW2274	nuoK			1,00	3	2	
+JW2273	nuoL			0,87	1	16	339
+JW2272	nuoM			0,82	1	14	75
+JW2271	nuoN			1,00	12	1	
+JW2389	nupC			0,90	1	8	161
+JW2932	nupG	nucleoside transporter		0,83	1	12	73
+JW3138	nusA		GO:0005737 cytoplasm	-0,28	0	0	2283
+JW0406	nusB	transcription antitermination protein	GO:0005737 cytoplasm	-0,22	0	0	316
+JW3945	nusG	transcription termination factor	GO:0005737 cytoplasm	-0,39	0	0	698
+JW3150	obgE		0	0,00	0	9	
+JW1329	ogt		GO:0005737 cytoplasm	0,00	0	2	
+JW0940	ompA	"outer membrane protein A (3a;II*;G;d)"		-0,34	1	0	975
+JW2203	ompC	outer membrane porin protein C		-0,53	1	0	252
+JW0912	ompF	"outer membrane porin 1a (Ia;b;F)"		-0,40	1	0	145
+JW3368	ompR			0,00	0	12	
+JW0554	ompT	protease VII (outer membrane protein		-0,65	1	0	574
+JW1248	ompW	outer membrane protein W		-0,03	1	0	461
+JW1235	oppA	periplasmic-binding component of ABC	Bacteria) -!- GO:0042597	-0,44	1	1	1977
+JW1236	oppB	membrane component of ABC		1,00	6	6	
+JW1237	oppC	membrane component of ABC		0,68	1	6	174
+JW1238	oppD			0,00	0	17	
+JW1239	oppF			0,00	0	20	
+JW5740	orn	oligoribonuclease		-0,37	0	0	581
+JW1275	osmB	lipoprotein	0	1,00	0	1	
+JW1477	osmC		0	0,00	0	7	
+JW1728	osmE	DNA-binding transcriptional regulator	GO:0005737 cytoplasm	-0,27	1	1	308
+JW4338	osmY	periplasmic protein	GO:0042597 periplasmic space	-0,29	0	0	782
+JW5312	otsA	trehalose-6-phosphate synthase		-0,28	0	0	1311
+JW1886	otsB		GO:0005737 cytoplasm	-0,15	0	0	786
+JW3933	oxyR	DNA-binding transcriptional dual	GO:0005737 cytoplasm	0,00	0	13	
+JW1384	paaB	oxygenase/reductase subunit for		-0,56	0	0	22
+JW1389	paaG	acyl-CoA hydratase		-0,09	0	0	34
+JW5218	paaK	phenylacetyl-CoA ligase		-0,35	0	0	29
+JW1394	paaX			0,00	1	0	307
+JW1395	paaY			-0,06	0	0	22
+JW3323	pabA	aminodeoxychorismate synthase,		-0,02	0	0	121
+JW1801	pabB	aminodeoxychorismate synthase,		-0,29	0	0	96
+JW1082	pabC	component of para-aminobenzoate		-0,05	0	0	253
+JW0731	pal			-0,45	1	0	663
+JW0130	panB		GO:0005737 cytoplasm	0,14	1	0	560
+JW0129	panC	pantothenate synthetase	GO:0005737 cytoplasm	0,00	0	15	
+JW0415	panE			-0,12	0	0	232
+JW2987	parC	DNA topoisomerase IV, subunit A	GO:0005737 cytoplasm	-0,37	0	0	905
+JW2998	parE	DNA topoisomerase IV, subunit B	GO:0005737 cytoplasm	0,00	0	13	
+JW2503	pbpC	fused transglycosylase -!-	GO:0009274 cell wall (sensu	-0,22	1	1	41
+JW3366	pck	phosphoenolpyruvate carboxykinase		-0,32	0	0	2207
+JW2713	pcm		0	0,00	0	7	
+JW5808	pcnB	poly(A) polymerase I	GO:0005737 cytoplasm	0,00	0	17	
+JW0109	pdhR	DNA-binding transcriptional dual	GO:0005737 cytoplasm	-0,55	0	0	203
+JW0051	pdxA		GO:0005737 cytoplasm	0,19	1	0	425
+JW2317	pdxB	erythronate-4-phosphate		-0,04	0	0	1305
+JW1630	pdxH	pyridoxine 5'-phosphate oxidase		-0,62	0	0	626
+JW2548	pdxJ	pyridoxine 5'-phosphate synthase	GO:0005737 cytoplasm	-0,09	0	0	615
+JW2411	pdxK			0,09	1	0	243
+JW4217	pepA	aminopeptidase A, a cyteinylglycinase	GO:0005737 cytoplasm	0,00	0	10	
+JW2507	pepB	aminopeptidase B		-0,21	0	0	237
+JW0227	pepD		GO:0005737 cytoplasm	-0,15	0	0	1421
+JW3981	pepE	(alpha)-aspartyl dipeptidase		0,12	1	0	502	
+JW0915	pepN	aminopeptidase N		-0,33	0	0	41	2844
+JW2876	pepP	proline aminopeptidase P II	0	0,00	0	16		
+JW3823	pepQ	proline dipeptidase	0	0,00	0	16		
+JW1113	pepT	peptidase T		-0,22	0	0	1267	
+JW3887	pfkA	6-phosphofructokinase I	GO:0005737 cytoplasm	1,00	0	16		
+JW5280	pfkB	6-phosphofructokinase II	GO:0005737 cytoplasm	1,00	0	14		
+JW0885	pflA		GO:0005737 cytoplasm	-0,36	0	0	718	
+JW0886	pflB	pyruvate formate lyase I	GO:0005737 cytoplasm	-0,38	0	0	41	3272
+JW0155	pfs		0	1,00	0	8		
+JW3985	pgi	glucosephosphate isomerase	GO:0005737 cytoplasm	0,00	0	21		
+JW2893	pgk	phosphoglycerate kinase	GO:0005737 cytoplasm	0,07	1	0	1880	
+JW0675	pgm	phosphoglucomutase	GO:0005737 cytoplasm	-0,17	0	0	2167	
+JW1897	pgsA			0,82	1	4	73	
+JW2580	pheA		GO:0005737 cytoplasm	0,00	0	18		
+JW5277	pheS		GO:0005737 cytoplasm	-0,32	0	0	1223	
+JW1703	pheT		GO:0005737 cytoplasm	-0,10	0	0	44	2971
+JW4069	phnA			-0,53	0	0	258	
+JW4068	phnB	conserved protein		-0,24	0	0	774	
+JW4066	phnD	transporter subunit -!- periplasmic	GO:0042597 periplasmic space	-0,33	0	0	27	
+JW4065	phnE	transporter subunit -!- membrane	Bacteria) -!- GO:0019866 inner	0,31	1	3	31	
+JW4059	phnJ	carbon-phosphorus lyase complex		-0,39	0	0	35	
+JW4054	phnO			-0,32	0	0	184	
+JW4053	phnP			-0,12	0	0	85	
+JW0374	phoA	alkaline phosphatase	GO:0042597 periplasmic space	-0,31	0	0	45	
+JW0389	phoB	component regulatory system with	GO:0005737 cytoplasm	-0,37	0	0	233	
+JW1005	phoH		GO:0005737 cytoplasm	-0,24	0	0	28	
+JW1116	phoP		GO:0005737 cytoplasm	0,00	0	12		
+JW1115	phoQ			1,00	2	4		
+JW0390	phoR			-0,31	1	1	63	
+JW3702	phoU	DNA-binding transcriptional regulator		-0,27	0	0	619	
+JW3342	php	predicted hydrolase		-0,24	0	0	40	
+JW0698	phr		GO:0005737 cytoplasm	-0,40	0	0	44
+JW3460	pitA	phosphate transporter, low-affinity		0,52	1	10	364
+JW5584	pldB	lysophospholipase L(2)		-0,34	0	0	111
+JW4001	plsB	glycerol-3-phosphate O-acyltransferase		-0,18	1	0	1614
+JW2986	plsC			0,07	1	1	22
+JW5156	plsX	fatty acid/phospholipid synthesis protein		0,11	1	0	258
+JW4194	pmbA	maturation and secretion of the	GO:0005737 cytoplasm	-0,16	0	0	1597
+JW2254	pmrD	polymyxin resistance protein B		-0,26	0	0	122
+JW1757	pncA	nicotinamidase/pyrazinamidase	GO:0005737 cytoplasm	-0,25	0	0	307
+JW0914	pncB	nicotinate phosphoribosyltransferase	GO:0042597 periplasmic space	-0,30	0	0	25
+JW5851	pnp		GO:0005737 cytoplasm	-0,17	0	0	2060
+JW1595	pntA			0,27	1	5	769
+JW1594	pntB			0,60	1	9	634
+JW3835	polA	exonuclease -!- 3'->5' polymerase -!- 3'-	GO:0005737 cytoplasm	-0,26	0	0	2333
+JW0059	polB	DNA polymerase II	GO:0005737 cytoplasm	-0,45	0	0	86
+JW1112	potA		GO:0005737 cytoplasm	-0,34	0	0	697
+JW1109	potD	periplasmic-binding component of ABC	GO:0042597 periplasmic space	0,00	0	11	
+JW5818	potG		GO:0005737 cytoplasm	-0,13	0	0	23
+JW4116	poxA	predicted lysyl-tRNA synthetase		-0,29	0	0	180
+JW0855	poxB		GO:0005737 cytoplasm	0,01	1	0	1599
+JW4185	ppa	inorganic pyrophosphatase	GO:0005737 cytoplasm	-0,27	0	0	336
+JW3928	ppc	phosphoenolpyruvate carboxylase	GO:0005737 cytoplasm	-0,28	0	0	2676
+JW5451	ppdB	conserved protein	GO:0009289 fimbria	0,03	1	1	31
+JW3326	ppiA			-0,14	0	0	494
+JW0514	ppiB		GO:0005737 cytoplasm	-0,31	0	0	464
+JW3748	ppiC			-0,11	0	0	366
+JW0431	ppiD			-0,41	1	1	1893
+JW2486	ppk			-0,34	0	0	1517
+JW1692	pps	phosphoenolpyruvate synthase		-0,24	0	0	2091
+JW2487	ppx	exopolyphosphatase	0	0,00	0	19	
+JW0934	pqiB	paraquat-inducible protein B		-0,28	1	1	477
+JW1489	pqqL	predicted peptidase	GO:0005737 cytoplasm	1,00	1	15	
+JW1819	prc			-0,48	0	0	1259
+JW1202	prfA	peptide chain release factor RF-1	GO:0005737 cytoplasm	-0,66	0	0	666
+JW5847	prfB	peptide chain release factor RF-2	GO:0005737 cytoplasm	-1,01	0	0	227
+JW5873	prfC	peptide chain release factor RF-3	GO:0005737 cytoplasm	-0,33	0	0	1308
+JW3906	priA	Primosome factor n' (replication factor	GO:0005737 cytoplasm	-0,19	0	0	155
+JW4159	priB	primosomal protein N	GO:0005737 cytoplasm	-0,10	0	0	47
+JW0456	priC	primosomal replication protein N''	GO:0005737 cytoplasm	-0,55	0	0	172
+JW3318	prkB	predicted phosphoribulokinase	0	0,00	0	7	
+JW3465	prlC	oligopeptidase A		-0,42	0	0	2099
+JW3227	prmA		(sensu Bacteria) -!- GO:0005737	-0,07	0	0	268
+JW5841	prmB	N5-glutamine methyltransferase		-0,15	0	0	487
+JW1203	prmC			-0,20	0	0	86
+JW0233	proA	gamma-glutamylphosphate reductase	GO:0005737 cytoplasm	-0,01	0	0	1208
+JW0232	proB	gamma-glutamate kinase	GO:0005737 cytoplasm	1,00	0	20	
+JW0377	proC		GO:0005737 cytoplasm	0,32	1	0	548
+JW4072	proP	proline/glycine betaine transporter		1,00	12	7	
+JW5300	proQ	predicted structural transport element		-0,78	0	0	555
+JW0190	proS	prolyl-tRNA synthetase	GO:0005737 cytoplasm	-0,24	0	0	2269
+JW2654	proX	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,32	0	0	123
+JW0323	prpB	2-methylisocitrate lyase	GO:0005737 cytoplasm	-0,02	0	0	95
+JW0324	prpC	2-methylcitrate synthase	GO:0005737 cytoplasm	-0,29	0	0	265
+JW0325	prpD	2-methylcitrate dehydratase		-0,14	0	0	274
+JW0322	prpR	DNA-binding transcriptional regulator	GO:0005737 cytoplasm	-0,14	0	0	96
+JW1198	prsA	phosphoribosylpyrophosphate synthase		0,10	1	0	1304
+JW4121	psd	phosphatidylserine decarboxylase		1,00	0	10	
+JW5054	psiF	conserved protein		-0,57	1	1	193
+JW1297	pspA		GO:0005737 cytoplasm	-0,72	0	0	907
+JW1298	pspB	transcriptional regulator of psp operon	GO:0005737 cytoplasm	-0,22	1	1	122
+JW1299	pspC	transcriptional activator	GO:0005737 cytoplasm	0,28	1	1	90
+JW1301	pspE			-0,19	0	0	258
+JW1296	pspF	DNA-binding transcriptional activator	GO:0005737 cytoplasm	0,00	0	4	
+JW2569	pssA	diacylglycerol-serine O-	Bacteria) -!- GO:0019866 inner	-0,43	1	0	1380
+JW3703	pstB		GO:0005737 cytoplasm	-0,27	0	0	455
+JW3706	pstS	periplasmic-binding component of ABC	GO:0042597 periplasmic space	1,00	1	19	
+JW2294	pta	phosphate acetyltransferase		-0,08	0	0	2073
+JW1195	pth	peptidyl-tRNA hydrolase	GO:0005737 cytoplasm	-0,12	0	0	660
+JW2789	ptr	protease III		-0,37	0	0	494
+JW1834	ptrB	protease II		-0,51	0	0	577
+JW5555	ptsA	component -!- enzyme I component -!-	0	0,00	0	3	
+JW1087	ptsG			0,62	1	10	635
+JW2408	ptsH	phosphotransferase component of PTS		-0,17	0	0	281
+JW2409	ptsI			-0,12	0	0	2264
+JW3171	ptsN		0	0,00	0	8	
+JW2797	ptsP		0	0,00	0	23	
+JW4135	purA	adenylosuccinate synthetase	GO:0005737 cytoplasm	-0,20	0	0	2093
+JW1117	purB	adenylosuccinate lyase	GO:0005737 cytoplasm	-0,24	0	0	1356
+JW2461	purC		GO:0005737 cytoplasm	0,00	0	16	
+JW3969	purD		GO:0005737 cytoplasm	-0,07	0	0	1409
+JW0512	purE		GO:0005737 cytoplasm	0,09	1	0	143	
+JW2309	purF	amidophosphoribosyltransferase	GO:0005737 cytoplasm	-0,24	0	0	1277	
+JW3970	purH	phosphoribosylaminoimidazolecarboxa	GO:0005737 cytoplasm	-0,13	0	0	2571	
+JW0511	purK		GO:0005737 cytoplasm	-0,14	0	0	459	
+JW2541	purL		GO:0005737 cytoplasm	-0,24	0	0	58	3744
+JW2484	purM	phosphoribosylaminoimidazole	GO:0005737 cytoplasm	1,00	0	10		
+JW2485	purN		GO:0005737 cytoplasm	-0,12	0	0	374	
+JW1650	purR		GO:0005737 cytoplasm	0,00	0	19		
+JW1838	purT		GO:0005737 cytoplasm	1,00	0	15		
+JW1220	purU	formyltetrahydrofolate hydrolase	GO:0005737 cytoplasm	-0,17	0	0	557	
+JW0999	putA	regulator -!- proline dehydrogenase -!-	GO:0005737 cytoplasm	-0,13	0	0	60	4047
+JW1001	putP	proline:sodium symporter		0,79	1	12	161	
+JW5201	puuA	gamma-Glu-putrescine synthase	0	0,00	0	4		
+JW1294	puuB			-0,24	0	0	26	
+JW1293	puuC		GO:0005737 cytoplasm	-0,12	0	0	21	
+JW1295	puuE	GABA aminotransferase, PLP-	GO:0005737 cytoplasm	0,04	1	0	37	
+JW1292	puuR	DNA-binding transcriptional repressor		-0,33	0	0	40
+JW1843	pykA	pyruvate kinase II		-0,03	0	0	2031
+JW1666	pykF	pyruvate kinase I		-0,08	0	0	2240
+JW4204	pyrB		GO:0005737 cytoplasm	-0,11	0	0	1322
+JW1049	pyrC	dihydro-orotase	GO:0005737 cytoplasm	0,00	0	15	
+JW0928	pyrD	dihydro-orotate oxidase, FMN-linked	GO:0005737 cytoplasm	-0,11	0	0	984
+JW3617	pyrE	orotate phosphoribosyltransferase	GO:0005737 cytoplasm	-0,06	0	0	63
+JW1273	pyrF	orotidine-5'-phosphate decarboxylase	0	1,00	0	9	
+JW2751	pyrG	CTP synthetase		-0,14	1	1	1770
+JW0166	pyrH	uridylate kinase	GO:0005737 cytoplasm	1,00	0	8	
+JW4203	pyrI		GO:0005737 cytoplasm	-0,27	0	0	709
+JW4011	qor		0	0,00	0	17	
+JW2993	qseB			-0,23	0	0	118
+JW0395	queA		GO:0005737 cytoplasm	-0,13	0	0	431
+JW1351	racR			-0,47	0	0	146
+JW4352	radA	predicted repair protein		0,04	1	0	286
+JW5676	rbbA	fused ribosome-associated ATPases	GO:0005737 cytoplasm	0,08	1	5	422
+JW3136	rbfA	30s ribosome binding factor	GO:0005737 cytoplasm	0,00	0	7	
+JW3857	rbn	tRNA processing exoribonuclease BN	GO:0005737 cytoplasm	0,62	1	6	93
+JW3728	rbsA		GO:0005737 cytoplasm	-0,09	0	0	343
+JW3730	rbsB	periplasmic-binding compoent of ABC	GO:0042597 periplasmic space	-0,03	0	0	1341
+JW3729	rbsC			1,00	8	1	
+JW5857	rbsD			-0,10	1	0	261
+JW3731	rbsK	ribokinase	GO:0005737 cytoplasm	0,05	1	0	633
+JW2205	rcsB	component regulatory system with		1,00	0	11	
+JW5920	rcsC			-0,11	1	2	266
+JW5917	rcsC			-0,15	0	0	52
+JW2204	rcsD	two-component regulatory system with		-0,23	1	1	705
+JW0192	rcsF	predicted outer membrane protein,	GO:0030113 capsule (sensu	0,00	0	4	
+JW0384	rdgC	DNA-binding protein, non-specific	GO:0005737 cytoplasm	0,00	0	12	
+JW2669	recA		GO:0005737 cytoplasm	0,00	0	14	
+JW2788	recB			-0,32	0	0	238
+JW2790	recC			-0,29	0	0	193
+JW2787	recD			-0,20	0	0	72
+JW1344	recE		GO:0005737 cytoplasm	-0,58	0	0	26
+JW3677	recF	gap repair protein	GO:0005737 cytoplasm	-0,42	0	0	89
+JW3627	recG	ATP-dependent DNA helicase	GO:0005737 cytoplasm	0,00	0	2	
+JW2860	recJ	ssDNA exonuclease, 5' --> 3'-specific	0	0,00	0	8	
+JW2549	recO	gap repair protein	GO:0005737 cytoplasm	-0,26	0	0	28
+JW5855	recQ	ATP-dependent DNA helicase	GO:0005737 cytoplasm	-0,27	0	0	28
+JW0461	recR	gap repair protein	GO:0005737 cytoplasm	-0,18	0	0	247
+JW2755	relA		(sensu Bacteria) -!- GO:0005737	0,00	0	20	
+JW1556	relB	the RelE-RelB toxin-antitoxin system -!-	GO:0005737 cytoplasm	-0,36	0	0	310
+JW1555	relE		GO:0005737 cytoplasm	-0,35	0	0	20
+JW5604	rep		GO:0005737 cytoplasm	-0,41	0	0	620
+JW3603	rfaB	galactose:(glucosyl)lipopolysaccharide-	0	0,00	0	4	
+JW3596	rfaC	ADP-heptose:LPS heptosyl transferase	GO:0019866 inner membrane	-0,22	1	0	143
+JW3594	rfaD			-0,28	0	0	1469
+JW3024	rfaE			0,00	0	0	1233
+JW3595	rfaF	ADP-heptose:LPS heptosyltransferase		-0,19	0	0	237
+JW3606	rfaG	glucosyltransferase I	GO:0019866 inner membrane	1,00	0	6	
+JW3818	rfaH			0,00	0	3	
+JW3602	rfaI	galactose:(glucosyl)lipopolysaccharide-		-0,22	0	0	170
+JW3601	rfaJ	glucose:(galactosyl)lipopolysaccharide		-0,15	1	1	53
+JW3598	rfaK	lipopolysaccharide core biosynthesis	GO:0019866 inner membrane	-0,18	1	0	249
+JW3605	rfaP		GO:0019866 inner membrane	-0,28	1	0	57
+JW3604	rfaS		GO:0019866 inner membrane	1,00	0	4	
+JW3600	rfaY		GO:0019866 inner membrane	-0,52	1	0	123
+JW3599	rfaZ		GO:0019866 inner membrane	-0,25	1	0	50
+JW2024	rfbA		GO:0005737 cytoplasm	-0,19	0	0	896
+JW2026	rfbB			0,00	0	19	
+JW2023	rfbC	dTDP-4-deoxyrhamnose-3,5-epimerase		-0,20	0	0	191
+JW2025	rfbD	subunit, NAD(P)-binding, of dTDP-L-	GO:0005737 cytoplasm	0,00	0	10	
+JW2022	rfbX			0,92	1	10	72
+JW3758	rfe			0,77	1	11	50
+JW3765	rffA		0	0,00	0	8	
+JW5599	rffD			0,07	1	0	389
+JW5600	rffE	UDP-N-acetyl glucosamine-2-epimerase	GO:0005737 cytoplasm	-0,15	0	0	444
+JW5598	rffG	dTDP-glucose 4,6-dehydratase	0	0,00	0	6	
+JW3763	rffH			-0,19	0	0	493
+JW3770	rffM			-0,32	0	0	321
+JW5596	rffT	TDP-Fuc4NAc:lipidII transferase	0	0,00	0	7	
+JW3753	rhlB	ATP-dependent RNA helicase		-0,35	0	0	927
+JW0781	rhlE	RNA helicase		-0,51	0	0	205
+JW3756	rho	transcription termination factor	GO:0005737 cytoplasm	-0,30	0	0	1742
+JW0689	rhsC	rhsC element core protein RshC		-0,72	0	0	29
+JW0486	rhsD	rhsD element protein		-0,72	0	0	93
+JW1269	ribA	GTP cyclohydrolase II	0	0,00	0	10	
+JW3009	ribB			-0,15	0	0	477
+JW1654	ribC	riboflavin synthase, alpha subunit	0	0,00	0	12	
+JW0404	ribD			-0,23	0	0	985
+JW0405	ribE	riboflavin synthase beta chain	0	1,00	0	7	
+JW0023	ribF		GO:0005737 cytoplasm	-0,07	0	0	375
+JW0646	rihA	ribonucleoside hydrolase 1		0,11	1	0	89
+JW0028	rihC	ribonucleoside hydrolase 3		0,29	1	0	374
+JW4335	rimI		(sensu Bacteria) -!- GO:0005737	-0,18	0	0	246
+JW1053	rimJ		(sensu Bacteria) -!- GO:0005737	-0,52	0	0	289
+JW0836	rimK		(sensu Bacteria) -!- GO:0005737	0,02	1	0	28
+JW1423	rimL		(sensu Bacteria) -!- GO:0005737	-0,37	0	0	272
+JW5413	rimM	16S rRNA processing protein		-0,29	0	0	549
+JW4138	rlmB	23S rRNA (Gm2251)-methyltransferase		-0,03	0	0	373
+JW0628	rlpA	minor lipoprotein		-0,25	1	0	281
+JW0636	rlpB	minor lipoprotein	GO:0019866 inner membrane	-0,25	1	0	441
+JW0057	rluA		0	0,00	0	3	
+JW1261	rluB	23S rRNA pseudouridylate synthase		-0,59	0	0	465
+JW1072	rluC	23S rRNA pseudouridylate synthase	GO:0005737 cytoplasm	0,00	0	15	
+JW2576	rluD	23S rRNA pseudouridine synthase	GO:0005737 cytoplasm	-0,42	0	0	576
+JW0936	rmf	ribosome modulation factor	(sensu Bacteria) -!- GO:0005737	-1,14	0	0	179
+JW3809	rmuC	predicted recombination limiting protein		-0,65	1	1	321
+JW0603	rna	ribonuclease I	GO:0005737 cytoplasm	-0,41	0	0	412
+JW1279	rnb	ribonuclease II		-0,28	0	0	1387
+JW2551	rnc	RNase III		-0,45	0	0	489
+JW1793	rnd	ribonuclease D	GO:0005737 cytoplasm	-0,15	0	0	55
+JW1071	rne		GO:0005737 cytoplasm	-0,65	0	0	2493
+JW3216	rng	ribonuclease G	GO:0005737 cytoplasm	-0,28	0	0	612
+JW0204	rnhA		GO:0005737 cytoplasm	-0,63	0	0	142
+JW0178	rnhB		GO:0005737 cytoplasm	-0,01	0	0	94
+JW0602	rnk	regulator of nucleoside diphosphate		-0,03	0	0	247
+JW3681	rnpA	protein C5 component of RNase P	GO:0005737 cytoplasm	0,00	0	3	
+JW5741	rnr	exoribonuclease R, RNase R		-0,55	0	0	2137
+JW1644	rnt	ribonuclease T (RNase T)	0	0,00	0	6	
+JW4359	rob	DNA-binding transcriptional activator	GO:0005737 cytoplasm	-0,36	0	0	651
+JW0184	rof		GO:0005737 cytoplasm	0,00	0	3	
+JW3349	rpe	D-ribulose-5-phosphate 3-epimerase		0,07	1	0	21
+JW5475	rpiA	ribosephosphate isomerase, constitutive		0,23	1	0	611
+JW4050	rpiR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	0,07	1	0	74
+JW3947	rplA	50S ribosomal subunit protein L1	(sensu Bacteria) -!- GO:0005737	0,00	0	15	
+JW3279	rplB	50S ribosomal subunit protein L2	(sensu Bacteria) -!- GO:0005737	0,00	0	14	
+JW3282	rplC	50S ribosomal subunit protein L3	(sensu Bacteria) -!- GO:0005737	-0,24	0	0	693
+JW3281	rplD	50S ribosomal subunit protein L4	(sensu Bacteria) -!- GO:0005737	-0,24	0	0	559
+JW3270	rplE	50S ribosomal subunit protein L5	(sensu Bacteria) -!- GO:0005737	-0,28	0	0	820
+JW3267	rplF	50S ribosomal subunit protein L6	(sensu Bacteria) -!- GO:0005737	-0,23	0	0	799
+JW4161	rplI	50S ribosomal subunit protein L9	(sensu Bacteria) -!- GO:0005737	1,00	0	13	
+JW3948	rplJ	50S ribosomal subunit protein L10	(sensu Bacteria) -!- GO:0005737	0,05	1	0	762
+JW3946	rplK	50S ribosomal subunit protein L11	(sensu Bacteria) -!- GO:0005737	-0,06	0	0	446
+JW3949	rplL	50S ribosomal subunit protein L7/L12	(sensu Bacteria) -!- GO:0005737	0,30	1	0	550
+JW3200	rplM	50S ribosomal subunit protein L13	(sensu Bacteria) -!- GO:0005737	-0,54	0	0	613
+JW3272	rplN	50S ribosomal subunit protein L14	(sensu Bacteria) -!- GO:0005737	0,00	0	8	
+JW3263	rplO	50S ribosomal subunit protein L15	(sensu Bacteria) -!- GO:0005737	-0,25	0	0	637
+JW3275	rplP	50S ribosomal subunit protein L16	(sensu Bacteria) -!- GO:0005737	0,00	0	3	
+JW3256	rplQ	50S ribosomal subunit protein L17	(sensu Bacteria) -!- GO:0005737	-0,57	0	0	440
+JW3266	rplR	50S ribosomal subunit protein L18	(sensu Bacteria) -!- GO:0005737	0,00	0	6	
+JW2587	rplS	50S ribosomal subunit protein L19	(sensu Bacteria) -!- GO:0005737	-0,53	0	0	550
+JW1706	rplT	50S ribosomal subunit protein L20	(sensu Bacteria) -!- GO:0005737	-0,34	0	0	377
+JW3153	rplU	50S ribosomal subunit protein L21	(sensu Bacteria) -!- GO:0005737	-0,37	0	0	367
+JW3277	rplV	50S ribosomal subunit protein L22	(sensu Bacteria) -!- GO:0005737	-0,35	0	0	460
+JW3280	rplW	50S ribosomal subunit protein L23	(sensu Bacteria) -!- GO:0005737	-0,37	0	0	262
+JW3271	rplX	50S ribosomal subunit protein L24	(sensu Bacteria) -!- GO:0005737	0,00	0	8	
+JW2173	rplY	50S ribosomal subunit protein L25	(sensu Bacteria) -!- GO:0005737	-0,47	0	0	484
+JW3152	rpmA	50S ribosomal subunit protein L27	(sensu Bacteria) -!- GO:0005737	-0,64	0	0	322
+JW3612	rpmB	50S ribosomal subunit protein L28	(sensu Bacteria) -!- GO:0005737	-0,65	0	0	256
+JW3274	rpmC	50S ribosomal subunit protein L29	(sensu Bacteria) -!- GO:0005737	-0,66	0	0	232
+JW3264	rpmD	50S ribosomal subunit protein L30	(sensu Bacteria) -!- GO:0005737	-0,14	0	0	320
+JW3907	rpmE	50S ribosomal subunit protein L31	(sensu Bacteria) -!- GO:0005737	-0,65	0	0	372
+JW1075	rpmF	50S ribosomal subunit protein L32	(sensu Bacteria) -!- GO:0005737	-0,97	0	0	287	
+JW3611	rpmG	50S ribosomal subunit protein L33	(sensu Bacteria) -!- GO:0005737	-0,80	0	0	164	
+JW1707	rpmI	50S ribosomal subunit protein L35	(sensu Bacteria) -!- GO:0005737	0,00	0	1		
+JW3261	rpmJ	50S ribosomal subunit protein L36	(sensu Bacteria) -!- GO:0005737	-0,61	0	0	48	
+JW3257	rpoA	RNA polymerase, alpha subunit	GO:0005737 cytoplasm	0,00	0	18		
+JW3950	rpoB	RNA polymerase, beta subunit	GO:0005737 cytoplasm	-0,39	0	0	68	5260
+JW3951	rpoC	RNA polymerase, beta prime subunit	GO:0005737 cytoplasm	-0,24	0	0	76	5523
+JW3039	rpoD		GO:0005737 cytoplasm	-0,59	0	0	1413	
+JW2557	rpoE		GO:0005737 cytoplasm	-0,25	0	0	176	
+JW3426	rpoH		GO:0005737 cytoplasm	-0,50	0	0	167	
+JW3169	rpoN			-0,44	0	0	489	
+JW5437	rpoS		GO:0005737 cytoplasm	0,00	0	14		
+JW3624	rpoZ	RNA polymerase, omega subunit	GO:0005737 cytoplasm	-0,52	0	0	654	
+JW0894	rpsA	30S ribosomal subunit protein S1	(sensu Bacteria) -!- GO:0005737	-0,30	0	0	39	3008
+JW0164	rpsB	30S ribosomal subunit protein S2	(sensu Bacteria) -!- GO:0005737	0,00	0	13		
+JW3276	rpsC	30S ribosomal subunit protein S3	(sensu Bacteria) -!- GO:0005737	0,00	0	14		
+JW3258	rpsD	30S ribosomal subunit protein S4	(sensu Bacteria) -!- GO:0005737	-0,66	0	0	898
+JW3265	rpsE	30S ribosomal subunit protein S5	(sensu Bacteria) -!- GO:0005737	0,00	0	14	
+JW4158	rpsF	30S ribosomal subunit protein S6	(sensu Bacteria) -!- GO:0005737	0,00	0	9	
+JW3303	rpsG	30S ribosomal subunit protein S7	(sensu Bacteria) -!- GO:0005737	-0,46	0	0	755
+JW3268	rpsH	30S ribosomal subunit protein S8	(sensu Bacteria) -!- GO:0005737	-0,10	0	0	627
+JW3199	rpsI	30S ribosomal subunit protein S9	(sensu Bacteria) -!- GO:0005737	-0,69	0	0	445
+JW3283	rpsJ	30S ribosomal subunit protein S10	(sensu Bacteria) -!- GO:0005737	0,00	0	6	
+JW3259	rpsK	30S ribosomal subunit protein S11	(sensu Bacteria) -!- GO:0005737	-0,45	0	0	408
+JW3304	rpsL	30S ribosomal subunit protein S12	(sensu Bacteria) -!- GO:0005737	-0,62	0	0	372
+JW3260	rpsM	30S ribosomal subunit protein S13	(sensu Bacteria) -!- GO:0005737	0,00	0	10	
+JW3269	rpsN	30S ribosomal subunit protein S14	(sensu Bacteria) -!- GO:0005737	-0,80	0	0	284
+JW3134	rpsO	30S ribosomal subunit protein S15	(sensu Bacteria) -!- GO:0005737	-0,67	0	0	272
+JW2590	rpsP	30S ribosomal subunit protein S16	(sensu Bacteria) -!- GO:0005737	-0,33	0	0	250
+JW3273	rpsQ	30S ribosomal subunit protein S17	(sensu Bacteria) -!- GO:0005737	-0,29	0	0	231
+JW4160	rpsR	30S ribosomal subunit protein S18	(sensu Bacteria) -!- GO:0005737	0,00	0	3	
+JW3278	rpsS	30S ribosomal subunit protein S19	(sensu Bacteria) -!- GO:0005737	-0,62	0	0	346
+JW0022	rpsT	30S ribosomal subunit protein S20	(sensu Bacteria) -!- GO:0005737	0,00	0	3	
+JW3037	rpsU	30S ribosomal subunit protein S21	(sensu Bacteria) -!- GO:0005737	0,00	0	4	
+JW3900	rraA	ribonuclease E (RNase E) inhibitor		0,05	1	0	456
+JW1811	rrmA	23S rRNA m1G745 methyltransferase	GO:0005737 cytoplasm	-0,28	0	0	234
+JW3146	rrmJ	23S rRNA methyltransferase		-0,24	0	0	248
+JW3959	rsd		GO:0005737 cytoplasm	0,00	0	5	
+JW2556	rseA	anti-sigma factor	GO:0005737 cytoplasm	-0,60	0	0	243
+JW2555	rseB	anti-sigma factor	GO:0005737 cytoplasm	-0,26	0	0	563
+JW4122	rsgA			-0,41	0	0	579
+JW3250	rsmB		GO:0005737 cytoplasm	-0,39	0	0	915
+JW4333	rsmC	16S RNA m2G1207 methylase	GO:0005737 cytoplasm	-0,11	0	0	713
+JW1573	rspA	predicted dehydratase		-0,30	0	0	61
+JW1222	rssA	conserved protein	GO:0009274 cell wall (sensu	0,08	1	0	165
+JW1223	rssB	response regulator of RpoS	GO:0005737 cytoplasm	0,07	1	0	154
+JW1600	rstA		GO:0005737 cytoplasm	0,00	0	7	
+JW1601	rstB			1,00	2	3	
+JW2171	rsuA		(sensu Bacteria) -!- GO:0005737	-0,36	0	0	447
+JW1621	rsxC			-0,42	1	0	94
+JW1623	rsxG	predicted oxidoreductase		-0,13	0	0	143
+JW5688	rtcA	RNA 3'-terminal phosphate cyclase	GO:0005737 cytoplasm	0,13	1	0	30
+JW3384	rtcB	conserved protein	0	0,00	0	3	
+JW3385	rtcR		GO:0005737 cytoplasm	-0,36	0	0	43
+JW2164	rtn	conserved protein		0,11	1	2	41
+JW2756	rumA	23S rRNA (uracil-5)-methyltransferase		-0,23	0	0	242
+JW1850	ruvA		GO:0005737 cytoplasm	0,06	1	0	96
+JW1849	ruvB		GO:0005737 cytoplasm	-0,09	0	0	378
+JW2132	sanA	predicted protein		0,01	1	1	116
+JW1287	sapA	transporter subunit -!- periplasmic-	GO:0042597 periplasmic space	-0,32	0	0	554
+JW1286	sapB	transporter subunit -!- membrane	Bacteria) -!- GO:0019866 inner	0,74	1	5	93
+JW1285	sapC	transporter subunit -!- membrane	Bacteria) -!- GO:0019866 inner	0,75	1	5	28
+JW1284	sapD	transporter subunit -!- ATP-binding	GO:0005737 cytoplasm	0,00	0	5	
+JW1283	sapF	transporter subunit -!- ATP-binding	GO:0005737 cytoplasm	-0,24	0	0	234
+JW1993	sbcB	exonuclease I	0	0,00	0	13		
+JW0387	sbcC	exonuclease, dsDNA, ATP-dependent	GO:0005737 cytoplasm	-0,64	0	0	421	
+JW0388	sbcD	exonuclease, dsDNA, ATP-dependent	GO:0005737 cytoplasm	-0,24	0	0	163	
+JW0368	sbmA	predicted transporter		0,54	1	8	84	
+JW1991	sbmC	DNA gyrase inhibitor	GO:0005737 cytoplasm	0,00	0	4		
+JW1803	sdaA	L-serine deaminase I		-0,05	0	0	983	
+JW2768	sdaB	L-serine deaminase II	0	1,00	0	11		
+JW2767	sdaC	predicted serine transporter		0,81	1	11	177	
+JW0713	sdhA		GO:0005737 cytoplasm	-0,32	0	0	2450	
+JW0714	sdhB	succinate dehydrogenase, FeS subunit	GO:0005737 cytoplasm	0,00	0	15		
+JW0711	sdhC			0,84	1	3	130	
+JW0712	sdhD			1,37	1	3	175	
+JW0096	secA	that targets protein precursors to the	GO:0005737 cytoplasm	-0,47	0	0	44	2926
+JW3584	secB	protein export chaperone	GO:0005737 cytoplasm	-0,19	0	0	337	
+JW0398	secD			0,12	1	6	1208	
+JW3944	secE			0,88	1	3	35	
+JW0399	secF			0,40	1	6	374
+JW3142	secG			0,38	1	2	155
+JW5007	secM	regulator of secA translation		-0,28	1	1	28
+JW3262	secY			0,60	1	10	385
+JW3564	selA	selenocysteine synthase	GO:0005737 cytoplasm	0,00	0	20	
+JW3563	selB		GO:0005737 cytoplasm	0,00	0	23	
+JW1753	selD	selenophosphate synthase	GO:0005737 cytoplasm	0,07	1	0	914
+JW0674	seqA			1,00	0	9	
+JW2880	serA	D-3-phosphoglycerate dehydrogenase	GO:0005737 cytoplasm	0,03	1	0	647
+JW4351	serB	3-phosphoserine phosphatase	GO:0005737 cytoplasm	0,09	1	0	286
+JW0890	serC	phosphoserine/phosphohydroxythreonin	GO:0005737 cytoplasm	-0,11	0	0	1313
+JW0876	serS		GO:0005737 cytoplasm	-0,45	0	0	1531
+JW5238	sfcA			-0,18	0	0	1738
+JW0142	sfsA			-0,34	0	0	260
+JW3553	sgbH			0,03	1	0	21
+JW4264	sgcA	phosphotransferase enzyme IIA	0	1,00	0	2	
+JW5967	sgcB	predicted enzyme IIB component of	GO:0005737 cytoplasm	0,15	1	0	28
+JW5776	sgcX	endoglucanase with Zn-dependent		0,01	1	0	96
+JW0068	sgrR	DNA-binding transcriptional regulator	GO:0042597 periplasmic space	-0,32	0	0	22
+JW2337	sixA	phosphohistidine phosphatase		0,20	1	0	84
+JW3474	slp	outer membrane lipoprotein		-0,14	1	0	546
+JW4355	slt	lytic murein transglycosylase, soluble		-0,50	0	0	1229
+JW5267	slyA	DNA-binding transcriptional activator	GO:0005737 cytoplasm	-0,28	0	0	490
+JW1633	slyB	outer membrane lipoprotein		0,11	1	0	501
+JW3311	slyD		0	0,00	0	5	
+JW3310	slyX	conserved protein		-0,48	0	0	227
+JW2598	smpA	small membrane lipoprotein		-0,09	1	0	90
+JW2601	smpB	trans-translation protein	0	0,00	0	4	
+JW0904	smtA			-0,40	0	0	253
+JW3879	sodA	superoxide dismutase, Mn	GO:0005737 cytoplasm	-0,43	0	0	794
+JW1648	sodB	superoxide dismutase, Fe	GO:0005737 cytoplasm	0,00	0	11	
+JW1638	sodC	superoxide dismutase, Cu, Zn	GO:0042597 periplasmic space	-0,28	0	0	364
+JW3098	sohA	predicted regulator		-0,58	0	0	188
+JW1264	sohB	predicted inner membrane peptidase		-0,35	1	2	644
+JW1046	solA	N-methyltryptophan oxidase, FAD-	0	0,00	0	11	
+JW2905	speA		GO:0042597 periplasmic space	-0,30	0	0	1359
+JW2904	speB	agmatinase		-0,11	0	0	58
+JW5482	speC	ornithine decarboxylase, constitutive		-0,16	0	0	205
+JW0116	speD	S-adenosylmethionine decarboxylase		-0,31	0	0	477
+JW0117	speE		0	0,00	0	7	
+JW0680	speF	ornithine decarboxylase isozyme,		-0,24	0	0	24
+JW1576	speG	spermidine N1-acetyltransferase		-0,44	0	0	447
+JW3625	spoT	guanosine-3',5'-bis pyrophosphate 3'-	GO:0005737 cytoplasm	-0,33	0	0	881
+JW1755	sppA	protease IV (signal peptide peptidase)		-0,11	1	1	426
+JW2911	sprT	conserved protein		-0,52	0	0	44
+JW1732	spy		GO:0042597 periplasmic space	-0,76	0	0	442
+JW5962	sra	30S ribosomal subunit protein S22	(sensu Bacteria) -!- GO:0005737	-1,27	0	0	166
+JW2674	srlD	sorbitol-6-phosphate dehydrogenase		0,13	1	0	452
+JW5430	srlE			0,48	1	4	108	
+JW2676	srlR	DNA-bindng transcriptional repressor	GO:0005737 cytoplasm	-0,13	0	0	114	
+JW2560	srmB	ATP-dependent RNA helicase	(sensu Bacteria) -!- GO:0005737	0,00	0	20		
+JW4020	ssb	Single-stranded DNA-binding protein	GO:0005737 cytoplasm	-0,71	0	0	422	
+JW2505	sseA	3-mercaptopyruvate sulfurtransferase		-0,08	0	0	802	
+JW5404	sseB		0	0,00	0	2		
+JW3198	sspA	stringent starvation protein A	GO:0005737 cytoplasm	0,00	0	9		
+JW3197	sspB			-0,43	0	0	192	
+JW0919	ssuA	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,08	0	0	36	
+JW0916	ssuB	ATP-binding component of ABC	GO:0005737 cytoplasm	-0,01	0	0	31	
+JW1366	stfR	"Rac prophage; predicted tail fiber"		-0,33	0	0	44	
+JW5551	sthA		GO:0005737 cytoplasm	-0,23	0	0	1703	
+JW2644	stpA	DNA binding protein, nucleoid-	GO:0005737 cytoplasm	-0,79	0	0	422	
+JW0715	sucA			-0,44	0	0	44	3006
+JW0716	sucB	dihydrolipoyltranssuccinase		-0,22	0	0	1013	
+JW0717	sucC	succinyl-CoA synthetase, beta subunit		0,02	1	0	1918	
+JW0718	sucD			0,16	1	0	1215
+JW1674	sufA	Fe-S cluster assembly protein		-0,10	0	0	383
+JW5273	sufB	component of SufBCD complex		-0,30	0	0	1008
+JW1672	sufC		GO:0005737 cytoplasm	0,00	0	14	
+JW1671	sufD	component of SufBCD complex	0	0,00	0	10	
+JW1669	sufE	sulfur acceptor protein	0	0,00	0	5	
+JW2985	sufI	repressor protein for FtsI		-0,18	0	0	427
+JW1670	sufS	selenocysteine lyase, PLP-dependent		0,00	0	0	663
+JW2517	suhB	inositol monophosphatase	GO:0005737 cytoplasm	0,00	0	16	
+JW0052	surA			-0,38	1	0	1360
+JW2714	surE			-0,08	0	0	320
+JW2764	syd	predicted protein	GO:0005737 cytoplasm	-0,28	0	0	284
+JW2543	tadA	tRNA-specific adenosine deaminase	0	0,00	0	2	
+JW3518	tag		GO:0005737 cytoplasm	-0,28	0	0	59
+JW2448	talA	transaldolase A		-0,32	0	0	1425
+JW0007	talB	transaldolase B	GO:0005737 cytoplasm	-0,21	0	0	1593
+JW1512	tam	trans-aconitate methyltransferase	GO:0005737 cytoplasm	-0,25	0	0	571
+JW2802	tas			-0,32	0	0	716
+JW3813	tatA		0	1,00	1	3	
+JW5580	tatB			-0,38	1	1	258
+JW3815	tatC			0,75	1	6	92
+JW5931	tatD	DNase, magnesium-dependent	GO:0005737 cytoplasm	-0,16	0	0	52
+JW0358	tauB		GO:0005737 cytoplasm	-0,03	0	0	41
+JW0067	tbpA		GO:0042597 periplasmic space	-0,18	0	0	461
+JW3089	tdcA	DNA-binding transcriptional activator	GO:0005737 cytoplasm	0,09	1	0	31
+JW5522	tdcE		GO:0005737 cytoplasm	-0,29	0	0	911
+JW5521	tdcF	predicted L-PSP (mRNA)		0,12	1	0	189
+JW5520	tdcG	L-serine dehydratase 3		0,07	1	0	47
+JW3591	tdh		0	1,00	0	11	
+JW1226	tdk	thymidine kinase/deoxyuridine kinase		-0,32	0	0	485
+JW1426	tehB			-0,38	0	0	413
+JW0483	tesA		GO:0042597 periplasmic space	-0,20	1	1	607
+JW0442	tesB	acyl-CoA thioesterase II	0	0,00	0	7	
+JW0396	tgt	tRNA-guanine transglycosylase	GO:0005737 cytoplasm	0,00	0	15	
+JW2090	thiD	kinase -!- hydroxy-		-0,04	0	0	63
+JW3957	thiE			0,03	1	0	40
+JW3956	thiF			-0,04	1	1	31
+JW3953	thiH			-0,47	0	0	25
+JW0413	thiI		0	0,00	0	19	
+JW0407	thiL	thiamin-monophosphate kinase		0,08	1	0	391
+JW0065	thiQ			1,00	0	2	
+JW0001	thrA		GO:0005737 cytoplasm	0,04	1	0	1374
+JW0002	thrB	homoserine kinase	GO:0005737 cytoplasm	0,02	1	0	158
+JW0003	thrC	threonine synthase	GO:0005737 cytoplasm	0,00	0	14	
+JW1709	thrS	threonyl-tRNA synthetase	GO:0005737 cytoplasm	-0,49	0	0	2129
+JW2795	thyA	thymidylate synthetase	GO:0005737 cytoplasm	-0,38	0	0	495
+JW5656	tiaE		GO:0005737 cytoplasm	0,01	1	0	759
+JW0426	tig		GO:0005737 cytoplasm	-0,43	0	0	2097
+JW0183	tilS	tRNA(Ile)-lysidine synthetase		-0,13	0	0	226
+JW5478	tktA	transketolase 1, thiamin-binding		-0,23	0	0	1535
+JW2449	tktB	transketolase 2, thiamin-binding		-0,31	0	0	2316
+JW3213	tldD	predicted peptidase		-0,12	0	0	778
+JW1084	tmk	thymidylate kinase		-0,20	0	0	494
+JW3686	tnaA			-0,22	0	0	2424
+JW5622	tnaB	tryptophan transporter of low affinity		0,72	1	7	119
+JW3685	tnaC	tryptophanase leader peptide		-0,12	0	0	20
+JW0729	tolA			-0,61	1	1	261
+JW5100	tolB	periplasmic protein	GO:0042597 periplasmic space	-0,22	0	0	1326
+JW5503	tolC	transport channel		1,00	0	7	
+JW0727	tolQ			0,23	1	3	181
+JW0728	tolR			0,20	1	1	93
+JW1266	topA	DNA topoisomerase I, omega subunit	GO:0005737 cytoplasm	-0,61	0	0	2246
+JW1752	topB	DNA topoisomerase III	GO:0005737 cytoplasm	-0,37	0	0	131
+JW0980	torR		GO:0005737 cytoplasm	-0,18	0	0	59
+JW5135	torS			-0,15	1	2	27
+JW3890	tpiA	triosephosphate isomerase		0,01	1	0	1267
+JW1219	tpr	predicted protamine-like protein	GO:0005737 cytoplasm	-1,92	0	0	26
+JW1317	tpx	lipid hydroperoxide peroxidase	GO:0042597 periplasmic space	0,26	1	0	820
+JW1186	treA	periplasmic trehalase	GO:0042597 periplasmic space	-0,58	0	0	1493
+JW4199	treB			0,65	1	10	390
+JW4198	treC	trehalose-6-P hydrolase	GO:0005737 cytoplasm	-0,56	0	0	1281
+JW3487	treF	cytoplasmic trehalase	GO:0005737 cytoplasm	0,00	0	6	
+JW4200	treR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,09	0	0	85
+JW3251	trkA			-0,02	1	0	466
+JW3937	trmA	tRNA (uracil-5-)-methyltransferase	GO:0005737 cytoplasm	-0,32	0	0	265
+JW5380	trmC	thiouridine forming enzyme		-0,28	0	0	146
+JW2588	trmD	tRNA (guanine-1-)-methyltransferase	GO:0005737 cytoplasm	-0,31	0	0	232
+JW3684	trmE	GTPase	0	0,00	0	19	
+JW3626	trmH	tRNA (Guanosine-2'-O-)-		-0,22	0	0	204
+JW1119	trmU		GO:0005737 cytoplasm	-0,29	0	0	625
+JW1252	trpA	tryptophan synthase, alpha subunit	GO:0005737 cytoplasm	1,00	0	12	
+JW1253	trpB	tryptophan synthase, beta subunit	GO:0005737 cytoplasm	-0,19	0	0	880
+JW1254	trpC	synthetase -!- N-(5-	GO:0005737 cytoplasm	-0,03	0	0	466
+JW1255	trpD	(component II) of anthranilate synthase	GO:0005737 cytoplasm	0,00	0	5	
+JW1256	trpE	component I of anthranilate synthase		-0,19	0	0	309
+JW4356	trpR		GO:0005737 cytoplasm	0,00	0	7	
+JW3347	trpS	tryptophanyl-tRNA synthetase	GO:0005737 cytoplasm	0,00	0	16	
+JW2315	truA	pseudouridylate synthase I	GO:0005737 cytoplasm	-0,31	0	0	115
+JW3135	truB	tRNA pseudouridine synthase	GO:0005737 cytoplasm	-0,37	0	0	415
+JW2715	truD	pseudoruidine synthase		-0,27	0	0	612
+JW5856	trxA	thioredoxin 1		0,03	1	0	372
+JW0871	trxB		GO:0005737 cytoplasm	0,00	0	12	
+JW2566	trxC	thioredoxin 2		-0,20	0	0	417
+JW0165	tsf	protein chain elongation factor EF-Ts	GO:0005737 cytoplasm	-0,12	0	0	1821
+JW0401	tsx			1,00	0	8	
+JW5641	ttk	division inhibitor		-0,31	0	0	249
+JW3301	tufA		GO:0005737 cytoplasm	-0,20	0	0	1859
+JW1602	tus		GO:0005737 cytoplasm	-0,47	0	0	157
+JW1381	tynA	tyramine oxidase, copper-requiring	GO:0042597 periplasmic space	-0,39	0	0	42
+JW2581	tyrA		GO:0005737 cytoplasm	-0,09	0	0	238
+JW4014	tyrB		GO:0005737 cytoplasm	0,01	1	0	997
+JW1316	tyrR		GO:0005737 cytoplasm	-0,21	0	0	666
+JW1629	tyrS	tyrosyl-tRNA synthetase	GO:0005737 cytoplasm	-0,33	0	0	1012
+JW4000	ubiA			0,69	1	7	60
+JW3812	ubiB	2-octaprenylphenol hydroxylase		-0,14	1	2	129
+JW5713	ubiC	chorismate pyruvate lyase	GO:0005737 cytoplasm	-0,16	0	0	96
+JW3819	ubiD			-0,25	0	0	896
+JW5581	ubiE		0	0,00	0	12	
+JW0659	ubiF			0,03	1	0	791
+JW2226	ubiG	methyltransferase -!- 2-octaprenyl-6-	Bacteria) -!- GO:0019866 inner	-0,23	1	0	625
+JW2875	ubiH			0,02	1	0	279
+JW5394	ucpA		0	1,00	0	14	
+JW2051	udk	uridine/cytidine kinase	0	0,00	0	9	
+JW3808	udp	uridine phosphorylase		0,02	1	0	384
+JW3418	ugpB	subunit -!- periplasmic-binding	GO:0042597 periplasmic space	-0,50	0	0	1222
+JW3415	ugpC	subunit -!- ATP-binding component of	GO:0005737 cytoplasm	-0,22	0	0	129
+JW3414	ugpQ		GO:0005737 cytoplasm	0,00	0	4	
+JW3644	uhpA		GO:0005737 cytoplasm	0,18	1	0	168
+JW3643	uhpB			0,27	1	7	29
+JW1609	uidA	beta-D-glucuronidase		-0,38	0	0	128
+JW1607	uidC	predicted outer membrane porin protein		-0,33	1	1	32
+JW1610	uidR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	-0,04	0	0	168
+JW4152	ulaB			0,09	1	0	125
+JW4154	ulaD			0,10	1	0	97
+JW4149	ulaR	DNA-binding transriptional dual		-0,18	0	0	201
+JW2564	ung	uracil-DNA-glycosylase	GO:0005737 cytoplasm	-0,28	0	0	565
+JW2483	upp	uracil phosphoribosyltransferase		0,07	1	0	896
+JW2596	uppS	NAD kinase		-0,07	0	0	255
+JW2482	uraA	uracil transporter		1,05	1	12	38
+JW2316	usg	predicted semialdehyde dehydrogenase		0,06	1	0	711
+JW0469	ushA		GO:0005737 cytoplasm	-0,41	0	0	1216
+JW3462	uspA	universal stress global response	GO:0005737 cytoplasm	-0,06	0	0	391
+JW1327	uspE	stress-induced protein	0	0,00	0	18	
+JW1370	uspF		0	1,00	0	8	
+JW0600	uspG	universal stress protein UP12	0	0,00	0	10	
+JW0932	uup	ATP-binding components of ABC	GO:0005737 cytoplasm	-0,47	0	0	899
+JW4019	uvrA	protein of nucleotide excision repair	GO:0005737 cytoplasm	-0,29	0	0	1971
+JW0762	uvrB		GO:0005737 cytoplasm	-0,36	0	0	1342
+JW1898	uvrC		GO:0005737 cytoplasm	-0,34	0	0	267
+JW3786	uvrD	DNA-dependent ATPase I and helicase	GO:0005737 cytoplasm	0,00	0	18	
+JW1899	uvrY		0	0,00	0	7	
+JW3062	uxaA	altronate hydrolase	0	0,00	0	5	
+JW1514	uxaB	altronate oxidoreductase, NAD-		-0,19	0	0	97
+JW3063	uxaC	uronate isomerase		-0,43	0	0	1285
+JW4285	uxuA	mannonate hydrolase	0	0,00	0	20	
+JW4286	uxuB	D-mannonate oxidoreductase, NAD-	0	0,00	0	15	
+JW4287	uxuR	DNA-binding transcriptional repressor	GO:0005737 cytoplasm	0,00	0	6	
+JW2343	vacJ	predicted lipoprotein		-0,29	1	0	341
+JW4215	valS	valyl-tRNA synthetase	GO:0005737 cytoplasm	-0,38	0	0	2731
+JW2874	visC			-0,13	0	0	423
+JW1943	vsr			-0,36	0	0	31
+JW2019	wbbI	conserved protein		-0,20	0	0	623
+JW2018	wbbJ	predicted acyl transferase		0,10	1	0	144
+JW2017	wbbK	lipopolysaccharide biosynthesis protein		-0,16	0	0	573
+JW2030	wcaK	predicted pyruvyl transferase		-0,02	0	0	52
+JW2029	wcaL	predicted glycosyl transferase		-0,11	0	0	63
+JW0989	wrbA	predicted flavoprotein in Trp regulation	GO:0005737 cytoplasm	-0,08	0	0	786
+JW2047	wza	polysaccharide translocation through		-0,22	0	0	27
+JW5601	wzzE	polysaccharide chain length modulation	GO:0019866 inner membrane	-0,35	1	2	557
+JW2835	xdhB			-0,12	0	0	128
+JW2849	xdhD	oxidase, molybdopterin-binding subunit		-0,13	0	0	36
+JW3784	xerC	site-specific tyrosine recombinase		-0,38	0	0	179
+JW2862	xerD	site-specific tyrosine recombinase	0	0,00	0	4	
+JW2493	xseA	exonuclease VII, large subunit		-0,53	0	0	395
+JW0412	xseB	exonuclease VII small subunit	GO:0005737 cytoplasm	-0,74	0	0	256
+JW1738	xthA	exonuclease III	0	0,00	0	14	
+JW3537	xylA	D-xylose isomerase	GO:0005737 cytoplasm	-0,44	0	0	226
+JW3536	xylB	xylulokinase		-0,09	0	0	435
+JW3538	xylF	periplasmic-binding component of ABC	GO:0042597 periplasmic space	0,00	0	11	
+JW3541	xylR		GO:0005737 cytoplasm	-0,33	0	0	43
+JW0005	yaaA	conserved protein		-0,40	0	0	378
+JW0099	yacF	conserved protein		-0,16	0	0	558
+JW5008	yacG	conserved protein	0	0,00	0	5	
+JW0115	yacL	conserved protein		-0,47	0	0	277
+JW5892	yadB	glutamyl-Q tRNA(Asp) synthetase		-0,27	0	0	43
+JW5010	yadD	predicted transposase		-0,27	0	0	47
+JW0126	yadE			-0,28	1	1	29
+JW0123	yadG		GO:0005737 cytoplasm	-0,24	0	0	490
+JW0133	yadL	predicted fimbrial-like adhesin protein		0,15	1	1	20
+JW0152	yadR	conserved protein		-0,09	0	0	287
+JW0191	yaeB	conserved protein		-0,15	0	0	83
+JW5016	yaeF	predicted lipoprotein		-0,01	0	0	40
+JW0159	yaeH	conserved protein		-0,81	0	0	571
+JW0171	yaeL	zinc metallopeptidase	0	1,00	4	8	
+JW0185	yaeP	conserved protein	0	1,00	0	3	
+JW0186	yaeQ	conserved protein		-0,36	0	0	242
+JW0182	yaeR	predicted lyase		-0,20	0	0	244
+JW0172	yaeT	conserved protein		-0,48	1	0	2390
+JW0198	yafC			-0,12	0	0	497
+JW5017	yafD	conserved protein		-0,15	0	0	155
+JW0213	yafJ	predicted amidotransfease		-0,31	0	0	309
+JW0222	yafN			-0,65	0	0	87
+JW0203	yafS			-0,13	0	0	58
+JW5019	yafV			-0,21	0	0	443
+JW0260	yagA			-0,66	0	0	33
+JW0261	yagE	"CP4-6 prophage; predicted"		0,11	1	0	121
+JW0262	yagF	"CP4-6 prophage; predicted dehydratase"		-0,02	0	0	33
+JW0264	yagH			-0,47	0	0	391
+JW0265	yagI		0	0,00	0	6	
+JW0278	yagR		0	0,00	0	4	
+JW0279	yagS		0	0,00	0	5	
+JW0280	yagT			-0,13	0	0	45
+JW0281	yagU	conserved inner membrane protein	0	1,00	3	3	
+JW0285	yagX	predicted aromatic compound		-0,35	0	0	57
+JW0307	yahA			-0,05	0	0	89
+JW0308	yahB			-0,10	0	0	28
+JW0316	yahJ		0	0,00	0	7	
+JW0317	yahK			-0,18	0	0	1595
+JW0321	yahO	predicted protein	0	0,00	0	4	
+JW0380	yaiA	predicted protein		-1,28	0	0	244
+JW0373	yaiB	predicted protein		-0,46	0	0	191
+JW0382	yaiE	conserved protein		-0,04	0	0	182
+JW0378	yaiI	conserved protein		-0,21	0	0	224
+JW0345	yaiL		GO:0005737 cytoplasm	-0,47	0	0	315
+JW0369	yaiW		0	0,00	0	7	
+JW0397	yajC			1,00	1	4	
+JW0400	yajD	conserved protein		-0,83	0	0	186
+JW0424	yajG	predicted lipoprotein		-0,09	0	0	579
+JW5056	yajI	predicted lipoprotein		-0,13	0	0	72
+JW5057	yajL	conserved protein		0,32	1	0	425
+JW0409	yajO	predicted oxidoreductase, NAD(P)-	0	0,00	0	19	
+JW5058	yajQ	predicted nucleotide binding protein	0	0,00	0	12	
+JW5059	yajR	predicted transporter		0,69	1	12	45
+JW0445	ybaA	conserved protein		-0,39	0	0	314
+JW0460	ybaB	conserved protein		-0,47	0	0	707
+JW0403	ybaD	conserved protein		-0,40	0	0	278
+JW0470	ybaK	conserved protein	0	0,00	0	6	
+JW0467	ybaL			0,81	1	12	413
+JW0455	ybaM	predicted protein		-0,39	0	0	22
+JW0437	ybaO			0,00	0	0	33
+JW0471	ybaP	conserved protein		-0,23	0	0	21
+JW0474	ybaS	predicted glutaminase		0,06	1	0	707
+JW0475	ybaT	predicted transporter		1,04	1	12	145
+JW0432	ybaV	conserved protein	0	1,00	0	4	
+JW0433	ybaW	conserved protein	0	0,00	0	2	
+JW0434	ybaX	predicted aluminum resistance protein		-0,10	0	0	475
+JW0443	ybaY	predicted outer membrane lipoprotein	0	1,00	0	5	
+JW0444	ybaZ	predicted methyltransferase		-0,40	0	0	27
+JW0484	ybbA		GO:0005737 cytoplasm	-0,15	0	0	53
+JW0491	ybbB			-0,37	0	0	86
+JW5065	ybbJ	conserved inner membrane protein		0,37	1	3	36
+JW0478	ybbK	predicted protease, membrane	GO:0009274 cell wall (sensu	-0,02	1	1	486
+JW0479	ybbL		GO:0005737 cytoplasm	0,00	0	6	
+JW5066	ybbM	predicted inner membrane protein		0,73	1	7	117
+JW5067	ybbN			-0,24	0	0	976
+JW0482	ybbO			-0,04	0	0	189
+JW0485	ybbP	predicted inner membrane protein		0,26	1	10	326
+JW0498	ybbV	predicted protein		-0,02	1	1	29
+JW0556	ybcH	predicted protein		-0,16	1	1	142
+JW5070	ybcJ	predicted RNA-binding protein		0,10	1	0	274
+JW0533	ybcL	"DLP12 prophage; predicted kinase"		-0,12	0	0	180
+JW0548	ybcW	"DLP12 prophage; predicted protein"		-0,11	0	0	25
+JW5083	ybdF	conserved protein		-0,37	0	0	120
+JW0566	ybdG	predicted mechanosensitive channel	GO:0042597 periplasmic space	1,00	5	7	
+JW0570	ybdK	gamma-glutamyl:cysteine ligase		-0,22	0	0	662
+JW0601	ybdR			-0,01	0	0	462
+JW5090	ybeB	predicted protein		0,03	1	0	377
+JW0626	ybeD	conserved protein		-0,17	0	0	337
+JW0638	ybeL	conserved protein	0	0,00	0	10	
+JW0655	ybeX	predicteed ion transport	GO:0009274 cell wall (sensu	-0,37	0	0	923
+JW0656	ybeY	conserved protein		-0,31	0	0	60
+JW0657	ybeZ		0	0,00	0	19	
+JW5816	ybfE	LexA regulated protein		-0,91	0	0	162
+JW0673	ybfF	conserved protein	0	0,00	0	13	
+JW0695	ybfL	predicted transposase (pseudogene)		-0,32	0	0	31
+JW0697	ybgA	conserved protein	0	0,00	0	5	
+JW0726	ybgC	predicted acyl-CoA thioesterase	0	0,00	0	3	
+JW0732	ybgF	predicted protein	GO:0042597 periplasmic space	0,00	0	10	
+JW0700	ybgI	conserved metal-binding protein		-0,13	0	0	233
+JW0701	ybgJ	predicted enzyme subunit		0,02	1	0	310
+JW0702	ybgK	predicted enzyme subunit		-0,35	0	0	377
+JW0703	ybgL	predicted lactam utilization protein		0,02	1	0	171
+JW0736	ybgS	conserved protein		-0,71	0	0	316
+JW0749	ybhA	predicted hydrolase		-0,13	0	0	246
+JW0756	ybhB	predicted kinase inhibitor		-0,18	0	0	446
+JW0755	ybhC	predicted pectinesterase		-0,36	1	0	545
+JW0750	ybhE	6-phosphogluconolactonase	0	0,00	0	13	
+JW5104	ybhF	ATP-binding components of ABC	GO:0005737 cytoplasm	-0,18	0	0	90
+JW0779	ybhG	(MFP) component of efflux pump,		1,00	1	10	
+JW5103	ybhJ	predicted hydratase		-0,14	0	0	33
+JW0763	ybhK			0,04	1	0	71
+JW0769	ybhL	predicted inner membrane protein		0,82	1	7	61
+JW0772	ybhO	cardiolipin synthase 2	0	0,00	0	6	
+JW0773	ybhP	predicted DNase		-0,30	0	0	157
+JW5803	ybhR			0,39	1	6	31
+JW0783	ybiA	conserved protein		-0,76	0	0	27
+JW0785	ybiB	predicted transferase/phosphorylase		-0,17	0	0	1003
+JW0786	ybiC	predicted dehydrogenase		-0,08	0	0	564
+JW0780	ybiH		GO:0005737 cytoplasm	-0,11	0	0	286
+JW0788	ybiI	conserved protein		-0,88	0	0	186
+JW5107	ybiN			-0,38	0	0	242
+JW5108	ybiO	predicted mechanosensitive channel	0	1,00	11	3	
+JW0800	ybiP	predicted hydrolase, inner membrane	GO:0009274 cell wall (sensu	-0,12	1	4	57
+JW0803	ybiS	conserved protein		-0,12	1	1	626
+JW0804	ybiT	ATP-binding components of ABC	GO:0005737 cytoplasm	0,00	0	17	
+JW0805	ybiU	predicted protein		-0,40	0	0	199
+JW0806	ybiV	predicted hydrolase	0	0,00	0	5	
+JW0807	ybiW	predicted pyruvate formate lyase		-0,25	0	0	21
+JW5105	ybiX	conserved protein	0	0,00	0	1	
+JW0808	ybiY			-0,11	0	0	31
+JW0860	ybjD			-0,33	0	0	324
+JW5113	ybjI	conserved protein		-0,14	0	0	240
+JW0831	ybjL	predicted transporter		0,55	1	9	23
+JW0849	ybjP	predicted lipoprotein	0	0,00	0	6	
+JW0850	ybjQ	conserved protein		0,03	1	0	29
+JW0851	ybjR	predicted amidase and lipoprotein	0	0,00	0	5	
+JW5819	ybjS			-0,29	0	0	187
+JW5116	ybjT			-0,06	1	1	180
+JW0861	ybjX	conserved protein	0	0,00	0	2	
+JW0880	ycaC	predicted hydrolase		-0,13	0	0	628
+JW0875	ycaJ	recombination protein		-0,39	0	0	117
+JW0884	ycaK	conserved protein		-0,38	0	0	21
+JW0888	ycaO	conserved protein		-0,20	0	0	495
+JW0900	ycaR	conserved protein	0	0,00	0	6	
+JW0908	ycbB	predicted carboxypeptidase	0	0,00	0	13	
+JW0903	ycbC	conserved inner membrane protein	0	1,00	2	1	
+JW0939	ycbG	conserved protein	0	0,00	0	8	
+JW0902	ycbJ	conserved protein	0	0,00	0	12	
+JW0910	ycbL	predicted metal-binding enzyme	0	0,00	0	5	
+JW0922	ycbR	predicted periplasmic pilin chaperone		-0,06	0	0	42
+JW0923	ycbS	predicted outer membrane usher protein		-0,36	1	1	39
+JW5126	ycbX	predicted 2Fe-2S cluster-containing	0	0,00	0	12	
+JW0931	ycbY	predicted methyltransferase		-0,36	0	0	990
+JW0938	ycbZ	predicted peptidase		-0,16	0	0	317
+JW0964	yccC			-0,31	1	2	32
+JW0944	yccF	conserved inner membrane protein		0,78	1	3	228
+JW0988	yccJ	predicted protein		-0,65	0	0	373
+JW0952	yccK	predicted sulfite reductase subunit		-0,30	0	0	156
+JW5128	yccS	predicted inner membrane protein		0,10	1	9	51
+JW5130	yccU		0	1,00	0	8	
+JW5970	yccV	DNA-binding protein, hemimethylated		-0,40	0	0	53
+JW5898	yccW	predicted methyltransferase	0	0,00	0	14	
+JW5131	yccX	predicted acylphosphatase	0	0,00	0	6	
+JW0998	ycdC		0	1,00	0	2	
+JW1003	ycdO	conserved protein		-0,32	0	0	639
+JW1007	ycdQ	predicted glycosyl transferase		0,30	1	5	29
+JW5142	ycdR			-0,38	1	0	27
+JW5146	ycdW	2-ketoacid reductase	0	0,00	0	14	
+JW1017	ycdX	predicted zinc-binding hydrolase		-0,12	0	0	394
+JW1018	ycdY	conserved protein		-0,17	0	0	327
+JW1042	yceA	conserved protein		-0,43	0	0	34
+JW1050	yceB	predicted lipoprotein		-0,14	0	0	369
+JW1074	yceD	conserved protein		-0,19	0	0	311
+JW5155	yceF	predicted protein		-0,30	0	0	437
+JW1083	yceG	predicted aminodeoxychorismate lyase		-0,24	1	1	186
+JW1054	yceH	conserved protein		-0,42	0	0	810
+JW1043	yceI	predicted protein		-0,42	0	0	550
+JW1114	ycfD	conserved protein		-0,44	0	0	579
+JW1086	ycfH	predicted metallodependent hydrolase		-0,21	0	0	309
+JW5157	ycfM	predicted outer membrane lipoprotein		-0,22	0	0	431
+JW5158	ycfP	conserved protein		-0,59	0	0	584
+JW5159	ycfQ		0	0,00	0	3	
+JW1098	ycfR	predicted protein		0,03	1	0	23
+JW1105	ycfX			-0,07	0	0	327
+JW1177	ycgB	conserved protein		-0,61	0	0	994
+JW1149	ycgE			-0,41	0	0	144
+JW5174	ycgG	conserved inner membrane protein		0,15	1	2	39
+JW1166	ycgJ	predicted protein		-0,21	0	0	31
+JW1167	ycgK	predicted protein		-0,63	0	0	470
+JW1168	ycgL	conserved protein		-0,67	0	0	172
+JW1169	ycgM	predicted isomerase/hydrolase		-0,11	0	0	253
+JW5180	ycgN	conserved protein		-0,53	0	0	331
+JW1151	ycgZ	predicted protein		-0,36	0	0	65
+JW1194	ychF	predicted GTP-binding protein	0	0,00	0	16	
+JW1196	ychH	predicted inner membrane protein		0,00	1	2	45
+JW1221	ychJ	conserved protein	0	0,00	0	2	
+JW5189	ychM	predicted transporter		0,83	1	11	72
+JW1210	ychN	conserved protein		0,19	1	0	254
+JW5881	ychS	predicted protein		0,01	1	0	25
+JW1245	yciA	predicted hydrolase		0,12	1	0	54
+JW1247	yciC	predicted inner membrane protein	GO:0009274 cell wall (sensu	1,07	1	6	52
+JW1249	yciE	conserved protein		-0,41	0	0	611
+JW1250	yciF	conserved protein		-0,46	0	0	665
+JW1251	yciG	predicted protein		-1,67	0	0	164
+JW1274	yciH	conserved protein		-0,42	0	0	186
+JW1243	yciI	predicted enzyme		-0,03	0	0	224
+JW1263	yciK			-0,32	0	0	652
+JW1272	yciM	conserved protein		-0,37	0	0	430
+JW1265	yciN	predicted protein		-0,38	0	0	383
+JW5196	yciO	conserved protein		-0,31	0	0	409
+JW1271	yciS	conserved inner membrane protein		0,68	1	2	97
+JW1276	yciT			-0,09	0	0	439
+JW1240	yciU	predicted protein		-0,33	0	0	71
+JW1258	yciV	conserved protein		-0,30	0	0	42
+JW5200	yciW	predicted oxidoreductase		-0,22	0	0	44
+JW1315	ycjF	conserved inner membrane protein		-0,25	1	3	310
+JW1318	ycjG	L-Ala-D/L-Glu epimerase		0,09	1	0	499
+JW1308	ycjS	predicted oxidoreductase, NADH-		-0,10	0	0	33
+JW1309	ycjT	predicted hydrolase		-0,32	0	0	32
+JW1313	ycjW		GO:0042597 periplasmic space	-0,09	0	0	54
+JW1314	ycjX			-0,24	0	0	445
+JW5804	ycjY	predicted hydrolase		-0,39	0	0	409
+JW1321	ycjZ			-0,08	0	0	40
+JW1334	ydaL	conserved protein	0	0,00	0	8	
+JW1336	ydaN	predicted Zn(II) transporter		-0,05	1	2	188
+JW1338	ydaO	predicted C32 tRNA thiolase		-0,46	0	0	427
+JW1354	ydaU	"Rac prophage; conserved protein"		-0,54	0	0	30
+JW1355	ydaV			-0,48	0	0	28
+JW1402	ydbA			-0,27	0	0	22
+JW1403	ydbC	predicted oxidoreductase, NAD(P)-	0	1,00	0	13	
+JW1376	ydbH	predicted protein		-0,16	1	1	65
+JW1372	ydbK			-0,19	0	0	1991
+JW5216	ydbL	conserved protein		-0,13	1	1	146
+JW1416	ydcA	predicted protein		0,08	1	0	30
+JW1456	ydcE	4-oxalocrotonate tautomerase		-0,26	0	0	59
+JW1411	ydcF	conserved protein		-0,14	0	0	720
+JW5823	ydcH	predicted protein		-1,02	0	0	205
+JW5226	ydcI		0	0,00	0	5	
+JW1419	ydcJ	conserved protein		-0,46	0	0	763
+JW1424	ydcK	predicted enzyme		-0,03	0	0	87
+JW1427	ydcL	predicted lipoprotein		-0,27	0	0	771
+JW5228	ydcM	predicted transposase		-0,65	0	0	30
+JW1431	ydcP	predicted peptidase		-0,31	0	0	224
+JW1434	ydcR	transcriptional regulator -!- predicted		-0,19	0	0	34
+JW1435	ydcS	transporter subunit -!- periplasmic-	GO:0042597 periplasmic space	-0,32	0	0	275
+JW1436	ydcT	transporter subunit -!- ATP-binding	GO:0005737 cytoplasm	-0,12	0	0	169
+JW1439	ydcW	medium chain aldehyde dehydrogenase	0	0,00	0	14	
+JW1441	ydcY	predicted protein		-0,64	0	0	270
+JW1490	yddB	predicted porin protein		-0,58	0	0	27
+JW1459	yddE	conserved protein		-0,13	0	0	112
+JW5908	yddM			-0,16	0	0	30
+JW5241	yddV	predicted diguanylate cyclase		-0,28	0	0	162
+JW1529	ydeI	conserved protein		-0,30	0	0	468
+JW1530	ydeJ	conserved protein		0,12	1	0	436
+JW5243	ydeN	conserved protein	0	0,00	0	16	
+JW1502	ydeU	conserved protein, predicted		-0,75	0	0	34
+JW1504	ydeV	predicted sugar kinase		0,05	1	0	231
+JW1505	ydeW			0,13	1	0	385
+JW1568	ydfE	"Qin prophage; predicted protein"		-0,45	0	0	30
+JW1532	ydfG			-0,18	0	0	779
+JW1533	ydfH		0	0,00	0	5	
+JW1546	ydfQ	"Qin prophage; predicted lysozyme"		-0,40	1	1	32
+JW1551	ydfT			-0,31	0	0	61
+JW1534	ydfZ	conserved protein		-0,28	0	0	334
+JW1606	ydgA	conserved protein		-0,30	1	1	1848
+JW1590	ydgD	predicted peptidase		-0,21	0	0	83
+JW1596	ydgH	predicted protein		-0,32	0	0	1291
+JW1597	ydgI			0,97	1	13	24
+JW5265	ydgJ	predicted oxidoreductase		-0,22	0	0	500
+JW1617	ydgT	predicted regulator		-0,47	0	0	182
+JW1631	ydhA	predicted lipoprotein		-0,31	0	0	40
+JW1651	ydhB			-0,24	0	0	39
+JW1646	ydhD	conserved protein	0	0,00	0	4	
+JW1639	ydhF	predicted oxidoreductase	0	0,00	0	10	
+JW1632	ydhH	conserved protein		0,06	1	0	241
+JW1637	ydhK	conserved inner membrane protein		0,26	1	10	29
+JW1656	ydhQ	conserved protein		0,03	1	0	712
+JW1657	ydhR	predicted protein		-0,22	0	0	157
+JW1658	ydhS			-0,32	0	0	449
+JW5272	ydhV	predicted oxidoreductase		-0,33	0	0	113
+JW1665	ydhZ	predicted protein	0	0,00	0	2	
+JW1693	ydiA	conserved protein	0	0,00	0	9	
+JW5910	ydiD			-0,06	0	0	28
+JW1684	ydiF	CoA transferase: alpha subunit -!- beta		0,01	1	0	28
+JW1675	ydiH	predicted protein	0	0,00	0	2	
+JW1676	ydiI	conserved protein		-0,06	0	0	178
+JW1677	ydiJ	predicted FAD-linked oxidoreductase		-0,16	0	0	1496
+JW1678	ydiK	predicted inner membrane protein		1,03	1	9	46
+JW1696	ydiU	conserved protein	0	0,00	0	5	
+JW1713	ydiZ	predicted protein		-0,47	0	0	256
+JW1754	ydjA	predicted oxidoreductase		-0,17	0	0	713
+JW1759	ydjF			-0,19	0	0	242
+JW1760	ydjG	predicted oxidoreductase		-0,09	0	0	62
+JW1763	ydjJ			0,02	1	0	51
+JW1718	ydjN	predicted transporter		0,82	1	9	284
+JW1731	ydjR	conserved protein		-0,13	0	0	25
+JW5283	ydjY	predicted protein		-0,24	0	0	308
+JW1767	yeaA	methionine sulfoxide reductase B		-0,74	0	0	623
+JW1802	yeaB	predicted NUDIX hydrolase		-0,03	0	0	112
+JW1766	yeaC	conserved protein		-0,37	0	0	29
+JW1769	yeaD	conserved protein		-0,25	0	0	696
+JW1770	yeaE	predicted oxidoreductase	0	0,00	0	3	
+JW1772	yeaG			-0,53	0	0	2549
+JW1773	yeaH	conserved protein	0	0,00	0	12	
+JW5291	yeaJ	predicted diguanylate cyclase		-0,21	1	2	325
+JW1776	yeaK	conserved protein		0,17	1	0	430
+JW1779	yeaM			-0,14	0	0	21
+JW1781	yeaO	conserved protein		-0,64	0	0	466
+JW5292	yeaP	predicted diguanylate cyclase		-0,24	0	0	59
+JW1788	yeaT			-0,01	0	0	57
+JW1789	yeaU	predicted dehydrogenase		-0,22	0	0	480
+JW1795	yeaY	predicted lipoprotein		-0,12	1	0	363
+JW1796	yeaZ	predicted peptidase		-0,07	0	0	274
+JW1853	yebC	conserved protein		-0,38	0	0	585
+JW1835	yebE	conserved protein		-0,24	1	2	275
+JW1836	yebF	predicted protein		-0,41	0	0	451
+JW1842	yebK			-0,13	0	0	263
+JW1821	yebR	conserved protein		0,17	1	0	417
+JW1823	yebT	conserved protein	GO:0009274 cell wall (sensu	1,00	1	14	
+JW5301	yebU	predicted methyltransferase	GO:0005737 cytoplasm	0,00	0	3	
+JW5302	yebV	predicted protein	0	0,00	0	5	
+JW1828	yebY	predicted protein		0,01	1	1	167
+JW1896	yecA	conserved metal-binding protein		-0,39	0	0	481
+JW1902	yecC		GO:0005737 cytoplasm	0,00	0	5	
+JW5307	yecD	predicted hydrolase		-0,03	0	0	269
+JW1857	yecE	conserved protein		-0,35	0	0	89
+JW1900	yecF	predicted protein	0	0,00	0	3	
+JW1884	yecG	universal stress protein	0	1,00	0	4	
+JW1891	yecJ	predicted protein	GO:0005737 cytoplasm	0,08	1	0	166
+JW5309	yecM	predicted metal-binding enzyme		-0,38	0	0	385
+JW5308	yecN	predicted inner membrane protein	0	1,00	3	1	
+JW1859	yecO	predicted methyltransferase	0	0,00	0	7	
+JW1860	yecP	predicted methyltransferase		-0,24	0	0	484
+JW1903	yecS			0,44	1	3	54
+JW1913	yedD	predicted protein		-0,20	0	0	490
+JW1914	yedE	predicted inner membrane protein	0	1,00	10	5	
+JW1915	yedF	conserved protein		-0,27	0	0	227
+JW1941	yedI	conserved inner membrane protein	GO:0009274 cell wall (sensu	1,00	5	4	
+JW1945	yedJ	predicted phosphohydrolase		-0,27	0	0	49
+JW1916	yedK	predicted protein		-0,39	0	0	125
+JW5313	yedO	D-cysteine desulfhydrase, PLP-		0,12	1	0	85
+JW1938	yedP	conserved protein		-0,26	0	0	794
+JW5832	yedQ	predicted diguanylate cyclase		-0,29	1	2	308
+JW1951	yedV			-0,05	1	2	35
+JW1953	yedX	conserved protein		-0,33	0	0	87
+JW1954	yedY	predicted reductase		-0,29	0	0	157
+JW1955	yedZ	conserved inner membrane protein		0,54	1	6	29
+JW1990	yeeA	conserved inner membrane protein	GO:0009274 cell wall (sensu	0,28	1	5	59
+JW1994	yeeD	conserved protein		0,22	1	0	83
+JW1995	yeeE	predicted inner membrane protein		0,72	1	9	36
+JW1958	yeeI	conserved protein		-0,14	0	0	285
+JW5325	yeeL			0,10	1	0	51
+JW1964	yeeN	conserved protein		-0,26	0	0	469
+JW1989	yeeX	conserved protein		-0,69	0	0	268
+JW1998	yeeZ			-0,10	0	0	696
+JW2054	yegD	predicted chaperone		-0,12	0	0	29
+JW2052	yegE		0	1,00	11	4	
+JW5336	yegH	fused predicted membrane proteins	GO:0009274 cell wall (sensu	0,18	1	7	156
+JW2058	yegL	conserved protein		-0,08	0	0	27
+JW5339	yegP	predicted protein		-0,71	0	0	414
+JW2066	yegQ	predicted peptidase		-0,41	0	0	408
+JW2070	yegS	conserved protein		0,03	1	0	285
+JW2086	yegU	predicted hydrolase		0,03	1	0	30
+JW2088	yegW			-0,31	0	0	192
+JW2096	yehB	predicted outer membrane protein		-0,49	1	0	42
+JW2097	yehC	predicted periplasmic pilin chaperone		-0,14	1	1	50
+JW2098	yehD	predicted fimbrial-like adhesin protein	GO:0009289 fimbria	0,05	1	1	20
+JW2105	yehI	conserved protein		-0,33	0	0	42
+JW2112	yehS	conserved protein		-0,33	0	0	247
+JW5352	yehT		0	0,00	0	4	
+JW5353	yehU			0,18	1	6	124
+JW2117	yehX		GO:0005737 cytoplasm	-0,12	0	0	163
+JW2119	yehZ	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,07	0	0	972
+JW2134	yeiA	predicted oxidoreductase		-0,11	0	0	893
+JW2144	yeiE			0,02	1	0	431
+JW2141	yeiG	predicted esterase		-0,32	0	0	320
+JW2152	yeiN	conserved protein	0	1,00	0	2	
+JW5362	yeiP	predicted elongtion factor		-0,38	0	0	476
+JW2160	yeiQ	predicted dehydrogenase, NAD-		-0,11	0	0	53
+JW2161	yeiR	predicted enzyme		-0,23	0	0	284
+JW2133	yeiT	predicted oxidoreductase		-0,09	0	0	1349
+JW2162	yeiU	undecaprenyl pyrophosphate	0	1,00	5	1	
+JW2165	yejA	subunit -!- periplasmic-binding	GO:0042597 periplasmic space	1,00	1	3	
+JW2167	yejE	subunit -!- membrane component of	Bacteria) -!- GO:0019866 inner	0,38	1	6	64
+JW2168	yejF	subunits -!- ATP-binding components of	GO:0005737 cytoplasm	-0,06	0	0	90
+JW2172	yejH	predicted ATP-dependet helicase		-0,28	0	0	47
+JW2174	yejK	nucleotide associated protein	GO:0005737 cytoplasm	0,00	0	12	
+JW2175	yejL	conserved protein	0	0,00	0	2	
+JW2176	yejM	predicted hydrolase, inner membrane		-0,12	1	5	320
+JW2245	yfaO	predicted NUDIX hydrolase		-0,39	0	0	95
+JW2222	yfaS			-0,33	0	0	42
+JW2241	yfaW	predicted enolase	0	0,00	0	3	
+JW2243	yfaY	conserved protein		-0,06	0	0	477
+JW5372	yfbE	4-ulose diphosphate) aminotransferase,	0	0,00	0	5	
+JW2248	yfbF			0,07	1	2	59
+JW2249	yfbG			-0,18	0	0	39
+JW2265	yfbK	conserved protein		-0,48	0	0	31
+JW2287	yfbQ	predicted aminotransferase		-0,16	0	0	576
+JW2288	yfbR	deoxyribonucleoside 5'-		-0,22	0	0	237
+JW2289	yfbS	predicted transporter	0	1,00	10	2	
+JW5376	yfbT	predicted hydrolase or phosphatase		0,14	1	0	447
+JW2291	yfbU	conserved protein		-0,58	0	0	771
+JW2296	yfcD	predicted NUDIX hydrolase		-0,43	0	0	325
+JW5377	yfcE	predicted phosphatase		0,02	1	0	259
+JW2298	yfcF	predicted enzyme	0	0,00	0	4	
+JW2299	yfcG	predicted glutathione S-transferase		-0,38	0	0	181
+JW2301	yfcH			-0,06	0	0	624
+JW2322	yfcL	predicted protein		-0,15	0	0	327
+JW5381	yfcM	conserved protein	0	0,00	0	2	
+JW2328	yfcN	conserved protein		-0,48	0	0	241
+JW2330	yfcP	predicted fimbrial-like adhesin protein	GO:0009289 fimbria	0,06	1	1	22
+JW2335	yfcU	predicted export usher protein		-0,63	1	0	21
+JW2338	yfcX			-0,05	0	0	306
+JW2339	yfcY			0,04	1	0	419
+JW2340	yfcZ	conserved protein		-0,09	0	0	235
+JW2344	yfdC	predicted inner membrane protein	0	1,00	6	2	
+JW2368	yfdE			-0,12	0	0	28
+JW2347	yfdH			0,08	1	2	266
+JW5382	yfdI		0	1,00	10	2	
+JW5385	yfdN			-0,82	0	0	28
+JW2358	yfdR			-0,04	0	0	45
+JW5887	yfdT			-0,71	0	0	49
+JW2372	yfdX	predicted protein		-0,33	0	0	35
+JW2376	yfdZ			-0,19	0	0	467
+JW5391	yfeA	predicted diguanylate cyclase		0,31	1	8	97
+JW2394	yfeD			-0,50	0	0	128
+JW5876	yfeH	predicted inner membrane protein		0,83	1	8	90
+JW2400	yfeR			-0,05	0	0	45
+JW2421	yfeU	predicted PTS component		0,13	1	0	318
+JW5395	yfeW	predicted periplasmic esterase		-0,28	0	0	59
+JW2424	yfeX	conserved protein	0	0,00	0	18	
+JW2425	yfeY	predicted protein		-0,35	0	0	331
+JW2455	yffB	conserved protein		-0,34	0	0	204
+JW2451	yffH	predicted NUDIX hydrolase		-0,34	0	0	273
+JW2500	yfgA	conserved protein	0	1,00	1	8	
+JW2501	yfgB	predicted enzyme		-0,29	0	0	478
+JW2479	yfgC	predicted peptidase	0	0,00	0	15	
+JW2480	yfgD	predicted oxidoreductase	0	0,00	0	4	
+JW2488	yfgF	predicted inner membrane protein		0,26	1	9	45
+JW2490	yfgI	conserved protein		-1,12	1	0	24
+JW5402	yfgJ	predicted protein		-0,18	0	0	123
+JW2496	yfgL		0	1,00	0	13	
+JW2497	yfgM	conserved protein		-0,22	1	1	790
+JW2478	yfgO	predicted inner membrane protein		1,04	1	7	34
+JW2538	yfhA		0	0,00	0	4	
+JW5408	yfhB	conserved protein		-0,04	1	1	87
+JW2539	yfhG	conserved protein		-0,75	0	0	64
+JW2545	yfhH			-0,01	1	0	156
+JW2508	yfhJ	conserved protein		-0,52	0	0	195
+JW5407	yfhK			-0,14	1	2	39
+JW2546	yfhL	predicted 4Fe-4S cluster-containing	0	0,00	0	2	
+JW2504	yfhM	conserved protein		-0,32	0	0	1438
+JW2516	yfhQ	predicted methyltransferase		-0,13	0	0	383
+JW2578	yfiA			-0,54	0	0	499
+JW2559	yfiC	predicted methyltransferase		-0,10	0	0	48
+JW2563	yfiD	pyruvate formate lyase subunit	0	0,00	0	10	
+JW2565	yfiF	predicted methyltransferase	GO:0005737 cytoplasm	-0,68	0	0	630
+JW2575	yfiH	conserved protein		-0,14	0	0	434
+JW5412	yfiL	predicted protein		-0,44	0	0	25
+JW2577	yfiO	predicted lipoprotein	0	0,00	0	14	
+JW2568	yfiQ	NAD(P)-binding subunit -!- ATP-binding	0	0,00	0	22	
+JW5415	yfjD	predicted inner membrane protein		0,03	1	3	254
+JW2599	yfjF	predicted protein		-0,58	0	0	200
+JW2600	yfjG	conserved protein		0,13	1	0	156
+JW2608	yfjK	"CP4-57 prophage; conserved protein"		-0,18	0	0	20
+JW2609	yfjL	"CP4-57 prophage; predicted protein"		-0,41	0	0	32
+JW2611	yfjN	"CP4-57 prophage; predicted protein"	0	0,00	0	3	
+JW2619	yfjU	"CP4-57 prophage; conserved protein"		-0,19	0	0	46
+JW2623	yfjW			0,29	1	5	29
+JW2670	ygaD	conserved protein		-0,11	0	0	56
+JW2635	ygaF	predicted enzyme	0	0,00	0	16	
+JW2647	ygaM	predicted protein		-0,50	1	1	347
+JW2643	ygaP			0,24	1	2	125
+JW5427	ygaT	predicted protein		-0,38	0	0	1286
+JW2640	ygaU	predicted protein	0	0,00	0	14	
+JW2705	ygbI		0	1,00	0	4	
+JW2709	ygbM	conserved protein	0	0,00	0	2	
+JW5444	ygcE	predicted kinase		-0,10	0	0	55
+JW2748	ygcF	conserved protein		-0,26	0	0	664
+JW2728	ygcJ	predicted protein		-0,24	0	0	44
+JW2777	ygdE	predicted methyltransferase		-0,29	0	0	264
+JW2766	ygdH	conserved protein		-0,11	0	0	1525
+JW5448	ygdI	predicted protein		-0,52	1	1	200
+JW2782	ygdK	predicted Fe-S metabolism protein		-0,09	0	0	482
+JW2783	ygdL	conserved protein		0,09	1	1	97
+JW2801	ygdR	predicted protein		-0,20	1	1	204
+JW2808	ygeA	predicted racemase		0,08	1	0	277
+JW2803	ygeD	predicted inner membrane protein		0,90	1	10	46
+JW2833	ygeR			-0,25	1	0	263
+JW2837	ygeV			-0,13	0	0	164
+JW2840	ygeY	predicted peptidase		-0,25	0	0	251
+JW5473	ygfB	predicted protein		-0,36	0	0	335
+JW2870	ygfF	oxidoreductase with NAD(P)-binding	0	1,00	0	6	
+JW5923	ygfK	predicted oxidoreductase, Fe-S subunit		-0,29	0	0	35
+JW2848	ygfM	predicted oxidoreductase		-0,13	0	0	20
+JW5469	ygfT			-0,14	0	0	37
+JW2864	ygfX	predicted protein		-0,06	1	1	38
+JW2865	ygfY	conserved protein	0	0,00	0	2	
+JW2866	ygfZ			-0,25	0	0	1246
+JW2889	yggE	conserved protein		-0,25	0	0	561
+JW2897	yggF	predicted hexoseP phosphatase		0,02	1	0	20
+JW2903	yggG	predicted peptidase		-0,20	0	0	661
+JW2927	yggH			-0,40	0	0	430
+JW2913	yggJ	predicted protein		-0,22	0	0	432
+JW2926	yggL	predicted protein		-0,68	0	0	272
+JW2923	yggM	conserved protein		-0,79	0	0	29
+JW2925	yggN	predicted protein	0	0,00	0	12	
+JW2917	yggR	predicted transporter		-0,14	0	0	22
+JW2918	yggS	predicted enzyme		-0,20	0	0	230
+JW2919	yggT	predicted inner membrane protein		1,19	1	4	144
+JW5479	yggU	conserved protein	0	0,00	0	3	
+JW2921	yggV	dITP/XTP pyrophosphatase		-0,12	0	0	200
+JW2922	yggW	predicted oxidoreductase	0	0,00	0	4	
+JW2929	yggX			-0,86	0	0	624
+JW2972	yghA	synthase, with NAD(P)-binding	0	0,00	0	16	
+JW5484	yghF			-0,22	0	0	20
+JW5925	yghJ	predicted inner membrane lipoprotein		-0,54	0	0	32
+JW2952	yghR			-0,27	0	0	34
+JW2954	yghT			-0,15	0	0	24
+JW5492	yghU	predicted S-transferase		-0,40	1	1	794
+JW2966	yghW	predicted protein		-0,47	0	0	54
+JW2970	yghZ	aldo-keto reductase		-0,39	0	0	1420
+JW5927	ygiB	conserved outer membrane protein		-0,60	0	0	383
+JW3006	ygiC	predicted enzyme	0	0,00	0	14	
+JW3026	ygiF	predicted adenylate cyclase		-0,26	0	0	720
+JW3031	ygiH	conserved inner membrane protein		0,58	1	5	92
+JW2997	ygiN	quinol monooxygenase		0,02	1	0	267
+JW5501	ygiQ	conserved protein	0	0,00	0	4	
+JW2988	ygiS	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,37	0	0	719
+JW2989	ygiT			-0,32	0	0	235
+JW2992	ygiW	conserved protein		-0,27	0	0	557
+JW3036	ygjD	predicted peptidase	0	1,00	0	4	
+JW3040	ygjF	G/U mismatch-specific DNA	GO:0005737 cytoplasm	-0,30	0	0	606
+JW5510	ygjG			0,02	1	0	127
+JW5512	ygjI	predicted transporter		0,79	1	12	29
+JW3050	ygjJ	conserved protein		-0,48	0	0	38
+JW5513	ygjO	predicted methyltransferase small		-0,18	0	0	332
+JW3058	ygjR	predicted NAD(P)-binding		0,05	1	0	473
+JW3076	yhaJ		0	0,00	0	7	
+JW3077	yhaK	predicted pirin-related protein		-0,27	0	0	40
+JW5519	yhaO	predicted transporter		0,89	1	11	36
+JW3099	yhaV	conserved protein		-0,76	0	0	45
+JW5533	yhbC	conserved protein		0,05	1	0	314
+JW3151	yhbE	conserved inner membrane protein	GO:0009274 cell wall (sensu	0,85	1	10	40
+JW3168	yhbG		GO:0005737 cytoplasm	-0,12	0	0	698
+JW3170	yhbH			-0,40	0	0	275
+JW3172	yhbJ			-0,32	0	0	484
+JW3167	yhbN	periplasmic-binding component of ABC		-0,44	0	0	369
+JW5529	yhbO	predicted intracellular protease		-0,24	0	0	441
+JW3123	yhbP	conserved protein		-0,28	0	0	61
+JW3125	yhbS			-0,08	1	0	481
+JW3127	yhbU	predicted peptidase (collagenase-like)		-0,27	0	0	123
+JW5530	yhbV	predicted protease		-0,11	0	0	96
+JW3129	yhbW	predicted enzyme		-0,17	0	0	472
+JW3147	yhbY	predicted RNA-binding protein	0	0,00	0	4	
+JW3182	yhcA	predicted periplasmic chaperone protein		-0,37	0	0	31
+JW5539	yhcB	conserved protein		-0,55	1	1	560
+JW3189	yhcG	conserved protein		-0,38	0	0	24
+JW3190	yhcH	conserved protein		-0,18	0	0	45
+JW3201	yhcM			-0,29	0	0	315
+JW5540	yhcN	conserved protein		-0,09	0	0	48
+JW3208	yhcO	predicted barnase inhibitor		-0,38	0	0	157
+JW3221	yhdA	conserved inner membrane protein		-0,19	1	2	48
+JW3217	yhdE	conserved protein		-0,19	0	0	318
+JW3222	yhdH			0,00	0	0	1242
+JW5542	yhdP			-0,28	1	1	118
+JW3235	yhdV	predicted outer membrane protein		0,40	1	1	40
+JW3305	yheL		0	1,00	0	2	
+JW3307	yheN			0,17	1	0	189
+JW5703	yheO			-0,16	0	0	320
+JW3315	yheS	ATP-binding components of ABC	GO:0005737 cytoplasm	-0,46	0	0	779
+JW3317	yheU	conserved protein		-0,51	0	0	61
+JW3312	yheV	predicted protein	GO:0005737 cytoplasm	-0,61	0	0	195
+JW3319	yhfA	conserved protein		0,07	1	0	247
+JW3325	yhfG	predicted protein		-0,92	0	0	92
+JW5701	yhfK	conserved inner membrane protein	GO:0005737 cytoplasm	0,05	1	9	143
+JW5697	yhfU	predicted protein		0,15	1	1	34
+JW3344	yhfX	predicted amino acid racemase		0,00	0	0	32
+JW5948	yhfZ	conserved protein	0	0,00	0	4	
+JW3365	yhgE	predicted inner membrane protein	GO:0009274 cell wall (sensu	0,45	1	11	27
+JW3370	yhgF	predicted transcriptional accessory	0	0,00	0	25	
+JW3413	yhhA	conserved protein		-1,05	0	0	560
+JW3430	yhhF	predicted methyltransferase	0	0,00	0	3	
+JW3424	yhhK	conserved protein	0	0,00	0	5	
+JW5683	yhhL	conserved inner membrane protein		0,73	1	2	20
+JW3433	yhhN	conserved inner membrane protein		0,97	1	6	45
+JW3435	yhhP	conserved protein required for cell		-0,23	0	0	116
+JW3402	yhhW	predicted protein		-0,47	0	0	642
+JW3403	yhhX		0	0,00	0	13	
+JW3405	yhhY	predicted acetyltransferase		-0,43	0	0	44
+JW5670	yhiD			0,54	1	5	86
+JW3475	yhiF		0	1,00	0	5	
+JW3454	yhiI	predicted HlyD family secretion protein		1,00	1	16	
+JW3455	yhiJ	predicted protein		-0,34	0	0	29
+JW3457	yhiL	predicted protein		-0,47	0	0	32
+JW3459	yhiN			-0,04	1	1	328
+JW5672	yhiQ		0	0,00	0	7	
+JW3466	yhiR			-0,36	0	0	497
+JW3486	yhjA	predicted cytochrome C peroxidase		-0,40	1	1	342
+JW3490	yhjD	conserved inner membrane protein		0,21	1	6	225
+JW3492	yhjG		0	1,00	1	18	
+JW3495	yhjJ	predicted zinc-dependent peptidase	0	0,00	0	16	
+JW5943	yhjK	predicted diguanylate cyclase	0	1,00	2	6	
+JW5657	yiaD	predicted outer membrane lipoprotien		-0,07	1	3	177
+JW5655	yiaF	conserved protein		-0,15	1	1	435
+JW3524	yiaG	predicted transcriptional regulator		-0,40	0	0	254
+JW3546	yiaJ			-0,16	0	0	130
+JW3551	yiaO	predicted transporter		-0,20	0	0	114
+JW3558	yiaV			-0,03	1	2	30
+JW3568	yibA	lyase containing HEAT-repeat		-0,39	0	0	246
+JW3565	yibF	predicted glutathione S-transferase		-0,03	0	0	253
+JW3581	yibK	predicted rRNA methylase	0	0,00	0	4	
+JW3577	yibL	conserved protein		-0,63	0	0	263
+JW3586	yibN		0	1,00	1	7	
+JW5645	yibQ	predicted polysaccharide deacetylase		-0,23	1	1	123
+JW3576	yibT	predicted protein	GO:0005737 cytoplasm	-0,54	0	0	257
+JW3619	yicC	conserved protein	0	0,00	0	14	
+JW3630	yicH	conserved protein	0	1,00	1	10	
+JW3631	yicI	predicted alpha-glucosidase		-0,40	0	0	48
+JW5965	yicS	predicted protein		-0,32	0	0	131
+JW3674	yidA	predicted hydrolase	0	0,00	0	7	
+JW3675	yidB	conserved protein		-0,01	0	0	260
+JW3683	yidC			1,00	4	11	
+JW3662	yidE	predicted transporter		0,69	1	10	38
+JW5633	yidQ	conserved outer membrane protein		-0,04	0	0	123
+JW5860	yidR	conserved protein		-0,46	0	0	500
+JW5858	yidX	predicted lipoproteinC		-0,12	1	1	26
+JW3689	yidZ			-0,23	0	0	22
+JW3691	yieF	chromate reductase, Class I,	0	1,00	0	8	
+JW3692	yieG	predicted inner membrane protein		1,00	1	13	23
+JW5610	yieM			-0,31	0	0	34
+JW3725	yieN	fused predicted transcriptional		-0,22	0	0	803
+JW5608	yieP	predicted transcriptional regulator	0	0,00	0	6	
+JW3737	yifE	conserved protein	0	0,00	0	9	
+JW5595	yifK	predicted transporter		0,84	1	12	27
+JW3781	yifL	predicted lipoprotein	GO:00016020 membrane	1,00	1	3	
+JW3783	yigA	conserved protein	0	0,00	0	3	
+JW3785	yigB	predicted hydrolase		-0,33	0	0	311
+JW5588	yigI	conserved protein	0	0,00	0	5	
+JW5854	yigL	predicted hydrolase		-0,19	0	0	651
+JW3811	yigP	conserved protein		0,02	1	0	191
+JW5930	yihA	GTP-binding protein	0	0,00	0	9	
+JW3830	yihD	conserved protein		-0,42	0	0	445
+JW3831	yihE	predicted kinase		-0,32	0	0	434
+JW3837	yihI	conserved protein	0	0,00	0	7	
+JW3843	yihL			-0,46	0	0	61
+JW3844	yihM	predicted sugar phosphate isomerase	0	0,00	0	7	
+JW3845	yihN	predicted transporter		0,73	1	12	40
+JW3852	yihT	predicted aldolase	0	0,00	0	2	
+JW5567	yihW			-0,05	0	0	378
+JW5566	yihX	predicted hydrolase		-0,16	0	0	424
+JW3859	yiiD	predicted acetyltransferase		-0,35	0	0	483
+JW5559	yiiM	conserved protein		-0,42	0	0	488
+JW3891	yiiQ	conserved protein	0	0,00	0	6	
+JW3893	yiiS	conserved protein		-0,01	0	0	344
+JW3894	yiiT	stress-induced protein		-0,22	0	0	390
+JW3899	yiiU	conserved protein		-0,98	0	0	376
+JW3927	yijP	conserved inner membrane protein	GO:0009274 cell wall (sensu	-0,32	1	5	127
+JW3963	yjaG	conserved protein		-0,24	0	0	383
+JW3965	yjaH	conserved protein		-0,54	0	0	27
+JW3980	yjbB	predicted transporter		0,43	1	8	190
+JW3982	yjbC	23S rRNA pseudouridine synthase	0	0,00	0	4	
+JW3983	yjbD	conserved protein	0	0,00	0	2	
+JW3989	yjbH	predicted porin		-0,50	0	0	30
+JW4005	yjbJ	predicted stress response protein		-1,53	0	0	270
+JW4008	yjbM	predicted protein		-0,42	0	0	26
+JW5950	yjbN	tRNA-dihydrouridine synthase A		-0,29	0	0	561
+JW4017	yjbQ	conserved protein	0	0,00	0	4	
+JW4018	yjbR	conserved protein		-0,39	0	0	240
+JW4025	yjcD	predicted permease		1,12	1	13	118
+JW4026	yjcE	predicted cation/proton antiporter		0,63	1	11	261
+JW4029	yjcH		0	1,00	2	2	
+JW4039	yjcO	conserved protein		-0,29	0	0	96
+JW4041	yjcP			-0,12	1	0	26
+JW5729	yjcZ	conserved protein		-0,18	0	0	54
+JW4070	yjdA			-0,29	0	0	33
+JW5733	yjdC	predicted transcriptional regulator		-0,31	0	0	648
+JW4087	yjdI	conserved protein		-0,34	0	0	276
+JW4088	yjdJ		0	0,00	0	2	
+JW4089	yjdK	predicted protein		-0,15	0	0	205
+JW4136	yjeB		0	1,00	0	5	
+JW4126	yjeE	ATPase with strong ADP affinity		-0,09	0	0	317
+JW4125	yjeF	predicted carbohydrate kinase		-0,05	0	0	625
+JW4101	yjeH	predicted transporter		0,96	1	11	27
+JW5736	yjeI	conserved protein		-0,08	0	0	192
+JW4106	yjeK	predicted lysine aminomutase	0	0,00	0	6	
+JW4120	yjeP	predicted mechanosensitive channel	GO:0042597 periplasmic space	0,02	1	11	375
+JW4124	yjeS	predicted Fe-S electron transport		-0,25	0	0	36
+JW4143	yjfM	conserved protein		-0,79	0	0	27
+JW5743	yjfO	conserved protein		-0,06	1	1	28
+JW4148	yjfP	predicted hydrolase		-0,04	0	0	240
+JW4193	yjgA	conserved protein		-0,91	0	0	576
+JW5761	yjgB			0,04	1	0	713
+JW4212	yjgD	conserved protein		-0,61	0	0	233
+JW5755	yjgF	ketoacid-binding protein		0,09	1	0	373
+JW4206	yjgH	predicted mRNA endoribonuclease		-0,18	0	0	116
+JW4208	yjgJ	predicted transcriptional regulator		-0,17	0	0	93
+JW5756	yjgK	conserved protein		-0,25	0	0	660
+JW5757	yjgL	predicted protein		-0,60	0	0	38
+JW5758	yjgM	predicted acetyltransferase		-0,12	0	0	176
+JW4218	yjgP	conserved inner membrane protein	GO:0009274 cell wall (sensu	0,47	1	6	129
+JW5760	yjgQ	conserved inner membrane protein	GO:0009274 cell wall (sensu	0,32	1	6	553
+JW4220	yjgR	predicted ATPase		-0,15	0	0	1540
+JW5769	yjhC			-0,27	0	0	420
+JW4258	yjhF			1,11	1	12	33
+JW4259	yjhG			-0,11	0	0	144
+JW5775	yjhH			0,10	1	0	37
+JW4261	yjhI			-0,23	0	0	29
+JW5777	yjhT	conserved protein		-0,35	0	0	237
+JW5952	yjhU			-0,03	0	0	267
+JW5790	yjiA	predicted GTPase		-0,09	0	0	428
+JW4288	yjiC	predicted protein		-0,29	0	0	44
+JW4290	yjiE		0	0,00	0	3	
+JW5783	yjiH	conserved inner membrane protein	0	1,00	4	3	
+JW5785	yjiL			0,13	1	0	229
+JW5786	yjiM			-0,19	0	0	785
+JW4299	yjiN	conserved inner membrane protein	GO:0009274 cell wall (sensu	-0,05	1	3	280
+JW4304	yjiS	conserved protein		-0,98	0	0	26
+JW5791	yjiY	predicted inner membrane protein	0	1,00	16	6	
+JW5795	yjjA	conserved protein		-0,21	0	0	341
+JW4343	yjjI	conserved protein		-0,28	0	0	664
+JW4348	yjjJ			-0,25	0	0	127
+JW4354	yjjK	ATP-binding components of ABC	GO:0005737 cytoplasm	-0,48	0	0	2675
+JW5793	yjjN			0,00	1	0	45
+JW4329	yjjQ			-0,16	0	0	35
+JW4340	yjjU	predicted esterase		-0,15	0	0	447
+JW4341	yjjV	predicted DNase		-0,24	0	0	53
+JW5801	yjjX	thiamin metabolism associated protein		0,03	1	0	89
+JW4366	yjtD	predicted rRNA methyltransferase		0,01	1	0	372
+JW0239	ykfB	"CP4-6 prophage; predicted protein"	0	0,00	0	2	
+JW5040	ykgC	FAD/NAD(P)-binding domain and	0	0,00	0	15	
+JW5041	ykgE	predicted oxidoreductase		0,04	1	0	242
+JW0300	ykgF	with NAD(P)-binding domain and		-0,31	0	0	129
+JW5042	ykgG	predicted transporter	0	0,00	0	5	
+JW5031	ykgK	predicted regulator		-0,52	0	0	29
+JW5062	ylaB	conserved inner membrane protein		-0,14	1	2	146
+JW5063	ylaC	predicted inner membrane protein		0,10	1	2	253
+JW0503	ylbA	conserved protein	0	0,00	0	4	
+JW5897	yliA	subunits -!- ATP-binding components of	GO:0005737 cytoplasm	-0,04	0	0	121
+JW5111	yliB	periplasmic-binding component of ABC	GO:0042597 periplasmic space	0,00	0	14	
+JW0817	yliE	conserved inner membrane protein		-0,08	1	2	50
+JW0819	yliG			-0,28	0	0	456
+JW0821	yliI	predicted dehydrogenase		-0,37	0	0	195
+JW0822	yliJ	predicted glutathione S-transferase		-0,20	0	0	637
+JW2884	yliK	methylmalonyl-CoA mutase		-0,12	0	0	61
+JW5127	ymbA	conserved protein	0	0,00	0	4	
+JW0967	ymcA	conserved protein		-0,46	0	0	29
+JW1032	ymdB	conserved protein		0,01	1	0	457
+JW5150	ymdC	predicted hydrolase		-0,16	0	0	57
+JW5136	ymdF	conserved protein	GO:0005737 cytoplasm	0,00	0	3	
+JW1120	ymfB	pyrophosphate hydrolase -!- thiamin		-0,15	0	0	346
+JW1121	ymfC	23S rRNA pseudouridine synthase	0	0,00	0	5	
+JW1131	ymfK		0	0,00	0	5	
+JW1134	ymfM	"e14 prophage; predicted protein"		-0,35	0	0	34
+JW1152	ymgA	predicted protein		-0,60	0	0	164
+JW1153	ymgB	predicted protein		0,03	1	0	266
+JW5177	ymgD	predicted protein		0,04	1	0	43
+JW1288	ymjA	predicted protein		-0,47	0	0	323
+JW1361	ynaA	"Rac prophage; predicted tail protein"		-0,41	0	0	43
+JW1377	ynbE	predicted lipoprotein		0,30	1	0	54
+JW5233	yncA			-0,22	0	0	51
+JW5907	yncB			-0,27	0	0	1379
+JW1445	yncC			-0,14	0	0	32
+JW1447	yncE	conserved protein	0	0,00	0	16	
+JW1517	yneH	predicted glutaminase		0,13	1	0	157
+JW5247	yneI	predicted aldehyde dehydrogenase		-0,03	0	0	269
+JW1575	ynfB	predicted protein		-0,75	0	0	232
+JW5258	ynfC	predicted protein		-0,41	0	0	128
+JW5259	ynfD	predicted protein		-0,12	0	0	144
+JW1579	ynfE	oxidoreductase subunit		-0,44	0	0	447
+JW5260	ynfF	oxidoreductase subunit	0	0,00	0	17	
+JW1581	ynfG	oxidoreductase, Fe-S subunit		-0,42	0	0	171
+JW5264	ynfK	predicted dethiobiotin synthetase	0	1,00	0	8	
+JW1587	ynfL			-0,05	0	0	87
+JW5251	ynfO	"Qin prophage; predicted protein"		-1,01	0	0	49
+JW1668	ynhG	conserved protein		-0,24	0	0	554
+JW1714	yniA	predicted phosphotransferase/kinase	0	0,00	0	13	
+JW1715	yniB	predicted inner membrane protein		0,50	1	3	71
+JW1716	yniC	predicted hydrolase	0	1,00	0	13	
+JW1742	ynjA	conserved protein		0,04	1	0	87
+JW5284	ynjB	conserved protein		-0,30	0	0	345
+JW5286	ynjD		GO:0005737 cytoplasm	0,02	1	0	62
+JW5287	ynjE	predicted thiosulfate sulfur transferase	0	0,00	0	14	
+JW1749	ynjH	predicted protein		-0,10	0	0	54
+JW5295	yoaB	conserved protein		0,02	1	0	315
+JW5296	yoaC	predicted protein	0	0,00	0	3	
+JW1805	yoaE	fused predicted membrane proteins	GO:0009274 cell wall (sensu	0,45	1	7	120
+JW1782	yoaF	conserved outer membrane protein		-0,17	0	0	180
+JW1800	yoaH	conserved protein		-0,47	0	0	91
+JW1830	yobA	conserved protein		-0,26	0	0	53
+JW5298	yobH	predicted protein	0	1,00	1	1	
+JW1940	yodC	predicted protein		-0,41	0	0	124
+JW5317	yodD	predicted protein	0	0,00	0	4	
+JW2125	yohF			0,08	1	0	446
+JW2092	yohL	conserved protein		-0,29	0	0	93
+JW5346	yohN	predicted protein		-0,24	1	1	244
+JW2199	yojI		Bacteria) -!- GO:0019866 inner	0,19	1	6	60
+JW5368	yojL	predicted thiamine biosynthesis	0	0,00	0	4	
+JW5388	ypdA			0,28	1	6	34
+JW2378	ypdB			-0,18	0	0	124
+JW2380	ypdD	component -!- enzyme I component -!-		-0,15	0	0	23
+JW2382	ypdF	predicted peptidase		-0,11	0	0	36
+JW5389	ypdH	predicted enzyme IIB component of	0	0,00	0	1	
+JW2427	ypeA			-0,41	0	0	380
+JW5877	ypeB	predicted protein	GO:0005737 cytoplasm	-0,19	0	0	95
+JW5396	ypfH	predicted hydrolase	0	0,00	0	4	
+JW2459	ypfI	predicted hydrolase		-0,22	0	0	45
+JW2460	ypfJ	conserved protein		-0,51	1	1	434
+JW2457	ypfN	predicted protein	GO:0031225 anchored to	-0,69	1	1	86
+JW2531	yphE	subunits -!- ATP-binding components of	GO:0005737 cytoplasm	-0,03	0	0	36
+JW5406	yphH			-0,20	0	0	30
+JW5422	ypjA	adhesin-like autotransporter		-0,36	1	1	23
+JW5424	ypjC	predicted protein		-0,46	0	0	28
+JW2592	ypjD	predicted inner membrane protein		0,82	1	8	120
+JW2665	yqaB	predicted hydrolase		-0,03	0	0	262
+JW2761	yqcA	predicted flavoprotein		-0,12	0	0	334
+JW2762	yqcB	tRNA pseudouridine synthase	0	0,00	0	3	
+JW2763	yqcC	conserved protein	0	0,00	0	2	
+JW2765	yqcD	conserved protein	0	0,00	0	10	
+JW2842	yqeA	predicted amino acid kinase		-0,02	0	0	23
+JW2843	yqeB			0,13	1	0	27
+JW5453	yqeF	predicted acyltransferase		0,11	1	0	97
+JW2813	yqeG	predicted transporter		0,94	1	10	50
+JW5455	yqeJ	predicted protein		-0,27	1	1	26
+JW2868	yqfB	conserved protein		-0,37	0	0	371
+JW2915	yqgE	predicted protein		-0,07	0	0	364
+JW2916	yqgF	predicted Holliday junction resolvase		-0,26	0	0	183
+JW5849	yqhC			-0,15	0	0	73
+JW2978	yqhD			-0,13	0	0	1226
+JW2999	yqiA	predicted esterase		-0,03	0	0	174
+JW5505	yqiC	conserved protein		-0,82	0	0	369
+JW5507	yqiG	predicted outer membrane usher protein		-0,53	1	0	36
+JW3023	yqiK	conserved protein		-0,31	1	2	37
+JW5516	yqjC	conserved protein		-0,99	0	0	108
+JW3069	yqjD	conserved protein		-0,55	1	1	344
+JW3070	yqjE	conserved inner membrane protein		0,35	1	2	242
+JW3073	yqjG	predicted S-transferase		-0,37	0	0	1280
+JW3042	yqjI	predicted transcriptional regulator		-0,76	0	0	278
+JW3071	yqjK	conserved protein		-0,54	1	1	273
+JW3115	yraL	predicted methyltransferase	0	0,00	0	12	
+JW3116	yraM	conserved protein	0	0,00	0	23	
+JW3118	yraO			0,02	1	0	165
+JW3119	yraP	predicted protein	GO:0042597 periplasmic space	0,05	1	1	608
+JW3120	yraQ	predicted permease		0,86	1	9	48
+JW5528	yraR			-0,10	0	0	175
+JW3157	yrbA			-0,27	0	0	125
+JW5535	yrbB	predicted protein		0,03	1	0	237
+JW3159	yrbC		GO:0005737 cytoplasm	0,00	0	11	
+JW3160	yrbD		0	1,00	1	7	
+JW3161	yrbE			0,85	1	5	127
+JW3162	yrbF	ATP-binding component of ABC	GO:0005737 cytoplasm	1,00	0	12	
+JW3166	yrbK	conserved protein		-0,37	1	1	116
+JW3174	yrbL	predicted protein	0	0,00	0	4	
+JW5710	yrdA	conserved protein		-0,21	0	0	28
+JW3241	yrdB	conserved protein		-0,75	0	0	57
+JW3243	yrdC	dsRNA-binding protein	0	0,00	0	3	
+JW5949	yrdD	predicted DNA topoisomerase		-0,32	0	0	206
+JW3357	yrfC	predicted fimbrial assembly protein		-0,35	1	1	27
+JW3361	yrfF	predicted inner membrane protein		-0,10	1	5	144
+JW5853	ysgA	predicted hydrolase	0	0,00	0	6	
+JW5745	ytfB			-0,57	0	0	182
+JW4167	ytfE			-0,35	0	0	158
+JW4169	ytfG	NAD(P)H:quinone oxidoreductase		0,05	1	0	769
+JW5747	ytfH	predicted transcriptional regulator		-0,12	0	0	63
+JW5748	ytfI	predicted protein		-0,37	0	0	28
+JW4175	ytfJ	predicted transcriptional regulator	0	0,00	0	8	
+JW5749	ytfK	conserved protein		-0,16	0	0	27
+JW4177	ytfL	predicted inner membrane protein		0,24	1	4	236
+JW4179	ytfM			-0,42	1	0	266
+JW4180	ytfN	conserved protein	0	1,00	1	17	
+JW4181	ytfP	conserved protein		-0,51	0	0	165
+JW4186	ytfQ	periplasmic-binding component of ABC	GO:0042597 periplasmic space	-0,19	1	1	634
+JW4358	ytjC		GO:0005737 cytoplasm	-0,37	1	1	761
+JW2878	zapA	protein that localizes to the cytokinetic		-0,73	0	0	337
+JW2404	zipA			-0,61	1	1	369
+JW3434	zntA	zinc, cobalt and lead efflux system		0,28	1	5	986
+JW3254	zntR	DNA-binding transcriptional activator	GO:0005737 cytoplasm	-0,50	0	0	85
+JW5831	znuA		GO:0042597 periplasmic space	-0,21	0	0	442
+JW3967	zraS			-0,06	1	2	28
+JW5714	zur		GO:0005737 cytoplasm	-0,25	0	0	278
+JW1841	zwf	glucose-6-phosphate dehydrogenase	GO:0005737 cytoplasm	-0,37	0	0	1578

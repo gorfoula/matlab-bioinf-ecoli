@@ -1,0 +1,1 @@
+P0CD93	P0CD93	Uniprot pseudo 	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P0CD93&sort=score")

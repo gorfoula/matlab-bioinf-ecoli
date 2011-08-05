@@ -1,0 +1,1058 @@
+Accession	Biological Process (EcoliWiki)
+P09147	galactose metabolic process|colanic acid biosynthetic process|carbohydrate catabolic process
+P0A944	N-terminal protein amino acid acetylation
+P0A862	cellular response to oxidative stress
+P0ABB4	ATP synthesis coupled proton transport
+P0A796	glycolysis|glucose catabolic process
+A5A605	drug transmembrane transport
+P76656	response to methylglyoxal
+P0ABG7	regulation of cell shape
+P0AFC0	tetrahydrofolate biosynthetic process|folic acid biosynthetic process
+P26616	gluconeogenesis
+P0AC41	oxidation-reduction process|tricarboxylic acid cycle|aerobic respiration
+P12998	biotin biosynthetic process
+P23883	putrescine catabolic process
+P0AGD7	protein targeting to membrane
+P0CE60	enzyme-directed rRNA pseudouridine synthesis
+P60757	histidine biosynthetic process
+P37679	L-lyxose metabolic process
+P67826	cellular copper ion homeostasis|response to copper ion
+P28247	biofilm formation
+P0AF36	cytokinesis by binary fission
+P76034	posttranscriptional regulation of gene expression
+P18843	de novo NAD biosynthetic process from aspartate|NAD salvage
+P75855	cell adhesion involved in single-species biofilm formation
+P0AAE5	arginine catabolic process|putrescine biosynthetic process
+P0AEK4	enterobactin biosynthetic process
+P33013	peptidoglycan biosynthetic process
+P76103	transmembrane transport
+P0A9J6	D-ribose catabolic process
+P32166	menaquinone biosynthetic process
+P0AF12	L-methionine biosynthetic process from S-adenosylmethionine|generation of a signal involved in cell-cell signaling
+P18335	arginine biosynthetic process
+P15006	peptidoglycan metabolic process
+P22523	chromosome segregation|chromosome condensation|cell division
+P33915	microcin transport
+P0A9S3	galactitol catabolic process
+P75960	chemotaxis|protein deacetylation
+P0AFD6	anaerobic respiration|aerobic respiration
+P0A7G2	maturation of SSU-rRNA
+P0AFI7	pyridoxine biosynthetic process|pyridoxal 5'-phosphate salvage
+P29680	uroporphyrinogen III biosynthetic process|protoporphyrinogen IX biosynthetic process from glutamate
+Q46822	ubiquinone biosynthetic process
+P0AEG1	dipeptide transport
+P0CF28	double-strand break repair|DNA recombination
+P0AAT4	cellular response to osmotic stress
+P39263	response to hydrogen peroxide
+P0C7L2	phenylacetate catabolic process
+P75905	biofilm formation
+P76350	isoleucine biosynthetic process|valine biosynthetic process
+P0AET2	response to pH
+P0AG90	protein transport
+P41072	DNA topological change|response to drug|DNA-dependent DNA replication
+P37018	cell adhesion
+P13979	nitrite transport
+P22106	glutamine metabolic process|cellular amino acid catabolic process|asparagine biosynthetic process
+P0A8I8	rRNA base methylation|rRNA methylation
+P76536	iron assimilation
+P26458	aerobic electron transport chain
+P02929	cobalamin transport
+P39176	peptidoglycan-protein cross-linking|Gram-negative-bacterium-type cell wall biogenesis
+P0A877	tryptophan biosynthetic process
+P0ABU5	positive regulation of isoprenoid metabolic process|isoprenoid biosynthetic process
+P27835	enterobacterial common antigen biosynthetic process
+P23871	protoporphyrinogen IX metabolic process|heme biosynthetic process|response to light stimulus
+P0AFS5	quorum sensing|transport
+P0AA37	tRNA pseudouridine synthesis|enzyme-directed rRNA pseudouridine synthesis
+P42915	pilus organization
+P0AF45	biofilm formation|extracellular polysaccharide biosynthetic process
+P11551	galactose transport|fructose transport|fucose transport|arabinose transport
+P76349	biotin biosynthetic process
+P31134	putrescine transport
+P33026	glucose transport|lactose transport|chromosome segregation
+P31069	potassium ion transport
+P33937	anaerobic respiration
+P15640	methylglyoxal catabolic process to D-lactate
+P52073	glycolate catabolic process
+P36649	response to copper ion
+P0AFU8	riboflavin biosynthetic process
+P62670	biofilm formation
+P0A8Q0	flagellum assembly|ciliary or flagellar motility|fermentation|anaerobic respiration
+P0CF64	sulfathiazole transport
+Q46864	regulation of transcription, DNA-dependent
+P39286	ribosomal small subunit biogenesis
+P0A8H3	manganese ion transport|cobalt ion transport|copper ion import
+P76216	arginine catabolic process
+P0ADU5	cellular response to hydrogen peroxide|cellular response to cadmium ion|single-species biofilm formation on inanimate substrate
+P24215	D-glucuronate catabolic process
+P23908	arginine biosynthetic process
+P33643	ribosomal large subunit assembly|enzyme-directed rRNA pseudouridine synthesis
+P75851	alkanesulfonate transport|sulfur compound metabolic process
+P0AES2	D-glucarate catabolic process
+P75925	cellular response to stress|biofilm formation
+P0A887	ubiquinone biosynthetic process|menaquinone biosynthetic process
+P0AG30	transcriptional attenuation
+P64530	negative regulation of transcription, DNA-dependent
+P69681	ammonium transport
+P39411	thiamine metabolic process
+P0A9P6	ribosomal large subunit assembly|cellular response to cold
+P32156	rhamnose catabolic process
+P0AB38	peptidoglycan biosynthetic process
+P69434	biofilm formation|transport
+P76472	response to iron(III) ion
+P23367	mismatch repair
+P25516	response to oxidative stress|tricarboxylic acid cycle|regulation of translation in response to oxidative stress|anaerobic respiration
+Q46871	cellular response to nickel ion
+P17444	glycine betaine biosynthetic process from choline|response to osmotic stress
+P39328	galactose transport
+P0AG16	glutamine metabolic process|purine nucleotide biosynthetic process
+P0AAC6	regulation of proteolysis
+P22333	purine ribonucleoside monophosphate biosynthetic process|purine nucleotide salvage|hypoxanthine salvage|adenosine catabolic process|purine nucleotide interconversion
+P0ABM5	cytochrome complex assembly|heme transport
+P77544	response to hydrogen peroxide
+P0A9M5	XMP salvage|GMP salvage|IMP salvage
+P64602	response to antibiotic|response to DNA damage stimulus
+P64578	negative regulation of translation|regulation of mRNA stability
+P17169	UDP-N-acetylglucosamine biosynthetic process
+P55135	rRNA base methylation|rRNA methylation
+P75958	lipoprotein transport
+P0AG20	nucleobase, nucleoside and nucleotide interconversion|guanosine tetraphosphate metabolic process
+P0ADF3	transcriptional attenuation
+P43329	mRNA processing
+P0A9Q1	regulation of transcription, DNA-dependent|two-component signal transduction system (phosphorelay)
+P36560	response to zinc ion|response to acid
+P69425	intracellular protein transmembrane transport
+P22256	gamma-aminobutyric acid catabolic process
+P13738	cellular sodium ion homeostasis|proton transport|sodium ion transport
+P25437	formaldehyde catabolic process
+P0ADS6	cellular response to stress|response to reactive oxygen species
+P0AGK1	ubiquinone biosynthetic process
+P0C0T5	peptidoglycan metabolic process
+P77334	posttranscriptional regulation of gene expression
+P02358	translation
+P0ABF1	plasmid maintenance|mRNA processing|mRNA polyadenylation|RNA modification
+P22939	farnesyl diphosphate biosynthetic process|geranyl diphosphate biosynthetic process
+P0AFK9	polyamine transport
+P0AFS3	10-formyltetrahydrofolate biosynthetic process|folic acid biosynthetic process
+P68644	carnitine metabolic process
+P67444	xanthine transport
+P0A7X6	maturation of SSU-rRNA
+P30131	protein carbamoylation|protein maturation
+P68767	plasmid recombination|peptide catabolic process
+P0AG59	translation
+P0AF90	mRNA catabolic process|regulation of catalytic activity
+P0A964	chemotaxis|signal transduction
+P28629	response to acid|intracellular pH elevation
+P0A7B8	response to heat
+P21165	peptide catabolic process
+P0A894	positive regulation of biological process|RNA processing
+P39346	L-idonate catabolic process
+P30176	cellular component movement
+P76502	protein modification process
+P0CF50	protein folding|response to heat|phage assembly
+P46889	response to salt stress|chromosome segregation|cellular response to antibiotic|cytokinetic cell separation|SOS response|cell division
+P77243	propionate metabolic process, methylcitrate cycle|carbohydrate catabolic process
+P0AGC0	glucose-6-phosphate transport
+P21889	aspartyl-tRNA aminoacylation
+P0AGB0	L-serine biosynthetic process
+P06612	DNA topological change
+P0AA25	cell redox homeostasis
+P0A972	negative regulation of transcription termination, DNA-dependent
+P19925	enterobactin biosynthetic process
+P69423	intracellular protein transmembrane transport
+P0AFS9	autolysis|cytokinetic cell separation
+P40120	regulation of beta-glucan biosynthetic process
+P0AD65	response to antibiotic|regulation of cell shape|peptidoglycan biosynthetic process|response to drug|cellular cell wall organization
+P0ADX9	rRNA base methylation
+P33340	cell adhesion involved in single-species biofilm formation
+P75823	glycine biosynthetic process
+P76344	response to cadmium ion|cellular response to zinc ion starvation
+P52643	cobalamin biosynthetic process
+P0AGM9	xanthine transport
+P0AGE0	mismatch repair|recombinational repair|SOS response
+P31825	tRNA methylation
+P0A953	fatty acid biosynthetic process
+P52097	wobble base lysidine biosynthesis|tRNA modification
+P23845	sulfur compound metabolic process
+P25522	xenobiotic metabolic process|response to pH|tRNA methylation
+P76000	oligosaccharide transport
+P0A9H1	base-excision repair, AP site formation
+P24082	nucleobase, nucleoside and nucleotide interconversion
+P0A794	pyridoxine biosynthetic process
+P37677	L-lyxose metabolic process
+P37690	autolysis|barrier septum formation|cytokinetic cell separation|response to drug
+P0ADA1	fatty acid catabolic process
+P77199	Gram-negative-bacterium-type cell wall biogenesis|cellular cell wall macromolecule metabolic process
+P0AC86	glycogen catabolic process
+P09557	regulation of cell division
+P31466	adenine transport
+P45577	positive regulation of transport
+Q46856	response to reactive oxygen species
+P75817	rRNA base methylation
+P0A9J4	pantothenate biosynthetic process from valine
+P0ABZ1	flagellum assembly|flagellar cell motility
+P0AEX9	maltodextrin transport|maltose transport
+P45562	nucleobase, nucleoside and nucleotide metabolic process
+P0AG99	intracellular protein transmembrane transport|protein transport by the Sec complex
+P17583	cyanate catabolic process|transmembrane transport
+P39297	response to hydrogen peroxide|response to acid|single-species biofilm formation
+P11349	cytochrome complex assembly|anaerobic respiration
+P76111	cellular component movement
+P0AEI4	peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid
+P23003	tRNA methylation
+Q9JMR2	protein folding
+P0AC02	protein insertion into membrane|Gram-negative-bacterium-type cell outer membrane assembly
+P77615	response to DNA damage stimulus
+P0ABA4	histidine biosynthetic process
+P0A9R7	response to antibiotic|cell division|cytokinesis
+Q47013	protein deubiquitination
+P0AFC7	electron transport coupled proton transport|anaerobic respiration|aerobic respiration
+P77528	threonine catabolic process|L-serine catabolic process
+P75898	nitrogen utilization|pyrimidine base catabolic process|uracil catabolic process
+P0A7H6	response to UV|DNA synthesis involved in DNA repair
+P0AGG2	fatty acid catabolic process
+P0A8M0	glutamine metabolic process|cellular amino acid catabolic process|asparagine biosynthetic process
+P0ABQ2	D-galactarate catabolic process|D-glucarate catabolic process
+P39375	response to DNA damage stimulus|negative regulation of protein catabolic process
+P19934	bacteriocin transport|protein import
+P23721	L-serine biosynthetic process|pyridoxal phosphate biosynthetic process
+P04968	L-serine catabolic process
+P0A9Y6	negative regulation of transcription termination, DNA-dependent
+P04395	DNA repair|base-excision repair|response to DNA damage stimulus|DNA dealkylation involved in DNA repair
+P11458	de novo NAD biosynthetic process from aspartate
+P58036	negative regulation of protein transport
+P46022	Gram-negative-bacterium-type cell wall biogenesis|peptidoglycan biosynthetic process
+P0AAC8	iron-sulfur cluster assembly
+Q57261	ubiquinone biosynthetic process
+P0AC81	methylglyoxal catabolic process to D-lactate
+P60844	cellular water homeostasis|water transport|response to osmotic stress
+P31120	protein autophosphorylation|UDP-N-acetylglucosamine biosynthetic process
+P46133	p-aminobenzoyl-glutamate transport
+P0A9I8	anaerobic respiration
+P08395	signal peptide processing
+P0AA41	tRNA pseudouridine synthesis
+P11446	arginine biosynthetic process
+P77499	iron-sulfur cluster assembly
+P0AAW9	cellular response to stress
+P67910	lipopolysaccharide core region biosynthetic process
+P0A6S7	glycerophospholipid biosynthetic process
+P77467	phenylacetate catabolic process
+P0ABZ6	protein folding|biofilm formation|protein stabilization|Gram-negative-bacterium-type cell outer membrane assembly|maintenance of stationary phase|chaperone mediated protein folding requiring cofactor
+P45748	threonylcarbamoyladenosine biosynthetic process
+P75857	pilus organization
+P10906	glycerol-3-phosphate transport|glycerol-2-phosphate transport
+P05050	oxidative demethylation
+P0ABW5	cell adhesion
+P76249	leucine transport
+P0AFE0	anaerobic respiration
+P0AFL6	polyphosphate catabolic process
+P69432	biofilm formation
+P07363	chemotaxis|protein autophosphorylation|positive regulation of protein dephosphorylation|establishment of localization in cell|two-component signal transduction system (phosphorelay)|phosphorylation
+P37095	peptide catabolic process
+P0AEE3	cellular response to misfolded protein
+P0AE60	response to DNA damage stimulus
+P0ABG4	regulation of cell shape|cell division|cytokinesis
+P0A910	entry of virus into host cell|transport|ion transport|conjugation|detection of virus
+P64564	cellular hyperosmotic response
+P76364	negative regulation of cell killing
+P37685	response to ethanol
+P77348	tripeptide transport
+P75715	cell adhesion
+P0AD79	mismatch repair
+P0AC47	flagellum assembly|ciliary or flagellar motility|fermentation|anaerobic respiration
+P25907	response to methylglyoxal
+P0ABB0	ATP synthesis coupled proton transport
+P0AFI2	DNA topological change|sister chromatid cohesion|chromosome segregation|plasmid partitioning|DNA-dependent DNA replication
+P63177	enzyme-directed rRNA 2'-O-methylation
+P0A9F6	regulation of transcription, DNA-dependent
+P08622	protein refolding|response to heat|DNA replication
+P37595	asparagine catabolic process
+P77804	cellular component movement
+P75993	biofilm formation
+P0AG00	enterobacterial common antigen biosynthetic process
+P18777	anaerobic respiration
+P0A776	RNA destabilization
+P25552	nucleobase, nucleoside and nucleotide interconversion|response to starvation|phosphorus metabolic process
+P14081	selenocysteine metabolic process|selenocysteine incorporation
+P21645	lipid A biosynthetic process
+P37908	carbohydrate catabolic process|non-phosphorylated glucose catabolic process
+P75825	oxidation-reduction process|response to hydrogen peroxide
+P31677	trehalose biosynthetic process|response to osmotic stress|trehalose metabolism in response to cold stress|response to stress
+P0ACC7	N-acetylglucosamine catabolic process
+P08244	nucleobase, nucleoside and nucleotide interconversion
+P60785	translational elongation
+P37746	response to antibiotic|response to DNA damage stimulus
+P32131	protoporphyrinogen IX biosynthetic process from glutamate
+P08202	arabinose catabolic process
+P0A7H0	response to UV|DNA synthesis involved in DNA repair
+P0A6E6	ATP synthesis coupled proton transport
+P37617	response to cadmium ion|detoxification of zinc ion
+Q9S4W2	glutamine catabolic process
+P0A7X3	translation
+P37051	purine ribonucleotide biosynthetic process|one-carbon metabolic process|10-formyltetrahydrofolate biosynthetic process
+Q46897	RNA processing
+P0AE16	peptidoglycan metabolic process|peptidoglycan transport
+P60061	response to acid|intracellular pH elevation
+P0ABJ1	aerobic electron transport chain
+Q9S4W7	protein maturation
+P76545	pyridoxine biosynthetic process|pyridoxal phosphate biosynthetic process
+Q47377	response to iron(III) ion|transport
+P0AFE8	electron transport coupled proton transport|anaerobic respiration|aerobic respiration
+P31545	iron assimilation|ferrous iron transport
+P39280	post-translational protein modification
+P52599	response to antibiotic|response to DNA damage stimulus
+P0ABF6	nucleobase, nucleoside and nucleotide interconversion
+P45563	nucleobase, nucleoside and nucleotide interconversion
+P0AB87	D-arabinose catabolic process|L-fucose catabolic process
+P64594	negative regulation of cell growth
+Q6BF16	D-galactonate catabolic process
+P18776	anaerobic respiration
+P00811	response to drug
+P0AET5	response to pH
+P0A7G6	cell motility|response to DNA damage stimulus
+P60651	putrescine biosynthetic process
+P0A769	manganese ion transport|cadmium ion transport|cobalt ion transport|ferrous iron transport|iron ion transport|metal ion transport
+P0AE52	response to oxidative stress
+P0A8Q3	fermentation|anaerobic respiration
+P06609	cobalamin transport
+P32689	extracellular polysaccharide biosynthetic process
+Q6BEX0	galactose transport
+P11071	peptidyl-serine phosphorylation|regulation of catalytic activity
+P36561	cobalamin biosynthetic process
+P0AEJ4	detection of temperature stimulus|protein autophosphorylation|cellular response to acid|protein dephosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation|regulation of response to osmotic stress
+P26281	folic acid biosynthetic process
+P75966	enzyme-directed rRNA pseudouridine synthesis
+P06709	biotin biosynthetic process
+P0ACV6	peptidoglycan catabolic process
+P25524	nucleobase, nucleoside and nucleotide interconversion
+P0A8V0	tRNA processing|RNA catabolic process
+P0AC75	lipid A biosynthetic process
+P0A993	fatty acid biosynthetic process
+P67701	regulation of transcription, DNA-dependent
+P69380	cadmium ion transport|cellular iron ion homeostasis|cellular zinc ion homeostasis|cellular cadmium ion homeostasis|zinc ion transport|ferrous iron transport
+P61889	glycolysis|malate metabolic process|tricarboxylic acid cycle|fermentation|anaerobic respiration
+P0AF96	single-species biofilm formation
+P0A879	tryptophan biosynthetic process
+P0ABK5	cysteine biosynthetic process from serine
+P31675	cellular response to stress|glucose transport|lactose transport
+P0A6F9	response to heat|phage assembly
+P0AFE4	anaerobic respiration
+P38051	menaquinone biosynthetic process
+P75860	cell adhesion involved in single-species biofilm formation
+P0AFB8	nitrogen compound metabolic process
+P75894	nitrogen utilization|pyrimidine base catabolic process|uracil catabolic process
+P0AFB5	protein autophosphorylation|regulation of nitrogen compound metabolic process|two-component signal transduction system (phosphorelay)
+P31459	D-galactonate catabolic process
+P36938	carbohydrate catabolic process
+P38052	cell adhesion
+P12999	biotin biosynthetic process
+P18355	regulation of protein kinase activity
+P0ABM1	cytochrome complex assembly
+P75742	dipeptide transport
+P23865	proteolysis|protein catabolic process
+P77689	iron-sulfur cluster assembly
+P0ABC7	response to heat
+P45807	cellular response to stress
+P0AFD1	anaerobic respiration
+P42596	rRNA base methylation
+P15043	DNA repair|DNA recombination
+P36999	rRNA base methylation
+P28307	cell adhesion
+P39206	carnitine metabolic process
+P0A8S1	negative regulation of DNA-dependent DNA replication initiation|DNA-dependent DNA replication
+P0ACD4	oxazole or thiazole biosynthetic process|iron-sulfur cluster assembly|tRNA pseudouridine synthesis
+P0ADF6	L-serine biosynthetic process
+P0A7E3	pyrimidine nucleotide biosynthetic process
+P0A720	nucleobase, nucleoside and nucleotide interconversion|dTDP biosynthetic process|dTTP biosynthetic process
+P77667	response to oxidative stress|iron-sulfur cluster assembly
+P0ABQ0	coenzyme A biosynthetic process
+P50465	base-excision repair
+P37772	galactose transport
+P36979	rRNA base methylation
+P0A6B7	tRNA pseudouridine synthesis
+P11350	cytochrome complex assembly|anaerobic respiration
+Q46798	autolysis|cytokinetic cell separation
+P37355	menaquinone biosynthetic process
+P0A6F1	glutamine metabolic process|arginine biosynthetic process|'de novo' pyrimidine base biosynthetic process
+Q9JMT2	translation
+P37195	response to acid
+P0AC28	dormancy process
+P0A935	peptidoglycan biosynthetic process|cytokinesis
+P39304	L-ascorbic acid catabolic process
+P36767	regulation of DNA recombination
+P75971	response to drug
+P76082	phenylacetate catabolic process
+P37765	enzyme-directed rRNA pseudouridine synthesis
+P42641	ribosome assembly|chromosome segregation
+P78061	putrescine catabolic process
+P0A6A6	leucine biosynthetic process
+P39370	carboxylic acid metabolic process
+P31551	carnitine catabolic process
+P32719	D-allose catabolic process
+P08373	regulation of cell shape|peptidoglycan biosynthetic process
+P0A7S3	translation
+P0AE58	carnitine metabolic process
+P0AEA5	heme O biosynthetic process
+P0ABE2	response to osmotic stress
+P77288	cell adhesion
+P75862	toxin catabolic process
+P30744	L-serine catabolic process
+P69054	cytochrome complex assembly|aerobic respiration
+P11519	cAMP biosynthetic process
+P76037	putrescine transport|putrescine catabolic process
+P39305	L-ascorbic acid metabolic process
+P31129	negative regulation of flagellum assembly|negative regulation of cellular component movement|cell adhesion involved in single-species biofilm formation
+P0ADV9	lipopolysaccharide transport
+P69937	oxidation-reduction process|response to oxidative stress|superoxide metabolic process|response to heat|removal of superoxide radicals|response to acidity|cellular response to selenium ion
+P77735	thiamine metabolic process
+P0ADK6	response to antibiotic|response to DNA damage stimulus
+P0A9J8	tyrosine biosynthetic process|L-phenylalanine biosynthetic process
+P0A9A6	protein polymerization|cell division
+P75779	cellular iron ion homeostasis
+P0A873	tRNA methylation
+P76083	phenylacetate catabolic process
+P37388	D-ribose transport|D-xylose transport
+P36683	propionate catabolic process, 2-methylcitrate cycle|regulation of translation
+P52129	mRNA catabolic process
+P0A6T5	folic acid biosynthetic process
+P24077	response to antibiotic|response to DNA damage stimulus|enterobactin transport
+P75859	cell adhesion involved in single-species biofilm formation
+P0A8I3	autolysis|cytokinetic cell separation
+P0C054	response to heat
+P43667	valine transport
+P0A8A4	regulation of transferase activity
+P42604	D-galacturonate catabolic process
+P36929	rRNA base methylation
+P76055	tRNA modification
+P39400	L-galactonate catabolic process
+P69506	protein repair|response to stress
+P39277	glycine betaine biosynthetic process from choline|response to osmotic stress
+P31663	pantothenate biosynthetic process from valine
+P75838	peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid
+P0ADG4	inositol phosphate dephosphorylation
+P76213	response to DNA damage stimulus
+P0AAJ3	cellular respiration|anaerobic respiration
+P0C0V0	protein folding|response to oxidative stress|proteolysis|response to temperature stimulus|misfolded or incompletely synthesized protein catabolic process
+P16683	alkylphosphonate transport
+P75906	biofilm formation
+P0AFD4	anaerobic respiration|aerobic respiration
+P77634	response to antibiotic|response to DNA damage stimulus
+P17445	glycine betaine biosynthetic process from choline|response to osmotic stress
+P64567	cellular response to stress
+P18200	glycerophospholipid biosynthetic process
+P0AFA7	cellular sodium ion homeostasis|proton transport|response to lithium ion|sodium ion transport|intracellular pH reduction
+P19319	anaerobic respiration
+P25397	response to tellurium ion
+P31058	response to antibiotic|response to DNA damage stimulus|cell adhesion involved in single-species biofilm formation
+P80645	alkanesulfonate catabolic process
+P25553	rhamnose catabolic process|D-arabinose catabolic process|L-fucose catabolic process
+P37758	nitrate transport|nitrite transport
+P76251	malate metabolic process
+P21513	RNA catabolic process
+P0AEW9	fructose catabolic process
+P42913	cell adhesion
+P00452	nucleobase, nucleoside and nucleotide interconversion|deoxyribonucleotide biosynthetic process
+P76298	flagellum assembly
+P0AGI4	D-ribose transport|D-xylose transport
+P10902	UDP-N-acetylglucosamine biosynthetic process
+P09372	response to heat
+P06136	barrier septum formation
+Q46791	anaerobic respiration
+P0AE01	tRNA methylation
+P0AFQ5	nitrogen utilization|pyrimidine base catabolic process|uracil catabolic process
+P39325	galactose transport
+P41066	spermidine biosynthetic process
+P37197	response to hydrogen peroxide
+P16659	prolyl-tRNA aminoacylation
+P0ABS5	DNA replication, synthesis of RNA primer
+P77581	ornithine catabolic process|arginine catabolic process
+P45395	keto-3-deoxy-D-manno-octulosonic acid biosynthetic process
+P10121	SRP-dependent cotranslational protein targeting to membrane
+P77172	cellular response to hydrogen peroxide|cellular response to anoxia
+P23538	gluconeogenesis
+P76445	Gram-negative-bacterium-type cell outer membrane assembly
+P60752	lipid transport
+P0A8M3	threonyl-tRNA aminoacylation|negative regulation of translational initiation
+P39838	peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)
+P22525	Gram-negative-bacterium-type cell wall biogenesis|cellular cell wall macromolecule metabolic process
+P24183	cellular respiration|anaerobic respiration
+P12996	biotin biosynthetic process
+P60390	rRNA base methylation
+P23847	dipeptide transport
+P77211	response to silver ion|copper ion export|response to copper ion
+P24174	colanic acid biosynthetic process|hyperosmotic response
+P0AA78	D-galacturonate catabolic process
+P19318	anaerobic respiration
+P0AG11	response to DNA damage stimulus
+P41052	peptidoglycan biosynthetic process|cytokinesis
+P32684	enzyme-directed rRNA pseudouridine synthesis
+P0A6H5	response to heat
+P0A8R0	negative regulation of endoribonuclease activity|RNA catabolic process
+P0AEG6	protein folding
+P17993	ubiquinone biosynthetic process
+P0AFC3	anaerobic respiration
+P36675	rescue of stalled ribosome
+P0AF40	ubiquinone biosynthetic process
+P10441	lipid A biosynthetic process
+Q46948	protein refolding|cellular response to oxidative stress
+P0A7R9	translation
+P25714	protein insertion into membrane
+P0ADA3	autolysis|barrier septum formation|cytokinetic cell separation|response to drug
+P0AGJ7	wobble position uridine ribose methylation|wobble position cytosine ribose methylation
+P0A9N8	nucleobase, nucleoside and nucleotide interconversion
+P33225	anaerobic respiration|aerobic respiration
+P0A9H7	lipid modification
+P0A998	intracellular sequestering of iron ion
+P77366	response to antibiotic|response to DNA damage stimulus
+P0AGE6	xenobiotic metabolic process
+P0ABE9	cyanate catabolic process
+P0AAN1	protein maturation
+P76208	SOS response|response to DNA damage stimulus
+P33235	flagellum assembly
+P23895	xenobiotic metabolic process|transport|response to drug
+P39901	quorum sensing|single-species biofilm formation
+P69820	phosphoenolpyruvate-dependent sugar phosphotransferase system
+P0ACB2	polyamine transport
+P0ABA6	ATP synthesis coupled proton transport
+P07109	histidine transport|histidine biosynthetic process
+P0A7U7	translation
+P0A8H6	negative regulation of ribosome biogenesis|positive regulation of GTPase activity
+P0ADR6	mannose catabolic process|colanic acid biosynthetic process|enzyme-directed rRNA 2'-O-methylation|GDP-mannose biosynthetic process|fatty acid biosynthetic process
+P26648	response to oxidative stress|iron-sulfur cluster assembly
+P0A9J0	rRNA processing
+P60932	response to drug
+P77434	L-alanine biosynthetic process from pyruvate
+P0AFU0	microcin transport
+P0AGE4	amino acid transport|serine transport
+P76316	D-amino acid metabolic process|sulfur compound metabolic process|response to stress
+P04152	response to DNA damage stimulus
+P29131	barrier septum formation|cell cycle cytokinesis
+P60472	polyprenol biosynthetic process
+P0A8K8	L-serine catabolic process
+P64512	cellular response to stress|cellular response to magnesium ion
+P76499	cell adhesion
+P0A9K9	protein refolding|protein stabilization|response to heat|protein maturation|protein maturation by protein folding
+P76474	response to iron(III) ion|transport
+P0AD42	tRNA wobble adenosine to inosine editing
+P0A836	tricarboxylic acid cycle
+P52095	leucine biosynthetic process
+P0AEY3	cellular response to starvation
+P33931	heme transport
+P0A937	protein insertion into membrane|Gram-negative-bacterium-type cell outer membrane assembly
+P39300	L-ascorbic acid catabolic process
+P13000	biotin biosynthetic process
+P45539	fructoselysine metabolic process
+P0AC30	cytokinesis
+P32687	extracellular polysaccharide biosynthetic process
+P40191	pyridoxine biosynthetic process
+P23522	D-galactarate catabolic process|glucarate catabolic process|D-glucarate catabolic process
+P76547	lipopolysaccharide core region biosynthetic process
+P69210	spermidine transport
+P03819	potassium ion transport
+P0AF73	enzyme-directed rRNA 2'-O-methylation
+P37634	carbon utilization
+P00926	D-serine metabolic process
+P77214	response to silver ion|response to zinc ion|response to copper ion
+P76551	positive regulation of lyase activity|protein repair
+P16095	L-serine catabolic process
+P06129	cobalamin transport
+P0ADC6	lipopolysaccharide transport
+P77150	pyridoxal metabolic process|pyridoxal 5'-phosphate salvage
+P23909	mismatch repair
+Q59385	response to acidity
+P0AAJ5	cellular respiration|anaerobic respiration
+P0AC13	response to drug|folic acid biosynthetic process
+Q47149	response to antibiotic
+P0A7D4	nucleobase, nucleoside and nucleotide interconversion|purine nucleotide biosynthetic process|adenosine biosynthetic process
+P0ADD7	response to methylglyoxal
+P0A8G6	response to oxidative stress
+P09151	leucine biosynthetic process
+P0AAN3	cofactor biosynthetic process|protein maturation
+Q46893	ubiquinone biosynthetic process
+P45394	galactose transport
+P0A9P9	L-idonate catabolic process
+P33226	anaerobic respiration|aerobic respiration
+P75777	cellular iron ion homeostasis
+P08200	tricarboxylic acid cycle|electron transport chain
+P32157	response to toxin
+P60595	nitrogen utilization|ammonia assimilation cycle
+P52074	glycolate catabolic process
+P24228	peptidoglycan catabolic process|response to drug|peptidoglycan metabolic process|cellular cell wall macromolecule metabolic process|cellular cell wall organization|cell wall macromolecule catabolic process|peptidoglycan turnover
+P0A9B6	pyridoxine biosynthetic process|pyridoxal phosphate biosynthetic process|glucose metabolic process
+P10907	glycerol-3-phosphate transport|glycerol-2-phosphate transport
+P32171	rhamnose catabolic process
+P33343	cell adhesion
+P0ADR0	cellular component movement
+P0ADV1	lipopolysaccharide transport
+P77522	iron-sulfur cluster assembly
+P45568	ubiquinone biosynthetic process
+P37016	cell adhesion involved in single-species biofilm formation
+P77239	cellular copper ion homeostasis|response to silver ion|detoxification of copper ion|response to copper ion
+P75897	nitrogen utilization|pyrimidine base catabolic process|uracil catabolic process
+P0AEC3	two-component signal transduction system (phosphorelay)
+P76630	valine transport
+P27243	lipopolysaccharide core region biosynthetic process
+P11553	D-arabinose catabolic process|L-fucose catabolic process
+Q46925	sulfur amino acid metabolic process
+P0A6P9	glycolysis
+P0A7V3	translation
+P0AAB4	ubiquinone biosynthetic process
+P96329	glutamine catabolic process
+P0AFG8	acetyl-CoA biosynthetic process from pyruvate
+P76575	cellular component movement
+P63235	intracellular pH elevation
+P32662	DNA repair|dephosphorylation
+P77712	fatty acid beta-oxidation
+Q47269	mismatch repair
+P38393	negative regulation of cell division
+P27303	response to drug
+P37313	dipeptide transport
+P17443	peptidoglycan biosynthetic process
+P75892	uracil catabolic process
+Q46810	Mo-molybdopterin cofactor biosynthetic process
+P32137	cadmium ion transport|cellular iron ion homeostasis|cellular zinc ion homeostasis|cellular cadmium ion homeostasis|zinc ion transport|ferrous iron transport
+P19926	glucose metabolic process
+P0AAI3	proteolysis
+P52130	negative regulation of endoribonuclease activity
+P52101	protein autophosphorylation|two-component signal transduction system (phosphorelay)
+P0AFH2	tripeptide transport
+P22564	ribonucleoside catabolic process
+P69411	colanic acid biosynthetic process|intracellular signal transduction
+P0ADZ4	translation
+P26459	aerobic electron transport chain
+P0AGA2	intracellular protein transmembrane transport|protein transport by the Sec complex
+P21888	cysteinyl-tRNA aminoacylation
+P76562	tRNA acetylation|tRNA wobble cytosine modification
+P77671	allantoin assimilation pathway
+P0A8N7	protein-lysine lysylation|post-translational protein modification
+P0ACG8	response to heat|cellular response to heat
+P69822	phosphoenolpyruvate-dependent sugar phosphotransferase system
+P0AG80	glycerol-3-phosphate transport|glycerol-2-phosphate transport
+P69783	CTP biosynthetic process
+P37353	menaquinone biosynthetic process
+P39406	rRNA base methylation|rRNA methylation
+P80644	cellular response to sulfate starvation|alkanesulfonate catabolic process
+P21693	ribosomal large subunit assembly
+P0AE76	cobalamin biosynthetic process
+P0AG24	nucleobase, nucleoside and nucleotide interconversion
+P0AEK7	cytochrome complex assembly|cellular respiration|anaerobic respiration
+P00509	aspartate biosynthetic process
+P41409	pyrimidine ribonucleoside catabolic process
+P0A9H5	cobalamin biosynthetic process
+P31660	propionate metabolic process, methylcitrate cycle
+P27838	protein complex assembly
+P0A6X3	negative regulation of translation, ncRNA-mediated
+P0ABT8	transmembrane transport
+P0ABD5	fatty acid biosynthetic process
+P69503	adenine salvage
+P37909	ferredoxin metabolic process|coenzyme metabolic process
+P23524	D-galactarate catabolic process|D-glucarate catabolic process
+Q47083	positive regulation of sulfur utilization
+P75728	ubiquinone biosynthetic process
+P75946	peptidoglycan biosynthetic process
+P16384	cellular response to heat|tRNA modification
+P0AA16	two-component signal transduction system (phosphorelay)
+P31554	Gram-negative-bacterium-type cell outer membrane assembly|lipopolysaccharide transport|response to organic substance
+P25772	DNA ligation
+Q47719	N-terminal peptidyl-alanine trimethylation|peptidyl-lysine trimethylation
+P62623	ribonucleoside catabolic process
+P0ABH0	cell division|cytokinesis
+P31469	bacteriocin immunity
+P0AC23	formate transport
+P0AEP1	galactose transport
+P0AD70	response to drug
+P37019	nitrate transport|chloride transport
+P10031	cell adhesion
+P0AF98	lipopolysaccharide transport
+P33590	negative chemotaxis
+P19769	response to DNA damage stimulus
+P69212	spermidine transport
+P39835	gluconate transport
+P0A6Q3	fatty acid biosynthetic process
+P11868	anaerobic amino acid catabolic process|threonine catabolic process
+A5A619	gluconeogenesis|glycolysis
+P64519	cellular response to hydrogen peroxide|cellular response to acidity|single-species biofilm formation on inanimate substrate
+P30958	DNA repair|regulation of transcription, DNA-dependent|transcription-coupled nucleotide-excision repair, DNA damage recognition
+P0AFK6	polyamine transport
+P0AGE9	tricarboxylic acid cycle
+P0ADC3	lipoprotein transport
+P0AF26	chaperone-mediated protein complex assembly
+P62617	ubiquinone biosynthetic process
+P21179	hydrogen peroxide catabolic process
+P37671	negative regulation of transcription, DNA-dependent
+P76149	gamma-aminobutyric acid catabolic process|arginine catabolic process|putrescine catabolic process
+P17315	iron assimilation
+P0A8D6	negative regulation of nuclease activity
+P27305	tRNA wobble base modification
+P31574	carnitine metabolic process
+P75962	cellular component movement
+P39301	phosphoenolpyruvate-dependent sugar phosphotransferase system
+P75908	negative regulation of cellular component movement
+P0A6K3	N-terminal protein amino acid modification
+P0AE18	protein initiator methionine removal
+P61316	lipoprotein transport
+P33345	response to DNA damage stimulus
+P21170	arginine catabolic process|putrescine biosynthetic process
+P75992	biofilm formation
+P76577	peptidoglycan biosynthetic process
+P75856	pilus organization
+P17411	carbohydrate catabolic process
+P0AC53	glycogen biosynthetic process
+P42632	threonine catabolic process|anaerobic respiration
+P39831	uracil catabolic process
+P30843	response to iron(III) ion|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)
+P34749	transport|carbon utilization
+P0AE06	response to drug
+P64508	cellular response to stress|cellular response to heat
+P69908	intracellular pH elevation
+P33599	anaerobic respiration
+P77510	protein autophosphorylation|cellular response to organic substance|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)
+P75987	cellular response to magnesium starvation|negative regulation of protein catabolic process
+P22255	sulfate assimilation
+P75820	peptidoglycan catabolic process
+P46482	response to chemical stimulus|carboxylic acid transport
+P0A9U3	response to cold
+P0AA70	transmembrane transport
+P77335	cytolysis in other organism|hemolysis in other organism
+P77468	pilus organization
+P76500	cell adhesion
+P33602	anaerobic respiration|aerobic respiration
+P60906	histidyl-tRNA aminoacylation
+P0AFG6	tricarboxylic acid cycle
+P39282	galactose transport
+P08192	10-formyltetrahydrofolate biosynthetic process|folic acid biosynthetic process
+P0AE82	protein autophosphorylation|two-component signal transduction system (phosphorelay)
+Q9S4X5	cellular amino acid biosynthetic process|pyrimidine base biosynthetic process
+P0A6L0	nucleobase, nucleoside and nucleotide interconversion|carbohydrate catabolic process|deoxyribonucleotide catabolic process
+P32696	cellular response to stress|phage shock
+P41069	cellular response to hydrogen peroxide|single-species biofilm formation on inanimate substrate
+P17115	biofilm formation
+P0A6L2	diaminopimelate biosynthetic process
+P0AG86	protein targeting|protein transport by the Sec complex
+P25519	response to heat
+P0AAD8	amino acid transport
+P52061	nucleoside triphosphate catabolic process
+P30860	arginine transport
+P37003	response to oxidative stress|iron-sulfur cluster assembly|cellular response to iron ion starvation|carbon utilization
+P13857	N-terminal peptidyl-serine acetylation|N-terminal protein amino acid acetylation
+P32688	extracellular polysaccharide biosynthetic process
+P0ACI6	response to amino acid stimulus
+P0C0R7	enzyme-directed rRNA 2'-O-methylation
+P0A9Q5	negative regulation of translation|fatty acid biosynthetic process
+P0A6T3	galactose catabolic process via UDP-galactose|galactose metabolic process|phosphorylation
+Q46896	response to DNA damage stimulus
+P0AB49	cellular response to hydrogen peroxide|cellular response to cadmium ion|single-species biofilm formation on inanimate substrate
+P80668	4-nitrophenol catabolic process|NAD biosynthetic process
+P00579	response to heat
+P0AES6	DNA topological change|response to drug|DNA-dependent DNA replication
+P0AFM6	response to heat
+P0ADV7	phospholipid transport
+P02359	translation
+P13482	cellular hyperosmotic response|trehalose catabolic process
+P03004	regulation of DNA replication|DNA-dependent DNA replication
+P37646	cell motility
+P69922	D-arabinose catabolic process|L-fucose catabolic process
+P0AFW8	regulation of transcription termination, DNA-dependent
+P75864	rRNA base methylation|rRNA methylation
+P23882	charged-tRNA amino acid modification
+P0ABU0	menaquinone biosynthetic process
+P09148	galactose metabolic process
+P0A7W1	translation
+P0AC44	cytochrome complex assembly|aerobic respiration
+P0AD83	transcriptional attenuation|pyrimidine nucleotide biosynthetic process|pyrimidine base biosynthetic process
+P0A8B5	response to stress
+P0A9M0	proteolysis|response to heat|response to stress
+Q9JMS3	translation
+P76535	amino sugar catabolic process|peptidoglycan turnover
+P0A9X9	response to cold|negative regulation of transcription termination, DNA-dependent
+P0AFF6	transcription antitermination
+P23894	proteolysis|response to temperature stimulus
+P0C058	response to heat
+P04693	tyrosine biosynthetic process|L-phenylalanine biosynthetic process|aspartate biosynthetic process
+P76242	transmembrane transport
+P39394	mRNA catabolic process|SOS response|response to DNA damage stimulus
+P0A9E5	response to nitric oxide
+P0AD89	tryptophan catabolic process|transcriptional attenuation by ribosome
+P25539	riboflavin biosynthetic process
+P15047	enterobactin biosynthetic process
+P0ACI0	pyridoxine biosynthetic process
+P0A7R5	translation|transcription antitermination
+P0AF16	peptidoglycan biosynthetic process|lipid translocation
+P0A940	protein insertion into membrane|Gram-negative-bacterium-type cell outer membrane assembly
+P0AF18	N-acetylglucosamine catabolic process
+P33666	response to DNA damage stimulus
+P77526	response to oxidative stress
+P0ADC1	lipopolysaccharide biosynthetic process
+P0AEB2	peptidoglycan metabolic process|cellular cell wall macromolecule metabolic process|cell division
+P40711	rescue of stalled ribosome
+P0A7W7	translation|regulation of mRNA stability
+P0A8L1	selenocysteine biosynthetic process|seryl-tRNA aminoacylation
+P42593	diaminopimelate biosynthetic process
+P30011	de novo NAD biosynthetic process from aspartate|NAD biosynthetic process
+P37680	pentose catabolic process|L-lyxose metabolic process
+P31133	putrescine transport
+P0C0S1	cellular water homeostasis
+P67087	enzyme-directed rRNA 2'-O-methylation
+P64442	cellular response to stress|biofilm formation
+P77774	protein insertion into membrane|Gram-negative-bacterium-type cell outer membrane assembly
+P0AEP9	glycolate catabolic process
+P0AC19	folic acid-containing compound metabolic process
+P46891	thiamine biosynthetic process
+P0A948	N-terminal protein amino acid acetylation
+P43319	cell adhesion involved in single-species biofilm formation
+Q46790	allantoin assimilation pathway
+P0AFL1	putrescine transport
+P10378	enterobactin biosynthetic process
+P67601	cellular response to stress|cellular response to heat
+P00448	oxidation-reduction process|superoxide metabolic process|removal of superoxide radicals
+P32053	provirus excision
+P0AGL7	rRNA base methylation
+P15288	peptide catabolic process
+P64548	flagellar cell motility
+P0AGD3	oxidation-reduction process|superoxide metabolic process|response to superoxide|removal of superoxide radicals
+P0AAG0	dipeptide transport
+P02918	response to drug
+P64481	SOS response|response to DNA damage stimulus
+P76491	dUMP biosynthetic process
+Q46865	negative regulation of translation|single-species biofilm formation|regulation of mRNA stability
+P36881	putrescine biosynthetic process
+P33997	positive regulation of transcription, DNA-dependent|biofilm formation
+P45425	N-acetylneuraminate catabolic process
+P0ACV0	lipid A biosynthetic process
+P31119	fatty acid metabolic process|phospholipid biosynthetic process
+P06983	peptidyl-pyrromethane cofactor linkage|heme biosynthetic process
+P69451	acyl-CoA metabolic process|fatty acid beta-oxidation|fatty acid metabolic process|phospholipid biosynthetic process
+P76027	peptidoglycan-associated peptide transport
+P37647	D-glucuronate catabolic process|D-galacturonate catabolic process
+P31553	carnitine transport
+P32176	cellular respiration|anaerobic respiration
+P0AD68	response to drug|cell division
+P31135	putrescine transport
+P0A6Z3	response to heat
+P42630	cellular amino acid catabolic process
+P75780	microcin transport
+P33667	tRNA wobble uridine modification
+P30126	leucine biosynthetic process
+P15373	regulation of cell growth
+P0AB24	response to antibiotic|response to zinc ion|ferrous iron transport|response to DNA damage stimulus
+P37050	cell adhesion
+P0A9T0	L-serine biosynthetic process
+P33941	response to antibiotic|peptide transport
+P18392	protein autophosphorylation|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)
+P29208	menaquinone biosynthetic process
+P0AC35	leucine biosynthetic process|tyrosine biosynthetic process|tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate|L-phenylalanine biosynthetic process from chorismate via phenylpyruvate|L-phenylalanine biosynthetic process|aspartate biosynthetic process
+P60720	protein modification process|lipoate biosynthetic process
+P0ABQ4	'de novo' pyrimidine base biosynthetic process
+P32132	response to cold|translation
+P0AAA1	response to acidity
+P75954	peptidoglycan-protein cross-linking|Gram-negative-bacterium-type cell wall biogenesis
+P76250	positive regulation of transcription, DNA-dependent|malate metabolic process
+P0AAR0	single-species biofilm formation
+P0A8P6	plasmid recombination|plasmid maintenance|DNA recombination
+P68398	tRNA wobble adenosine to inosine editing
+P0A9M2	peptidyl-serine phosphorylation|regulation of catalytic activity
+P0A9V8	toxin catabolic process
+P18196	regulation of cell division
+P13039	iron ion transport
+P36837	dipeptide transport|oligopeptide transport|tripeptide transport
+P52644	response to heat
+P37745	response to antibiotic|response to DNA damage stimulus
+P69910	proline biosynthetic process
+P32718	D-allose catabolic process
+Q9JMS6	flagellum assembly|ciliary or flagellar motility|fermentation|anaerobic respiration
+P52600	glycolysis
+P62517	glucan biosynthetic process|response to osmotic stress
+P10905	glycerol-3-phosphate transport|glycerol-2-phosphate transport
+P16703	cysteine biosynthetic process from serine
+P25534	response to oxidative stress|ubiquinone biosynthetic process|response to light stimulus
+P06710	DNA-dependent DNA replication
+P0AA39	rRNA pseudouridine synthesis|enzyme-directed rRNA pseudouridine synthesis
+P37351	D-allose catabolic process
+P0AEE8	mismatch repair|DNA-dependent DNA replication
+P0ABK2	cytochrome complex assembly
+P0A8A8	ribosomal small subunit assembly
+P41065	rhamnose catabolic process|L-lyxose metabolic process
+P0AFF0	anaerobic respiration|aerobic respiration
+P0A8Y1	response to xenobiotic stimulus
+P76015	monosaccharide catabolic process
+P77338	cellular water homeostasis
+P68183	maltodextrin transport|maltose transport
+P0A898	ribosomal small subunit biogenesis|response to heat|translation
+P33352	cellular component movement
+P33022	pyrimidine ribonucleoside catabolic process
+P39399	galactonate catabolic process
+P77044	aromatic compound catabolic process
+P68679	translation
+P60664	histidine biosynthetic process
+P0AB98	ATP synthesis coupled proton transport
+P0A7E1	cellular amino acid biosynthetic process|diaminopimelate biosynthetic process
+P0AAV6	cellular response to stress
+P0A734	regulation of barrier septum formation
+P39829	D-galactarate catabolic process
+P77488	ubiquinone biosynthetic process|pyridoxine biosynthetic process|thiamine biosynthetic process
+P0A850	protein complex assembly|'de novo' cotranslational protein folding
+P31125	cysteine export
+P0A9M8	acetyl-CoA biosynthetic process from acetate|acetate biosynthetic process|threonine catabolic process to propionate|acetate catabolic process
+P38036	defense response to virus
+P0A9H9	tyrosine biosynthetic process|L-phenylalanine biosynthetic process
+P18148	mismatch repair
+Q6BF17	D-galactonate catabolic process
+P0A847	tRNA wobble guanine modification|queuosine biosynthetic process
+P0AEU7	protein folding|protein insertion into membrane from inner side|protein stabilization|intracellular protein transmembrane transport|Gram-negative-bacterium-type cell outer membrane assembly
+P0AFK4	polyamine transport
+P64614	cellular response to hydrogen peroxide|cellular response to acidity|single-species biofilm formation on inanimate substrate
+P0A6G7	response to heat
+P37330	glyoxylate catabolic process
+P76010	regulation of cellular component movement|flagellar cell motility
+P0ABJ3	electron transport coupled proton transport|aerobic electron transport chain
+P0A959	response to antibiotic|L-alanine biosynthetic process from pyruvate|response to DNA damage stimulus
+P08204	arabinose catabolic process|L-arabinose catabolic process
+P0AFP2	DNA repair
+P21507	ribosomal large subunit assembly
+P39453	protein autophosphorylation|cellular response to organic substance|two-component signal transduction system (phosphorelay)|anaerobic respiration
+P62601	cellular hyperosmotic response|trehalose catabolic process
+P0AG63	response to antibiotic|translation
+P46136	phenylalanine transport|tyrosine transport|tryptophan transport
+P36553	heme biosynthetic process|protoporphyrinogen IX biosynthetic process from glutamate
+P0AEP7	glyoxylate catabolic process|glycolate catabolic process
+P37387	D-xylose catabolic process
+P0ABJ9	cytochrome complex assembly
+P75733	chitin metabolic process
+P39306	L-ascorbic acid metabolic process
+P0A6D0	plasmid recombination
+P0ACY9	cellular response to stress
+P0A6S5	cell division
+P10408	protein transport
+P75893	nitrogen utilization|pyrimidine base catabolic process|uracil catabolic process
+P31979	anaerobic respiration|aerobic respiration
+P45470	response to UV|response to oxidative stress|response to pH|response to heat
+P11557	cytokinesis
+P45578	cell-cell signaling involved in quorum sensing|L-methionine biosynthetic process from S-adenosylmethionine|generation of a signal involved in cell-cell signaling
+P46481	response to chemical stimulus|carboxylic acid transport
+P0A9V1	lipopolysaccharide transport
+P68187	maltodextrin transport|maltose transport
+P0A7S9	translation
+P0ADF8	isoleucine biosynthetic process|valine biosynthetic process
+P0ABW3	ferredoxin metabolic process|coenzyme metabolic process
+P04036	cellular amino acid biosynthetic process|diaminopimelate biosynthetic process
+P0AAC0	cellular response to UV|cellular response to hydrogen peroxide|single-species biofilm formation|response to stress|flagellar cell motility
+P0A8Y8	enterobactin biosynthetic process
+P0A9D4	cysteine biosynthetic process from serine
+P05523	response to DNA damage stimulus
+P0AEJ2	enterobactin biosynthetic process
+P64604	cellular response to stress
+P0CE45	cytokinesis
+P30125	leucine biosynthetic process|cellular response to amino acid starvation
+P0A6Y5	response to heat
+P76323	flagellar cell motility
+P0A8N3	lysyl-tRNA aminoacylation|translation
+P0ACB4	heme biosynthetic process
+P78285	lytic viral release
+P20083	sister chromatid cohesion|plasmid partitioning
+P0A8D3	thiamine metabolic process
+P33224	cellular response to stress
+P75957	lipoprotein transport
+P33916	microcin transport
+P76473	response to iron(III) ion|lipopolysaccharide biosynthetic process
+P18775	anaerobic respiration
+P77454	response to acidity
+P0AFW2	cellular response to stress
+P75830	glycolysis|malate metabolic process|tricarboxylic acid cycle|fermentation|anaerobic respiration
+P27434	regulation of cell shape|peptidoglycan biosynthetic process
+P0A725	lipid A biosynthetic process
+P77455	phenylacetate catabolic process
+P75863	toxin catabolic process
+P69441	purine ribonucleotide interconversion|purine ribonucleotide biosynthetic process
+P62615	ubiquinone biosynthetic process
+P75858	cell adhesion involved in single-species biofilm formation
+P76546	negative regulation of phosphate metabolic process
+P76458	protein autophosphorylation|two-component signal transduction system (phosphorelay)
+P0AFF4	menaquinone biosynthetic process
+P14376	protein autophosphorylation|cellular response to osmotic stress|single-species biofilm formation|two-component signal transduction system (phosphorelay)
+P32169	rhamnose catabolic process
+P0AAF1	putrescine transport
+P33913	microcin transport
+P0ABA0	ATP synthesis coupled proton transport
+P17109	menaquinone biosynthetic process
+P18034	protein refolding
+P0A8N5	lysyl-tRNA aminoacylation|translation
+P67662	regulation of transcription, DNA-dependent
+P0A903	protein insertion into membrane|Gram-negative-bacterium-type cell outer membrane assembly
+P75782	rRNA base methylation
+P64550	cellular response to stress
+P0A8G3	D-glucuronate catabolic process|D-galacturonate catabolic process
+P0ACJ0	response to leucine|regulation of transcription, DNA-dependent
+P0CF13	drug transmembrane transport|sulfathiazole transport
+Q47156	negative regulation of molecular function|regulation of transcription, DNA-dependent
+P37642	transport
+P60566	carnitine metabolic process
+P02930	response to organic cyclic compound|enterobactin transport
+P31057	leucine biosynthetic process|cellular response to amino acid starvation
+P25746	response to heat
+P76038	putrescine catabolic process
+P30844	response to iron(III) ion|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)
+P0AER0	glycerol transport
+P0AAX6	colanic acid biosynthetic process
+P39344	carbohydrate transport|gluconate transport|L-idonate transport
+P32715	sulfathiazole transport
+P09348	ciliary or flagellar motility
+P0C0L7	proline transport|amino acid transport|transport|hyperosmotic salinity response|response to osmotic stress
+P0A9C3	galactose catabolic process via UDP-galactose
+P0AF32	anaerobic respiration
+P37610	sulfur compound metabolic process
+P0AE08	xenobiotic metabolic process
+P0ADP7	intracellular protein transmembrane transport
+P33232	lactate metabolic process|L-fucose catabolic process|aerobic respiration
+P0ABP8	purine nucleoside interconversion|purine nucleoside catabolic process
+P63228	lipopolysaccharide core region biosynthetic process
+P75994	biofilm formation
+P76052	gamma-aminobutyric acid catabolic process
+P0A7V0	translation
+P39276	dipeptide transport
+P0AAX8	peptidoglycan-protein cross-linking|Gram-negative-bacterium-type cell wall biogenesis
+P0ABN1	phosphatidic acid biosynthetic process
+P39220	glycerophospholipid biosynthetic process|peptidoglycan biosynthetic process
+P76236	negative regulation of flagellar cell motility
+P63386	phospholipid transport
+P27248	glutamate biosynthetic process
+Q46806	pyrimidine base catabolic process
+P31572	carnitine catabolic process
+P0ABU9	bacteriocin transport
+P0A9E0	arabinose catabolic process
+P00803	proteolysis|protein processing
+P0ABH7	tricarboxylic acid cycle
+P28861	response to drug|fructose catabolic process
+P0CF84	plasmid maintenance|DNA recombination
+P0AD57	nucleobase, nucleoside and nucleotide interconversion|'de novo' pyrimidine base biosynthetic process
+P37340	response to antibiotic|antibiotic transport|cellular response to reactive oxygen species
+P0ABI8	electron transport coupled proton transport|aerobic electron transport chain
+P75853	alkanesulfonate transport|sulfur compound metabolic process
+P0AEF8	dipeptide transport
+P0A855	bacteriocin transport|protein import
+P0AC65	positive regulation of oxidoreductase activity
+P24182	negative regulation of fatty acid biosynthetic process|fatty acid biosynthetic process
+P36562	cobalamin biosynthetic process
+P0A968	negative regulation of DNA replication
+P45464	peptidoglycan biosynthetic process
+P75895	nitrogen utilization|pyrimidine base catabolic process|uracil catabolic process
+Q9JMS8	ubiquinone biosynthetic process
+P77555	allantoin assimilation pathway
+P39160	D-glucuronate catabolic process
+P50457	putrescine catabolic process
+P0AFZ5	negative regulation of cytokinesis|cytokinesis
+P0A9P0	oxidation-reduction process|pyruvate metabolic process|glycine decarboxylation via glycine cleavage system|tricarboxylic acid cycle|2-oxoglutarate metabolic process
+P0A7T7	translation
+P77173	barrier septum formation
+P26602	ubiquinone biosynthetic process
+P23874	dormancy process
+P0ADP0	FMN catabolic process|dormancy process
+P0AAI1	alkanesulfonate transport|sulfur compound metabolic process
+P33024	microcin transport
+P0A9S1	rhamnose catabolic process|propanediol metabolic process|L-fucose catabolic process|glycol catabolic process
+P0ABV6	bacteriocin transport
+P75990	biofilm formation
+P10903	nitrate transport|nitrite transport
+P0AGC5	peptidoglycan turnover
+P10371	histidine biosynthetic process
+P32695	tRNA modification
+P16677	alkylphosphonate transport

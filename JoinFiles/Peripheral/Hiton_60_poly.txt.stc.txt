@@ -1,0 +1,1 @@
+FeatureID1	FeatureID2	CorCoef	MeanFeature1	MeanFeature2	SeqPos1	SeqPos2	OneLettCode1	OneLettCode2

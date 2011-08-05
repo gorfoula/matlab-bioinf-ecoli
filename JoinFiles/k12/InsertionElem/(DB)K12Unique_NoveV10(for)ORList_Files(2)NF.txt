@@ -1,0 +1,6 @@
+P0ABP3	P0ABP3	Insertion Element 	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P0ABP3&sort=score")
+P0AFF2	P0AFF2	Insertion Element 	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P0AFF2&sort=score")
+P36667	P36667	Insertion Element 	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P36667&sort=score")
+P0A6K1	P0A6K1	Prophage Integrase	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P0A6K1&sort=score")
+P03018	P03018	Prophage Integrase	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P03018&sort=score")
+P23305	P23305	Prophage Integrase	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P23305&sort=score")

@@ -1,0 +1,12 @@
+Merge ID	Masuda2009_fin2	Wang2007_fin	Wang2007_noglucose_fin	Oberto2009_fin	Wei2001_fin	mRNA_Taniguchi_fin	OurStudy_Feb2011_Common	# Studies	TableS3_K12_ProteomeV13 Duplicates	Entry name (Uniprot)	mRNA	ABS_CALL	ABS_CALL	ABS_CALL	ABS_CALL	ABS_CALL	A (mRNA per cell cycle)_RNAseq	Localization
+P0ADB7	0	0	0	0	0	0	1	1	I	ECNB_ECOLI								I
+P0AE85	0	0	0	0	0	0	1	1	F2	CPXP_ECOLI								F2
+Q2MB16	0	0	0	0	0	0	1	1	B	YOBH_ECOLI								B
+Q46837	0	0	0	0	0	0	1	1	E	ACFD_ECOLI								E
+Q6BEX5	0	0	0	0	0	0	1	1	G	YJDP_ECOLI								G
+P75901	0	0	0	0	0	0	1	1	B	EFEU_ECOLI								B
+P0AC92	0	0	0	0	0	0	1	1	A	GNSA_ECOLI								A
+P77184	0	0	0	0	0	0	1	1	A	LOMR_ECOLI								A
+Q7DFU6	0	0	0	0	0	0	1	1	A	YGHX_ECOLI								A
+Q9S4W2	0	0	0	0	0	0	1	1	A	YUBM_ECOLI								A
+Q79E92	0	0	0	0	0	0	1	1	A	YKGN_ECOLI								A

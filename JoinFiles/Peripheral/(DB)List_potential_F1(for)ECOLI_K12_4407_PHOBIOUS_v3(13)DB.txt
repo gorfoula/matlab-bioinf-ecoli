@@ -1,0 +1,29 @@
+LACI_ECOLI	C6EJI7_ECOBD	A	Transcriptional regulator, LacI family	1	1	1	1	1	1	6	http://nar.oxfordjournals.org/content/33/8/2504.long	sp	P03023	LACI_ECOLI	14	2e-005	350	A
+RHLB_ECOLI	C6EG33_ECOBD	A	ATP-dependent RNA helicase (DEAD/DEAH box helicase domain protein)	1	1	1	1	1	1	6	http://www.pnas.org/content/98/1/63.full.pdf	sp	P0A8J8	RHLB_ECOLI	19	9e-005	372	A
+RPOC_ECOLI	C6EE31_ECOBD	A	DNA-directed RNA polymerase (EC 2.7.7.6)	1	1	1	1	1	1	6	-	sp	P0A8T7	RPOC_ECOLI	25	0.00489	1363	A
+WECG_ECOLI	C6EG17_ECOBD	A	Glycosyl transferase, WecB/TagA/CpsF family (EC 2.4.1.187) (Putative UDP-N-acetyl-D-mannosaminuronic acid transferase) (EC 2.4.1.-)	1	1	1	1	1	1	6	http://metacyc.org/ECOLI/NEW-IMAGE?type=ENZYME&object=UDPMANACATRANS-MONOMER	sp	P27836	WECG_ECOLI	49	0.00144	222	A
+YBBO_ECOLI	C6EKX1_ECOBD	A	Short-chain dehydrogenase/reductase SDR	1	1	1	1	1	1	6	-	sp	P0AFP4	YBBO_ECOLI	25	0.70471	254	A
+YDIJ_ECOLI	C6ECR9_ECOBD	A	FAD linked oxidase domain protein (Predicted FAD-linked oxidoreductase)	1	1	1	1	1	1	6	-	sp	P77748	YDIJ_ECOLI	45	0.0024	933	A
+YGIB_ECOLI	C6EHV7_ECOBD	A	UPF0441 protein ygiB	1	1	1	1	1	1	6	-	sp	P0ADT2	YGIB_ECOLI	34	0.09524	131	A
+ARND_ECOLI	C6E9U4_ECOBD	A	Polysaccharide deacetylase (Putative uncharacterized protein yfbH)	 	1	1	1	1	1	5	-	sp	P76472	ARND_ECOLI	20	2e-005	275	A
+FADJ_ECOLI	C6ELB3_ECOBD	A	Fatty acid oxidation complex subunit alpha	1	1	 	1	1	1	5	http://mic.sgmjournals.org/content/152/8/2207.full	sp	P77399	FADJ_ECOLI	31	0.00581	664	A
+RFAP_ECOLI	C6EDG1_ECOBD	A	Lipopolysaccharide kinase	1	 	1	1	1	1	5	http://www.ebi.ac.uk/interpro/IEntry?ac=IPR017172,  http://www.ncbi.nlm.nih.gov/pubmed/10531340	sp	P25741	RFAP_ECOLI	49	0.00265	239	A
+RPOD_ECOLI	C6EHS8_ECOBD	A	RNA polymerase sigma factor	1	 	1	1	1	1	5	-	sp	P00579	RPOD_ECOLI	17	8e-005	552	A
+GATZ_ECOLI	C6EAL5_ECOBD	A	D-tagatose-bisphosphate aldolase, class II, non-catalytic subunit (Putative tagatose 6-phosphate kinase 1)	 	1	1	1	1	1	5	-	sp	P0C8J8	GATZ_ECOLI	28	0.00471	377	A
+
+PROQ_ECOLI	C6EBZ8_ECOBD	A	ProQ activator of osmoprotectant transporter ProP (Putative solute/DNA competence effector)	1	 	1	1	1	 	4	http://jb.asm.org/cgi/content/full/181/5/1537, http://pubs.acs.org/doi/abs/10.1021/bi101683a	sp	P45577	PROQ_ECOLI	19	4e-005	230	A
+HEMH_ECOLI	C6EKY9_ECOBD	A	Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase)	1	 	 	1	1	1	4	-	sp	P23871	HEMH_ECOLI	22	0.0001	318	A
+MUKB_ECOLI	C6EI58_ECOBD	A	Chromosome partition protein mukB (Structural maintenance of chromosome-related protein)	1	1	 	 	1	1	4	-	sp	P22523	MUKB_ECOLI	25	0.00019	1421	A
+PLSX_ECOLI	C6EHC4_ECOBD	A	Fatty acid/phospholipid synthesis protein PlsX	1	 	 	1	1	1	4	-	sp	P27247	PLSX_ECOLI	18	6e-005	348	A
+RHO_ECOLI	C6EG30_ECOBD	A	Transcription termination factor Rho	1	 	1	 	1	1	4	http://www.ncbi.nlm.nih.gov/pubmed/16858726	sp	P0AG30	RHO_ECOLI	28	0.00063	399	A
+HEMG_ECOLI	C6EF48_ECOBD	A	Protoporphyrin oxidase, flavoprotein (EC 1.3.3.4) (Protoporphyrinogen oxidase) (EC 1.3.3.4)	 	1	 	1	1	 	3	-	sp	P0ACB4	HEMG_ECOLI	29	0.00025	134	A
+OMPR_ECOLI	C6EFG9_ECOBD	A	Two component transcriptional regulator, winged helix family	 	 	1	 	1	1	3	http://jb.asm.org/cgi/content/abstract/173/21/6882, http://openwetware.org/images/9/9e/OsmoregEnvZ-OmpR_JBC02.pdf, binds to EnvZ that is a membrane bounds signal transducer	sp	P0AA16	OMPR_ECOLI	22	0.00234	232	A
+FADI_ECOLI	C6ELB2_ECOBD	A	3-ketoacyl-CoA thiolase (EC 2.3.1.16) (ACSs) (Acetyl-CoA acyltransferase) (Acyl-CoA ligase) (Beta-ketothiolase) (Fatty acid oxidation complex subunit beta)	1	1	 	 	 	1	3	-	sp	P76503	FADI_ECOLI	28	0.82137	427	A
+
+RFAQ_ECOLI	C6EDF9_ECOBD	A	Lipopolysaccharide heptosyltransferase III	 	 	 	 	1	1	2	-	sp	P25742	RFAQ_ECOLI	18	8e-005	329	A
+ACCD_ECOLI	C6ELD7_ECOBD	A	Acetyl-CoA carboxylase subunit beta (EC 6.4.1.2) (Acetyl-CoA carboxylase, carboxyl transferase, beta subunit)	1	 	 	 	 	1	2	-	sp	P0A9Q5	ACCD_ECOLI	22	0.00267	278	A
+CRP_ECOLI	C6EGA6_ECOBD	A	DNA-binding transcriptional dual regulator (Transcriptional regulator, Crp/Fnr family)	1	 	 	 	 	1	2	-	sp	P0ACJ8	CRP_ECOLI	16	2e-005	207	A
+EFG_ECOLI	C6EGC4_ECOBD	A	Elongation factor G (EF-G)	1	 	 	 	 	1	2	http://www.ncbi.nlm.nih.gov/pubmed/17980694, http://www.pnas.org/content/82/22/7500.long	sp	P0A6M8	EFG_ECOLI	22	0.00011	668	A
+RADA_ECOLI	C6EBI2_ECOBD	A	DNA repair protein radA	1	 	 	 	1	 	2	-	sp	P24554	RADA_ECOLI	20	0.00012	406	A
+SYA_ECOLI	C6EJT4_ECOBD	A	Alanyl-tRNA synthetase (EC 6.1.1.7) (Alanine--tRNA ligase)	1	 	 	 	 	1	2	-	sp	P00957	SYA_ECOLI	28	0.00341	866	A
+YHCM_ECOLI	C6EH00_ECOBD	A	AFG1-family ATPase (Conserved protein with nucleoside triphosphate hydrolase domain)	 	 	 	 	1	1	2	-	sp	P64612	YHCM_ECOLI	22	0.00012	341	A

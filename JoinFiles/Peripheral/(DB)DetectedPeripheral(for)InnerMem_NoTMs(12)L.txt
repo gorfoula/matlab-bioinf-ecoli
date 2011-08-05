@@ -1,0 +1,73 @@
+Entry Name K12	Entry Name BL21(DE3)	Category	Description	Protein Length	Unique Peptides MS5_11	Unique Spectra MS5_11	Total #spectra MS5_11	Unique Peptides MS5_12	Unique Spectra MS5_12	Total #spectra MS5_12	Unique Peptides MS5_13	Unique Spectra MS5_13	Total #spectra  MS5_13	Unique Peptides MS6_11	Unique Spectra MS6_11	Total #spectra MS6_11	Unique Peptides MS6_12	Unique Spectra MS6_12	Total #spectra MS6_12	Unique Peptides MS6_13	Unique Spectra MS6_13	Total #spectra  MS6_13		
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+YJGR_ECOLI	C6EC88_ECOBD	B	Predicted ATPase (Putative uncharacterized protein)	500							1	1	2										P39342	YJGR_ECOLI
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+ODP1_ECOLI	C6EAU3_ECOBD	B	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	887	8	8	11	9	9	13	13	13	20										P0AFG8	ODP1_ECOLI
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+LRP_ECOLI	C6EI93_ECOBD	B	DNA-binding transcriptional dual regulator, leucine-binding (Transcriptional regulator, AsnC family)	164	2	2	3	3	3	4	3	3	4										P0ACJ0	LRP_ECOLI
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+IDH_ECOLI	C6EGV5_ECOBD	B	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	416	3	3	4	4	4	5	6	6	8										P08200	IDH_ECOLI
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+PCNB_ECOLI	C6EAE1_ECOBD	B	Poly(A) polymerase (EC 2.7.7.19)	472	3	4	5	3	4	4	2	3	5										P0ABF1	PCNB_ECOLI
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								

@@ -1,0 +1,1 @@
+sp|P19931|HYAE_ECOLI Hydrogenase-1 operon protein hyaE OS=Escherichia coli (strain K12) GN=hyaE PE=1 SV=1	----TPFDALWQRMLARGWTPVS---------------------------------------------------------------FGVFRFPATLVFTGGNYRGVLNGIhPWAEL----------------

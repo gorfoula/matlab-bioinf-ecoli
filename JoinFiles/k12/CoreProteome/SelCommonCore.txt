@@ -1,0 +1,2 @@
+k12/CoreProteome/CommonCore.txt	4	1
+k12/CoreProteome/K12.txt	1	1

@@ -1,0 +1,95 @@
+Gene	Beginning	End	Strand	Description	Essential*	Function†	Original	New
+agaW	3278723	3279124	1	PTS system N-	E	?	b3134	
+yddL	1543762	1544052	-1	putative outer membrane porin	E	?	b1472	
+yjbL	4258344	4258598	1	orf hypothetical protein	E	?	b4047	
+yjbM	4258622	4259329	1	orf hypothetical protein	E	?	b4048	
+ypjC	2782551	2783033	-1	orf hypothetical protein	E	?	b2650	
+ytfI	4435730	4436668	1	orf hypothetical protein	E	?	b4215	
+gapC_1	1487985	1488389	-1	glyceraldehyde 3-phosphate	?	N	b1416	b4493
+yedS	2032045	2032560	1	orf hypothetical protein	?	N	b1965	b4496
+yeeL	2050300	2051352	-1	orf hypothetical protein	?	N	b1979	b4497
+yjbI	4248978	4250306	1	orf hypothetical protein	?	?	b4038	
+yncI	1529400	1529600	1	orf hypothetical protein	?	?	b1459	
+afuB	278038	278400	-1	putative transport system permease	N	?	b0263	
+agaA	3279144	3279647	1	putative N-acetylgalactosamine-6-	N	N	b3135	
+arpB	1801118	1803017	1	orf hypothetical protein	N	?	b1720	b4494
+arpB	1801118	1803017	1	orf hypothetical protein	N	?	b1721	b4494
+b0499	527173	527883	1	orf hypothetical protein	N	?	b0499	
+b2681	2806598	2807515	1	putative transport protein	N	?	b2681	
+cpxP	4103843	4104343	1	orf hypothetical protein	N	F	b3913	b4484
+cpxP	4103843	4104343	1	orf hypothetical protein	N	F	b3914	b4484
+eaeH	313581	314468	1	attaching and effacing protein	N	N	b0297	
+frlC	3500362	3501192	1	orf hypothetical protein	N	?	b3372	b4474
+frlC	3500362	3501192	1	orf hypothetical protein	N	?	b3373	b4474
+gapC_2	1487737	1487988	-1	glyceraldehyde-3-phosphate	N	N	b1417	b4493
+glvC	3860520	3861887	-1	PTS system arbutin-like IIC	N	?	b3683	
+gntU	3573744	3575084	-1	low-affinity gluconate transport	N	F	b3435	b4476
+gntU	3573744	3575084	-1	low-affinity gluconate transport	N	F	b3436	b4476
+ilvG	3948583	3950227	1	acetolactate synthase II large	N	N	b4488	
+molR	2194496	2198291	1	molybdate metabolism regulator	N	N	b2115	b4499
+molR	2194496	2198291	1	molybdate metabolism regulator	N	N	b2116	b4499
+molR	2194496	2198291	1	molybdate metabolism regulator	N	N	b2117	b4499
+phnE	4320684	4321304	-1	membrane channel protein	N	F	b4104	
+rffT	3975548	3976627	1	orf conceptual translation in	N	F	b4404	b4481
+rffT	3975548	3976627	1	orf conceptual translation in	N	F	b4405	b4481
+tatD	4021577	4022359	1	orf hypothetical protein	N	F	b3841	b4483
+tatD	4021577	4022359	1	orf hypothetical protein	N	F	b3842	b4483
+tfaS	2468783	2469127	1	orf hypothetical protein	N	?	b2353	
+trkD	3929339	3931207	1	low affinity potassium transport	N	F	b3747	
+trkH	4031168	4032619	1	potassium uptake requires TrkE	N	F	b3849	
+yaiT	389475	390935	1	orf hypothetical protein	N	N	b0371	
+yaiU	392239	393642	1	putative flagellin structural protein	N	?	b0374	
+ybcY	581375	581959	-1	orf hypothetical protein	N	N	b0562	
+ybfD	737315	738076	1	putative DNA ligase	N	?	b0706	
+ycdN	1080570	1080689	1	orf hypothetical protein	N	N	b1016	b4490
+ycdN	1080570	1080689	1	putative cytochrome	N	N	b1017	b4490
+ydaW	1420725	1421336	1	orf hypothetical protein	N	?	b1361	
+ydfX	1645370	1645660	-1	orf hypothetical protein	N	?	b1568	
+yedS	2032045	2032560	1	putative outer membrane protein	N	N	b1964	b4496
+yedS	2032045	2032560	1	putative outer membrane protein	N	N	b1966	b4496
+yeeP	2068525	2069235	1	putative histone	N	?	b1999	
+yehQ	2207098	2208966	1	orf hypothetical protein	N	?	b2122	
+yfaH	2347709	2347915	1	orf hypothetical protein	N	?	b2238	
+yfaR	2327820	2332334	-1	orf hypothetical protein	N	N	b2227	b4500
+yfcT	2450378	2451274	-1	putative outer membrane protein	N	?	b2337	
+ygfQ	3025143	3026510	1	orf hypothetical protein	N	N	b2884	b4464
+ygfR	3025143	3026510	1	putative oxidoreductase	N	N	b2885	b4464
+yghX	3144878	3145288	-1	orf hypothetical protein	N	?	b2999	
+ygiQ	3156949	3159168	-1	orf hypothetical protein	N	?	b3015	b4469
+ygiR	3156949	3159168	-1	orf hypothetical protein	N	?	b3016	b4469
+yhaM	3253363	3254673	-1	orf hypothetical protein	N	?	b3108	b4470
+yhaN	3253363	3254673	-1	orf hypothetical protein	N	?	b3109	b4470
+yhdP	3390480	3394280	-1	orf hypothetical protein	N	?	b3245	b4472
+yhdR	3390480	3394280	-1	orf hypothetical protein	N	?	b3246	b4472
+yhiK	3630875	3631246	-1	orf hypothetical protein	N	?	b3489	
+yhiL	3631243	3632481	-1	orf hypothetical protein	N	?	b3490	
+yhiS	3649314	3650096	1	orf hypothetical protein	N	N	b3504	
+yibJ	3765244	3765945	1	orf hypothetical protein	N	?	b3595	
+yidX	3873461	3874117	1	putative replicase EC 2.7.-	N	?	b3696	
+yifN	3958265	3958525	-1	orf hypothetical protein	N	?	b3777	
+yigE	3998315	3999079	-1	orf hypothetical protein	N	?	b3814	b4482
+yigE	3998315	3999079	-1	orf hypothetical protein	N	?	b3815	b4482
+yigL	4008223	4009023	1	orf hypothetical protein	N	?	b3826	
+yjiP	4567021	4567332	1	orf hypothetical protein	N	?	b4338	
+yjiQ	4567381	4567941	1	orf hypothetical protein	N	?	b4339	
+yncI	1528610	1529356	1	orf hypothetical protein	N	?	b1458	
+yqaD	2786399	2786671	1	orf hypothetical protein	N	?	b2658	
+b1998	2068268	2068528	1	orf hypothetical protein	X	?	b1998	
+b3776	3958035	3958310	-1	orf hypothetical protein	X	?	b3776	
+b4103	4320466	4320687	-1	orf hypothetical protein	X	?	b4103	
+glvB	3860010	3860495	-1	PTS system arbutin-like IIB	X	?	b3682	
+glvG	3859372	3860010	-1	probable 6-phospho-beta-	X	?	b3681	
+lomR	1425482	1425637	1	orf hypothetical protein	X	N	b1369	
+yeeL	2050300	2051352	-1	orf hypothetical protein	X	N	b1980	b4497
+yfaS	2327820	2332334	-1	putative membrane protein	X	N	b2228	b4500
+ygaQ	2784419	2784751	1	orf hypothetical protein	X	?	b2654	
+ygaR	2784770	2785456	1	orf hypothetical protein	X	?	b2655	b4462
+ygaR	2784770	2785456	1	orf hypothetical protein	X	?	b2656	b4462
+ygaY	2806338	2806604	1	orf hypothetical protein	X	?	b2680	
+ygeP	2995711	2996010	-1	orf hypothetical protein	X	?	b2862	
+ygeQ	2996056	2996892	-1	orf hypothetical protein	X	?	b2863	
+yghX	3145288	3145713	-1	orf hypothetical protein	X	?	b3000	
+ykgA	315674	316393	-1	putative ARAC-type regulatory	X	N	b0300	
+yoeA	2066632	2067051	1	orf hypothetical protein	X	?	b1995	
+ypjB	2781660	2782451	-1	orf hypothetical protein	X	?	b2649	
+yqaC	2785628	2786260	1	putative enzyme	X	?	b2657	

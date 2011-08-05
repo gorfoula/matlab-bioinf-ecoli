@@ -1,0 +1,159 @@
+function [FOUNDTABLE count_found count_nfound AllCell f_indx FILENAMES]=FishLines(TheoIF,IDsIF,header,col,index,print_out,TheoReadTable_,SearchForReadTable_)
+%%  INPUT:
+%%      TheoIF      file that contains the information you want to extract
+%%                  based on IDs stored in <IDsIF> file
+%%      IDsIF       File that contains the IDs
+%%      col         [x y] where x colounm where IDs are in <TheoIF> file
+%%                          and y colounm where IDs are in <IDsIF> file
+%%                          e.g. [1 1]
+%%      header      if the two files have a header
+%%                  0 header exist 1 does not exist
+%%                   e.g.  [0 1]
+%%
+%%  OUTPUT:
+%%      FOUNDTABLE      Table that contain the selected rows from <TheoIF>
+%%      count_found     number of IDs found
+%%      count_nfound    number of IDs NOT found
+%%      f_indx          index for AllCell table "1" found "0" not found
+%%      
+%%  ALSO 5 Output files in the same directory where <TheoIF> file is
+%%  1. <dir>(DB)<filename_TheoIF>(for)<filename_IDsIF>L.txt
+%%  2. <dir>(DB)<filename_TheoIF>(for)<filename_IDsIF>DB.txt
+%%  3. <dir>(DB)<filename_TheoIF>(for)<filename_IDsIF>NF.txt
+%%  4. <dir>(DB)<filename_TheoIF>(for)<filename_IDsIF>F.txt
+%%  5. <dir>(DB)<filename_TheoIF>(for)<filename_IDsIF>DUP.txt
+
+%%   file 3 contains IDs not matched in <TheoIF> file
+%%   file 4 contains rows extracted from <TheoIF> file for IDs that were
+%%   matched
+%%
+%%  [FOUNDTABLE11]=FishLines('file1','file2',[1 1],[2 1],[1 5],1);
+
+if(exist('print_out','var')==0)
+    print_out=1;
+end
+
+if(exist('TheoReadTable_','var')==0)
+    TheoReadTable_=ReadTable(TheoIF);
+end
+if(exist('SearchForReadTable_','var')==0)
+    SearchForReadTable_=ReadTable(IDsIF);
+end
+
+if(header(1)==1)
+    HEADER_th=TheoReadTable_(1,:);
+else
+    HEADER_th=cell(1,size(TheoReadTable_,2));
+end
+if(header(2)==1)
+    HEADER_ids=SearchForReadTable_(1,:);
+else
+    HEADER_ids=cell(1,size(SearchForReadTable_,2));
+end
+TheoReadTable=TheoReadTable_(header(1)+1:end,:);
+SearchForReadTable=SearchForReadTable_(header(2)+1:end,:);
+couples=size(col,1);
+
+proteins=size(SearchForReadTable,1);
+proteins_db=size(TheoReadTable,1);
+f_db=zeros(proteins_db,2);
+f_indx=zeros(proteins,2);
+links=cell(proteins,2);
+AllCell=cell(proteins,1);
+AllCell_db=cell(proteins_db,1);
+
+DB_found=cell(size(TheoReadTable,1),size(SearchForReadTable_,2));
+
+for c=1:couples
+    UniqueIDs_Theo=TheoReadTable(:,col(c,1));
+    IDsReadTable=SearchForReadTable(:,col(c,2));
+    remain=UniqueIDs_Theo;
+    while (CheckEmpty(remain)>0)
+        [token remain]=strtok(remain);
+        p=1;
+        while (p<=proteins)
+            [start_idx, end_idx, extents, matches, tokens, names, splits]=regexp(num2str(IDsReadTable{p}),'[ :]');
+            for s=1:length(splits)
+                Found= strmatch(splits{s}, token,'exact');
+                if(isempty(Found)==0  && strcmp(IDsReadTable{p},'')==0)
+                    f_db(Found,1)=1;
+                    if(length(Found)<1)
+                        display([token,' fount more than once']);
+                    end
+                    DB_found(Found,:)=SearchForReadTable(p,:);
+                    if(length(Found)>1)
+                        Found=Found(1);
+                    end
+                    f_indx(p,1)=1;
+                    f_indx(p,2)=Found;
+                    AllCell_db(Found)=MergeColumns([TheoReadTable(Found,:) SearchForReadTable(p,:)],9);
+                    AllCell(p)=MergeColumns([TheoReadTable(Found,:) SearchForReadTable(p,:)],9);
+                else
+                    if(f_indx(p,1)==0)
+                        links{p}=['=HYPERLINK("http://www.uniprot.org/uniprot/?query=',IDsReadTable{p},'&sort=score")'];
+                        AllCell(p)=MergeColumns(SearchForReadTable(p,:),9);
+                    end                    
+                end
+            end
+            p=p+1;
+        end
+    end
+end
+%%%%%%%%%%%%%%%%%%  Return Values   %%%%%%%%%%%%%%%%%%%
+if(exist('index','var')==1)
+    if(index<0)
+    head=[HEADER_th(:,index) HEADER_ids];
+    AllCell=cell(size(f_indx,1),length(head));
+    f_indx_l=logical(f_indx(:,1));
+    if(isempty(index)==0)
+        head=[HEADER_th(:,index) HEADER_ids];
+        AllCell(f_indx_l,:)=[TheoReadTable(f_indx(f_indx_l,2),index) SearchForReadTable(f_indx_l,:)];
+        FOUNDTABLE=[head;[TheoReadTable(f_indx(logical(f_indx(:,1)),2),index) SearchForReadTable(logical(f_indx(:,1)),:)]];
+    else
+        head=[HEADER_ids];
+        AllCell(f_indx_l,:)=[SearchForReadTable(f_indx_l,:)];
+        FOUNDTABLE=[head;[SearchForReadTable(logical(f_indx(:,1)),:)]];
+    end
+    AllCell=[head;AllCell];
+else
+    FOUNDTABLE=[ [SearchForReadTable_(1,:);SearchForReadTable(logical(f_indx(:,1)),:)] [TheoReadTable_(1,:);TheoReadTable(f_indx(logical(f_indx(:,1)),2),:)]];
+end
+f_indx=[[0 0];f_indx];
+%%%%%%%%%%%%%
+count_found=sum(f_indx(2:end,1));
+count_nfound=sum(f_indx(2:end,1)==0);
+display(['All:    ',num2str(count_nfound+count_found),' Found: ',num2str(count_found),'   NotFound:   ',num2str(count_nfound)]);
+display(proteins);
+%%%%%%%%%%%%%%%%%   Write Files   %%%%%%%%%%%%%%%%%%%%%%%%
+if(print_out==1)
+    [filename_TheoIF]=IsolateFileName({TheoIF});filename_TheoIF=filename_TheoIF{1,1};
+    [filename_IDsIF dir]=IsolateFileName({IDsIF});filename_IDsIF=filename_IDsIF{1,1};dir=dir{1,1};
+
+    OF_All=[dir,'(DB)',filename_TheoIF,'(for)',filename_IDsIF,'(',num2str(col(1)),num2str(col(2)),')L.txt'];
+    OF_All_db=[dir,'(DB)',filename_TheoIF,'(for)',filename_IDsIF,'(',num2str(col(1)),num2str(col(2)),')DB.txt'];
+    OF_NotF=[dir,'(DB)',filename_TheoIF,'(for)',filename_IDsIF,'(',num2str(col(1)),num2str(col(2)),')NF.txt'];
+    OF_F=[dir,'(DB)',filename_TheoIF,'(for)',filename_IDsIF,'(',num2str(col(1)),num2str(col(2)),')F.txt'];
+    OF_DUP=[dir,'(DB)',filename_TheoIF,'(for)',filename_IDsIF,'(',num2str(col(1)),num2str(col(2)),')DUP.txt'];
+      
+    FileWriteTable(OF_DUP,[TheoReadTable DB_found],[],'w');
+    FileWriteTable(OF_F,FOUNDTABLE,[],'w');    
+    FileWriteTable(OF_NotF,[IDsReadTable(not(f_indx(2:end,1)),:) SearchForReadTable(not(f_indx(2:end,1)),:) links(not(f_indx(2:end,1)))],[],'w');
+    FileWriteTable(OF_All,AllCell,[],'w');
+    FileWriteTable(OF_All_db,AllCell_db,[],'w');
+    
+    FILENAMES=[{OF_F};{OF_NotF}];
+end
+end
+
+function [FirstFound]=CheckEmpty(CellArray)
+
+rows=length(CellArray);
+FirstFound=0;
+for i=1:rows
+    if(isempty(CellArray{i})==0)
+        FirstFound=i;
+        return;
+    end
+end
+
+end

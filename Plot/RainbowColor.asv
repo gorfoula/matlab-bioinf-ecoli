@@ -1,0 +1,15 @@
+function [RGB_rainbow]=RainbowColor(step,r)
+subDiv=0:step:256;
+subDiv_len=length(subDiv);
+subDiv_=256:-step:0;
+top_=ones(subDiv_len,1)*256;
+bottom_=zeros(subDiv_len,1);
+Red2Mag=[top_ bottom_ subDiv'];
+Mag2Blue=[subDiv_' bottom_ top_];
+Blue2Cyan=[bottom_ subDiv' top_];
+Cyan2Green=[bottom_ top_ subDiv_'];
+Green2Yellow=[subDiv' top_ bottom_];
+Yellow2Red=[top_ subDiv_' bottom_];
+Colors=[Blue2Cyan(2:end,:);Cyan2Green(2:end,:);Green2Yellow(2:end,:);Yellow2Red(2:end,:);Red2Mag(2:end,:);Mag2Blue(2:end,:)];
+RGB_rainbow=Colors./256;
+end

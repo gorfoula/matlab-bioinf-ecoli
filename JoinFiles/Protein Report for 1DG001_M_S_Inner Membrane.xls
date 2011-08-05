@@ -1,0 +1,238 @@
+1DG001_M_S_Inner Membrane, Protein report created on 02/10/2010
+Experiment: 1DG001_M_S_Inner Membrane
+	Peak List Generator: unknown
+		Version: unknown
+		Charge States Calculated: unknown
+		Deisotoped: unknown
+		Textual Annotation: unknown
+	Database Set: 2 Databases
+		Database Name: InnerMembraneEcoli.fasta
+			Version: unknown
+			Taxonomy: All Entries
+			Number of Proteins: 1133
+		Database Name: the InnerMembraneEcoli database
+			Version: unknown
+			Taxonomy: All Entries
+			Number of Proteins: 1133
+	Search Engine Set: 2 Search Engines
+		Search Engine: Mascot
+			Version: Mascot
+			Samples: All Samples
+			Fragment Tolerance: 0.80 Da (Monoisotopic)
+			Parent Tolerance: 50 PPM (Monoisotopic)
+			Fixed Modifications: +57 on C (Carbamidomethyl)
+			Variable Modifications: +1 on N (Deamidation), +14 on D (Me-ester), +16 on M (Oxidation), +42 on n (Acetyl), +80 on Y (Phospho)
+			Database: the InnerMembraneEcoli database (unknown version, 1133 entries)
+			Digestion Enzyme: Trypsin
+			Max Missed Cleavages: 3
+		Search Engine: Sequest
+			Version: 1.0.43.2
+			Samples: All Samples
+			Fragment Tolerance: 0.80 Da (Monoisotopic)
+			Parent Tolerance: 50 PPM (Monoisotopic)
+			Fixed Modifications: +57 on C (Carbamidomethyl)
+			Variable Modifications: +1 on N (Deamidation), +14 on D (Me-ester), +16 on M (Oxidation), +80 on S (Phospho)
+			Database: InnerMembraneEcoli.fasta (unknown version, 1133 entries)
+			Digestion Enzyme: Trypsin
+			Max Missed Cleavages: 3
+	Scaffold Version: Scaffold_2_06_01
+		Peptide Thresholds: 95.0% minimum 
+		Protein Thresholds: 99.0% minimum and 2 peptides minimum
+
+Experiment name	Biological sample category	Biological sample name	MS/MS sample name	Protein name	Protein accession numbers	Database sources	Protein molecular weight (Da)	Protein identification probability	Number of unique peptides	Number of unique spectra	Number of total spectra	Percentage of total spectra	Percentage sequence coverage
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| PPID_ECOLI Peptidyl-prolyl cis-trans isomerase D - Escherichia coli (strain K12)	P0ADY1	InnerMembraneEcoli.fasta	68,133.4	99.9%	2	2	2	0.0507%	4.65%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| BARA_ECOLI Signal transduction histidine-protein kinase barA - Escherichia coli (strain K12)	P0AEC5	InnerMembraneEcoli.fasta	102,439.1	100.0%	2	2	2	0.0507%	3.59%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	6	7	9	0.228%	16.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| YJEP_ECOLI Uncharacterized mscS family protein yjeP precursor - Escherichia coli (strain K12)	P39285	InnerMembraneEcoli.fasta	123,955.2	100.0%	5	5	6	0.152%	6.78%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| MGTA_ECOLI Magnesium-transporting ATPase, P-type 1 - Escherichia coli (strain K12)	P0ABB8	InnerMembraneEcoli.fasta	99,450.8	100.0%	5	5	7	0.178%	9.13%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| MRCB_ECOLI Penicillin-binding protein 1B - Escherichia coli (strain K12)	P02919	InnerMembraneEcoli.fasta	94,276.8	100.0%	10	11	13	0.330%	16.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| ACEE_ECOLI Pyruvate dehydrogenase E1 component - Escherichia coli (strain K12)	P0AFG8	InnerMembraneEcoli.fasta	99,653.2	100.0%	3	3	5	0.127%	4.51%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| UBIB_ECOLI Probable ubiquinone biosynthesis protein ubiB - Escherichia coli (strain K12)	P0A6A0	InnerMembraneEcoli.fasta	63,187.2	99.8%	2	2	2	0.0507%	4.58%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| FADE_ECOLI Acyl-coenzyme A dehydrogenase - Escherichia coli (strain K12)	Q47146	InnerMembraneEcoli.fasta	89,209.8	100.0%	5	5	6	0.152%	8.85%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| NAGE_ECOLI PTS system N-acetylglucosamine-specific EIICBA component - Escherichia coli (strain K12)	P09323	InnerMembraneEcoli.fasta	68,330.7	100.0%	2	2	2	0.0507%	3.55%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| CYDA_ECOLI Cytochrome d ubiquinol oxidase subunit 1 - Escherichia coli (strain K12)	P0ABJ9	InnerMembraneEcoli.fasta	58,189.4	99.9%	2	2	2	0.0507%	3.64%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	5	5	8	0.203%	12.6%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| ACRB_ECOLI Acriflavine resistance protein B - Escherichia coli (strain K12)	P31224	InnerMembraneEcoli.fasta	113,558.1	100.0%	20	20	32	0.812%	31.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| RCSC_ECOLI Sensor kinase protein rcsC - Escherichia coli (strain K12)	P14376	InnerMembraneEcoli.fasta	106,491.5	100.0%	2	2	2	0.0507%	2.53%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| NUOC_ECOLI NADH-quinone oxidoreductase subunit C/D - Escherichia coli (strain K12)	P33599	InnerMembraneEcoli.fasta	68,219.9	99.8%	2	2	2	0.0507%	4.03%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| FRUA_ECOLI PTS system fructose-specific EIIBC component - Escherichia coli (strain K12)	P20966	InnerMembraneEcoli.fasta	57,503.4	99.9%	2	2	3	0.0761%	7.99%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| ARNC_ECOLI Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase - Escherichia coli (strain K12)	P77757	InnerMembraneEcoli.fasta	36,322.3	100.0%	2	2	2	0.0507%	7.45%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| YEBT_ECOLI Uncharacterized protein yebT - Escherichia coli (strain K12)	P76272	InnerMembraneEcoli.fasta	94,954.9	100.0%	2	2	2	0.0507%	6.61%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| KEFA_ECOLI Potassium efflux system kefA precursor - Escherichia coli (strain K12)	P77338	InnerMembraneEcoli.fasta	127,201.6	100.0%	4	4	4	0.101%	5.27%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| LPXP_ECOLI Protein ddg - Escherichia coli (strain K12)	P0ACV2	InnerMembraneEcoli.fasta	35,476.0	99.9%	2	2	2	0.0507%	11.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| COPA_ECOLI Copper-transporting P-type ATPase - Escherichia coli (strain K12)	Q59385	InnerMembraneEcoli.fasta	87,855.3	100.0%	3	3	3	0.0761%	4.92%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| ZNTA_ECOLI Lead, cadmium, zinc and mercury-transporting ATPase - Escherichia coli (strain K12)	P37617	InnerMembraneEcoli.fasta	76,823.6	100.0%	2	2	2	0.0507%	4.92%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| OPGH_ECOLI Glucans biosynthesis glucosyltransferase H - Escherichia coli (strain K12)	P62517	InnerMembraneEcoli.fasta	96,922.3	100.0%	3	3	4	0.101%	5.43%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO008_1DG001_12_2.RAW (F002358)	| KDPD_ECOLI Sensor protein kdpD - Escherichia coli (strain K12)	P21865	InnerMembraneEcoli.fasta	98,701.9	100.0%	5	6	8	0.203%	10.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| PPID_ECOLI Peptidyl-prolyl cis-trans isomerase D - Escherichia coli (strain K12)	P0ADY1	InnerMembraneEcoli.fasta	68,133.4	100.0%	11	12	17	0.346%	24.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| ARCB_ECOLI Aerobic respiration control sensor protein arcB - Escherichia coli (strain K12)	P0AEC3	InnerMembraneEcoli.fasta	87,967.1	100.0%	9	9	11	0.224%	16.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	23	29	222	4.52%	49.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| YDJN_ECOLI Uncharacterized symporter ydjN - Escherichia coli (strain K12)	P77529	InnerMembraneEcoli.fasta	48,644.5	100.0%	3	3	3	0.0610%	9.07%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| MRCB_ECOLI Penicillin-binding protein 1B - Escherichia coli (strain K12)	P02919	InnerMembraneEcoli.fasta	94,276.8	100.0%	8	8	10	0.203%	14.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| YRFF_ECOLI Putative membrane protein igaA homolog - Escherichia coli (strain K12)	P45800	InnerMembraneEcoli.fasta	79,474.8	100.0%	5	5	10	0.203%	10.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| FADE_ECOLI Acyl-coenzyme A dehydrogenase - Escherichia coli (strain K12)	Q47146	InnerMembraneEcoli.fasta	89,209.8	100.0%	11	13	13	0.264%	20.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| NAGE_ECOLI PTS system N-acetylglucosamine-specific EIICBA component - Escherichia coli (strain K12)	P09323	InnerMembraneEcoli.fasta	68,330.7	100.0%	2	2	2	0.0407%	5.56%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	8	8	16	0.325%	20.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| ACRB_ECOLI Acriflavine resistance protein B - Escherichia coli (strain K12)	P31224	InnerMembraneEcoli.fasta	113,558.1	100.0%	3	3	3	0.0610%	4.39%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| ARNC_ECOLI Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase - Escherichia coli (strain K12)	P77757	InnerMembraneEcoli.fasta	36,322.3	100.0%	3	3	5	0.102%	11.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| YIDC_ECOLI Inner membrane protein oxaA - Escherichia coli (strain K12)	P25714	InnerMembraneEcoli.fasta	61,510.0	100.0%	3	3	3	0.0610%	10.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| DAMX_ECOLI Protein damX - Escherichia coli (strain K12)	P11557	InnerMembraneEcoli.fasta	46,143.4	100.0%	5	6	9	0.183%	12.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| BCSB_ECOLI Cyclic di-GMP-binding protein precursor - Escherichia coli (strain K12)	P37652	InnerMembraneEcoli.fasta	86,007.7	100.0%	2	2	2	0.0407%	3.34%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_13_2.RAW (F002359)	| ZNTA_ECOLI Lead, cadmium, zinc and mercury-transporting ATPase - Escherichia coli (strain K12)	P37617	InnerMembraneEcoli.fasta	76,823.6	100.0%	9	9	16	0.325%	17.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| PPID_ECOLI Peptidyl-prolyl cis-trans isomerase D - Escherichia coli (strain K12)	P0ADY1	InnerMembraneEcoli.fasta	68,133.4	100.0%	12	15	28	0.631%	33.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| YEGH_ECOLI UPF0053 protein yegH - Escherichia coli (strain K12)	P76389	InnerMembraneEcoli.fasta	59,434.0	99.9%	2	3	4	0.0902%	8.73%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	16	20	208	4.69%	38.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| SPPA_ECOLI Protease 4 - Escherichia coli (strain K12)	P08395	InnerMembraneEcoli.fasta	67,202.9	100.0%	2	2	2	0.0451%	3.88%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| MSBA_ECOLI Lipid A export ATP-binding/permease protein msbA - Escherichia coli (strain K12)	P60752	InnerMembraneEcoli.fasta	64,444.7	100.0%	4	4	6	0.135%	8.76%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| NARX_ECOLI Nitrate/nitrite sensor protein narX - Escherichia coli (strain K12)	P0AFA2	InnerMembraneEcoli.fasta	67,066.1	99.8%	2	2	2	0.0451%	8.03%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| UBIB_ECOLI Probable ubiquinone biosynthesis protein ubiB - Escherichia coli (strain K12)	P0A6A0	InnerMembraneEcoli.fasta	63,187.2	100.0%	8	8	11	0.248%	17.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| NAGE_ECOLI PTS system N-acetylglucosamine-specific EIICBA component - Escherichia coli (strain K12)	P09323	InnerMembraneEcoli.fasta	68,330.7	100.0%	2	2	3	0.0677%	5.56%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| SECD_ECOLI Protein-export membrane protein secD - Escherichia coli (strain K12)	P0AG90	InnerMembraneEcoli.fasta	66,616.5	100.0%	15	15	24	0.541%	31.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	5	5	7	0.158%	16.3%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| NUOC_ECOLI NADH-quinone oxidoreductase subunit C/D - Escherichia coli (strain K12)	P33599	InnerMembraneEcoli.fasta	68,219.9	100.0%	9	10	20	0.451%	19.6%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| CYDD_ECOLI ATP-binding/permease protein cydD - Escherichia coli (strain K12)	P29018	InnerMembraneEcoli.fasta	65,040.5	100.0%	5	6	8	0.180%	18.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| PQIB_ECOLI Paraquat-inducible protein B - Escherichia coli (strain K12)	P43671	InnerMembraneEcoli.fasta	60,504.4	100.0%	3	3	3	0.0677%	8.06%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| YIDC_ECOLI Inner membrane protein oxaA - Escherichia coli (strain K12)	P25714	InnerMembraneEcoli.fasta	61,510.0	100.0%	6	7	16	0.361%	17.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| EPTA_ECOLI UPF0141 membrane protein yjdB - Escherichia coli (strain K12)	P30845	InnerMembraneEcoli.fasta	61,651.0	100.0%	7	7	12	0.271%	16.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| CPTA_ECOLI Phosphoethanolamine transferase cptA OS=Escherichia coli (strain K12) GN=cptA PE=1 SV=1	P0CB39	InnerMembraneEcoli.fasta	66,594.5	100.0%	5	5	15	0.338%	9.71%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| YHJK_ECOLI Protein yhjK - Escherichia coli (strain K12)	P37649	InnerMembraneEcoli.fasta	73,064.7	99.9%	2	2	2	0.0451%	2.92%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| BCSB_ECOLI Cyclic di-GMP-binding protein precursor - Escherichia coli (strain K12)	P37652	InnerMembraneEcoli.fasta	86,007.7	100.0%	3	3	3	0.0677%	6.42%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| ZNTA_ECOLI Lead, cadmium, zinc and mercury-transporting ATPase - Escherichia coli (strain K12)	P37617	InnerMembraneEcoli.fasta	76,823.6	100.0%	2	2	3	0.0677%	7.92%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_14_2.RAW (F002360)	| TRAD_ECOLI Protein traD - Escherichia coli (strain K12)	P09130	InnerMembraneEcoli.fasta	81,472.7	99.9%	2	2	2	0.0451%	4.74%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| PPID_ECOLI Peptidyl-prolyl cis-trans isomerase D - Escherichia coli (strain K12)	P0ADY1	InnerMembraneEcoli.fasta	68,133.4	100.0%	2	2	2	0.0386%	3.05%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YOAE_ECOLI UPF0053 inner membrane protein yoaE - Escherichia coli (strain K12)	P0AEC0	InnerMembraneEcoli.fasta	56,511.7	99.9%	2	2	3	0.0579%	3.67%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| RSEP_ECOLI Regulator of sigma E protease - Escherichia coli (strain K12)	P0AEH1	InnerMembraneEcoli.fasta	49,054.7	100.0%	3	3	3	0.0579%	8.22%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	6	7	16	0.309%	16.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YFJD_ECOLI UPF0053 inner membrane protein yfjD - Escherichia coli (strain K12)	P37908	InnerMembraneEcoli.fasta	48,027.7	99.8%	2	2	2	0.0386%	4.91%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| ATPA_ECOLI ATP synthase subunit alpha - Escherichia coli (strain K12)	P0ABB0	InnerMembraneEcoli.fasta	55,205.2	100.0%	5	5	5	0.0964%	14.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| CLS_ECOLI Cardiolipin synthetase - Escherichia coli (strain K12)	P0A6H8	InnerMembraneEcoli.fasta	54,806.8	100.0%	2	2	2	0.0386%	5.35%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| QSEC_ECOLI Sensor protein qseC - Escherichia coli (strain K12)	P40719	InnerMembraneEcoli.fasta	50,265.2	99.9%	2	2	2	0.0386%	7.80%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| UBIB_ECOLI Probable ubiquinone biosynthesis protein ubiB - Escherichia coli (strain K12)	P0A6A0	InnerMembraneEcoli.fasta	63,187.2	99.8%	2	2	2	0.0386%	6.41%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| NDH_ECOLI NADH dehydrogenase - Escherichia coli (strain K12)	P00393	InnerMembraneEcoli.fasta	47,342.0	100.0%	9	9	14	0.270%	30.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| DSBD_ECOLI Thiol:disulfide interchange protein dsbD precursor - Escherichia coli (strain K12)	P36655	InnerMembraneEcoli.fasta	61,778.5	99.8%	2	2	2	0.0386%	6.55%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| PTSG_ECOLI PTS system glucose-specific EIICB component - Escherichia coli (strain K12)	P69786	InnerMembraneEcoli.fasta	50,660.4	100.0%	6	6	6	0.116%	19.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| PCNB_ECOLI Poly(A) polymerase - Escherichia coli (strain K12)	P0ABF1	InnerMembraneEcoli.fasta	53,854.7	100.0%	6	6	7	0.135%	15.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| HFLK_ECOLI Protein hflK - Escherichia coli (strain K12)	P0ABC7	InnerMembraneEcoli.fasta	45,527.5	100.0%	10	10	46	0.887%	26.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| CORA_ECOLI Magnesium transport protein corA - Escherichia coli (strain K12)	P0ABI4	InnerMembraneEcoli.fasta	36,573.4	99.8%	2	2	3	0.0579%	12.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| ETK_ECOLI Tyrosine-protein kinase etk - Escherichia coli (strain K12)	P38134	InnerMembraneEcoli.fasta	81,225.5	100.0%	2	2	2	0.0386%	6.20%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| NAGE_ECOLI PTS system N-acetylglucosamine-specific EIICBA component - Escherichia coli (strain K12)	P09323	InnerMembraneEcoli.fasta	68,330.7	100.0%	2	2	2	0.0386%	4.32%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| CYOB_ECOLI Ubiquinol oxidase subunit 1 - Escherichia coli (strain K12)	P0ABI8	InnerMembraneEcoli.fasta	74,352.1	100.0%	3	4	5	0.0964%	6.33%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| CYDA_ECOLI Cytochrome d ubiquinol oxidase subunit 1 - Escherichia coli (strain K12)	P0ABJ9	InnerMembraneEcoli.fasta	58,189.4	100.0%	6	6	9	0.174%	17.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| ICD_ECOLI Isocitrate dehydrogenase [NADP] - Escherichia coli (strain K12)	P08200	InnerMembraneEcoli.fasta	45,740.0	100.0%	7	8	10	0.193%	25.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	6	6	12	0.231%	13.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| RODZ_ECOLI Uncharacterized HTH-type transcriptional regulator yfgA - Escherichia coli (strain K12)	P27434	InnerMembraneEcoli.fasta	36,173.5	100.0%	3	3	3	0.0579%	14.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| HEMY_ECOLI Protein hemY - Escherichia coli (strain K12)	P0ACB7	InnerMembraneEcoli.fasta	45,228.0	100.0%	5	5	9	0.174%	15.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| WAAA_ECOLI 3-deoxy-D-manno-octulosonic-acid transferase - Escherichia coli (strain K12)	P0AC75	InnerMembraneEcoli.fasta	47,274.4	99.9%	2	2	2	0.0386%	6.35%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YEJM_ECOLI Inner membrane protein yejM - Escherichia coli (strain K12)	P0AD27	InnerMembraneEcoli.fasta	67,280.6	100.0%	2	2	2	0.0386%	7.00%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| FRUA_ECOLI PTS system fructose-specific EIIBC component - Escherichia coli (strain K12)	P20966	InnerMembraneEcoli.fasta	57,503.4	100.0%	4	4	23	0.444%	14.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| CYDC_ECOLI ATP-binding/permease protein cydC - Escherichia coli (strain K12)	P23886	InnerMembraneEcoli.fasta	62,904.7	100.0%	2	2	2	0.0386%	5.93%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YIDC_ECOLI Inner membrane protein oxaA - Escherichia coli (strain K12)	P25714	InnerMembraneEcoli.fasta	61,510.0	99.9%	2	2	2	0.0386%	4.56%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| LNT_ECOLI Apolipoprotein N-acyltransferase - Escherichia coli (strain K12)	P23930	InnerMembraneEcoli.fasta	57,050.8	99.8%	2	2	2	0.0386%	5.86%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| CPXA_ECOLI Sensor protein cpxA - Escherichia coli (strain K12)	P0AE82	InnerMembraneEcoli.fasta	51,608.3	100.0%	8	8	8	0.154%	18.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YTFL_ECOLI UPF0053 inner membrane protein ytfL - Escherichia coli (strain K12)	P0AE45	InnerMembraneEcoli.fasta	49,746.7	100.0%	3	3	4	0.0771%	12.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YFJW_ECOLI Uncharacterized protein yfjW - Escherichia coli (strain K12)	P52138	InnerMembraneEcoli.fasta	64,184.1	99.9%	2	2	2	0.0386%	5.47%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| HEMX_ECOLI Putative uroporphyrinogen-III C-methyltransferase - Escherichia coli (strain K12)	P09127	InnerMembraneEcoli.fasta	42,945.8	100.0%	17	18	37	0.714%	53.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YBAL_ECOLI Inner membrane protein ybaL - Escherichia coli (strain K12)	P39830	InnerMembraneEcoli.fasta	59,407.9	100.0%	3	3	3	0.0579%	9.68%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_15_2.RAW (F002361)	| YJIY_ECOLI Inner membrane protein yjiY - Escherichia coli (strain K12)	P39396	InnerMembraneEcoli.fasta	77,308.7	100.0%	2	2	3	0.0579%	4.61%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| DEOA_ECOLI Thymidine phosphorylase - Escherichia coli (strain K12)	P07650	InnerMembraneEcoli.fasta	47,190.3	100.0%	5	5	6	0.124%	15.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| YCJF_ECOLI UPF0283 membrane protein ycjF - Escherichia coli (strain K12)	P0A8R7	InnerMembraneEcoli.fasta	39,374.9	99.9%	2	2	2	0.0412%	8.22%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| CLD_ECOLI Chain length determinant protein - Escherichia coli (strain K12)	P76372	InnerMembraneEcoli.fasta	36,437.6	100.0%	3	3	4	0.0824%	12.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	8	9	29	0.597%	16.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| LLDD_ECOLI L-lactate dehydrogenase [cytochrome] - Escherichia coli (strain K12)	P33232	InnerMembraneEcoli.fasta	42,711.8	100.0%	6	6	7	0.144%	23.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| LPXK_ECOLI Tetraacyldisaccharide 4'-kinase - Escherichia coli (strain K12)	P27300	InnerMembraneEcoli.fasta	35,570.6	99.8%	2	3	4	0.0824%	7.62%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| TREB_ECOLI PTS system trehalose-specific EIIBC component - Escherichia coli (strain K12)	P36672	InnerMembraneEcoli.fasta	51,064.6	100.0%	5	6	20	0.412%	18.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| PNTB_ECOLI NAD(P) transhydrogenase subunit beta - Escherichia coli (strain K12)	P0AB67	InnerMembraneEcoli.fasta	48,706.0	100.0%	4	4	5	0.103%	14.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| NUOL_ECOLI NADH-quinone oxidoreductase subunit L - Escherichia coli (strain K12)	P33607	InnerMembraneEcoli.fasta	66,422.3	99.9%	2	2	2	0.0412%	3.92%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| HFLK_ECOLI Protein hflK - Escherichia coli (strain K12)	P0ABC7	InnerMembraneEcoli.fasta	45,527.5	99.9%	2	2	3	0.0618%	6.21%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	13	15	70	1.44%	36.6%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	P11557-R	P11557-R		0.0	99.9%	2	2	2	0.0412%	0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| ARNC_ECOLI Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase - Escherichia coli (strain K12)	P77757	InnerMembraneEcoli.fasta	36,322.3	99.9%	2	2	4	0.0824%	7.76%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| LOLC_ECOLI Lipoprotein-releasing system transmembrane protein lolC - Escherichia coli (strain K12)	P0ADC3	InnerMembraneEcoli.fasta	43,246.7	100.0%	2	2	3	0.0618%	9.52%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| NUOF_ECOLI NADH-quinone oxidoreductase subunit F - Escherichia coli (strain K12)	P31979	InnerMembraneEcoli.fasta	49,276.5	100.0%	3	3	3	0.0618%	8.99%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_16_1.RAW (F002362)	| GUAB_ECOLI Inosine-5'-monophosphate dehydrogenase - Escherichia coli (strain K12)	P0ADG7	InnerMembraneEcoli.fasta	52,004.2	100.0%	2	2	2	0.0412%	8.20%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| CLD_ECOLI Chain length determinant protein - Escherichia coli (strain K12)	P76372	InnerMembraneEcoli.fasta	36,437.6	100.0%	4	4	10	0.185%	18.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	5	6	9	0.166%	15.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| LEPB_ECOLI Signal peptidase I - Escherichia coli (strain K12)	P00803	InnerMembraneEcoli.fasta	35,943.2	99.8%	2	2	3	0.0555%	8.95%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| YBDG_ECOLI Uncharacterized protein ybdG - Escherichia coli (strain K12)	P0AAT4	InnerMembraneEcoli.fasta	46,587.1	99.8%	2	2	2	0.0370%	5.78%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| YDJN_ECOLI Uncharacterized symporter ydjN - Escherichia coli (strain K12)	P77529	InnerMembraneEcoli.fasta	48,644.5	100.0%	3	3	5	0.0925%	10.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| YIFB_ECOLI Uncharacterized protein yifB - Escherichia coli (strain K12)	P22787	InnerMembraneEcoli.fasta	55,130.5	100.0%	2	2	2	0.0370%	7.11%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| CCMH_ECOLI Cytochrome c-type biogenesis protein ccmH precursor - Escherichia coli (strain K12)	P0ABM9	InnerMembraneEcoli.fasta	39,071.6	99.8%	2	2	2	0.0370%	7.71%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| LOLE_ECOLI Lipoprotein-releasing system transmembrane protein lolE - Escherichia coli (strain K12)	P75958	InnerMembraneEcoli.fasta	45,327.4	100.0%	3	4	6	0.111%	11.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| SOHB_ECOLI Probable protease sohB - Escherichia coli (strain K12)	P0AG14	InnerMembraneEcoli.fasta	39,348.7	100.0%	6	7	10	0.185%	24.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| WZZE_ECOLI Lipopolysaccharide biosynthesis protein wzzE - Escherichia coli (strain K12)	P0AG00	InnerMembraneEcoli.fasta	39,472.5	100.0%	5	5	9	0.166%	23.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| HFLK_ECOLI Protein hflK - Escherichia coli (strain K12)	P0ABC7	InnerMembraneEcoli.fasta	45,527.5	100.0%	3	3	4	0.0740%	9.07%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| CYOA_ECOLI Ubiquinol oxidase subunit 2 precursor - Escherichia coli (strain K12)	P0ABJ1	InnerMembraneEcoli.fasta	34,894.3	99.9%	2	2	2	0.0370%	13.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| SECG_ECOLI Protein-export membrane protein secG - Escherichia coli (strain K12)	P0AG99	InnerMembraneEcoli.fasta	11,347.8	99.9%	2	2	3	0.0555%	27.3%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	14	20	210	3.88%	34.3%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| ARNC_ECOLI Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase - Escherichia coli (strain K12)	P77757	InnerMembraneEcoli.fasta	36,322.3	100.0%	7	7	9	0.166%	27.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_17_2.RAW (F002363)	| LOLC_ECOLI Lipoprotein-releasing system transmembrane protein lolC - Escherichia coli (strain K12)	P0ADC3	InnerMembraneEcoli.fasta	43,246.7	100.0%	3	3	5	0.0925%	9.77%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	8	9	11	0.189%	18.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| GLTS_ECOLI Sodium/glutamate symport carrier protein - Escherichia coli (strain K12)	P0AER8	InnerMembraneEcoli.fasta	42,408.9	100.0%	3	3	3	0.0514%	21.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| LEPB_ECOLI Signal peptidase I - Escherichia coli (strain K12)	P00803	InnerMembraneEcoli.fasta	35,943.2	100.0%	3	3	4	0.0686%	10.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| FTSX_ECOLI Cell division protein ftsX - Escherichia coli (strain K12)	P0AC30	InnerMembraneEcoli.fasta	38,526.5	100.0%	3	3	4	0.0686%	17.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| HFLK_ECOLI Protein hflK - Escherichia coli (strain K12)	P0ABC7	InnerMembraneEcoli.fasta	45,527.5	99.8%	2	2	2	0.0343%	6.44%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| CYOA_ECOLI Ubiquinol oxidase subunit 2 precursor - Escherichia coli (strain K12)	P0ABJ1	InnerMembraneEcoli.fasta	34,894.3	100.0%	4	6	23	0.394%	26.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| SECG_ECOLI Protein-export membrane protein secG - Escherichia coli (strain K12)	P0AG99	InnerMembraneEcoli.fasta	11,347.8	99.9%	2	2	3	0.0514%	27.3%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| SECF_ECOLI Protein-export membrane protein secF - Escherichia coli (strain K12)	P0AG93	InnerMembraneEcoli.fasta	35,365.5	100.0%	2	2	4	0.0686%	4.33%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	11	13	57	0.977%	35.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| GATC_ECOLI Galactitol permease IIC component - Escherichia coli (strain K12)	P69831	InnerMembraneEcoli.fasta	48,348.9	100.0%	4	4	5	0.0857%	15.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| ARNC_ECOLI Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase - Escherichia coli (strain K12)	P77757	InnerMembraneEcoli.fasta	36,322.3	100.0%	5	6	19	0.326%	23.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| LPTG_ECOLI Inner membrane protein yjgQ - Escherichia coli (strain K12)	P0ADC6	InnerMembraneEcoli.fasta	39,602.1	100.0%	2	2	3	0.0514%	7.22%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| HEMX_ECOLI Putative uroporphyrinogen-III C-methyltransferase - Escherichia coli (strain K12)	P09127	InnerMembraneEcoli.fasta	42,945.8	100.0%	2	2	2	0.0343%	8.91%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_18_1.RAW (F002364)	| GNTT_ECOLI High-affinity gluconate transporter - Escherichia coli (strain K12)	P39835	InnerMembraneEcoli.fasta	45,950.6	100.0%	4	5	9	0.154%	15.3%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| PLSC_ECOLI 1-acyl-sn-glycerol-3-phosphate acyltransferase - Escherichia coli (strain K12)	P26647	InnerMembraneEcoli.fasta	27,435.8	100.0%	3	3	3	0.0583%	18.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	4	5	6	0.117%	11.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| YIBN_ECOLI Uncharacterized protein yibN - Escherichia coli (strain K12)	P0AG27	InnerMembraneEcoli.fasta	15,578.2	100.0%	3	3	3	0.0583%	30.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| HFLK_ECOLI Protein hflK - Escherichia coli (strain K12)	P0ABC7	InnerMembraneEcoli.fasta	45,527.5	100.0%	2	2	2	0.0388%	6.21%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| CYDA_ECOLI Cytochrome d ubiquinol oxidase subunit 1 - Escherichia coli (strain K12)	P0ABJ9	InnerMembraneEcoli.fasta	58,189.4	100.0%	2	2	3	0.0583%	4.60%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| SECG_ECOLI Protein-export membrane protein secG - Escherichia coli (strain K12)	P0AG99	InnerMembraneEcoli.fasta	11,347.8	100.0%	6	8	135	2.62%	76.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	5	5	5	0.0971%	16.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| TATB_ECOLI Sec-independent protein translocase protein tatB - Escherichia coli (strain K12)	P69425	InnerMembraneEcoli.fasta	18,402.8	99.9%	2	2	3	0.0583%	15.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| MUTS_ECOLI DNA mismatch repair protein mutS - Escherichia coli (strain K12)	P23909	InnerMembraneEcoli.fasta	95,232.5	100.0%	2	2	2	0.0388%	4.34%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| EXBB_ECOLI Biopolymer transport protein exbB - Escherichia coli (strain K12)	P0ABU7	InnerMembraneEcoli.fasta	26,269.8	100.0%	3	3	3	0.0583%	18.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| YFGF_ECOLI Inner membrane protein yfgF - Escherichia coli (strain K12)	P77172	InnerMembraneEcoli.fasta	85,594.0	99.9%	2	2	2	0.0388%	3.75%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| MANZ_ECOLI Mannose permease IID component - Escherichia coli (strain K12)	P69805	InnerMembraneEcoli.fasta	31,286.0	100.0%	6	6	8	0.155%	32.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_19_1.RAW (F002365)	| SDHB_ECOLI Succinate dehydrogenase iron-sulfur subunit - Escherichia coli (strain K12)	P07014	InnerMembraneEcoli.fasta	26,753.0	100.0%	4	5	9	0.175%	21.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| YCJF_ECOLI UPF0283 membrane protein ycjF - Escherichia coli (strain K12)	P0A8R7	InnerMembraneEcoli.fasta	39,374.9	99.9%	2	2	2	0.0375%	10.2%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| MSCS_ECOLI Small-conductance mechanosensitive channel - Escherichia coli (strain K12)	P0C0S1	InnerMembraneEcoli.fasta	30,879.0	100.0%	8	8	24	0.450%	36.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| FTSH_ECOLI Cell division protease ftsH - Escherichia coli (strain K12)	P0AAI3	InnerMembraneEcoli.fasta	70,691.4	100.0%	3	3	5	0.0938%	8.07%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| NUOH_ECOLI NADH-quinone oxidoreductase subunit H - Escherichia coli (strain K12)	P0AFD4	InnerMembraneEcoli.fasta	36,202.5	100.0%	2	2	3	0.0563%	7.38%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| ATPB_ECOLI ATP synthase a chain - Escherichia coli (strain K12)	P0AB98	InnerMembraneEcoli.fasta	30,286.9	100.0%	3	4	7	0.131%	21.8%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| SECG_ECOLI Protein-export membrane protein secG - Escherichia coli (strain K12)	P0AG99	InnerMembraneEcoli.fasta	11,347.8	100.0%	6	6	73	1.37%	97.3%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	4	4	4	0.0750%	14.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| YFGM_ECOLI UPF0070 protein yfgM - Escherichia coli (strain K12)	P76576	InnerMembraneEcoli.fasta	22,158.4	100.0%	10	11	21	0.394%	54.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| TOLQ_ECOLI Protein tolQ - Escherichia coli (strain K12)	P0ABU9	InnerMembraneEcoli.fasta	25,581.0	100.0%	5	5	8	0.150%	22.6%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| YIDC_ECOLI Inner membrane protein oxaA - Escherichia coli (strain K12)	P25714	InnerMembraneEcoli.fasta	61,510.0	100.0%	2	2	2	0.0375%	7.12%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| YBJD_ECOLI Uncharacterized protein ybjD - Escherichia coli (strain K12)	P75828	InnerMembraneEcoli.fasta	63,573.3	100.0%	2	2	2	0.0375%	8.15%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| LGT_ECOLI Prolipoprotein diacylglyceryl transferase - Escherichia coli (strain K12)	P60955	InnerMembraneEcoli.fasta	33,091.4	100.0%	4	4	7	0.131%	25.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| YGIM_ECOLI Uncharacterized protein ygiM precursor - Escherichia coli (strain K12)	P0ADT8	InnerMembraneEcoli.fasta	23,058.8	100.0%	3	3	3	0.0563%	17.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_20_1.RAW (F002366)	| AMPE_ECOLI Protein ampE - Escherichia coli (strain K12)	P0AE14	InnerMembraneEcoli.fasta	32,104.6	100.0%	2	2	2	0.0375%	12.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| YPDA_ECOLI Inner membrane protein ypdA - Escherichia coli (strain K12)	P0AA93	InnerMembraneEcoli.fasta	62,641.7	99.8%	2	2	2	0.0358%	5.66%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| CLD_ECOLI Chain length determinant protein - Escherichia coli (strain K12)	P76372	InnerMembraneEcoli.fasta	36,437.6	99.8%	2	2	2	0.0358%	7.36%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| HISQ_ECOLI Histidine transport system permease protein hisQ - Escherichia coli (strain K12)	P52094	InnerMembraneEcoli.fasta	24,632.3	99.8%	2	2	3	0.0537%	12.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| METI_ECOLI D-methionine transport system permease protein metI - Escherichia coli (strain K12)	P31547	InnerMembraneEcoli.fasta	23,238.7	100.0%	2	2	2	0.0358%	9.68%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| YIBN_ECOLI Uncharacterized protein yibN - Escherichia coli (strain K12)	P0AG27	InnerMembraneEcoli.fasta	15,578.2	100.0%	6	6	37	0.663%	44.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| CYOA_ECOLI Ubiquinol oxidase subunit 2 precursor - Escherichia coli (strain K12)	P0ABJ1	InnerMembraneEcoli.fasta	34,894.3	99.9%	2	2	2	0.0358%	13.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| SECG_ECOLI Protein-export membrane protein secG - Escherichia coli (strain K12)	P0AG99	InnerMembraneEcoli.fasta	11,347.8	100.0%	6	7	139	2.49%	76.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| TATA_ECOLI Sec-independent protein translocase protein tatA - Escherichia coli (strain K12)	P69428	InnerMembraneEcoli.fasta	9,646.5	100.0%	3	3	3	0.0537%	37.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| YHCB_ECOLI Putative cytochrome d ubiquinol oxidase subunit 3 - Escherichia coli (strain K12)	P0ADW3	InnerMembraneEcoli.fasta	14,943.3	100.0%	7	7	41	0.734%	65.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| ARTM_ECOLI Arginine transport system permease protein artM - Escherichia coli (strain K12)	P0AE30	InnerMembraneEcoli.fasta	24,897.5	99.8%	2	2	3	0.0537%	11.7%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_21_1.RAW (F002367)	| FRC_ECOLI Formyl-coenzyme A transferase - Escherichia coli (strain K12)	P69902	InnerMembraneEcoli.fasta	45,811.1	99.8%	2	2	2	0.0358%	9.62%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| YAJC_ECOLI UPF0092 membrane protein yajC - Escherichia coli (strain K12)	P0ADZ7	InnerMembraneEcoli.fasta	11,869.6	100.0%	8	11	86	1.48%	46.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| ELAB_ECOLI Protein elaB - Escherichia coli (strain K12)	P0AEH5	InnerMembraneEcoli.fasta	11,288.0	100.0%	3	3	6	0.103%	57.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| YFJD_ECOLI UPF0053 inner membrane protein yfjD - Escherichia coli (strain K12)	P37908	InnerMembraneEcoli.fasta	48,027.7	99.9%	2	2	2	0.0344%	5.14%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| NUOK_ECOLI NADH-quinone oxidoreductase subunit K - Escherichia coli (strain K12)	P0AFE4	InnerMembraneEcoli.fasta	10,827.8	100.0%	3	3	3	0.0516%	15.0%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| NUOA_ECOLI NADH-quinone oxidoreductase subunit A - Escherichia coli (strain K12)	P0AFC3	InnerMembraneEcoli.fasta	16,439.8	100.0%	3	3	3	0.0516%	24.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| PSPB_ECOLI Phage shock protein B - Escherichia coli (strain K12)	P0AFM9	InnerMembraneEcoli.fasta	8,745.6	100.0%	5	6	39	0.671%	91.9%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| YIBN_ECOLI Uncharacterized protein yibN - Escherichia coli (strain K12)	P0AG27	InnerMembraneEcoli.fasta	15,578.2	100.0%	2	3	8	0.138%	19.6%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| YBHR_ECOLI Inner membrane transport permease ybhR - Escherichia coli (strain K12)	P0AFP9	InnerMembraneEcoli.fasta	41,549.5	99.8%	2	2	2	0.0344%	10.6%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| DSBB_ECOLI Disulfide bond formation protein B - Escherichia coli (strain K12)	P0A6M2	InnerMembraneEcoli.fasta	20,124.8	99.8%	2	2	3	0.0516%	12.5%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| HFLK_ECOLI Protein hflK - Escherichia coli (strain K12)	P0ABC7	InnerMembraneEcoli.fasta	45,527.5	100.0%	2	2	2	0.0344%	4.77%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| MSCL_ECOLI Large-conductance mechanosensitive channel - Escherichia coli (strain K12)	P0A742	InnerMembraneEcoli.fasta	14,939.5	100.0%	3	3	3	0.0516%	32.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| SECG_ECOLI Protein-export membrane protein secG - Escherichia coli (strain K12)	P0AG99	InnerMembraneEcoli.fasta	11,347.8	100.0%	6	6	38	0.654%	76.4%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| SECE_ECOLI Preprotein translocase subunit secE - Escherichia coli (strain K12)	P0AG96	InnerMembraneEcoli.fasta	13,625.6	100.0%	3	3	53	0.912%	33.1%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| SECY_ECOLI Preprotein translocase subunit secY - Escherichia coli (strain K12)	P0AGA2	InnerMembraneEcoli.fasta	48,496.0	100.0%	3	3	6	0.103%	6.55%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| MUTS_ECOLI DNA mismatch repair protein mutS - Escherichia coli (strain K12)	P23909	InnerMembraneEcoli.fasta	95,232.5	99.8%	2	2	4	0.0689%	3.87%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| BCSB_ECOLI Cyclic di-GMP-binding protein precursor - Escherichia coli (strain K12)	P37652	InnerMembraneEcoli.fasta	86,007.7	100.0%	2	2	2	0.0344%	5.13%
+1DG001_M_S_Inner Membrane	1DG_Mascot	031009	PRO08_1DG001_22_1.RAW (F002368)	| YHCB_ECOLI Putative cytochrome d ubiquinol oxidase subunit 3 - Escherichia coli (strain K12)	P0ADW3	InnerMembraneEcoli.fasta	14,943.3	100.0%	7	8	72	1.24%	65.9%
+END OF FILE

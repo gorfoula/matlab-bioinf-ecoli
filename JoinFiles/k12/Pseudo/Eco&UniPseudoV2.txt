@@ -1,0 +1,186 @@
+A5A625	yibV		b4615		YIBV_ECOLI		Uncertain
+P0CG19	rph		b3643	JW3618	RNPH_ECOLI		Inferred from homology
+P0AD35	yfdO		b2358	JW2355	YFDO_ECOLI		Uncertain
+P0CD93	ymjD		b4673	JW5960.1	YMJD_ECOLI		Uncertain
+P21420	nmpC	phmA	b0553		NMPC_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+P24211	rhsE		b1456	JW1451	RHSE_ECOLI		Uncertain
+P28369	prfH		b0236	JW0226	RFH_ECOLI		Uncertain
+P30192	ychG		b4573	JW1227 JW5883	YCHG_ECOLI		Uncertain
+P31061	nohA		b1548	JW1541	NOHA_ECOLI		Uncertain
+P31450	glvG		b4556		GLVG_ECOLI		Uncertain
+P31452	glvC		b3683	JW3660	PTXC_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+P32051	ydeK	orfT	b1510	JW1503	YDEK_ECOLI	"Cell membrane; Lipid-anchor. "	Uncertain
+P32109	yibJ		b3595	JW5647	YIBJ_ECOLI		Uncertain
+P32690	yjbI		b4038	JW3998	YJBI_ECOLI		Uncertain
+P33227	stfE		b1157	JW5172	STFE_ECOLI		Uncertain
+P33345	yehH	molR	b4499		MOLR_ECOLI		Uncertain
+P33353	yehQ		b2122	JW2110	YEHQ_ECOLI		Uncertain
+P33666	ydbA		b4492	JW5802 JW1402	YDBA_ECOLI		Uncertain
+P33669	ybbD		b0501	JW0489	YBBD_ECOLI	"Membrane; Single-pass membrane protein. "	Uncertain
+P33898	gapC		b4493	JW1413 JW5906	G3P3_ECOLI	Cytoplasm. 	Uncertain
+P33924	yejO		b2190	JW5839	YEJO_ECOLI	"Cell outer membrane; Peripheral membrane protein. "	Uncertain
+P36943	eaeH		b0297	JW0291	EAEH_ECOLI		Uncertain
+P37003	ybfG		b0691	JW5094 JW5095	YBFG_ECOLI		Uncertain
+P37629	yhiL		b4660	JW3457	YHIL_ECOLI		Uncertain
+P37635	yhiS		b3504	JW3471	YHIS_ECOLI		Uncertain
+P37655	yhjQ		b3534		YHJQ_ECOLI		Uncertain
+P39220	yabP		b4659	JW0055	YABP_ECOLI		Uncertain
+P39309	ytfA		b4205	JW4163	YTFA_ECOLI		Uncertain
+P39347	intB		b4271	JW4227	INTB_ECOLI		Uncertain
+P39349	yjgX		b4575		YJGX_ECOLI	"Cell membrane; Single-pass membrane protein. "	Uncertain
+P39354	yjhD		b4281		YJHD_ECOLI		Uncertain
+P39355	yjhE		b4282		YJHE_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Uncertain
+P39369	yjhR		b4308	JW4271	YJHR_ECOLI		Uncertain
+P39387	yjiP	yjiQ	b4339	JW4302	YJIP_ECOLI		Uncertain
+P39391	yjiT		b4342	JW5787	YJIT_ECOLI		Uncertain
+P39393	yjiV	mcrD	b4486		YJIV_ECOLI		Uncertain
+P39874	ybeM		b4581	JW0620 JW0621	YBEM_ECOLI		Uncertain
+P39901	ybfI		b4636		YBFI_ECOLI		Uncertain
+P42906	agaA		b3135	JW5527	AGAA_ECOLI		Uncertain
+P45421	yhcE		b4569		YHCE_ECOLI		Uncertain
+P45505	yfaH		b2238	JW2232	YFAH_ECOLI		Uncertain
+P45766	yhdW		b3268	JW3236	YHDW_ECOLI	Periplasm. 	Uncertain
+P46856	yrhA		b3443	JW5864	YRHA_ECOLI		Uncertain
+P0CF86	yfjU		b2638		YFJU_ECOLI		Uncertain
+P52137	yfjV	ypjM	b2641		YFJV_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+P56259	yifN		b3777	JW3749	YIFN_ECOLI		Uncertain
+P58095	ypjI		b4644	JW2623.1	YPJI_ECOLI		Uncertain
+P64526	yeeW		b2006	JW1988	YEEW_ECOLI		Uncertain
+P64562	yqfE		b2915	JW2882	YQFE_ECOLI		Uncertain
+P75675	ykfJ		b0235	JW0225	YKFJ_ECOLI		Uncertain
+P75681	fbpB	afuB	b0263	JW0255	FBPB_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+P75684	yagP		b4694	JW0276	YAGP_ECOLI		Uncertain
+P75697	yaiX	yaiF	b4579	JW0350 JW5814	YAIX_ECOLI		Uncertain
+P75704	ykiA		b0392	JW0383	YKIA_ECOLI		Uncertain
+P75717	ybcC		b0539	JW0526	YBCC_ECOLI		Uncertain
+P75718	renD		b0542	JW0530	REND_ECOLI		Uncertain
+P75741	ybfL		b0705	JW0695	YBFL_ECOLI		Uncertain
+P75901	efeU	ycdN	b4490	JW5141 JW1002	EFEU_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+Q7DFV4	ymdE		b1028		YMDE_ECOLI		Uncertain
+P75978	ymfN		b1149	JW1135	YMFN_ECOLI		Uncertain
+P75980	ymfO		b1151	JW1137	YMFO_ECOLI		Uncertain
+P75981	ymfP		b1152	JW5170	YMFP_ECOLI		Uncertain
+P76000	ycgI	ymgH	b4521	JW1162 JW5179	YCGI_ECOLI		Uncertain
+P76066	ydaW		b1361	JW5211	YDAW_ECOLI		Uncertain
+P76069	ydaY		b1366	JW1360	YDAY_ECOLI		Uncertain
+P76119	yncI	yncM	b1459	JW1453 JW5237	YNCI_ECOLI		Uncertain
+P76137	ydeT		b1505	JW1499	YDET_ECOLI		Uncertain
+P76138	yneL		b1506	JW5244	YNEL_ECOLI		Uncertain
+P76164	ydfW		b1567	JW1559	YDFW_ECOLI		Uncertain
+P76165	ydfX		b1568	JW1560	YDFX_ECOLI		Uncertain
+P76168	intQ		b1579	JW1571	INTQ_ECOLI		Uncertain
+P76205	arpB		b4494	JW5278 JW1710	ARPB_ECOLI		Uncertain
+P76321	yedN		b4495		YEDN_ECOLI		Uncertain
+P76323	intG		b1936		INTG_ECOLI		Uncertain
+P76335	yedS		b4496	JW5319 JW1948 JW1949	YEDS_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+P76349	yeeL		b4497		YEEL_ECOLI		Uncertain
+P76356	yoeA		b4582	JW1980	YOEA_ECOLI		Uncertain
+P76359	yeeP		b1999	JW5327	YEEP_ECOLI		Uncertain
+P76464	yfaS	yfaR	b4500	JW2221 JW2222	YFAS_ECOLI		Uncertain
+P76508	yfdL		b2355	JW5384	YFDL_ECOLI		Uncertain
+P76509	yfdM		b2356	JW2352	YFDM_ECOLI		Uncertain
+P76611	pinH		b2648	JW5423	PINH_ECOLI		Uncertain
+P76616	ygaQ	ygaR yqaC yqaD	b4462	JW2631 JW2633 JW5425 JW5426	YGAQ_ECOLI		Uncertain
+P76628	ygaY		b2681	JW2655	YGAY_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+P76655	yqiG		b3046	JW5507	YQIG_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+P76692	yzgL		b3427	JW3390	YZGL_ECOLI		Uncertain
+P77087	ylcE		b0563	JW0552	YLCE_ECOLI		Uncertain
+P77169	yagJ		b0276	JW0270	YAGJ_ECOLI		Uncertain
+P77184	lomR		b4570	JW5884 JW5904	LOMR_ECOLI		Uncertain
+P77196	yfcU		b4661	JW2334 JW2335	YFCU_ECOLI	"Cell outer membrane; Multi-pass membrane protein. "	Uncertain
+P77199	yaiT		b4580	JW0362 JW5051	YAIT_ECOLI		Uncertain
+P77228	ydfJ		b4600	JW1536	YDFJ_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+P77326	tfaS		b2353	JW5383	TFAS_ECOLI		Uncertain
+P77354	yafU		b0218	JW0207	YAFU_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+P77460	ybcY		b0562	JW0551	YBCY_ECOLI		Uncertain
+P77481	ycjV	ymjB	b4524	JW1311 JW5203	YCJV_ECOLI		Uncertain
+P77528	ybcD		b4508		YBCD_ECOLI		Uncertain
+P77551	rzpR		b1362	JW5212	RZPR_ECOLI		Uncertain
+P77601	ykgA		b0300	JW5037	YKGA_ECOLI		Uncertain
+P77658	ynaA		b1368	JW1361	YNAA_ECOLI		Uncertain
+P77688	ylbG		b0502	JW5880	YLBG_ECOLI		Uncertain
+P77699	tfaD		b0561		TFAD_ECOLI		Uncertain
+P77759	ylbH		b0499	JW0488	YLBH_ECOLI		Uncertain
+P77779	ybfO		b0703	JW0692	YBFO_ECOLI		Uncertain
+Q2EEP9	yafF		b4503	JW0208	YAFF_ECOLI		Uncertain
+Q2EER5	ymjC		b4525	JW5960	YMJC_ECOLI		Uncertain
+Q2EES3	yoeF		b4538	JW5328	YOEF_ECOLI		Uncertain
+Q2EET0	ypdJ		b4545	JW5386	YPDJ_ECOLI		Uncertain
+Q46786	ygeF		b2850	JW2818	YGEF_ECOLI		Uncertain
+Q46790	pbl		b2854		PBL_ECOLI	Periplasm. 	Uncertain
+Q46791	ygeK	ygeL	b2856	JW5458 JW2824	YGEK_ECOLI		Uncertain
+Q46793	ygeN	ygeM	b2858	JW5459 JW5460	YGEN_ECOLI		Uncertain
+Q46795	ygeO		b2859	JW5846	YGEO_ECOLI		Uncertain
+Q46797	ygeQ		b2863	JW5461	YGEQ_ECOLI		Uncertain
+Q46833	yghE		b2969		YGHE_ECOLI	Cell inner membrane. 	Uncertain
+Q46834	yghF		b2970	JW5484	YGHF_ECOLI	Periplasm. 	Uncertain
+Q46840	yghO		b2981	JW5848	YGHO_ECOLI		Uncertain
+Q47138	ydfE		b1577	JW1568	YDFE_ECOLI		Uncertain
+Q47153	fhiA		b0229	JW5811	FHIA_ECOLI	"Cell inner membrane; Multi-pass membrane protein. "	Uncertain
+Q47154	mbhA		b0230	JW5812	MBHA_ECOLI		Uncertain
+Q47688	ykfC		b0258	JW5813	YKFC_ECOLI		Uncertain
+Q47719			b4286	JW4246	Y4286_ECOLI		Uncertain
+Q79E92	ykgN		b4505	JW0258	YKGN_ECOLI		Uncertain
+Q7DFU6	yghX	yghY	b4658	JW5926 JW5496	YGHX_ECOLI		Uncertain
+P75680	insO1		b0257	JW0247	INSO1_ECOLI		Uncertain
+Q47718	insO2		b4285		INSO2_ECOLI		Uncertain
+P28697	htgA	htpY	b0012	JW5001	HTGA_ECOLI		Uncertain
+P0CF60	insD8		b1578	JW1570	INSD8_ECOLI		Uncertain
+P0ADF0	fruL		b0079		LPFS_ECOLI		Uncertain
+P0ADF3	rhoL		b3782	JW3755	LPRH_ECOLI		Uncertain
+P13960	repA1				REA1_ECOLI		Uncertain
+A5A627	tisB	ysdB	b4618	JW3649	TISB_ECOLI	"Cell inner membrane; Single-pass membrane protein. "	Evidence at transcript level
+P75971			b1142	JW1128	Y1142_ECOLI	"Cell membrane; Multi-pass membrane protein. "	Uncertain
+P11291			b3808	JW3780	Y3808_ECOLI		Uncertain
+Q2EEQ3	yahH		b0322	JW5893	YAHH_ECOLI		Uncertain
+Q2EEQ8	ybfQ		b4514	JW0694	YBFQ_ECOLI		Uncertain
+P77286	ydeU		b1509	JW1502	YDEU_ECOLI		Uncertain
+Q79CP2	ygiA		b3036	JW5889	YGIA_ECOLI		Uncertain
+Q9Z3A0	yjgW		b4274	JW4233	YJGW_ECOLI		Uncertain
+P46879	yqgD		b2941	JW2908	YQGD_ECOLI		Uncertain
+P0AEU7	icdC	icd	b4519	JW5173			Evidence at protein level.
+P00892	ilvG	ilvO	b4488	JW3740 JW3741			Evidence at protein level.
+P30868	uidB	gusB uidP	b1616	JW1608			Evidence at protein level. Notes: Glucuronide carrier protein homolog
+P36667	wbbL	yefJ	b4571	JW2012 JW2016			Evidence at protein level.
+P36930	gatR	Null	b4498	JW2074 JW5340			Predicted.
+P37008	yagB	Null	b0266	JW0259			Predicted.
+P77129	ylbE	Null	b4572	JW0507 JW0508			Found by Malvina
+P75679	insN	insO ORFAB	b4587	Null			found by Malvina
+Null	xisD	ybcB	b4633	Null			Null
+Null	yeeH	Null	b4639	Null			Null
+Null	ycgH	Null	b4491	JW5176 JW5901			Null
+Null	yegZ	Null	b2083	JW5886			Null
+Null	aaaD	ylcF	b4634	Null			Null
+Null	yibS	Null	b4650	Null			Null
+Null	ylbI	Null	b4632	Null			Null
+Null	yrdE	Null	b4646	Null			Null
+Null	insP	orf1 orfA tnpA yncK	b4578	JW5227 JW5961			Null
+Null	yoeD	Null	b4642	Null			Null
+Null	yrhC	Null	b4552	JW5678			Null
+Null	ykfK	yafY	b4628	Null			Null
+Null	ykfL	Null	b4627	Null			Null
+Null	ykgP	Null	b4630	Null			Null
+Null	ttcC	Null	b4638	Null			Null
+Null	mokA	Null	b4647	Null			Null
+Null	yibU	Null	b4652	Null			Null
+Null	yibW	Null	b4651	Null			Null
+Null	yoeG	Null	b4640	Null			Null
+Null	yoeH	Null	b4641	Null			Null
+Null	yjhY	Null	b4656	Null			Null
+Null	ykgQ	Null	b4631	Null			Null
+Null	yjhZ	Null	b4657	Null			Null
+Null	yicT	erhM rhuM(S.t.)	b4653	Null			Null
+Null	yjdQ	Null	b4654	Null			Null
+Null	ykfN	Null	b4626	Null			Null
+Null	ysaC	Null	b4648	Null			Null
+Null	ysaD	Null	b4649	Null			Null
+Null	ykgS	Null	b4688	Null			Null
+Null	oweE	Null	b4692	Null			Null
+Null	ykgT	yagP	b4695	Null			Null
+Null	yrdF	Null	b4697	Null			Null
+Null	ptwF	Null	b4629	Null			Null
+Null	pauD	Null	b4635	Null			Null
+Null	pawZ	Null	b4643	Null			Null
+Null	psaA	Null	b4645	Null			Null
+Null	sokA	Null	b4614	Null			Null
+Null	insM	Null	b4561	Null			Null

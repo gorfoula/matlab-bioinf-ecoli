@@ -1,0 +1,2 @@
+Entry Name BL21(DE3)	Entry Name BL21(DE3)	hydroxyacylglutathione hydrolase activity	GO:0004416	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Entry Name BL21(DE3)&sort=score")
+Process (class=string)	Process (class=string)			=HYPERLINK("http://www.uniprot.org/uniprot/?query=Process (class=string)&sort=score")

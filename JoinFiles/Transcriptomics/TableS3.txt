@@ -1,0 +1,1279 @@
+Accession	ECK	Gene	Protein name	emPAI	mRNA	Copy number	Sequence	Number of	Mascot	Number of	GRAVY	GO cellular component
+number				Value	expression level	per cell	coverage (%)	unique peptides	protein score	TMDs	score	
+JW3950	ECK3978	rpoB	RNA polymerase, beta subunit	27,41	3,87	1170,18	75,86	88	4999	0	-0,394	GO:0005737 cytoplasm
+JW3951	ECK3979	rpoC	RNA polymerase, beta prime subunit	28,29	3,95	1206,59	74,13	97	4850	0	0.000	GO:0005737 cytoplasm
+JW0110	ECK0113	aceE	pyruvate dehydrogenase, decarboxylase component E1, thiamin-binding	47,33	007	3842,58	78,24	72	3966	0	-0,437	0
+JW0031	ECK0034	carB	carbamoyl-phosphate synthase large subunit	30,62	1,36	1302,81	67,29	71	3749	0	-0,162	0
+JW0894	ECK0902	rpsA	30S ribosomal subunit protein S1	185,32	014	7463,64	89,05	55	3466	0	0.000	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3137	ECK3157	infB	fused protein chain initiation factor 2, IF2	15,47	002	672,06	072	57	3053	0	-0,533	GO:0005737 cytoplasm
+JW2573	ECK2590	clpB	protein disaggregation chaperone	12,53	4,39	547,85	69,31	56	3047	0	-0,358	GO:0005737 cytoplasm
+JW0114	ECK0117	acnB	bifunctional aconitate hydratase 2 -!- 2-methylisocitrate dehydratase	33,55	9,64	739,77	73,53	56	2995	0	-0,117	0
+JW3302	ECK3327	fusA	protein chain elongation factor EF-G	48,03	12,97	2.016	74,72	43	2995	0	-0,286	GO:0005737 cytoplasm
+JW1703	ECK1711	pheT	phenylalanine tRNA synthetase, beta subunit	21,68	4,93	932	70,69	51	2751	0	-0,097	GO:0005737 cytoplasm
+JW0886	ECK0894	pflB	pyruvate formate lyase I	19,59	12,47	641,14	73,68	48	2739	0	0.000	GO:0005737 cytoplasm
+JW0013	ECK0014	dnaK	chaperone Hsp70, co-chaperone with DnaJ	42,75	10,49	1.801	76,18	48	2708	0	-0,409	GO:0005737 cytoplasm
+JW2667	ECK2692	alaS	alanyl-tRNA synthetase	6,16	7,74	275,23	61,99	45	2641	0	-0,303	GO:0005737 cytoplasm
+JW0715	ECK0714	sucA	2-oxoglutarate decarboxylase, thiamin-requiring	14,44	8,01	628,64	66,13	47	2519	0	-0,441	0
+JW0024	ECK0027	ileS	isoleucyl-tRNA synthetase	10,31	1,57	453,48	67,16	51	2490	0	-0,263	GO:0005737 cytoplasm
+JW0637	ECK0635	leuS	leucyl-tRNA synthetase	014	1,81	626,95	60,23	49	2487	0	-0,368	GO:0005737 cytoplasm
+JW3530	ECK3547	glyS	glycine tRNA synthetase, beta subunit	24,88	001	1065,31	78,96	52	2433	0	-0,219	GO:0005737 cytoplasm
+JW2278	ECK2277	nuoG	NADH:ubiquinone oxidoreductase, chain G	8,57	7,82	379,07	52,64	41	2424	0	-0,318	GO:0005737 cytoplasm
+JW0999	ECK1005	putA	fused DNA-binding transcriptional regulator -!- proline dehydrogenase -!- pyrroline-5-carboxylate dehydrogenase	5,74	4,08	257,02	47,95	48	2389	0	-0,131	GO:0005737 cytoplasm
+JW0426	ECK0430	tig	peptidyl-prolyl cis/trans isomerase (trigger factor)	67,13	7,03	2788,66	77,08	42	2385	0	-0,428	GO:0005737 cytoplasm
+JW4103	ECK4137	groL	Cpn60 chaperonin GroEL, large subunit of GroESL	92,26	5,37	3.796	86,13	40	2380	0	-0,009	GO:0005737 cytoplasm
+JW5689	ECK3404	malP	maltodextrin phosphorylase	8,26	2,73	365,77	60,73	44	2325	0	-0,348	0
+JW1692	ECK1700	pps	phosphoenolpyruvate synthase	8,52	2,42	376,93	52,02	38	2296	0	-0,243	0
+JW0111	ECK0114	aceF	pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2	17,84	5,35	2785,78	66,19	42	2279	0	0,004	0
+JW1709	ECK1717	thrS	threonyl-tRNA synthetase	11,07	18,32	485,85	74,61	45	2209	0	-0,494	GO:0005737 cytoplasm
+JW2011	ECK2024	gnd	gluconate-6-phosphate dehydrogenase, decarboxylating	78,43	3,24	1366,35	86,54	39	2198	0	0.000	0
+JW3712	ECK3727	atpA	F1 sector of membrane-bound ATP synthase, alpha subunit	28,29	006	1206,59	68,23	34	2198	0	-0,045	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0462	ECK0467	htpG	molecular chaperone HSP90 family	20,13	9,48	867,51	72,92	42	2182	0	-0,524	0
+JW0190	ECK0194	proS	prolyl-tRNA synthetase	17,96	2,59	776,69	76,92	38	2164	0	-0,243	GO:0005737 cytoplasm
+JW3897	ECK3918	glpK	glycerol kinase	46,71	0,17	1961,97	076	36	2162	0	-0,292	0
+JW3686	ECK3701	tnaA	tryptophanase/L-cysteine desulfhydrase, PLP-dependent	43,17	-	1817,64	80,25	36	2150	0	-0,216	0
+JW3138	ECK3158	nusA	transcription termination/antitermination L factor	29,39	1,54	1252,04	75,76	35	2140	0	-0,278	GO:0005737 cytoplasm
+JW3710	ECK3725	atpD	F1 sector of membrane-bound ATP synthase, beta subunit	64,29	003	2674,21	91,74	32	2120	0	-0,118	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1228	ECK1235	adhE	fused acetaldehyde-CoA dehydrogenase -!- iron-dependent alcohol dehydrogenase -!- pyruvate-formate lyase deactivase	11,16	14,52	47,83	67,45	42	2103	0	-0,066	0
+JW2491	ECK2503	guaA	GMP synthetase (glutamine aminotransferase)	31,82	2,25	1352,28	082	39	2094	0	-0,096	GO:0005737 cytoplasm
+JW5851	ECK3152	pnp	polynucleotide phosphorylase/polyadenylase	10,84	001	476,06	57,22	35	2026	0	-0,169	GO:0005737 cytoplasm
+JW5625	ECK3691	gyrB	DNA gyrase, subunit B	12,34	5,12	540	065	41	2002	0	-0,454	GO:0005737 cytoplasm
+JW2294	ECK2291	pta	phosphate acetyltransferase	11,92	0,71	225,17	57,56	34	1979	0	0.000	0
+JW1604	ECK1607	fumA	aerobic Class I fumarate hydratase (fumarase A)	17,05	5,89	354,66	76,46	35	1979	0	-0,368	0
+JW0713	ECK0712	sdhA	succinate dehydrogenase, flavoprotein subunit	13,96	6,87	334,59	74,49	33	1970	0	-0,324	GO:0005737 cytoplasm
+JW0112	ECK0115	lpd	lipoamide dehydrogenase, E3 component is part of three enzyme complexes	49,55	22,38	2077,52	66,24	32	1970	0	-0,011	GO:0005737 cytoplasm
+JW4215	ECK4251	valS	valyl-tRNA synthetase	006	001	263,96	47,84	44	1966	0	0.000	GO:0005737 cytoplasm
+JW1768	ECK1777	gapA	glyceraldehyde-3-phosphate dehydrogenase A	109,07	8,91	20789,62	90,33	34	1959	0	-0,133	GO:0005737 cytoplasm
+JW0007	ECK0008	talB	transaldolase B	53,84	002	1636,47	086	30	1935	0	0.000	GO:0005737 cytoplasm
+JW3865	ECK3887	fdoG	formate dehydrogenase-O, large subunit	4,57	3,84	206,06	47,64	35	1916	0	-0,346	GO:0005737 cytoplasm
+JW3366	ECK3390	pck	phosphoenolpyruvate carboxykinase	49,12	5,75	2060,04	72,22	34	1908	0	-0,315	0
+JW2101	ECK2107	metG	methionyl-tRNA synthetase	009	1,12	398	64,84	36	1899	0	-0,303	GO:0005737 cytoplasm
+JW2409	ECK2411	ptsI	PEP-protein phosphotransferase of PTS system (enzyme I)	16,48	24,33	627,12	071	32	1889	0	0.000	0
+JW4354	ECK4383	yjjK	fused predicted transporter subunits -!- ATP-binding components of ABC superfamily	11,74	2,24	514,33	74,23	34	1889	0	-0,478	GO:0005737 cytoplasm
+JW3389	ECK3412	glpD	sn-glycerol-3-phosphate dehydrogenase, aerobic, FAD/NAD(P)-binding	12,77	-	558,02	79,44	33	1856	0	-0,384	GO:0005737 cytoplasm
+JW3914	ECK3934	katG	catalase/hydroperoxidase HPI(I)	010	2,74	444,52	62,95	37	1839	0	-0,372	0
+JW3756	ECK3775	rho	transcription termination factor	33,33	0,78	1414,45	77,33	33	1828	0	-0,298	GO:0005737 cytoplasm
+JW5375	ECK2280	nuoC	NADH:ubiquinone oxidoreductase, chain C,D	13,53	6,62	590,19	71,67	35	1826	0	-0,307	GO:0005737 cytoplasm
+JW3841	ECK3863	glnA	glutamine synthetase	90,52	4,78	3726,18	83,58	33	1820	0	-0,292	GO:0005737 cytoplasm
+JW0096	ECK0099	secA	preprotein translocase subunit, ATPase that targets protein precursors to the SecYE core translocon	5,17	1,48	232,24	53,83	39	1820	0	-0,467	GO:0005737 cytoplasm
+JW2750	ECK2773	eno	enolase	45,42	4,91	5949,64	81,02	29	1814	0	-0,158	GO:0005737 cytoplasm
+JW0172	ECK0176	yaeT	conserved protein	4,36	2,46	196,87	47,41	33	1804	0	-0,483	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW2871	ECK2898	gcvP	glycine decarboxylase, PLP-dependent, subunit (protein P) of glycine cleavage complex	4,96	2,26	223,08	53,81	33	1797	0	-0,066	0
+JW4135	ECK4173	purA	adenylosuccinate synthetase	17,59	012	761,18	74,77	27	1783	0	0.000	GO:0005737 cytoplasm
+JW2225	ECK2223	gyrA	DNA gyrase (type II topoisomerase), subunit A	5,63	2,14	252,24	51,89	40	1776	0	0.000	GO:0005737 cytoplasm
+JW3707	ECK3722	glmS	L-glutamine:D-fructose-6-phosphate aminotransferase	17,74	2,14	767,47	067	32	1772	0	-0,101	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2858	ECK2885	lysS	lysine tRNA synthetase, constitutive	21,64	0,81	930,53	70,89	32	1759	0	-0,396	GO:0005737 cytoplasm
+JW3301	ECK3326	tufA	protein chain elongation factor EF-Tu (duplicate of tufB)	118	11,71	4802,42	090	30	1741	0	-0,196	GO:0005737 cytoplasm
+JW2893	ECK2922	pgk	phosphoglycerate kinase	64,79	3,56	1285,46	82,95	28	1738	0	0,072	GO:0005737 cytoplasm
+JW2395	ECK2394	gltX	glutamyl-tRNA synthetase	15,82	2,12	687	072	32	1708	0	-0,528	GO:0005737 cytoplasm
+JW3205	ECK3225	mdh	malate dehydrogenase, NAD(P)-binding	86,99	7,98	582,65	79,49	23	1705	0	0,194	0
+JW1071	ECK1069	rne	fused ribonucleaseE endoribonuclease -!- scaffold for formation of degradosome	5,71	1,03	255,72	44,58	35	1697	0	-0,645	GO:0005737 cytoplasm
+JW2751	ECK2774	pyrG	CTP synthetase	13,03	1,31	569,03	61,65	33	1696	1	-0,139	0
+JW5238	ECK1473	sfcA	malate dehydrogenase, NAD-requiring (malic enzyme)	14,62	4,63	636,23	73,81	31	1675	0	0.000	0
+JW0429	ECK0433	lon	DNA-binding ATP-dependent protease La	9,96	2,17	438,54	61,86	40	1673	0	-0,312	GO:0005737 cytoplasm
+JW5478	ECK2930	tktA	transketolase 1, thiamin-binding	020	1,65	656,74	70,29	36	1671	0	-0,228	0
+JW3970	ECK3998	purH	fused IMP cyclohydrolase -!- phosphoribosylaminoimidazolecarboxamide formyltransferase	007	3,07	289,95	64,84	26	1655	0	-0,126	GO:0005737 cytoplasm
+JW1235	ECK1237	oppA	oligopeptide transporter subunit -!- periplasmic-binding component of ABC superfamily	11,12	13,15	487,98	80,29	31	1650	1	-0,436	GO:0009274 cell wall (sensu Bacteria) -!- GO:0042597 periplasmic space
+JW0717	ECK0716	sucC	succinyl-CoA synthetase, beta subunit	10,72	9,48	2324,65	67,27	24	1647	0	0,024	0
+JW4090	ECK4123	lysU	lysine tRNA synthetase, inducible	17,12	2,41	741,45	62,57	32	1638	0	-0,399	GO:0005737 cytoplasm
+JW1666	ECK1672	pykF	pyruvate kinase I	20,54	2,07	1113,95	69,15	31	1631	0	-0,082	0
+JW5401	ECK2504	guaB	IMP dehydrogenase	13,87	2,37	604,57	72,54	24	1616	0	-0,098	GO:0005737 cytoplasm
+JW2203	ECK2207	ompC	outer membrane porin protein C	77,48	24,26	3204,57	086	25	1583	0	-0,533	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW2514	ECK2527	iscS	cysteine desulfurase (tRNA sulfurtransferase), PLP-dependent	18,57	012	802,26	65,84	25	1575	0	-0,273	0
+JW1215	ECK1218	narG	nitrate reductase 1, alpha subunit	2,11	6,07	97,41	37,05	31	1564	0	-0,512	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0165	ECK0169	tsf	protein chain elongation factor EF-Ts	69,79	5,18	2895,73	82,69	29	1562	0	-0,118	GO:0005737 cytoplasm
+JW1122	ECK1122	icd	"e14 prophage; isocitrate dehydrogenase, specific for NADP+"	77,14	11,81	3190,93	71,15	34	1553	0	-0,154	0
+JW1855	ECK1867	aspS	aspartyl-tRNA synthetase	009	3,07	398	66,95	34	1538	0	-0,265	GO:0005737 cytoplasm
+JW0666	ECK0668	glnS	glutamyl-tRNA synthetase	7,41	1,41	329,22	63,18	32	1534	0	-0,518	GO:0005737 cytoplasm
+JW2228	ECK2226	nrdA	ribonucleoside diphosphate reductase 1, alpha subunit	6,15	0,67	275	048	36	1525	0	-0,337	0
+JW0431	ECK0435	ppiD	peptidyl-prolyl cis-trans isomerase (rotamase D)	5,38	1,01	241,38	60,51	29	1516	1	-0,405	0
+JW3902	ECK3923	hslU	molecular chaperone and ATPase component of HslUV protease	10,72	4,37	470,95	56,43	29	1509	0	-0,363	GO:0005737 cytoplasm
+JW0913	ECK0921	asnS	asparaginyl tRNA synthetase	8,26	3,57	365,77	56,65	25	1509	0	-0,257	GO:0005737 cytoplasm
+JW0053	ECK0055	imp	exported protein required for envelope biosynthesis and integrity	2,86	1,71	130,81	41,96	26	1495	0	-0,657	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5531	ECK3150	deaD	ATP-dependent RNA helicase	007	0,21	307,23	61,69	30	1481	0	-0,586	GO:0005737 cytoplasm
+JW3580	ECK3595	lldD	L-lactate dehydrogenase, FMN-linked	13,68	002	596,53	71,97	23	1479	0	0,037	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0710	ECK0709	gltA	citrate synthase	24,12	11,49	1577,84	77,52	26	1453	0	-0,231	0
+JW3257	ECK3282	rpoA	RNA polymerase, alpha subunit	70,97	10,58	2943,18	79,64	27	1437	0	-0,228	GO:0005737 cytoplasm
+JW4198	ECK4234	treC	trehalose-6-P hydrolase	16,43	003	712,46	52,81	28	1434	0	-0.001	GO:0005737 cytoplasm
+JW1865	ECK1877	argS	arginyl-tRNA synthetase	005	0,97	216	59,27	27	1427	0	-0,258	GO:0005737 cytoplasm
+JW0428	ECK0432	clpX	ATPase and specificity subunit of ClpX-ClpP ATP-dependent serine protease	13,25	2,71	578,35	73,82	24	1411	0	-0,238	GO:0005737 cytoplasm
+JW5571	ECK3864	bipA	GTP-binding protein	012	0,74	504,13	046	25	1406	0	-0,298	0
+JW0911	ECK0919	aspC	aspartate aminotransferase, PLP-dependent	25,49	2,64	1090,63	075	28	1397	0	-0,202	GO:0005737 cytoplasm
+JW3224	ECK3243	accC	acetyl-CoA carboxylase, biotin carboxylase subunit	12,46	1,96	544,88	67,71	29	1387	0	-0,173	GO:0005737 cytoplasm
+JW2507	ECK2520	pepB	aminopeptidase B	18,05	2,26	780,47	75,41	25	1384	0	-0,214	0
+JW3985	ECK4017	pgi	glucosephosphate isomerase	012	7,97	506,43	66,67	28	1373	0	-0,268	GO:0005737 cytoplasm
+JW1412	ECK1408	aldA	aldehyde dehydrogenase A, NAD-linked	5,21	5,19	233,98	055	20	1373	0	-0,056	0
+JW1279	ECK1281	rnb	ribonuclease II	5,38	0,42	241,38	57,14	30	1368	0	-0,277	0
+JW2892	ECK2921	fbaA	fructose-bisphosphate aldolase, class II	137,95	2,84	3043,33	58,77	19	1363	0	-0,224	0
+JW4204	ECK4240	pyrB	aspartate carbamoyltransferase, catalytic subunit	057	5,13	2.372	89,07	27	1358	0	-0,105	GO:0005737 cytoplasm
+JW2447	ECK2458	maeB	fused malic enzyme predicted oxidoreductase -!- predicted phosphotransacetylase	8,47	10,06	374,79	58,37	30	1348	0	0,054	0
+JW3975	ECK4007	aceA	isocitrate lyase	19,15	2,55	1522,03	72,81	23	1336	0	-0,224	GO:0005737 cytoplasm
+JW3145	ECK3167	ftsH	protease, ATP-dependent zinc-metallo	7,89	2,12	349,88	56,83	31	1325	2	-0,263	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW4115	ECK4150	frdA	fumarate reductase (anaerobic) catalytic and NAD/flavoprotein subunit	5,47	4,29	245,29	53,99	26	1324	0	-0,365	GO:0005737 cytoplasm
+JW0716	ECK0715	sucB	dihydrolipoyltranssuccinase	30,62	8,52	2411,74	056	24	1318	0	-0,217	0
+JW2535	ECK2548	glyA	serine hydroxymethyltransferase	19,81	4,49	854,14	60,43	24	1306	0	-0,233	GO:0005737 cytoplasm
+JW5551	ECK3954	sthA	pyridine nucleotide transhydrogenase, soluble	13,25	4,25	578,35	76,61	22	1306	0	-0,227	GO:0005737 cytoplasm
+JW3928	ECK3947	ppc	phosphoenolpyruvate carboxylase	2,29	1,02	57,65	38,28	27	1303	0	-0,277	GO:0005737 cytoplasm
+JW5503	ECK3026	tolC	transport channel	12,04	3,03	527,07	63,08	22	1303	0	-0,427	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW0164	ECK0168	rpsB	30S ribosomal subunit protein S2	340,45	12,55	13.459	083	22	1280	0	-0,268	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2553	ECK2567	lepA	GTP binding membrane protein	8,28	1,56	366,63	48,91	25	1275	0	0.000	0
+JW2082	ECK2088	gatZ	D-tagatose 1,6-bisphosphate aldolase 2, subunit	43,67	18,75	1838,05	74,29	22	1271	0	-0,121	0
+JW0658	ECK0653	miaB	isopentenyl-adenosine A37 tRNA methylthiolase	9,83	1,89	432,99	64,98	25	1260	0	-0,378	GO:0005737 cytoplasm
+JW1198	ECK1195	prsA	phosphoribosylpyrophosphate synthase	26,38	2,52	1127,52	60,32	17	1259	0	0,096	0
+JW4099	ECK4133	aspA	aspartate ammonia-lyase	009	009	398	055	23	1259	0	-0,066	GO:0005737 cytoplasm
+JW1843	ECK1855	pykA	pyruvate kinase II	13,07	1,76	404,41	65,63	25	1241	0	-0,025	0
+JW0675	ECK0676	pgm	phosphoglucomutase	9,86	1,34	253,16	54,03	24	1229	0	-0,168	GO:0005737 cytoplasm
+JW0627	ECK0625	dacA	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)	8,12	1,19	359,76	59,31	21	1229	0	-0,137	GO:0019866 inner membrane
+JW0866	ECK0873	clpA	ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease, chaperone activity	3,06	1,83	139,67	42,88	25	1224	0	-0,298	GO:0005737 cytoplasm
+JW0599	ECK0600	ahpF	alkyl hydroperoxide reductase, F52a subunit, FAD/NAD(P)-binding	010	-	431,71	61,04	26	1220	0	-0,123	0
+JW3714	ECK3729	atpF	F0 sector of membrane-bound ATP synthase, subunit b	198,53	9,77	7978,89	75,64	18	1219	1	-0,213	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3711	ECK3726	atpG	F1 sector of membrane-bound ATP synthase, gamma subunit	36,93	4,66	1562,34	89,55	26	1213	0	-0,227	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3039	ECK3057	rpoD	RNA polymerase, sigma 70 (sigma D) factor	5,49	3,95	246,16	47,96	21	1213	0	-0,589	GO:0005737 cytoplasm
+JW4194	ECK4230	pmbA	predicted peptidase required for the maturation and secretion of the antibiotic peptide MccB17	6,74	001	300,32	58,44	20	1188	0	0.000	GO:0005737 cytoplasm
+JW1117	ECK1117	purB	adenylosuccinate lyase	14,32	3,51	623,57	61,84	26	1187	0	-0,243	GO:0005737 cytoplasm
+JW0598	ECK0599	ahpC	alkyl hydroperoxide reductase, C22 subunit	141,51	15,63	5.746	95,19	18	1179	0	-0,278	0
+JW0058	ECK0060	hepA	RNA polymerase-associated helicase protein (ATPase and RNA polymerase recycling factor)	1,92	0,47	88,89	39,57	26	1177	0	-0,355	0
+JW0101	ECK0104	guaC	GMP reductase	28,76	1,73	1226,02	72,05	22	1173	0	-0,068	GO:0005737 cytoplasm
+JW5277	ECK1712	pheS	phenylalanine tRNA synthetase, alpha subunit	010	2,02	444,52	69,42	21	1172	0	-0,324	GO:0005737 cytoplasm
+JW3465	ECK3483	prlC	oligopeptidase A	3,56	1,36	161,74	44,71	23	1166	0	-0,416	0
+JW3143	ECK3165	glmM	phosphoglucosamine mutase	009	-	398	61,35	24	1166	0	0,013	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0915	ECK0923	pepN	aminopeptidase N	3,12	1,52	142,33	35,86	25	1164	0	-0,325	0
+JW3270	ECK3295	rplE	50S ribosomal subunit protein L5	411,46	7,76	16.173	82,68	20	1162	0	-0,282	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5873	ECK4366	prfC	peptide chain release factor RF-3	009	000	398	47,83	22	1149	0	-0,326	GO:0005737 cytoplasm
+JW0912	ECK0920	ompF	"outer membrane porin 1a (Ia;b;F)"	37,75	10,57	1595,96	78,45	21	1144	0	-0,398	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW3592	ECK3607	kbl	glycine C-acetyltransferase	24,12	-	1033,75	59,05	20	1143	0	-0,049	0
+JW0907	ECK0915	mukB	fused chromosome partitioning proteins	0,82	001	38,96	022	25	1140	0	-0,599	0
+JW2293	ECK2290	ackA	acetate kinase A and propionate kinase 2	14,51	8,31	5090,85	73,75	19	1134	0	-0,047	GO:0005737 cytoplasm
+JW2026	ECK2035	rfbB	dTDP-glucose 4,6 dehydratase, NAD(P)-binding	11,33	1,14	496,91	57,34	21	1131	0	-0,449	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3276	ECK3301	rpsC	30S ribosomal subunit protein S3	30,62	9,43	1302,81	79,83	21	1129	0	-0,422	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3835	ECK3855	polA	fused DNA polymerase I 5'->3' exonuclease -!- 3'->5' polymerase -!- 3'->5' exonuclease	2,59	1,73	118,82	32,87	22	1128	0	-0,264	GO:0005737 cytoplasm
+JW0940	ECK0948	ompA	"outer membrane protein A (3a;II*;G;d)"	17,33	47,67	750,27	61,56	19	1102	0	-0,339	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW4347	ECK4376	deoD	purine-nucleoside phosphorylase	050	003	2087,68	89,12	18	1090	0	0.000	0
+JW2905	ECK2933	speA	biosynthetic arginine decarboxylase, PLP-binding	6,94	0,36	308,96	45,44	23	1088	0	-0,296	GO:0042597 periplasmic space
+JW0714	ECK0713	sdhB	succinate dehydrogenase, FeS subunit	18,95	7,62	9524,82	75,63	19	1087	0	-0,299	GO:0005737 cytoplasm
+JW5414	ECK2607	ffh	Signal Recognition Particle (SRP) component with 4.5S RNA (ffs)	7,48	0,84	332,24	56,73	22	1083	0	-0,243	0
+JW0227	ECK0238	pepD	aminoacyl-histidine dipeptidase (peptidase D)	21,91	3,93	941,79	55,46	26	1081	0	-0,146	GO:0005737 cytoplasm
+JW3947	ECK3975	rplA	50S ribosomal subunit protein L1	53,12	006	2222,48	84,62	19	1077	0	-0,109	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1194	ECK1191	ychF	predicted GTP-binding protein	15,24	1,41	662,37	65,56	19	1069	0	-0,163	0
+JW3303	ECK3328	rpsG	30S ribosomal subunit protein S7	162,79	13,54	6582,23	78,21	19	1068	0	0.000	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0876	ECK0884	serS	seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine	12,04	0,43	527,07	59,53	23	1068	0	-0,447	GO:0005737 cytoplasm
+JW0030	ECK0033	carA	carbamoyl phosphate synthetase small subunit, glutamine amidotransferase	048	0,66	2002,27	80,37	19	1067	0	-0,199	0
+JW0180	ECK0184	accA	acetylCoA carboxylase, carboxytransferase, alpha subunit	14,85	-	645,93	74,29	21	1067	0	-0,233	GO:0005737 cytoplasm
+JW2137	ECK2143	mglB	methyl-galactoside transporter subunit -!- periplasmic-binding component of ABC superfamily	5,42	6,57	243,12	57,53	19	1066	1	-0,273	GO:0042597 periplasmic space
+JW0515	ECK0519	cysS	cysteinyl-tRNA synthetase	007	1,45	289,95	45,12	20	1058	0	-0,415	GO:0005737 cytoplasm
+JW1206	ECK1203	kdsA	3-deoxy-D-manno-octulosonate 8-phosphate synthase	11,33	2,87	496,91	72,89	19	1057	0	-0,028	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3429	ECK3448	ftsY	fused Signal Recognition Particle (SRP) receptor	6,02	1,41	269,17	42,86	18	1054	0	-0,335	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0093	ECK0096	ftsZ	GTP-binding tubulin-like cell division protein	17,23	3,49	746,07	74,15	20	1053	0	-0,005	GO:0005737 cytoplasm
+JW3370	ECK3394	yhgF	predicted transcriptional accessory protein	1,73	1,35	80,35	35,96	23	1044	0	-0,334	0
+JW3994	ECK4026	malE	maltose transporter subunit -!- periplasmic-binding component of ABC superfamily	12,18	3,63	533,01	73,74	24	1031	0	-0,251	GO:0042597 periplasmic space
+JW0738	ECK0744	gpmA	phosphoglyceromutase 1	70,97	013	2570,12	078	18	1025	0	-0,568	0
+JW1806	ECK1815	manX	fused mannose-specific PTS enzyme IIAB components	12,69	13,08	554,63	65,02	20	1023	0	-0,058	GO:0005737 cytoplasm
+JW3974	ECK4006	aceB	malate synthase A	2,38	1,71	228	44,28	17	1021	0	-0,316	GO:0005737 cytoplasm
+JW3594	ECK3609	rfaD	ADP-L-glycero-D-mannoheptose-6-epimerase, NAD(P)-binding	17,96	1,91	776,69	73,87	20	1020	0	-0,284	0
+JW0161	ECK0164	dapD	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase	45,42	2,68	1909,42	59,49	19	1017	0	-0,054	GO:0005737 cytoplasm
+JW2483	ECK2494	upp	uracil phosphoribosyltransferase	176,83	4,32	7.132	088	15	1016	0	0,073	0
+JW1841	ECK1853	zwf	glucose-6-phosphate dehydrogenase	4,23	-	119,92	52,34	22	1010	0	-0,374	GO:0005737 cytoplasm
+JW1281	ECK1283	fabI	enoyl-[acyl-carrier-protein] reductase, NADH-dependent	099	1,54	4064,14	63,74	18	1009	0	0,163	GO:0005737 cytoplasm
+JW2909	ECK2937	metK	methionine adenosyltransferase 1	12,69	0,36	554,63	60,68	20	1009	0	-0,189	GO:0005737 cytoplasm
+JW3220	ECK3239	mreB	cell wall structural complex MreBCD, actin-like component MreB	28,55	2,31	1217,34	61,96	18	1003	0	0,057	0
+JW1629	ECK1633	tyrS	tyrosyl-tRNA synthetase	11,74	3,62	514,33	56,37	18	1000	0	-0,334	GO:0005737 cytoplasm
+JW2320	ECK2317	fabB	3-oxoacyl-[acyl-carrier-protein] synthase I	033	17,01	1384,41	70,44	18	992	0	0,008	GO:0005737 cytoplasm
+JW0150	ECK0153	hemL	glutamate-1-semialdehyde aminotransferase (aminomutase)	14,85	5,84	645,93	54,46	17	988	0	0,202	0
+JW4001	ECK4033	plsB	glycerol-3-phosphate O-acyltransferase	2,95	-	135	46,34	26	978	0	-0,179	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2313	ECK2310	accD	acetylCoA carboxylase, beta (carboxyltranferase) subunit	12,69	2,63	554,63	66,45	20	972	0	-0,129	GO:0005737 cytoplasm
+JW2136	ECK2142	mglA	fused methyl-galactoside transporter subunitsl -!- ATP-binding components of ABC superfamily	2,69	003	123,27	46,05	19	970	0	-0,155	GO:0005737 cytoplasm
+JW2669	ECK2694	recA	DNA strand exchange and recombination protein with protease and nuclease activity	10,22	005	449,64	56,37	17	967	0	-0,175	GO:0005737 cytoplasm
+JW2943	ECK2970	glcB	malate synthase G	2,07	8,77	95,62	30,29	19	965	0	-0,327	0
+JW0718	ECK0717	sucD	succinyl-CoA synthetase, NAD(P)-binding, alpha subunit	26,83	008	778,03	80,62	18	961	0	0,162	0
+JW2541	ECK2555	purL	phosphoribosylformyl-glycineamide synthetase	0,79	1,53	37,58	20,69	17	959	0	-0,235	GO:0005737 cytoplasm
+JW2517	ECK2530	suhB	inositol monophosphatase	21,54	0,33	926,36	062	20	953	0	-0,171	GO:0005737 cytoplasm
+JW0871	ECK0879	trxB	thioredoxin reductase, FAD/NAD(P)-binding	33,15	004	1407,05	80,69	16	944	0	-0,193	GO:0005737 cytoplasm
+JW1164	ECK1163	minD	membrane ATPase of the MinC-MinD-MinE system	14,01	0,96	610,48	62,59	15	932	0	-0,118	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3277	ECK3302	rplV	50S ribosomal subunit protein L22	9.999	11,05	356580,75	69,09	14	903	0	-0,349	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1178	ECK1177	dadA	D-amino acid dehydrogenase	4,88	2,64	220	57,41	17	890	0	-0,216	0
+JW0928	ECK0936	pyrD	dihydro-orotate oxidase, FMN-linked	9,96	0,53	438,54	67,86	22	884	0	0.000	GO:0005737 cytoplasm
+JW5403	ECK2507	der	predicted GTP-binding protein	5,04	0,45	226,57	50,41	20	882	0	-0,334	0
+JW3200	ECK3220	rplM	50S ribosomal subunit protein L13	1332,52	7,51	50532,55	80,28	18	880	0	-0.001	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3194	ECK3214	nanA	N-acetylneuraminate lyase	16,19	0,51	702,37	73,06	15	880	0	-0,031	0
+JW2407	ECK2409	cysK	cysteine synthase A, O-acetylserine sulfhydrolase A subunit	12,34	7,28	540	68,73	15	879	0	-0,078	GO:0005737 cytoplasm
+JW3282	ECK3307	rplC	50S ribosomal subunit protein L3	24,81	6,68	1062,41	74,64	19	878	0	-0,235	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3823	ECK3839	pepQ	proline dipeptidase	5,19	3,47	233,11	56,88	17	871	0	-0,241	0
+JW1819	ECK1829	prc	carboxy-terminal protease for penicillin-binding protein 3	2,16	1,07	99,64	34,75	19	871	0	-0,482	GO:0009274 cell wall (sensu Bacteria)
+JW4346	ECK4375	deoB	phosphopentomutase	8,09	2,17	358,47	61,92	18	870	0	-0,271	0
+JW3730	ECK3745	rbsB	D-ribose transporter subunit -!- periplasmic-binding compoent of ABC superfamily	008	4,38	346,01	54,73	13	870	0	-0,031	GO:0042597 periplasmic space
+JW3279	ECK3304	rplB	50S ribosomal subunit protein L2	28,76	011	1226,02	67,77	19	868	0	-0,699	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0463	ECK0468	adk	adenylate kinase	17,96	6,43	402,59	74,77	17	863	0	-0,383	GO:0005737 cytoplasm
+JW3258	ECK3283	rpsD	30S ribosomal subunit protein S4	83,83	7,54	3458,88	68,45	18	861	0	-0,664	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3890	ECK3911	tpiA	triosephosphate isomerase	45,42	7,29	1906,06	63,14	16	854	0	0.000	0
+JW1049	ECK1047	pyrC	dihydro-orotase	20,54	0,68	884,64	72,99	18	854	0	-0,123	GO:0005737 cytoplasm
+JW5343	ECK2089	gatY	D-tagatose 1,6-bisphosphate aldolase 2, catalytic subunit	45,42	26,98	1909,42	71,48	19	852	0	-0,091	0
+JW2560	ECK2574	srmB	ATP-dependent RNA helicase	5,42	1,44	243,12	046	16	852	0	-0,557	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2510	ECK2523	hscA	DnaK-like molecular chaperone specific for IscU	3,42	0,74	155,57	45,29	18	852	0	-0,028	GO:0005737 cytoplasm
+JW3267	ECK3292	rplF	50S ribosomal subunit protein L6	42,29	8,24	1781,71	87,01	15	847	0	-0,227	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW4161	ECK4199	rplI	50S ribosomal subunit protein L9	17,74	9,55	767,47	87,92	14	846	0	0,091	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2024	ECK2033	rfbA	glucose-1-phosphate thymidylyltransferase	10,29	2,05	452,62	68,26	18	844	0	-0,193	GO:0005737 cytoplasm
+JW1081	ECK1081	fabF	3-oxoacyl-[acyl-carrier-protein] synthase II	009	2,02	398	66,83	15	837	0	0,002	GO:0005737 cytoplasm
+JW1606	ECK1609	ydgA	conserved protein	4,62	1,08	208,24	55,18	18	832	1	-0,299	0
+JW2594	ECK2610	grpE	heat shock protein	157,49	0,69	6374,36	63,45	15	829	0	-0,372	GO:0005737 cytoplasm
+JW2866	ECK2893	ygfZ	predicted folate-dependent regulatory protein	5,95	2,73	266,13	60,43	16	821	0	-0,247	0
+JW4203	ECK4239	pyrI	aspartate carbamoyltransferase, regulatory subunit	150,99	006	6119,14	93,46	18	816	0	-0,273	GO:0005737 cytoplasm
+JW5100	ECK0729	tolB	periplasmic protein	6,85	2,19	305,07	52,56	15	812	0	-0,215	GO:0042597 periplasmic space
+JW3265	ECK3290	rpsE	30S ribosomal subunit protein S5	40,25	11,95	1698,32	79,04	13	803	0	-0,101	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0157	ECK0160	degP	serine endoprotease (protease Do), membrane-associated	4,62	2,59	208,24	39,24	13	803	0	-0,067	GO:0042597 periplasmic space
+JW2363	ECK2362	dsdA	D-serine ammonia-lyase	7,91	-	350,74	58,37	17	803	0	-0,087	GO:0005737 cytoplasm
+JW1266	ECK1268	topA	DNA topoisomerase I, omega subunit	1,18	0,82	55,45	32,02	19	801	0	-0,609	GO:0005737 cytoplasm
+JW0398	ECK0402	secD	SecYEG protein translocase auxillary subunit	2,73	1,11	125,04	034	18	800	6	0,116	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW4158	ECK4196	rpsF	30S ribosomal subunit protein S6	176,83	12,28	7.132	87,79	13	799	0	-0,745	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3619	ECK3634	yicC	conserved protein	3,96	1,13	179,34	49,48	15	795	0	-0,442	0
+JW1268	ECK1271	acnA	aconitate hydratase 1	0,95	001	44,94	26,04	15	793	0	-0,234	0
+JW1224	ECK1231	galU	glucose-1-phosphate uridylyltransferase	12,59	3,68	550	66,89	15	792	0	0,031	GO:0030113 capsule (sensu Bacteria)
+JW0665	ECK0667	nagE	fused N-acetyl glucosamine specific PTS enzyme IICBA components	7,91	001	350,74	030	16	789	10	0,584	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2768	ECK2792	sdaB	L-serine deaminase II	15,68	9,92	680,91	39,34	19	788	0	0,052	0
+JW2461	ECK2472	purC	phosphoribosylaminoimidazole-succinocarboxamide synthetase	5,31	5,75	238,33	63,71	15	787	0	0.000	GO:0005737 cytoplasm
+JW0405	ECK0409	ribE	riboflavin synthase beta chain	315,23	2,84	12491,64	66,67	10	784	0	0,294	0
+JW1095	ECK1095	ndh	respiratory NADH dehydrogenase 2/cupric reductase	4,74	1,06	213,48	55,99	19	783	0	-0,129	GO:0005737 cytoplasm
+JW3271	ECK3296	rplX	50S ribosomal subunit protein L24	1.467	20,34	55462,14	76,92	14	779	0	-0,381	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5526	ECK3113	garR	tartronate semialdehyde reductase	5,16	12,19	232	81,76	15	773	0	0,264	0
+JW3587	ECK3602	gpmI	phosphoglycero mutase III, cofactor-independent	4,18	12,92	188,99	49,42	17	770	0	-0,195	GO:0005737 cytoplasm
+JW0167	ECK0171	frr	ribosome recycling factor	33,55	005	1.424	73,51	16	769	0	-0,534	GO:0005737 cytoplasm
+JW3879	ECK3901	sodA	superoxide dismutase, Mn	022	4,03	950	68,45	13	768	0	-0,429	GO:0005737 cytoplasm
+JW1035	ECK1034	mdoG	glucan biosynthesis protein, periplasmic	4,84	1,64	217,85	41,68	20	761	0	-0,541	GO:0042597 periplasmic space
+JW2279	ECK2278	nuoF	NADH:ubiquinone oxidoreductase, chain F	4,38	7,13	197,75	52,13	17	761	0	-0,318	GO:0005737 cytoplasm
+JW0052	ECK0054	surA	peptidyl-prolyl cis-trans isomerase (PPIase)	2,43	1,12	112	43,93	14	760	0	-0,382	GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW4132	ECK4170	hflK	modulator for HflB protease specific for phage lambda cII repressor	1,74	2,52	081	44,63	14	758	1	-0,632	0
+JW2174	ECK2180	yejK	nucleotide associated protein	5,95	-	266,13	059	15	758	0	-0,364	GO:0005737 cytoplasm
+JW5058	ECK0420	yajQ	predicted nucleotide binding protein	022	-	950	73,62	12	756	0	-0,454	0
+JW5300	ECK1830	proQ	predicted structural transport element	10,45	0,98	459,44	64,66	14	755	0	-0,776	0
+JW3775	ECK3797	hemX	uroporphyrinogen III methylase	2,98	001	136,13	51,15	15	750	1	-0,435	0
+JW3887	ECK3908	pfkA	6-phosphofructokinase I	4,78	2,88	38,51	64,06	15	748	0	0.000	GO:0005737 cytoplasm
+JW2563	ECK2577	yfiD	pyruvate formate lyase subunit	78,43	12,04	3242,65	81,89	13	746	0	-0,332	0
+JW3396	ECK3419	asd	aspartate-semialdehyde dehydrogenase, NAD(P)-binding	7,73	1,21	343	65,12	14	745	0	-0,029	0
+JW2869	ECK2896	bglA	6-phospho-beta-glucosidase A	2,98	0,59	136,13	041	17	745	0	-0,452	0
+JW4133	ECK4171	hflC	modulator for HflB protease specific for phage lambda cII repressor	5,45	1,77	244,42	62,57	14	738	1	-0,365	0
+JW0451	ECK0456	acrB	multidrug efflux system protein	001	0,95	56,36	18,49	14	735	11	0,266	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2462	ECK2473	nlpB	lipoprotein	4,01	3,08	181,53	54,36	14	730	0	-0,265	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0797	ECK0801	dps	Fe-binding and storage protein	30,62	13,68	1302,81	81,44	15	729	0	-0,214	GO:0005737 cytoplasm
+JW4185	ECK4222	ppa	inorganic pyrophosphatase	37,31	8,83	1577,92	69,89	15	728	0	-0,272	GO:0005737 cytoplasm
+JW1079	ECK1079	fabG	3-oxoacyl-[acyl-carrier-protein] reductase	16,01	14,12	695	66,39	11	725	0	0.000	GO:0005737 cytoplasm
+JW4191	ECK4227	fbp	fructose-1,6-bisphosphatase I	22,71	1,11	975,11	62,35	15	724	0	-0,222	GO:0005737 cytoplasm
+JW0657	ECK0652	ybeZ	predicted protein with nucleoside triphosphate hydrolase domain	4,38	1,77	197,75	62,12	16	714	0	0.000	0
+JW2876	ECK2903	pepP	proline aminopeptidase P II	7,19	1,28	319,74	46,71	15	713	0	-0,308	0
+JW3024	ECK3042	rfaE	fused heptose 7-phosphate kinase -!- heptose 1-phosphate adenyltransferase	3,52	001	159,98	45,91	16	713	0	-0,004	0
+JW2914	ECK2942	gshB	glutathione synthetase	4,46	0,31	201,25	57,28	12	709	0	-0,261	0
+JW1225	ECK1232	hns	global DNA-binding transcriptional dual regulator H-NS	13,25	19,14	578,35	65,69	11	708	0	-0,751	GO:0019861 flagellum -!- GO:0005737 cytoplasm
+JW4192	ECK4228	mpl	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase	5,45	001	244,42	42,23	16	707	0	-0,051	GO:0009274 cell wall (sensu Bacteria)
+JW3260	ECK3285	rpsM	30S ribosomal subunit protein S13	137,95	11,13	5606,09	068	13	705	0	-0,424	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3938	ECK3958	btuB	vitamin B12/cobalamin outer membrane transporter	1,97	0,33	91,13	36,64	15	695	0	-0,534	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW5836	ECK2022	cld	regulator of length of O-antigen component of lipopolysaccharide chains	014	1,47	626,95	56,75	17	693	2	-0,265	0
+JW5009	ECK0124	hpt	hypoxanthine phosphoribosyltransferase	025	1,61	1074,44	73,03	16	690	0	-0,069	GO:0005737 cytoplasm
+JW1078	ECK1078	fabD	malonyl-CoA-[acyl-carrier-protein] transacylase	12,89	7,77	563,11	57,28	12	684	0	0,154	GO:0005737 cytoplasm
+JW4217	ECK4253	pepA	aminopeptidase A, a cyteinylglycinase	2,56	0,92	117,49	34,39	14	683	0	-0,217	GO:0005737 cytoplasm
+JW2499	ECK2511	ispG	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase	2,46	1,88	113,03	44,89	14	682	0	-0,157	0
+JW2978	ECK3003	yqhD	alcohol dehydrogenase, NAD(P)-dependent	3,28	0,46	149	43,15	11	681	0	-0,129	0
+JW3839	ECK3861	glnG	fused DNA-binding response regulator in two-component regulatory system with GlnL, nitrogen regulator I (NRI)	2,29	0,62	105,45	36,03	13	677	0	-0,246	GO:0005737 cytoplasm
+JW0396	ECK0400	tgt	tRNA-guanine transglycosylase	3,64	3,66	165,27	38,13	11	673	0	-0,412	GO:0005737 cytoplasm
+JW0413	ECK0417	thiI	sulfurtransferase required for thiamine and 4-thiouridine biosynthesis	2,65	0,22	121,49	48,34	17	673	0	-0,222	0
+JW3281	ECK3306	rplD	50S ribosomal subunit protein L4	64,79	-	2694,37	060	11	673	0	-0,235	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2021	ECK2030	glf	UDP-galactopyranose mutase, FAD/NAD(P)-binding	2,43	5,13	112	47,41	15	672	0	-0,545	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria)
+JW2496	ECK2508	yfgL	protein assembly complex, lipoprotein component	3,08	0,87	140,56	50,77	11	669	0	0,009	0
+JW0328	ECK0334	codA	cytosine deaminase	009	003	398	42,62	13	668	0	-0,222	GO:0005737 cytoplasm
+JW4251	ECK4281	fecA	"KpLE2 phage-like element; ferric citrate outer membrane transporter"	1,82	0,24	084	25,84	14	668	0	-0,517	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW1753	ECK1762	selD	selenophosphate synthase	11,74	2,19	514,33	62,82	16	667	0	0,068	GO:0005737 cytoplasm
+JW3683	ECK3698	yidC	cytoplasmic insertase into membrane protein, Sec system	3,83	1,71	173,62	41,06	12	666	4	-0,122	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1603	ECK1606	fumC	fumarate hydratase (fumarase C),aerobic Class II	3,12	0,55	142,33	45,18	15	660	0	-0,133	0
+JW3949	ECK3977	rplL	50S ribosomal subunit protein L7/L12	9.999	15,03	356580,75	088	13	659	0	0,295	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0212	ECK0223	lpcA	D-sedoheptulose 7-phosphate isomerase	11,12	5,84	487,98	60,94	11	658	0	-0,062	GO:0005737 cytoplasm
+JW3737	ECK3757	yifE	conserved protein	73,99	3,39	3064,53	83,93	13	657	0	-1,069	0
+JW0452	ECK0457	acrA	multidrug efflux system	3,81	1,04	172,75	49,12	13	656	0	-0,256	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3708	ECK3723	glmU	fused N-acetyl glucosamine-1-phosphate uridyltransferase -!- glucosamine-1-phosphate acetyl transferase	3,79	1,06	171,87	35,75	14	656	0	-0,176	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5741	ECK4175	rnr	exoribonuclease R, RNase R	1,09	0,93	51,34	25,71	16	656	0	-0,551	0
+JW3948	ECK3976	rplJ	50S ribosomal subunit protein L10	19,31	12,93	833,23	70,91	12	652	0	0,045	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2498	ECK2510	hisS	histidyl tRNA synthetase	3,05	-	139,23	47,64	16	651	0	-0,272	GO:0005737 cytoplasm
+JW0163	ECK0166	map	methionine aminopeptidase	6,63	0,85	295,57	59,85	12	650	0	-0,162	0
+JW0796	ECK0800	glnH	glutamine transporter subunit -!- periplasmic binding component of ABC superfamily	4,82	7,77	216,98	063	12	648	0	-0,233	GO:0042597 periplasmic space
+JW0458	ECK0463	apt	adenine phosphoribosyltransferase	24,12	1,76	1033,75	70,49	10	643	0	0,023	GO:0005737 cytoplasm
+JW1077	ECK1077	fabH	3-oxoacyl-[acyl-carrier-protein] synthase III	7,66	1,61	339,99	49,53	10	641	0	0,143	GO:0005737 cytoplasm
+JW5581	ECK3827	ubiE	bifunctional 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase -!- S-adenosylmethionine:2-DMK methyltransferase	10,79	3,07	473,93	52,99	11	639	0	-0,168	0
+JW0890	ECK0898	serC	3-phosphoserine/phosphohydroxythreonine aminotransferase	3,81	0,42	172,75	46,69	13	637	0	-0,113	GO:0005737 cytoplasm
+JW2229	ECK2227	nrdB	ribonucleoside diphosphate reductase 1, beta subunit, ferritin-like	4,48	3,33	202,12	052	15	636	0	-0,275	0
+JW4312	ECK4339	hsdM	DNA methylase M	1,88	0,46	087	39,89	16	634	0	-0,528	GO:0005737 cytoplasm
+JW2205	ECK2210	rcsB	DNA-binding response regulator in two-component regulatory system with RcsC and YojN	13,68	-	596,53	066	12	632	0	0,021	GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3368	ECK3392	ompR	DNA-binding response regulator in two-component regulatory system with EnvZ	5,31	1,43	238,33	76,99	14	629	0	-0,346	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3148	ECK3170	greA	transcription elongation factor	16,01	0,61	695	78,48	14	626	0	-0,366	GO:0005737 cytoplasm
+JW4364	ECK4393	arcA	DNA-binding response regulator in two-component regulatory system with ArcB or CpxA	12,59	0,38	550	51,68	13	626	0	-0,487	GO:0005737 cytoplasm
+JW2873	ECK2900	gcvT	aminomethyltransferase, tetrahydrofolate-dependent, subunit (T protein) of glycine cleavage complex	5,16	003	232	49,45	13	626	0	-0,159	0
+JW5702	ECK3345	crp	DNA-binding transcriptional dual regulator	16,78	3,52	727,17	69,05	15	625	0	-0,225	GO:0005737 cytoplasm
+JW5829	ECK1716	infC	protein chain initiation factor IF-3	16,78	17,31	727,17	60,56	10	624	0	-0,671	GO:0005737 cytoplasm
+JW0014	ECK0015	dnaJ	chaperone Hsp40, co-chaperone with DnaK	6,63	2,27	295,57	41,76	14	624	0	-0,634	GO:0005737 cytoplasm
+JW0232	ECK0243	proB	gamma-glutamate kinase	2,63	0,77	121	48,23	13	622	0	0,007	GO:0005737 cytoplasm
+JW3283	ECK3308	rpsJ	30S ribosomal subunit protein S10	58,95	7,22	2458,58	81,55	12	621	0	-0,352	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3531	ECK3548	glyQ	glycine tRNA synthetase, alpha subunit	27,94	3,63	1192,11	61,72	14	621	0	-0,392	GO:0005737 cytoplasm
+JW4333	ECK4362	rsmC	16S RNA m2G1207 methylase	2,55	000	117,04	45,77	10	619	0	-0,111	GO:0005737 cytoplasm
+JW1317	ECK1320	tpx	lipid hydroperoxide peroxidase	36,28	6,61	1535,67	075	8	617	0	0,256	GO:0042597 periplasmic space
+JW0401	ECK0405	tsx	nucleoside channel, receptor of phage T6 and colicin K	17,74	3,01	767,47	55,44	10	617	0	-0,512	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW3249	ECK3274	fmt	10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase	3,64	0,43	165,27	49,52	10	614	0	0.000	GO:0005737 cytoplasm
+JW0799	ECK0803	ompX	outer membrane protein	25,83	2,73	1104,73	054	9	613	1	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW3263	ECK3288	rplO	50S ribosomal subunit protein L15	24,12	9,82	1033,75	63,19	11	613	0	0.000	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3309	ECK3334	fkpA	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	009	1,02	398	48,52	13	613	0	-0,458	GO:0042597 periplasmic space
+JW0372	ECK0376	ddlA	D-alanine-D-alanine ligase A	007	1,52	289,95	48,08	13	612	0	0,016	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2027	ECK2036	galF	predicted subunit with GalU	6,63	1,57	295,57	55,89	12	610	0	-0,092	GO:0005737 cytoplasm
+JW2577	ECK2593	yfiO	predicted lipoprotein	3,64	0,84	165,27	53,47	11	609	0	-0,484	0
+JW0567	ECK0570	nfnB	dihydropteridine reductase, NAD(P)H-dependent, oxygen-insensitive	55,23	1,96	2308,02	67,74	15	607	0	-0,211	0
+JW3945	ECK3973	nusG	transcription termination factor	11,12	1,32	487,98	69,61	9	607	0	-0,391	GO:0005737 cytoplasm
+JW2569	ECK2583	pssA	phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase)	2,16	0,86	99,64	036	15	605	0	-0,429	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5656	ECK3540	tiaE	2-keto-D-gluconate reductase (glyoxalate reductase) (2-ketoaldonate reductase)	009	001	398	40,12	10	604	0	0,005	GO:0005737 cytoplasm
+JW3713	ECK3728	atpH	F1 sector of membrane-bound ATP synthase, delta subunit	34,94	5,03	1480,65	64,97	10	602	0	0,063	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1531	ECK1531	dcp	dipeptidyl carboxypeptidase II	2,05	0,29	94,72	25,55	12	600	0	-0,331	0
+JW3347	ECK3371	trpS	tryptophanyl-tRNA synthetase	7,86	1,39	348,59	56,29	13	598	0	0.000	GO:0005737 cytoplasm
+JW3467	ECK3485	gor	glutathione oxidoreductase	2,67	001	122,38	38,89	12	598	0	-0,112	GO:0005737 cytoplasm
+JW0664	ECK0666	nagB	glucosamine-6-phosphate deaminase	3,22	1,37	146,75	51,13	9	596	0	-0,185	0
+JW1893	ECK1904	ftn	ferritin iron storage protein (cytoplasmic)	099	8,55	4064,14	57,58	11	592	0	-0,568	GO:0005737 cytoplasm
+JW1738	ECK1747	xthA	exonuclease III	2,98	0,81	136,13	52,61	11	591	0	-0,555	0
+JW0835	ECK0842	nfsA	nitroreductase A, NADPH-dependent, FMN-dependent	009	0,67	398	58,75	11	590	0	-0,155	0
+JW3328	ECK3353	nirB	nitrite reductase, large subunit, NAD(P)H-binding	0,87	003	41,26	22,08	14	589	0	-0,211	GO:0005737 cytoplasm
+JW2317	ECK2314	pdxB	erythronate-4-phosphate dehydrogenase	3,92	1,32	177,58	42,59	15	587	0	-0,037	0
+JW2637	ECK2656	gabT	4-aminobutyrate aminotransferase, PLP-dependent	1,68	-	078	46,24	12	585	0	0,002	0
+JW1596	ECK1599	ydgH	predicted protein	3,81	2,85	172,75	059	14	584	0	-0,324	0
+JW5875	ECK2281	nuoB	NADH:ubiquinone oxidoreductase, chain B	4,41	006	199,06	59,55	11	581	0	0.000	GO:0005737 cytoplasm
+JW4197	ECK4233	nrdD	anaerobic ribonucleoside-triphosphate reductase	0,85	0,46	40,34	27,53	12	580	0	-0,454	0
+JW1853	ECK1865	yebC	conserved protein	6,02	002	269,17	050	11	577	0	-0,384	0
+JW0674	ECK0675	seqA	regulatory protein for replication initiation	11,59	1,86	507,96	79,01	11	576	0	-0,286	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0623	ECK0621	lipA	lipoate synthase	6,94	001	308,96	55,76	15	575	0	0.000	GO:0005737 cytoplasm
+JW3583	ECK3598	gpsA	glycerol-3-phosphate dehydrogenase (NAD+)	2,55	1,66	117,04	51,92	10	575	0	-0,025	GO:0005737 cytoplasm
+JW3808	ECK3825	udp	uridine phosphorylase	6,02	1,59	269,17	62,85	10	573	0	0,022	0
+JW1769	ECK1778	yeaD	conserved protein	7,48	1,16	332,24	52,72	12	571	0	-0,249	0
+JW2173	ECK2179	rplY	50S ribosomal subunit protein L25	132,35	004	5385,32	87,23	12	570	0	-0,468	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0116	ECK0119	speD	S-adenosylmethionine decarboxylase	4,82	0,92	216,98	70,08	11	570	0	-0,313	0
+JW2889	ECK2918	yggE	conserved protein	34,11	0,98	1446,53	48,37	13	569	0	-0,252	0
+JW3996	ECK4028	lamB	maltose outer membrane porin (maltoporin)	2,31	5,53	106,35	33,86	11	569	0	-0,516	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW0811	ECK0817	moeA	molybdopterin biosynthesis protein	5,81	001	260,06	46,23	11	568	0	0,027	0
+JW2551	ECK2565	rnc	RNase III	7,48	0,58	332,24	55,75	12	567	0	-0,449	0
+JW2463	ECK2474	dapA	dihydrodipicolinate synthase	5,49	5,04	246,16	53,08	11	567	0	0,067	GO:0005737 cytoplasm
+JW5746	ECK4203	fklB	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	14,85	0,79	645,93	57,77	10	565	0	-0,081	0
+JW1087	ECK1087	ptsG	fused glucose-specific PTS enzyme IIBC components	7,58	5,57	336,54	030	12	561	10	0,618	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5475	ECK2910	rpiA	ribosephosphate isomerase, constitutive	14,85	3,39	645,93	54,34	11	560	0	0.000	0
+JW0166	ECK0170	pyrH	uridylate kinase	7,58	3,77	336,54	64,32	11	560	0	0,133	GO:0005737 cytoplasm
+JW3097	ECK3116	garD	(D)-galactarate dehydrogenase	1,47	7,63	68,61	32,89	11	560	0	-0,014	0
+JW0422	ECK0426	cyoA	cytochrome o ubiquinol oxidase subunit II	009	-	398	41,27	9	560	3	-0,009	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW4199	ECK4235	treB	fused trehalose(maltose)-specific enzyme IIBC component of PTS	236,14	8,31	9440,35	24,95	11	559	10	0,648	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1615	ECK1618	add	adenosine deaminase	4,27	0,71	192,93	54,65	11	552	0	-0,024	0
+JW1273	ECK1276	pyrF	orotidine-5'-phosphate decarboxylase	6,36	0,19	283,89	58,37	12	551	0	0,057	0
+JW3591	ECK3606	tdh	threonine 3-dehydrogenase, NAD(P)-binding	009	3,05	398	53,08	11	550	0	0,051	0
+JW2257	ECK2256	menB	dihydroxynaphthoic acid synthetase	007	2,67	289,95	43,51	11	550	0	0.000	0
+JW0361	ECK0366	hemB	porphobilinogen synthase	5,49	007	246,16	45,37	11	546	0	-0,125	0
+JW3722	ECK3738	asnA	asparagine synthetase A	2,16	0,26	99,64	51,21	11	544	0	-0,289	GO:0005737 cytoplasm
+JW3156	ECK3178	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2,78	0,28	127,26	35,56	13	543	0	0.000	GO:0009274 cell wall (sensu Bacteria)
+JW3266	ECK3291	rplR	50S ribosomal subunit protein L18	30,62	9,88	1302,81	074	10	540	0	-0,395	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0122	ECK0125	can	carbonic anhydrase	16,78	1,74	727,17	59,55	11	539	0	-0,231	0
+JW1261	ECK1263	rluB	23S rRNA pseudouridylate synthase	6,08	0,28	271,77	44,33	15	538	0	-0,585	0
+JW0600	ECK0601	uspG	universal stress protein UP12	55,23	0,56	2308,02	87,32	8	532	0	-0,053	0
+JW0155	ECK0158	pfs	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	009	-	398	56,47	7	531	0	0,306	0
+JW2502	ECK2514	ndk	multifunctional nucleoside diphosphate kinase -!- apyrimidinic endonuclease -!- 3'-phosphodiesterase	41,17	002	1735,95	91,61	9	528	0	-0,082	GO:0042597 periplasmic space
+JW3272	ECK3297	rplN	50S ribosomal subunit protein L14	50,79	9,48	2.128	69,92	9	526	0	-0,128	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW4344	ECK4373	deoC	2-deoxyribose-5-phosphate aldolase, NAD(P)-linked	1,85	0,34	85,75	056	10	524	0	-0,014	GO:0005737 cytoplasm
+JW0092	ECK0095	ftsA	ATP-binding cell division protein involved in recruitment of FtsK to Z ring	1,82	4,44	084	035	8	524	0	-0,025	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0233	ECK0244	proA	gamma-glutamylphosphate reductase	1,89	-	87,54	31,65	11	523	0	-0,005	GO:0005737 cytoplasm
+JW1839	ECK1851	eda	multifunctional 2-keto-3-deoxygluconate 6-phosphate aldolase -!- 2-keto-4-hydroxyglutarate aldolase -!- oxaloacetate decarboxylase	009	0,96	2108,45	61,03	9	522	0	0,322	GO:0005737 cytoplasm
+JW1239	ECK1241	oppF	oligopeptide transporter subunit -!- ATP-binding component of ABC superfamily	3,22	1,91	146,75	38,62	13	521	0	-0,041	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0001	ECK0002	thrA	fused aspartokinase I -!- homoserine dehydrogenase I	001	0,36	28,78	18,05	10	521	0	0,035	GO:0005737 cytoplasm
+JW5932	ECK3799	hemC	hydroxymethylbilane synthase	5,16	-	232	61,66	13	520	0	-0,066	0
+JW0932	ECK0940	uup	fused predicted transporter subunits -!- ATP-binding components of ABC superfamily	1,15	0,63	54,08	27,87	11	515	0	-0,467	GO:0005737 cytoplasm
+JW2233	ECK2231	glpQ	periplasmic glycerophosphodiester phosphodiesterase	3,49	1,45	158,66	043	13	513	0	-0,553	GO:0042597 periplasmic space
+JW4285	ECK4313	uxuA	mannonate hydrolase	2,59	-	118,82	44,16	12	513	0	-0,402	0
+JW2121	ECK2126	dld	D-lactate dehydrogenase, FAD-binding, NADH independent	0,78	1,22	37,12	25,74	11	509	0	-0,445	GO:0005737 cytoplasm
+JW2276	ECK2275	nuoI	NADH:ubiquinone oxidoreductase, chain I	006	9,81	276,96	77,78	11	508	0	-0,327	GO:0005737 cytoplasm
+JW0129	ECK0132	panC	pantothenate synthetase	3,47	-	157,78	042	11	506	0	-0,108	GO:0005737 cytoplasm
+JW0722	ECK0721	cydA	cytochrome d terminal oxidase, subunit I	3,64	3,72	165,27	21,07	10	505	9	0,397	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3995	ECK4027	malK	fused maltose transport subunit, ATP-binding component of ABC superfamily -!- regulatory protein	3,33	3,41	152	035	12	504	0	0.000	GO:0005737 cytoplasm
+JW0823	ECK0829	dacC	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 6a)	1,61	1,49	74,94	029	9	504	0	-0,078	GO:0042597 periplasmic space
+JW3586	ECK3601	yibN	predicted rhodanese-related sulfurtransferase	18,31	6,68	791,36	60,14	7	498	1	0,064	0
+JW5930	ECK3857	yihA	GTP-binding protein	009	-	398	44,44	9	498	0	-0,437	0
+JW0888	ECK0896	ycaO	conserved protein	2,51	0,58	115,26	29,86	11	497	0	-0,196	0
+JW2312	ECK2309	folC	bifunctional folylpolyglutamate synthase -!- dihydrofolate synthase	2,16	0,89	99,64	34,83	10	497	0	0,004	0
+JW2766	ECK2790	ygdH	conserved protein	1,51	2,42	70,42	25,77	9	496	0	-0,107	0
+JW3731	ECK3746	rbsK	ribokinase	4,41	2,34	199,06	41,75	8	495	0	0,046	GO:0005737 cytoplasm
+JW1706	ECK1714	rplT	50S ribosomal subunit protein L20	11,59	16,21	507,96	48,31	10	493	0	-0,336	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1630	ECK1634	pdxH	pyridoxine 5'-phosphate oxidase	3,08	1,13	140,56	54,13	10	492	0	-0,621	0
+JW3684	ECK3699	trmE	GTPase	1,81	001	83,95	38,11	12	492	0	-0,095	0
+JW5898	ECK0958	yccW	predicted methyltransferase	3,22	-	146,75	41,14	12	492	0	0.000	0
+JW1532	ECK1532	ydfG	L-allo-threonine dehydrogenase, NAD(P)-binding	7,25	5,01	322,33	44,35	9	490	0	-0,175	0
+JW3144	ECK3166	folP	7,8-dihydropteroate synthase	2,41	0,28	110,81	29,79	8	489	0	-0,022	0
+JW1771	ECK1780	mipA	scaffolding protein for murein synthesizing machinery	7,25	2,54	322,33	42,74	9	488	0	-0,402	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW2075	ECK2084	gatD	galactitol-1-phosphate dehydrogenase, Zn-dependent and NAD(P)-binding	2,41	7,48	110,81	23,99	8	486	0	0,139	0
+JW3298	ECK3323	bfr	bacterioferritin, iron storage and detoxification protein	4,34	007	196	81,65	8	484	0	-0,472	GO:0005737 cytoplasm
+JW3789	ECK3810	corA	magnesium/nickel/cobalt transporter	3,92	0,75	177,58	48,42	9	484	2	-0,156	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2663	ECK2683	gshA	gamma-glutamate-cysteine ligase	2,03	1,83	93,82	40,35	13	484	0	0.000	0
+JW1737	ECK1746	astC	succinylornithine transaminase, PLP-dependent	1,42	1,29	66,35	30,79	9	483	0	-0,064	0
+JW0384	ECK0388	rdgC	DNA-binding protein, non-specific	2,16	0,43	99,64	43,56	10	481	0	-0,222	GO:0005737 cytoplasm
+JW4014	ECK4046	tyrB	tyrosine aminotransferase, tyrosine-repressible, PLP-dependent	1,85	0,65	85,75	29,22	8	481	0	0,009	GO:0005737 cytoplasm
+JW0822	ECK0828	yliJ	predicted glutathione S-transferase	16,01	0,92	695	61,06	11	480	0	-0,198	0
+JW1998	ECK2010	yeeZ	predicted epimerase, with NAD(P)-binding Rossmann-fold domain	2,87	1,97	131,26	057	9	480	0	0.000	0
+JW2140	ECK2146	folE	GTP cyclohydrolase I	7,58	-	336,54	58,11	10	480	0	-0,121	0
+JW0872	ECK0880	lrp	DNA-binding transcriptional dual regulator, leucine-binding	11,92	1,88	521,98	59,15	10	479	0	0.000	GO:0005737 cytoplasm
+JW0804	ECK0810	ybiT	fused predicted transporter subunits -!- ATP-binding components of ABC superfamily	1,11	0,39	52,26	29,81	11	479	0	-0,381	GO:0005737 cytoplasm
+JW5692	ECK3388	hslO	heat shock protein Hsp33	3,92	0,87	177,58	43,15	9	478	0	-0,313	0
+JW3268	ECK3293	rpsH	30S ribosomal subunit protein S8	16,78	11,32	727,17	73,85	10	477	0	0.000	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2410	ECK2412	crr	glucose-specific enzyme IIA component of PTS	009	22,37	398	66,86	9	477	0	0,057	GO:0005737 cytoplasm
+JW0173	ECK0177	hlpA	periplasmic chaperone	7,38	5,15	327,93	53,42	8	477	0	-0,473	GO:0009274 cell wall (sensu Bacteria) -!- GO:0042597 periplasmic space
+JW2100	ECK2106	mrp	antiporter inner membrane protein	007	001	289,95	33,88	11	474	0	-0,002	0
+JW3864	ECK3886	fdoH	formate dehydrogenase-O, Fe-S subunit	2,87	004	131,26	38,33	9	474	0	-0,361	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2497	ECK2509	yfgM	conserved protein	1,58	3,02	73,59	52,43	7	473	1	-0,222	0
+JW3674	ECK3689	yidA	predicted hydrolase	2,98	-	136,13	39,63	8	473	0	-0,002	0
+JW1650	ECK1654	purR	DNA-binding transcriptional repressor, hypoxanthine-binding	1,99	001	92,03	40,47	9	471	0	0.000	GO:0005737 cytoplasm
+JW2019	ECK2028	wbbI	conserved protein	1,99	2,09	92,03	29,09	9	471	0	-0,197	0
+JW0159	ECK0162	yaeH	conserved protein	009	1,93	398	80,47	12	469	0	-0,811	0
+JW1816	ECK1826	kdgR	predicted DNA-binding transcriptional regulator	1,85	1,27	85,75	35,74	9	468	0	-0,278	GO:0005737 cytoplasm
+JW1375	ECK1377	ldhA	fermentative D-lactate dehydrogenase, NAD-dependent	3,12	001	142,33	29,48	8	467	0	-0,101	0
+JW2565	ECK2579	yfiF	predicted methyltransferase	1,87	1,82	86,65	38,84	10	467	0	-0,682	GO:0005737 cytoplasm
+JW0424	ECK0428	yajG	predicted lipoprotein	6,74	-	300,32	54,69	6	467	0	0.000	0
+JW2465	ECK2476	bcp	thiol peroxidase, thioredoxin-dependent	009	1,86	398	78,21	9	466	0	-0,431	GO:0005737 cytoplasm
+JW3278	ECK3303	rpsS	30S ribosomal subunit protein S19	397,11	10,63	15625,86	70,65	8	465	0	-0.001	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3573	ECK3588	mtlA	fused mannitol-specific PTS enzyme IIABC components	1,21	0,96	56,81	22,29	10	465	8	0,329	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2662	ECK2681	luxS	S-ribosylhomocysteinase	13,68	1,13	596,53	78,36	10	464	0	-0,323	0
+JW0819	ECK0825	yliG	predicted SAM-dependent methyltransferase	1,47	0,35	68,61	34,01	11	463	0	0.000	0
+JW0937	ECK0945	fabA	beta-hydroxydecanoyl thioester dehydrase	15,68	3,38	680,91	55,81	10	462	0	-0,012	0
+JW0989	ECK0995	wrbA	predicted flavoprotein in Trp regulation	5,31	006	238,33	51,01	7	462	0	-0,082	GO:0005737 cytoplasm
+JW3199	ECK3219	rpsI	30S ribosomal subunit protein S9	38,81	2,77	1639,38	66,92	13	460	0	-0,687	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3862	ECK3884	fdhE	formate dehydrogenase formation protein	4,27	1,45	192,93	40,13	10	460	0	-0,289	0
+JW0317	ECK0323	yahK	predicted oxidoreductase, Zn-dependent and NAD(P)-binding	3,08	2,42	140,56	30,66	9	459	0	-0,183	0
+JW0406	ECK0410	nusB	transcription antitermination protein	009	0,97	398	67,63	9	457	0	-0,219	GO:0005737 cytoplasm
+JW1216	ECK1219	narH	nitrate reductase 1, beta (Fe-S) subunit	1,41	1,39	066	24,41	11	456	0	-0,477	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1803	ECK1812	sdaA	L-serine deaminase I	2,55	0,35	117,04	28,19	10	455	0	-0,051	0
+JW2341	ECK2338	fadL	long-chain fatty acid outer membrane transporter	1,74	0,59	081	025	7	455	0	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW0460	ECK0465	ybaB	conserved protein	009	34,76	398	83,49	7	453	0	-0,473	0
+JW2025	ECK2034	rfbD	dTDP-4-dehydrorhamnose reductase subunit, NAD(P)-binding, of dTDP-L-rhamnose synthase	6,02	1,61	269,17	49,83	10	453	0	-0,093	GO:0005737 cytoplasm
+JW2505	ECK2517	sseA	3-mercaptopyruvate sulfurtransferase	4,41	9,73	199,06	54,45	10	451	0	-0,083	0
+JW1072	ECK1071	rluC	23S rRNA pseudouridylate synthase	2,48	1,28	113,93	35,11	11	451	0	-0,461	GO:0005737 cytoplasm
+JW0022	ECK0024	rpsT	30S ribosomal subunit protein S20	315,23	2,49	12491,64	51,72	8	449	0	-0,705	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1729	ECK1738	nadE	NAD synthetase, NH3/glutamine-dependent	4,08	1,87	185	65,45	12	449	0	0.000	0
+JW2587	ECK2603	rplS	50S ribosomal subunit protein L19	099	8,18	4064,14	75,65	13	448	0	-0,527	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3213	ECK3233	tldD	predicted peptidase	1,37	1,01	64,08	28,48	8	448	0	-0,123	0
+JW3172	ECK3194	yhbJ	predicted protein with nucleoside triphosphate hydrolase domain	2,59	0,84	118,82	49,65	9	447	0	-0,316	0
+JW5243	ECK1492	ydeN	conserved protein	0,75	0,91	35,73	21,61	8	447	0	-0,575	0
+JW3150	ECK3172	obgE	GTPase involved in cell partioning and DNA repair	1,85	0,22	85,75	34,62	9	445	0	-0,452	0
+JW1195	ECK1192	pth	peptidyl-tRNA hydrolase	5,11	0,35	229,62	57,73	10	444	0	-0,124	GO:0005737 cytoplasm
+JW3911	ECK3932	metL	fused aspartokinase II -!- homoserine dehydrogenase II	0,54	0,32	25,99	12,22	9	444	0	-0,101	0
+JW5129	ECK0954	mgsA	methylglyoxal synthase	12,89	1,56	563,11	60,53	6	443	0	0,038	GO:0005737 cytoplasm
+JW2316	ECK2313	usg	predicted semialdehyde dehydrogenase	009	0,53	398	35,01	10	443	0	0,061	0
+JW2296	ECK2293	yfcD	predicted NUDIX hydrolase	16,78	1,17	727,17	45,56	7	442	0	-0,427	0
+JW0901	ECK0909	kdsB	3-deoxy-manno-octulosonate cytidylyltransferase	2,87	1,34	131,26	52,02	9	438	0	-0,145	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0003	ECK0004	thrC	threonine synthase	1,75	1,16	81,25	42,29	10	438	0	-0,097	GO:0005737 cytoplasm
+JW3179	ECK3202	gltB	glutamate synthase, large subunit	0,31	0,21	15,17	10,28	11	435	0	-0,224	0
+JW5856	ECK3773	trxA	thioredoxin 1	45,42	2,04	1909,42	77,98	7	433	0	0,025	0
+JW2513	ECK2526	iscU	scaffold protein	11,92	10,56	521,98	84,38	8	433	0	-0,355	0
+JW5413	ECK2605	rimM	16S rRNA processing protein	5,58	7,37	250,07	56,59	8	433	0	0.000	0
+JW3574	ECK3589	mtlD	mannitol-1-phosphate dehydrogenase, NAD(P)-binding	1,85	1,59	85,75	30,63	10	433	0	0.000	0
+JW3896	ECK3917	glpX	fructose 1,6-bisphosphatase II	2,36	1,11	108,58	30,36	9	431	0	-0,016	GO:0005737 cytoplasm
+JW3624	ECK3639	rpoZ	RNA polymerase, omega subunit	25,83	2,98	1104,73	92,31	7	430	0	-0,524	GO:0005737 cytoplasm
+JW3259	ECK3284	rpsK	30S ribosomal subunit protein S11	20,54	7,81	884,64	61,24	8	430	0	-0,446	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3719	ECK3734	gidA	glucose-inhibited cell-division protein	0,86	0,27	041	23,05	10	429	0	-0,308	0
+JW1327	ECK1329	uspE	stress-induced protein	3,87	-	175,38	51,27	11	428	0	-0,207	0
+JW2644	ECK2663	stpA	DNA binding protein, nucleoid-associated	5,31	1,93	238,33	67,16	8	426	0	-0,794	GO:0005737 cytoplasm
+JW4121	ECK4156	psd	phosphatidylserine decarboxylase	1,15	1,92	54,08	28,88	6	426	0	-0,093	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1488	ECK1487	gadB	glutamate decarboxylase B, PLP-dependent	2,01	1,52	92,93	28,33	10	424	0	-0,297	GO:0005737 cytoplasm
+JW1648	ECK1652	sodB	superoxide dismutase, Fe	11,92	21,05	521,98	44,56	7	423	0	-0,169	GO:0005737 cytoplasm
+JW2536	ECK2549	hmp	fused nitric oxide dioxygenase -!- dihydropteridine reductase 2	1,98	0,49	91,58	26,26	9	423	0	0.000	0
+JW5790	ECK4342	yjiA	predicted GTPase	2,41	1,67	110,81	34,91	8	421	0	-0,085	0
+JW0514	ECK0518	ppiB	peptidyl-prolyl cis-trans isomerase B (rotamase B)	45,42	6,14	1909,42	063	9	418	0	-0,312	GO:0005737 cytoplasm
+JW0175	ECK0179	fabZ	(3R)-hydroxymyristol acyl carrier protein dehydratase	50,79	4,34	2.128	62,91	9	416	0	0,054	GO:0005737 cytoplasm
+JW5791	ECK4344	yjiY	predicted inner membrane protein	2,59	-	118,82	18,44	9	416	16	0,725	0
+JW3119	ECK3138	yraP	predicted protein	3,64	1,72	165,27	47,64	7	415	1	0,045	GO:0042597 periplasmic space
+JW2929	ECK2957	yggX	protein that protects iron-sulfur proteins against oxidative damage	30,62	1,27	1302,81	097	11	414	0	-0,857	0
+JW3222	ECK3241	yhdH	predicted oxidoreductase, Zn-dependent and NAD(P)-binding	2,16	1,65	99,64	29,32	7	414	0	-0,004	0
+JW3753	ECK3772	rhlB	ATP-dependent RNA helicase	1,21	1,39	56,81	29,93	10	414	0	-0,346	0
+JW3168	ECK3190	yhbG	predicted transporter subunit -!- ATP-binding component of ABC superfamily	3,22	0,31	146,75	40,25	9	413	0	-0,124	GO:0005737 cytoplasm
+JW1656	ECK1660	ydhQ	conserved protein	1,96	0,97	90,69	24,88	8	413	0	0,025	0
+JW3203	ECK3223	degQ	serine endoprotease, periplasmic	1,02	0,27	48,14	25,71	6	413	1	0,055	0
+JW0130	ECK0133	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase	25,83	2,02	1104,73	46,59	7	412	0	0,138	GO:0005737 cytoplasm
+JW1264	ECK1266	sohB	predicted inner membrane peptidase	2,16	2,79	99,64	42,12	9	412	2	-0,354	0
+JW5344	ECK2090	fbaB	fructose-bisphosphate aldolase class I	1,64	1,31	76,29	038	8	412	0	-0,148	0
+JW2891	ECK2920	mscS	mechanosensitive channel	1,89	0,77	87,54	28,67	6	411	3	0,494	0
+JW0466	ECK0471	gsk	inosine/guanosine kinase	1,61	0,62	74,94	26,96	9	411	0	-0,346	0
+JW3997	ECK4029	malM	maltose regulon periplasmic protein	6,94	001	308,96	28,43	9	410	0	-0,021	GO:0042597 periplasmic space
+JW0731	ECK0730	pal	peptidoglycan-associated outer membrane lipoprotein	4,34	8,69	196	50,87	6	410	0	-0,454	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3379	ECK3403	malQ	4-alpha-glucanotransferase (amylomaltase)	0,78	0,54	37,12	16,28	9	410	0	-0,393	GO:0005737 cytoplasm
+JW5947	ECK3377	aroK	shikimate kinase I	11,59	-	507,96	46,82	9	409	0	-0,621	0
+JW3304	ECK3329	rpsL	30S ribosomal subunit protein S12	16,78	014	727,17	53,23	7	408	0	-0,623	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2703	ECK2728	mutS	methyl-directed mismatch repair protein	0,45	0,39	21,78	14,07	8	408	0	-0,238	GO:0005737 cytoplasm
+JW5841	ECK2324	prmB	N5-glutamine methyltransferase	7,25	-	322,33	24,19	8	408	0	-0,153	0
+JW3964	ECK3992	hupA	HU, DNA-binding transcriptional regulator, alpha subunit	099	22,49	4064,14	71,11	7	407	0	-0,228	GO:0005737 cytoplasm
+JW3262	ECK3287	secY	preprotein translocase membrane subunit	4,88	9,13	220	15,12	8	407	10	0,602	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3352	ECK3376	aroB	3-dehydroquinate synthase	1,64	1,95	76,29	31,22	6	406	0	0,168	0
+JW2712	ECK2737	nlpD	predicted outer membrane lipoprotein	1,45	7,37	67,71	21,37	7	405	0	-0,403	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2120	ECK2125	bglX	beta-D-glucoside glucohydrolase, periplasmic	0,49	-	23,65	12,55	8	404	0	0.000	GO:0042597 periplasmic space
+JW1642	ECK1646	nemA	N-ethylmaleimide reductase, FMN-linked	2,51	0,85	115,26	36,99	10	403	0	-0,311	0
+JW0893	ECK0901	cmk	cytidylate kinase	006	0,33	276,96	66,08	10	400	0	0.000	GO:0005737 cytoplasm
+JW3940	ECK3964	murB	UDP-N-acetylenolpyruvoylglucosamine reductase, FAD-binding	2,16	1,06	99,64	31,58	8	399	0	-0,204	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5682	ECK3456	dcrB	periplasmic protein	6,94	2,83	308,96	52,43	7	398	0	-0,229	0
+JW1112	ECK1112	potA	polyamine transporter subunit -!- ATP-binding component of ABC superfamily	0,86	001	041	23,81	7	398	0	-0,338	GO:0005737 cytoplasm
+JW1328	ECK1330	fnr	DNA-binding transcriptional dual regulator, global regulator of anaerobic growth	1,51	-	70,42	028	6	398	0	-0,274	GO:0005737 cytoplasm
+JW0671	ECK0672	fldA	flavodoxin 1	18,31	1,71	791,36	65,91	7	397	0	-0,285	0
+JW0740	ECK0746	galK	galactokinase	3,64	002	165,27	38,48	8	397	0	-0,105	GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0554	ECK0557	ompT	"DLP12 prophage; outer membrane protease VII (outer membrane protein 3b)"	2,16	9,44	99,64	031	9	397	0	-0,645	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW2956	ECK2982	gss	fused glutathionylspermidine amidase -!- glutathionylspermidine synthetase	0,58	0,09	27,85	17,12	7	396	1	-0,342	0
+JW5657	ECK3539	yiaD	predicted outer membrane lipoprotien	007	-	289,95	40,18	6	395	3	-0,073	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2998	ECK3021	parE	DNA topoisomerase IV, subunit B	0,87	0,33	41,26	19,68	8	394	0	-0,345	GO:0005737 cytoplasm
+JW0931	ECK0939	ycbY	predicted methyltransferase	001	000	28,78	13,25	9	393	0	-0,359	0
+JW5950	ECK4041	yjbN	tRNA-dihydrouridine synthase A	1,15	-	54,08	30,72	7	392	0	-0,291	0
+JW2962	ECK2988	hybC	hydrogenase 2, large subunit	0,81	0,51	039	23,63	9	391	0	0.000	GO:0019866 inner membrane
+JW5539	ECK3222	yhcB	conserved protein	12,34	-	540	71,97	8	390	1	-0,552	0
+JW5505	ECK3033	yqiC	conserved protein	11,92	-	521,98	63,54	9	389	0	-0,818	0
+JW5394	ECK2421	ucpA	predicted oxidoredutase, sulfate metabolism protein	3,87	-	175,38	40,68	9	389	0	0,046	0
+JW2715	ECK2740	truD	pseudoruidine synthase	001	-	65,44	33,52	8	389	0	-0,269	0
+JW0440	ECK0444	glnK	nitrogen assimilation regulatory protein for GlnL, GlnE, and AmtB	30,62	7,18	1302,81	82,14	10	388	0	0,067	0
+JW1163	ECK1162	minE	cell division topological specificity factor	25,83	1,69	1104,73	85,23	8	386	0	-0,294	GO:0005737 cytoplasm
+JW4020	ECK4051	ssb	Single-stranded DNA-binding protein	6,74	3,08	300,32	29,78	7	386	0	-0,708	GO:0005737 cytoplasm
+JW4102	ECK4136	groS	Cpn10 chaperonin GroES, small subunit of GroESL	099	12,56	4064,14	88,66	9	385	0	-0,004	GO:0005737 cytoplasm
+JW1721	ECK1730	katE	hydroperoxidase HPII(III) (catalase)	0,53	0,35	25,52	12,48	7	385	0	-0,498	GO:0005737 cytoplasm
+JW3256	ECK3281	rplQ	50S ribosomal subunit protein L17	15,68	7,49	680,91	53,54	8	384	0	-0,565	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3462	ECK3480	uspA	universal stress global response regulator	30,62	2,56	1302,81	70,14	6	380	0	-0,056	GO:0005737 cytoplasm
+JW1075	ECK1075	rpmF	50S ribosomal subunit protein L32	463,16	5,19	18139,54	54,39	5	378	0	-0,974	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3678	ECK3693	dnaN	DNA polymerase III, beta subunit	1,45	-	67,71	25,68	7	378	0	-0,133	GO:0005737 cytoplasm
+JW2987	ECK3010	parC	DNA topoisomerase IV, subunit A	0,78	0,23	37,12	18,88	10	377	0	-0,369	GO:0005737 cytoplasm
+JW3136	ECK3156	rbfA	30s ribosome binding factor	3,64	001	165,27	70,68	8	376	0	-0,398	GO:0005737 cytoplasm
+JW0739	ECK0745	galM	galactose-1-epimerase (mutarotase)	2,38	5,47	109,47	032	7	376	0	-0,466	GO:0042597 periplasmic space
+JW2578	ECK2594	yfiA	cold shock protein associated with 30S ribosomal subunit	67,13	16,89	2788,66	84,96	9	375	0	-0,535	GO:0009281 cytosolic ribosome (sensu Bacteria)
+JW0228	ECK0239	gpt	guanine-hypoxanthine phosphoribosyltransferase	25,83	0,49	1104,73	56,58	8	374	0	-0,048	GO:0005737 cytoplasm
+JW0737	ECK0743	aroG	3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, phenylalanine repressible	1,68	0,72	078	34,29	8	373	0	-0,182	0
+JW0750	ECK0756	ybhE	6-phosphogluconolactonase	2,73	002	125,04	35,95	8	372	0	-0,224	0
+JW1702	ECK1710	ihfA	integration host factor (IHF), DNA-binding protein, alpha subunit	22,71	2,75	975,11	75,76	9	370	0	-0,874	GO:0005737 cytoplasm
+JW0655	ECK0650	ybeX	predicteed ion transport	2,59	1,74	118,82	44,86	10	370	0	-0,372	GO:0009274 cell wall (sensu Bacteria)
+JW3646	ECK3662	ilvB	acetolactate synthase I, large subunit	1,37	0,43	64,08	22,42	7	370	0	0,041	0
+JW3612	ECK3627	rpmB	50S ribosomal subunit protein L28	25,83	7,03	1104,73	66,67	9	369	0	-0.001	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0669	ECK0671	fur	DNA-binding transcriptional dual regulator	11,92	1,49	521,98	078	8	368	0	-0,559	GO:0005737 cytoplasm
+JW5655	ECK3541	yiaF	conserved protein	12,34	-	540	38,14	7	367	1	-0,151	0
+JW2537	ECK2550	glnB	regulatory protein P-II for glutamine synthetase	55,23	2,68	2308,02	66,96	11	365	0	0,009	GO:0005737 cytoplasm
+JW1370	ECK1371	uspF	stress-induced protein, ATP-binding protein	12,34	4,39	540	65,97	8	365	0	0,022	0
+JW3691	ECK3706	yieF	chromate reductase, Class I, flavoprotein	4,62	0,95	208,24	44,68	6	365	0	0.000	0
+JW5536	ECK3200	arcB	hybrid sensory histidine kinase in two-component regulatory system with ArcA	0,66	1,13	31,57	014	9	365	2	-0,251	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0430	ECK0434	hupB	HU, DNA-binding transcriptional regulator, beta subunit	12,89	7,83	563,11	060	6	364	0	-0,042	GO:0005737 cytoplasm
+JW3454	ECK3472	yhiI	predicted HlyD family secretion protein	1,29	001	60,45	026	9	361	1	-0,161	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3900	ECK3921	rraA	ribonuclease E (RNase E) inhibitor protein	18,31	3,52	791,36	59,01	7	360	0	0,054	0
+JW5146	ECK1019	ycdW	2-ketoacid reductase	1,15	-	54,08	41,03	7	360	0	-0,258	0
+JW0803	ECK0809	ybiS	conserved protein	1,78	0,51	083	40,85	6	359	1	-0,116	0
+JW5755	ECK4238	yjgF	ketoacid-binding protein	12,34	2,44	540	77,34	6	358	0	0,086	0
+JW1633	ECK1637	slyB	outer membrane lipoprotein	3,64	4,84	165,27	38,71	4	358	0	0,114	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0861	ECK0868	ybjX	conserved protein	3,33	1,79	152	38,18	10	358	0	-0,345	0
+JW3134	ECK3154	rpsO	30S ribosomal subunit protein S15	18,31	2,94	791,36	69,66	8	357	0	-0,673	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3820	ECK3836	fre	flavin reductase	2,98	3,27	136,13	049	8	357	0	-0,123	0
+JW1808	ECK1817	manZ	mannose-specific enzyme IID component of PTS	2,46	009	113,03	29,72	7	357	2	0,407	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3198	ECK3218	sspA	stringent starvation protein A	3,92	003	177,58	35,38	7	356	0	-0,265	GO:0005737 cytoplasm
+JW3937	ECK3957	trmA	tRNA (uracil-5-)-methyltransferase	1,23	0,15	57,72	31,97	8	356	0	-0,322	GO:0005737 cytoplasm
+JW5854	ECK3820	yigL	predicted hydrolase	1,58	-	73,59	37,22	7	356	0	-0,185	0
+JW3275	ECK3300	rplP	50S ribosomal subunit protein L16	12,89	5,43	563,11	44,85	5	355	0	-0,384	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2515	ECK2528	iscR	DNA-binding transcriptional activator	4,34	1,72	196	58,64	7	355	0	-0,256	0
+JW0794	ECK0798	glnQ	glutamine transporter subunit -!- ATP-binding component of ABC superfamily	3,92	001	177,58	51,25	7	355	0	-0,138	GO:0005737 cytoplasm
+JW1100	ECK1100	mfd	transcription-repair coupling factor	0,58	0,36	27,85	13,85	12	355	0	-0,292	GO:0005737 cytoplasm
+JW1269	ECK1272	ribA	GTP cyclohydrolase II	7,25	0,89	322,33	46,43	9	354	0	-0,181	0
+JW3264	ECK3289	rpmD	50S ribosomal subunit protein L30	157,49	7,55	6374,36	76,27	8	352	0	-0,137	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0141	ECK0144	dksA	transcriptional regulator of rRNA transcription, DnaK suppressor protein	009	11,17	398	62,25	7	352	0	-0,866	GO:0005737 cytoplasm
+JW0906	ECK0914	mukE	protein involved in chromosome partitioning	1,68	0,97	078	34,67	6	351	0	-0,495	0
+JW0661	ECK0663	nagD	UMP phosphatase	2,51	0,25	115,26	038	5	350	0	0,109	0
+JW1913	ECK1927	yedD	predicted protein	2,16	0,25	99,64	46,72	5	350	0	-0,195	0
+JW3563	ECK3579	selB	selenocysteinyl-tRNA-specific translation factor	0,68	-	033	18,89	9	350	0	-0,354	GO:0005737 cytoplasm
+JW2287	ECK2284	yfbQ	predicted aminotransferase	1,02	0,49	48,14	19,26	6	349	0	-0,163	0
+JW0229	ECK0240	frsA	hydrolase, binds to enzyme IIA(Glc)	0,63	0,66	30,18	20,05	7	349	0	0.000	0
+JW4030	ECK4062	acs	bifunctional acetyl-CoA synthetase -!- propionyl-CoA synthetase	0,93	001	44,02	20,09	10	348	0	-0,291	0
+JW3933	ECK3953	oxyR	DNA-binding transcriptional dual regulator	3,64	0,41	165,27	032	8	347	0	-0,088	GO:0005737 cytoplasm
+JW2921	ECK2949	yggV	dITP/XTP pyrophosphatase	3,33	0,52	152	48,22	6	347	0	-0,122	0
+JW2385	ECK2384	glk	glucokinase	1,58	2,39	73,59	30,84	7	347	0	0,154	GO:0005737 cytoplasm
+JW4131	ECK4169	hflX	predicted GTPase	0,98	1,24	46,31	21,36	7	347	0	-0,332	0
+JW2235	ECK2233	glpA	sn-glycerol-3-phosphate dehydrogenase (anaerobic), large subunit, FAD/NAD(P)-binding	0,47	-	22,71	14,39	6	347	0	-0,134	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2234	ECK2232	glpT	sn-glycerol-3-phosphate transporter	6,02	000	269,17	15,04	8	346	12	0,493	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1220	ECK1227	purU	formyltetrahydrofolate hydrolase	1,74	0,98	081	28,93	6	346	0	-0,166	GO:0005737 cytoplasm
+JW5756	ECK4245	yjgK	conserved protein	6,94	-	308,96	076	7	346	0	-0,249	0
+JW3116	ECK3135	yraM	conserved protein	1,01	0,91	47,69	23,16	9	345	0	-0,272	0
+JW1605	ECK1608	manA	mannose-6-phosphate isomerase	001	0,96	47,23	24,04	6	345	0	-0,126	GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5158	ECK1094	ycfP	conserved protein	7,38	3,02	327,93	68,89	10	344	0	-0,591	0
+JW1238	ECK1240	oppD	oligopeptide transporter subunit -!- ATP-binding component of ABC superfamily	1,82	3,76	084	34,42	9	342	0	-0,009	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2904	ECK2932	speB	agmatinase	5,11	001	229,62	53,27	9	340	0	-0,105	0
+JW0050	ECK0052	ksgA	S-adenosylmethionine-6-N',N'-adenosyl (rRNA) dimethyltransferase	3,39	1,64	154,25	40,66	8	340	0	-0,101	GO:0005737 cytoplasm
+JW1812	ECK1821	cspC	stress protein, member of the CspA-family	099	007	4064,14	89,86	6	337	0	0.000	0
+JW1119	ECK1119	trmU	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	1,78	1,75	083	27,99	6	336	0	-0,285	GO:0005737 cytoplasm
+JW1297	ECK1299	pspA	regulatory protein for phage-shock-protein operon	1,68	4,17	078	40,09	8	336	0	-0,722	GO:0005737 cytoplasm
+JW2081	ECK2087	gatA	galactitol-specific enzyme IIA component of PTS	14,85	-	645,93	66,35	5	336	0	-0,025	0
+JW3774	ECK3796	hemY	predicted protoheme IX synthesis protein	1,23	0,62	57,72	22,36	8	335	2	-0,362	0
+JW0618	ECK0616	cspE	DNA-binding transcriptional repressor	062	5,23	2585,84	78,26	7	334	0	-0,213	GO:0005737 cytoplasm
+JW2590	ECK2606	rpsP	30S ribosomal subunit protein S16	67,13	11,84	2788,66	58,54	7	333	0	-0,329	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2795	ECK2823	thyA	thymidylate synthetase	4,88	0,28	220	34,85	8	333	0	-0,382	GO:0005737 cytoplasm
+JW0742	ECK0748	galE	UDP-galactose-4-epimerase	2,65	1,71	121,49	29,59	7	332	0	-0,311	GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2343	ECK2340	vacJ	predicted lipoprotein	2,46	0,24	113,03	45,02	7	331	0	-0,291	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0765	ECK0771	moaB	molybdopterin biosynthesis protein B	4,01	-	181,53	47,65	7	331	0	-0,225	0
+JW4114	ECK4149	frdB	fumarate reductase (anaerobic), Fe-S subunit	4,88	1,57	220	046	8	330	0	-0,224	GO:0005737 cytoplasm
+JW3403	ECK3425	yhhX	predicted oxidoreductase with NAD(P)-binding Rossmann-fold domain	1,51	0,43	70,42	26,67	7	329	0	-0,346	0
+JW2291	ECK2288	yfbU	conserved protein	7,38	1,36	327,93	68,29	10	328	0	-0,579	0
+JW0646	ECK0644	rihA	ribonucleoside hydrolase 1	6,74	3,29	300,32	26,69	6	328	0	0,105	0
+JW2548	ECK2562	pdxJ	pyridoxine 5'-phosphate synthase	1,93	0,44	89,34	44,44	7	328	0	-0,091	GO:0005737 cytoplasm
+JW4345	ECK4374	deoA	thymidine phosphorylase	1,33	0,85	62,27	30,91	9	328	0	0,011	0
+JW5185	ECK1186	dhaH	fused predicted dihydroxyacetone-specific PTS enzyme HPr component -!- EI component	1,23	0,23	57,72	23,31	6	327	0	-0,017	0
+JW4171	ECK4209	cpdB	2':3'-cyclic-nucleotide 2'-phosphodiesterase	000	0,42	19,43	014	6	327	0	-0,285	GO:0005737 cytoplasm
+JW3377	ECK3401	gntY	predicted gluconate transport associated protein	009	1,43	398	47,64	6	326	0	-0,256	0
+JW5067	ECK0486	ybbN	predicted thioredoxin domain-containing protein	009	3,83	398	37,68	8	325	0	-0,242	0
+JW2181	ECK2185	narP	DNA-binding response regulator in two-component regulatory system with NarQ or NarX	2,51	1,31	115,26	33,49	5	325	0	-0,014	GO:0005737 cytoplasm
+JW2601	ECK2616	smpB	trans-translation protein	4,99	1,04	224,39	21,25	6	324	0	-0,581	0
+JW1176	ECK1175	fadR	DNA-binding transcriptional dual regulator	2,38	1,84	109,47	46,86	8	324	0	-0,283	GO:0005737 cytoplasm
+JW3393	ECK3416	glgC	glucose-1-phosphate adenylyltransferase	1,15	0,79	54,08	22,04	8	324	0	-0,267	GO:0005737 cytoplasm
+JW2300	ECK2297	folX	D-erythro-7,8-dihydroneopterin triphosphate 2'-epimerase and dihydroneopterin aldolase	3,33	2,38	152	060	6	323	0	-0,426	0
+JW2903	ECK2931	yggG	predicted peptidase	1,51	1,88	70,42	34,13	6	323	0	-0,204	0
+JW3026	ECK3044	ygiF	predicted adenylate cyclase	1,42	1,15	66,35	025	8	322	0	0.000	0
+JW3069	ECK3089	yqjD	conserved protein	12,89	3,84	563,11	69,31	7	321	1	-0,545	0
+JW1116	ECK1116	phoP	DNA-binding response regulator in two-component regulatory system with PhoQ	2,46	2,47	113,03	38,57	7	321	0	-0,257	GO:0005737 cytoplasm
+JW3274	ECK3299	rpmC	50S ribosomal subunit protein L29	16,78	6,28	727,17	49,21	3	320	0	-0,657	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3176	ECK3198	elbB	isoprenoid biosynthesis protein with amidotransferase-like domain	2,59	0,93	118,82	36,87	5	320	0	0,267	0
+JW1654	ECK1658	ribC	riboflavin synthase, alpha subunit	3,64	0,79	165,27	37,56	6	318	0	0.000	0
+JW1964	ECK1978	yeeN	conserved protein	2,46	1,44	113,03	34,03	6	314	0	-0,258	0
+JW2066	ECK2077	yegQ	predicted peptidase	1,65	0,75	76,75	30,46	10	314	0	0.000	0
+JW1653	ECK1657	cfa	cyclopropane fatty acyl phospholipid synthase (unsaturated-phospholipid methyltransferase)	0,86	3,37	041	18,32	6	313	0	-0,313	0
+JW3153	ECK3175	rplU	50S ribosomal subunit protein L21	18,31	6,88	791,36	070	7	311	0	-0,369	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2309	ECK2306	purF	amidophosphoribosyltransferase	0,86	5,63	041	18,42	6	311	0	-0,243	GO:0005737 cytoplasm
+JW2194	ECK2198	napA	nitrate reductase, periplasmic, large subunit	0,36	-	17,54	013	7	311	0	-0,438	GO:0042597 periplasmic space
+JW1212	ECK1215	narL	DNA-binding response regulator in two-component regulatory system with NarX (or NarQ)	11,92	1,57	521,98	55,09	10	310	0	-0,153	GO:0005737 cytoplasm
+JW2516	ECK2529	yfhQ	predicted methyltransferase	2,83	004	129,48	30,89	6	310	0	-0,133	0
+JW2484	ECK2495	purM	phosphoribosylaminoimidazole synthetase	1,89	2,74	87,54	26,96	5	310	0	0,034	GO:0005737 cytoplasm
+JW3907	ECK3928	rpmE	50S ribosomal subunit protein L31	45,42	18,13	1909,42	72,86	6	308	0	-0,649	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3351	ECK3375	damX	predicted protein	1,68	1,13	078	25,93	9	306	1	-0,935	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2512	ECK2525	iscA	FeS cluster assembly protein	009	006	398	80,37	7	305	0	-0,103	0
+JW0895	ECK0903	ihfB	integration host factor (IHF), DNA-binding protein, beta subunit	25,83	8,45	1104,73	073	7	304	0	-0,784	GO:0005737 cytoplasm
+JW3311	ECK3336	slyD	FKBP-type peptidyl prolyl cis-trans isomerase (rotamase)	16,78	3,43	727,17	35,71	4	304	0	-0,383	0
+JW2755	ECK2778	relA	(p)ppGpp synthetase I/GTP pyrophosphokinase	0,46	0,26	22,25	17,07	9	304	0	-0,337	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1818	ECK1828	htpX	predicted endopeptidase	2,51	0,63	115,26	27,65	6	303	4	0,344	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2424	ECK2426	yfeX	conserved protein	001	-	65,44	35,45	7	302	0	-0,322	0
+JW0083	ECK0086	murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-diaminopimelate ligase	1,22	0,41	57,27	23,23	8	301	0	-0,051	GO:0009274 cell wall (sensu Bacteria)
+JW2408	ECK2410	ptsH	phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr)	55,23	22,92	2308,02	78,82	5	300	0	-0,166	0
+JW0897	ECK0905	msbA	fused lipid transporter subunits -!- membrane component and ATP-binding component of ABC superfamily	0,91	0,45	043	20,62	9	300	5	0,113	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3381	ECK3405	malT	DNA-binding transcriptional activator, maltotriose-ATP-binding	0,33	3,32	16,12	11,21	6	300	0	-0,273	GO:0005737 cytoplasm
+JW3269	ECK3294	rpsN	30S ribosomal subunit protein S14	50,79	15,83	2.128	47,52	8	299	0	-0,795	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2501	ECK2513	yfgB	predicted enzyme	1,15	0,47	54,08	21,09	8	299	0	-0,291	0
+JW0146	ECK0149	fhuA	ferrichrome outer membrane transporter	0,56	0,94	26,92	22,89	10	299	0	-0,481	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW2660	ECK2679	emrA	multidrug efflux system	0,86	1,13	041	23,85	7	297	1	-0,129	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5362	ECK2165	yeiP	predicted elongtion factor	4,01	1,78	181,53	34,21	6	296	0	-0,379	0
+JW2636	ECK2655	gabD	succinate-semialdehyde dehydrogenase I, NADP-dependent	1,35	8,84	63,18	033	9	296	0	-0,071	0
+JW1646	ECK1650	ydhD	conserved protein	5,31	2,24	238,33	46,09	4	295	0	-0,272	0
+JW1051	ECK1049	grxB	glutaredoxin 2 (Grx2)	2,65	1,82	121,49	47,44	8	294	0	-0,264	0
+JW0849	ECK0856	ybjP	predicted lipoprotein	1,85	3,63	85,75	36,84	4	294	0	-0,459	0
+JW2051	ECK2060	udk	uridine/cytidine kinase	2,73	1,34	125,04	31,92	7	293	0	-0,258	0
+JW3160	ECK3182	yrbD	predicted ABC-type organic solvent transporter	7,11	0,59	316,29	57,38	7	292	1	-0,068	0
+JW2226	ECK2224	ubiG	bifunctional 3-demethylubiquinone-9 3-methyltransferase -!- 2-octaprenyl-6-hydroxy phenol methylase	2,16	0,22	99,64	37,08	6	289	0	-0,226	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5522	ECK3103	tdcE	pyruvate formate-lyase 4/2-ketobutyrate formate-lyase	000	0,17	19,43	14,01	7	287	0	-0,294	GO:0005737 cytoplasm
+JW3584	ECK3599	secB	protein export chaperone	062	9,85	2585,84	64,52	6	286	0	-0,188	GO:0005737 cytoplasm
+JW3280	ECK3305	rplW	50S ribosomal subunit protein L23	38,81	9,98	1639,38	059	7	286	0	-0,373	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3963	ECK3991	yjaG	conserved protein	3,33	1,74	152	42,35	6	286	0	-0,241	0
+JW3679	ECK3694	dnaA	chromosomal replication initiator protein DnaA, DNA-binding transcriptional dual regulator	0,48	2,49	23,18	17,13	6	286	0	-0,364	GO:0005737 cytoplasm
+JW2403	ECK2406	ligA	DNA ligase, NAD(+)-dependent	0,28	0,57	13,75	8,64	5	286	0	-0,137	GO:0005737 cytoplasm
+JW0162	ECK0165	glnD	uridylyltransferase	0,26	0,45	12,79	9,21	6	286	0	-0,294	GO:0005737 cytoplasm
+JW3525	ECK3543	cspA	major cold shock protein	009	0,67	398	81,43	5	284	0	-0,251	GO:0005737 cytoplasm
+JW0230	ECK0241	crl	DNA-binding transcriptional regulator	4,01	1,44	181,53	49,62	7	284	0	-0,511	GO:0009289 fimbria -!- GO:0005737 cytoplasm
+JW2924	ECK2952	ansB	periplasmic L-asparaginase II	1,24	6,61	58,18	27,87	7	284	1	-0,114	GO:0042597 periplasmic space
+JW2550	ECK2564	era	membrane-associated, 16S rRNA-binding GTPase	1,96	001	90,69	32,23	7	282	0	-0,192	0
+JW3152	ECK3174	rpmA	50S ribosomal subunit protein L27	214,44	4,59	8598,07	48,24	6	281	0	-0,638	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1018	ECK1021	ycdY	conserved protein	4,99	0,25	224,39	35,33	5	281	0	-0,166	0
+JW3009	ECK3032	ribB	3,4 dihydroxy-2-butanone-4-phosphate synthase	4,01	0,54	181,53	52,53	7	281	0	-0,147	0
+JW3623	ECK3638	gmk	guanylate kinase	2,83	1,36	129,48	32,37	7	280	0	0.000	GO:0005737 cytoplasm
+JW0755	ECK0761	ybhC	predicted pectinesterase	1,51	2,15	70,42	017	6	280	0	-0,358	GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW3006	ECK3029	ygiC	predicted enzyme	1,46	1,14	68,16	21,76	8	280	0	-0,389	0
+JW1074	ECK1074	yceD	conserved protein	20,54	5,11	884,64	36,42	7	279	0	-0,192	0
+JW0885	ECK0893	pflA	pyruvate formate lyase activating enzyme 1	1,57	1,29	73,13	32,52	7	279	0	-0,361	GO:0005737 cytoplasm
+JW0145	ECK0148	mrcB	fused glycosyl transferase -!- transpeptidase	0,32	0,86	15,65	10,66	6	279	1	-0,419	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3349	ECK3373	rpe	D-ribulose-5-phosphate 3-epimerase	4,88	1,36	220	47,11	7	277	0	0,066	0
+JW2171	ECK2177	rsuA	16S rRNA pseudouridylate 516 synthase	2,51	-	115,26	39,39	5	277	0	-0,363	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0732	ECK0731	ybgF	predicted protein	1,15	1,51	54,08	24,71	4	276	0	-0,468	GO:0042597 periplasmic space
+JW0028	ECK0031	rihC	ribonucleoside hydrolase 3	2,59	1,59	118,82	29,28	5	275	0	0,289	0
+JW4291	ECK4319	iadA	isoaspartyl dipeptidase	1,98	0,55	91,58	26,15	7	275	0	0,127	0
+JW1667	ECK1673	lpp	murein lipoprotein	009	17,76	398	57,69	4	274	0	-0,314	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5280	ECK1721	pfkB	6-phosphofructokinase II	1,05	3,08	49,52	18,77	5	274	0	0,012	GO:0005737 cytoplasm
+JW4286	ECK4314	uxuB	D-mannonate oxidoreductase, NAD-binding	0,91	0,31	043	19,96	6	274	0	-0,141	0
+JW0005	ECK0006	yaaA	conserved protein	1,25	0,69	58,63	39,15	6	273	0	-0,403	0
+JW3702	ECK3717	phoU	DNA-binding transcriptional regulator	1,15	0,43	54,08	29,46	6	273	0	-0,272	0
+JW1728	ECK1737	osmE	DNA-binding transcriptional regulator	16,78	3,11	727,17	038	4	272	1	-0,265	GO:0005737 cytoplasm
+JW3709	ECK3724	atpC	F1 sector of membrane-bound ATP synthase, epsilon subunit	009	3,67	398	58,99	5	271	0	-0,095	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2918	ECK2946	yggS	predicted enzyme	3,39	0,31	154,25	44,87	7	271	0	0.000	0
+JW2280	ECK2279	nuoE	NADH:ubiquinone oxidoreductase, chain E	12,89	9,83	563,11	42,77	6	270	0	-0,392	GO:0005737 cytoplasm
+JW2659	ECK2678	mprA	DNA-binding transcriptional regulator	4,34	1,29	196	038	6	270	0	-0,638	GO:0005737 cytoplasm
+JW0914	ECK0922	pncB	nicotinate phosphoribosyltransferase	0,74	0,63	35,27	18,75	6	269	0	-0,298	GO:0042597 periplasmic space
+JW3838	ECK3860	hemN	coproporphyrinogen III oxidase, SAM and NAD(P)H dependent, oxygen-independent	0,71	1,02	33,88	18,82	7	269	0	-0,346	0
+JW4359	ECK4388	rob	DNA-binding transcriptional activator	4,41	0,81	199,06	34,26	9	268	0	-0,355	GO:0005737 cytoplasm
+JW1754	ECK1763	ydjA	predicted oxidoreductase	2,51	0,56	115,26	35,52	6	268	0	-0,168	0
+JW5740	ECK4158	orn	oligoribonuclease	2,83	-	129,48	35,36	7	268	0	-0,372	0
+JW1716	ECK1725	yniC	predicted hydrolase	1,93	0,41	89,34	35,14	6	267	0	0,102	0
+JW0250	ECK0261	insH	"CP4-6 prophage; IS5 transposase and trans-activator"	1,24	002	58,18	16,86	5	267	0	-0,534	0
+JW5377	ECK2294	yfcE	predicted phosphatase	13,68	1,61	596,53	54,89	6	266	0	0,024	0
+JW5090	ECK0630	ybeB	predicted protein	009	0,65	398	078	5	266	0	0,034	0
+JW1200	ECK1197	lolB	chaperone for lipoproteins	1,05	1,52	49,52	38,65	5	266	0	-0,644	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW1267	ECK1269	cysB	DNA-binding transcriptional dual regulator, O-acetyl-L-serine-binding	1,08	0,32	50,89	23,77	6	265	0	-0,077	GO:0005737 cytoplasm
+JW0987	ECK0993	agp	glucose-1-phosphatase/inositol phosphatase	1,02	4,94	48,14	28,57	7	265	0	-0,325	GO:0042597 periplasmic space
+JW1772	ECK1781	yeaG	conserved protein with nucleoside triphosphate hydrolase domain	0,58	2,07	27,85	14,44	9	265	0	-0,529	0
+JW2078	ECK2087	gatA	galactitol-specific enzyme IIA component of PTS	13,68	24,44	596,53	62,26	4	264	0	-0,056	0
+JW5060	ECK0429	bolA	regulator of penicillin binding proteins and beta lactamase transcription (morphogene)	009	0,75	398	57,14	4	264	0	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3585	ECK3600	grxC	glutaredoxin 3	009	5,67	398	85,54	6	264	0	-0,314	0
+JW2500	ECK2512	yfgA	conserved protein	4,01	2,61	181,53	23,15	7	263	1	-0,391	0
+JW5668	ECK3511	kdgK	ketodeoxygluconokinase	1,68	-	078	25,24	5	263	0	-0,195	0
+JW1755	ECK1764	sppA	protease IV (signal peptide peptidase)	0,42	0,08	20,37	9,22	4	261	1	-0,111	0
+JW2674	ECK2700	srlD	sorbitol-6-phosphate dehydrogenase	1,15	-	54,08	20,85	4	261	0	0.000	0
+JW2322	ECK2319	yfcL	predicted protein	16,78	0,62	727,17	066	4	259	0	-0,148	0
+JW1767	ECK1776	yeaA	methionine sulfoxide reductase B	12,34	2,97	540	61,31	7	259	0	-0,738	0
+JW3883	ECK3905	cpxR	DNA-binding response regulator in two-component regulatory system with CpxA	7,11	0,59	316,29	34,91	7	258	0	-0,344	GO:0005737 cytoplasm
+JW0411	ECK0415	ispA	geranyltranstransferase	2,16	0,31	99,64	24,08	5	258	0	-0,121	GO:0005737 cytoplasm
+JW0628	ECK0626	rlpA	minor lipoprotein	0,93	0,64	44,02	17,68	4	258	0	-0,245	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3496	ECK3513	dctA	C4-dicarboxylic acid, orotate and citrate transporter	1,78	2,35	083	10,05	4	257	8	0,872	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW4019	ECK4050	uvrA	ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC	0,23	001	11,36	010	5	257	0	-0,289	GO:0005737 cytoplasm
+JW5130	ECK0956	yccU	predicted CoA-binding protein with NAD(P)-binding Rossmann-fold domain	3,64	1,38	165,27	58,39	5	256	0	0,096	0
+JW3903	ECK3924	hslV	peptidase component of the HslUV protease	3,22	2,43	146,75	28,41	4	256	0	-0,034	GO:0005737 cytoplasm
+JW0047	ECK0049	folA	dihydrofolate reductase	4,62	0,85	208,24	54,72	6	255	0	-0,294	0
+JW3164	ECK3186	kdsD	D-arabinose 5-phosphate isomerase	1,25	0,37	58,63	031	6	255	0	0,223	GO:0030113 capsule (sensu Bacteria)
+JW3159	ECK3181	yrbC	predicted ABC-type organic solvent transporter	1,25	0,49	58,63	35,55	6	254	0	-0,416	GO:0005737 cytoplasm
+JW3192	ECK3212	nanE	predicted N-acetylmannosamine-6-P epimerase	3,33	0,59	152	44,98	7	253	0	0,162	GO:0005737 cytoplasm
+JW2580	ECK2596	pheA	fused chorismate mutase P -!- prephenate dehydratase	0,96	0,11	045	18,13	6	252	0	-0,168	GO:0005737 cytoplasm
+JW2243	ECK2242	yfaY	conserved protein	0,52	000	25,05	017	4	252	0	-0,055	0
+JW0099	ECK0102	yacF	conserved protein	1,68	-	078	34,82	6	252	0	-0,155	0
+JW5253	ECK1544	gnsB	"Qin prophage; predicted protein"	009	0,82	398	71,93	5	251	0	-0,481	0
+JW3140	ECK3161	argG	argininosuccinate synthetase	0,65	0,29	031	19,69	7	251	0	-0,371	GO:0005737 cytoplasm
+JW1627	ECK1631	gst	glutathionine S-transferase	2,83	0,89	129,48	54,23	6	250	0	0.000	0
+JW0029	ECK0032	dapB	dihydrodipicolinate reductase	0,67	1,11	32,03	18,68	4	250	0	0,019	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2156	ECK2162	fruB	fused fructose-specific PTS enzyme IIA component -!- HPr component	0,62	001	29,71	15,69	4	249	0	-0,029	GO:0005737 cytoplasm
+JW2197	ECK2201	eco	ecotin, a serine protease inhibitor	2,59	-	118,82	31,48	5	249	0	-0,257	GO:0042597 periplasmic space
+JW5427	ECK2653	ygaT	predicted protein	1,07	-	50,43	23,38	5	249	0	-0,375	0
+JW0421	ECK0425	cyoB	cytochrome o ubiquinol oxidase subunit I	3,92	5,12	177,58	12,22	7	246	14	0,658	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5642	ECK3629	dfp	fused 4'-phosphopantothenoylcysteine decarboxylase -!- phosphopantothenoylcysteine synthetase, FMN-binding	1,24	1,92	58,18	030	7	246	0	0.000	GO:0005737 cytoplasm
+JW0027	ECK0030	ispH	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase, 4Fe-4S protein	1,07	0,49	50,43	24,37	6	246	0	-0,173	GO:0005737 cytoplasm
+JW5063	ECK0452	ylaC	predicted inner membrane protein	2,98	0,51	136,13	37,18	5	245	2	0,103	0
+JW3611	ECK3626	rpmG	50S ribosomal subunit protein L33	176,83	5,67	7.132	61,82	6	244	0	-0,804	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0867	ECK0875	infA	translation initiation factor IF-1	55,23	002	2308,02	088	5	243	0	-0,354	GO:0005737 cytoplasm
+JW1089	ECK1089	hinT	purine nucleoside phosphoramidase	009	4,03	398	66,39	5	243	0	-0,062	0
+JW0727	ECK0726	tolQ	membrane spanning protein in TolA-TolQ-TolR complex	1,85	0,86	85,75	030	5	243	3	0,226	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1963	ECK1977	amn	AMP nucleosidase	0,58	0,39	27,85	019	5	243	0	-0,295	GO:0042597 periplasmic space
+JW3564	ECK3580	selA	selenocysteine synthase	0,47	-	22,71	20,73	5	243	0	-0,055	GO:0005737 cytoplasm
+JW1431	ECK1429	ydcP	predicted peptidase	0,32	-	15,65	12,56	5	243	0	-0,311	0
+JW4107	ECK4141	efp	Elongation factor EF-P	4,62	2,74	208,24	32,98	6	242	0	-0,221	GO:0005737 cytoplasm
+JW0347	ECK0353	frmA	alcohol dehydrogenase class III/glutathione-dependent formaldehyde dehydrogenase	1,58	0,87	73,59	30,35	7	242	0	-0,012	GO:0005737 cytoplasm
+JW0152	ECK0155	yadR	conserved protein	5,31	2,68	238,33	42,98	4	241	0	-0,089	0
+JW5186	ECK1187	dhaL	dihydroxyacetone kinase, C-terminal domain	0,93	0,23	44,02	33,81	4	241	0	-0,106	0
+JW2198	ECK2202	mqo	malate dehydrogenase, FAD/NAD(P)-binding domain	0,64	-	30,64	14,78	6	240	0	-0,255	0
+
+
+
+
+
+
+
+JW1338	ECK1341	ydaO	predicted C32 tRNA thiolase	0,87	0,41	41,26	18,97	5	239	0	-0,455	0
+JW2996	ECK3019	mdaB	NADPH quinone reductase	2,51	-	115,26	31,61	6	239	0	-0,356	0
+JW0089	ECK0092	murC	UDP-N-acetylmuramate:L-alanine ligase	0,69	0,51	32,96	13,65	5	238	0	-0,161	GO:0009274 cell wall (sensu Bacteria)
+JW0427	ECK0431	clpP	proteolytic subunit of ClpA-ClpP and ClpX-ClpP ATP-dependent serine proteases	18,31	003	791,36	36,23	6	237	0	-0,154	GO:0005737 cytoplasm
+JW5808	ECK0142	pcnB	poly(A) polymerase I	0,39	001	18,96	13,98	5	237	0	-0,531	GO:0005737 cytoplasm
+JW4160	ECK4198	rpsR	30S ribosomal subunit protein S18	55,23	6,38	2308,02	50,67	5	236	0	-0,775	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0660	ECK0662	asnB	asparagine synthetase B	0,41	0,42	020	16,43	6	236	0	-0,356	GO:0005737 cytoplasm
+JW5538	ECK3211	nanK	predicted N-acetylmannosamine kinase	1,03	-	049	21,65	4	235	0	0,272	GO:0005737 cytoplasm
+JW4193	ECK4229	yjgA	conserved protein	2,16	1,34	99,64	27,87	5	234	0	-0,905	0
+JW0785	ECK0789	ybiB	predicted transferase/phosphorylase	1,07	1,99	50,43	24,38	6	234	0	-0,165	0
+JW1054	ECK1052	yceH	conserved protein	1,15	1,18	54,08	27,44	4	233	0	-0,424	0
+JW3819	ECK3835	ubiD	3-octaprenyl-4-hydroxybenzoate decarboxylase	0,71	2,35	33,88	21,93	6	233	0	-0,248	0
+JW2926	ECK2954	yggL	predicted protein	4,18	4,52	188,99	42,59	4	232	0	-0,678	0
+JW0403	ECK0407	ybaD	conserved protein	3,33	1,18	152	53,02	6	232	0	-0,395	0
+JW2748	ECK2771	ygcF	conserved protein	2,16	0,11	99,64	22,42	5	232	0	0.000	0
+JW2974	ECK2999	exbB	membrane spanning protein in TonB-ExbB-ExbD complex	1,37	0,14	64,08	16,39	3	232	3	0,265	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2878	ECK2905	zapA	protein that localizes to the cytokinetic ring	2,73	0,61	125,04	44,95	4	231	0	-0,733	0
+JW5431	ECK2703	gutQ	predicted phosphosugar-binding protein	1,64	0,93	76,29	37,69	8	231	0	0,144	GO:0030113 capsule (sensu Bacteria)
+JW0700	ECK0699	ybgI	conserved metal-binding protein	2,16	2,32	99,64	25,51	4	230	0	-0,125	0
+JW3065	ECK3085	exuR	DNA-binding transcriptional repressor	1,24	0,58	58,18	19,77	6	230	0	-0,524	GO:0005737 cytoplasm
+JW1611	ECK1614	hdhA	7alpha-hydroxysteroid dehydrogenase, NAD-dependent	1,61	1,04	74,94	23,53	5	229	0	0,139	GO:0005737 cytoplasm
+JW3250	ECK3275	rsmB	16S rRNA m5C967 methyltransferase, S-adenosyl-L-methionine-dependent	0,82	-	38,96	15,15	5	229	0	-0,394	GO:0005737 cytoplasm
+JW2077	ECK2086	gatB	galactitol-specific enzyme IIB component of PTS	099	36,48	4064,14	71,28	4	228	0	0,306	GO:0005737 cytoplasm
+JW3899	ECK3920	yiiU	conserved protein	18,31	004	791,36	77,78	6	228	0	-0.001	0
+JW3618	ECK3633	rph	ribonuclease PH (pseudogene)	1,61	0,62	74,94	39,04	5	228	0	-0,146	0
+JW1796	ECK1805	yeaZ	predicted peptidase	1,15	0,29	54,08	25,11	3	228	0	-0,071	0
+JW3386	ECK3409	glpR	DNA-binding transcriptional repressor	2,83	0,26	129,48	30,56	6	226	0	-0,213	GO:0005737 cytoplasm
+JW0448	ECK0453	maa	maltose O-acetyltransferase	2,59	-	118,82	50,82	5	226	0	-0,056	GO:0005737 cytoplasm
+JW0494	ECK0499	allR	DNA-binding transcriptional regulator	1,74	001	081	16,61	6	225	0	0,073	GO:0005737 cytoplasm
+JW0008	ECK0009	mog	predicted molybdochelatase	1,51	001	70,42	24,62	4	225	0	-0,013	GO:0005737 cytoplasm
+JW0080	ECK0083	mraW	S-adenosyl-dependent methyltransferase activity on membrane-located substrates	0,39	0,89	18,96	15,34	3	224	0	-0,397	0
+JW3765	ECK3783	rffA	TDP-4-oxo-6-deoxy-D-glucose transaminase	0,78	0,35	37,12	15,16	5	223	0	-0,067	0
+JW0638	ECK0636	ybeL	conserved protein	0,78	2,37	37,12	18,13	3	223	0	-0,604	0
+JW5473	ECK2904	ygfB	predicted protein	009	2,93	398	32,81	4	222	0	-0,362	0
+JW3577	ECK3592	yibL	conserved protein	3,22	0,92	146,75	54,17	5	221	0	-0,628	0
+JW0636	ECK0634	rlpB	minor lipoprotein	2,16	0,96	99,64	30,05	6	221	0	-0,252	GO:0019866 inner membrane
+JW0410	ECK0414	dxs	1-deoxyxylulose-5-phosphate synthase, thiamine-requiring, FAD-requiring	0,53	0,64	25,52	11,94	5	221	0	-0,081	0
+JW2076	ECK2085	gatC	galactitol-specific enzyme IIC component of PTS	2,59	12,75	118,82	6,87	4	220	11	0,824	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3578	ECK3593	lldP	L-lactate permease	001	0,08	47,23	9,44	3	220	12	0.001	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5608	ECK3749	yieP	predicted transcriptional regulator	2,16	0,84	99,64	29,13	4	217	0	-0,079	0
+JW5057	ECK0418	yajL	conserved protein	1,51	-	70,42	37,24	4	217	0	0,323	0
+JW3273	ECK3298	rpsQ	30S ribosomal subunit protein S17	099	1,31	4064,14	70,24	6	216	0	-0,293	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5187	ECK1188	dhaK	dihydroxyacetone kinase, N-terminal domain	1,58	1,32	73,59	25,84	5	216	0	-0,113	0
+JW4012	ECK4044	dnaB	replicative DNA helicase	0,47	2,54	22,71	11,46	5	216	0	-0,415	GO:0005737 cytoplasm
+JW0988	ECK0994	yccJ	predicted protein	009	6,79	398	69,33	4	215	0	-0,649	0
+JW2673	ECK2699	srlB	glucitol/sorbitol-specific enzyme IIA component of PTS	4,62	0,17	208,24	65,85	5	215	0	0,002	0
+JW1639	ECK1643	ydhF	predicted oxidoreductase	1,37	0,64	64,08	31,21	5	215	0	0.000	0
+JW2306	ECK2303	hisJ	histidine/lysine/arginine/ornithine transporter subunit -!- periplasmic-binding component of ABC superfamily	1,15	005	54,08	29,23	5	215	1	-0,299	GO:0042597 periplasmic space
+JW3748	ECK3767	ppiC	peptidyl-prolyl cis-trans isomerase C (rotamase C)	12,89	0,63	563,11	70,97	7	214	0	-0,105	0
+JW2716	ECK2741	ispF	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	2,16	001	99,64	41,51	3	214	0	0,089	GO:0005737 cytoplasm
+JW0397	ECK0401	yajC	SecYEG protein translocase auxillary subunit	30,62	1,51	1302,81	27,27	5	213	1	0,395	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3615	ECK3630	dut	deoxyuridinetriphosphatase	2,16	001	99,64	44,37	3	213	0	0,005	0
+JW3242	ECK3268	aroE	dehydroshikimate reductase, NAD(P)-binding	1,03	0,34	049	20,96	4	213	0	0,088	0
+JW0377	ECK0381	proC	pyrroline-5-carboxylate reductase, NAD(P)-binding	1,51	5,53	70,42	17,84	4	212	0	0,318	GO:0005737 cytoplasm
+JW3395	ECK3418	glgB	1,4-alpha-glucan branching enzyme	0,44	0,53	21,31	10,85	6	212	0	-0,509	GO:0005737 cytoplasm
+JW1037	ECK1035	mdoH	glucan biosynthesis: glycosyl transferase	001	0,57	28,78	15,58	8	210	6	-0,046	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0192	ECK0196	rcsF	predicted outer membrane protein, signal	4,62	0,67	208,24	54,48	4	209	0	0.000	GO:0030113 capsule (sensu Bacteria)
+JW0744	ECK0750	modE	DNA-binding transcriptional dual regulator	1,51	0,53	70,42	24,43	4	209	0	-0,021	GO:0005737 cytoplasm
+JW1109	ECK1109	potD	polyamine transporter subunit -!- periplasmic-binding component of ABC superfamily	1,15	1,89	54,08	18,97	5	209	0	-0,445	GO:0042597 periplasmic space
+JW3582	ECK3597	cysE	serine acetyltransferase	0,93	1,07	44,02	17,95	4	209	0	0,002	GO:0005737 cytoplasm
+JW3348	ECK3372	gph	phosphoglycolate phosphatase	1,51	1,63	70,42	31,35	4	208	0	-0,133	0
+JW2784	ECK2809	mltA	membrane-bound lytic murein transglycosylase A	1,07	0,46	50,43	25,75	5	207	0	-0,409	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW3058	ECK3077	ygjR	predicted NAD(P)-binding dehydrogenase	1,28	0,79	060	19,76	5	206	0	0,046	0
+JW1210	ECK1213	ychN	conserved protein	009	1,05	398	57,26	4	203	0	0.000	0
+JW2340	ECK2337	yfcZ	conserved protein	1,51	0,58	70,42	27,66	2	203	0	-0,094	0
+JW3315	ECK3340	yheS	fused predicted transporter subunits -!- ATP-binding components of ABC superfamily	0,55	0,17	26,45	12,87	7	203	0	-0,463	GO:0005737 cytoplasm
+JW0663	ECK0665	nagA	N-acetylglucosamine-6-phosphate deacetylase	0,78	1,32	37,12	16,23	4	202	0	0.000	0
+JW2880	ECK2909	serA	D-3-phosphoglycerate dehydrogenase	1,64	1,07	76,29	18,78	6	201	0	0,025	GO:0005737 cytoplasm
+JW3728	ECK3743	rbsA	fused D-ribose transporter subunits -!- ATP-binding components ABC superfamily	0,28	000	13,75	12,97	4	200	0	-0,088	GO:0005737 cytoplasm
+JW1080	ECK1080	acpP	acyl carrier protein (ACP)	999	20,31	38218,95	42,31	4	199	0	-0,346	0
+JW3946	ECK3974	rplK	50S ribosomal subunit protein L11	11,59	6,82	507,96	43,66	7	199	0	-0,061	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW2023	ECK2032	rfbC	dTDP-4-deoxyrhamnose-3,5-epimerase	001	1,05	33,42	020	3	199	0	-0,204	GO:0005737 cytoplasm -!- GO:0005737 cytoplasm
+JW0090	ECK0093	ddlB	D-Alanine:D-alanine ligase	0,67	2,76	32,03	15,03	4	199	0	0,077	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1896	ECK1907	yecA	conserved metal-binding protein	1,31	1,27	61,36	21,72	3	198	0	-0,392	0
+JW1113	ECK1113	pepT	peptidase T	0,58	8,81	27,85	14,22	5	198	0	-0,215	0
+JW1372	ECK1374	ydbK	fused predicted Fe-S subunit of pyruvate-flavodoxin oxidoreductase	0,25	1,28	12,32	9,54	6	198	0	-0,191	0
+JW3037	ECK3055	rpsU	30S ribosomal subunit protein S21	2153,43	3,66	80476,72	43,66	6	197	0	-0.001	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3206	ECK3226	argR	DNA-binding transcriptional dual regulator, L-arginine-binding	13,68	1,05	596,53	064	6	197	0	-0,007	GO:0005737 cytoplasm
+JW3786	ECK3808	uvrD	DNA-dependent ATPase I and helicase II	0,33	0,33	16,12	10,28	6	197	0	-0,458	GO:0005737 cytoplasm
+JW0749	ECK0755	ybhA	predicted hydrolase	13,68	001	596,53	20,22	5	196	0	-0,126	0
+JW3720	ECK3736	mioC	FMN-binding protein MioC	5,81	2,01	260,06	51,02	4	196	0	-0,159	0
+JW2872	ECK2899	gcvH	glycine cleavage complex lipoylprotein	3161,28	006	116.766	32,56	4	195	0	-0,139	0
+JW1915	ECK1929	yedF	conserved protein	14,85	2,73	645,93	90,91	4	194	0	-0,271	0
+JW2915	ECK2943	yqgE	predicted protein	1,15	0,85	54,08	27,27	3	194	0	-0,072	0
+JW2970	ECK2995	yghZ	aldo-keto reductase	0,73	0,89	34,81	27,17	5	194	0	-0,389	0
+JW1595	ECK1598	pntA	pyridine nucleotide transhydrogenase, alpha subunit	0,58	0,96	27,85	010	4	194	5	0,273	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3830	ECK3850	yihD	conserved protein	009	1,13	398	64,04	4	193	0	-0,424	0
+JW0518	ECK0522	folD	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase -!- 5,10-methylene-tetrahydrofolate cyclohydrolase	5,58	2,86	250,07	29,86	7	193	0	0,048	0
+JW0741	ECK0747	galT	galactose-1-phosphate uridylyltransferase	0,47	0,57	22,71	9,48	3	193	0	-0,524	GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3716	ECK3731	atpB	F0 sector of membrane-bound ATP synthase, subunit a	009	3,33	398	22,88	5	192	5	0,807	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1265	ECK1267	yciN	predicted protein	5,81	1,31	260,06	075	5	192	0	0.000	0
+JW3664	ECK3679	ibpA	heat shock chaperone	3,22	0,59	146,75	40,15	5	192	0	-0,525	0
+JW2640	ECK2659	ygaU	predicted protein	1,15	2,73	54,08	29,53	4	192	0	-0,458	0
+JW0938	ECK0946	ycbZ	predicted peptidase	0,53	1,04	25,52	10,24	4	192	0	-0,162	0
+JW3125	ECK3144	yhbS	predicted acyltransferase with acyl-CoA N-acyltransferase domain	009	0,45	398	29,34	5	189	0	-0,075	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3909	ECK3930	metJ	DNA-binding transcriptional repressor, S-adenosylmethionine-binding	009	2,04	398	50,48	6	189	0	-0,748	GO:0005737 cytoplasm
+JW0442	ECK0446	tesB	acyl-CoA thioesterase II	1,37	2,04	64,08	18,53	5	189	0	-0,253	0
+JW3135	ECK3155	truB	tRNA pseudouridine synthase	1,24	001	58,18	24,52	6	189	0	-0,368	GO:0005737 cytoplasm
+JW0407	ECK0411	thiL	thiamin-monophosphate kinase	0,58	0,36	27,85	13,23	3	189	0	0,075	0
+JW1086	ECK1086	ycfH	predicted metallodependent hydrolase	0,83	0,73	39,42	26,04	5	188	0	-0,212	0
+JW1693	ECK1701	ydiA	conserved protein	0,93	002	44,02	22,38	4	187	0	-0,093	0
+JW2767	ECK2791	sdaC	predicted serine transporter	1,78	5,46	083	9,09	4	186	11	0,807	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0176	ECK0180	lpxA	UDP-N-acetylglucosamine acetyltransferase	1,51	2,04	70,42	16,41	4	185	0	0,002	GO:0005737 cytoplasm
+JW2448	ECK2459	talA	transaldolase A	0,56	1,58	26,92	16,14	4	185	0	-0,315	0
+JW2144	ECK2150	yeiE	predicted DNA-binding transcriptional regulator	1,15	-	54,08	16,72	4	185	0	0,017	0
+JW2509	ECK2522	fdx	[2Fe-2S] ferredoxin	2,16	4,72	99,64	48,65	3	184	0	-0,357	0
+JW3794	ECK3815	pldA	outer membrane phospholipase A	0,64	0,59	30,64	12,11	3	184	0	-0,446	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW5070	ECK0521	ybcJ	predicted RNA-binding protein	2,98	0,53	136,13	45,71	3	183	0	0,101	0
+JW1821	ECK1831	yebR	conserved protein	0,78	0,68	37,12	18,58	3	183	0	0,168	0
+JW0078	ECK0081	fruR	DNA-binding transcriptional dual regulator	1,15	0,51	54,08	21,56	6	182	0	-0,346	GO:0005737 cytoplasm
+JW3466	ECK3484	yhiR	predicted DNA (exogenous) processing protein	1,07	0,41	50,43	23,57	5	182	0	-0,361	0
+JW3154	ECK3176	ispB	octaprenyl diphosphate synthase	0,93	0,33	44,02	14,55	3	182	0	-0,095	0
+JW3171	ECK3193	ptsN	sugar-specific enzyme IIA component of PTS	2,73	1,52	125,04	36,81	4	180	0	-0,167	0
+JW2647	ECK2666	ygaM	predicted protein	1,37	4,32	64,08	32,74	2	179	1	-0,501	0
+JW5578	ECK3837	fadA	3-ketoacyl-CoA thiolase (thiolase I)	001	1,69	24,12	13,44	3	179	0	0,131	GO:0005737 cytoplasm
+JW3837	ECK3859	yihI	conserved protein	2,16	-	99,64	40,83	5	179	0	-1,377	0
+JW0197	ECK0207	dkgB	2,5-diketo-D-gluconate reductase B	1,05	-	49,52	21,72	4	179	0	-0,114	GO:0005737 cytoplasm
+JW2131	ECK2136	cdd	cytidine/deoxycytidine deaminase	0,72	-	34,35	16,67	3	179	0	0,001	0
+JW2735	ECK2760	ygcM	6-pyruvoyl tetrahydrobiopterin synthase (PTPS)	3,64	0,16	165,27	66,12	5	178	0	-0,174	0
+JW2486	ECK2497	ppk	polyphosphate kinase, component of RNA degradosome	0,14	1,13	7,02	5,38	3	178	0	-0,341	0
+JW1776	ECK1785	yeaK	conserved protein	2,83	0,49	129,48	53,29	6	177	0	0,165	0
+JW3219	ECK3238	mreC	cell wall structural complex MreBCD transmembrane component MreC	0,43	0,64	20,84	11,17	4	176	1	-0,152	GO:0009274 cell wall (sensu Bacteria)
+JW0434	ECK0438	ybaX	predicted aluminum resistance protein	1,89	-	87,54	26,41	4	175	0	-0,095	0
+JW3981	ECK4013	pepE	(alpha)-aspartyl dipeptidase	2,16	0,33	99,64	24,89	4	174	0	0,124	0
+JW3595	ECK3610	rfaF	ADP-heptose:LPS heptosyltransferase II	0,72	0,77	34,35	016	4	173	0	-0,185	0
+JW2671	ECK2696	mltB	membrane-bound lytic murein transglycosylase B	0,54	0,66	25,99	12,19	3	173	0	-0,331	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW3813	ECK3830	tatA	TatABCE protein translocation system subunit	009	7,19	398	56,18	4	172	1	0.000	0
+JW1989	ECK2001	yeeX	conserved protein	3,22	12,28	146,75	49,62	4	172	0	-0,694	0
+JW3927	ECK3946	yijP	conserved inner membrane protein	0,53	0,34	25,52	9,53	5	172	5	-0,323	GO:0009274 cell wall (sensu Bacteria)
+JW3474	ECK3490	slp	outer membrane lipoprotein	2,59	2,67	118,82	40,43	4	170	0	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW4218	ECK4254	yjgP	conserved inner membrane protein	1,31	0,18	61,36	11,48	3	170	6	0,465	GO:0009274 cell wall (sensu Bacteria)
+JW1426	ECK1423	tehB	predicted S-adenosyl-L-methionine-dependent methyltransferase	0,97	0,95	45,85	24,87	5	170	0	-0,376	0
+JW3625	ECK3640	spoT	bifunctional (p)ppGpp synthetase II -!- guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase	0,33	0,59	16,12	7,55	5	170	0	-0,332	GO:0005737 cytoplasm
+JW0900	ECK0908	ycaR	conserved protein	5,81	1,34	260,06	46,67	4	169	0	-0,127	0
+JW0470	ECK0475	ybaK	conserved protein	1,51	1,13	70,42	38,36	4	169	0	-0,083	0
+JW2277	ECK2276	nuoH	NADH:ubiquinone oxidoreductase, membrane subunit H	1,31	6,26	61,36	12,62	4	169	8	0.001	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0546	ECK0549	borD	"DLP12 prophage; predicted lipoprotein"	1,68	2,43	078	52,58	3	168	0	0,205	0
+JW3785	ECK3807	yigB	predicted hydrolase	1,31	000	61,36	34,03	4	168	0	-0,329	0
+JW0469	ECK0474	ushA	bifunctional UDP-sugar hydrolase -!- 5'-nucleotidase	0,45	1,95	21,78	14,36	5	168	0	-0,411	GO:0005737 cytoplasm
+JW0399	ECK0403	secF	SecYEG protein translocase auxillary subunit	1,78	0,34	083	12,69	4	167	6	0,401	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5641	ECK3631	ttk	division inhibitor	1,61	0,55	74,94	29,29	4	167	0	-0,306	0
+JW3895	ECK3916	fpr	ferredoxin-NADP reductase	0,87	0,32	41,26	013	3	167	0	-0,194	0
+JW0409	ECK0413	yajO	predicted oxidoreductase, NAD(P)-binding	0,72	0,79	34,35	12,04	3	167	0	-0,404	0
+JW5857	ECK3742	rbsD	predicted cytoplasmic sugar-binding protein	2,16	4,96	99,64	30,22	3	166	0	-0,101	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3243	ECK3269	yrdC	dsRNA-binding protein	0,58	0,32	27,85	15,79	3	166	0	-0,057	0
+JW0094	ECK0097	lpxC	UDP-3-O-acyl N-acetylglucosamine deacetylase	0,54	5,42	25,99	15,74	3	166	0	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1046	ECK1044	solA	N-methyltryptophan oxidase, FAD-binding	0,52	0,12	25,05	13,98	3	166	0	-0,234	0
+JW3216	ECK3235	rng	ribonuclease G	0,36	001	17,54	11,66	4	166	0	-0,279	GO:0005737 cytoplasm
+JW1017	ECK1020	ycdX	predicted zinc-binding hydrolase	1,05	0,98	49,52	24,49	5	165	0	-0,118	0
+JW3606	ECK3621	rfaG	glucosyltransferase I	000	0,33	015	9,63	3	165	0	-0,341	GO:0019866 inner membrane
+JW3223	ECK3242	accB	acetyl CoA carboxylase, BCCP subunit	5,81	4,62	260,06	38,46	4	163	0	0.000	0
+JW5196	ECK1261	yciO	conserved protein	2,59	1,37	118,82	24,76	4	163	0	-0,311	0
+JW5703	ECK3333	yheO	predicted DNA-binding transcriptional regulator	0,85	0,92	40,34	23,33	4	163	0	-0,163	0
+JW3197	ECK3217	sspB	ClpXP protease specificity-enhancing factor	2,73	1,03	125,04	29,09	4	162	0	-0,432	0
+JW1594	ECK1597	pntB	pyridine nucleotide transhydrogenase, beta subunit	2,16	0,16	99,64	10,82	5	162	9	0,602	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3434	ECK3453	zntA	zinc, cobalt and lead efflux system	0,43	0,53	20,84	13,11	5	162	5	0,282	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2997	ECK3020	ygiN	quinol monooxygenase	2,98	0,71	136,13	25,96	3	161	0	0,015	0
+JW3513	ECK3531	dppA	dipeptide transporter -!- periplasmic-binding component of ABC superfamily	0,58	3,94	27,85	016	5	161	0	-0,463	GO:0042597 periplasmic space
+JW5295	ECK1807	yoaB	conserved protein	3,64	6,99	165,27	40,35	3	160	0	0,024	0
+JW3645	ECK3661	ilvN	acetolactate synthase I, small subunit	2,73	0,91	125,04	45,83	3	160	0	-0,201	0
+JW3063	ECK3083	uxaC	uronate isomerase	0,38	0,18	18,48	9,79	4	160	0	-0,429	0
+JW2973	ECK2998	exbD	membrane spanning protein in TonB-ExbB-ExbD complex	5,81	0,26	260,06	52,48	5	159	1	0,013	0
+JW2283	ECK2282	nuoA	NADH:ubiquinone oxidoreductase, membrane subunit A	3,64	6,62	165,27	17,69	2	159	3	0,565	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1700	ECK1708	btuE	predicted glutathione peroxidase	1,15	1,36	54,08	022	4	159	0	-0,131	GO:0042597 periplasmic space
+JW1276	ECK1279	yciT	predicted DNA-binding transcriptional regulator	0,67	-	32,03	16,87	4	157	0	-0,092	0
+JW0905	ECK0913	mukF	Involved in chromosome partioning, Ca2+ binding protein	0,22	0,51	10,88	11,14	3	156	0	-0,375	0
+JW1576	ECK1579	speG	spermidine N1-acetyltransferase	1,03	0,71	049	35,48	4	155	0	-0,439	0
+JW3427	ECK3446	ftsX	predicted transporter subunit -!- membrane component of ABC superfamily	001	0,69	42,64	020	4	155	4	0,192	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3747	ECK3766	ilvC	ketol-acid reductoisomerase, NAD(P)-binding	0,32	0,56	15,65	10,59	4	155	0	-0,205	GO:0005737 cytoplasm
+JW3027	ECK3045	htrG	predicted signal transduction protein (SH3 domain)	1,03	0,41	049	24,27	3	154	1	0.000	GO:0009274 cell wall (sensu Bacteria)
+JW2576	ECK2592	rluD	23S rRNA pseudouridine synthase	0,93	0,41	44,02	16,26	5	153	0	-0,416	GO:0005737 cytoplasm
+JW3165	ECK3187	kdsC	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	0,78	0,24	37,12	26,06	3	153	0	0,239	0
+JW0626	ECK0624	ybeD	conserved protein	14,85	1,35	645,93	55,17	3	152	0	-0,166	0
+JW5380	ECK2318	trmC	fused 5-methylaminomethyl-2-thiouridine forming enzyme methyltransferase -!- FAD-dependent demodification enzyme	0,17	1,42	8,47	5,84	2	151	0	0.000	0
+JW4201	ECK4237	mgtA	magnesium transporter	0,18	0,11	8,96	5,68	3	150	7	0,159	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5714	ECK4038	zur	DNA-binding transcriptional activator, Zn(II)-binding	1,15	-	54,08	26,32	3	150	0	0.000	GO:0005737 cytoplasm
+JW1084	ECK1084	tmk	thymidylate kinase	0,85	0,36	40,34	24,88	4	149	0	-0,202	0
+JW2347	ECK2345	yfdH	"CPS-53 (KpLE1) prophage; bactoprenol glucosyl transferase"	0,54	003	25,99	16,67	3	149	2	0,079	0
+JW0412	ECK0416	xseB	exonuclease VII small subunit	14,85	0,55	645,93	76,25	4	148	0	-0,735	GO:0005737 cytoplasm
+JW3095	ECK3114	garL	alpha-dehydro-beta-deoxy-D-glucarate aldolase	0,47	7,87	22,71	9,38	2	148	0	0,071	0
+JW0729	ECK0728	tolA	membrane anchored protein in TolA-TolQ-TolR complex	0,35	001	17,07	010	3	148	1	-0.001	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1891	ECK1901	yecJ	predicted protein	5,31	-	238,33	54,22	3	147	0	0,082	GO:0005737 cytoplasm
+JW5226	ECK1416	ydcI	predicted DNA-binding transcriptional regulator	0,47	-	22,71	21,17	3	147	0	-0,022	0
+JW1274	ECK1277	yciH	conserved protein	0,58	0,19	27,85	24,07	2	146	0	-0,419	0
+JW0026	ECK0029	fkpB	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	2,16	1,04	99,64	35,57	3	145	0	-0,095	GO:0005737 cytoplasm
+JW5550	ECK3959	murI	glutamate racemase	0,58	0,59	27,85	12,63	3	145	0	0,187	GO:0009274 cell wall (sensu Bacteria)
+JW0202	ECK0212	gloB	predicted hydroxyacylglutathione hydrolase	0,52	1,39	25,05	15,54	2	145	0	-0,227	0
+JW2504	ECK2516	yfhM	conserved protein	0,13	1,45	6,53	4,54	5	145	0	-0,321	0
+JW2161	ECK2167	yeiR	predicted enzyme	0,73	-	34,81	19,82	4	145	0	-0,229	0
+JW2001	ECK2014	hisG	ATP phosphoribosyltransferase	0,37	-	18,01	10,37	2	145	0	-0,145	GO:0005737 cytoplasm
+JW3129	ECK3148	yhbW	predicted enzyme	0,39	0,46	18,96	5,97	2	144	0	-0,166	0
+JW4212	ECK4248	yjgD	conserved protein	30,62	2,69	1302,81	39,13	3	143	0	-0,605	0
+JW5499	ECK3004	dkgA	2,5-diketo-D-gluconate reductase A	0,58	0,63	27,85	15,27	4	143	0	-0,375	GO:0005737 cytoplasm
+JW1226	ECK1233	tdk	thymidine kinase/deoxyuridine kinase	0,39	1,86	18,96	17,56	2	143	0	0.000	0
+JW0117	ECK0120	speE	spermidine synthase (putrescine aminopropyltransferase)	1,51	1,58	70,42	10,76	3	142	0	0.000	0
+JW5601	ECK3777	wzzE	Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein	0,78	0,41	37,12	14,37	4	142	2	-0,354	GO:0019866 inner membrane
+JW0854	ECK0861	ltaE	L-allo-threonine aldolase, PLP-dependent	0,62	0,74	29,71	17,42	4	142	0	-0,128	GO:0005737 cytoplasm
+JW3961	ECK3989	hemE	uroporphyrinogen decarboxylase	0,47	003	22,71	018	3	142	0	-0,156	0
+JW2508	ECK2521	yfhJ	conserved protein	3,64	4,43	165,27	60,61	2	141	0	-0.001	0
+JW5735	ECK4132	dcuA	C4-dicarboxylate antiporter	2,98	001	136,13	5,66	3	141	9	0.001	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1001	ECK1006	putP	proline:sodium symporter	1,78	2,74	083	5,78	2	141	12	0,785	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5600	ECK3778	rffE	UDP-N-acetyl glucosamine-2-epimerase	0,82	0,27	38,96	16,76	5	141	0	-0,151	GO:0005737 cytoplasm
+JW0673	ECK0674	ybfF	conserved protein	0,58	1,02	27,85	13,78	2	141	0	-0,213	0
+JW3042	ECK3061	yqjI	predicted transcriptional regulator	0,93	0,32	44,02	12,56	3	138	0	-0.001	0
+JW1093	ECK1093	nagZ	beta N-acetyl-glucosaminidase	0,62	3,14	29,71	12,32	4	138	0	-0,293	0
+JW0712	ECK0711	sdhD	succinate dehydrogenase, membrane subunit, binds cytochrome b556	315,23	3,87	12491,64	17,39	3	137	3	1,369	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5157	ECK1091	ycfM	predicted outer membrane lipoprotein	1,68	1,15	078	22,54	3	137	0	-0,215	0
+JW5127	ECK0943	ymbA	conserved protein	0,93	0,24	44,02	19,23	2	137	0	-0,158	0
+JW3485	ECK3502	gadA	glutamate decarboxylase A, PLP-dependent	0,35	2,06	17,07	9,66	3	137	0	-0,278	GO:0005737 cytoplasm
+JW3115	ECK3134	yraL	predicted methyltransferase	0,27	0,25	13,27	10,49	2	137	0	-0,168	0
+JW0127	ECK0130	panD	aspartate 1-decarboxylase	16,78	0,99	727,17	21,43	3	136	0	-0,063	GO:0005737 cytoplasm
+JW3147	ECK3169	yhbY	predicted RNA-binding protein	5,31	0,31	238,33	40,21	4	136	0	-0,182	0
+JW4122	ECK4157	rsgA	ribosome small subunit-dependent GTPase A	0,83	0,95	39,42	17,43	4	136	0	-0,405	0
+JW3478	ECK3494	hdeA	stress response protein acid-resistance protein	2,16	-	99,64	54,55	2	136	1	-0,208	0
+JW3993	ECK4025	malF	maltose transporter subunit -!- membrane component of ABC superfamily	001	0,83	24,12	7,59	3	135	8	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5713	ECK4031	ubiC	chorismate pyruvate lyase	0,87	001	41,26	25,45	3	134	0	-0,155	GO:0005737 cytoplasm
+JW1427	ECK1424	ydcL	predicted lipoprotein	0,72	002	34,35	26,58	4	134	0	-0,268	0
+JW4011	ECK4043	qor	quinone oxidoreductase, NADPH-dependent	0,55	0,53	26,45	12,84	3	134	0	-0,059	0
+JW3229	ECK3248	fis	global DNA-binding transcriptional dual regulator	009	1,31	398	32,65	2	133	0	-0,531	GO:0005737 cytoplasm
+JW5733	ECK4129	yjdC	predicted transcriptional regulator	0,93	0,33	44,02	30,89	4	132	0	-0,305	0
+JW2782	ECK2807	ygdK	predicted Fe-S metabolism protein	0,87	0,55	41,26	25,17	3	132	0	-0,086	0
+JW0048	ECK0050	apaH	diadenosine tetraphosphatase	001	0,84	33,42	16,43	3	132	0	-0,246	GO:0005737 cytoplasm
+JW2802	ECK2830	tas	predicted oxidoreductase, NADP(H)-dependent aldo-keto reductase	0,31	0,57	15,17	6,36	2	132	0	-0,323	0
+JW0622	ECK0620	tatE	TatABCE protein translocation system subunit	2,98	0,72	136,13	32,84	2	131	1	0,122	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5567	ECK3877	yihW	predicted DNA-binding transcriptional regulator	0,54	1,27	25,99	15,33	3	131	0	-0,054	0
+JW2552	ECK2566	lepB	leader peptidase (signal peptidase I)	0,72	001	34,35	12,35	4	130	2	-0,156	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5604	ECK3770	rep	DNA helicase and single-stranded DNA-dependent ATPase	0,28	0,34	13,75	8,77	5	130	0	-0,408	GO:0005737 cytoplasm
+JW1489	ECK1488	pqqL	predicted peptidase	0,07	-	3,59	4,19	2	130	1	-0,397	GO:0005737 cytoplasm
+JW5588	ECK3814	yigI	conserved protein	1,37	-	64,08	19,35	3	129	0	-0,008	0
+JW2986	ECK3009	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	1,03	000	049	010	3	128	1	0,073	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3142	ECK3164	secG	preprotein translocase membrane subunit	009	0,92	398	27,27	2	127	2	0,375	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2894	ECK2923	epd	D-erythrose 4-phosphate dehydrogenase	0,39	2,31	18,96	9,73	3	127	0	-0,041	GO:0005737 cytoplasm
+JW4360	ECK4389	creA	conserved protein	0,87	0,48	41,26	18,47	3	126	0	-0,032	0
+JW0023	ECK0026	ribF	bifunctional riboflavin kinase -!- FAD synthetase	0,67	2,52	32,03	18,53	4	124	0	-0,067	GO:0005737 cytoplasm
+JW3942	ECK3966	coaA	pantothenate kinase	0,44	0,36	21,31	11,39	3	124	0	-0,247	0
+JW2944	ECK2971	glcG	conserved protein	1,51	32,51	70,42	26,87	2	123	0	0,158	0
+JW5165	ECK1118	hflD	predicted lysogenization regulator	1,15	001	54,08	20,19	4	123	0	0,127	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3088	ECK3106	tdcB	catabolic threonine dehydratase, PLP-dependent	001	0,66	24,12	10,64	3	123	0	0,043	0
+JW2175	ECK2181	yejL	conserved protein	2,98	-	136,13	028	2	123	0	-0,184	0
+JW2861	ECK2888	dsbC	protein disulfide isomerase II	0,47	0,35	22,71	9,32	2	121	0	-0,103	GO:0042597 periplasmic space
+JW0395	ECK0399	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0,31	0,59	15,17	8,99	2	121	0	-0,129	GO:0005737 cytoplasm
+JW5794	ECK4349	mdoB	phosphoglycerol transferase I	0,28	1,71	13,75	5,64	4	121	4	-0,236	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2752	ECK2775	mazG	nucleoside triphosphate pyrophosphohydrolase	001	0,18	24,12	17,87	3	120	0	-0,515	0
+JW5865	ECK3386	yrfG	predicted hydrolase	1,78	0,34	083	20,72	3	119	0	-0,309	0
+JW0443	ECK0447	ybaY	predicted outer membrane lipoprotein	5,31	3,29	238,33	32,63	3	118	0	0,176	0
+JW4220	ECK4256	yjgR	predicted ATPase	000	0,41	015	013	4	118	0	0.000	0
+JW0870	ECK0878	cydD	fused cysteine transporter subunits -!- membrane component and ATP-binding component of ABC superfamily	0,28	0,49	13,75	8,67	3	118	5	0,162	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0864	ECK0871	cspD	cold shock protein homolog	20,54	11,08	884,64	78,38	3	117	0	-0,197	GO:0005737 cytoplasm
+JW1202	ECK1199	prfA	peptide chain release factor RF-1	0,53	0,25	25,52	013	4	117	0	-0.001	GO:0005737 cytoplasm
+JW4349	ECK4378	lplA	lipoate-protein ligase A	0,33	0,39	16,12	12,72	3	117	0	-0,328	GO:0005737 cytoplasm
+JW0459	ECK0464	dnaX	DNA polymerase III/DNA elongation factor III, tau and gamma subunits	0,16	2,11	7,99	6,22	3	117	0	-0,258	GO:0005737 cytoplasm
+JW0602	ECK0603	rnk	regulator of nucleoside diphosphate kinase	2,16	0,25	99,64	34,56	2	116	0	-0,029	0
+JW4013	ECK4045	alr	alanine racemase 1, PLP-binding, biosynthetic	0,35	0,34	17,07	13,65	3	116	0	-0,106	0
+JW5330	ECK2008	yeeF	predicted amino-acid transporter	1,68	-	078	5,75	3	116	12	0.001	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0766	ECK0772	moaC	molybdopterin biosynthesis, protein C	001	0,95	47,23	19,25	3	115	0	-0,037	0
+JW1842	ECK1854	yebK	predicted DNA-binding transcriptional regulator	0,72	1,32	34,35	013	3	115	0	-0,129	0
+JW1801	ECK1810	pabB	aminodeoxychorismate synthase, subunit I	0,23	0,12	11,36	6,84	2	115	0	-0,289	0
+JW3969	ECK3997	purD	phosphoribosylglycinamide synthetase phosphoribosylamine-glycine ligase	0,78	004	37,12	20,05	5	114	0	-0,071	GO:0005737 cytoplasm
+JW1814	ECK1823	yebO	predicted protein	2,98	0,64	136,13	31,58	3	113	1	-0,044	0
+JW3428	ECK3447	ftsE	predicted transporter subunit -!- ATP-binding component of ABC superfamily	1,28	0,69	060	26,58	4	113	0	-0,077	GO:0005737 cytoplasm
+JW2366	ECK2365	evgA	DNA-binding response regulator in two-component regulatory system with EvgS	0,54	0,51	25,99	20,59	3	113	0	-0,094	GO:0005737 cytoplasm
+JW3506	ECK3523	bcsG	predicted inner membrane protein	0,33	0,66	16,12	6,98	2	113	4	0,022	0
+JW2511	ECK2524	hscB	DnaJ-like molecular chaperone specific for IscU	001	-	33,42	25,15	3	113	0	-0,598	0
+JW2421	ECK2423	yfeU	predicted PTS component	0,26	-	12,79	10,74	2	113	0	0,134	0
+JW2050	ECK2059	dcd	2'-deoxycytidine 5'-triphosphate deaminase	1,78	2,11	083	17,62	3	112	0	-0,162	0
+JW1899	ECK1913	uvrY	DNA-binding response regulator in two-component regulatory system with BarA	0,36	0,62	17,54	16,06	2	112	0	-0,056	0
+JW1950	ECK1963	hchA	Hsp31 molecular chaperone	001	-	47,23	9,89	3	112	0	-0,224	0
+JW2480	ECK2491	yfgD	predicted oxidoreductase	4,18	0,87	188,99	46,22	4	111	0	-0,361	0
+JW4130	ECK4168	hfq	HF-I, host factor for RNA phage Q beta replication	2,16	25,05	99,64	23,53	2	111	0	-0,505	0
+JW0174	ECK0178	lpxD	UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase	001	1,76	33,42	13,78	3	111	0	0,125	0
+JW2284	ECK2283	lrhA	DNA-binding transcriptional repressor	0,36	0,88	17,54	9,62	2	111	0	-0,011	GO:0005737 cytoplasm
+JW1759	ECK1768	ydjF	predicted DNA-binding transcriptional regulator	0,33	0,37	16,12	012	2	111	0	-0,189	0
+JW0934	ECK0942	pqiB	paraquat-inducible protein B	0,23	0,45	11,36	7,69	3	111	1	0.000	0
+JW3675	ECK3690	yidB	conserved protein	2,16	0,43	99,64	34,85	2	110	0	-0,006	0
+JW2261	ECK2260	elaB	conserved protein	0,78	004	37,12	27,72	2	110	1	-0.001	0
+JW0985	ECK0991	cbpA	curved DNA-binding protein, DnaJ homologue that functions as a co-chaperone of DnaK	0,58	2,23	27,85	10,46	2	110	0	-0,592	GO:0005737 cytoplasm
+JW5831	ECK1858	znuA	zinc transporter subunit -!- periplasmic-binding component of ABC superfamily	0,36	0,86	17,54	13,87	2	110	0	-0,211	GO:0042597 periplasmic space
+JW2992	ECK3015	ygiW	conserved protein	2,73	2,38	125,04	26,15	4	109	0	-0,272	0
+JW2455	ECK2466	yffB	conserved protein	0,93	2,24	44,02	22,03	2	108	0	-0,338	0
+JW2404	ECK2407	zipA	cell division protein involved in Z ring assembly	0,67	12,88	32,03	8,54	2	108	1	-0,606	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1694	ECK1702	aroH	3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tryptophan repressible	0,52	0,28	25,05	12,93	4	108	0	-0,315	0
+JW1316	ECK1319	tyrR	DNA-binding transcriptional dual regulator, tyrosine-binding	0,47	0,33	22,71	012	4	108	0	-0,208	GO:0005737 cytoplasm
+JW1042	ECK1040	yceA	conserved protein	0,23	0,11	11,36	7,71	2	108	0	-0,427	0
+JW3979	ECK4011	metH	homocysteine-N5-methyltetrahydrofolate transmethylase, B12-dependent	0,09	0,09	4,57	2,93	2	108	0	-0,249	0
+JW5408	ECK2558	yfhB	conserved protein	0,52	0,25	25,05	10,43	2	107	1	0.000	0
+JW2133	ECK2139	yeiT	predicted oxidoreductase	0,43	001	20,84	11,65	3	107	0	-0,089	0
+JW5847	ECK2886	prfB	peptide chain release factor RF-2	000	2,05	9,92	4,64	2	107	0	-1,008	GO:0005737 cytoplasm
+JW5535	ECK3180	yrbB	predicted protein	2,98	-	136,13	18,56	2	107	0	0,032	0
+JW2927	ECK2955	yggH	tRNA (m7G46) methyltransferase, SAM-dependent	1,37	0,82	64,08	10,04	3	106	0	-0,397	0
+JW2665	ECK2685	yqaB	predicted hydrolase	001	0,66	47,23	23,94	3	106	0	-0,027	0
+JW0385	ECK0389	mak	manno(fructo)kinase	0,58	0,43	27,85	12,25	3	106	0	-0,202	0
+JW0185	ECK0189	yaeP	conserved protein	009	0,88	398	080	3	105	0	0,026	0
+JW1575	ECK1578	ynfB	predicted protein	1,15	4,35	54,08	27,43	2	105	0	-0,746	0
+JW5155	ECK1072	yceF	predicted protein	001	1,82	47,23	22,68	3	105	0	-0,302	0
+JW3460	ECK3478	pitA	phosphate transporter, low-affinity	2,98	0,83	136,13	9,62	5	104	10	0,523	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1756	ECK1765	ansA	cytoplasmic L-asparaginase I	0,58	0,36	27,85	8,28	2	104	0	-0,187	GO:0005737 cytoplasm
+JW0461	ECK0466	recR	gap repair protein	0,67	13,57	32,03	10,95	2	102	0	-0,184	GO:0005737 cytoplasm
+JW1236	ECK1238	oppB	oligopeptide transporter subunit -!- membrane component of ABC superfamily	2,73	3,28	125,04	013	3	100	6	0,767	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0801	ECK0807	mntR	transcriptional regulator of mntH	0,78	0,21	37,12	22,58	3	100	0	-0,377	0
+JW3941	ECK3965	birA	bifunctional biotin-[acetylCoA carboxylase] holoenzyme synthetase -!- DNA-binding transcriptional repressor, bio-5'-AMP-binding	0,27	0,39	13,27	7,48	2	100	0	-0,031	GO:0005737 cytoplasm
+JW4181	ECK4218	ytfP	conserved protein	1,51	0,65	70,42	31,86	2	99	0	-0,514	0
+JW1409	ECK1405	azoR	NADH-azoreductase, FMN-dependent	0,78	0,63	37,12	25,87	3	99	0	0,067	0
+JW5548	ECK3988	nudC	NADH pyrophosphatase	0,33	1,79	16,12	7,78	2	99	0	-0,337	0
+JW5927	ECK3028	ygiB	conserved outer membrane protein	0,47	-	22,71	13,61	2	99	0	-0,601	0
+JW2004	ECK2017	hisB	fused histidinol-phosphatase -!- imidazoleglycerol-phosphate dehydratase	0,41	-	020	8,45	3	99	0	-0,365	0
+JW3248	ECK3273	def	peptide deformylase	1,37	1,03	64,08	19,53	3	98	0	0.000	0
+JW0196	ECK0200	gmhB	D,D-heptose 1,7-bisphosphate phosphatase	001	1,23	47,23	25,13	3	98	0	-0,251	0
+JW0109	ECK0112	pdhR	DNA-binding transcriptional dual regulator	0,52	0,31	25,05	14,57	2	98	0	-0,551	GO:0005737 cytoplasm
+JW3391	ECK3414	glgP	glycogen phosphorylase	0,16	1,59	7,99	5,77	3	98	0	-0,339	GO:0005737 cytoplasm
+JW2773	ECK2797	fucI	L-fucose isomerase	0,19	0,18	9,44	5,08	2	97	0	0.000	0
+JW3783	ECK3805	yigA	conserved protein	0,31	000	15,17	14,47	2	96	0	-0,149	0
+JW5492	ECK2983	yghU	predicted S-transferase	0,54	-	25,99	13,19	3	96	1	-0,403	0
+JW0904	ECK0912	smtA	S-adenosylmethionine-dependent methyltransferase	1,03	1,19	049	16,86	4	94	0	-0,402	0
+JW0768	ECK0774	moaE	molybdopterin synthase, large subunit	0,78	0,16	37,12	29,33	3	94	0	-0,497	0
+JW1859	ECK1871	yecO	predicted methyltransferase	0,72	0,35	34,35	21,86	3	94	0	-0,145	0
+JW2018	ECK2027	wbbJ	predicted acyl transferase	001	1,54	33,42	18,37	3	94	0	0,103	0
+JW1217	ECK1220	narJ	molybdenum-cofactor-assembly chaperone subunit (delta subunit) of nitrate reductase 1	0,64	1,75	30,64	16,53	3	94	0	-0,259	0
+JW3929	ECK3948	argE	acetylornithine deacetylase	0,36	0,27	17,54	8,88	2	94	0	-0,181	GO:0005737 cytoplasm
+JW0855	ECK0862	poxB	pyruvate dehydrogenase (pyruvate oxidase), thiamin-dependent, FAD-binding	0,29	1,86	14,22	7,69	3	94	0	0,008	GO:0005737 cytoplasm
+JW2301	ECK2298	yfcH	conserved protein with NAD(P)-binding Rossmann-fold domain	0,27	001	13,27	12,79	2	94	0	0.000	0
+JW3822	ECK3838	fadB	fused 3-hydroxybutyryl-CoA epimerase/delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/enoyl-CoA hydratase -!- 3-hydroxyacyl-CoA dehydrogenase	0,19	0,88	9,44	6,31	3	94	0	-0,094	0
+JW0105	ECK0108	nadC	quinolinate phosphoribosyltransferase	0,44	0,86	21,31	010	3	93	0	-0,234	0
+JW3904	ECK3925	ftsN	essential cell division protein	0,25	0,48	12,32	6,58	2	93	1	-1,024	GO:0019866 inner membrane
+JW2487	ECK2498	ppx	exopolyphosphatase	0,22	0,47	10,88	8,19	3	93	0	-0,239	0
+JW5952	ECK4284	yjhU	"KpLE2 phage-like element; predicted DNA-binding transcriptional regulator"	0,44	-	21,31	8,84	3	93	0	-0,025	0
+JW2666	ECK2691	csrA	pleiotropic regulatory protein for carbon source metabolism	1,51	11,23	70,42	31,15	2	92	0	-0,257	GO:0005737 cytoplasm
+JW3546	ECK3563	yiaJ	predicted DNA-binding transcriptional repressor	001	000	24,12	13,83	3	92	0	-0,162	0
+JW0848	ECK0855	artP	arginine transporter subunit -!- ATP-binding component of ABC superfamily	1,15	1,09	54,08	12,81	3	91	0	-0,134	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0512	ECK0516	purE	N5-carboxyaminoimidazole ribonucleotide mutase	0,67	3,85	32,03	31,36	2	91	0	0,086	GO:0005737 cytoplasm
+JW0084	ECK0087	murF	UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase	0,33	0,77	16,12	9,07	2	91	0	0,165	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5453	ECK2842	yqeF	predicted acyltransferase	0,25	0,06	12,32	8,65	2	91	0	0,109	0
+JW2988	ECK3011	ygiS	predicted transporter subunit -!- periplasmic-binding component of ABC superfamily	0,17	0,27	8,47	8,04	2	91	0	-0,374	GO:0042597 periplasmic space
+JW5533	ECK3159	yhbC	conserved protein	2,16	0,96	99,64	16,67	3	90	0	0,047	0
+JW4126	ECK4164	yjeE	ATPase with strong ADP affinity	1,68	0,46	078	18,95	2	90	0	-0,086	0
+JW2870	ECK2897	ygfF	predicted NAD(P)-binding oxidoreductase with NAD(P)-binding Rossmann-fold domain	0,67	000	32,03	15,38	2	90	0	0,118	0
+JW5599	ECK3779	rffD	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase	0,41	0,23	020	007	2	90	0	0,065	GO:0009274 cell wall (sensu Bacteria)
+JW1905	ECK1919	fliY	cystine transporter subunit -!- periplasmic-binding component of ABC superfamily	0,35	2,72	17,07	11,28	3	90	0	-0,302	GO:0042597 periplasmic space
+JW0847	ECK0854	artI	arginine transporter subunit -!- periplasmic-binding component of ABC superfamily	0,33	7,04	16,12	15,23	2	90	0	-0,329	GO:0042597 periplasmic space
+JW1179	ECK1178	dadX	alanine racemase 2, PLP-binding	0,55	001	26,45	12,08	3	89	0	-0,026	0
+JW0939	ECK0947	ycbG	conserved protein	0,78	0,82	37,12	18,67	2	88	0	-0,779	0
+JW1714	ECK1723	yniA	predicted phosphotransferase/kinase	0,64	1,67	30,64	15,03	3	88	0	-0,314	0
+JW5598	ECK3780	rffG	dTDP-glucose 4,6-dehydratase	0,25	-	12,32	7,89	2	88	0	0.000	0
+JW3781	ECK3803	yifL	predicted lipoprotein	009	1,52	398	50,75	2	87	1	-0,437	GO:00016020 membrane
+JW4250	ECK4280	fecB	"KpLE2 phage-like element; iron-dicitrate transporter subunit -!- periplasmic-binding component of ABC superfamily"	1,05	3,23	49,52	010	3	87	0	0,026	GO:0042597 periplasmic space
+JW3227	ECK3246	prmA	methylase for 50S ribosomal subunit protein L11	001	0,37	33,42	15,02	3	87	0	-0,065	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW3132	ECK3151	nlpI	conserved protein	0,36	-	17,54	012	2	87	0	-0,321	0
+JW2965	ECK2991	hybO	hydrogenase 2, small subunit	1,15	2,28	54,08	6,72	3	86	1	-0,194	GO:0019866 inner membrane
+JW4110	ECK4145	blc	outer membrane lipoprotein (lipocalin)	0,93	0,34	44,02	24,86	4	86	0	-0,214	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW4015	ECK4047	aphA	acid phosphatase/phosphotransferase, class B, non-specific	0,67	1,76	32,03	17,72	2	86	0	-0,283	GO:0005737 cytoplasm
+JW3204	ECK3224	degS	serine endoprotease, periplasmic	0,43	0,38	20,84	009	2	86	1	0,115	GO:0042597 periplasmic space
+JW3832	ECK3852	dsbA	periplasmic protein disulfide isomerase I	0,39	5,24	18,96	9,62	2	86	0	-0,131	GO:0042597 periplasmic space
+JW0869	ECK0877	cydC	fused cysteine transporter subunits -!- membrane component and ATP-binding component of ABC superfamily	0,32	0,55	15,65	4,89	2	86	6	0,244	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0654	ECK0649	lnt	apolipoprotein N-acyltransferase	0,26	0,14	12,79	6,64	2	86	6	0,273	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0088	ECK0091	murG	N-acetylglucosaminyl transferase	0,26	1,46	12,79	9,86	2	86	0	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5020	ECK0222	fadE	acyl coenzyme A dehydrogenase	0,17	0,54	8,47	6,76	3	86	2	0,006	0
+JW0786	ECK0790	ybiC	predicted dehydrogenase	0,39	0,24	18,96	11,36	2	85	0	-0,084	0
+JW5946	ECK3423	gntR	DNA-binding transcriptional repressor	0,67	-	32,03	10,57	3	85	0	-0,104	GO:0005737 cytoplasm
+JW1707	ECK1715	rpmI	50S ribosomal subunit protein L35	3,64	23,05	165,27	30,77	2	84	0	-0,617	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW5041	ECK0305	ykgE	predicted oxidoreductase	0,36	2,53	17,54	9,62	2	84	0	0,037	0
+JW2770	ECK2794	fucO	L-1,2-propanediol oxidoreductase	0,29	0,37	14,22	8,62	2	84	0	0,086	0
+JW0086	ECK0089	murD	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase	0,22	1,11	10,88	10,05	2	84	1	0,005	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1420	ECK1418	mdoD	glucan biosynthesis protein, periplasmic	0,15	0,36	7,51	8,32	2	84	0	-0,414	GO:0042597 periplasmic space
+JW5566	ECK3878	yihX	predicted hydrolase	0,67	-	32,03	11,56	2	84	0	-0,158	0
+JW5008	ECK0101	yacG	conserved protein	2,16	0,76	99,64	44,62	2	83	0	-0,615	0
+JW5309	ECK1876	yecM	predicted metal-binding enzyme	0,58	0,44	27,85	18,09	2	83	0	0.000	0
+JW0119	ECK0122	cueO	multicopper oxidase (laccase)	0,58	0,47	27,85	7,95	3	83	0	-0,165	0
+JW3146	ECK3168	rrmJ	23S rRNA methyltransferase	0,43	0,87	20,84	013	2	83	0	-0,244	0
+JW3784	ECK3806	xerC	site-specific tyrosine recombinase	0,31	001	15,17	8,39	2	83	0	-0,379	0
+JW3982	ECK4014	yjbC	23S rRNA pseudouridine synthase	0,26	1,71	12,79	8,28	2	83	0	-0,522	0
+JW3157	ECK3179	yrbA	predicted DNA-binding transcriptional regulator	009	0,78	398	038	3	82	0	-0,265	0
+JW0795	ECK0799	glnP	glutamine transporter subunit -!- membrane component of ABC superfamily	0,58	0,44	27,85	9,13	2	82	3	0,877	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2543	ECK2557	tadA	tRNA-specific adenosine deaminase	0,52	-	25,05	14,61	2	82	0	-0,135	0
+JW3811	ECK3828	yigP	conserved protein	0,78	0,73	37,12	13,43	2	81	0	0,021	0
+JW0177	ECK0181	lpxB	tetraacyldisaccharide-1-P synthase	0,45	0,77	21,78	012	3	81	0	-0,007	GO:0009274 cell wall (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW1643	ECK1647	gloA	glyoxalase I, Ni-dependent	0,67	9,54	32,03	10,37	2	80	0	-0,346	0
+JW4311	ECK4338	hsdS	specificity determinant for hsdM and hsdR	0,35	0,52	17,07	010	3	80	0	-0,261	GO:0005737 cytoplasm
+JW0762	ECK0768	uvrB	excinulease of nucleotide excision repair, DNA damage recognition component	0,18	1,05	8,96	5,65	3	80	0	-0,358	GO:0005737 cytoplasm
+JW2796	ECK2824	lgt	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase	0,78	-	37,12	9,28	2	80	5	0,444	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0345	ECK0351	yaiL	nucleoprotein/polynucleotide-associated enzyme	0,47	-	22,71	15,64	2	80	0	-0,473	GO:0005737 cytoplasm
+JW1441	ECK1440	ydcY	predicted protein	1,15	0,78	54,08	51,95	2	79	0	-0,636	0
+JW1447	ECK1446	yncE	conserved protein	0,37	001	18,01	19,26	3	79	0	-0,269	0
+JW3840	ECK3862	glnL	sensory kinase in two-component regulatory system with GlnG	0,44	0,78	21,31	10,03	2	78	0	-0,174	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5895	ECK0261	insH	IS5 element protein	0,27	-	13,27	6,44	2	78	0	-0,585	0
+JW3640	ECK3656	ade	cryptic adenine deaminase	0,17	-	8,47	4,08	2	78	0	-0,035	0
+JW2765	ECK2789	yqcD	conserved protein	0,41	0,67	020	13,48	3	77	0	-0.001	0
+JW2308	ECK2305	ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	0,52	-	25,05	013	2	77	0	0,244	0
+JW1298	ECK1300	pspB	transcriptional regulator of psp operon	3,64	1,88	165,27	35,14	2	76	1	-0,223	GO:0005737 cytoplasm
+JW3002	ECK3025	nudF	ADP-ribose pyrophosphatase	0,39	0,45	18,96	15,31	2	76	0	-0,216	0
+JW0404	ECK0408	ribD	fused diaminohydroxyphosphoribosylaminopyrimidine deaminase -!- 5-amino-6-(5-phosphoribosylamino) uracil reductase	0,21	0,36	010	6,54	2	76	0	-0,229	0
+JW5107	ECK0796	ybiN	predicted SAM-dependent methyltransferase	0,36	-	17,54	6,17	2	76	0	-0,382	0
+JW0952	ECK0960	yccK	predicted sulfite reductase subunit	0,93	0,83	44,02	37,61	2	75	0	-0,304	0
+JW5769	ECK4270	yjhC	"KpLE2 phage-like element; predicted oxidoreductase"	0,33	001	16,12	9,95	2	75	0	-0,266	0
+JW2146	ECK2152	nfo	endonuclease IV with intrinsic 3'-5' exonuclease activity	0,31	0,61	15,17	11,58	2	75	0	-0,204	0
+JW2777	ECK2801	ygdE	predicted methyltransferase	0,23	0,19	11,36	5,19	2	75	0	-0,292	0
+JW5126	ECK0938	ycbX	predicted 2Fe-2S cluster-containing protein	0,18	0,48	8,96	008	2	75	0	0.000	0
+JW2919	ECK2947	yggT	predicted inner membrane protein	2,16	0,47	99,64	16,49	2	74	4	1,191	0
+JW2713	ECK2738	pcm	L-isoaspartate protein carboxylmethyltransferase type II	0,87	1,39	41,26	10,58	3	74	0	-0,158	0
+JW1247	ECK1249	yciC	predicted inner membrane protein	0,93	001	44,02	6,88	2	73	6	1,068	GO:0009274 cell wall (sensu Bacteria)
+JW4336	ECK4365	yjjG	predicted hydrolase	0,78	0,65	37,12	25,78	2	73	0	-0,157	0
+JW3703	ECK3718	pstB	phosphate transporter subunit -!- ATP-binding component of ABC superfamily	0,47	000	22,71	18,68	2	73	0	0.000	GO:0005737 cytoplasm
+JW2456	ECK2467	dapE	N-succinyl-diaminopimelate deacylase	0,27	-	13,27	7,73	2	73	0	-0,066	0
+JW3680	ECK3695	rpmH	50S ribosomal subunit protein L34	099	4,12	4064,14	21,74	3	72	0	-1,111	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0662	ECK0664	nagC	DNA-binding transcriptional dual regulator	0,17	0,72	8,47	4,93	2	72	0	-0,006	GO:0005737 cytoplasm
+JW5267	ECK1638	slyA	DNA-binding transcriptional activator	1,37	4,87	64,08	24,31	2	71	0	-0,277	GO:0005737 cytoplasm
+JW0659	ECK0654	ubiF	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol oxygenase	0,47	0,38	22,71	5,88	2	71	0	0,027	0
+JW5592	ECK3804	dapF	diaminopimelate epimerase	0,47	0,94	22,71	007	2	70	0	0.000	GO:0005737 cytoplasm
+JW0336	ECK0342	lacI	DNA-binding transcriptional repressor	0,29	0,36	14,22	005	2	70	0	0,032	GO:0005737 cytoplasm
+JW0723	ECK0722	cydB	cytochrome d terminal oxidase, subunit II	3,64	2,91	165,27	7,65	3	69	8	0,658	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0880	ECK0888	ycaC	predicted hydrolase	1,51	5,76	70,42	27,88	3	69	0	-0,127	0
+JW1844	ECK1856	lpxM	myristoyl-acyl carrier protein (ACP)-dependent acyltransferase	0,33	0,27	16,12	9,91	2	69	1	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2564	ECK2578	ung	uracil-DNA-glycosylase	0,64	2,58	30,64	11,79	2	68	0	-0,283	GO:0005737 cytoplasm
+JW2860	ECK2887	recJ	ssDNA exonuclease, 5' --> 3'-specific	0,23	0,22	11,36	9,53	3	68	0	-0,069	0
+JW4313	ECK4340	hsdR	endonuclease R	0,08	1,52	4,08	2,61	3	68	0	-0,489	GO:0005737 cytoplasm
+JW3944	ECK3972	secE	preprotein translocase membrane subunit	0,93	0,49	44,02	11,02	2	67	3	0,876	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5118	ECK0885	dmsA	dimethyl sulfoxide reductase, anaerobic, subunit A	0,11	0,29	5,56	3,32	2	67	0	-0,436	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5760	ECK4255	yjgQ	conserved inner membrane protein	0,44	000	21,31	12,22	3	66	6	0.000	GO:0009274 cell wall (sensu Bacteria)
+JW0168	ECK0172	dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase	0,35	001	17,07	6,78	3	66	0	0.000	0
+JW5162	ECK1103	lolD	outer membrane-specific lipoprotein transporter subunit -!- ATP-binding component of ABC superfamily	0,47	0,43	22,71	11,59	2	65	0	-0,182	GO:0005737 cytoplasm
+JW5800	ECK4382	nadR	bifunctional DNA-binding transcriptional repressor -!- NMN adenylyltransferase	0,27	0,51	13,27	9,02	3	65	0	-0,361	0
+JW1838	ECK1850	purT	phosphoribosylglycinamide formyltransferase 2	0,23	001	11,36	6,12	2	65	0	0,056	GO:0005737 cytoplasm
+JW0910	ECK0918	ycbL	predicted metal-binding enzyme	0,78	0,57	37,12	12,09	2	64	0	-0,145	0
+JW2797	ECK2825	ptsP	fused PEP-protein phosphotransferase (enzyme I) of PTS system	0,12	0,42	6,05	4,14	2	64	0	-0,094	0
+JW3162	ECK3184	yrbF	predicted toluene transporter subunit -!- ATP-binding component of ABC superfamily	0,78	0,37	37,12	26,02	3	63	0	0,133	GO:0005737 cytoplasm
+JW3392	ECK3415	glgA	glycogen synthase	0,72	1,31	34,35	13,42	4	63	0	0,003	GO:0005737 cytoplasm
+JW1263	ECK1265	yciK	predicted oxoacyl-(acyl carrier protein) reductase, EmrKY-TolC system	0,58	0,29	27,85	17,06	3	63	0	-0,321	0
+JW4358	ECK4387	ytjC	phosphoglyceromutase 2, co-factor independent	0,47	0,12	22,71	10,23	2	63	1	-0,371	GO:0005737 cytoplasm
+JW1403	ECK1399	ydbC	predicted oxidoreductase, NAD(P)-binding	0,39	0,62	18,96	9,79	2	63	0	0,047	0
+JW5404	ECK2519	sseB	rhodanase-like enzyme, sulfur transfer from thiosulfate	1,78	2,34	083	13,95	3	62	0	-0,176	0
+JW2204	ECK2209	rcsD	phosphotransfer intermediate protein in two-component regulatory system with RcsBC	000	-	5,07	3,37	2	62	1	-0,234	0
+JW1711	ECK1720	ydiY	conserved protein	0,67	0,53	32,03	7,54	2	61	0	-0,501	0
+JW0205	ECK0215	dnaQ	DNA polymerase III epsilon subunit	0,47	0,43	22,71	9,47	2	61	0	-0,162	GO:0005737 cytoplasm
+JW0908	ECK0916	ycbB	predicted carboxypeptidase	0,16	0,56	7,99	4,72	2	61	0	-0,276	0
+JW1243	ECK1245	yciI	predicted enzyme	2,16	-	99,64	19,39	2	61	0	-0,031	0
+JW3715	ECK3730	atpE	F0 sector of membrane-bound ATP synthase, subunit c	009	3,68	398	20,25	2	60	2	1,267	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2714	ECK2739	surE	broad specificity 5'(3')-nucleotidase and polyphosphatase	1,37	2,06	64,08	19,76	3	59	0	-0,075	0
+JW3167	ECK3189	yhbN	predicted transporter subunit -!- periplasmic-binding component of ABC superfamily	1,15	1,28	54,08	13,51	2	59	0	-0,444	0
+JW4092	ECK4125	cadA	lysine decarboxylase 1	0,18	0,18	8,96	4,06	3	59	0	0.000	GO:0005737 cytoplasm
+JW2263	ECK2262	elaC	binuclear zinc phosphodiesterase	0,54	-	25,99	13,77	3	59	0	-0,061	0
+JW1106	ECK1106	cobB	deacetylase of acetyl-CoA synthetase, NAD-dependent	1,15	2,12	54,08	10,39	2	58	0	-0,354	0
+JW3149	ECK3171	dacB	D-alanyl-D-alanine carboxypeptidase	000	0,12	9,92	7,76	2	58	0	-0,051	GO:0009274 cell wall (sensu Bacteria) -!- GO:0042597 periplasmic space
+JW0824	ECK0830	deoR	DNA-binding transcriptional repressor	0,58	-	27,85	7,14	2	58	0	-0,182	GO:0005737 cytoplasm
+JW2326	ECK2323	aroC	chorismate synthase	0,33	001	16,12	12,74	3	57	0	-0,267	0
+JW4177	ECK4214	ytfL	predicted inner membrane protein	0,31	000	15,17	8,28	2	57	4	0,238	0
+JW0454	ECK0459	kefA	fused mechanosensitive channel proteins	0,08	0,41	4,08	1,88	2	57	12	-0,031	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2566	ECK2580	trxC	thioredoxin 2	0,67	-	32,03	23,02	2	57	0	0.000	0
+JW2411	ECK2413	pdxK	pyridoxal-pyridoxamine kinase/hydroxymethylpyrimidine kinase	1,15	1,58	54,08	15,55	3	56	0	0.000	0
+JW4003	ECK4035	lexA	DNA-binding transcriptional repressor	001	1,12	33,42	15,84	2	56	0	-0,241	GO:0005737 cytoplasm
+JW5606	ECK3762	ilvE	branched-chain amino-acid aminotransferase	0,29	-	14,22	9,71	2	55	0	-0,165	0
+JW3193	ECK3213	nanT	sialic acid transporter	1,15	000	54,08	6,45	3	54	12	0,689	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3319	ECK3344	yhfA	conserved protein	0,67	0,48	32,03	17,91	2	54	0	0,069	0
+JW5312	ECK1895	otsA	trehalose-6-phosphate synthase	0,19	001	9,44	4,01	2	54	0	-0,281	0
+JW5313	ECK1918	yedO	D-cysteine desulfhydrase, PLP-dependent	0,43	-	20,84	8,54	2	54	0	0,123	0
+JW1237	ECK1239	oppC	oligopeptide transporter subunit -!- membrane component of ABC superfamily	0,58	1,71	27,85	4,64	2	53	6	0,675	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW4208	ECK4244	yjgJ	predicted transcriptional regulator	0,52	0,18	25,05	15,23	2	53	0	-0,167	0
+JW5189	ECK1194	ychM	predicted transporter	0,43	-	20,84	4,65	2	53	11	0,831	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW4069	ECK4101	phnA	predicted phosphonate metabolizing protein	2,16	1,29	99,64	17,12	2	52	0	-0,532	0
+JW5745	ECK4202	ytfB	predicted cell envelope opacity-associated protein	1,37	2,11	64,08	13,21	3	52	0	-0,574	0
+JW3252	ECK3277	mscL	mechanosensitive channel	1,15	1,54	54,08	11,76	2	52	2	0,499	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2599	ECK2614	yfjF	predicted protein	0,78	0,45	37,12	19,79	2	52	0	-0,584	0
+JW1600	ECK1603	rstA	DNA-bindng response regulator in two-component regulatory system with RstB	0,47	0,32	22,71	10,33	2	52	0	-0,064	GO:0005737 cytoplasm
+JW1477	ECK1476	osmC	osmotically inducible, stress-inducible membrane protein	0,78	1,52	37,12	20,28	2	51	0	-0,122	0
+JW4072	ECK4104	proP	proline/glycine betaine transporter	0,52	000	25,05	003	2	51	12	0,558	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW2318	ECK2315	flk	predicted flagella assembly protein	0,26	0,71	12,79	9,97	2	51	1	-0,308	0
+JW5287	ECK1755	ynjE	predicted thiosulfate sulfur transferase	000	2,43	9,92	4,14	2	51	0	-0,455	0
+JW4352	ECK4381	radA	predicted repair protein	0,19	0,46	9,44	4,57	2	50	0	0,038	0
+JW2482	ECK2493	uraA	uracil transporter	1,15	0,72	54,08	2,56	2	48	12	1,045	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1245	ECK1247	yciA	predicted hydrolase	0,93	0,46	44,02	13,64	2	48	0	0,118	0
+JW3598	ECK3613	rfaK	lipopolysaccharide core biosynthesis	0,17	0,64	8,47	5,32	2	48	0	-0,176	GO:0019866 inner membrane
+JW1750	ECK1759	gdhA	glutamate dehydrogenase, NADP-specific	0,19	0,42	9,44	4,47	2	47	0	-0,158	GO:0005737 cytoplasm
+JW1903	ECK1917	yecS	predicted transporter subunit -!- membrane component of ABC superfamily	0,67	-	32,03	13,51	2	46	3	0,435	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1272	ECK1275	yciM	conserved protein	000	0,24	015	11,05	3	45	0	-0,365	0
+JW0719	ECK0718	mngR	DNA-binding transcriptional dual regulator, fatty-acyl-binding	0,58	0,28	27,85	8,75	3	43	0	-0,563	GO:0005737 cytoplasm
+JW0566	ECK0569	ybdG	predicted mechanosensitive channel	0,41	000	020	4,34	2	43	5	0,301	GO:0042597 periplasmic space
+JW0015	ECK0016	insL	IS186/IS421 transposase	0,37	0,59	18,01	4,32	2	43	0	-0,222	0
+JW5652	ECK3561	avtA	valine-pyruvate aminotransferase	0,29	0,27	14,22	004	2	43	0	-0,065	0
+JW2761	ECK2784	yqcA	predicted flavoprotein	1,15	0,33	54,08	18,79	2	42	0	-0,117	0
+JW1860	ECK1872	yecP	predicted methyltransferase	0,22	0,36	10,88	8,05	2	42	0	-0,241	0
+JW1794	ECK1803	fadD	acyl-CoA synthetase (long-chain-fatty-acid--CoA ligase)	0,19	-	9,44	7,84	2	42	0	-0,098	GO:0009274 cell wall (sensu Bacteria)
+JW1050	ECK1048	yceB	predicted lipoprotein	0,58	0,42	27,85	20,43	2	41	0	-0,142	0
+JW3605	ECK3620	rfaP	kinase that phosphorylates core heptose of lipopolysaccharide	0,23	0,67	11,36	3,77	2	41	0	-0,275	GO:0019866 inner membrane
+JW3984	ECK4016	lysC	aspartokinase III	0,35	0,19	17,07	6,24	2	40	0	0.000	GO:0005737 cytoplasm
+JW2214	ECK2213	atoC	fused response regulator of ato opeon, in two-component system with AtoS	0,15	-	7,51	7,16	2	40	0	-0,168	GO:0005737 cytoplasm
+JW3036	ECK3054	ygjD	predicted peptidase	001	0,29	24,12	11,28	2	39	0	0,015	0
+JW1811	ECK1820	rrmA	23S rRNA m1G745 methyltransferase	0,33	0,22	16,12	10,41	2	39	0	-0,284	GO:0005737 cytoplasm
+JW4355	ECK4384	slt	lytic murein transglycosylase, soluble	000	001	5,07	3,88	2	38	0	-0,503	GO:0009274 cell wall (sensu Bacteria) -!- GO:0042597 periplasmic space
+JW2060	ECK2071	mdtB	multidrug efflux system, subunit B	0,23	-	11,36	1,63	3	37	11	0,376	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW4351	ECK4380	serB	3-phosphoserine phosphatase	0,27	0,59	13,27	6,52	2	35	0	0,091	GO:0005737 cytoplasm
+JW3028	ECK3046	cca	fused tRNA nucleotidyl transferase -!- 2'3'-cyclic phosphodiesterase/2'nucleotidase/phosphatase	0,19	0,19	9,44	6,55	2	35	0	-0,313	GO:0005737 cytoplasm
+JW5402	ECK2506	yfgJ	predicted protein	2,16	-	99,64	36,62	2	35	0	-0,179	0
+JW2432	ECK2434	eutL	predicted carboxysome structural protein with predicted role in ethanolamine utilization	0,67	000	32,03	6,85	2	34	0	0,191	0
+JW1628	ECK1632	pdxY	pyridoxal kinase 2/pyridoxine kinase	0,43	001	20,84	010	2	34	0	0,108	0
+JW5355	ECK2127	pbpG	D-alanyl-D-alanine endopeptidase	0,25	0,42	12,32	9,68	2	33	0	-0,056	GO:0009274 cell wall (sensu Bacteria) -!- GO:0042597 periplasmic space
+JW2037	ECK2046	fcl	bifunctional GDP-fucose synthetase: GDP-4-dehydro-6-deoxy-D-mannose epimerase and GDP-4-dehydro-6-L-deoxygalactose reductase	0,36	-	17,54	7,48	2	33	0	-0,267	GO:0030113 capsule (sensu Bacteria) -!- GO:0005737 cytoplasm
+JW0790	ECK0794	fiu	predicted iron outer membrane transporter	0,13	-	6,53	003	2	33	1	-0,499	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW5871	ECK4336	mcrB	5-methylcytosine-specific restriction enzyme McrBC, subunit McrB	0,19	0,43	9,44	5,66	2	32	0	-0,456	GO:0005737 cytoplasm
+JW1676	ECK1683	ydiI	conserved protein	0,93	1,18	44,02	24,26	2	31	0	-0,064	0
+JW2479	ECK2490	yfgC	predicted peptidase	0,19	0,65	9,44	004	2	31	0	-0,383	0
+JW4083	ECK4115	fumB	anaerobic class I fumarate hydratase (fumarase B)	0,13	0,17	6,53	6,39	2	31	0	-0,316	0
+JW5823	ECK1419	ydcH	predicted protein	0,67	1,73	32,03	22,97	2	30	0	-1,024	0
+JW2699	ECK2724	hypD	protein required for maturation of hydrogenases	0,31	0,41	15,17	006	2	30	0	-0,092	0
+JW0304	ECK0310	betB	betaine aldehyde dehydrogenase, NAD-dependent	0,19	-	9,44	005	2	30	0	-0,079	0
+JW2691	ECK2716	hycE	hydrogenase 3, large subunit	0,13	-	6,53	2,81	2	30	0	-0,354	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0082	ECK0085	ftsI	transpeptidase involved in septal peptidoglycan synthesis (penicillin-binding protein 3)	0,13	5,46	6,53	3,74	2	29	1	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW5892	ECK0143	yadB	glutamyl-Q tRNA(Asp) synthetase	0,29	-	14,22	12,01	2	29	0	-0,272	0
+JW2701	ECK2726	fhlA	DNA-binding transcriptional activator	0,12	-	6,05	6,94	2	29	0	-0,244	GO:0005737 cytoplasm
+JW3725	ECK3740	yieN	fused predicted transcriptional regulators	0,15	1,45	7,51	3,21	2	28	0	-0,219	0
+JW5099	ECK0707	ybgQ	predicted outer membrane protein	0,16	-	7,99	3,07	2	28	0	-0,412	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)
+JW5795	ECK4350	yjjA	conserved protein	0,93	0,65	44,02	15,85	2	27	0	0.000	0
+JW3251	ECK3276	trkA	NAD-binding component of TrK potassium transporter	0,32	0,21	15,65	5,68	2	26	0	-0,015	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW0831	ECK0838	ybjL	predicted transporter	0,44	-	21,31	5,88	2	26	9	0,554	0
+JW2030	ECK2039	wcaK	predicted pyruvyl transferase	0,21	-	010	4,69	2	26	0	-0,018	0
+JW0683	ECK0683	kdpD	fused sensory histidine kinase in two-component regulatory system with KdpE	0,11	0,79	5,56	2,01	2	25	4	0.000	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW1668	ECK1674	ynhG	conserved protein	0,47	0,76	22,71	6,29	2	24	0	-0,235	0
+JW1104	ECK1104	lolE	outer membrane-specific lipoprotein transporter subunit -!- membrane component of ABC superfamily	0,33	1,15	16,12	7,73	2	24	4	0,411	GO:0009274 cell wall (sensu Bacteria) -!- GO:0019866 inner membrane
+JW3038	ECK3056	dnaG	DNA primase	0,14	0,55	7,02	004	2	24	0	-0,389	GO:0005737 cytoplasm
+JW0059	ECK0061	polB	DNA polymerase II	000	0,32	5,07	2,04	2	24	0	-0,451	GO:0005737 cytoplasm
+JW4111	ECK4146	ampC	beta-lactamase/D-alanine carboxypeptidase	0,21	0,15	010	5,04	2	23	0	-0,184	GO:0009274 cell wall (sensu Bacteria) -!- GO:0042597 periplasmic space
+JW1389	ECK1391	paaG	acyl-CoA hydratase	0,33	0,09	16,12	013	2	22	0	-0,094	0
+JW1486	ECK1485	yddW	predicted liprotein	0,17	0,77	8,47	5,47	2	22	0	-0,464	0
+JW5385	ECK2351	yfdN	"CPS-53 (KpLE1) prophage; predicted protein"	0,47	-	22,71	20,73	2	22	0	-0,815	0
+JW3536	ECK3553	xylB	xylulokinase	0,22	0,11	10,88	7,64	2	21	0	-0,092	0
+JW2441	ECK2452	cchA	predicted carboxysome structural protein, ethanolamine utilization protein	1,15	-	54,08	057	2	21	0	0,405	0
+JW0231	ECK0242	phoE	outer membrane phosphoporin protein E	0,26	-	12,79	7,98	2	21	0	-0,574	GO:0009274 cell wall (sensu Bacteria) -!- GO:0009279 external outer membrane (sensu Gram-negative Bacteria)

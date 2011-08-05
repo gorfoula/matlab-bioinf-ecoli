@@ -1,0 +1,1 @@
+1570	1570	1729	Novel: 341			=HYPERLINK("http://www.uniprot.org/uniprot/?query=1570&sort=score")

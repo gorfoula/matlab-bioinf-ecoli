@@ -1,0 +1,526 @@
+Accession (UNIPROT)	Entry Name K12	Entry Name BL21(DE3)	Category	Description	Protein Len	WT Unique Peptides	WT Unique Spectra	WT Total #spectra	Qwt
+P60422	RL2_ECOLI	C6EGE9_ECOBD	A	50S ribosomal protein L2	273	18	27	141	0.290123457
+P0A705	IF2_ECOLI	C6EH57_ECOBD	A	Translation initiation factor IF-2	890	7	7	13	0.265306122
+P0A7V8	RS4_ECOLI	C6EGH0_ECOBD	A	30S ribosomal protein S4	206	19	23	181	0.414187643
+P0ADY3	RL14_ECOLI	C6EGF6_ECOBD	A	50S ribosomal protein L14	123	6	8	15	0.3125
+P0AG44	RL17_ECOLI	C6EGH2_ECOBD	A	50S ribosomal protein L17	127	8	8	33	0.515625
+P13009	METH_ECOLI	C6EE05_ECOBD	A	B12-dependent methionine synthase (EC 2.1.1.13) (Methionine synthase)	1227	6	6	11	0.305555556
+P0A7L3	RL20_ECOLI	C6ECP1_ECOBD	A	50S ribosomal protein L20	118	7	7	45	0.918367347
+P0A7W1	RS5_ECOLI	C6EGG3_ECOBD	A	30S ribosomal protein S5	167	7	7	24	0.489795918
+P0AFG6	ODO2_ECOLI	C6EJL1_ECOBD	A	2-oxoglutarate dehydrogenase. E2 subunit. dihydrolipoamide succinyltransferase (Dihydrolipoamide acetyltransferase) (EC 2.3.1.61)	405	1	1	1	1
+P0AG59	RS14_ECOLI	C6EGF9_ECOBD	A	30S ribosomal protein S14 (Ribosomal protein S14)	101	1	1	8	8
+P0A8T7	RPOC_ECOLI	C6EE31_ECOBD	A	DNA-directed RNA polymerase (EC 2.7.7.6)	1407	16	16	24	0.09375
+P0A7R9	RS11_ECOLI	C6EGG9_ECOBD	A	30S ribosomal protein S11	129	5	5	5	0.2
+P0A7S9	RS13_ECOLI	C6EGG8_ECOBD	A	30S ribosomal protein S13	118	7	7	13	0.265306122
+P0AFP4	YBBO_ECOLI	C6EKX1_ECOBD	A	Short-chain dehydrogenase/reductase SDR	256	3	3	8	0.888888889
+P0ACP1	FRUR_ECOLI	C6EAX5_ECOBD	A	DNA-binding transcriptional dual regulator (Transcriptional regulator. LacI family)	334	2	2	2	0.5
+P62399	RL5_ECOLI	C6EGF8_ECOBD	A	50S ribosomal protein L5	179	8	9	23	0.319444444
+P0A7X3	RS9_ECOLI	C6EH02_ECOBD	A	30S ribosomal protein S9	130	5	5	8	0.32
+P77399	FADJ_ECOLI	C6ELB3_ECOBD	A	Fatty acid oxidation complex subunit alpha	714	4	4	5	0.3125
+P0A7V3	RS3_ECOLI	C6EGF2_ECOBD	A	30S ribosomal protein S3	233	19	22	120	0.28708134
+P21645	LPXD_ECOLI	C6EAA6_ECOBD	A	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.-)	341	1	1	1	1
+P77718	THII_ECOLI	C6EL46_ECOBD	A	tRNA sulfurtransferase (EC 2.8.1.4) (Sulfur carrier protein ThiS sulfurtransferase) (Thiamine biosynthesis protein thiI) (tRNA 4-thiouridine synthase)	482	2	2	2	0.5
+P0AFG3	ODO1_ECOLI	C6EJL2_ECOBD	A	2-oxoglutarate dehydrogenase. E1 subunit (EC 1.2.4.2) (Alpha-ketoglutarate decarboxylase) (EC 1.2.4.2)	933	8	8	11	0.171875
+P00722	BGAL_ECOLI	C6ELN6_ECOBD	A	Beta-D-galactosidase (EC 3.2.1.23) (Beta-galactosidase) (EC 3.2.1.23)	1024	13	14	33	0.181318681
+P36683	ACON2_ECOLI	C6EAT9_ECOBD	A	Aconitate hydratase 2 (EC 4.2.1.3)	865	6	6	6	0.166666667
+P60438	RL3_ECOLI	C6EGE6_ECOBD	A	50S ribosomal protein L3	209	13	13	15	0.088757396
+P0A7M2	RL28_ECOLI	C6EDF4_ECOBD	A	50S ribosomal protein L28	78	1	1	6	6
+									
+P0A7V0	RS2_ECOLI	C6EAB6_ECOBD	A	30S ribosomal protein S2	241	10	11	29	0.263636364
+P0A8J8	RHLB_ECOLI	C6EG33_ECOBD	A	ATP-dependent RNA helicase (DEAD/DEAH box helicase domain protein)	421	7	7	14	0.285714286
+P02413	RL15_ECOLI	C6EGG5_ECOBD	A	50S ribosomal protein L15	144	9	9	53	0.654320988
+P0A7L0	RL1_ECOLI	C6EE35_ECOBD	A	50S ribosomal protein L1	234	9	9	36	0.444444444
+P00579	RPOD_ECOLI	C6EHS8_ECOBD	A	RNA polymerase sigma factor	613	4	4	5	0.3125
+P0A7S3	RS12_ECOLI	C6EGC2_ECOBD	A	30S ribosomal protein S12	124	5	5	16	0.64
+P60723	RL4_ECOLI	C6EGE7_ECOBD	A	50S ribosomal protein L4	201	4	4	7	0.4375
+P0AG48	RL21_ECOLI	C6EH41_ECOBD	A	50S ribosomal protein L21	103	4	4	4	0.25
+P0A6F3	GLPK_ECOLI	C6EEX2_ECOBD	A	Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase) (Glycerokinase)	502	2	2	2	0.5
+P0ACJ8	CRP_ECOLI	C6EGA6_ECOBD	A	DNA-binding transcriptional dual regulator (Transcriptional regulator. Crp/Fnr family)	210	4	4	4	0.25
+P22523	MUKB_ECOLI	C6EI58_ECOBD	A	Chromosome partition protein mukB (Structural maintenance of chromosome-related protein)	1486	2	2	2	0.5
+P0A9P6	DEAD_ECOLI	C6EH63_ECOBD	A	ATP-dependent RNA helicase (DEAD/DEAH box helicase domain protein)	629	8	8	10	0.15625
+P0AB77	KBL_ECOLI	C6EDH2_ECOBD	A	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	398	6	6	6	0.166666667
+P0AG55	RL6_ECOLI	C6EGG1_ECOBD	A	50S ribosomal protein L6	177	8	9	38	0.527777778
+P0AG30	RHO_ECOLI	C6EG30_ECOBD	A	Transcription termination factor Rho	419	14	16	17	0.075892857
+P0AA10	RL13_ECOLI	C6EH01_ECOBD	A	50S ribosomal protein L13	142	4	4	7	0.4375
+P77398	ARNA_ECOLI	C6E9U5_ECOBD	A	Bifunctional polymyxin resistance protein ArnA	660	7	7	12	0.244897959
+P00452	RIR1_ECOLI	C6E9W7_ECOBD	A	Ribonucleoside-diphosphate reductase (EC 1.17.4.1)	761	12	12	17	0.118055556
+P0AG67	RS1_ECOLI	C6EI71_ECOBD	A	30S ribosomal protein S1 (Ribosomal protein S1)	557	3	3	3	0.333333333
+P77748	YDIJ_ECOLI	C6ECR9_ECOBD	A	FAD linked oxidase domain protein (Predicted FAD-linked oxidoreductase)	1018	17	18	31	0.10130719
+P0A7J7	RL11_ECOLI	C6EE36_ECOBD	A	50S ribosomal protein L11	142	6	6	10	0.277777778
+P03023	LACI_ECOLI	C6EJI7_ECOBD	A	Transcriptional regulator. LacI family	363	3	3	3	0.333333333
+P0A6H5	HSLU_ECOLI	C6EE78_ECOBD	A	ATP-dependent protease ATPase subunit HslU (Heat shock protein HslU) (Unfoldase HslU)	443	9	9	11	0.135802469
+P45577	PROQ_ECOLI	C6EBZ8_ECOBD	A	ProQ activator of osmoprotectant transporter ProP (Putative solute/DNA competence effector)	232	2	2	3	0.75
+P0ADT2	YGIB_ECOLI	C6EHV7_ECOBD	A	UPF0441 protein ygiB	223	2	2	3	0.75
+P00957	SYA_ECOLI	C6EJT4_ECOBD	A	Alanyl-tRNA synthetase (EC 6.1.1.7) (Alanine--tRNA ligase)	876	5	5	6	0.24
+P24182	ACCC_ECOLI	C6EGK4_ECOBD	A	Acetyl-CoA carboxylase (EC 6.3.4.14) (Acetyl-CoA carboxylase. biotin carboxylase)	449	2	2	2	0.5
+P0A9B6	E4PD_ECOLI	C6EII2_ECOBD	A	D-erythrose-4-phosphate dehydrogenase (E4PDH) (EC 1.2.1.72)	339	1	1	1	1
+P00968	CARB_ECOLI	C6EB19_ECOBD	A	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase ammonia chain)	1073	7	7	8	0.163265306
+P0A8F0	UPP_ECOLI	C6EKL3_ECOBD	A	Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase) (UPRTase)	208	1	1	1	1
+P0AEI1	MIAB_ECOLI	C6EK34_ECOBD	A	Isopentenyl-adenosine A37 tRNA methylthiolase (tRNA-i(6)A37 thiotransferase enzyme MiaB)	474	2	2	2	0.5
+P0A9H7	CFA_ECOLI	C6ECU2_ECOBD	A	Cyclopropane fatty acyl phospholipid synthase (Unsaturated-phospholipid methyltransferase) (EC 2.1.1.79) (Cyclopropane-fatty-acyl-phospholipid synthase)	382	2	2	2	0.5
+P0A6N4	EFP_ECOLI	C6ECX8_ECOBD	A	Elongation factor P	188	1	1	1	1
+P0ABD5	ACCA_ECOLI	C6EAA0_ECOBD	A	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 6.4.1.2)	319	3	3	3	0.333333333
+P0A7J3	RL10_ECOLI	C6EE34_ECOBD	A	50S ribosomal protein L10	165	5	5	12	0.48
+P0AES6	GYRB_ECOLI	C6ECI0_ECOBD	A	DNA gyrase subunit B (EC 5.99.1.3)	804	6	6	6	0.166666667
+P05791	ILVD_ECOLI	C6EG40_ECOBD	A	Dihydroxy-acid dehydratase (DAD) (EC 4.2.1.9)	616	3	3	3	0.333333333
+P0A9Q5	ACCD_ECOLI	C6ELD7_ECOBD	A	Acetyl-CoA carboxylase subunit beta (EC 6.4.1.2) (Acetyl-CoA carboxylase. carboxyl transferase. beta subunit)	304	3	3	4	0.444444444
+P32132	TYPA_ECOLI	C6EF30_ECOBD	A	GTP-binding protein (GTP-binding protein TypA)	607	2	2	2	0.5
+P0A7T7	RS18_ECOLI	C6ECE7_ECOBD	A	30S ribosomal protein S18	75	2	2	8	2
+P21170	SPEA_ECOLI	C6EIH1_ECOBD	A	Biosynthetic arginine decarboxylase (ADC) (EC 4.1.1.19)	658	1	1	2	2
+P61175	RL22_ECOLI	C6EGF1_ECOBD	A	50S ribosomal protein L22	110	5	5	5	0.2
+P23893	GSA_ECOLI	C6EAD0_ECOBD	A	Glutamate-1-semialdehyde 2.1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase)	426	8	9	10	0.138888889
+P0ABU2	ENGD_ECOLI	C6EGR3_ECOBD	A	GTP-binding protein YchF (Translation-associated GTPase)	363	1	1	1	1
+P27836	WECG_ECOLI	C6EG17_ECOBD	A	Glycosyl transferase. WecB/TagA/CpsF family (EC 2.4.1.187) (Putative UDP-N-acetyl-D-mannosaminuronic acid transferase) (EC 2.4.1.-)	246	9	10	10	0.111111111
+P27247	PLSX_ECOLI	C6EHC4_ECOBD	A	Fatty acid/phospholipid synthesis protein PlsX	346	3	3	3	0.333333333
+P0A9F3	CYSB_ECOLI	C6EFW2_ECOBD	A	DNA-binding transcriptional dual regulator. O-acetyl-L-serine-binding (Transcriptional regulator. LysR family)	324	1	1	1	1
+P37765	RLUB_ECOLI	C6EFW8_ECOBD	A	Pseudouridine synthase (EC 5.4.99.-)	291	1	1	1	1
+P24554	RADA_ECOLI	C6EBI2_ECOBD	A	DNA repair protein radA	460	1	1	1	1
+P23538	PPSA_ECOLI	C6ECQ5_ECOBD	A	Phosphoenolpyruvate synthase (EC 2.7.9.2)	792	5	5	6	0.24
+P0A8R9	HDFR_ECOLI	C6EG46_ECOBD	A	HTH-type transcriptional regulator hdfR (H-NS-dependent flhDC regulator)	279	1	1	1	1
+P27306	STHA_ECOLI	C6EE47_ECOBD	A	Soluble pyridine nucleotide transhydrogenase (STH) (EC 1.6.1.1) (NAD(P)(+) transhydrogenase [B-specific])	466	2	2	2	0.5
+P0A7W7	RS8_ECOLI	C6EGG0_ECOBD	A	30S ribosomal protein S8	130	3	3	4	0.444444444
+P0A717	KPRS_ECOLI	C6EGQ9_ECOBD	A	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	337	5	5	5	0.2
+P76503	FADI_ECOLI	C6ELB2_ECOBD	A	3-ketoacyl-CoA thiolase (EC 2.3.1.16) (ACSs) (Acetyl-CoA acyltransferase) (Acyl-CoA ligase) (Beta-ketothiolase) (Fatty acid oxidation complex subunit beta)	436	1	1	1	1
+P0A850	TIG_ECOLI	C6EL29_ECOBD	A	Trigger factor (TF)	432	2	2	3	0.75
+P07604	TYRR_ECOLI	C6EFQ9_ECOBD	A	DNA-binding transcriptional dual regulator. tyrosine-binding (Transcriptional regulator. TyrR)	513	1	1	1	1
+P0ADY7	RL16_ECOLI	C6EGF3_ECOBD	A	50S ribosomal protein L16	136	1	1	5	5
+P00562	AK2H_ECOLI	C6EE68_ECOBD	A	Aspartate kinase (EC 1.1.1.3) (EC 2.7.2.4) (Bifunctional aspartate kinase II/homoserine dehydrogenase II) (EC 1.1.1.3) (EC 2.7.2.4)	810	3	3	3	0.333333333
+P21507	SRMB_ECOLI	C6EK10_ECOBD	A	ATP-dependent RNA helicase (EC 2.7.7.-) (DEAD/DEAH box helicase domain protein)	444	3	3	5	0.555555556
+P0A6F5	CH60_ECOLI	C6ECY2_ECOBD	A	60 kDa chaperonin (Protein Cpn60) (groEL protein)	548	2	2	2	0.5
+P0AEK2	FABG_ECOLI	C6EHC1_ECOBD	A	3-oxoacyl-(Acyl-carrier-protein) reductase (3-oxoacyl-[acyl-carrier-protein] reductase) (EC 1.1.1.100)	244	4	4	5	0.3125
+P75838	YCAO_ECOLI	C6EI77_ECOBD	A	Putative uncharacterized protein (Putative uncharacterized protein ycaO)	586	2	2	2	0.5
+P0A6M8	EFG_ECOLI	C6EGC4_ECOBD	A	Elongation factor G (EF-G)	704	3	3	3	0.333333333
+									
+P0A6R0	FABH_ECOLI	C6EHC3_ECOBD	A	3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III)	317	2	2	2	0.5
+P62620	ISPG_ECOLI	C6EKJ4_ECOBD	A	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.7.1) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase)	372	5	5	5	0.2
+P0A6K6	DEOB_ECOLI	C6EBI8_ECOBD	A	Phosphopentomutase (EC 5.4.2.7) (Phosphodeoxyribomutase)	407	1	1	1	1
+Q46855	YQHC_ECOLI	C6EHY4_ECOBD	A	Predicted DNA-binding transcriptional regulator (Transcriptional regulator. AraC family)	318	1	1	1	1
+P25741	RFAP_ECOLI	C6EDG1_ECOBD	A	Lipopolysaccharide kinase	265	2	2	2	0.5
+P0C018	RL18_ECOLI	C6EGG2_ECOBD	A	50S ribosomal protein L18	117	3	3	3	0.333333333
+P0A6H1	CLPX_ECOLI	C6EL27_ECOBD	A	ATP-dependent Clp protease ATP-binding subunit ClpX	424	3	3	3	0.333333333
+P09373	PFLB_ECOLI	C6EI79_ECOBD	A	Formate acetyltransferase (EC 2.3.1.54) (Pyruvate formate lyase I) (EC 2.3.1.54)	760	2	2	2	0.5
+P08957	T1MK_ECOLI	C6EBN1_ECOBD	A	DNA methylase M (EC 2.1.1.72) (Site-specific DNA-methyltransferase (Adenine-specific)) (EC 2.1.1.72)	529	2	2	2	0.5
+P60624	RL24_ECOLI	C6EGF7_ECOBD	A	50S ribosomal protein L24	104	2	2	2	0.5
+P0A7R1	RL9_ECOLI	C6ECE6_ECOBD	A	50S ribosomal protein L9	149	2	2	2	0.5
+									
+P17952	MURC_ECOLI	C6EAW4_ECOBD	A	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase)	491	1	1	1	1
+P02359	RS7_ECOLI	C6EGC3_ECOBD	A	30S ribosomal protein S7	156	2	2	2	0.5
+P0A7Z4	RPOA_ECOLI	C6EGH1_ECOBD	A	DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6) (DNA-directed RNA polymerase. alpha subunit)	329	2	2	2	0.5
+P30850	RNB_ECOLI	C6EFU6_ECOBD	A	Exoribonuclease 2 (EC 3.1.13.1) (Exoribonuclease II)	644	2	2	2	0.5
+P24173	RFAC_ECOLI	C6EDG9_ECOBD	A	ADP-heptose:LPS heptosyl transferase I (EC 2.-.-.-) (Lipopolysaccharide heptosyltransferase I)	326	4	4	4	0.25
+P76658	HLDE_ECOLI	C6EHU3_ECOBD	A	Bifunctional protein hldE	477	2	2	2	0.5
+P0AFK0	PMBA_ECOLI	C6ECB4_ECOBD	A	Peptidase U62 modulator of DNA gyrase (Predicted peptidase required for the maturation and secretion of the antibiotic peptide MccB17)	450	1	1	1	1
+P23871	HEMH_ECOLI	C6EKY9_ECOBD	A	Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase)	320	1	1	1	1
+P0A6P9	ENO_ECOLI	C6EJ93_ECOBD	A	Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	432	3	3	3	0.333333333
+P0A7K6	RL19_ECOLI	C6EJY6_ECOBD	A	50S ribosomal protein L19	115	2	3	3	0.5
+P0ADZ0	RL23_ECOLI	C6EGE8_ECOBD	A	50S ribosomal protein L23	100	2	2	2	0.5
+P0AGJ9	SYY_ECOLI	C6EDK8_ECOBD	A	Tyrosyl-tRNA synthetase (EC 6.1.1.1) (Tyrosine--tRNA ligase)	424	2	2	2	0.5
+P0AC33	FUMA_ECOLI	C6EDN6_ECOBD	A	Fumarate hydratase (Fumarase A). aerobic Class I (EC 4.2.1.2) (Hydro-lyase. Fe-S type. tartrate/fumarate subfamily. beta subunit)	548	1	1	1	1
+P08390	USG_ECOLI	C6ELD4_ECOBD	A	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11) (Putative uncharacterized protein usg)	337	1	1	1	1
+P0A7L8	RL27_ECOLI	C6EH42_ECOBD	A	50S ribosomal protein L27	85	1	1	1	1
+P0AGJ5	YFIF_ECOLI	C6EK05_ECOBD	A	Predicted methyltransferase (EC 2.1.1.-) (tRNA/rRNA methyltransferase (SpoU))	345	1	2	2	1
+P75867	LONH_ECOLI	C6EI27_ECOBD	A	Predicted peptidase (Putative ATP-dependent protease)	586	2	2	3	0.75
+P07639	AROB_ECOLI	C6EFI7_ECOBD	A	3-dehydroquinate synthase (EC 4.2.3.4)	362	1	1	1	1
+P37019	CLCA_ECOLI	C6EAC9_ECOBD	B	Chloride channel core (Chloride channel protein)	473	7	9	9	0.142857143
+P02919	PBPB_ECOLI	C6EAD5_ECOBD	B	Penicillin-binding protein 1B (Penicillin-binding protein 1b) (EC 2.4.1.129) (EC 3.4.-.-)	841	34	38	78	0.060371517
+P0AD42	YFHB_ECOLI	C6EK28_ECOBD	B	HAD superfamily (Subfamily IF) hydrolase. YfhB	211	2	2	2	0.5
+P0AFY2	SANA_ECOLI	C6EAG8_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein sanA)	239	2	2	4	1
+P0AD68	FTSI_ECOLI	C6EAX1_ECOBD	B	Peptidoglycan glycosyltransferase (EC 2.4.1.129) (Transpeptidase involved in septal peptidoglycan synthesis (Penicillin-binding protein 3)) (EC 2.4.1.129)	588	21	23	36	0.074534161
+P0ACB7	HEMY_ECOLI	C6EG13_ECOBD	B	HemY protein (Predicted protoheme IX synthesis protein)	398	22	23	71	0.140316206
+P37617	ATZN_ECOLI	C6EFA5_ECOBD	B	Heavy metal translocating P-type ATPase	732	17	20	71	0.208823529
+P77173	ZIPA_ECOLI	C6EL66_ECOBD	B	Cell division protein zipA	328	5	5	8	0.32
+P45537	YHFK_ECOLI	C6EGA5_ECOBD	B	Integral membrane protein. YccS/YhfK family	696	5	6	10	0.333333333
+P13518	CSRD_ECOLI	C6EGK8_ECOBD	B	Conserved inner membrane protein (Diguanylate cyclase/phosphodiesterase)	646	1	1	1	1
+									
+P62517	OPGH_ECOLI	C6EHG3_ECOBD	B	Glycosyl transferase family 2	837	26	31	84	0.104218362
+P76272	YEBT_ECOLI	C6EBZ5_ECOBD	B	Mammalian cell entry related domain protein (Putative uncharacterized protein yebT)	877	21	21	31	0.070294785
+P77304	DTPA_ECOLI	C6EDL1_ECOBD	B	Amino acid/peptide transporter (Putative tripeptide transporter permease)	500	3	5	7	0.466666667
+P0AAD6	SDAC_ECOLI	C6EJ75_ECOBD	B	Predicted serine transporter (Serine transporter)	429	5	9	37	0.822222222
+P0AGA2	SECY_ECOLI	C6EGG6_ECOBD	B	Preprotein translocase subunit secY	443	15	16	62	0.258333333
+P27303	EMRA_ECOLI	C6EJU1_ECOBD	B	Efflux pump membrane protein (Multidrug efflux system)	390	20	22	29	0.065909091
+P76389	YEGH_ECOLI	C6EAP4_ECOBD	B	Fused predicted membrane protein/predicted membrane protein (Integral membrane protein TerC)	527	4	4	8	0.5
+P09127	HEMX_ECOLI	C6EG12_ECOBD	B	Predicted uroporphyrinogen III methylase (EC 2.1.1.107) (Uroporphyrinogen-III C-methyltransferase) (EC 2.1.1.107)	401	32	37	61	0.05152027
+P0AAI3	FTSH_ECOLI	C6EH49_ECOBD	B	ATP-dependent metalloprotease FtsH (EC 3.6.4.3)	647	32	42	232	0.172619048
+P0AAE2	PROY_ECOLI	C6ELI2_ECOBD	B	Amino acid permease-associated region (Predicted cryptic proline transporter)	457	1	1	1	1
+P0AC75	KDTA_ECOLI	C6EDF8_ECOBD	B	3-deoxy-D-manno-octulosonic-acid transferase (Three-deoxy-D-manno-octulosonic-acid transferase domain protein)	425	10	10	14	0.14
+P39835	GNTT_ECOLI	C6EFF9_ECOBD	B	Gluconate transporter (Gluconate transporter. high-affinity GNT I system)	438	5	8	19	0.475
+P0AFK4	POTB_ECOLI	C6EGW6_ECOBD	B	Binding-protein-dependent transport systems inner membrane component	285	1	1	2	2
+P0ABF1	PCNB_ECOLI	C6EAE1_ECOBD	B	Poly(A) polymerase (EC 2.7.7.19)	472	12	12	26	0.180555556
+P0CB39	CPTA_ECOLI	C6EE54_ECOBD	B	Conserved inner membrane protein (Sulfatase)	577	28	34	213	0.223739496
+P0AER3	GLTJ_ECOLI	C6EK41_ECOBD	B	Glutamate and aspartate transporter subunit (Polar amino acid ABC transporter. inner membrane subunit)	246	3	3	4	0.444444444
+P0ADW3	YHCB_ECOLI	C6EGZ9_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein yhcB)	132	9	10	44	0.488888889
+P0ABC9	BETT_ECOLI	C6ELR7_ECOBD	B	Choline transporter of high affinity (Choline/carnitine/betaine transporter)	677	7	7	7	0.142857143
+P0A924	PGPB_ECOLI	C6EFV6_ECOBD	B	Phosphatidylglycerophosphatase (EC 3.1.3.27) (Phosphatidylglycerophosphatase B) (EC 3.1.3.27)	254	1	1	1	1
+P45522	KEFB_ECOLI	C6EGB3_ECOBD	B	Glutathione-regulated potassium-efflux system protein kefB (K(+)/H(+) antiporter) (NEM-activatable K(+)/H(+) antiporter)	601	2	2	2	0.5
+P0AFG8	ODP1_ECOLI	C6EAU3_ECOBD	B	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	887	10	10	21	0.21
+P20966	PTFBC_ECOLI	C6EA31_ECOBD	B	Fused fructose-specific PTS enzymes: IIBcomponent/IIC components (PTS system. fructose subfamily. IIC subunit)	563	21	25	44	0.083809524
+Q47146	FADE_ECOLI	C6EA67_ECOBD	B	Acyl-CoA dehydrogenase (EC 1.3.99.3) (Putative uncharacterized protein)	814	16	19	35	0.115131579
+P0AG99	SECG_ECOLI	C6EH52_ECOBD	B	Preprotein translocase. SecG subunit (Protein-export membrane protein)	110	4	4	8	0.5
+P31801	CHAA_ECOLI	C6EGP8_ECOBD	B	Calcium/proton exchanger (Calcium/sodium:proton antiporter)	366	3	3	6	0.666666667
+P03961	ATKC_ECOLI	C6EJN8_ECOBD	B	Potassium-transporting ATPase C chain (EC 3.6.3.12) (ATP phosphohydrolase [potassium-transporting] C chain) (Potassium-binding and translocating subunit C) (Potassium-translocating ATPase C chain)	190	1	1	1	1
+P11557	DAMX_ECOLI	C6EFI8_ECOBD	B	Putative uncharacterized protein damX (Sporulation domain protein)	428	25	27	124	0.183703704
+P0ABB8	ATMA_ECOLI	C6ECA6_ECOBD	B	Magnesium transporter (EC 3.6.3.1) (Magnesium-translocating P-type ATPase) (EC 3.6.3.2)	898	27	30	69	0.085185185
+P0AG27	YIBN_ECOLI	C6EDH8_ECOBD	B	Predicted rhodanese-related sulfurtransferase (Rhodanese domain protein)	143	6	7	33	0.785714286
+P30845	EPTA_ECOLI	C6ED10_ECOBD	B	Predicted metal dependent hydrolase (Sulfatase)	547	19	21	63	0.157894737
+P09323	PTW3C_ECOLI	C6EJQ6_ECOBD	B	Fused N-acetyl glucosamine specific PTS enzyme: IIC. IIB. and IIA components (EC 2.7.1.69) (PTS system. N-acetylglucosamine-specific IIBC subunit)	648	21	24	57	0.113095238
+P0ABA0	ATPF_ECOLI	C6EG67_ECOBD	B	ATP synthase subunit b	156	21	26	119	0.217948718
+P0ADT8	YGIM_ECOLI	C6EHU0_ECOBD	B	Predicted signal transduction protein (SH3 domain) (SH3 domain protein)	206	9	11	24	0.242424242
+P0AE82	CPXA_ECOLI	C6EEY6_ECOBD	B	Histidine kinase (Two-component sensor protein) (EC 2.7.1.-)	457	16	17	32	0.117647059
+P0AG14	SOHB_ECOLI	C6EFW5_ECOBD	B	Peptidase S49 domain protein (Predicted inner membrane peptidase)	349	6	8	27	0.5625
+P03960	ATKB_ECOLI	C6EJN7_ECOBD	B	Potassium-transporting ATPase B chain (EC 3.6.3.12) (ATP phosphohydrolase [potassium-transporting] B chain) (Potassium-binding and translocating subunit B) (Potassium-translocating ATPase B chain)	682	9	10	11	0.122222222
+P0ABC7	HFLK_ECOLI	C6ECH5_ECOBD	B	HflK protein (Modulator for HflB protease specific for phage lambda cII repressor)	419	27	28	97	0.128306878
+P21345	GLTP_ECOLI	C6ED48_ECOBD	B	Glutamate/aspartate:proton symporter (Sodium:dicarboxylate symporter)	437	6	6	11	0.305555556
+P37652	BCSB_ECOLI	C6EEF1_ECOBD	B	Cellulose synthase subunit B	767	13	13	14	0.082840237
+P08200	IDH_ECOLI	C6EGV5_ECOBD	B	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	416	1	1	1	1
+P0AC44	DHSD_ECOLI	C6EJL5_ECOBD	B	Succinate dehydrogenase cytochrome b556 small membrane subunit (EC 1.3.99.1) (Succinate dehydrogenase. hydrophobic membrane anchor protein)	115	2	2	7	1.75
+P31680	DJLA_ECOLI	C6EAZ8_ECOBD	B	Dna-J like membrane chaperone protein (Heat shock protein DnaJ domain protein)	271	6	6	7	0.194444444
+P19934	TOLA_ECOLI	C6EJJ8_ECOBD	B	Cell envelope integrity inner membrane protein TolA (Protein TolA)	421	18	20	26	0.072222222
+P24205	MSBB_ECOLI	C6EBX2_ECOBD	B	Lipid A biosynthesis (KDO)2-(Lauroyl)-lipid IVA acyltransferase	323	3	3	3	0.333333333
+P02918	PBPA_ECOLI	C6EFI0_ECOBD	B	Fused penicillin-binding protein 1a: murein transglycosylase/murein transpeptidase (EC 2.4.2.-) (EC 3.4.-.-) (Penicillin-binding protein. 1A family) (EC 2.4.1.129)	850	38	43	79	0.048347613
+Q59385	COPA_ECOLI	C6EKY0_ECOBD	B	Copper transporter (EC 3.6.3.10) (Copper-translocating P-type ATPase)	834	17	17	24	0.083044983
+P33232	LLDD_ECOLI	C6EDI4_ECOBD	B	FMN-dependent alpha-hydroxy acid dehydrogenase (L-lactate dehydrogenase. FMN-linked) (EC 1.1.2.3)	396	20	21	38	0.09047619
+P69805	PTND_ECOLI	C6EC11_ECOBD	B	PTS system. mannose/fructose/sorbose family. IID subunit	283	7	7	9	0.183673469
+P77726	YAJR_ECOLI	C6EL42_ECOBD	B	Major facilitator superfamily MFS_1 (Predicted transporter)	454	3	3	6	0.666666667
+P0AD27	YEJM_ECOLI	C6EA09_ECOBD	B	Predicted hydrolase. inner membrane (Sulfatase)	586	9	12	17	0.157407407
+P07001	PNTA_ECOLI	C6EDP5_ECOBD	B	NAD(P) transhydrogenase subunit alpha (EC 1.6.1.2) (NAD(P) transhydrogenase. alpha subunit) (EC 1.6.1.2)	510	24	29	75	0.107758621
+P76399	MDTC_ECOLI	C6EAM9_ECOBD	B	Acriflavin resistance protein (Multidrug efflux system. subunit C)	1025	8	8	8	0.125
+P0AB98	ATP6_ECOLI	C6EG65_ECOBD	B	ATP synthase subunit a (ATP synthase F0 sector subunit a) (F-ATPase subunit 6)	271	1	1	1	1
+P39396	YJIY_ECOLI	C6EBM6_ECOBD	B	Carbon starvation protein CstA (Predicted inner membrane protein)	716	6	6	18	0.5
+P77529	YDJN_ECOLI	C6ECM9_ECOBD	B	Predicted transporter (Sodium:dicarboxylate symporter)	463	8	11	49	0.556818182
+P45800	IGAA_ECOLI	C6EFH7_ECOBD	B	Intracellular growth attenuator IgaA	707	20	22	52	0.118181818
+P37626	YHII_ECOLI	C6EEJ7_ECOBD	B	Predicted HlyD family secretion protein (Secretion protein HlyD family protein)	355	14	15	18	0.085714286
+P0A6J3	CYSZ_ECOLI	C6EL65_ECOBD	B	Protein CysZ	253	3	3	3	0.333333333
+P0AAT4	YBDG_ECOLI	C6EKC4_ECOBD	B	MscS Mechanosensitive ion channel (Predicted mechanosensitive channel)	415	7	7	8	0.163265306
+P23842	YFEA_ECOLI	C6EL75_ECOBD	B	Diguanylate cyclase/phosphodiesterase (Predicted diguanylate cyclase)	729	6	6	6	0.166666667
+P43671	PQIB_ECOLI	C6EI31_ECOBD	B	Mammalian cell entry related domain protein (Paraquat-inducible protein B)	546	19	25	33	0.069473684
+P31119	AAS_ECOLI	C6EJ32_ECOBD	B	2-acyl-glycerophospho-ethanolamine acyltransferase (EC 2.3.1.40) (EC 6.2.1.20) (AMP-dependent synthetase and ligase)	719	11	11	23	0.190082645
+P76576	YFGM_ECOLI	C6EKJ6_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein yfgM)	206	4	4	9	0.5625
+P75958	LOLE_ECOLI	C6EGX4_ECOBD	B	Lipoprotein releasing system. transmembrane protein LolE	412	9	9	13	0.160493827
+P0AEP1	GALP_ECOLI	C6EIG8_ECOBD	B	Sugar transporter	464	5	5	7	0.28
+P0AG90	SECD_ECOLI	C6ELH6_ECOBD	B	Protein-export membrane protein SecD	604	56	76	303	0.071193609
+P31547	METI_ECOLI	C6EA86_ECOBD	B	Binding-protein-dependent transport systems inner membrane component (DL-methionine transporter subunit)	217	2	2	6	1.5
+P08395	SPPA_ECOLI	C6ECJ1_ECOBD	B	Protease IV (Signal peptide peptidase) (EC 3.4.-.-) (Signal peptide peptidase SppA. 67K type)	618	24	28	46	0.068452381
+P37340	MDTK_ECOLI	C6ECU0_ECOBD	B	Multidrug resistance protein mdtK (Multidrug-efflux transporter)	457	2	2	2	0.5
+P0AC78	WECA_ECOLI	C6EG28_ECOBD	B	UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase (EC 2.4.1.-) (Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphatetransferase)	367	3	3	3	0.333333333
+P27434	RODZ_ECOLI	C6EKJ3_ECOBD	B	Putative uncharacterized protein yfgA (Transcriptional regulator. XRE family)	337	21	28	78	0.132653061
+P0AAG5	MDLB_ECOLI	C6EL14_ECOBD	B	ABC transporter related (Fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components)	593	5	5	9	0.36
+P0ABI8	CYOB_ECOLI	C6EL35_ECOBD	B	Cytochrome o ubiquinol oxidase subunit I (EC 1.10.3.-) (Cytochrome o ubiquinol oxidase. subunit I) (EC 1.9.3.1)	663	8	9	30	0.416666667
+P0AD30	YFCA_ECOLI	C6ELC6_ECOBD	B	Conserved inner membrane protein (Putative uncharacterized protein)	269	1	1	1	1
+P32166	MENA_ECOLI	C6EE79_ECOBD	B	1.4-dihydroxy-2-naphthoate octaprenyltransferase	308	2	2	3	0.75
+P23886	CYDC_ECOLI	C6EI96_ECOBD	B	ABC transporter. CydDC cysteine exporter (CydDC-E) family. permease/ATP-binding protein CydC (Fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component)	573	19	21	24	0.060150376
+P0ABU9	TOLQ_ECOLI	C6EJK0_ECOBD	B	Membrane spanning protein in TolA-TolQ-TolR complex (Protein TolQ)	230	6	7	13	0.30952381
+P24177	ACRD_ECOLI	C6EKP2_ECOBD	B	Aminoglycoside/multidrug efflux system (Transporter. hydrophobe/amphiphile efflux-1 (HAE1) family)	1037	7	7	8	0.163265306
+P0ADY1	PPID_ECOLI	C6EL22_ECOBD	B	Peptidyl-prolyl cis-trans isomerase (Rotamase D) (EC 5.2.1.8) (PpiC-type peptidyl-prolyl cis-trans isomerase)	623	44	53	101	0.043310463
+P0AG93	SECF_ECOLI	C6ELH5_ECOBD	B	Protein export protein SecF (Protein-export membrane protein SecF)	323	7	12	56	0.666666667
+P69831	PTKC_ECOLI	C6EAL8_ECOBD	B	Galactitol-specific enzyme IIC component of PTS (PTS system. galactitol-specific IIC subunit)	451	8	11	49	0.556818182
+P0AA47	YEEF_ECOLI	C6EB69_ECOBD	B	Amino acid permease-associated region (Predicted amino-acid transporter)	452	6	6	10	0.277777778
+P37649	YHJK_ECOLI	C6EEF4_ECOBD	B	Diguanylate cyclase/phosphodiesterase with extracellular sensor (Predicted diguanylate cyclase)	649	9	9	13	0.160493827
+P0ABJ9	CYDA_ECOLI	C6EJK5_ECOBD	B	Cytochrome bd ubiquinol oxidase subunit I (Cytochrome d terminal oxidase. subunit I) (EC 1.9.3.-)	522	22	31	97	0.142228739
+P75870	YCCS_ECOLI	C6EI21_ECOBD	B	Putative uncharacterized protein	720	6	7	8	0.19047619
+P27300	LPXK_ECOLI	C6EI67_ECOBD	B	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) (Lipid A 4'-kinase)	328	5	5	5	0.2
+P29018	CYDD_ECOLI	C6EI95_ECOBD	B	ABC transporter. CydDC cysteine exporter (CydDC-E) family. permease/ATP-binding protein CydD (Fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component)	588	14	16	51	0.227678571
+P0AFU2	YFBS_ECOLI	C6ELG1_ECOBD	B	Citrate transporter (Predicted transporter)	610	1	1	1	1
+P0AFE0	NUOJ_ECOLI	C6E9S2_ECOBD	B	NADH dehydrogenase (Quinone) (EC 1.6.99.5) (NADH dehydrogenase subunit J) (EC 1.6.5.3)	184	2	2	8	2
+P15877	DHG_ECOLI	C6EAT3_ECOBD	B	Glucose dehydrogenase (EC 1.1.5.2) (Membrane-bound PQQ-dependent dehydrogenase. glucose/quinate/shikimate family) (EC 1.1.5.2)	796	20	20	25	0.0625
+P25714	OXAA_ECOLI	C6EG98_ECOBD	B	Inner membrane protein oxaA	548	24	34	168	0.205882353
+P0ABJ1	CYOA_ECOLI	C6EL34_ECOBD	B	Cytochrome o ubiquinol oxidase subunit II (EC 1.10.3.-) (Ubiquinol oxidase. subunit II)	315	8	12	36	0.375
+P76372	WZZB_ECOLI	C6EB58_ECOBD	B	Lipopolysaccharide biosynthesis protein	326	14	17	44	0.18487395
+P0ABI4	CORA_ECOLI	C6EFZ7_ECOBD	B	Magnesium and cobalt transport protein CorA (Magnesium/nickel/cobalt transporter)	316	7	8	15	0.267857143
+P69786	PTGCB_ECOLI	C6EGZ1_ECOBD	B	Fused glucose-specific PTS enzymes: IIB component/IIC component (EC 2.7.1.69) (PTS system. glucose-specific IIBC subunit) (EC 2.7.1.69)	477	27	35	137	0.144973545
+P0AF52	YJCD_ECOLI	C6ED60_ECOBD	B	Predicted permease (Xanthine/uracil/vitamin C permease)	449	2	3	4	0.666666667
+P00550	PTM3C_ECOLI	C6EDJ3_ECOBD	B	Fused mannitol-specific PTS enzymes: IIA components/IIB components/IIC components (PTS system. mannitol-specific IIC subunit)	637	14	15	28	0.133333333
+P0ABN1	KDGL_ECOLI	C6EDX8_ECOBD	B	Diacylglycerol kinase (EC 2.7.1.107)	122	3	3	4	0.444444444
+P29131	FTSN_ECOLI	C6EE76_ECOBD	B	Cell division protein FtsN (Essential cell division protein)	319	13	13	38	0.224852071
+P52645	YDBH_ECOLI	C6EEW3_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein ydbH)	879	2	2	2	0.5
+P60752	MSBA_ECOLI	C6EI68_ECOBD	B	Fused lipid transporter subunits of ABC superfamily: membrane component/ATP-binding component (Lipid A ABC exporter. fused ATPase and inner membrane subunits MsbA)	582	25	28	110	0.157142857
+P75777	YBHG_ECOLI	C6EIY7_ECOBD	B	Secretion protein HlyD family protein	331	15	16	17	0.070833333
+P31224	ACRB_ECOLI	C6EL02_ECOBD	B	Multidrug efflux system protein (Transporter. hydrophobe/amphiphile efflux-1 (HAE1) family)	1049	37	48	95	0.053490991
+P0C0L7	PROP_ECOLI	C6ED13_ECOBD	B	Metabolite/H+ symporter. major facilitator superfamily (MFS) (Proline/glycine betaine transporter)	500	10	11	26	0.236363636
+P31433	YICH_ECOLI	C6EDD4_ECOBD	B	AsmA family protein (Putative uncharacterized protein yicH)	569	17	20	25	0.073529412
+P23837	PHOQ_ECOLI	C6EGW2_ECOBD	B	Histidine kinase (Sensory histidine kinase in two-compoent regulatory system with PhoP) (EC 2.7.1.-)	486	6	7	7	0.166666667
+P40719	QSEC_ECOLI	C6EHW7_ECOBD	B	Histidine kinase (Sensory histidine kinase in two-component regulatory system with QseB) (EC 2.7.3.-)	449	9	9	12	0.148148148
+P69428	TATA_ECOLI	C6EF60_ECOBD	B	Twin arginate translocase protein A (Twin-arginine translocation protein. TatA/E family subunit)	89	3	3	5	0.555555556
+P27837	YIFK_ECOLI	C6EG16_ECOBD	B	Amino acid permease-associated region (Predicted transporter)	461	4	4	4	0.25
+P0ADV9	LPTC_ECOLI	C6EH28_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein yrbK)	191	5	5	6	0.24
+P00803	LEP_ECOLI	C6EK19_ECOBD	B	Signal peptidase I (EC 3.4.21.89)	324	13	16	37	0.177884615
+P52101	YFHK_ECOLI	C6EKF1_ECOBD	B	Histidine kinase (Predicted sensory kinase in two-component system)	475	4	4	5	0.3125
+P77338	KEFA_ECOLI	C6EKZ9_ECOBD	B	Fused conserved protein (MscS Mechanosensitive ion channel)	1120	29	29	35	0.041617122
+P33927	CCMF_ECOLI	C6EA04_ECOBD	B	Cytochrome c assembly protein (Heme lyase. CcmF subunit)	647	5	5	6	0.24
+P23894	HTPX_ECOLI	C6EC00_ECOBD	B	Protease HtpX (EC 3.4.24.-) (Heat shock protein HtpX)	293	3	3	16	1.777777778
+P0AFJ7	PITA_ECOLI	C6EEJ2_ECOBD	B	Phosphate transporter (Phosphate transporter. low-affinity)	499	6	6	8	0.222222222
+P33650	FEOB_ECOLI	C6EFG5_ECOBD	B	Ferrous iron transport protein B	773	11	13	32	0.223776224
+P0AEU3	HISM_ECOLI	C6ELE6_ECOBD	B	Histidine/lysine/arginine/ornithine transporter subunit (Polar amino acid ABC transporter. inner membrane subunit)	238	1	1	1	1
+P36672	PTTBC_ECOLI	C6ECA8_ECOBD	B	Fused trehalose(Maltose)-specific PTS enzyme: IIB component/IIC component (PTS system. trehalose-specific IIBC subunit)	473	9	11	32	0.323232323
+P0AD65	PBP2_ECOLI	C6EK58_ECOBD	B	Peptidoglycan glycosyltransferase (EC 2.4.1.129) (Transpeptidase involved in peptidoglycan synthesis (Penicillin-binding protein 2))	633	17	17	19	0.065743945
+P33607	NUOL_ECOLI	C6E9S4_ECOBD	B	NADH dehydrogenase subunit L (EC 1.6.5.3) (Proton-translocating NADH-quinone oxidoreductase. chain L)	613	5	5	8	0.32
+P0AEC0	YOAE_ECOLI	C6EC15_ECOBD	B	Fused predicted membrane protein/conserved protein (Integral membrane protein TerC)	518	2	2	2	0.5
+P0C0S1	MSCS_ECOLI	C6EII5_ECOBD	B	Mechanosensitive channel (MscS Mechanosensitive ion channel)	286	8	9	18	0.25
+P77265	MDLA_ECOLI	C6EL15_ECOBD	B	ABC transporter related (Fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components)	590	9	9	10	0.12345679
+P0AE45	YTFL_ECOLI	C6ECC7_ECOBD	B	Predicted inner membrane protein (Putative uncharacterized protein)	447	9	10	17	0.188888889
+P69380	FIEF_ECOLI	C6EEY3_ECOBD	B	Cation diffusion facilitator family transporter (Ferrous iron efflux protein F)	300	2	2	2	0.5
+P0AFS9	YEBA_ECOLI	C6EBX1_ECOBD	B	Peptidase M23	440	3	3	3	0.333333333
+P0AEE3	DEGS_ECOLI	C6EGZ7_ECOBD	B	Periplasmic serine protease DegS (EC 3.4.21.108) (Serine endoprotease. periplasmic) (EC 3.4.21.-)	355	11	15	29	0.175757576
+P23930	LNT_ECOLI	C6EK38_ECOBD	B	Apolipoprotein N-acyltransferase	512	15	18	26	0.096296296
+P76473	ARNT_ECOLI	C6E9U3_ECOBD	B	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.n1) (4-amino-4-deoxy-L-arabinose lipid A transferase) (Undecaprenyl phosphate-alpha-L-Ara4N transferase)	550	6	6	9	0.25
+P0AEH1	RSEP_ECOLI	C6EAA9_ECOBD	B	Membrane-associated zinc metalloprotease (Zinc metallopeptidase)	450	14	16	23	0.102678571
+P75831	MACB_ECOLI	C6EIA2_ECOBD	B	ABC transporter related (Fused macrolide transporter subunits of ABC superfamily: ATP-binding component/membrane component)	648	9	9	9	0.111111111
+P0A8K8	YIHY_ECOLI	C6EF15_ECOBD	B	Ribonuclease BN	290	5	5	5	0.2
+P0AEC3	ARCB_ECOLI	C6EH17_ECOBD	B	Hybrid sensory histidine kinase in two-component regulatory system with ArcA (EC 2.7.3.-) (Multi-sensor hybrid histidine kinase)	778	10	10	10	0.1
+P23909	MUTS_ECOLI	C6EJD4_ECOBD	B	DNA mismatch repair protein mutS	853	3	3	3	0.333333333
+P39830	YBAL_ECOLI	C6EKY6_ECOBD	B	Potassium efflux system protein (Predicted transporter with NAD(P)-binding Rossmann-fold domain)	558	8	9	12	0.166666667
+P77757	ARNC_ECOLI	C6E9U6_ECOBD	B	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.7.8.n1) (Undecaprenyl-phosphate Ara4FN transferase)	322	16	20	88	0.275
+P14376	RCSC_ECOLI	C6E9Y2_ECOBD	B	Histidine kinase	949	2	2	2	0.5
+P0AFC3	NUOA_ECOLI	C6E9R4_ECOBD	B	NADH-quinone oxidoreductase subunit (EC 1.6.99.5)	147	4	6	23	0.958333333
+P06136	FTSQ_ECOLI	C6EAW2_ECOBD	B	Cell division protein FtsQ (Membrane anchored protein involved in growth of wall at septum)	276	5	6	6	0.2
+P36561	COBS_ECOLI	C6EB80_ECOBD	B	Cobalamin synthase (EC 2.-.-.-)	247	2	2	3	0.75
+P30844	BASS_ECOLI	C6ED12_ECOBD	B	Histidine kinase	366	4	5	5	0.25
+P25396	TEHA_ECOLI	C6EET4_ECOBD	B	C4-dicarboxylate transporter/malic acid transport protein (Potassium-tellurite ethidium and proflavin transporter)	330	2	2	2	0.5
+P0A6A0	UBIB_ECOLI	C6EF61_ECOBD	B	Probable ubiquinone biosynthesis protein ubiB	546	8	8	15	0.234375
+P09835	UHPB_ECOLI	C6EDA1_ECOBD	B	Histidine kinase (EC 2.7.13.3) (Sensory histidine kinase in two-component regulatory sytem with UhpA) (EC 2.7.3.-)	500	2	2	3	0.75
+P0AG00	WZZE_ECOLI	C6EG27_ECOBD	B	Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein (Lipopolysaccharide biosynthesis protein)	348	10	12	22	0.183333333
+P46482	AAEA_ECOLI	C6EGL9_ECOBD	B	p-hydroxybenzoic acid efflux pump subunit AaeA (pHBA efflux pump protein A)	310	5	5	5	0.2
+P39285	YJEP_ECOLI	C6ECW6_ECOBD	B	MscS Mechanosensitive ion channel (Predicted mechanosensitive channel)	1107	24	27	36	0.055555556
+P06282	CDH_ECOLI	C6EEY0_ECOBD	B	CDP-diacylglycerol pyrophosphatase (EC 3.6.1.26) (CDP-diacylglycerol phosphatidylhydrolase) (CDP-diglyceride hydrolase)	251	10	10	18	0.18
+P77307	YBBM_ECOLI	C6EKX3_ECOBD	B	Predicted inner membrane protein (Putative uncharacterized protein)	259	2	2	2	0.5
+P75798	GSIC_ECOLI	C6EIV1_ECOBD	B	Binding-protein-dependent transport systems inner membrane component (Predicted peptide transporter subunit: membrane component of ABC superfamily)	306	3	3	4	0.444444444
+P0AEG1	DPPC_ECOLI	C6EED8_ECOBD	B	Binding-protein-dependent transport systems inner membrane component (Dipeptide transporter)	300	2	2	2	0.5
+P28249	ASMA_ECOLI	C6EAP3_ECOBD	B	AsmA family protein (Predicted assembly protein)	617	14	16	28	0.125
+P75822	YBJT_ECOLI	C6EIB2_ECOBD	B	Conserved protein with NAD(P)-binding Rossmann-fold domain (NAD-dependent epimerase/dehydratase)	476	3	3	3	0.333333333
+P0ABU7	EXBB_ECOLI	C6EHY7_ECOBD	B	Membrane spanning protein in TonB-ExbB-ExbD complex (TonB-system energizer ExbB)	244	6	7	23	0.547619048
+P0AFF2	NUPC_ECOLI	C6EL76_ECOBD	B	Nucleoside (Except guanosine) transporter (Nucleoside transporter)	400	3	4	5	0.416666667
+P0AEX3	KGTP_ECOLI	C6EJZ9_ECOBD	B	Alpha-ketoglutarate transporter (Metabolite/H+ symporter. major facilitator superfamily (MFS))	432	4	5	10	0.5
+Q46836	PPPA_ECOLI	C6EID8_ECOBD	B	Prepilin peptidase (EC 3.4.23.43)	269	1	1	2	2
+P0AC30	FTSX_ECOLI	C6EFB2_ECOBD	B	Predicted transporter subunit: membrane component of ABC superfamily (Protein insertion ABC transporter. inner membrane subunit FtsX)	352	11	14	24	0.155844156
+P0AAA1	YAGU_ECOLI	C6EA36_ECOBD	B	Conserved inner membrane protein (Putative uncharacterized protein)	204	4	4	10	0.625
+P0AF16	MVIN_ECOLI	C6EHE4_ECOBD	B	Integral membrane protein MviN (Predicted inner membrane protein)	511	3	3	3	0.333333333
+P0AG96	SECE_ECOLI	C6EE38_ECOBD	B	Preprotein translocase. SecE subunit (Translocase)	127	2	2	4	1
+P76007	CVRA_ECOLI	C6EGS6_ECOBD	B	Potassium/proton antiporter (Sodium/hydrogen exchanger)	578	3	3	3	0.333333333
+P0ADZ7	YAJC_ECOLI	C6ELH7_ECOBD	B	Preprotein translocase subunit YajC (Preprotein translocase. YajC subunit)	110	7	7	11	0.224489796
+P0ADC3	LOLC_ECOLI	C6EGX6_ECOBD	B	Lipoprotein releasing system. transmembrane protein. LolC/E family (Outer membrane-specific lipoprotein transporter subunit)	399	9	9	12	0.148148148
+P0A9M8	PTA_ECOLI	C6ELF6_ECOBD	B	Phosphate acetyltransferase	714	8	8	8	0.125
+P32703	YJCE_ECOLI	C6ED59_ECOBD	B	Na+/H+ antiporter (Predicted cation/proton antiporter)	549	10	12	19	0.158333333
+P0AGK1	UBIA_ECOLI	C6EDY0_ECOBD	B	4-hydroxybenzoate octaprenyltransferase (EC 2.5.1.-) (4-HB polyprenyltransferase)	290	2	2	2	0.5
+P16926	MREC_ECOLI	C6EGL1_ECOBD	B	Cell wall structural complex MreBCD transmembrane component MreC (Rod shape-determining protein MreC)	367	4	4	5	0.3125
+P60869	YBJL_ECOLI	C6EIQ8_ECOBD	B	Putative transport protein ybjL	561	3	3	3	0.333333333
+P0AEQ6	GLNP_ECOLI	C6EIX2_ECOBD	B	Glutamine ABC transporter permease protein (Polar amino acid ABC transporter. inner membrane subunit)	219	1	1	1	1
+P27896	NARQ_ECOLI	C6EKP3_ECOBD	B	Histidine kinase (EC 2.7.13.3) (Sensory histidine kinase in two-component regulatory system with NarP (NarL)) (EC 2.7.3.-)	566	1	1	1	1
+P0A843	TATE_ECOLI	C6EK66_ECOBD	B	Twin arginine translocase protein E (Twin-arginine translocation protein. TatA/E family subunit)	67	4	4	5	0.3125
+P0AFH2	OPPB_ECOLI	C6EGM3_ECOBD	B	Binding-protein-dependent transport systems inner membrane component (Oligopeptide permease ABC transporter membrane protein)	306	1	1	2	2
+P77549	YFCJ_ECOLI	C6ELD1_ECOBD	B	Major facilitator superfamily MFS_1 (Predicted transporter)	392	2	2	6	1.5
+P0AFH6	OPPC_ECOLI	C6EFZ1_ECOBD	B	Binding-protein-dependent transport systems inner membrane component (Oligopeptide transporter subunit)	302	2	2	2	0.5
+P07117	PUTP_ECOLI	C6EHJ1_ECOBD	B	Proline:sodium symporter (Sodium/proline symporter)	502	3	4	5	0.416666667
+P52094	HISQ_ECOLI	C6ELE5_ECOBD	B	Histidine/lysine/arginine/ornithine transporter subunit (Polar amino acid ABC transporter. inner membrane subunit)	228	1	1	1	1
+P0AFE4	NUOK_ECOLI	C6E9S3_ECOBD	B	NADH-quinone oxidoreductase subunit K (EC 1.6.99.5) (NADH dehydrogenase I subunit K) (NDH-1 subunit K)	100	2	2	2	0.5
+P0ADL3	YICN_ECOLI	C6EDA6_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein yicN)	150	1	1	1	1
+P0ABK2	CYDB_ECOLI	C6EJK4_ECOBD	B	Cytochrome d terminal oxidase. subunit II (EC 1.9.3.-) (Cytochrome d ubiquinol oxidase. subunit II)	379	5	5	5	0.2
+P0A7E5	PYRG_ECOLI	C6EJ92_ECOBD	B	CTP synthase (EC 6.3.4.2) (CTP synthetase) (UTP--ammonia ligase)	545	14	14	15	0.076530612
+P0A6W3	MRAY_ECOLI	C6EAW8_ECOBD	B	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase)	360	2	2	3	0.75
+P0AB67	PNTB_ECOLI	C6EDP6_ECOBD	B	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) (Nicotinamide nucleotide transhydrogenase subunit beta)	462	12	12	29	0.201388889
+P69425	TATB_ECOLI	C6EF59_ECOBD	B	Sec-independent translocase (Twin-arginine translocation protein. TatB subunit)	171	4	4	9	0.5625
+P0AEC5	BARA_ECOLI	C6EJ86_ECOBD	B	Hpt sensor hybrid histidine kinase (Hybrid sensory histidine kinase. in two-component regulatory system with UvrY) (EC 2.7.3.-)	918	2	2	2	0.5
+P0ABC9	BETT_ECOLI	C6EC73_ECOBD	B	Choline/carnitine/betaine transporter	665	3	4	6	0.5
+P0AFR2	YCHM_ECOLI	C6EGR0_ECOBD	B	Sulfate transporter	550	4	4	7	0.4375
+P0ABV6	TOLR_ECOLI	C6EJJ9_ECOBD	B	Membrane spanning protein in TolA-TolQ-TolR complex (Protein TolR)	142	1	1	1	1
+P0AFD4	NUOH_ECOLI	C6E9S0_ECOBD	B	NADH-quinone oxidoreductase subunit H (EC 1.6.99.5) (NADH dehydrogenase I subunit H) (NDH-1 subunit H)	325	3	3	4	0.444444444
+P37615	YHHM_ECOLI	C6EFA7_ECOBD	B	Putative receptor	119	1	1	2	2
+P09391	GLPG_ECOLI	C6EFF0_ECOBD	B	Predicted intramembrane serine protease (Rhomboid protease) (EC 3.4.21.105)	276	3	3	5	0.555555556
+P0AE16	AMPG_ECOLI	C6EL33_ECOBD	B	AmpG-related permease (Muropeptide transporter)	491	1	1	1	1
+P76398	MDTB_ECOLI	C6EAN0_ECOBD	B	Multidrug resistance protein mdtB (Multidrug transporter mdtB)	1040	6	6	6	0.166666667
+P31069	KCH_ECOLI	C6EFY6_ECOBD	B	TrkA-N domain protein (Voltage-gated potassium channel)	417	3	3	3	0.333333333
+P28306	YCEG_ECOLI	C6EHB7_ECOBD	B	Aminodeoxychorismate lyase (Predicted aminodeoxychorismate lyase) (EC 2.7.4.9)	340	5	5	6	0.24
+P60955	LGT_ECOLI	C6EJ41_ECOBD	B	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)	291	1	1	1	1
+P46022	MTGA_ECOLI	C6EH19_ECOBD	B	Monofunctional biosynthetic peptidoglycan transglycosylase (Monofunctional TGase) (EC 2.4.2.-)	242	2	2	4	1
+P27243	RFAL_ECOLI	C6EDG8_ECOBD	B	Lipid A-core. surface polymer ligase (O-antigen polymerase)	417	1	1	1	1
+P0AF98	LPTF_ECOLI	C6EC90_ECOBD	B	Conserved inner membrane protein (Permease YjgP/YjgQ family protein)	366	5	5	8	0.32
+P0A8R7	YCJF_ECOLI	C6EFR0_ECOBD	B	UPF0283 membrane protein ycjF	353	5	6	7	0.233333333
+P03819	KEFC_ECOLI	C6EB06_ECOBD	B	Glutathione-regulated potassium-efflux system protein (Potassium efflux system protein)	620	2	2	2	0.5
+P64585	YQJE_ECOLI	C6EHP4_ECOBD	B	Conserved inner membrane protein (Putative uncharacterized protein)	134	2	2	2	0.5
+P0ABJ3	CYOC_ECOLI	C6EL36_ECOBD	B	Cytochrome o ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome o ubiquinol oxidase. subunit III)	204	1	1	1	1
+P0A742	MSCL_ECOLI	C6EGH6_ECOBD	B	Large-conductance mechanosensitive channel	136	2	2	2	0.5
+P0A830	DCTA_ECOLI	C6EEF5_ECOBD	B	C4-dicarboxylate transport protein (Sodium:dicarboxylate symporter)	428	4	4	8	0.5
+P52067	FSR_ECOLI	C6EKY5_ECOBD	B	Major facilitator superfamily MFS_1 (Predicted fosmidomycin efflux system)	406	2	2	5	1.25
+P60932	UPPP_ECOLI	C6EHT8_ECOBD	B	Undecaprenol kinase (EC 3.6.1.27) (Undecaprenyl pyrophosphate phosphatase)	273	2	2	8	2
+P0AEP3	GALU_ECOLI	C6EGN1_ECOBD	B	Glucose-1-phosphate uridylyltransferase (EC 2.7.7.9) (UTP-glucose-1-phosphate uridylyltransferase)	302	2	2	2	0.5
+P37645	YHJG_ECOLI	C6EEF9_ECOBD	B	AsmA family protein (Predicted outer membrane biogenesis protein)	691	2	2	2	0.5
+P37908	YFJD_ECOLI	C6EJY0_ECOBD	B	Putative uncharacterized protein	420	4	4	4	0.25
+P69801	PTNC_ECOLI	C6EC12_ECOBD	B	Mannose-specific enzyme IIC component of PTS (PTS system. mannose/fructose/sorbose family. IIC subunit)	266	3	3	6	0.666666667
+P39401	OPGB_ECOLI	C6EBL1_ECOBD	B	Phosphoglycerol transferase I (EC 2.7.8.20) (Phosphatidylglycerol--membrane-oligosaccharide glycerophosphotransferase)	763	1	1	1	1
+P0AEY8	MDFA_ECOLI	C6EIU1_ECOBD	B	Major facilitator superfamily MFS_1 (Multidrug efflux system protein)	410	1	1	1	1
+P32705	ACTP_ECOLI	C6ED58_ECOBD	B	Cation/acetate symporter ActP (Acetate permease) (Acetate transporter ActP)	549	3	3	3	0.333333333
+P0ACV4	YCIS_ECOLI	C6EFV5_ECOBD	B	Conserved inner membrane protein (Putative uncharacterized protein)	102	3	3	3	0.333333333
+P63340	YQEG_ECOLI	C6EIP8_ECOBD	B	Predicted transporter (Serine transporter)	409	2	2	2	0.5
+P21865	KDPD_ECOLI	C6EJN9_ECOBD	B	Osmosensitive K channel His kinase sensor	894	1	1	1	1
+P76445	YEIU_ECOLI	C6EA23_ECOBD	B	Phosphoesterase PA-phosphatase related (Undecaprenyl pyrophosphate phosphatase)	237	3	3	5	0.555555556
+P0AAE0	CYCA_ECOLI	C6ECD6_ECOBD	B	Amino acid permease-associated region (D-alanine/D-serine/glycine transporter)	470	5	5	10	0.4
+P0AEJ4	ENVZ_ECOLI	C6EFH0_ECOBD	B	Histidine kinase	450	3	3	3	0.333333333
+P25737	LYSP_ECOLI	C6EAF7_ECOBD	B	Amino acid permease-associated region (Lysine transporter)	489	2	2	2	0.5
+P07650	TYPH_ECOLI	C6EBI9_ECOBD	B	Thymidine phosphorylase (EC 2.4.2.4) (TdRPase)	440	3	3	4	0.444444444
+P09549	DEDD_ECOLI	C6ELD9_ECOBD	B	Putative uncharacterized protein dedD (Sporulation domain protein)	220	5	5	5	0.2
+P0AG71	RMUC_ECOLI	C6EF64_ECOBD	B	Predicted recombination limiting protein (Putative uncharacterized protein)	475	4	4	4	0.25
+P0AGC7	SMP_ECOLI	C6EBI4_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein smp)	214	5	5	15	0.6
+P23876	FEPD_ECOLI	C6EKA5_ECOBD	B	Iron-enterobactin transporter subunit (Transport system permease protein)	334	1	1	1	1
+P69423	TATC_ECOLI	C6EF58_ECOBD	B	Sec-independent protein translocase. TatC subunit (TatABCE protein translocation system subunit)	258	3	3	3	0.333333333
+P0ABN5	DCUA_ECOLI	C6ECY7_ECOBD	B	Anaerobic c4-dicarboxylate antiporter. Dcu family (C4-dicarboxylate antiporter)	433	3	3	3	0.333333333
+P0AFA2	NARX_ECOLI	C6EGP2_ECOBD	B	Histidine kinase (EC 2.7.13.3) (Sensory histidine kinase in two-component regulatory system with NarL) (EC 2.7.3.-)	598	1	1	1	1
+P0ADC6	LPTG_ECOLI	C6EC89_ECOBD	B	Conserved inner membrane protein (Permease YjgP/YjgQ family protein)	360	5	5	10	0.4
+P15993	AROP_ECOLI	C6EAU5_ECOBD	B	Amino acid permease-associated region	456	2	3	5	0.833333333
+P76237	YEAJ_ECOLI	C6EC44_ECOBD	B	Diguanylate cyclase (Predicted diguanylate cyclase)	496	3	3	5	0.555555556
+P64606	MLAE_ECOLI	C6EH33_ECOBD	B	Predicted toluene transporter subunit: membrane component of ABC superfamily (Putative uncharacterized protein)	260	2	2	5	1.25
+P67244	YQHA_ECOLI	C6EHZ0_ECOBD	B	UPF0114 protein yqhA	164	1	1	1	1
+P31466	PURP_ECOLI	C6EG89_ECOBD	B	Predicted inner membrane protein (Xanthine/uracil/vitamin C permease)	445	2	2	2	0.5
+P77179	RNFE_ECOLI	C6EDL4_ECOBD	B	Electron transport complex protein rnfE	231	1	1	2	2
+P36655	DSBD_ECOLI	C6ECY9_ECOBD	B	Thiol:disulfide interchange protein dsbD (EC 1.8.1.8) (Protein-disulfide reductase)	565	3	6	27	1.5
+P0ABG7	RODA_ECOLI	C6EK59_ECOBD	B	Cell cycle protein (Cell wall shape-determining protein)	370	1	1	1	1
+P77504	YBBP_ECOLI	C6EKW8_ECOBD	B	Predicted inner membrane protein (Putative uncharacterized protein)	804	1	1	1	1
+P0ABM9	CCMH_ECOLI	C6EA06_ECOBD	B	Cytochrome C biogenesis protein (Heme lyase. CcmH subunit)	350	3	3	4	0.444444444
+P0AA53	QMCA_ECOLI	C6EKX5_ECOBD	B	Band 7 protein (Predicted protease. membrane anchored)	305	2	2	2	0.5
+P0AFY6	SBMA_ECOLI	C6ELL0_ECOBD	B	Predicted transporter (SbmABacA family protein)	406	3	3	3	0.333333333
+P76185	YDHJ_ECOLI	C6EDK1_ECOBD	B	Secretion protein HlyD family protein (Undecaprenyl pyrophosphate phosphatase)	285	7	8	8	0.142857143
+P37659	YHJU_ECOLI	C6EEE5_ECOBD	B	Cellulose synthase operon protein YhjU (Predicted inner membrane protein)	559	3	3	3	0.333333333
+P76339	YEDV_ECOLI	C6EBA0_ECOBD	B	Heavy metal sensor signal transduction histidine kinase	452	1	1	1	1
+P37642	YHJD_ECOLI	C6EEG1_ECOBD	B	Conserved inner membrane protein (Ribonuclease)	337	2	2	3	0.75
+P39385	YJIN_ECOLI	C6EBP2_ECOBD	B	Conserved inner membrane protein (Putative uncharacterized protein)	426	1	1	1	1
+P0AA82	CODB_ECOLI	C6ELP4_ECOBD	B	Cytosine transporter (NCS1 nucleoside transporter family)	419	2	2	3	0.75
+P0AFA7	NHAB_ECOLI	C6EGT1_ECOBD	B	Na(+)/H(+) antiporter nhaB (Sodium/proton antiporter nhaB)	513	1	1	2	2
+P64429	YPFJ_ECOLI	C6EKN6_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein ypfJ)	287	1	1	1	1
+P0AF43	YJBB_ECOLI	C6EE04_ECOBD	B	Predicted transporter (Sodium-dependent inorganic phosphate (Pi) transporter)	543	2	3	6	1
+P77473	YLAB_ECOLI	C6EL07_ECOBD	B	Conserved inner membrane protein (EAL domain protein)	516	2	2	2	0.5
+P0AFE8	NUOM_ECOLI	C6E9S5_ECOBD	B	NADH dehydrogenase subunit M (EC 1.6.5.3) (Proton-translocating NADH-quinone oxidoreductase. chain M)	509	1	1	1	1
+P0A6H8	CLS_ECOLI	C6EFY7_ECOBD	B	Cardiolipin synthase (CL synthase) (EC 2.7.8.-)	486	3	3	3	0.333333333
+P0AB12	YCCF_ECOLI	C6EI20_ECOBD	B	Conserved inner membrane protein (Putative uncharacterized protein)	148	1	1	1	1
+P33915	YEJE_ECOLI	C6EA18_ECOBD	B	Binding-protein-dependent transport systems inner membrane component (Predicted oligopeptide transporter subunit)	341	1	1	1	1
+P75799	GSID_ECOLI	C6EIV0_ECOBD	B	Binding-protein-dependent transport systems inner membrane component (Predicted peptide transporter subunit: membrane component of ABC superfamily)	303	1	1	1	1
+P0ACV0	HTRB_ECOLI	C6EHF9_ECOBD	B	Lipid A biosynthesis lauroyl (Or palmitoleoyl) acyltransferase (Lipid A biosynthesis lauroyl acyltransferase) (EC 2.3.1.-)	306	2	2	3	0.75
+P38134	ETK_ECOLI	C6EHM6_ECOBD	B	Capsular exopolysaccharide family (EC 2.7.10.2) (Cryptic autophosphorylating protein tyrosine kinase Etk)	726	1	1	1	1
+P0AGH8	PSTC_ECOLI	C6EG76_ECOBD	B	Phosphate ABC transporter. inner membrane subunit PstC (Phosphate transporter subunit)	319	1	1	1	1
+P64423	ZNTB_ECOLI	C6EFP1_ECOBD	B	Mg2 transporter protein CorA family protein (Zinc transporter)	327	3	3	3	0.333333333
+P33015	YEEE_ECOLI	C6EB70_ECOBD	B	Predicted inner membrane protein (Putative uncharacterized protein)	352	1	1	1	1
+P0AEB0	CYSW_ECOLI	C6EL54_ECOBD	B	Sulfate ABC transporter. inner membrane subunit	291	2	2	2	0.5
+P0AFF0	NUON_ECOLI	C6E9S6_ECOBD	B	Proton-translocating NADH-quinone oxidoreductase. chain N	485	1	1	1	1
+P0AC23	FOCA_ECOLI	C6EI78_ECOBD	B	Formate transporter (Formate/nitrite transporter)	285	1	1	1	1
+P33941	YOJI_ECOLI	C6E9Y8_ECOBD	B	Cyclic peptide transporter (Fused predicted multidrug transport subunits of ABC superfamily: membrane component/ATP-binding component)	547	2	2	2	0.5
+P36929	RSMB_ECOLI	C6EGH8_ECOBD	B	16S rRNA m5C967 methyltransferase. S-adenosyl-L-methionine-dependent (EC 2.1.1.61) (Sun protein)	429	1	1	1	1
+P33218	YEBE_ECOLI	C6EBY3_ECOBD	B	Putative uncharacterized protein (Putative uncharacterized protein yebE)	219	1	1	1	1
+P24207	PHEP_ECOLI	C6EKC5_ECOBD	B	Amino acid permease-associated region	470	2	2	2	0.5
+P0AE14	AMPE_ECOLI	C6EAU6_ECOBD	B	Predicted inner membrane protein (Signaling modulator of AmpD. AmpE)	284	1	1	1	1
+P0AB01	YCBC_ECOLI	C6EI62_ECOBD	B	Conserved inner membrane protein (Putative uncharacterized protein)	259	2	2	2	0.5
+P63183	KUP_ECOLI	C6EG56_ECOBD	B	Potassium transporter (Potassium uptake protein)	622	2	2	2	0.5
+P0AD99	BRNQ_ECOLI	C6ELI3_ECOBD	B	Branched-chain amino acid transport system II carrier protein (Predicted branched chain amino acid transporter (LIV-II))	439	1	1	1	1
+P07654	PSTA_ECOLI	C6EG77_ECOBD	B	Phosphate ABC transporter. inner membrane subunit PstA (Phosphate transporter subunit)	296	1	1	1	1
+P39836	YFEH_ECOLI	C6EL69_ECOBD	B	Bile acid:sodium symporter (Predicted inner membrane protein)	332	1	1	1	1
+P0ADK0	YIAF_ECOLI	C6EEC7_ECOBD	E	Putative uncharacterized protein (Putative uncharacterized protein yiaF)	236	10	11	16	0.145454545
+P0AEE1	DCRB_ECOLI	C6EFA2_ECOBD	E	Periplasmic protein (Putative uncharacterized protein)	185	6	6	12	0.333333333
+P28635	METQ_ECOLI	C6EA87_ECOBD	E	DL-methionine transporter subunit (Lipoprotein. YaeC family)	271	18	22	52	0.131313131
+P0AE06	ACRA_ECOLI	C6EL01_ECOBD	E	Efflux transporter. RND family. MFP subunit (Multidrug efflux system)	397	24	31	32	0.043010753
+P04846	NLPA_ECOLI	C6EDB0_ECOBD	E	Cytoplasmic membrane lipoprotein-28 (Lipoprotein. YaeC family)	272	3	3	3	0.333333333
+P21513	RNE_ECOLI	C6EHC9_ECOBD	F1	Fused ribonucleaseE: endoribonuclease/RNA-binding protein/RNA degradosome binding protein (EC 3.1.4.-) (Ribonuclease. Rne/Rng family)	1061	17	19	70	0.216718266
+P10408	SECA_ECOLI	C6EAV7_ECOBD	F1	Protein translocase subunit secA	901	5	5	7	0.28
+P0A8K1	PSD_ECOLI	C6ECW5_ECOBD	F1	Phosphatidylserine decarboxylase proenzyme (EC 4.1.1.65)	322	6	6	6	0.166666667
+P0CE48	EFTU2_ECOLI	C6EE39_ECOBD	F1	Elongation factor Tu	394	27	34	149	0.162309368
+P0ABB0	ATPA_ECOLI	C6EG69_ECOBD	F1	ATP synthase subunit alpha (EC 3.6.3.14) (ATP synthase F1 sector subunit alpha) (F-ATPase subunit alpha)	513	39	46	132	0.073578595
+P60785	LEPA_ECOLI	C6EK18_ECOBD	F1	GTP-binding protein lepA	599	4	4	4	0.25
+P0AC41	DHSA_ECOLI	C6EJL4_ECOBD	F1	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) (Succinate dehydrogenase or fumarate reductase. flavoprotein subunit)	588	28	32	81	0.090401786
+P0A6A8	ACP_ECOLI	C6EHC0_ECOBD	F1	Acyl carrier protein (ACP)	78	1	1	1	1
+P36879	YADG_ECOLI	C6EAT0_ECOBD	F1	ABC transporter related (Predicted transporter subunit: ATP-binding component of ABC superfamily)	308	9	9	9	0.111111111
+P31979	NUOF_ECOLI	C6E9R8_ECOBD	F1	NADH-quinone oxidoreductase. F subunit (EC 1.6.99.5) (NADH:ubiquinone oxidoreductase. chain F) (EC 1.6.5.3)	445	21	25	39	0.074285714
+P08839	PT1_ECOLI	C6EL61_ECOBD	F1	PEP-protein phosphotransferase of PTS system (Enzyme I) (EC 2.7.3.9) (Phosphoenolpyruvate-protein phosphotransferase)	575	12	13	14	0.08974359
+P0ABB4	ATPB_ECOLI	C6EG71_ECOBD	F1	ATP synthase subunit beta (EC 3.6.3.14) (ATP synthase F1 sector subunit beta) (F-ATPase subunit beta)	460	29	40	146	0.125862069
+P0A9V1	LPTB_ECOLI	C6EH26_ECOBD	F1	ABC transporter related (Predicted transporter subunit: ATP-binding component of ABC superfamily)	241	5	5	5	0.2
+P0ABA6	ATPG_ECOLI	C6EG70_ECOBD	F1	ATP synthase gamma chain (ATP synthase F1 sector gamma subunit) (F-ATPase gamma subunit)	287	9	10	31	0.344444444
+P0AFC7	NUOB_ECOLI	C6E9R5_ECOBD	F1	NADH-quinone oxidoreductase subunit B (EC 1.6.99.5) (NADH dehydrogenase I subunit B) (NDH-1 subunit B)	220	9	9	21	0.259259259
+P33916	YEJF_ECOLI	C6EA17_ECOBD	F1	ABC transporter related (Fused predicted oligopeptide transporter subunits of ABC superfamilly: ATP-binding components)	529	4	4	4	0.25
+P23830	PSS_ECOLI	C6EK01_ECOBD	F1	Phosphatidylserine synthase (EC 2.7.8.8) (Phospholipase D/Transphosphatidylase)	451	20	22	37	0.084090909
+P06149	DLD_ECOLI	C6EAH8_ECOBD	F1	D-lactate dehydrogenase (EC 1.1.1.28) (D-lactate dehydrogenase. FAD-binding. NADH independent) (EC 1.1.1.28)	571	3	3	3	0.333333333
+P0A7E1	PYRD_ECOLI	C6EI37_ECOBD	F1	Dihydroorotate dehydrogenase (EC 1.3.5.2) (DHOdehase) (Dihydroorotate oxidase)	336	9	11	13	0.131313131
+P33602	NUOG_ECOLI	C6E9R9_ECOBD	F1	NADH-quinone oxidoreductase (EC 1.6.99.5)	908	40	48	111	0.0578125
+P0ABA4	ATPD_ECOLI	C6EG68_ECOBD	F1	ATP synthase subunit delta (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta)	177	4	5	14	0.7
+P0A9W3	YJJK_ECOLI	C6EBI0_ECOBD	F1	ABC transporter related (Fused predicted transporter subunits of ABC superfamily: ATP-binding components)	555	7	7	7	0.142857143
+P0A7A7	PLSB_ECOLI	C6EDX9_ECOBD	F1	Glycerol-3-phosphate acyltransferase (GPAT) (EC 2.3.1.15)	807	35	39	80	0.058608059
+P69874	POTA_ECOLI	C6EGW5_ECOBD	F1	Putrescine/spermidine ABC transporter ATPase protein (Spermidine/putrescine ABC transporter ATPase subunit)	378	10	10	14	0.14
+P75957	LOLD_ECOLI	C6EGX5_ECOBD	F1	Lipoprotein releasing system. ATP-binding protein (Outer membrane-specific lipoprotein transporter subunit)	233	7	7	9	0.183673469
+P06959	ODP2_ECOLI	C6EAU2_ECOBD	F1	Dihydrolipoamide acetyltransferase (EC 2.3.1.12) (Pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase) (EC 2.3.1.12)	630	5	5	5	0.2
+P37751	YEFI_ECOLI	C6EB51_ECOBD	F1	Glycosyl transferase group 1 (Putative glycosyltransferase WbbC)	370	4	4	6	0.375
+P0AEK4	FABI_ECOLI	C6EFU4_ECOBD	F1	Enoyl-(Acyl carrier protein) reductase (EC 1.3.1.9) (Short-chain dehydrogenase/reductase SDR)	262	1	1	1	1
+P75796	GSIA_ECOLI	C6EIV3_ECOBD	F1	ABC transporter related	623	4	4	17	1.0625
+P33599	NUOCD_ECOLI	C6E9R6_ECOBD	F1	NADH dehydrogenase I. D subunit (NADH:ubiquinone oxidoreductase. chain C.D) (EC 1.6.5.3)	600	28	32	88	0.098214286
+P61889	MDH_ECOLI	C6EGZ6_ECOBD	F1	Malate dehydrogenase (EC 1.1.1.37)	312	2	2	2	0.5
+P07109	HISP_ECOLI	C6ELE7_ECOBD	F1	ABC transporter related (Histidine/lysine/arginine/ornithine transporter subunit)	257	4	4	5	0.3125
+P07014	DHSB_ECOLI	C6EJL3_ECOBD	F1	Succinate dehydrogenase and fumarate reductase iron-sulfur protein (EC 1.3.99.1) (Succinate dehydrogenase. FeS subunit) (EC 1.3.99.1)	238	6	6	8	0.222222222
+P63389	YHES_ECOLI	C6EGB1_ECOBD	F1	ABC transporter related (Fused predicted transporter subunits of ABC superfamily: ATP-binding components)	637	1	1	1	1
+P17443	MURG_ECOLI	C6EAW5_ECOBD	F1	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase)	355	11	12	28	0.212121212
+P0A7B1	PPK_ECOLI	C6EKL0_ECOBD	F1	Polyphosphate kinase (EC 2.7.4.1)	688	3	3	3	0.333333333
+P00393	DHNA_ECOLI	C6EGY3_ECOBD	F1	FAD-dependent pyridine nucleotide-disulphide oxidoreductase (Respiratory NADH dehydrogenase 2/cupric reductase) (EC 1.16.1.-) (EC 1.6.99.3)	434	13	15	35	0.179487179
+P0A6J5	DADA_ECOLI	C6EGS8_ECOBD	F1	D-amino acid dehydrogenase small subunit (EC 1.4.99.1) (D-amino-acid dehydrogenase) (EC 1.4.99.1)	432	7	7	10	0.204081633
+P0A6Q6	FABZ_ECOLI	C6EAA5_ECOBD	F1	(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase ((3R)-hydroxymyristoyl ACP dehydrase) (EC 4.2.1.-)	151	4	4	4	0.25
+P0AFD1	NUOE_ECOLI	C6E9R7_ECOBD	F1	NADH dehydrogenase subunit E (EC 1.6.5.3) (NADH-quinone oxidoreductase. E subunit)	166	2	2	2	0.5
+P0AAH0	PSTB_ECOLI	C6EG78_ECOBD	F1	Phosphate ABC transporter. ATPase subunit (Phosphate transporter subunit)	257	8	9	14	0.194444444
+P10346	GLNQ_ECOLI	C6EIX3_ECOBD	F1	ABC transporter related (Glutamine ABC transporter ATP-binding protein)	240	10	11	17	0.154545455
+P16676	CYSA_ECOLI	C6EL55_ECOBD	F1	Sulfate ABC transporter. ATPase subunit (Sulfate/thiosulfate transporter subunit)	365	2	2	2	0.5
+P0AAF6	ARTP_ECOLI	C6EIB7_ECOBD	F1	Arginine transporter ATP-binding subunit (Arginine transporter subunit)	242	4	5	5	0.25
+P0A9X4	MREB_ECOLI	C6EGL0_ECOBD	F1	Cell shape determining protein. MreB/Mrl family (Cell wall structural complex MreBCD. actin-like component MreB)	347	8	8	11	0.171875
+P0AFD6	NUOI_ECOLI	C6E9S1_ECOBD	F1	NADH-quinone oxidoreductase subunit I (EC 1.6.99.5) (NADH dehydrogenase I subunit I) (NDH-1 subunit I)	180	3	3	5	0.555555556
+P0AFI2	PARC_ECOLI	C6EHX4_ECOBD	F1	DNA topoisomerase IV subunit A (EC 5.99.1.-) (DNA topoisomerase IV. A subunit) (EC 5.99.1.3)	752	4	4	4	0.25
+P77223	RNFB_ECOLI	C6EDL8_ECOBD	F1	Electron transport complex protein rnfB	192	4	4	5	0.3125
+P00363	FRDA_ECOLI	C6ECW9_ECOBD	F1	Fumarate reductase (EC 1.3.99.1) (Fumarate reductase. flavoprotein subunit)	602	6	6	8	0.222222222
+P0A9X1	ZNUC_ECOLI	C6EBW9_ECOBD	F1	ABC transporter related (High-affinity zinc transporter ATPase)	251	3	3	3	0.333333333
+P75829	YBJX_ECOLI	C6EIA4_ECOBD	F1	Putative uncharacterized protein (Putative uncharacterized protein ybjX)	330	2	2	2	0.5
+P13035	GLPD_ECOLI	C6EFE8_ECOBD	F1	FAD dependent oxidoreductase	501	10	11	11	0.1
+P69797	PTNAB_ECOLI	C6EC13_ECOBD	F1	Fused mannose-specific PTS enzymes: IIA component/IIB component (EC 2.7.1.69) (PTS system. mannose/fructose/sorbose family. IIA subunit) (EC 2.7.1.69)	323	3	3	3	0.333333333
+P63386	MLAF_ECOLI	C6EH32_ECOBD	F1	ABC transporter related (Predicted toluene transporter subunit: ATP-binding component of ABC superfamily)	269	6	6	6	0.166666667
+P03004	DNAA_ECOLI	C6ECH7_ECOBD	F1	Chromosomal replication initiator protein dnaA	467	1	1	1	1
+P0A9U3	YBIT_ECOLI	C6EIW2_ECOBD	F1	ABC transporter related (Fused predicted transporter subunits of ABC superfamily: ATP-binding components)	530	2	2	2	0.5
+P77611	RNFC_ECOLI	C6EDL7_ECOBD	F1	Electron transport complex. RnfABCDGE type. C subunit	708	3	3	3	0.333333333
+P10441	LPXB_ECOLI	C6EAA3_ECOBD	F1	Lipid-A-disaccharide synthase (EC 2.4.1.182)	382	3	3	3	0.333333333
+P0A6Y8	DNAK_ECOLI	C6EB40_ECOBD	F1	Chaperone protein DnaK (Molecular chaperone DnaK)	638	4	4	4	0.25
+P26647	PLSC_ECOLI	C6EHX6_ECOBD	F1	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	245	2	3	3	0.5
+P05055	PNP_ECOLI	C6EH61_ECOBD	F1	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	711	1	1	1	1
+P0ABH0	FTSA_ECOLI	C6EAW1_ECOBD	F1	Cell division protein (Cell division protein FtsA)	420	1	1	1	1
+P09546	PUTA_ECOLI	C6EHJ3_ECOBD	F1	Delta-1-pyrroline-5-carboxylate dehydrogenase (Fused DNA-binding transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase) (EC 1.5.1.12) (EC 1.5.99.8)	1320	2	2	2	0.5
+P25746	HFLD_ECOLI	C6EGV9_ECOBD	F1	High frequency lysogenization protein hflD	213	3	4	4	0.333333333
+P0AEZ3	MIND_ECOLI	C6EGU1_ECOBD	F1	Membrane ATPase of the MinC-MinD-MinE system (Septum site-determining protein MinD)	270	2	2	2	0.5
+P0AAG0	DPPD_ECOLI	C6EED9_ECOBD	F1	Dipeptide transporter (Oligopeptide/dipeptide ABC transporter. ATPase subunit)	327	1	1	1	1
+P0A9A6	FTSZ_ECOLI	C6EAW0_ECOBD	F1	Cell division protein ftsZ	383	1	1	1	1
+P0A9R7	FTSE_ECOLI	C6EFB1_ECOBD	F1	Type II (General) Secretory Pathway (IISP) Family protein	222	1	1	1	1
+P0A9P0	DLDH_ECOLI	C6EAU1_ECOBD	F1	Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	474	1	1	1	1
+P30750	METN_ECOLI	C6EA85_ECOBD	F1	D-methionine ABC transporter. ATPase subunit (DL-methionine transporter subunit)	343	3	3	3	0.333333333
+P08506	DACC_ECOLI	C6EIU4_ECOBD	F2	Beta-lactamase (EC 3.5.2.6) (D-alanyl-D-alanine carboxypeptidase (Penicillin-binding protein 6a)) (EC 3.4.16.4)	400	12	12	13	0.090277778
+P76397	MDTA_ECOLI	C6EAN1_ECOBD	F2	Multidrug resistance protein mdtA (Multidrug transporter mdtA)	415	8	8	9	0.140625
+P77804	YDGA_ECOLI	C6EDN4_ECOBD	F2	Putative uncharacterized protein (Putative uncharacterized protein ydgA)	502	23	26	29	0.048494983
+P75830	MACA_ECOLI	C6EIA3_ECOBD	F2	Efflux transporter. RND family. MFP subunit (Macrolide transporter subunit. membrane fusion protein (MFP) component)	371	10	10	10	0.1
+P0AEB2	DACA_ECOLI	C6EK61_ECOBD	F2	Beta-lactamase (EC 3.5.2.6) (D-alanyl-D-alanine carboxypeptidase (Penicillin-binding protein 5)) (EC 3.4.16.4)	403	12	13	16	0.102564103
+P37690	YIBP_ECOLI	C6EDH6_ECOBD	G	Peptidase M23 (Protease with a role in cell division)	419	10	10	10	0.1
+P64604	MLAD_ECOLI	C6EH34_ECOBD	G	Mammalian cell entry related domain protein (Predicted ABC-type organic solvent transporter)	183	15	20	53	0.176666667
+P0AB58	YCIM_ECOLI	C6EFV4_ECOBD	G	Putative uncharacterized protein yciM (Tetratricopeptide domain protein)	389	5	6	6	0.2
+P77285	RNFG_ECOLI	C6EDL5_ECOBD	G	Electron transport complex protein RnfG (Electron transport complex. RnfABCDGE type. G subunit)	206	4	4	5	0.3125
+P02930	TOLC_ECOLI	C6EHV8_ECOBD	H	Outer membrane channel protein (Type I secretion outer membrane protein. TolC family)	493	27	35	79	0.083597884
+P0A910	OMPA_ECOLI	C6EI25_ECOBD	H	"OmpA domain protein transmembrane region-containing protein (Outer membrane protein A (3a;II*;G;d))"	346	21	24	72	0.142857143
+P0A940	YAET_ECOLI	C6EAA8_ECOBD	H	Outer membrane protein assembly complex. YaeT protein (Putative uncharacterized protein yaeT)	810	30	30	32	0.035555556
+P31554	LPTD_ECOLI	C6EAZ9_ECOBD	H	LPS-assembly protein lptD (Organic solvent tolerance protein)	784	28	29	35	0.043103448
+P0A917	OMPX_ECOLI	C6EIW8_ECOBD	H	Outer membrane protein X (Virulence-related outer membrane protein)	171	6	6	7	0.194444444
+P02931	OMPF_ECOLI	C6EI53_ECOBD	H	"Outer membrane porin 1a (Ia;b;F) (Porin Gram-negative type)"	362	23	28	149	0.23136646
+P13036	FECA_ECOLI	C6EC65_ECOBD	H	Ferric citrate outer membrane transporter (TonB-dependent siderophore receptor)	774	4	4	9	0.5625
+P76115	YNCD_ECOLI	C6EER2_ECOBD	H	Predicted iron outer membrane transporter (TonB-dependent receptor)	700	3	3	3	0.333333333
+P0ADE4	YTFM_ECOLI	C6ECC5_ECOBD	H	Predicted outer membrane protein and surface antigen (Surface antigen (D15))	577	6	6	6	0.166666667
+P05825	FEPA_ECOLI	C6EKB2_ECOBD	H	Iron-enterobactin outer membrane transporter (TonB-dependent siderophore receptor)	746	2	2	2	0.5
+P0A905	SLYB_ECOLI	C6EDK4_ECOBD	I	17 kDa surface antigen (Outer membrane lipoprotein)	155	5	6	11	0.366666667
+P0AB38	YCFM_ECOLI	C6EGY7_ECOBD	I	Membrane lipoprotein lipid attachment site (Predicted outer membrane lipoprotein)	213	4	5	6	0.3
+P0ADC1	LPTE_ECOLI	C6EK52_ECOBD	I	Minor lipoprotein (Rare lipoprotein B)	193	7	8	16	0.285714286
+P69776	LPP_ECOLI	C6ECS8_ECOBD	I	LPP repeat-containing protein (Murein lipoprotein)	78	3	4	37	3.083333333
+P0AC02	YFIO_ECOLI	C6EJZ5_ECOBD	I	Outer membrane assembly lipoprotein YfiO (Predicted lipoprotein)	245	5	5	5	0.2
+P61320	LOLB_ECOLI	C6EGQ7_ECOBD	I	Outer-membrane lipoprotein lolB	207	3	3	3	0.333333333
+P77330	BORD_ECOLI	C6EKD4_ECOBD	I	Bor family protein (Predicted lipoprotein)	97	3	3	10	1.111111111
+P0A903	NLPB_ECOLI	C6EKN4_ECOBD	I	Lipoprotein (NlpBDapX family lipoprotein)	344	7	8	11	0.196428571
+P45464	YRAM_ECOLI	C6EH78_ECOBD	I	LppC family lipoprotein (Putative uncharacterized protein yraM)	678	4	4	4	0.25
+P77774	YFGL_ECOLI	C6EKJ7_ECOBD	I	Outer membrane assembly lipoprotein YfgL (Protein assembly complex. lipoprotein component)	392	9	9	10	0.12345679
+P10100	RLPA_ECOLI	C6EK60_ECOBD	I	Minor lipoprotein (Rare lipoprotein A)	362	4	4	4	0.25
+P0ADA5	YAJG_ECOLI	C6EL32_ECOBD	I	Predicted lipoprotein (Uncharacterized lipoprotein)	192	3	3	3	0.333333333
+P25894	YGGG_ECOLI	C6EIH3_ECOBD	I	Peptidase M48 Ste24p	252	1	1	1	1
+P0A912	PAL_ECOLI	C6EJJ6_ECOBD	I	Peptidoglycan-associated lipoprotein (Peptidoglycan-associated outer membrane lipoprotein)	173	2	2	5	1.25
+P76537	YFEY_ECOLI	C6EKS2_ECOBD	I	Putative uncharacterized protein (Putative uncharacterized protein yfeY)	191	1	1	1	1
+P76506	MLAA_ECOLI	C6ELA7_ECOBD	I	Predicted lipoprotein (VacJ family lipoprotein)	251	3	3	3	0.333333333
+P0AFB1	NLPI_ECOLI	C6EH62_ECOBD	I	Putative uncharacterized protein nlpI (Tetratricopeptide TPR_2 repeat protein)	294	1	1	1	1
+P69411	RCSF_ECOLI	C6EA88_ECOBD	I	Outer membrane lipoprotein (Predicted outer membrane protein. signal)	134	3	3	3	0.333333333
+P37665	YIAD_ECOLI	C6EEC9_ECOBD	I	OmpA/MotB domain protein (Predicted outer membrane lipoprotein)	219	5	6	7	0.233333333
+P0ADA3	NLPD_ECOLI	C6EJC5_ECOBD	I	Peptidase M23 (Predicted outer membrane lipoprotein)	379	2	2	2	0.5
+									
+									

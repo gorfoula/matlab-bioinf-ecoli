@@ -1,0 +1,809 @@
+Entry name (Uniprot)	Accession (UNIPROT)	Name of deletion Island (Posfai 2006)	Name of deletion Island (Posfai 2006)		Mobile Element	Mobile from paper	Pseudogene/Mobile Element Notes	Common Core
+INTB_ECOLI	P39347	del-MD9		2	2	0	"pseudogene (Uniprot);Rhs Element;Prophage Integrase"	
+INSO2_ECOLI	Q47718	del-MD9		2	2	0	"pseudogene (Uniprot);Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"	
+YJHE_ECOLI	P39355	del-MD9		2	2	0	pseudogene (Uniprot) 	
+YJHD_ECOLI	P39354	del-MD9		2	2	0	pseudogene (Uniprot) 	
+YJHR_ECOLI	P39369	del-MD9		2	2	0	pseudogene (Uniprot) 	
+YJGX_ECOLI	P39349	del-MD9		2	2	0	pseudogene (Uniprot)	
+Y4286_ECOLI	Q47719	del-MD9		2	2	0	pseudogene (Uniprot)	
+YJGW_ECOLI	Q9Z3A0	del-MD9		2	2	0	pseudogene (Ecogene/Uniprot)	
+FIME_ECOLI	P0ADH7	del-MD9	MD9	2	2	2	Prophage Integrase	
+FIMB_ECOLI	P0ADH5	del-MD9	MD9	2	2	2	Prophage Integrase	
+INSG_ECOLI	P03835	del-MD9	MD9	2	2	2	"Insertion Sequence;Transposase"	
+INSN2_ECOLI	P39212	del-MD9		2	2	0	"Insertion Sequence;Transposase"	
+INSD6_ECOLI	P0CF58	del-MD9	MD5	2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"	
+INSI4_ECOLI	P0CF90	del-MD9	MD9	2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"	
+INSC6_ECOLI	P0CF45	del-MD9	MD5	2	2	2	"Insertion Sequence;Insertion Element ;Transposase"	
+INSA7_ECOLI	P19767	del-MD9		2	2	0	Insertion Element 
+FECA_ECOLI	P13036	del-MD9	MD9	2	0	2	
+FIMD_ECOLI	P30130	del-MD9	MD9	2	0	2	
+FECB_ECOLI	P15028	del-MD9	MD9	2	0	2	
+FIMC_ECOLI	P31697	del-MD9	MD9	2	0	2	
+FIMI_ECOLI	P39264	del-MD9	MD9	2	0	2	
+NANM_ECOLI	P39371	del-MD9	MD9	2	0	2	
+NANC_ECOLI	P69856	del-MD9	MD9	2	0	2	
+FIMA1_ECOLI	P04128	del-MD9	MD9	2	0	2	
+FIMF_ECOLI	P08189	del-MD9	MD9	2	0	2	
+FIMG_ECOLI	P08190	del-MD9	MD9	2	0	2	
+FIMH_ECOLI	P08191	del-MD9	MD9	2	0	2	
+FECE_ECOLI	P15031	del-MD9	MD9	2	0	2	
+SGCB_ECOLI	P58035	del-MD9	MD9	2	0	2	
+FECD_ECOLI	P15029	del-MD9	MD9	2	0	2	
+FECC_ECOLI	P15030	del-MD9	MD9	2	0	2	
+FECR_ECOLI	P23485	del-MD9	MD9	2	0	2
+YJHB_ECOLI	P39352	del-MD9	MD9	2	0	2
+SGCC_ECOLI	P39365	del-MD9	MD9	2	0	2
+YJHF_ECOLI	P39357	del-MD9	MD9	2	0	2
+FECI_ECOLI	P23484	del-MD9	MD9	2	0	2
+YJHC_ECOLI	P39353	del-MD9	MD9	2	0	2
+SGCR_ECOLI	P39361	del-MD9	MD9	2	0	2
+SGCE_ECOLI	P39362	del-MD9	MD9	2	0	2
+SGCA_ECOLI	P39363	del-MD9	MD9	2	0	2
+SGCQ_ECOLI	P39364	del-MD9	MD9	2	0	2
+SGCX_ECOLI	P39366	del-MD9	MD9	2	0	2
+YJHP_ECOLI	P39367	del-MD9	MD9	2	0	2
+YJHQ_ECOLI	P39368	del-MD9	MD9	2	0	2
+YJHS_ECOLI	P39370	del-MD9	MD9	2	0	2
+YJHX_ECOLI	Q2EEU2	del-MD9	MD9	2	0	2
+YJGZ_ECOLI	P39351	del-MD9	MD9	2	0	2
+YJHG_ECOLI	P39358	del-MD9	MD9	2	0	2	
+YJHH_ECOLI	P39359	del-MD9	MD9	2	0	2	
+YJHI_ECOLI	P39360	del-MD9	MD9	2	0	2	
+YJHU_ECOLI	P39356	del-MD9	MD9	2	0	2	
+INTQ_ECOLI	P76168	del-MD8		2	2	0	"Rhs Element;Prophage Integrase"
+YDFJ_ECOLI	P77228	del-MD8		2	2	0	pseudogene (Uniprot)
+NOHA_ECOLI	P31061	del-MD8		2	2	0	pseudogene (Uniprot)
+YDFX_ECOLI	P76165	del-MD8		2	2	0	pseudogene (Uniprot)
+YDFW_ECOLI	P76164	del-MD8		2	2	0	pseudogene (Uniprot)
+INSD8_ECOLI	P0CF60	del-MD8	MD18	2	2	2	"pseudogene (Ecogene/Uniprot);Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+HOKD_ECOLI	P0ACG6	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+RZPQ_ECOLI	P76158	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+LYSQ_ECOLI	P76159	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+ESSQ_ECOLI	P77237	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+DICA_ECOLI	P06966	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+DICB_ECOLI	P09557	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+DICC_ECOLI	P06965	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+FLXA_ECOLI	P77609	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+PINQ_ECOLI	P77170	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+REM_ECOLI	P07010	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+REQ2_ECOLI	P76161	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YDFD_ECOLI	P29010	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YDFK_ECOLI	P76154	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YDFR_ECOLI	P76160	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YDFU_ECOLI	P76162	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YNFO_ECOLI	Q2EES0	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+RELB_ECOLI	P0C079	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+RELE_ECOLI	P0C077	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YDFA_ECOLI	P0ACW8	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YDFB_ECOLI	P29009	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+YDFC_ECOLI	P21418	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+CSPB_ECOLI	P36995	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)
+CSPF_ECOLI	P0A976	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+TFAQ_ECOLI	P76155	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+STFQ_ECOLI	P77515	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+YDFO_ECOLI	P76156	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+YDFV_ECOLI	P76163	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+GNSB_ECOLI	P77695	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+CSPI_ECOLI	P0A986	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+YNFN_ECOLI	P76157	del-MD8	MD8	2	2	2	Prophage Integrase (EcoGene)	
+YDFH_ECOLI	P0ACM2	del-MD8	MD8	2	0	2		Common Core
+YDFI_ECOLI	P77260	del-MD8	MD8	2	0	2		Common Core
+YDFZ_ECOLI	P64463	del-MD8	MD8	2	0	2		
+YDFG_ECOLI	P39831	del-MD8		2	0	0		Common Core
+YDFE_ECOLI	Q47138	del-MD8		2	0	0		
+INTS_ECOLI	P37326	del-MD7	MD7	2	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"	
+YFDO_ECOLI	P0AD35	del-MD7		2	2	0	pseudogene (Uniprot) 	
+YFDL_ECOLI	P76508	del-MD7		2	2	0	pseudogene (Uniprot)	
+YFDM_ECOLI	P76509	del-MD7		2	2	0	pseudogene (Uniprot)
+TFAS_ECOLI	P77326	del-MD7		2	2	0	pseudogene (Uniprot)
+YPDJ_ECOLI	Q2EET0	del-MD7		2	2	0	pseudogene (Uniprot)
+GTRA_ECOLI	P77682	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+GTRB_ECOLI	P77293	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDI_ECOLI	P76507	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDN_ECOLI	P76510	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDK_ECOLI	P77656	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDP_ECOLI	P76512	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDQ_ECOLI	P76513	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDR_ECOLI	P76514	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDS_ECOLI	P76515	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+YFDT_ECOLI	P76516	del-MD7	MD7	2	2	2	Prophage Integrase (EcoGene)
+CHIA_ECOLI	P13656	del-MD6	MD6	2	0	2	
+GSPH_ECOLI	P41443	del-MD6	MD6	2	0	2	
+GSPD_ECOLI	P45758	del-MD6	MD6	2	0	2	
+GSPI_ECOLI	P45760	del-MD6	MD6	2	0	2	
+GSPJ_ECOLI	P45761	del-MD6	MD6	2	0	2	
+GSPK_ECOLI	P45762	del-MD6	MD6	2	0	2	
+GSPE_ECOLI	P45759	del-MD6	MD6	2	0	2	
+LEP4_ECOLI	P25960	del-MD6	MD6	2	0	2	
+GSPM_ECOLI	P36678	del-MD6	MD6	2	0	2	
+GSPF_ECOLI	P41441	del-MD6	MD6	2	0	2	
+GSPG_ECOLI	P41442	del-MD6	MD6	2	0	2	
+GSPA_ECOLI	P45756	del-MD6	MD6	2	0	2	
+GSPC_ECOLI	P45757	del-MD6	MD6	2	0	2	
+GSPL_ECOLI	P45763	del-MD6	MD6	2	0	2	
+BFR_ECOLI	P0ABD3	del-MD6	MD6	2	0	2	
+BFD_ECOLI	P0AE56	del-MD6	MD6	2	0	2	
+YEEW_ECOLI	P64526	del-MD5		2	2	0	pseudogene (Uniprot) 
+YOEA_ECOLI	P76356	del-MD5		2	2	0	pseudogene (Uniprot)
+YEEP_ECOLI	P76359	del-MD5		2	2	0	pseudogene (Uniprot)
+YOEF_ECOLI	Q2EES3	del-MD5		2	2	0	pseudogene (Uniprot)	
+YEES_ECOLI	P76362	del-MD5	MD5	2	2	2	"pseudogene (Ohman 2006) ; Prophage Integrase (EcoGene)"	
+AG43_ECOLI	P39180	del-MD5	MD5	2	2	2	Prophage Integrase (EcoGene)	
+YEER_ECOLI	P76361	del-MD5	MD5	2	2	2	Prophage Integrase (EcoGene)	
+YEEV_ECOLI	P64524	del-MD5	MD5	2	2	2	Prophage Integrase (EcoGene)	
+YEET_ECOLI	P64521	del-MD5	MD5	2	2	2	Prophage Integrase (EcoGene)	
+YEEU_ECOLI	P76364	del-MD5	MD5	2	2	2	Prophage Integrase (EcoGene)	
+INSH6_ECOLI	P0CE53	del-MD5	MD21	2	2	2	"Insertion Sequence;Transposase"	
+INSD3_ECOLI	P0CF55	del-MD5		2	2	0	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"	
+INSC3_ECOLI	P0CF42	del-MD5		2	2	0	"Insertion Sequence;Insertion Element ;Transposase"	
+YEEA_ECOLI	P33011	del-MD5	MD5	2	0	2		Common Core
+YEEX_ECOLI	P0A8M6	del-MD5	MD5	2	0	2		Common Core
+YAHH_ECOLI	Q2EEQ3	del-MD43		2	2	0	pseudogene (Ecogene/Uniprot)	
+YAHO_ECOLI	P75694	del-MD43	MD43	2	0	2		
+YAHJ_ECOLI	P77554	del-MD43	MD43	2	0	2		
+LACY_ECOLI	P02920	del-MD43	MD43	2	0	2		Common Core
+CODB_ECOLI	P0AA82	del-MD43	MD43	2	0	2		
+CYNX_ECOLI	P17583	del-MD43	MD43	2	0	2		
+YAHK_ECOLI	P75691	del-MD43	MD43	2	0	2		
+YAHN_ECOLI	P75693	del-MD43	MD43	2	0	2		
+YAHC_ECOLI	P77219	del-MD43	MD43	2	0	2		
+MHPA_ECOLI	P77397	del-MD43	MD43	2	0	2		
+PRPB_ECOLI	P77541	del-MD43	MD43	2	0	2		
+MHPT_ECOLI	P77589	del-MD43	MD43	2	0	2		
+YAIL_ECOLI	P51024	del-MD43	MD43	2	0	2		Common Core
+BGAL_ECOLI	P00722	del-MD43	MD43	2	0	2		
+CYNS_ECOLI	P00816	del-MD43	MD43	2	0	2		
+LACI_ECOLI	P03023	del-MD43	MD43	2	0	2		
+THGA_ECOLI	P07464	del-MD43	MD43	2	0	2		
+CYNT_ECOLI	P0ABE9	del-MD43	MD43	2	0	2		
+MHPB_ECOLI	P0ABR9	del-MD43	MD43	2	0	2		
+YAHA_ECOLI	P21514	del-MD43	MD43	2	0	2		
+CODA_ECOLI	P25524	del-MD43	MD43	2	0	2
+CYNR_ECOLI	P27111	del-MD43	MD43	2	0	2
+PRPC_ECOLI	P31660	del-MD43	MD43	2	0	2
+HOA_ECOLI	P51020	del-MD43	MD43	2	0	2
+YAHM_ECOLI	P75692	del-MD43	MD43	2	0	2
+MHPC_ECOLI	P77044	del-MD43	MD43	2	0	2
+YAHF_ECOLI	P77187	del-MD43	MD43	2	0	2
+YAHG_ECOLI	P77221	del-MD43	MD43	2	0	2
+PRPD_ECOLI	P77243	del-MD43	MD43	2	0	2
+YAHE_ECOLI	P77297	del-MD43	MD43	2	0	2
+YAHL_ECOLI	P77393	del-MD43	MD43	2	0	2
+PRPE_ECOLI	P77495	del-MD43	MD43	2	0	2
+MHPR_ECOLI	P77569	del-MD43	MD43	2	0	2
+ACDH_ECOLI	P77580	del-MD43	MD43	2	0	2
+MHPD_ECOLI	P77608	del-MD43	MD43	2	0	2
+ARCM_ECOLI	P77624	del-MD43	MD43	2	0	2
+YAHB_ECOLI	P77700	del-MD43	MD43	2	0	2		
+YAHD_ECOLI	P77736	del-MD43	MD43	2	0	2		
+PRPR_ECOLI	P77743	del-MD43	MD43	2	0	2		
+END1_ECOLI	P25736	del-MD42	MD42	2	0	2		
+FHUA_ECOLI	P06971	del-MD41	MD41	2	0	2		
+FHUD_ECOLI	P07822	del-MD41	MD41	2	0	2		Common Core
+FHUC_ECOLI	P07821	del-MD41	MD41	2	0	2		Common Core
+FHUB_ECOLI	P06972	del-MD41	MD41	2	0	2		
+YEAJ_ECOLI	P76237	del-MD40		2	0	0		
+INTA_ECOLI	P32053	del-MD4	MD4	2	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"	
+YFJV_ECOLI	P52137	del-MD4		2	2	0	pseudogene (Uniprot) 	
+YFJU_ECOLI	P0CF86	del-MD4		2	2	0	pseudogene (Uniprot) 	
+PINH_ECOLI	P76611	del-MD4		2	2	0	pseudogene (Uniprot)	
+YGAQ_ECOLI	P76616	del-MD4		2	2	0	pseudogene (Uniprot)	
+YPJB_ECOLI	P76612	del-MD4		2	2	0	pseudogene (Ohman 2006)	
+YFJT_ECOLI	P52135	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)	
+YFJP_ECOLI	P52131	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJS_ECOLI	O52982	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJW_ECOLI	P52138	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YPJK_ECOLI	P52134	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+ALPA_ECOLI	P33997	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJH_ECOLI	P52123	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJI_ECOLI	P52124	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJJ_ECOLI	P52125	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJK_ECOLI	P52126	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJL_ECOLI	P52127	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJM_ECOLI	P52128	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJN_ECOLI	P52129	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJO_ECOLI	P52130	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJQ_ECOLI	P52132	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJR_ECOLI	P52133	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJX_ECOLI	P52139	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)
+YFJY_ECOLI	P52140	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)	
+YFJZ_ECOLI	P52141	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)	
+YPJF_ECOLI	Q46953	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)	
+YPJJ_ECOLI	P58033	del-MD4	MD4	2	2	2	Prophage Integrase (EcoGene)	
+YPJA_ECOLI	P52143	del-MD4	MD4	2	0	2		
+CSID_ECOLI	P76621	del-MD4	MD4	2	0	2		
+YGAF_ECOLI	P37339	del-MD4		2	0	0		Common Core
+YPJC_ECOLI	P76613	del-MD4		2	0	0		
+INSK_ECOLI	P19769	del-MD39	MD39	2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"	
+INSJ_ECOLI	P19768	del-MD39	MD39	2	2	2	Insertion Element 	
+YRHA_ECOLI	P46856	del-MD38		2	2	0	pseudogene (Uniprot) 	
+INSB6_ECOLI	P0CF29	del-MD38		2	2	0	"Insertion Element ;Transposase"	
+INSA6_ECOLI	P0CF12	del-MD38	MD9	2	2	2	Insertion Element 	
+YHHY_ECOLI	P46854	del-MD38	MD38	2	0	2		
+YHHZ_ECOLI	P46855	del-MD38	MD38	2	0	2		
+YRHB_ECOLI	P46857	del-MD38		2	0	0		
+GATR_ECOLI	P36930	del-MD37		2	2	0	"pseudogene (Ecogene);Insertion Sequence"	
+OGRK_ECOLI	P37057	del-MD37	MD37	2	2	2	Prophage Integrase (EcoGene)	
+INSF5_ECOLI	P0CF83	del-MD37	MD37	2	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"	
+INSE5_ECOLI	P0CF70	del-MD37	MD37	2	2	2	"Insertion Sequence;Transposase"	
+YEGR_ECOLI	P76406	del-MD37	MD37	2	0	2		Common Core
+PTKB_ECOLI	P37188	del-MD37	MD37	2	0	2		
+PTKA_ECOLI	P69828	del-MD37	MD37	2	0	2		
+GATD_ECOLI	P0A9S3	del-MD37	MD37	2	0	2		
+PTKC_ECOLI	P69831	del-MD37	MD37	2	0	2		
+YEGP_ECOLI	P76402	del-MD37	MD37	2	0	2		Common Core
+YEGQ_ECOLI	P76403	del-MD37	MD37	2	0	2		Common Core
+GATY_ECOLI	P0C8J6	del-MD37	MD37	2	0	2		
+GATZ_ECOLI	P0C8J8	del-MD37	MD37	2	0	2		
+YEGS_ECOLI	P76407	del-MD37	MD37	2	0	2		
+YMDE_ECOLI	Q7DFV4	del-MD36		2	2	0	pseudogene (Uniprot)	
+INSF4_ECOLI	P0CF82	del-MD36	MD36	2	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"	
+INSE4_ECOLI	P0CF69	del-MD36	MD36	2	2	2	"Insertion Sequence;Transposase"
+PGAB_ECOLI	P75906	del-MD36	MD36	2	0	2	
+PGAA_ECOLI	P69434	del-MD36	MD36	2	0	2	
+PGAC_ECOLI	P75905	del-MD36	MD36	2	0	2	
+YCDT_ECOLI	P75908	del-MD36	MD36	2	0	2	
+YCDU_ECOLI	P75910	del-MD36	MD36	2	0	2	
+PGAD_ECOLI	P69432	del-MD36		2	0	0	
+INSB4_ECOLI	P57998	del-MD35	MD9	2	2	2	"Insertion Element ;Transposase"
+INSA4_ECOLI	P0CF10	del-MD35	MD35	2	2	2	Insertion Element 
+GFCE_ECOLI	P0A932	del-MD35	MD35	2	0	2	
+GFCB_ECOLI	P75884	del-MD35	MD35	2	0	2	
+GFCD_ECOLI	P75882	del-MD35	MD35	2	0	2	
+GFCC_ECOLI	P75883	del-MD35	MD35	2	0	2	
+GFCA_ECOLI	P75885	del-MD35	MD35	2	0	2	
+ETP_ECOLI	P0ACZ2	del-MD35	MD35	2	0	2	
+ETK_ECOLI	P38134	del-MD35		2	0	0	
+RHSA_ECOLI	P16916	del-MD34	MD34	2	2	2	Rhs Element	
+YIBJ_ECOLI	P32109	del-MD34		2	2	0	"pseudogene (Uniprot);Rhs Element"	
+YIBG_ECOLI	P32106	del-MD34	MD34	2	0	2		
+YIBA_ECOLI	P0ADK6	del-MD34	MD34	2	0	2		
+YHHI_ECOLI	P28912	del-MD33	MD33	2	2	2	"Transposase;Rhs Element"	
+RHSB_ECOLI	P16917	del-MD33	MD33	2	2	2	Rhs Element	
+YHHH_ECOLI	P28911	del-MD33	MD33	2	0	2		
+YDCC_ECOLI	P28917	del-MD32	MD32	2	2	2	"Transposase;Rhs Element"	
+YNCI_ECOLI	P76119	del-MD32		2	2	0	"pseudogene (Uniprot);Transposase"	
+RHSE_ECOLI	P24211	del-MD32		2	2	0	"pseudogene (Uniprot);Rhs Element"	
+YDCD_ECOLI	P31991	del-MD32	MD32	2	0	2		
+PPTA_ECOLI	P31992	del-MD32	MD32	2	0	2		
+YDDH_ECOLI	P76121	del-MD32		2	0	0		Common Core
+YBFL_ECOLI	P75741	del-MD31		2	2	0	"Transposase;Rhs Element"	
+RHSC_ECOLI	P16918	del-MD31	MD31	2	2	2	Rhs Element	
+YBFO_ECOLI	P77779	del-MD31		2	2	0	"pseudogene (Uniprot);Rhs Element"	
+YBFD_ECOLI	P28916	del-MD31	MD31	2	2	2	"pseudogene (Ohman 2006);Transposase;Rhs Element"
+YBFQ_ECOLI	Q2EEQ8	del-MD31		2	2	0	"pseudogene (Ecogene/Uniprot);Transposase"
+YBFC_ECOLI	P28915	del-MD31	MD31	2	0	2	
+YBFB_ECOLI	P0AAU5	del-MD31	MD31	2	0	2	
+RHSD_ECOLI	P16919	del-MD30	MD30	2	2	2	Rhs Element
+YLBH_ECOLI	P77759	del-MD30		2	2	0	"pseudogene (Uniprot);Rhs Element"
+YBBD_ECOLI	P33669	del-MD30		2	2	0	pseudogene (Uniprot) 
+YLBG_ECOLI	P77688	del-MD30		2	2	0	pseudogene (Uniprot)
+YBBC_ECOLI	P33668	del-MD30	MD30	2	0	2	
+INTZ_ECOLI	P76542	del-MD3	MD3	2	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+YFFQ_ECOLI	P76548	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YFFL_ECOLI	P76543	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YFFM_ECOLI	P76544	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YFFN_ECOLI	P76545	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YFFO_ECOLI	P76546	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YFFP_ECOLI	P76547	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YFFR_ECOLI	P76549	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YFFS_ECOLI	P76550	del-MD3	MD3	2	2	2	Prophage Integrase (EcoGene)
+YJIP_ECOLI	P39387	del-MD29		2	2	0	"pseudogene (Uniprot);Transposase"
+YJIV_ECOLI	P39393	del-MD29		2	2	0	pseudogene (Uniprot) 
+YJIT_ECOLI	P39391	del-MD29		2	2	0	pseudogene (Uniprot) 
+MCP1_ECOLI	P02942	del-MD29	MD29	2	0	2	
+YJIG_ECOLI	P0AEH8	del-MD29	MD29	2	0	2	
+YJIE_ECOLI	P39376	del-MD29	MD29	2	0	2	
+YJIH_ECOLI	P39379	del-MD29	MD29	2	0	2	
+YJIJ_ECOLI	P39381	del-MD29	MD29	2	0	2	
+YJIK_ECOLI	P39382	del-MD29	MD29	2	0	2	
+YJIN_ECOLI	P39385	del-MD29	MD29	2	0	2	
+MDTM_ECOLI	P39386	del-MD29	MD29	2	0	2	
+YJIY_ECOLI	P39396	del-MD29	MD29	2	0	2	
+YJJL_ECOLI	P39398	del-MD29	MD29	2	0	2	
+YJJN_ECOLI	P39400	del-MD29	MD29	2	0	2	
+T1RK_ECOLI	P08956	del-MD29	MD29	2	0	2
+T1MK_ECOLI	P08957	del-MD29	MD29	2	0	2
+YJIX_ECOLI	P0ADC8	del-MD29	MD29	2	0	2
+MCRB_ECOLI	P15005	del-MD29	MD29	2	0	2
+MCRC_ECOLI	P15006	del-MD29	MD29	2	0	2
+MRR_ECOLI	P24202	del-MD29	MD29	2	0	2
+YJIA_ECOLI	P24203	del-MD29	MD29	2	0	2
+YJIC_ECOLI	P39374	del-MD29	MD29	2	0	2
+IRAD_ECOLI	P39375	del-MD29	MD29	2	0	2
+IADA_ECOLI	P39377	del-MD29	MD29	2	0	2
+KPTA_ECOLI	P39380	del-MD29	MD29	2	0	2
+YJIL_ECOLI	P39383	del-MD29	MD29	2	0	2
+YJIM_ECOLI	P39384	del-MD29	MD29	2	0	2
+SYME_ECOLI	P39394	del-MD29	MD29	2	0	2
+T1SK_ECOLI	P05719	del-MD29	MD29	2	0	2
+YJIR_ECOLI	P39389	del-MD29	MD29	2	0	2
+YJIS_ECOLI	P39390	del-MD29	MD29	2	0	2	
+YJJM_ECOLI	P39399	del-MD29	MD29	2	0	2	
+INTG_ECOLI	P76323	del-MD28		2	2	0	"pseudogene (Uniprot);Rhs Element;Prophage Integrase"
+YEDN_ECOLI	P76321	del-MD28		2	2	0	pseudogene (Uniprot)
+FLIZ_ECOLI	P52627	del-MD28	MD28	2	2	2	Prophage Integrase
+YEDD_ECOLI	P31063	del-MD28	MD28	2	0	2	
+FLIY_ECOLI	P0AEM9	del-MD28	MD28	2	0	2	
+FLIC_ECOLI	P04949	del-MD28	MD28	2	0	2	
+FLID_ECOLI	P24216	del-MD28	MD28	2	0	2	
+FLIM_ECOLI	P06974	del-MD28	MD28	2	0	2	
+FLIL_ECOLI	P0ABX8	del-MD28	MD28	2	0	2	
+FLIG_ECOLI	P0ABZ1	del-MD28	MD28	2	0	2	
+FLIN_ECOLI	P15070	del-MD28	MD28	2	0	2	
+FLIJ_ECOLI	P52613	del-MD28	MD28	2	0	2	
+FLIE_ECOLI	P0A8T5	del-MD28	MD28	2	0	2	
+FLIP_ECOLI	P0AC05	del-MD28	MD28	2	0	2	
+FLIQ_ECOLI	P0AC07	del-MD28	MD28	2	0	2
+YECS_ECOLI	P0AFT2	del-MD28	MD28	2	0	2
+FLIO_ECOLI	P22586	del-MD28	MD28	2	0	2
+FLIF_ECOLI	P25798	del-MD28	MD28	2	0	2
+YEDE_ECOLI	P31064	del-MD28	MD28	2	0	2
+FLIR_ECOLI	P33135	del-MD28	MD28	2	0	2
+YEDF_ECOLI	P0AA31	del-MD28	MD28	2	0	2
+FLIT_ECOLI	P0ABY2	del-MD28	MD28	2	0	2
+FLIA_ECOLI	P0AEM6	del-MD28	MD28	2	0	2
+FLIS_ECOLI	P26608	del-MD28	MD28	2	0	2
+AMY2_ECOLI	P26612	del-MD28	MD28	2	0	2
+FLIH_ECOLI	P31068	del-MD28	MD28	2	0	2
+FLII_ECOLI	P52612	del-MD28	MD28	2	0	2
+FLIK_ECOLI	P52614	del-MD28	MD28	2	0	2
+DCYD_ECOLI	P76316	del-MD28	MD28	2	0	2
+YEDK_ECOLI	P76318	del-MD28	MD28	2	0	2
+YEDL_ECOLI	P76319	del-MD28	MD28	2	0	2		
+YECC_ECOLI	P37774	del-MD28		2	0	0		
+YEDM_ECOLI	P76322	del-MD28		2	0	0		
+INSB5_ECOLI	P0CF28	del-MD27	MD38	2	2	2	"Insertion Element ;Transposase"	
+INSA5_ECOLI	P0CF11	del-MD27	MD38	2	2	2	Insertion Element 	
+FLHE_ECOLI	P76297	del-MD27	MD27	2	0	2		Common Core
+MOTA_ECOLI	P09348	del-MD27	MD27	2	0	2		Common Core
+MOTB_ECOLI	P0AF06	del-MD27	MD27	2	0	2		Common Core
+MCP2_ECOLI	P07017	del-MD27	MD27	2	0	2		
+MCP4_ECOLI	P07018	del-MD27	MD27	2	0	2		
+FLHA_ECOLI	P76298	del-MD27	MD27	2	0	2		
+FLHB_ECOLI	P76299	del-MD27	MD27	2	0	2		
+CHEB_ECOLI	P07330	del-MD27	MD27	2	0	2		Common Core
+CHER_ECOLI	P07364	del-MD27	MD27	2	0	2		Common Core
+CHEZ_ECOLI	P0A9H9	del-MD27	MD27	2	0	2		Common Core
+CHEA_ECOLI	P07363	del-MD27	MD27	2	0	2		
+FLHD_ECOLI	P0A8S9	del-MD27	MD27	2	0	2		
+CHEW_ECOLI	P0A964	del-MD27	MD27	2	0	2		
+FLHC_ECOLI	P0ABY7	del-MD27	MD27	2	0	2		
+CHEY_ECOLI	P0AE67	del-MD27	MD27	2	0	2		
+FLGD_ECOLI	P75936	del-MD26	MD26	2	2	2	pseudogene (Ohman 2006) 	
+FLGH_ECOLI	P0A6S0	del-MD26	MD26	2	0	2		Common Core
+FLGB_ECOLI	P0ABW9	del-MD26	MD26	2	0	2		Common Core
+FLGC_ECOLI	P0ABX2	del-MD26	MD26	2	0	2		Common Core
+FLGG_ECOLI	P0ABX5	del-MD26	MD26	2	0	2		Common Core
+FLGF_ECOLI	P75938	del-MD26	MD26	2	0	2		Common Core
+FLGI_ECOLI	P0A6S3	del-MD26	MD26	2	0	2		
+FLGA_ECOLI	P75933	del-MD26	MD26	2	0	2		
+FLGL_ECOLI	P29744	del-MD26	MD26	2	0	2		Common Core
+FLGK_ECOLI	P33235	del-MD26	MD26	2	0	2		Common Core
+FLGE_ECOLI	P75937	del-MD26	MD26	2	0	2		
+FLGN_ECOLI	P43533	del-MD26	MD26	2	0	2		Common Core
+FLGJ_ECOLI	P75942	del-MD26	MD26	2	0	2		Common Core
+FLGM_ECOLI	P0AEM4	del-MD26	MD26	2	0	2		
+YHIS_ECOLI	P37635	del-MD25		2	2	0	pseudogene (Uniprot) 	
+INH11_ECOLI	P0CE58	del-MD25	MD23	2	2	2	"Insertion Sequence;Transposase"	
+YHCE_ECOLI	P45421	del-MD24		2	2	0	pseudogene (Uniprot) 	
+INH10_ECOLI	P0CE57	del-MD24		2	2	0	"Insertion Sequence;Transposase"	
+YHCD_ECOLI	P45420	del-MD24	MD24	2	0	2		
+YHCF_ECOLI	P45422	del-MD24	MD24	2	0	2		
+YHCA_ECOLI	P28722	del-MD24		2	0	0		
+YEJO_ECOLI	P33924	del-MD23		2	2	0	"pseudogene (Uniprot);Insertion Sequence;Insertion Element "	
+INSH8_ECOLI	P0CE55	del-MD23	MD5	2	2	2	"Insertion Sequence;Transposase"	
+INSH7_ECOLI	P0CE54	del-MD22		2	2	0	"Insertion Sequence;Transposase"	
+WZA_ECOLI	P0A930	del-MD22	MD22	2	0	2		Common Core
+WCAM_ECOLI	P71244	del-MD22	MD22	2	0	2		Common Core
+YEFI_ECOLI	P37751	del-MD22	MD22	2	0	2		
+GALF_ECOLI	P0AAB6	del-MD22	MD22	2	0	2		Common Core
+WCAI_ECOLI	P32057	del-MD22	MD22	2	0	2		Common Core
+WCAJ_ECOLI	P71241	del-MD22	MD22	2	0	2		Common Core
+WZC_ECOLI	P76387	del-MD22	MD22	2	0	2		Common Core
+WZXC_ECOLI	P77377	del-MD22	MD22	2	0	2		Common Core
+RMLA1_ECOLI	P37744	del-MD22	MD22	2	0	2		
+WCAD_ECOLI	P71238	del-MD22	MD22	2	0	2		
+RFBX_ECOLI	P37746	del-MD22	MD22	2	0	2		
+RFC_ECOLI	P37748	del-MD22	MD22	2	0	2		
+GLF_ECOLI	P37747	del-MD22	MD22	2	0	2		
+WZB_ECOLI	P0AAB2	del-MD22	MD22	2	0	2		Common Core
+GM4D_ECOLI	P0AC88	del-MD22	MD22	2	0	2		Common Core
+WCAB_ECOLI	P0ACC9	del-MD22	MD22	2	0	2		Common Core
+WCAF_ECOLI	P0ACD2	del-MD22	MD22	2	0	2		Common Core
+MANC_ECOLI	P24174	del-MD22	MD22	2	0	2		Common Core
+MANB_ECOLI	P24175	del-MD22	MD22	2	0	2		Common Core
+FCL_ECOLI	P32055	del-MD22	MD22	2	0	2		Common Core
+NUDD_ECOLI	P32056	del-MD22	MD22	2	0	2		Common Core
+WCAC_ECOLI	P71237	del-MD22	MD22	2	0	2		Common Core
+WCAE_ECOLI	P71239	del-MD22	MD22	2	0	2		Common Core
+WCAK_ECOLI	P71242	del-MD22	MD22	2	0	2		Common Core
+WCAL_ECOLI	P71243	del-MD22	MD22	2	0	2		Common Core
+WCAA_ECOLI	P77414	del-MD22	MD22	2	0	2		Common Core
+RMLC_ECOLI	P37745	del-MD22	MD22	2	0	2		
+WBBJ_ECOLI	P37750	del-MD22	MD22	2	0	2		
+RMLB1_ECOLI	P37759	del-MD22	MD22	2	0	2		
+RMLD_ECOLI	P37760	del-MD22	MD22	2	0	2		
+YEFG_ECOLI	P37749	del-MD22	MD22	2	0	2		
+WBBL_ECOLI	P36667	del-MD22		2	0	0		
+YMJC_ECOLI	Q2EER5	del-MD21		2	2	0	pseudogene (Uniprot)	
+INSH4_ECOLI	P0CE52	del-MD21	MD20	2	2	2	"Insertion Sequence;Transposase"	
+MPPA_ECOLI	P77348	del-MD21	MD21	2	0	2		
+YNAI_ECOLI	P0AEB5	del-MD21	MD21	2	0	2		Common Core
+AEEP_ECOLI	P51981	del-MD21	MD21	2	0	2		Common Core
+YNAJ_ECOLI	P64445	del-MD21	MD21	2	0	2		Common Core
+YCJZ_ECOLI	P77333	del-MD21	MD21	2	0	2		
+MPAA_ECOLI	P0ACV6	del-MD21	MD21	2	0	2		
+YCJY_ECOLI	P76049	del-MD21	MD21	2	0	2		
+USPE_ECOLI	P0AAC0	del-MD21		2	0	0		Common Core
+INSH3_ECOLI	P0CE51	del-MD20		2	2	0	"Insertion Sequence;Transposase"	
+INTR_ECOLI	P76056	del-MD2	MD2	2	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"	
+LOMR_ECOLI	P77184	del-MD2		2	2	0	"pseudogene (Uniprot);Insertion Sequence"	
+YDAW_ECOLI	P76066	del-MD2		2	2	0	pseudogene (Uniprot) 	
+RZPR_ECOLI	P77551	del-MD2		2	2	0	pseudogene (Uniprot)	
+YDAY_ECOLI	P76069	del-MD2		2	2	0	pseudogene (Uniprot)	
+RZOR_ECOLI	P58042	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)	
+YDAS_ECOLI	P76063	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)	
+SIEB_ECOLI	P38392	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)	
+TRKG_ECOLI	P23849	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)	
+KIL_ECOLI	P38393	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+PINR_ECOLI	P0ADI0	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+RACC_ECOLI	P15033	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+RECT_ECOLI	P33228	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAC_ECOLI	P33230	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAE_ECOLI	P38394	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAF_ECOLI	P0ACW0	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAG_ECOLI	P76061	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YNAK_ECOLI	P76068	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+RECE_ECOLI	P15032	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+LAR_ECOLI	P33229	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAQ_ECOLI	P76057	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+RACR_ECOLI	P76062	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAT_ECOLI	P76064	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAU_ECOLI	P76065	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+YDAV_ECOLI	P77546	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)
+STFR_ECOLI	P76072	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)	
+TFAR_ECOLI	P77163	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)	
+YNAE_ECOLI	P76073	del-MD2	MD2	2	2	2	Prophage Integrase (EcoGene)	
+INSH5_ECOLI	P76071	del-MD2		2	2	0	"Insertion Sequence;Transposase"	
+INSI3_ECOLI	P0CF89	del-MD2	MD2	2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"	
+INSD2_ECOLI	P0CF54	del-MD2		2	2	0	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"	
+INSC2_ECOLI	P0CF41	del-MD2		2	2	0	"Insertion Sequence;Insertion Element ;Transposase"	
+YDBJ_ECOLI	P0ACW2	del-MD2	MD2	2	0	2		
+HSLJ_ECOLI	P52644	del-MD2	MD2	2	0	2		
+YNBE_ECOLI	P64448	del-MD2	MD2	2	0	2		
+OMPN_ECOLI	P77747	del-MD2	MD2	2	0	2		
+YDBD_ECOLI	P25907	del-MD2	MD2	2	0	2		
+YDBL_ECOLI	P76076	del-MD2	MD2	2	0	2		
+AMO_ECOLI	P46883	del-MD2	MD2	2	0	2		
+YDBH_ECOLI	P52645	del-MD2	MD2	2	0	2		Common Core
+ZNTB_ECOLI	P64423	del-MD2	MD2	2	0	2		Common Core
+YNBA_ECOLI	P76090	del-MD2	MD2	2	0	2		
+YNBB_ECOLI	P76091	del-MD2	MD2	2	0	2		
+YNBD_ECOLI	P76093	del-MD2	MD2	2	0	2		
+MAOC_ECOLI	P77455	del-MD2	MD2	2	0	2		
+PAAH_ECOLI	P76083	del-MD2	MD2	2	0	2		
+DBPA_ECOLI	P21693	del-MD2	MD2	2	0	2		Common Core
+USPF_ECOLI	P37903	del-MD2	MD2	2	0	2		Common Core
+LDHD_ECOLI	P52643	del-MD2	MD2	2	0	2		Common Core
+NIFJ_ECOLI	P52647	del-MD2	MD2	2	0	2		Common Core
+YDAL_ECOLI	P76053	del-MD2	MD2	2	0	2		Common Core
+TTCA_ECOLI	P76055	del-MD2	MD2	2	0	2		Common Core
+ABGB_ECOLI	P76052	del-MD2	MD2	2	0	2		
+PAAF_ECOLI	P76082	del-MD2	MD2	2	0	2		
+YNBC_ECOLI	P76092	del-MD2	MD2	2	0	2		
+YDAM_ECOLI	P77302	del-MD2	MD2	2	0	2		
+ABGA_ECOLI	P77357	del-MD2	MD2	2	0	2		
+ABGR_ECOLI	P77744	del-MD2	MD2	2	0	2
+FEAB_ECOLI	P80668	del-MD2	MD2	2	0	2
+FEAR_ECOLI	Q47129	del-MD2	MD2	2	0	2
+PAAA_ECOLI	P76077	del-MD2	MD2	2	0	2
+PAAB_ECOLI	P76078	del-MD2	MD2	2	0	2
+PAAC_ECOLI	P76079	del-MD2	MD2	2	0	2
+PAAD_ECOLI	P76080	del-MD2	MD2	2	0	2
+PAAE_ECOLI	P76081	del-MD2	MD2	2	0	2
+PAAG_ECOLI	P77467	del-MD2	MD2	2	0	2
+PAAI_ECOLI	P76084	del-MD2	MD2	2	0	2
+PAAJ_ECOLI	P0C7L2	del-MD2	MD2	2	0	2
+PAAK_ECOLI	P76085	del-MD2	MD2	2	0	2
+PAAX_ECOLI	P76086	del-MD2	MD2	2	0	2
+PAAY_ECOLI	P77181	del-MD2	MD2	2	0	2
+YDBC_ECOLI	P25906	del-MD2	MD2	2	0	2
+ABGT_ECOLI	P46133	del-MD2		2	0	0
+YNAA_ECOLI	P77658	del-MD2		2	0	0	
+YDBA_ECOLI	P33666	del-MD2		2	0	0	
+INSD5_ECOLI	P0CF57	del-MD19		2	2	0	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSC5_ECOLI	P0CF44	del-MD19		2	2	0	"Insertion Sequence;Insertion Element ;Transposase"
+YQIH_ECOLI	P77616	del-MD19	MD19	2	0	2	
+YGIL_ECOLI	P39834	del-MD19	MD19	2	0	2	
+YQII_ECOLI	P76656	del-MD19	MD19	2	0	2	
+YQIC_ECOLI	Q46868	del-MD19	MD19	2	0	2	
+YQIG_ECOLI	P76655	del-MD19		2	0	0	
+YGEK_ECOLI	Q46791	del-MD18		2	2	0	pseudogene (Uniprot) 
+YGEQ_ECOLI	Q46797	del-MD18		2	2	0	pseudogene (Uniprot)
+YGEN_ECOLI	Q46793	del-MD18		2	2	0	pseudogene (Uniprot)
+YGEO_ECOLI	Q46795	del-MD18		2	2	0	pseudogene (Uniprot)
+INSD4_ECOLI	P0CF56	del-MD18	MD2	2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSC4_ECOLI	P0CF43	del-MD18	MD2	2	2	2	"Insertion Sequence;Insertion Element ;Transposase"
+YGEP_ECOLI	Q46796	del-MD18		2	0	0	
+YAIT_ECOLI	P77199	del-MD17		2	2	0	pseudogene (Uniprot) 	
+INSF2_ECOLI	P0CF80	del-MD17	MD17	2	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"	
+INSE2_ECOLI	P0CF67	del-MD17	MD17	2	2	2	"Insertion Sequence;Transposase"	
+YAIW_ECOLI	P77562	del-MD17	MD17	2	0	2		
+AMPH_ECOLI	P0AD70	del-MD17	MD17	2	0	2		Common Core
+YAIY_ECOLI	P0AAP7	del-MD17	MD17	2	0	2		Common Core
+YAIZ_ECOLI	P0AAQ0	del-MD17	MD17	2	0	2		Common Core
+SBMA_ECOLI	P0AFY6	del-MD17	MD17	2	0	2		Common Core
+YAIV_ECOLI	P0AAP5	del-MD17	MD17	2	0	2		
+YAIX_ECOLI	P75697	del-MD16		2	2	0	"pseudogene (Uniprot);Insertion Sequence"	
+INSD1_ECOLI	P0CF53	del-MD16	MD16	2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"	
+INSC1_ECOLI	P0CF40	del-MD16	MD16	2	2	2	"Insertion Sequence;Insertion Element ;Transposase"	
+TAUA_ECOLI	Q47537	del-MD16	MD16	2	0	2		
+TAUB_ECOLI	Q47538	del-MD16	MD16	2	0	2		
+TAUC_ECOLI	Q47539	del-MD16	MD16	2	0	2		
+YAIP_ECOLI	Q47536	del-MD16	MD16	2	0	2		
+TAUD_ECOLI	P37610	del-MD16	MD16	2	0	2		Common Core
+YAIS_ECOLI	P71311	del-MD16	MD16	2	0	2		
+YAIO_ECOLI	Q47534	del-MD16		2	0	0		
+INSL3_ECOLI	P0CF93	del-MD15	MD15	2	2	2	"Insertion Sequence;Transposase"	
+YPEC_ECOLI	P64542	del-MD15	MD15	2	0	2		
+MNTH_ECOLI	P0A769	del-MD15	MD15	2	0	2		Common Core
+NUPC_ECOLI	P0AFF2	del-MD15	MD15	2	0	2		Common Core
+YFEA_ECOLI	P23842	del-MD15	MD15	2	0	2		
+YFEO_ECOLI	P67729	del-MD15		2	0	0		
+INSL2_ECOLI	P0CF92	del-MD14	MD14	2	2	2	"Insertion Sequence;Transposase"	
+HOKE_ECOLI	P77091	del-MD14	MD14	2	0	2		
+YBDJ_ECOLI	P77506	del-MD14	MD14	2	0	2		
+YBDF_ECOLI	P0AAT2	del-MD14	MD14	2	0	2		Common Core
+NFNB_ECOLI	P38489	del-MD14	MD14	2	0	2		Common Core
+CAAL_ECOLI	P77213	del-MD14	MD14	2	0	2		Common Core
+YBDG_ECOLI	P0AAT4	del-MD14		2	0	0		Common Core
+INSL1_ECOLI	P0CF91	del-MD13	MD13	2	2	2	"Insertion Sequence;Insertion Element ;Transposase"	
+INSB1_ECOLI	P0CF25	del-MD13	MD13	2	2	2	"Insertion Element ;Transposase"	
+INSA1_ECOLI	P0CF07	del-MD13	MD13	2	2	2	Insertion Element 	
+NHAA_ECOLI	P13738	del-MD13	MD13	2	0	2		
+MOKC_ECOLI	P33236	del-MD13	MD13	2	0	2		
+NHAR_ECOLI	P0A9G2	del-MD13	MD13	2	0	2		Common Core
+HOKC_ECOLI	P0ACG4	del-MD13		2	0	0		
+INTD_ECOLI	P24218	del-MD12		2	2	0	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"	
+NMPC_ECOLI	P21420	del-MD12		2	2	0	pseudogene (Uniprot) 	
+TFAD_ECOLI	P77699	del-MD12		2	2	0	pseudogene (Uniprot)	
+YBCC_ECOLI	P75717	del-MD12		2	2	0	pseudogene (Uniprot)	
+REND_ECOLI	P75718	del-MD12		2	2	0	pseudogene (Uniprot)	
+YLCE_ECOLI	P77087	del-MD12		2	2	0	pseudogene (Uniprot)	
+YBCY_ECOLI	P77460	del-MD12		2	2	0	pseudogene (Uniprot)	
+YBCD_ECOLI	P77528	del-MD12		2	2	0	pseudogene (Uniprot)	
+BORD_ECOLI	P77330	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)	
+RZOD_ECOLI	P58041	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+OMPT_ECOLI	P09169	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YBCL_ECOLI	P77368	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+LYSD_ECOLI	P78285	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+RZPD_ECOLI	P75719	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+EMRE_ECOLI	P23895	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+ESSD_ECOLI	P0A9R2	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+NINE_ECOLI	Q47270	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+RUSA_ECOLI	P0AG74	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YBCK_ECOLI	P77698	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YBCM_ECOLI	P77634	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YBCN_ECOLI	Q47269	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YBCO_ECOLI	P68661	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YBCV_ECOLI	P77598	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YBCW_ECOLI	P64435	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+YLCG_ECOLI	Q47272	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+APPY_ECOLI	P05052	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+NOHB_ECOLI	P31062	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+REQ1_ECOLI	Q47274	del-MD12	MD12	2	2	2	Prophage Integrase (EcoGene)
+INSF3_ECOLI	P0CF81	del-MD12	MD12	2	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+INSE3_ECOLI	P0CF68	del-MD12	MD12	2	2	2	"Insertion Sequence;Transposase"
+INSH2_ECOLI	P0CE50	del-MD12	MD12	2	2	2	"Insertion Sequence;Transposase"
+INTE_ECOLI	P75969	del-MD11	MD11	2	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+YMFN_ECOLI	P75978	del-MD11		2	2	0	pseudogene (Uniprot) 
+STFE_ECOLI	P33227	del-MD11		2	2	0	pseudogene (Uniprot)
+YMFO_ECOLI	P75980	del-MD11		2	2	0	pseudogene (Uniprot)
+YMFP_ECOLI	P75981	del-MD11		2	2	0	pseudogene (Uniprot)
+Y1142_ECOLI	P75971	del-MD11		2	2	0	pseudogene (Ecogene/Uniprot)
+YMFE_ECOLI	P75968	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFR_ECOLI	P75979	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+PINE_ECOLI	P03014	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+TFAE_ECOLI	P09153	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFK_ECOLI	P75974	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+LIT_ECOLI	P11072	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+MCRA_ECOLI	P24200	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YCFK_ECOLI	P45581	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+VXIS_ECOLI	P75970	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFI_ECOLI	P75972	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFJ_ECOLI	P75973	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFL_ECOLI	P75976	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFM_ECOLI	P75977	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFQ_ECOLI	P75982	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFS_ECOLI	P09154	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFT_ECOLI	P75975	del-MD11	MD11	2	2	2	Prophage Integrase (EcoGene)
+YMFD_ECOLI	P75967	del-MD11		2	2	0	Prophage Integrase (EcoGene)
+YMGD_ECOLI	P0AB46	del-MD11	MD11	2	0	2	
+YMGF_ECOLI	P58034	del-MD11	MD11	2	0	2	
+YMGG_ECOLI	Q7DFV3	del-MD11	MD11	2	0	2	
+IRAM_ECOLI	P75987	del-MD11	MD11	2	0	2		
+YCGX_ECOLI	P75988	del-MD11	MD11	2	0	2		
+YCGE_ECOLI	P75989	del-MD11	MD11	2	0	2		
+YCGF_ECOLI	P75990	del-MD11	MD11	2	0	2		
+YCGZ_ECOLI	P75991	del-MD11	MD11	2	0	2		
+YMGA_ECOLI	P75992	del-MD11	MD11	2	0	2		
+ARIR_ECOLI	P75993	del-MD11	MD11	2	0	2		
+YMGC_ECOLI	P75994	del-MD11	MD11	2	0	2		
+YCGG_ECOLI	P75995	del-MD11	MD11	2	0	2		
+IDH_ECOLI	P08200	del-MD11		2	0	0		Common Core
+YGHE_ECOLI	Q46833	del-MD10		2	2	0	pseudogene (Uniprot) 	
+YGHO_ECOLI	Q46840	del-MD10		2	2	0	pseudogene (Uniprot) 	
+INSH9_ECOLI	P0CE56	del-MD10	MD22	2	2	2	"Insertion Sequence;Transposase"	
+YGHG_ECOLI	Q46835	del-MD10	MD10	2	0	2		
+ACFD_ECOLI	Q46837	del-MD10	MD10	2	0	2		
+PITB_ECOLI	P43676	del-MD10	MD10	2	0	2		
+YGHR_ECOLI	P64572	del-MD10	MD10	2	0	2	
+PPPA_ECOLI	Q46836	del-MD10	MD10	2	0	2	
+GLCA_ECOLI	Q46839	del-MD10	MD10	2	0	2	
+YGHQ_ECOLI	Q46841	del-MD10	MD10	2	0	2	
+YGHS_ECOLI	Q46843	del-MD10	MD10	2	0	2	
+YGHT_ECOLI	Q46844	del-MD10	MD10	2	0	2	
+GLCC_ECOLI	P0ACL5	del-MD10	MD10	2	0	2	
+GLCD_ECOLI	P0AEP9	del-MD10	MD10	2	0	2	
+GLCG_ECOLI	P0AEQ1	del-MD10	MD10	2	0	2	
+MASZ_ECOLI	P37330	del-MD10	MD10	2	0	2	
+GLCE_ECOLI	P52073	del-MD10	MD10	2	0	2	
+GLCF_ECOLI	P52074	del-MD10	MD10	2	0	2	
+YGHD_ECOLI	Q46832	del-MD10		2	0	0	
+YGHF_ECOLI	Q46834	del-MD10		2	0	0	
+INTF_ECOLI	P71298	del-MD1	MD1	2	2	2	"Rhs Element;Prophage Integrase;Prophage Integrase (EcoGene)"
+YKGN_ECOLI	Q79E92	del-MD1		2	2	0	"pseudogene (Uniprot);Transposase"
+INSO1_ECOLI	P75680	del-MD1		2	2	0	"pseudogene (Uniprot);Insertion Sequence;Transposase"
+EAEH_ECOLI	P36943	del-MD1		2	2	0	pseudogene (Uniprot) 
+YAGP_ECOLI	P75684	del-MD1		2	2	0	pseudogene (Uniprot) 
+FBPB_ECOLI	P75681	del-MD1		2	2	0	pseudogene (Uniprot) 
+YKFC_ECOLI	Q47688	del-MD1		2	2	0	pseudogene (Uniprot) 
+YKGA_ECOLI	P77601	del-MD1		2	2	0	pseudogene (Uniprot)
+YAGJ_ECOLI	P77169	del-MD1		2	2	0	pseudogene (Uniprot)
+YAGB_ECOLI	P37008	del-MD1		2	2	0	pseudogene (Ohman 2006)
+YAGA_ECOLI	P37007	del-MD1	MD1	2	2	2	"Prophage Integrase;Prophage Integrase (EcoGene)"
+YKFB_ECOLI	P77162	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+FBPC_ECOLI	P37009	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAFY_ECOLI	P77365	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+MMUP_ECOLI	Q47689	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGG_ECOLI	P75683	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGL_ECOLI	P77607	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGI_ECOLI	P77300	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+OTC2_ECOLI	P06960	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAFW_ECOLI	Q47684	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAFX_ECOLI	P75676	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAFZ_ECOLI	P77206	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YKFA_ECOLI	P75678	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+PERR_ECOLI	Q57083	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+MMUM_ECOLI	Q47690	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGE_ECOLI	P75682	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGF_ECOLI	P77596	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGH_ECOLI	P77713	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGK_ECOLI	P77657	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGM_ECOLI	P71296	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YAGN_ECOLI	P71297	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YKFF_ECOLI	P75677	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YKFG_ECOLI	Q47685	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YKFH_ECOLI	Q9XB42	del-MD1	MD1	2	2	2	Prophage Integrase (EcoGene)
+YKFI_ECOLI	P77692	del-MD1		2	2	0	Prophage Integrase (EcoGene)
+INSF1_ECOLI	P0CF79	del-MD1	MD1	2	2	2	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+INSE1_ECOLI	P0CF66	del-MD1	MD1	2	2	2	"Insertion Sequence;Transposase"
+INSH1_ECOLI	P0CE49	del-MD1	MD1	2	2	2	"Insertion Sequence;Transposase"
+INSN1_ECOLI	P75679	del-MD1		2	2	0	"Insertion Sequence;Transposase"
+INSI1_ECOLI	P0CF88	del-MD1	MD1	2	2	2	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+INSB2_ECOLI	P0CF26	del-MD1	MD1	2	2	2	"Insertion Element ;Transposase"
+INSB3_ECOLI	P0CF27	del-MD1	MD1	2	2	2	"Insertion Element ;Transposase"
+INSA2_ECOLI	P0CF08	del-MD1	MD1	2	2	2	Insertion Element 
+INSA3_ECOLI	P0CF09	del-MD1	MD1	2	2	2	Insertion Element 
+YAGW_ECOLI	P77694	del-MD1	MD1	2	0	2	
+MATB_ECOLI	P0AAA3	del-MD1	MD1	2	0	2	
+YKGJ_ECOLI	P0AAL9	del-MD1	MD1	2	0	2	
+YKGI_ECOLI	P75687	del-MD1	MD1	2	0	2	
+YAGT_ECOLI	P77165	del-MD1	MD1	2	0	2	
+MATC_ECOLI	P77188	del-MD1	MD1	2	0	2	
+YAGV_ECOLI	P77263	del-MD1	MD1	2	0	2
+YAGS_ECOLI	P77324	del-MD1	MD1	2	0	2
+YAGR_ECOLI	P77489	del-MD1	MD1	2	0	2
+YAGX_ECOLI	P77802	del-MD1	MD1	2	0	2
+YAGU_ECOLI	P0AAA1	del-MD1	MD1	2	0	2
+YKGB_ECOLI	P75685	del-MD1	MD1	2	0	2
+YKGH_ECOLI	P77180	del-MD1	MD1	2	0	2
+YKGD_ECOLI	P77379	del-MD1	MD1	2	0	2
+RL31B_ECOLI	P0A7N1	del-MD1	MD1	2	0	2
+YKGL_ECOLI	P56257	del-MD1	MD1	2	0	2
+MATA_ECOLI	P71301	del-MD1	MD1	2	0	2
+YAGQ_ECOLI	P77183	del-MD1	MD1	2	0	2
+YKGC_ECOLI	P77212	del-MD1	MD1	2	0	2
+YKGE_ECOLI	P77252	del-MD1	MD1	2	0	2
+YKGG_ECOLI	P77433	del-MD1	MD1	2	0	2
+YKGF_ECOLI	P77536	del-MD1	MD1	2	0	2
+RL362_ECOLI	Q2EEQ2	del-MD1	MD1	2	0	2		
+YFAD_ECOLI	P37014				2	0	Transposase 	Common Core
+YADD_ECOLI	P31665				2	0	Transposase	Common Core
+YFCI_ECOLI	P77768				2	0	Transposase	
+YHGA_ECOLI	P31667				2	0	Transposase	
+YCHG_ECOLI	P30192				2	0	"pseudogene (Uniprot);Transposase"	
+YGHX_ECOLI	Q7DFU6				2	0	"pseudogene (Uniprot);"	
+YHDW_ECOLI	P45766				2	0	pseudogene (Uniprot) 	
+YDEK_ECOLI	P32051				2	0	pseudogene (Uniprot) 	
+EFEU_ECOLI	P75901				2	0	pseudogene (Uniprot) 	
+FHIA_ECOLI	Q47153				2	0	pseudogene (Uniprot) 	
+AGAA_ECOLI	P42906				2	0	pseudogene (Uniprot) 	
+MOLR_ECOLI	P33345				2	0	pseudogene (Uniprot) 	
+RFH_ECOLI	P28369				2	0	pseudogene (Uniprot) 	
+RNPH_ECOLI	P0CG19				2	0	pseudogene (Uniprot) 	
+YBEM_ECOLI	P39874				2	0	pseudogene (Uniprot) 	
+YBFG_ECOLI	P37003				2	0	pseudogene (Uniprot) 
+YEHQ_ECOLI	P33353				2	0	pseudogene (Uniprot) 
+YFAH_ECOLI	P45505				2	0	pseudogene (Uniprot) 
+YHJQ_ECOLI	P37655				2	0	pseudogene (Uniprot) 
+YIBV_ECOLI	A5A625				2	0	pseudogene (Uniprot) 
+YJBI_ECOLI	P32690				2	0	pseudogene (Uniprot) 
+YKFJ_ECOLI	P75675				2	0	pseudogene (Uniprot) 
+YQFE_ECOLI	P64562				2	0	pseudogene (Uniprot) 
+YTFA_ECOLI	P39309				2	0	pseudogene (Uniprot) 
+ARPB_ECOLI	P76205				2	0	pseudogene (Uniprot) 
+YGEF_ECOLI	Q46786				2	0	pseudogene (Uniprot) 
+YABP_ECOLI	P39220				2	0	pseudogene (Uniprot) 
+YIFN_ECOLI	P56259				2	0	pseudogene (Uniprot) 
+YPJI_ECOLI	P58095				2	0	pseudogene (Uniprot) 
+YKIA_ECOLI	P75704				2	0	pseudogene (Uniprot) 
+YMJD_ECOLI	P0CD93				2	0	pseudogene (Uniprot) 
+YEDS_ECOLI	P76335				2	0	pseudogene (Uniprot)
+PBL_ECOLI	Q46790				2	0	pseudogene (Uniprot)
+GLVG_ECOLI	P31450				2	0	pseudogene (Uniprot)
+YCJV_ECOLI	P77481				2	0	pseudogene (Uniprot)
+YGAY_ECOLI	P76628				2	0	pseudogene (Uniprot)
+YZGL_ECOLI	P76692				2	0	pseudogene (Uniprot)
+PTXC_ECOLI	P31452				2	0	pseudogene (Uniprot)
+YAFU_ECOLI	P77354				2	0	pseudogene (Uniprot)
+MBHA_ECOLI	Q47154				2	0	pseudogene (Uniprot)
+YNEL_ECOLI	P76138				2	0	pseudogene (Uniprot)
+YBFI_ECOLI	P39901				2	0	pseudogene (Uniprot)
+YCGI_ECOLI	P76000				2	0	pseudogene (Uniprot)
+YDET_ECOLI	P76137				2	0	pseudogene (Uniprot)
+YEEL_ECOLI	P76349				2	0	pseudogene (Uniprot)
+YAFF_ECOLI	Q2EEP9				2	0	pseudogene (Uniprot)
+YNEF_ECOLI	P76147				2	0	"pseudogene (Ohman 2006) ; "
+YGGP_ECOLI	P52048				2	0	pseudogene (Ohman 2006) 	
+YHAM_ECOLI	P42626				2	0	pseudogene (Ohman 2006) 	
+YABQ_ECOLI	P39221				2	0	pseudogene (Ohman 2006) 	
+YIGE_ECOLI	P27840				2	0	pseudogene (Ohman 2006)	
+PTXB_ECOLI	P69789				2	0	pseudogene (Ohman 2006)	
+SMP_ECOLI	P0AGC7				2	0	pseudogene (Ohman 2006)	Common Core
+YGFQ_ECOLI	Q46817				2	0	pseudogene (Ohman 2006)	
+ARSR_ECOLI	P37309				2	0	pseudogene (Ohman 2006)	
+FRLC_ECOLI	P45541				2	0	pseudogene (Ohman 2006)	
+SMF_ECOLI	P30852				2	0	pseudogene (Ohman 2006)	
+YGCU_ECOLI	Q46911				2	0	pseudogene (Ohman 2006)	
+YIIE_ECOLI	P0ADQ5				2	0	pseudogene (Ohman 2006)	
+YQGC_ECOLI	P64570				2	0	pseudogene (Ohman 2006)	
+TISB_ECOLI	A5A627				2	0	pseudogene (Ecogene/Uniprot)	
+LPRH_ECOLI	P0ADF3				2	0	pseudogene (Ecogene/Uniprot)	
+HTGA_ECOLI	P28697				2	0	pseudogene (Ecogene/Uniprot)	
+LPFS_ECOLI	P0ADF0				2	0	pseudogene (Ecogene/Uniprot)	
+Y3808_ECOLI	P11291				2	0	pseudogene (Ecogene/Uniprot)	
+YGIA_ECOLI	Q79CP2				2	0	pseudogene (Ecogene/Uniprot)	
+YQGD_ECOLI	P46879				2	0	pseudogene (Ecogene)	
+TSX_ECOLI	P0A927				2	0	Prophage transposase	Common Core
+PSPE_ECOLI	P23857				2	0	Prophage transposase	Common Core
+PSPA_ECOLI	P0AFM6				2	0	Prophage transposase	Common Core
+HFLK_ECOLI	P0ABC7				2	0	Prophage transposase	Common Core
+PSPC_ECOLI	P0AFN2				2	0	Prophage transposase	Common Core
+PSPG_ECOLI	P32696				2	0	Prophage transposase	Common Core
+XERC_ECOLI	P0A8P6				2	0	Prophage transposase	Common Core
+XERD_ECOLI	P0A8P8				2	0	Prophage transposase	Common Core
+YLCH_ECOLI	Q47268		MD12		2	2	Prophage Integrase (EcoGene)	
+TORI_ECOLI	Q2EES9				2	0	Prophage Integrase (EcoGene)	
+YEBC_ECOLI	P0A8A0				2	0	Prophage Integrase	Common Core
+YEEN_ECOLI	P0A8A2				2	0	Prophage Integrase	Common Core
+YIGB_ECOLI	P0ADP0				2	0	Prophage Integrase	Common Core
+INSQ_ECOLI	P76102				2	0	"Insertion Sequence;Insertion Element ;Transposase"	
+SUFA_ECOLI	P77667				0	0	homolog to C6EKH9 and P0AAC8	Common Core
+RZOQ_ECOLI	C1P601		MD8		0	2		
+YKGR_ECOLI	C1P5Z8		MD1		0	2		
+YLCI_ECOLI	A5A607		MD12		0	2		
+YTHA_ECOLI	A8DYQ1		MD9		0	2		
+YRHD_ECOLI	P58037		MD38		0	2		
+YNBG_ECOLI	C1P600		MD2		0	2		

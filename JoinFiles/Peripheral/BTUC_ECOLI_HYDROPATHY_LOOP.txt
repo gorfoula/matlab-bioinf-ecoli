@@ -1,0 +1,82 @@
+Hydropathy analysis results for protein:
+    BTUC_ECOLI
+
+User Comment: 
+
+Changed residues: None
+
+All Asp charged: true
+All Glu charged: true
+All His charged: false
+    His 139 Neutral
+    His 262 Neutral
+    His 272 Neutral
+Salt bridges: None
+Scale: WW Octanol (Oct)
+DCONH value: 0.0
+Mode: Locate
+Partitioning: bilayer to water
+Window size: 19
+
+Number of hydropathy predicted segments: 9
+
+1-33 (33) : MLTLARQQQRQNIRWLLCLSVLMLLALLLSLCA
+    DG = 8,02 for segment sequence
+    DG = 13,84 for most favorable 19AA centered at #24L
+    (WLLCLSVLMLLALLLSLCA)
+
+50-81 (32) : LFVWQIRLPRTLAVLLVGAALAISGAVMQALF
+    DG = 7,7 for segment sequence
+    DG = 5,62 for most favorable 19AA centered at #59R
+    (LFVWQIRLPRTLAVLLVGA)
+
+101-143 (43) : LIAAVLLGQGQLPNWALGLCAIAGALIITLILLRFARRhLSTS
+    DG = 6,04 for segment sequence
+    DG = 9,54 for most favorable 19AA centered at #124G
+    (WALGLCAIAGALIITLILL)
+
+152-180 (29) : LGIICSALMTWAIYFSTSVDLRQLMYWMM
+    DG = 8,58 for segment sequence
+    DG = 7,49 for most favorable 19AA centered at #161T
+    (LGIICSALMTWAIYFSTSV)
+
+188-216 (29) : WRQSWLMLALIPVLLWICCQSRPMNMLAL
+    DG = 11,56 for segment sequence
+    DG = 12,25 for most favorable 19AA centered at #197L
+    (WRQSWLMLALIPVLLWICC)
+
+224-242 (19) : LGLPLWFWRNVLVAATGWM
+    DG = 8,22 for segment sequence
+    DG = 8,22 for most favorable 19AA centered at #233N
+    (LGLPLWFWRNVLVAATGWM)
+
+252-270 (19) : AIGFIGLVIPhILRLCGLT
+    DG = 5,41 for segment sequence
+    DG = 5,41 for most favorable 19AA centered at #261P
+    (AIGFIGLVIPhILRLCGLT)
+
+272-290 (19) : hRVLLPGCALAGASALLLA
+    DG = 0,66 for segment sequence
+    DG = 0,66 for most favorable 19AA centered at #281L
+    (hRVLLPGCALAGASALLLA)
+
+303-321 (19) : LPIGVVTATLGAPVFIWLL
+    DG = 8,34 for segment sequence
+    DG = 8,34 for most favorable 19AA centered at #312L
+    (LPIGVVTATLGAPVFIWLL)
+
+
+Number of known transmembrane regions: 0
+
+Number of user marked segments: 0
+
+
+Working sequence:
+
+MLTLARQQQRQNIRWLLCLSVLMLLALLLSLCAGEQWISPGDWFTPRGELFVWQIRLPRT
+LAVLLVGAALAISGAVMQALFENPLAEPGLLGVSNGAGVGLIAAVLLGQGQLPNWALGLC
+AIAGALIITLILLRFARRhLSTSRLLLAGVALGIICSALMTWAIYFSTSVDLRQLMYWMM
+GGFGGVDWRQSWLMLALIPVLLWICCQSRPMNMLALGEISARQLGLPLWFWRNVLVAATG
+WMVGVSVALAGAIGFIGLVIPhILRLCGLTDhRVLLPGCALAGASALLLADIVARLALAA
+AELPIGVVTATLGAPVFIWLLLKAGR
+

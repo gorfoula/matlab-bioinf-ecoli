@@ -1,0 +1,378 @@
+Join Name	Removal Reason
+P36930	Insertion Sequence
+P0CE57	"Insertion Sequence;Transposase"
+P0CE58	"Insertion Sequence;Transposase"
+P0CF40	"Insertion Sequence;Insertion Element ;Transposase"
+P0CF41	"Insertion Sequence;Insertion Element ;Transposase"
+P0CF42	"Insertion Sequence;Insertion Element ;Transposase"
+P0CF43	"Insertion Sequence;Insertion Element ;Transposase"
+P0CF44	"Insertion Sequence;Insertion Element ;Transposase"
+P0CF45	"Insertion Sequence;Insertion Element ;Transposase"
+P0CF46	"Insertion Sequence;Insertion Element ;Transposase;Plasmid F"
+P0CF53	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF54	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF55	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF56	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF57	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF58	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF59	"Insertion Sequence;Insertion Element ;Transposase;Plasmid F"
+P0CF60	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF66	"Insertion Sequence;Transposase"
+P0CF67	"Insertion Sequence;Transposase"
+P0CF68	"Insertion Sequence;Transposase"
+P0CF69	"Insertion Sequence;Transposase"
+P0CF70	"Insertion Sequence;Transposase"
+P0CF71	"Insertion Sequence;Transposase;Plasmid F"
+P0CF72	"Insertion Sequence;Transposase;Plasmid F"
+P0CF79	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+P0CF80	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+P0CF81	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+P0CF82	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+P0CF83	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+P0CF84	"Insertion Sequence;Transposase;Plasmid F"
+Q9JMT3	"Insertion Sequence;Transposase;Plasmid F"
+P03835	"Insertion Sequence;Transposase"
+P0CE49	"Insertion Sequence;Transposase"
+P0CE50	"Insertion Sequence;Transposase"
+P0CE51	"Insertion Sequence;Transposase"
+P0CE52	"Insertion Sequence;Transposase"
+P76071	"Insertion Sequence;Transposase"
+P0CE53	"Insertion Sequence;Transposase"
+P0CE54	"Insertion Sequence;Transposase"
+P0CE55	"Insertion Sequence;Transposase"
+P0CE56	"Insertion Sequence;Transposase"
+P0CF88	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF89	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF90	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P19769	"Insertion Sequence;Insertion Element ;Transposase;Rhs Element;Prophage Integrase"
+P0CF91	"Insertion Sequence;Insertion Element ;Transposase"
+P0CF92	"Insertion Sequence;Transposase"
+P0CF93	"Insertion Sequence;Transposase"
+P75679	"Insertion Sequence;Transposase"
+P39212	"Insertion Sequence;Transposase"
+P75680	"Insertion Sequence;Transposase"
+Q47718	"Insertion Sequence;Transposase;Rhs Element;Prophage Integrase"
+P76102	"Insertion Sequence;Insertion Element ;Transposase"
+P77184	Insertion Sequence
+P75697	Insertion Sequence
+P33924	"Insertion Sequence;Insertion Element "
+P0ABP3	Insertion Element 
+P0CF07	Insertion Element 
+P0CF08	Insertion Element 
+P0CF09	Insertion Element 
+P0CF10	Insertion Element 
+P0CF11	Insertion Element 
+P0CF12	Insertion Element 
+P19767	Insertion Element 
+P0CF25	"Insertion Element ;Transposase"
+P0CF26	"Insertion Element ;Transposase"
+P0CF27	"Insertion Element ;Transposase"
+P57998	"Insertion Element ;Transposase"
+P0CF28	"Insertion Element ;Transposase"
+P0CF29	"Insertion Element ;Transposase"
+P19768	Insertion Element 
+P0AFF2	Insertion Element 
+P36667	Insertion Element 
+Q00037	"Transposase;Plasmid F"
+P31665	Transposase
+P28916	"Transposase;Rhs Element"
+P75741	"Transposase;Rhs Element"
+Q2EEQ8	Transposase
+P30192	Transposase
+P28917	"Transposase;Rhs Element"
+P37014	Transposase
+P77768	Transposase
+P31667	Transposase
+P28912	"Transposase;Rhs Element"
+P39387	Transposase
+Q79E92	Transposase
+P76119	Transposase
+P75969	"Rhs Element;Prophage Integrase;EcoGene Prophage Integrase "
+P24218	"Rhs Element;Prophage Integrase;EcoGene Prophage Integrase "
+P32053	"Rhs Element;Prophage Integrase;EcoGene Prophage Integrase "
+P37326	"Rhs Element;Prophage Integrase;EcoGene Prophage Integrase "
+P39347	"Rhs Element;Prophage Integrase"
+P76168	"Rhs Element;Prophage Integrase"
+P76056	"Rhs Element;Prophage Integrase;EcoGene Prophage Integrase "
+P76542	"Rhs Element;Prophage Integrase;EcoGene Prophage Integrase "
+P71298	"Rhs Element;Prophage Integrase;EcoGene Prophage Integrase "
+P76323	"Rhs Element;Prophage Integrase"
+P16917	Rhs Element
+P16918	Rhs Element
+P16916	Rhs Element
+P16919	Rhs Element
+P32109	Rhs Element
+P24211	Rhs Element
+P77779	Rhs Element
+P77759	Rhs Element
+P0A6K1	Prophage Integrase
+P0ADH5	Prophage Integrase
+P0ADH7	Prophage Integrase
+P52627	Prophage Integrase
+P03018	Prophage Integrase
+P37007	"Prophage Integrase;EcoGene Prophage Integrase "
+P0A8A0	Prophage Integrase
+P0A8A2	Prophage Integrase
+P23305	Prophage Integrase
+P0ADP0	Prophage Integrase
+P05052	EcoGene Prophage Integrase 
+P06960	EcoGene Prophage Integrase 
+P06966	EcoGene Prophage Integrase 
+P09557	EcoGene Prophage Integrase 
+P06965	EcoGene Prophage Integrase 
+P11072	EcoGene Prophage Integrase 
+P24200	EcoGene Prophage Integrase 
+P23895	EcoGene Prophage Integrase 
+P09169	EcoGene Prophage Integrase 
+P03014	EcoGene Prophage Integrase 
+P15033	EcoGene Prophage Integrase 
+P15032	EcoGene Prophage Integrase 
+P0C079	EcoGene Prophage Integrase 
+P23849	EcoGene Prophage Integrase 
+P09153	EcoGene Prophage Integrase 
+P07010	EcoGene Prophage Integrase 
+P0ACG6	EcoGene Prophage Integrase 
+P0C077	EcoGene Prophage Integrase 
+P0ACW8	EcoGene Prophage Integrase 
+P29009	EcoGene Prophage Integrase 
+P21418	EcoGene Prophage Integrase 
+P29010	EcoGene Prophage Integrase 
+P31062	EcoGene Prophage Integrase 
+P33228	EcoGene Prophage Integrase 
+P33229	EcoGene Prophage Integrase 
+P33230	EcoGene Prophage Integrase 
+P33997	EcoGene Prophage Integrase 
+P38392	EcoGene Prophage Integrase 
+P38393	EcoGene Prophage Integrase 
+P38394	EcoGene Prophage Integrase 
+P0ACW0	EcoGene Prophage Integrase 
+P76061	EcoGene Prophage Integrase 
+P36995	EcoGene Prophage Integrase 
+P0A976	EcoGene Prophage Integrase 
+P37009	EcoGene Prophage Integrase 
+P37057	EcoGene Prophage Integrase 
+P39180	EcoGene Prophage Integrase 
+P45581	EcoGene Prophage Integrase 
+P76510	EcoGene Prophage Integrase 
+P52123	EcoGene Prophage Integrase 
+P52124	EcoGene Prophage Integrase 
+P52125	EcoGene Prophage Integrase 
+P52126	EcoGene Prophage Integrase 
+P52127	EcoGene Prophage Integrase 
+P52128	EcoGene Prophage Integrase 
+P52129	EcoGene Prophage Integrase 
+P52130	EcoGene Prophage Integrase 
+P52131	EcoGene Prophage Integrase 
+P52132	EcoGene Prophage Integrase 
+P52133	EcoGene Prophage Integrase 
+O52982	EcoGene Prophage Integrase 
+P52135	EcoGene Prophage Integrase 
+P52138	EcoGene Prophage Integrase 
+P52139	EcoGene Prophage Integrase 
+P52140	EcoGene Prophage Integrase 
+P52141	EcoGene Prophage Integrase 
+Q47684	EcoGene Prophage Integrase 
+P75676	EcoGene Prophage Integrase 
+P77365	EcoGene Prophage Integrase 
+P77206	EcoGene Prophage Integrase 
+P75678	EcoGene Prophage Integrase 
+Q57083	EcoGene Prophage Integrase 
+Q47689	EcoGene Prophage Integrase 
+Q47690	EcoGene Prophage Integrase 
+P75682	EcoGene Prophage Integrase 
+P77596	EcoGene Prophage Integrase 
+P75683	EcoGene Prophage Integrase 
+P77713	EcoGene Prophage Integrase 
+P77300	EcoGene Prophage Integrase 
+P76057	EcoGene Prophage Integrase 
+P76062	EcoGene Prophage Integrase 
+P76063	EcoGene Prophage Integrase 
+P76064	EcoGene Prophage Integrase 
+P76065	EcoGene Prophage Integrase 
+P77546	EcoGene Prophage Integrase 
+P76072	EcoGene Prophage Integrase 
+P77163	EcoGene Prophage Integrase 
+P0ADI0	EcoGene Prophage Integrase 
+P76073	EcoGene Prophage Integrase 
+P76361	EcoGene Prophage Integrase 
+P76362	EcoGene Prophage Integrase 
+P64521	EcoGene Prophage Integrase 
+P76364	EcoGene Prophage Integrase 
+P64524	EcoGene Prophage Integrase 
+P77609	EcoGene Prophage Integrase 
+P75967	EcoGene Prophage Integrase 
+P75968	EcoGene Prophage Integrase 
+P77162	EcoGene Prophage Integrase 
+P77657	EcoGene Prophage Integrase 
+P77607	EcoGene Prophage Integrase 
+P71296	EcoGene Prophage Integrase 
+P71297	EcoGene Prophage Integrase 
+P77698	EcoGene Prophage Integrase 
+P77368	EcoGene Prophage Integrase 
+P77634	EcoGene Prophage Integrase 
+Q47269	EcoGene Prophage Integrase 
+P68661	EcoGene Prophage Integrase 
+Q47274	EcoGene Prophage Integrase 
+P0A9R2	EcoGene Prophage Integrase 
+P78285	EcoGene Prophage Integrase 
+P75719	EcoGene Prophage Integrase 
+P77330	EcoGene Prophage Integrase 
+P77598	EcoGene Prophage Integrase 
+P64435	EcoGene Prophage Integrase 
+P76154	EcoGene Prophage Integrase 
+P77170	EcoGene Prophage Integrase 
+P76155	EcoGene Prophage Integrase 
+P77515	EcoGene Prophage Integrase 
+P76156	EcoGene Prophage Integrase 
+P76158	EcoGene Prophage Integrase 
+P76159	EcoGene Prophage Integrase 
+P76160	EcoGene Prophage Integrase 
+P77237	EcoGene Prophage Integrase 
+P76161	EcoGene Prophage Integrase 
+P76162	EcoGene Prophage Integrase 
+P76163	EcoGene Prophage Integrase 
+P77695	EcoGene Prophage Integrase 
+P0A986	EcoGene Prophage Integrase 
+P77682	EcoGene Prophage Integrase 
+P77293	EcoGene Prophage Integrase 
+P76507	EcoGene Prophage Integrase 
+P77656	EcoGene Prophage Integrase 
+P76512	EcoGene Prophage Integrase 
+P76513	EcoGene Prophage Integrase 
+P76514	EcoGene Prophage Integrase 
+P76515	EcoGene Prophage Integrase 
+P76516	EcoGene Prophage Integrase 
+P76543	EcoGene Prophage Integrase 
+P76544	EcoGene Prophage Integrase 
+P76545	EcoGene Prophage Integrase 
+P76546	EcoGene Prophage Integrase 
+P76547	EcoGene Prophage Integrase 
+P76548	EcoGene Prophage Integrase 
+P76549	EcoGene Prophage Integrase 
+P76550	EcoGene Prophage Integrase 
+P75970	EcoGene Prophage Integrase 
+P75972	EcoGene Prophage Integrase 
+P75973	EcoGene Prophage Integrase 
+P75974	EcoGene Prophage Integrase 
+P75976	EcoGene Prophage Integrase 
+P75977	EcoGene Prophage Integrase 
+P75982	EcoGene Prophage Integrase 
+P75677	EcoGene Prophage Integrase 
+Q46953	EcoGene Prophage Integrase 
+Q47270	EcoGene Prophage Integrase 
+P76068	EcoGene Prophage Integrase 
+P58033	EcoGene Prophage Integrase 
+Q47685	EcoGene Prophage Integrase 
+Q9XB42	EcoGene Prophage Integrase 
+P77692	EcoGene Prophage Integrase 
+P75979	EcoGene Prophage Integrase 
+P09154	EcoGene Prophage Integrase 
+Q47272	EcoGene Prophage Integrase 
+Q47268	EcoGene Prophage Integrase 
+P52134	EcoGene Prophage Integrase 
+P58041	EcoGene Prophage Integrase 
+P58042	EcoGene Prophage Integrase 
+P76157	EcoGene Prophage Integrase 
+Q2EES9	EcoGene Prophage Integrase 
+P75975	EcoGene Prophage Integrase 
+Q2EES0	EcoGene Prophage Integrase 
+P0AG74	EcoGene Prophage Integrase 
+P18032	Plasmid F
+P62552	Plasmid F
+P62554	Plasmid F
+P13959	"Plasmid F; Plasmid IncFI P307"
+P22707	Plasmid F
+P62670	Plasmid F
+P11519	Plasmid F
+P56979	Plasmid F
+P34210	Plasmid F
+P96329	Plasmid F
+P10030	Plasmid F
+P04737	"Plasmid F; Plasmid IncFI R386; Plasmid IncFI ColV2-K94; Plasmid IncFI ColVBtrp"
+P18148	Plasmid F
+P10031	Plasmid F
+P13960	Plasmid F
+P06615	Plasmid F
+Q57154	"Plasmid F; Plasmid IncFI P307; Plasmid IncFI pHH502; Plasmid IncFI ColVBtrp"
+P03856	Plasmid F
+P56980	Plasmid F
+P62556	Plasmid F
+P62558	Plasmid F
+P13970	Plasmid F
+P18310	Plasmid F
+Q00042	Plasmid F
+P03012	Plasmid F
+P41067	"Plasmid F; Plasmid IncFII ColB2"
+P18004	Plasmid F
+P09130	"Plasmid F; Plasmid p1658/97"
+P08322	Plasmid F
+P14497	Plasmid F
+P33790	Plasmid F
+P15069	Plasmid F
+P14565	Plasmid F
+P06626	Plasmid F
+P41066	Plasmid F
+P08321	"Plasmid F; Plasmid IncFII R1; Plasmid IncFII ColB2"
+P10026	Plasmid F
+P24082	Plasmid F
+P41068	Plasmid F
+P18033	Plasmid F
+P41065	Plasmid F
+P09129	Plasmid F
+P13979	Plasmid F
+P18471	Plasmid F
+P41069	Plasmid F
+P18472	Plasmid F
+P22709	Plasmid F
+P06627	Plasmid F
+P18034	Plasmid F
+P18035	Plasmid F
+P18473	Plasmid F
+P41070	Plasmid F
+Q05807	Plasmid F
+P15068	Plasmid F
+P41072	Plasmid F
+P19381	Plasmid F
+P18006	Plasmid F
+P18353	Plasmid F
+P47737	Plasmid F
+Q9JMT9	Plasmid F
+Q9JMT8	Plasmid F
+Q9JMT7	Plasmid F
+Q9JMT6	Plasmid F
+Q9JMT5	Plasmid F
+Q9JMT4	Plasmid F
+Q9JMT2	Plasmid F
+Q9JMT1	Plasmid F
+Q9JMS9	Plasmid F
+Q9JMS8	Plasmid F
+Q9JMS7	Plasmid F
+Q9JMS6	Plasmid F
+Q9JMS5	Plasmid F
+Q9JMS4	Plasmid F
+Q9JMS3	Plasmid F
+P34211	Plasmid F
+Q9JMS2	Plasmid F
+Q9JMS1	Plasmid F
+Q9JMS0	Plasmid F
+Q9JMR9	Plasmid F
+Q9JMR8	Plasmid F
+Q9JMR7	Plasmid F
+Q9JMR6	"Plasmid F; Plasmid p300"
+P08868	Plasmid F
+Q9S4X5	Plasmid F
+Q9S4X4	Plasmid F
+Q9S4X3	Plasmid F
+Q9S4X2	Plasmid F
+Q9S4X1	Plasmid F
+Q9S4X0	Plasmid F
+Q9S4W9	Plasmid F
+Q9JMR5	Plasmid F
+Q9S4W7	Plasmid F
+P0C243	Plasmid F
+Q9JMR4	Plasmid F
+Q9JMR3	Plasmid F
+Q9S4W2	Plasmid F
+Q9JMR2	Plasmid F
+Q02885	Plasmid F
+P18005	"Plasmid F; Plasmid IncFII R1"

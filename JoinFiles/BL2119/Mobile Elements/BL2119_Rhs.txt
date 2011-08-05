@@ -1,0 +1,6 @@
+Accession	Gene names	Gene names (PREFERRED)	Gene names (ALTERNATIVE)	Gene names (OLN)	Entry name	Subcellular locations	Protein existence	Protein family	Protein names	Gene Ontology ID	Keywords	Length	Gene location
+C6EKW7	rhsD ECBD_3159 ECD_00448	rhsD		ECBD_3159 ECD_00448	C6EKW7_ECOBD		Predicted		RhsD element protein (YD repeat protein)		Complete proteome	1426	
+C6EE82	rhsA ECBD_0137 ECD_03448	rhsA		ECBD_0137 ECD_03448	C6EE82_ECOBD		Predicted		Rhs family protein-like protein (RhsA element core protein RshA)		Complete proteome	290	
+C6EF92	rhsB ECBD_0259 ECD_03331	rhsB		ECBD_0259 ECD_03331	C6EF92_ECOBD		Predicted		RhsB element core protein RshB (YD repeat protein)		Complete proteome	1411	
+C6EKW5	ylbH ECBD_3157 ECD_00450	ylbH		ECBD_3157 ECD_00450	C6EKW5_ECOBD		Predicted		Conserved protein, rhs-like protein (RHS protein)		Complete proteome	236	
+C6EE80	ECBD_0135			ECBD_0135	C6EE80_ECOBD		Predicted		RHS protein		Complete proteome	312	

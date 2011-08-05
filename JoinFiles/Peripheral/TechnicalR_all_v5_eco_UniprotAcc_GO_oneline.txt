@@ -1,0 +1,763 @@
+BAES_ECOLI	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+MACB_ECOLI	hydrolase activity|nucleotide binding|ATP binding
+GCSP_ECOLI	glycine dehydrogenase (decarboxylating) activity|oxidoreductase activity
+PARC_ECOLI	isomerase activity|DNA topoisomerase activity|DNA binding
+POTC_ECOLI	polyamine-transporting ATPase activity
+HFLX_ECOLI	ribosome binding|rRNA binding|GTP binding|nucleotide binding|ATP binding
+DLDH_ECOLI	dihydrolipoyl dehydrogenase activity|disulfide oxidoreductase activity|oxidoreductase activity|flavin adenine dinucleotide binding|zinc ion binding
+RS6_ECOLI	structural constituent of ribosome|RNA binding|rRNA binding
+ATKB_ECOLI	hydrolase activity|two-component sensor activity|potassium-transporting ATPase activity|aspartate kinase activity|nucleotide binding|metal ion binding|ATP binding
+UGPC_ECOLI	hydrolase activity|glycerol-3-phosphate-transporting ATPase activity|nucleotide binding|ATP binding
+METN_ECOLI	hydrolase activity|ATPase activity|nucleotide binding|ATP binding|D-methionine transmembrane transporter activity
+EPTA_ECOLI	transferase activity
+RL23_ECOLI	RNA binding|rRNA binding
+HEMG_ECOLI	oxygen-dependent protoporphyrinogen oxidase activity|oxidoreductase activity|FMN binding|menaquinone-dependent protoporphyrinogen oxidase activity
+TATA_ECOLI	protein transporter activity|proton motive force dependent protein transmembrane transporter activity
+RLUF_ECOLI	isomerase activity|pseudouridine synthase activity|RNA binding
+PYRG_ECOLI	CTP synthase activity|nucleotide binding|ligase activity|ATP binding
+NARX_ECOLI	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+DNAB_ECOLI	hydrolase activity|helicase activity|DNA binding|nucleotide binding|ATP binding
+FADE_ECOLI	oxidoreductase activity
+RPOC_ECOLI	DNA-directed RNA polymerase activity|transferase activity|nucleotidyltransferase activity
+SUCD_ECOLI	succinate-CoA ligase (ADP-forming) activity|nucleotide binding|ligase activity|ATP binding
+YFHB_ECOLI	tRNA-specific adenosine deaminase activity
+RL4_ECOLI	RNA binding|rRNA binding|translation repressor activity
+RS14_ECOLI	structural constituent of ribosome
+LPTB_ECOLI	hydrolase activity|lipopolysaccharide-transporting ATPase activity|nucleotide binding|ATP binding
+LPTC_ECOLI	glycolipid transporter activity
+GLPD_ECOLI	oxidoreductase activity|glycerol-3-phosphate dehydrogenase activity|sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity|sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity
+KPRS_ECOLI	transferase activity|kinase activity|ribose phosphate diphosphokinase activity|nucleotide binding|metal ion binding|ATP binding
+KPYK2_ECOLI	pyruvate kinase activity|transferase activity|kinase activity|nucleotide binding|catalytic activity|metal ion binding|ATP binding
+PFLB_ECOLI	formate C-acetyltransferase activity|transferase activity|acyltransferase activity
+CPXA_ECOLI	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+PBP2_ECOLI	drug binding|serine-type D-Ala-D-Ala carboxypeptidase activity|carboxypeptidase activity|penicillin binding|catalytic activity
+LRP_ECOLI	sequence-specific DNA binding|DNA binding
+NUSA_ECOLI	RNA binding
+CYDB_ECOLI	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor|oxidoreductase activity|iron ion binding|heme binding|metal ion binding
+RL2_ECOLI	RNA binding|rRNA binding|zinc ion binding
+ARNT_ECOLI	transferase activity, transferring pentosyl groups|transferase activity, transferring glycosyl groups|transferase activity
+RS5_ECOLI	RNA binding|rRNA binding
+EFTU2_ECOLI	GTP binding|translation elongation factor activity|nucleotide binding
+DEOB_ECOLI	isomerase activity|phosphopentomutase activity|metal ion binding
+DEF_ECOLI	hydrolase activity|peptide deformylase activity|ferrous iron binding|zinc ion binding|metal ion binding
+RL14_ECOLI	RNA binding|rRNA binding
+RS19_ECOLI	RNA binding|rRNA binding|tRNA binding
+WECA_ECOLI	drug binding|phosphotransferase activity, for other substituted phosphate groups|manganese ion binding|transferase activity, transferring glycosyl groups|magnesium ion binding|transferase activity|phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+PLSC_ECOLI	transferase activity, transferring acyl groups other than amino-acyl groups|transferase activity|1-acylglycerol-3-phosphate O-acyltransferase activity|acyltransferase activity
+MSBB_ECOLI	transferase activity|acyltransferase activity
+ATPB_ECOLI	hydrolase activity|nucleotide binding|ATP binding
+HTPX_ECOLI	metallopeptidase activity|hydrolase activity|peptidase activity|metalloendopeptidase activity|zinc ion binding|metal ion binding
+G3P1_ECOLI	oxidoreductase activity|glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+PGSA_ECOLI	transferase activity|CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+YEFI_ECOLI	transferase activity
+NDK_ECOLI	nucleoside diphosphate kinase activity|transferase activity|kinase activity|identical protein binding|nucleotide binding|metal ion binding|ATP binding
+LEP_ECOLI	hydrolase activity|peptidase activity|toxin binding
+ILVD_ECOLI	4 iron, 4 sulfur cluster binding|lyase activity|iron-sulfur cluster binding|dihydroxy-acid dehydratase activity|metal ion binding
+GALP_ECOLI	galactose:hydrogen symporter activity|symporter activity
+RL18_ECOLI	RNA binding|rRNA binding
+RNE_ECOLI	hydrolase activity|RNA binding|nuclease activity|endonuclease activity
+RSMC_ECOLI	methyltransferase activity|transferase activity|rRNA (guanine-N2-)-methyltransferase activity
+TIG_ECOLI	isomerase activity|protein binding involved in protein folding|peptidyl-prolyl cis-trans isomerase activity|ribosome binding
+RS1_ECOLI	RNA binding
+TREC_ECOLI	hydrolase activity|hydrolase activity, acting on glycosyl bonds|alpha,alpha-phosphotrehalase activity
+PTTBC_ECOLI	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity
+RPOZ_ECOLI	DNA-directed RNA polymerase activity|transferase activity|nucleotidyltransferase activity
+DHG_ECOLI	quinoprotein glucose dehydrogenase activity|oxidoreductase activity
+YFJD_ECOLI	quinoprotein glucose dehydrogenase activity|pyrroloquinoline quinone binding|ubiquinone binding|magnesium ion binding
+DEOD_ECOLI	transferase activity, transferring glycosyl groups|transferase activity|purine-nucleoside phosphorylase activity
+RL20_ECOLI	structural constituent of ribosome|RNA binding|rRNA binding|translation repressor activity, nucleic acid binding
+RHLE_ECOLI	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP-dependent RNA helicase activity|ATP binding
+SECA_ECOLI	nucleotide binding|metal ion binding|ATP binding
+DEAD_ECOLI	hydrolase activity|RNA helicase activity|RNA binding|helicase activity|nucleotide binding|ATP-dependent RNA helicase activity|ATP binding
+PUTA_ECOLI	oxidoreductase activity|proline dehydrogenase activity|DNA binding|sequence-specific DNA binding transcription factor activity|flavin adenine dinucleotide binding|catalytic activity|1-pyrroline-5-carboxylate dehydrogenase activity
+LEPA_ECOLI	hydrolase activity|GTP binding|translation elongation factor activity|GTPase activity|nucleotide binding
+OPDA_ECOLI	metallopeptidase activity|hydrolase activity|peptidase activity|metal ion binding
+YJCD_ECOLI	nucleotide binding|ATP binding
+RFAF_ECOLI	transferase activity, transferring glycosyl groups|transferase activity
+ODP1_ECOLI	dihydrolipoyllysine-residue acetyltransferase activity|lipoic acid binding|oxidoreductase activity|pyruvate dehydrogenase (acetyl-transferring) activity|metal ion binding
+YHJD_ECOLI	transporter activity
+UBIA_ECOLI	transferase activity|transferase activity, transferring alkyl or aryl (other than methyl) groups|4-hydroxybenzoate octaprenyltransferase activity
+FADI_ECOLI	transferase activity|acetyl-CoA C-acyltransferase activity|acyltransferase activity
+ATPA_ECOLI	hydrolase activity|nucleotide binding|ATP binding
+DHSA_ECOLI	electron carrier activity|oxidoreductase activity|flavin adenine dinucleotide binding|succinate dehydrogenase activity
+LONH_ECOLI	hydrolase activity|serine-type peptidase activity|peptidase activity
+RL13_ECOLI	zinc ion binding
+ATPD_ECOLI	ATP phosphoribosyltransferase activity
+FTSE_ECOLI	nucleotide binding|ATP binding
+CISY_ECOLI	transferase activity|citrate (Si)-synthase activity|catalytic activity
+RIR1_ECOLI	oxidoreductase activity|ribonucleoside-diphosphate reductase activity|nucleotide binding|catalytic activity|ATP binding
+FADJ_ECOLI	isomerase activity|oxidoreductase activity|lyase activity|enoyl-CoA hydratase activity|3-hydroxybutyryl-CoA epimerase activity|catalytic activity|3-hydroxyacyl-CoA dehydrogenase activity
+RL9_ECOLI	RNA binding|rRNA binding
+RL11_ECOLI	RNA binding|rRNA binding
+YBAL_ECOLI	antiporter activity
+RS2_ECOLI	structural constituent of ribosome|zinc ion binding
+CH10_ECOLI	unfolded protein binding
+PCNB_ECOLI	polynucleotide adenylyltransferase activity|RNA binding|transferase activity|nucleotide binding|ATP binding
+YEIU_ECOLI	undecaprenyl-diphosphatase activity|phosphotransferase activity, phosphate group as acceptor
+DHSD_ECOLI	electron carrier activity|heme binding|metal ion binding
+ASSY_ECOLI	argininosuccinate synthase activity|nucleotide binding|ligase activity|ATP binding
+MDLA_ECOLI	hydrolase activity|xenobiotic-transporting ATPase activity|nucleotide binding|ATP binding
+PNP_ECOLI	polyribonucleotide nucleotidyltransferase activity|RNA binding|transferase activity|nucleotidyltransferase activity
+ODO2_ECOLI	lipoic acid binding|dihydrolipoyllysine-residue succinyltransferase activity|binding|transferase activity|acyltransferase activity
+HTRB_ECOLI	transferase activity|acyltransferase activity
+STHA_ECOLI	NAD(P)+ transhydrogenase (B-specific) activity|oxidoreductase activity
+RODZ_ECOLI	DNA binding
+ARNC_ECOLI	phosphotransferase activity, for other substituted phosphate groups|transferase activity, transferring glycosyl groups|transferase activity
+CYSA_ECOLI	hydrolase activity|sulfate transmembrane-transporting ATPase activity|nucleotide binding|ATP binding
+ENGB_ECOLI	GTP binding|nucleotide binding
+GLGA_ECOLI	transferase activity, transferring glycosyl groups|starch synthase activity|transferase activity
+RL24_ECOLI	structural constituent of ribosome|RNA binding|rRNA binding
+STPA_ECOLI	DNA binding
+FRDC_ECOLI	electron carrier activity
+RNR_ECOLI	hydrolase activity|RNA binding|exoribonuclease II activity|exonuclease activity|nuclease activity
+CH60_ECOLI	nucleotide binding|ATP binding
+OXAA_ECOLI	membrane insertase activity
+DBHA_ECOLI	DNA binding
+RPOD_ECOLI	sigma factor activity|DNA binding
+ADD_ECOLI	hydrolase activity|adenosine deaminase activity|metal ion binding
+SRMB_ECOLI	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP-dependent RNA helicase activity|ATP binding
+Entry Name K12	hydroxyacylglutathione hydrolase activity
+PUTP_ECOLI	symporter activity|uniporter activity
+RS9_ECOLI	structural constituent of ribosome|RNA binding|tRNA binding
+ARND_ECOLI	hydrolase activity|hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+YFIF_ECOLI	methyltransferase activity|transferase activity
+YJCE_ECOLI	antiporter activity
+LPXK_ECOLI	transferase activity|tetraacyldisaccharide 4'-kinase activity|nucleotide binding|kinase activity|ATP binding
+MUKB_ECOLI	GTP binding|DNA binding|nucleotide binding|ATP binding
+RNFB_ECOLI	4 iron, 4 sulfur cluster binding|iron-sulfur cluster binding|2 iron, 2 sulfur cluster binding|metal ion binding
+TATB_ECOLI	proton motive force dependent protein transmembrane transporter activity
+LLDD_ECOLI	oxidoreductase activity|FMN binding|lactate dehydrogenase activity|L-lactate dehydrogenase (cytochrome) activity
+NUOL_ECOLI	oxidoreductase activity|quinone binding|NADH dehydrogenase (quinone) activity
+LOLE_ECOLI	lipoprotein transporter activity
+FTSZ_ECOLI	protein binding|GTP binding|GTPase activity|nucleotide binding
+SYP_ECOLI	proline-tRNA ligase activity|Ala-tRNA(Pro) hydrolase activity|aminoacyl-tRNA ligase activity|nucleotide binding|ATP binding|ligase activity
+PROP_ECOLI	solute:hydrogen symporter activity|symporter activity|uniporter activity
+PTFBC_ECOLI	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity
+ACCC_ECOLI	biotin carboxylase activity|acetyl-CoA carboxylase activity|nucleotide binding|ligase activity|ATP binding
+KEFB_ECOLI	antiporter activity
+BASS_ECOLI	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+OPGH_ECOLI	transferase activity, transferring glycosyl groups|transferase activity
+CARB_ECOLI	nucleotide binding|carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity|metal ion binding|ATP binding|ligase activity
+ACKA_ECOLI	transferase activity|acetate kinase activity|nucleotide binding|zinc ion binding|kinase activity|ATP binding
+YBBO_ECOLI	oxidoreductase activity
+ACTP_ECOLI	symporter activity
+YHCM_ECOLI	nucleotide binding|ATP binding
+PNTA_ECOLI	NAD(P)+ transhydrogenase (AB-specific) activity|oxidoreductase activity
+BARA_ECOLI	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+ISCS_ECOLI	pyridoxal phosphate binding|transferase activity|selenocysteine lyase activity|cysteine desulfurase activity
+YHIH_ECOLI	nucleotide binding|ATP binding
+RL21_ECOLI	RNA binding|rRNA binding
+HEMH_ECOLI	lyase activity|ferrochelatase activity|metal ion binding
+RFAQ_ECOLI	transferase activity, transferring glycosyl groups|transferase activity
+FADB_ECOLI	isomerase activity|oxidoreductase activity|lyase activity|enoyl-CoA hydratase activity|3-hydroxybutyryl-CoA epimerase activity|3-hydroxyacyl-CoA dehydrogenase activity|catalytic activity|dodecenoyl-CoA delta-isomerase activity
+PYRD_ECOLI	oxidoreductase activity|dihydroorotate dehydrogenase activity
+AAT_ECOLI	L-aspartate:2-oxoglutarate aminotransferase activity|pyridoxal phosphate binding|transaminase activity|transferase activity|protein homodimerization activity|kynurenine-oxoglutarate transaminase activity|L-tyrosine:2-oxoglutarate aminotransferase activity
+RS8_ECOLI	RNA binding|translation repressor activity|rRNA binding
+KGTP_ECOLI	symporter activity
+YOJI_ECOLI	peptide transporter activity|nucleotide binding|ATP binding
+ODO1_ECOLI	oxoglutarate dehydrogenase (succinyl-transferring) activity|oxidoreductase activity
+LNT_ECOLI	transferase activity|acyltransferase activity
+KDTA_ECOLI	transferase activity
+IHFB_ECOLI	DNA binding
+FEOB_ECOLI	GTP binding|nucleotide binding
+KCH_ECOLI	ion channel activity|voltage-gated potassium channel activity
+KBL_ECOLI	pyridoxal phosphate binding|transferase activity|glycine C-acetyltransferase activity|acyltransferase activity|ligase activity|metal ion binding
+DPO1_ECOLI	hydrolase activity|transferase activity|DNA-directed DNA polymerase activity|DNA binding|exonuclease activity|nuclease activity|nucleotidyltransferase activity
+RPOA_ECOLI	DNA-directed RNA polymerase activity|transferase activity|zinc ion binding|nucleotidyltransferase activity
+SRP54_ECOLI	RNA binding|GTP binding|GTPase activity|nucleotide binding
+PBPB_ECOLI	hydrolase activity|drug binding|serine-type D-Ala-D-Ala carboxypeptidase activity|transferase activity, transferring glycosyl groups|transferase activity|catalytic activity|peptidoglycan glycosyltransferase activity|penicillin binding
+DPPB_ECOLI	dipeptide transporter activity
+ATMA_ECOLI	hydrolase activity|magnesium-importing ATPase activity|nucleotide binding|metal ion binding|ATP binding
+NUOK_ECOLI	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity
+BETA_ECOLI	oxidoreductase activity|choline dehydrogenase activity
+ARGB_ECOLI	transferase activity|nucleotide binding|ATP binding|acetylornithine deacetylase activity|cobalt ion binding|kinase activity|acetylglutamate kinase activity|zinc ion binding
+MSCL_ECOLI	ion channel activity|mechanically-gated ion channel activity
+IF2_ECOLI	GTP binding|nucleotide binding|translation initiation factor activity
+RL19_ECOLI	RNA binding|rRNA binding
+RS18_ECOLI	RNA binding|rRNA binding
+ODP2_ECOLI	dihydrolipoyllysine-residue acetyltransferase activity|transferase activity|acyltransferase activity
+FIS_ECOLI	sequence-specific DNA binding|DNA binding
+DCTA_ECOLI	succinate transmembrane transporter activity|fumarate transmembrane transporter activity|L-aspartate transmembrane transporter activity|symporter activity|malate:hydrogen symporter activity
+YEGE_ECOLI	diguanylate cyclase activity|GTP binding|transferase activity|nucleotide binding|metal ion binding
+RL25_ECOLI	RNA binding|rRNA binding
+YGAF_ECOLI	L-2-hydroxyglutarate oxidase activity|(S)-2-hydroxy-acid oxidase activity|oxidoreductase activity|flavin adenine dinucleotide binding
+SUCC_ECOLI	succinate-CoA ligase (ADP-forming) activity|nucleotide binding|metal ion binding|ATP binding|ligase activity
+DSBD_ECOLI	oxidoreductase activity|protein-disulfide reductase activity
+YBDG_ECOLI	ion channel activity|mechanically-gated ion channel activity
+UPPP_ECOLI	hydrolase activity|undecaprenyl-diphosphatase activity
+ATZN_ECOLI	hydrolase activity|zinc-exporting ATPase activity|cadmium-exporting ATPase activity|nucleotide binding|metal ion binding|ATP binding
+HNS_ECOLI	DNA binding
+TPX_ECOLI	oxidoreductase activity|peroxidase activity|thioredoxin peroxidase activity|hydroperoxide reductase activity|antioxidant activity
+DAPD_ECOLI	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity|transferase activity|acyltransferase activity
+IHFA_ECOLI	DNA binding
+ARCA_ECOLI	two-component response regulator activity|DNA binding
+RL16_ECOLI	RNA binding|rRNA binding|tRNA binding
+RL29_ECOLI	RNA binding|rRNA binding
+RL10_ECOLI	RNA binding
+ARGE_ECOLI	hydrolase activity|acetylornithine deacetylase activity|cobalt ion binding|zinc ion binding|metal ion binding
+RL5_ECOLI	RNA binding|rRNA binding|tRNA binding
+FTSH_ECOLI	metallopeptidase activity|hydrolase activity|CTPase activity|nucleotide binding|ATP binding|manganese ion binding|peptidase activity|ATPase activity|zinc ion binding|metal ion binding
+CDH_ECOLI	hydrolase activity|CDP-diacylglycerol diphosphatase activity
+RHLB_ECOLI	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP binding
+QSEC_ECOLI	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+IF3_ECOLI	ribosome binding|RNA binding|translation initiation factor activity
+RS15_ECOLI	structural constituent of ribosome|RNA binding|rRNA binding
+ISPG_ECOLI	4 iron, 4 sulfur cluster binding|4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity|oxidoreductase activity|iron-sulfur cluster binding|metal ion binding
+EFTS_ECOLI	translation elongation factor activity|zinc ion binding
+NUOI_ECOLI	4 iron, 4 sulfur cluster binding|oxidoreduction-driven active transmembrane transporter activity|oxidoreductase activity|quinone binding|iron-sulfur cluster binding|NADH dehydrogenase (quinone) activity|metal ion binding
+SPPA_ECOLI	hydrolase activity|serine-type peptidase activity|peptidase activity
+CYDC_ECOLI	nucleotide binding|ATP binding
+AMPM_ECOLI	hydrolase activity|peptidase activity|metalloaminopeptidase activity|ferrous iron binding|aminopeptidase activity|metal ion binding
+MSCS_ECOLI	ion channel activity|mechanically-gated ion channel activity
+SYM_ECOLI	methionine-tRNA ligase activity|tRNA binding|nucleotide binding|ATP binding|ligase activity|RNA binding|aminoacyl-tRNA ligase activity|metal ion binding
+IDH_ECOLI	oxidoreductase activity|isocitrate dehydrogenase (NADP+) activity|metal ion binding
+MSBA_ECOLI	hydrolase activity|drug binding|lipopolysaccharide-transporting ATPase activity|lipid transporter activity|nucleotide binding|ATP binding|lipid binding|lipid-transporting ATPase activity
+SYY_ECOLI	RNA binding|tyrosine-tRNA ligase activity|nucleotide binding|aminoacyl-tRNA ligase activity|ligase activity|ATP binding
+SYA_ECOLI	alanine-tRNA ligase activity|tRNA binding|aminoacyl-tRNA editing activity|nucleotide binding|ATP binding|ligase activity|RNA binding|zinc ion binding|aminoacyl-tRNA ligase activity|metal ion binding
+DNAK_ECOLI	nucleotide binding|ATP binding
+PDXH_ECOLI	oxidoreductase activity|FMN binding|pyridoxamine-phosphate oxidase activity
+RL27_ECOLI	RNA binding|rRNA binding|tRNA binding
+ACON2_ECOLI	4 iron, 4 sulfur cluster binding|lyase activity|mRNA 3'-UTR binding|isocitrate hydro-lyase (cis-aconitate-forming) activity|aconitate hydratase activity|2-methylisocitrate dehydratase activity|citrate hydro-lyase (cis-aconitate-forming) activity|iron-sulfur cluster binding|mRNA binding|metal ion binding
+GLMS_ECOLI	transaminase activity|transferase activity|glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+CPTA_ECOLI	transferase activity
+CYDD_ECOLI	nucleotide binding|ATP binding
+CYOA_ECOLI	hydrogen ion transmembrane transporter activity|electron carrier activity|oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|ubiquinone binding
+RS7_ECOLI	mRNA binding|RNA binding|tRNA binding|rRNA binding
+ARLY_ECOLI	argininosuccinate synthase activity|lyase activity|argininosuccinate lyase activity|ATP binding
+RL3_ECOLI	RNA binding|rRNA binding
+TPIS_ECOLI	isomerase activity|triose-phosphate isomerase activity
+KEFC_ECOLI	antiporter activity|glutathione-regulated potassium exporter activity|enzyme binding|toxin binding|protein homodimerization activity
+AAS_ECOLI	acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase activity|transferase activity|catalytic activity|nucleotide binding|ligase activity|acyltransferase activity|ATP binding|long-chain fatty acid [acyl-carrier-protein] ligase activity
+DNAA_ECOLI	sequence-specific DNA binding|DNA binding|nucleotide binding|ATP binding
+GATD_ECOLI	oxidoreductase activity|oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor|galactitol-1-phosphate 5-dehydrogenase activity|metal ion binding
+PROQ_ECOLI	enzyme activator activity
+GLTP_ECOLI	symporter activity
+METH_ECOLI	methyltransferase activity|cobalamin binding|transferase activity|metal ion binding|methionine synthase activity
+RL6_ECOLI	RNA binding|rRNA binding
+PHOQ_ECOLI	protein histidine kinase activity|transferase activity|kinase activity|nucleotide binding|metal ion binding|ATP binding
+TYPH_ECOLI	thymidine phosphorylase activity|transferase activity, transferring glycosyl groups|transferase activity
+YADG_ECOLI	nucleotide binding|ATP binding
+PSS_ECOLI	CDP-diacylglycerol-serine O-phosphatidyltransferase activity|transferase activity
+SEQA_ECOLI	DNA binding
+KEFA_ECOLI	mechanically-gated ion channel activity
+PBPA_ECOLI	hydrolase activity|peptidoglycan glycosyltransferase activity|serine-type D-Ala-D-Ala carboxypeptidase activity|transferase activity, transferring glycosyl groups|transferase activity|penicillin binding|catalytic activity
+SYN_ECOLI	asparaginase activity|asparagine-tRNA ligase activity|nucleotide binding|ligase activity|ATP binding|amino acid binding|asparagine synthase (glutamine-hydrolyzing) activity|aminoacyl-tRNA ligase activity
+RSEP_ECOLI	metallopeptidase activity|hydrolase activity|peptidase activity|metal ion binding
+MDH_ECOLI	L-malate dehydrogenase activity|oxidoreductase activity|malate dehydrogenase activity
+OPPB_ECOLI	tripeptide transporter activity|oligopeptide-transporting ATPase activity
+COPA_ECOLI	hydrolase activity|glutaminase activity|nucleotide binding|hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances|metal ion binding|ATP binding
+RS17_ECOLI	structural constituent of ribosome|SSU rRNA binding|RNA binding|rRNA binding
+RLME_ECOLI	methyltransferase activity|rRNA (uridine-2'-O-)-methyltransferase activity|transferase activity
+MLAF_ECOLI	hydrolase activity|phospholipid transporter activity|nucleotide binding|ATP binding
+YHCB_ECOLI	oxidoreductase activity
+YEDV_ECOLI	transferase activity|protein kinase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+PNTB_ECOLI	NAD(P)+ transhydrogenase (AB-specific) activity|oxidoreductase activity
+EFG_ECOLI	GTP binding|translation elongation factor activity|nucleotide binding
+CLS_ECOLI	transferase activity|cardiolipin synthase activity
+GNTT_ECOLI	gluconate transmembrane transporter activity
+RLUB_ECOLI	isomerase activity|pseudouridine synthase activity|RNA binding
+KUP_ECOLI	symporter activity
+PTM3C_ECOLI	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity
+NUOF_ECOLI	4 iron, 4 sulfur cluster binding|oxidoreductase activity|quinone binding|iron-sulfur cluster binding|NAD binding|NADH dehydrogenase (quinone) activity|metal ion binding
+NUOJ_ECOLI	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity
+SOHB_ECOLI	hydrolase activity|serine-type peptidase activity|peptidase activity
+ASPA_ECOLI	lyase activity|aspartate ammonia-lyase activity
+GUAA_ECOLI	GMP synthase (glutamine-hydrolyzing) activity|GMP synthase activity|nucleotide binding|ligase activity|ATP binding
+RSGA_ECOLI	GDP binding|hydrolase activity|GTP binding|GTPase activity|nucleotide binding|metal ion binding
+PLSB_ECOLI	glycerol-3-phosphate O-acyltransferase activity|transferase activity|acyltransferase activity
+DHSB_ECOLI	electron carrier activity|4 iron, 4 sulfur cluster binding|3 iron, 4 sulfur cluster binding|oxidoreductase activity|iron-sulfur cluster binding|2 iron, 2 sulfur cluster binding|succinate dehydrogenase activity|metal ion binding
+PTYBC_ECOLI	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity
+RS10_ECOLI	structural constituent of ribosome|tRNA binding
+LPTF_ECOLI	lipopolysaccharide-transporting ATPase activity
+RS21_ECOLI	structural constituent of ribosome
+NUOH_ECOLI	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity
+6PGD_ECOLI	oxidoreductase activity|phosphogluconate dehydrogenase (decarboxylating) activity|protein homodimerization activity
+GLTB_ECOLI	oxidoreductase activity|iron-sulfur cluster binding|3 iron, 4 sulfur cluster binding|metal ion binding|glutamate synthase (NADPH) activity
+OMPR_ECOLI	two-component response regulator activity|DNA binding
+KDPD_ECOLI	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+RPOB_ECOLI	DNA-directed RNA polymerase activity|transferase activity|nucleotidyltransferase activity
+RHO_ECOLI	hydrolase activity|RNA binding|helicase activity|nucleotide binding|ATP binding
+NUOB_ECOLI	4 iron, 4 sulfur cluster binding|iron-sulfur cluster binding|quinone binding|oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity|metal ion binding
+ENO_ECOLI	phosphopyruvate hydratase activity|protein binding|lyase activity|magnesium ion binding|metal ion binding
+PLSX_ECOLI	transferase activity, transferring acyl groups other than amino-acyl groups|transferase activity
+CYOB_ECOLI	hydrogen ion transmembrane transporter activity|electron carrier activity|ubiquinone binding|cytochrome bo3 ubiquinol oxidase activity|copper ion binding|heme binding|oxidoreduction-driven active transmembrane transporter activity|oxidoreductase activity|metal ion binding
+RFAL_ECOLI	O antigen ligase activity|ligase activity
+CCMH_ECOLI	metal ion binding
+RL1_ECOLI	RNA binding|rRNA binding|tRNA binding
+MRAY_ECOLI	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity|transferase activity|phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+RS12_ECOLI	structural constituent of ribosome|RNA binding|tRNA binding|rRNA binding|misfolded RNA binding
+MQO_ECOLI	malate dehydrogenase (menaquinone) activity|malate dehydrogenase (quinone) activity|oxidoreductase activity
+POTB_ECOLI	polyamine-transporting ATPase activity
+RFAP_ECOLI	transferase activity|kinase activity|nucleotide binding|ATP binding
+LACI_ECOLI	DNA binding
+RS3_ECOLI	structural constituent of ribosome|SSU rRNA binding|RNA binding|rRNA binding
+RL15_ECOLI	RNA binding|rRNA binding
+ACEA_ECOLI	lyase activity|isocitrate lyase activity
+RL31_ECOLI	RNA binding|rRNA binding|metal ion binding
+GLNQ_ECOLI	nucleotide binding|ATP binding
+SSTT_ECOLI	neutral amino acid:sodium symporter activity|symporter activity
+FTSI_ECOLI	peptidoglycan glycosyltransferase activity|transferase activity, transferring glycosyl groups|penicillin binding|transferase activity|catalytic activity
+RS4_ECOLI	RNA binding|rRNA binding
+RS13_ECOLI	structural constituent of ribosome|RNA binding|rRNA binding|tRNA binding
+RL22_ECOLI	RNA binding|rRNA binding
+CYDA_ECOLI	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors|oxidoreductase activity|heme binding|metal ion binding
+ARCB_ECOLI	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding|histidine phosphotransfer kinase activity
+YFHK_ECOLI	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+PTNAB_ECOLI	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity
+PURP_ECOLI	solute:hydrogen symporter activity|adenine transmembrane transporter activity
+WECG_ECOLI	transferase activity, transferring glycosyl groups|transferase activity
+MURG_ECOLI	UDP-N-acetyl-D-glucosamine:N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase activity|transferase activity, transferring glycosyl groups|undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity|transferase activity
+DNAJ_ECOLI	unfolded protein binding|protein homodimerization activity|protein disulfide isomerase activity|zinc ion binding|metal ion binding
+TALB_ECOLI	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity|transferase activity
+SUHB_ECOLI	glycerol-2-phosphatase activity|hydrolase activity|magnesium ion binding|inositol-1(or 4)-monophosphatase activity|lithium ion binding|metal ion binding
+DEGS_ECOLI	hydrolase activity|serine-type peptidase activity|peptidase activity|serine-type endopeptidase activity
+RCSC_ECOLI	two-component sensor activity|transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+PPK_ECOLI	transferase activity|polyphosphate kinase activity|nucleotide binding|kinase activity|ATP binding
+MTGA_ECOLI	peptidoglycan glycosyltransferase activity|transferase activity
+PTW3C_ECOLI	transporter activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|transferase activity|kinase activity
+NUOCD_ECOLI	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity|catalytic activity
+CLPB_ECOLI	nucleotide binding|ATP binding
+HEMX_ECOLI	methyltransferase activity|uroporphyrin-III C-methyltransferase activity|transferase activity
+LOLD_ECOLI	hydrolase activity|lipoprotein transporter activity|nucleotide binding|ATP binding
+PHOL_ECOLI	nucleotide binding|ATP binding
+HSLU_ECOLI	nucleotide binding|ATP binding
+YEAJ_ECOLI	diguanylate cyclase activity|transferase activity|metal ion binding
+PPID_ECOLI	isomerase activity|peptidyl-prolyl cis-trans isomerase activity
+PPIB_ECOLI	isomerase activity|peptidyl-prolyl cis-trans isomerase activity
+UBIB_ECOLI	2-octaprenylphenol hydroxylase activity
+PTGCB_ECOLI	transferase activity|protein-N(PI)-phosphohistidine-sugar phosphotransferase activity|kinase activity
+LOLC_ECOLI	lipoprotein transporter activity
+GPMA_ECOLI	isomerase activity|phosphoglycerate mutase activity|2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity|protein homodimerization activity
+GYRB_ECOLI	isomerase activity|DNA topoisomerase activity|DNA topoisomerase (ATP-hydrolyzing) activity|DNA-dependent ATPase activity|DNA binding|nucleotide binding|ATP binding
+ACCA_ECOLI	acetyl-CoA carboxylase activity|nucleotide binding|ligase activity|ATP binding
+TATE_ECOLI	protein transporter activity
+RS11_ECOLI	structural constituent of ribosome|SSU rRNA binding|RNA binding|rRNA binding
+HTPG_ECOLI	ATPase activity, coupled|nucleotide binding|ATP binding
+HRPA_ECOLI	hydrolase activity|helicase activity|nucleotide binding|ATP binding
+DADA_ECOLI	oxidoreductase activity|D-amino-acid dehydrogenase activity
+FRDA_ECOLI	oxidoreductase activity|succinate dehydrogenase activity
+PGK_ECOLI	phosphoglycerate kinase activity|transferase activity|nucleotide binding|kinase activity|ATP binding
+PPSA_ECOLI	magnesium ion binding|transferase activity|kinase activity|pyruvate, water dikinase activity|nucleotide binding|metal ion binding|ATP binding
+KAD_ECOLI	magnesium ion binding|transferase activity|nucleotide binding|kinase activity|ATP binding|adenylate kinase activity|AMP binding
+NHAB_ECOLI	antiporter activity|cation:cation antiporter activity|sodium:hydrogen antiporter activity
+DHNA_ECOLI	NADH dehydrogenase activity|oxidoreductase activity|NADH dehydrogenase (ubiquinone) activity|flavin adenine dinucleotide binding
+RSTB_ECOLI	transferase activity|protein histidine kinase activity|nucleotide binding|kinase activity|ATP binding
+NUOG_ECOLI	4 iron, 4 sulfur cluster binding|oxidoreduction-driven active transmembrane transporter activity|oxidoreductase activity|quinone binding|iron-sulfur cluster binding|NADH dehydrogenase (quinone) activity|2 iron, 2 sulfur cluster binding|metal ion binding
+GLTS_ECOLI	symporter activity
+RPOE_ECOLI	sigma factor activity|DNA binding
+NUOA_ECOLI	oxidoreductase activity|oxidoreduction-driven active transmembrane transporter activity|quinone binding|NADH dehydrogenase (quinone) activity|NADH dehydrogenase (ubiquinone) activity
+AMPA_ECOLI	hydrolase activity|peptidase activity|aminopeptidase activity|DNA binding|metal ion binding
+MDLB_ECOLI	hydrolase activity|xenobiotic-transporting ATPase activity|nucleotide binding|ATP binding
+ACCD_ECOLI	acetyl-CoA carboxylase activity|DNA binding|nucleotide binding|ATP binding|ligase activity|mRNA binding|RNA binding|zinc ion binding|metal ion binding
+LGT_ECOLI	transferase activity
+KDGL_ECOLI	diacylglycerol kinase activity|transferase activity|nucleotide binding|kinase activity|ATP binding
+ZNTB_ECOLI	transport|ion transport
+BAES_ECOLI	two-component signal transduction system (phosphorelay)|phosphorylation
+MACB_ECOLI	response to antibiotic|transport
+FTSQ_ECOLI	barrier septum formation|cell cycle|cell division
+PARC_ECOLI	DNA topological change|sister chromatid cohesion|chromosome segregation|plasmid partitioning|DNA-dependent DNA replication
+GCSP_ECOLI	oxidation-reduction process
+POTC_ECOLI	transport|polyamine transport
+BETT_ECOLI	transport|response to stress
+HFLX_ECOLI	response to heat
+DLDH_ECOLI	oxidation-reduction process|pyruvate metabolic process|glycine decarboxylation via glycine cleavage system|glycolysis|tricarboxylic acid cycle|2-oxoglutarate metabolic process
+RS6_ECOLI	translation
+ATKB_ECOLI	transport|potassium ion transport|protein autophosphorylation|ion transport|detection of chemical stimulus|osmosensory signaling pathway via two-component system
+UGPC_ECOLI	carbohydrate transport|glycerol-3-phosphate transport|transport|glycerol-2-phosphate transport
+METN_ECOLI	amino acid transport|transport
+HEMG_ECOLI	oxidation-reduction process|heme biosynthetic process|porphyrin biosynthetic process
+EPTA_ECOLI	response to antibiotic|lipid biosynthetic process|lipid A biosynthetic process|lipopolysaccharide biosynthetic process
+TATA_ECOLI	transport|protein transport|transmembrane transport
+RLUF_ECOLI	rRNA processing|enzyme-directed rRNA pseudouridine synthesis
+PYRG_ECOLI	glutamine metabolic process|pyrimidine nucleotide biosynthetic process|CTP biosynthetic process
+NARX_ECOLI	nitrate assimilation|two-component signal transduction system (phosphorelay)|phosphorylation
+DNAB_ECOLI	DNA replication, synthesis of RNA primer|DNA replication
+FADE_ECOLI	oxidation-reduction process|fatty acid metabolic process|lipid metabolic process
+PITA_ECOLI	transport|phosphate transport
+RPOC_ECOLI	transcription, DNA-dependent
+YFHB_ECOLI	tRNA wobble adenosine to inosine editing
+SUCD_ECOLI	tricarboxylic acid cycle
+NUPC_ECOLI	transport
+RL4_ECOLI	response to antibiotic|regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription termination, DNA-dependent|regulation of translation
+RS14_ECOLI	translation
+LPTB_ECOLI	transport|lipopolysaccharide transport
+LPTC_ECOLI	lipopolysaccharide transport
+KPRS_ECOLI	nucleotide biosynthetic process|phosphorylation
+GLPD_ECOLI	oxidation-reduction process|glycerol metabolic process
+PFLB_ECOLI	glucose metabolic process|carbohydrate metabolic process
+KPYK2_ECOLI	glycolysis|metabolic process|phosphorylation
+CPXA_ECOLI	protein autophosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation
+PBP2_ECOLI	regulation of cell shape|response to antibiotic|peptidoglycan biosynthetic process|response to drug|cellular cell wall organization|metabolic process
+LRP_ECOLI	response to leucine|regulation of transcription, DNA-dependent|transcription, DNA-dependent
+SECD_ECOLI	transport|protein transport|transmembrane transport
+NUSA_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription antitermination|transcription termination, DNA-dependent|response to stress
+CYDB_ECOLI	oxidation-reduction process|cytochrome complex assembly|transport|electron transport chain
+YBHS_ECOLI	transport
+ARNT_ECOLI	response to iron(III) ion|lipid A biosynthetic process|lipid biosynthetic process|lipopolysaccharide biosynthetic process
+RS5_ECOLI	response to antibiotic|translation
+EFTU2_ECOLI	translational elongation|response to antibiotic|translation
+DEF_ECOLI	translation|N-terminal protein amino acid modification
+WECA_ECOLI	cell wall macromolecule biosynthetic process|lipopolysaccharide biosynthetic process|cellular cell wall organization
+HSLO_ECOLI	response to heat|response to stress
+PLSC_ECOLI	phospholipid biosynthetic process
+ATPB_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+MSBB_ECOLI	lipopolysaccharide biosynthetic process
+HTPX_ECOLI	proteolysis|response to temperature stimulus|response to stress
+G3P1_ECOLI	oxidation-reduction process|glycolysis
+PGSA_ECOLI	phospholipid biosynthetic process
+NDK_ECOLI	phosphorylation|nucleotide metabolic process
+YEFI_ECOLI	lipopolysaccharide biosynthetic process
+LEP_ECOLI	proteolysis|protein processing
+GALP_ECOLI	carbohydrate transport|galactose transport|transport
+ILVD_ECOLI	cellular amino acid biosynthetic process|branched chain family amino acid biosynthetic process
+TIG_ECOLI	protein folding|protein complex assembly|cell cycle|cell division|'de novo' cotranslational protein folding
+RNE_ECOLI	RNA catabolic process
+RSMC_ECOLI	rRNA base methylation|methylation|rRNA processing|rRNA methylation
+TOLQ_ECOLI	transport|bacteriocin transport|protein transport
+TREC_ECOLI	metabolic process
+FTSN_ECOLI	barrier septum formation|cell cycle cytokinesis|cell cycle|cell division
+RPOZ_ECOLI	transcription, DNA-dependent
+PTTBC_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+DHG_ECOLI	oxidation-reduction process
+YFJD_ECOLI	carbohydrate catabolic process|non-phosphorylated glucose catabolic process
+ATPF_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+DEOD_ECOLI	purine nucleoside interconversion|purine nucleoside catabolic process
+METI_ECOLI	amino acid transport|transport
+RL20_ECOLI	ribosomal large subunit assembly
+SECA_ECOLI	transport|protein transport|transmembrane transport
+PSPA_ECOLI	response to heat|response to stress
+DEAD_ECOLI	ribosomal large subunit assembly|cellular response to cold|response to stress
+PUTA_ECOLI	oxidation-reduction process|transcription, DNA-dependent|proline catabolic process to glutamate|regulation of transcription, DNA-dependent|proline metabolic process|metabolic process
+BCSB_ECOLI	cellulose biosynthetic process
+YQEG_ECOLI	transport
+CYSZ_ECOLI	cellular amino acid biosynthetic process|transport|cysteine biosynthetic process
+LEPA_ECOLI	translational elongation|translation
+YJCD_ECOLI	transport
+ACRD_ECOLI	transport
+RFAF_ECOLI	lipopolysaccharide biosynthetic process
+ODP1_ECOLI	oxidation-reduction process|glycolysis|acetyl-CoA biosynthetic process from pyruvate
+YHJD_ECOLI	transport
+UBIA_ECOLI	ubiquinone biosynthetic process
+FADI_ECOLI	fatty acid metabolic process|lipid catabolic process|lipid metabolic process
+SECG_ECOLI	transport|intracellular protein transmembrane transport|protein transport|protein transport by the Sec complex|transmembrane transport
+ATPA_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+DHSA_ECOLI	oxidation-reduction process|transport|tricarboxylic acid cycle|electron transport chain|aerobic respiration
+ATPD_ECOLI	transport|proton transport|ion transport|histidine biosynthetic process|ATP biosynthetic process
+FTSE_ECOLI	response to antibiotic|cell cycle|cell division|cytokinesis
+CISY_ECOLI	tricarboxylic acid cycle|metabolic process
+LYSP_ECOLI	amino acid transport|transport
+RIR1_ECOLI	oxidation-reduction process|nucleobase, nucleoside and nucleotide interconversion|deoxyribonucleotide biosynthetic process|DNA replication|metabolic process
+FADJ_ECOLI	oxidation-reduction process|fatty acid metabolic process|lipid catabolic process|metabolic process|lipid metabolic process
+RL11_ECOLI	stringent response|translational termination
+GSIC_ECOLI	transport
+CH10_ECOLI	response to heat|phage assembly|cell cycle|cell division
+RS2_ECOLI	translation
+YBAL_ECOLI	transport|ion transport
+PCNB_ECOLI	plasmid maintenance|mRNA processing|mRNA polyadenylation|transcription, DNA-dependent|RNA modification
+YEIU_ECOLI	transport|Gram-negative-bacterium-type cell outer membrane assembly
+DHSD_ECOLI	cytochrome complex assembly|transport|electron transport chain|tricarboxylic acid cycle|aerobic respiration
+FTSL_ECOLI	cell cycle|cell division
+FTSA_ECOLI	regulation of cell shape|cell cycle|cell division|cytokinesis
+ASSY_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process
+MDLA_ECOLI	transport
+HTRB_ECOLI	lipid A biosynthetic process|lipopolysaccharide biosynthetic process|response to stress
+ODO2_ECOLI	tricarboxylic acid cycle
+PNP_ECOLI	response to stress
+STHA_ECOLI	oxidation-reduction process
+RODZ_ECOLI	regulation of cell shape|peptidoglycan biosynthetic process
+SECY_ECOLI	transport|intracellular protein transmembrane transport|protein transport|protein transport by the Sec complex|transmembrane transport
+ARTQ_ECOLI	amino acid transport|transport
+ARNC_ECOLI	response to antibiotic|lipid biosynthetic process|lipid A biosynthetic process|lipopolysaccharide biosynthetic process
+ACRB_ECOLI	transport
+ENGB_ECOLI	barrier septum formation|cell cycle|cell division
+CYSA_ECOLI	sulfate transport|transport
+YEEF_ECOLI	amino acid transport|transport
+GLGA_ECOLI	glycogen biosynthetic process
+FRDC_ECOLI	flagellum assembly|ciliary or flagellar motility|fermentation|anaerobic respiration
+RNR_ECOLI	pathogenesis|response to stress
+WZZE_ECOLI	lipopolysaccharide biosynthetic process|enterobacterial common antigen biosynthetic process
+GLTJ_ECOLI	amino acid transport|transport
+OXAA_ECOLI	protein insertion into membrane
+CH60_ECOLI	cell cycle|cell division
+DBHA_ECOLI	chromosome condensation
+YIFK_ECOLI	amino acid transport|transport
+WZZB_ECOLI	lipopolysaccharide biosynthetic process
+RPOD_ECOLI	response to heat|transcription, DNA-dependent|regulation of transcription, DNA-dependent
+OPPC_ECOLI	transport|protein transport|peptide transport
+ADD_ECOLI	purine nucleotide salvage|purine ribonucleoside monophosphate biosynthetic process|hypoxanthine salvage|purine nucleotide interconversion|adenosine catabolic process|nucleotide metabolic process
+SRMB_ECOLI	ribosomal large subunit assembly
+PUTP_ECOLI	proline transport|amino acid transport|transport|sodium ion transport|ion transport
+RS9_ECOLI	translation
+ARND_ECOLI	response to antibiotic|response to iron(III) ion|lipid biosynthetic process|lipid A biosynthetic process|lipopolysaccharide biosynthetic process
+YFIF_ECOLI	methylation
+YJCE_ECOLI	transport|sodium ion transport|ion transport
+YIDE_ECOLI	transport
+LPXK_ECOLI	lipid biosynthetic process|lipid A biosynthetic process|phosphorylation
+MUKB_ECOLI	chromosome segregation|chromosome condensation|cell cycle|cell division
+CCMF_ECOLI	cytochrome complex assembly
+RNFB_ECOLI	transport|electron transport chain
+TATB_ECOLI	transport|intracellular protein transmembrane transport|protein transport|transmembrane transport
+LLDD_ECOLI	oxidation-reduction process|lactate metabolic process|L-fucose catabolic process|aerobic respiration
+NUOL_ECOLI	oxidation-reduction process
+LOLE_ECOLI	transport|lipoprotein transport
+CYST_ECOLI	sulfate transport|transport
+FTSZ_ECOLI	protein polymerization|barrier septum formation|cell cycle|cell division
+YAJR_ECOLI	transport
+SYP_ECOLI	prolyl-tRNA aminoacylation|translation
+HISM_ECOLI	amino acid transport|transport
+PROP_ECOLI	proline transport|transport|amino acid transport|hyperosmotic salinity response|response to osmotic stress
+PTFBC_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+ACCC_ECOLI	lipid biosynthetic process|negative regulation of fatty acid biosynthetic process|fatty acid biosynthetic process
+KEFB_ECOLI	transport|potassium ion transport|ion transport
+BASS_ECOLI	response to iron(III) ion|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation
+ATPE_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+RMUC_ECOLI	DNA recombination
+OPGH_ECOLI	glucan biosynthetic process|response to osmotic stress
+CARB_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process|pyrimidine nucleotide biosynthetic process
+EXBB_ECOLI	bacteriocin transport|transport|protein transport
+MREC_ECOLI	regulation of cell shape
+ACKA_ECOLI	phosphorylation
+YBBO_ECOLI	oxidation-reduction process
+ACTP_ECOLI	transport|sodium ion transport|ion transport
+YBJL_ECOLI	transport
+PNTA_ECOLI	oxidation-reduction process
+BARA_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|two-component signal transduction system (phosphorelay)|phosphorylation
+ISCS_ECOLI	tRNA processing|oxazole or thiazole biosynthetic process|iron-sulfur cluster assembly|tRNA pseudouridine synthesis
+YHIH_ECOLI	transport
+HEMH_ECOLI	protoporphyrinogen IX metabolic process|heme biosynthetic process|response to light stimulus|porphyrin biosynthetic process
+RFAQ_ECOLI	lipopolysaccharide biosynthetic process
+FADB_ECOLI	oxidation-reduction process|fatty acid metabolic process|lipid catabolic process|metabolic process|lipid metabolic process
+PYRD_ECOLI	oxidation-reduction process|cellular amino acid biosynthetic process|pyrimidine nucleotide biosynthetic process|diaminopimelate biosynthetic process
+AAT_ECOLI	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate|aspartate biosynthetic process
+RS8_ECOLI	translation|regulation of translation|regulation of mRNA stability
+KGTP_ECOLI	transport
+YOJI_ECOLI	response to antibiotic|transport|peptide transport
+SAPB_ECOLI	transport|protein transport|peptide transport
+ODO1_ECOLI	oxidation-reduction process|glycolysis
+KDTA_ECOLI	lipid A biosynthetic process|lipopolysaccharide biosynthetic process
+IHFB_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|DNA recombination|regulation of translation
+FEOB_ECOLI	transport|ion transport|iron ion homeostasis
+KCH_ECOLI	transport|potassium ion transport|ion transport
+DPO1_ECOLI	DNA repair|response to DNA damage stimulus|DNA replication
+ACP_ECOLI	lipid biosynthetic process|fatty acid biosynthetic process
+MREB_ECOLI	regulation of cell shape
+FTSB_ECOLI	cell cycle|cell division
+RPOA_ECOLI	transcription, DNA-dependent
+SRP54_ECOLI	protein targeting to membrane
+PROW_ECOLI	amino acid transport|transport
+PBPB_ECOLI	response to antibiotic|regulation of cell shape|peptidoglycan biosynthetic process|cellular cell wall organization|metabolic process
+DPPB_ECOLI	dipeptide transport|transport|protein transport|peptide transport
+NUOK_ECOLI	oxidation-reduction process|transport|anaerobic respiration
+BETA_ECOLI	oxidation-reduction process|glycine betaine biosynthetic process from choline|response to osmotic stress|response to stress
+IF2_ECOLI	translational initiation|translation
+MSCL_ECOLI	cellular water homeostasis|transport|ion transport
+ARGB_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process|phosphorylation
+RS18_ECOLI	translation
+ODP2_ECOLI	glycolysis
+CYSW_ECOLI	sulfate transport|transport
+FIS_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent
+DCTA_ECOLI	L-aspartate transport|carbohydrate transport|transport|fumarate transport
+PHEP_ECOLI	amino acid transport|transport
+YGAF_ECOLI	oxidation-reduction process
+SUCC_ECOLI	tricarboxylic acid cycle
+DSBD_ECOLI	oxidation-reduction process|cytochrome complex assembly|transport|electron transport chain
+UPPP_ECOLI	response to antibiotic|regulation of cell shape|peptidoglycan biosynthetic process|response to drug|cellular cell wall organization
+YBDG_ECOLI	transport|ion transport|cellular response to osmotic stress
+ATZN_ECOLI	response to cadmium ion|detoxification of zinc ion
+RBSC_ECOLI	carbohydrate transport|transport
+HFLD_ECOLI	response to heat
+SECF_ECOLI	transport|protein transport|transmembrane transport
+HNS_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent
+FTSW_ECOLI	regulation of cell shape|peptidoglycan biosynthetic process|cell cycle|cellular cell wall organization|cell division|cytokinesis
+CORA_ECOLI	transport|ion transport
+TPX_ECOLI	oxidation-reduction process|cellular response to oxidative stress
+DAPD_ECOLI	cellular amino acid biosynthetic process|lysine biosynthetic process|diaminopimelate biosynthetic process
+IHFA_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|DNA recombination|regulation of translation
+ARCA_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|two-component signal transduction system (phosphorelay)
+HISQ_ECOLI	amino acid transport|transport
+YAGU_ECOLI	response to acidity
+YBBP_ECOLI	transport
+RL10_ECOLI	regulation of translation
+EMRA_ECOLI	response to antibiotic|transport|response to drug
+ARGE_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process
+GRPE_ECOLI	response to heat|protein unfolding|response to stress
+AROP_ECOLI	amino acid transport|transport
+ATP6_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+CDH_ECOLI	phospholipid biosynthetic process
+FTSH_ECOLI	proteolysis
+IF3_ECOLI	translational initiation|response to cold|ribosome disassembly|translation
+QSEC_ECOLI	two-component signal transduction system (phosphorelay)|phosphorylation
+RS15_ECOLI	translation
+EFTS_ECOLI	translational elongation|translation
+ISPG_ECOLI	oxidation-reduction process|isoprenoid biosynthetic process
+NUOI_ECOLI	oxidation-reduction process|aerobic respiration|anaerobic respiration
+SPPA_ECOLI	signal peptide processing
+AMPM_ECOLI	protein initiator methionine removal
+CYDC_ECOLI	transport
+SYM_ECOLI	translation
+MSCS_ECOLI	cellular water homeostasis|transport|ion transport
+GLNP_ECOLI	amino acid transport|transport
+IDH_ECOLI	oxidation-reduction process|glyoxylate cycle|electron transport chain|tricarboxylic acid cycle
+MSBA_ECOLI	transport|lipid transport
+RODA_ECOLI	regulation of cell shape
+DNAK_ECOLI	DNA replication|response to stress
+SYA_ECOLI	alanyl-tRNA aminoacylation|translation|negative regulation of transcription, DNA-dependent
+CYCA_ECOLI	amino acid transport|transport
+SYY_ECOLI	translation
+PDXH_ECOLI	oxidation-reduction process|pyridoxine biosynthetic process|pyridoxal 5'-phosphate salvage
+ACON2_ECOLI	propionate catabolic process, 2-methylcitrate cycle|tricarboxylic acid cycle|regulation of translation
+GLMS_ECOLI	glutamine metabolic process|UDP-N-acetylglucosamine biosynthetic process
+NANT_ECOLI	carbohydrate transport|transport
+CPTA_ECOLI	lipid biosynthetic process|lipopolysaccharide biosynthetic process
+YDJN_ECOLI	transport
+CYOA_ECOLI	oxidation-reduction process|transport|aerobic electron transport chain|electron transport chain
+CYDD_ECOLI	transport
+YBHR_ECOLI	transport
+RS7_ECOLI	negative regulation of translation|ribosomal small subunit assembly|translation
+ARLY_ECOLI	cellular amino acid biosynthetic process|arginine biosynthetic process
+TPIS_ECOLI	pentose-phosphate shunt|gluconeogenesis|glycolysis
+KEFC_ECOLI	transport|response to methylglyoxal|potassium ion transport|response to toxin|ion transport
+ZIPA_ECOLI	barrier septum formation|cell cycle|cell division
+AAS_ECOLI	fatty acid metabolic process|metabolic process|phospholipid biosynthetic process
+DNAA_ECOLI	regulation of DNA replication|DNA replication|DNA-dependent DNA replication
+PROQ_ECOLI	positive regulation of transport
+GATD_ECOLI	oxidation-reduction process|galactitol catabolic process|galactitol metabolic process
+RL6_ECOLI	response to antibiotic
+METH_ECOLI	cellular amino acid biosynthetic process|methionine biosynthetic process|methylation
+GLTP_ECOLI	transport
+MDTC_ECOLI	transport
+GLTK_ECOLI	amino acid transport|transport
+PHOQ_ECOLI	two-component signal transduction system (phosphorelay)|phosphorylation
+PSS_ECOLI	phospholipid biosynthetic process
+YADG_ECOLI	transport
+KEFA_ECOLI	cellular water homeostasis|transport|potassium ion transport|ion transport
+SEQA_ECOLI	negative regulation of DNA replication
+FSR_ECOLI	response to antibiotic
+PBPA_ECOLI	regulation of cell shape|response to antibiotic|peptidoglycan biosynthetic process|response to drug|cellular cell wall organization|metabolic process
+SYN_ECOLI	glutamine metabolic process|cellular amino acid catabolic process|translation|asparagine biosynthetic process
+MDH_ECOLI	oxidation-reduction process|glycolysis|malate metabolic process|tricarboxylic acid cycle|fermentation|anaerobic respiration
+COPA_ECOLI	copper ion transport|transport|response to acidity|ion transport
+OPPB_ECOLI	transport|protein transport|tripeptide transport|peptide transport
+RS17_ECOLI	response to antibiotic|translation
+YNIB_ECOLI	SOS response|response to DNA damage stimulus
+RLME_ECOLI	enzyme-directed rRNA 2'-O-methylation|methylation|rRNA processing|response to stress
+MLAF_ECOLI	transport|phospholipid transport
+PNTB_ECOLI	oxidation-reduction process
+YHCB_ECOLI	oxidation-reduction process
+GATZ_ECOLI	galactitol metabolic process
+YEDV_ECOLI	two-component signal transduction system (phosphorelay)|phosphorylation
+EFG_ECOLI	translational elongation|translation
+CLS_ECOLI	phospholipid biosynthetic process
+GNTT_ECOLI	D-gluconate metabolic process|transport|carbohydrate transport|gluconate transport
+RLUB_ECOLI	rRNA processing|enzyme-directed rRNA pseudouridine synthesis
+KUP_ECOLI	transport|potassium ion transport|ion transport
+PTM3C_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+NUOF_ECOLI	oxidation-reduction process|aerobic respiration|anaerobic respiration
+NUOJ_ECOLI	oxidation-reduction process|anaerobic respiration
+GUAA_ECOLI	GMP biosynthetic process|glutamine metabolic process|purine nucleotide biosynthetic process
+RSGA_ECOLI	ribosomal small subunit biogenesis
+PLSB_ECOLI	phospholipid biosynthetic process
+DHSB_ECOLI	oxidation-reduction process|transport|tricarboxylic acid cycle|electron transport chain|aerobic respiration
+PTYBC_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+RS10_ECOLI	translation|transcription antitermination
+LPTF_ECOLI	transport|lipopolysaccharide transport
+DAMX_ECOLI	cell cycle|cell division|cytokinesis
+RS21_ECOLI	translation
+NUOH_ECOLI	oxidation-reduction process|aerobic respiration|anaerobic respiration
+YBHG_ECOLI	cellular iron ion homeostasis
+TOLR_ECOLI	transport|bacteriocin transport|protein transport
+6PGD_ECOLI	oxidation-reduction process|D-gluconate metabolic process|pentose-phosphate shunt
+GLTB_ECOLI	oxidation-reduction process|cellular amino acid biosynthetic process|glutamine metabolic process|glutamate biosynthetic process
+OMPR_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|two-component signal transduction system (phosphorelay)
+KDPD_ECOLI	two-component signal transduction system (phosphorelay)|phosphorylation
+RHO_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcriptional attenuation|transcription termination, DNA-dependent
+RPOB_ECOLI	transcription, DNA-dependent
+ATPG_ECOLI	transport|proton transport|ion transport|ATP synthesis coupled proton transport|ATP biosynthetic process
+NUOB_ECOLI	oxidation-reduction process|electron transport coupled proton transport|transport|anaerobic respiration|aerobic respiration
+ENO_ECOLI	glycolysis
+PLSX_ECOLI	phospholipid biosynthetic process
+SECB_ECOLI	transport|protein targeting|protein transport|protein transport by the Sec complex|transmembrane transport
+CYOB_ECOLI	oxidation-reduction process|electron transport coupled proton transport|transport|aerobic electron transport chain|proton transport|electron transport chain|ion transport
+RFAL_ECOLI	lipopolysaccharide core region biosynthetic process|lipopolysaccharide biosynthetic process
+YCHM_ECOLI	transport
+CCMH_ECOLI	cytochrome complex assembly
+RL1_ECOLI	negative regulation of translational initiation|regulation of translation
+MRAY_ECOLI	regulation of cell shape|peptidoglycan biosynthetic process|cell cycle|cell division|cellular cell wall organization
+PTND_ECOLI	transport|carbohydrate transport|phosphoenolpyruvate-dependent sugar phosphotransferase system
+RS12_ECOLI	RNA folding|response to antibiotic|Group I intron splicing|positive regulation of RNA splicing|translation
+MQO_ECOLI	oxidation-reduction process|tricarboxylic acid cycle
+PTNC_ECOLI	transport|carbohydrate transport|phosphoenolpyruvate-dependent sugar phosphotransferase system
+POTB_ECOLI	transport|polyamine transport
+HEMY_ECOLI	porphyrin biosynthetic process
+FTSX_ECOLI	cell cycle|cell division|cytokinesis
+RFAP_ECOLI	lipopolysaccharide biosynthetic process|phosphorylation
+LACI_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent
+RS3_ECOLI	translation
+ACEA_ECOLI	glyoxylate cycle|tricarboxylic acid cycle
+GLNQ_ECOLI	amino acid transport|transport
+SSTT_ECOLI	amino acid transport|transport|serine transport
+FTSI_ECOLI	regulation of cell shape|response to antibiotic|response to drug|cellular cell wall organization|peptidoglycan biosynthetic process|cell cycle|metabolic process|cell division
+RS4_ECOLI	response to antibiotic|regulation of transcription, DNA-dependent|transcription, DNA-dependent|transcription termination, DNA-dependent|regulation of translation
+RS13_ECOLI	translation
+RL22_ECOLI	response to antibiotic
+CYDA_ECOLI	oxidation-reduction process|cytochrome complex assembly|transport|electron transport chain
+ARCB_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|two-component signal transduction system (phosphorelay)|phosphorylation
+YFHK_ECOLI	protein autophosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation
+PTNAB_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+PURP_ECOLI	transport|adenine transport
+SDAC_ECOLI	transport
+MURG_ECOLI	regulation of cell shape|peptidoglycan biosynthetic process|cell cycle|cell division|cellular cell wall organization
+DNAJ_ECOLI	protein refolding|response to heat|protein unfolding|DNA replication|response to stress
+TALB_ECOLI	pentose-phosphate shunt
+SUHB_ECOLI	inositol phosphate dephosphorylation
+DEGS_ECOLI	cellular response to misfolded protein
+RCSC_ECOLI	protein autophosphorylation|cellular response to osmotic stress|single-species biofilm formation|two-component signal transduction system (phosphorelay)|phosphorylation
+PPK_ECOLI	phosphorylation
+MTGA_ECOLI	Gram-negative-bacterium-type cell wall biogenesis|regulation of cell shape|peptidoglycan biosynthetic process|cellular cell wall organization
+PTW3C_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+NUOCD_ECOLI	oxidation-reduction process|transport|metabolic process|anaerobic respiration
+CLPB_ECOLI	response to stress
+HEMX_ECOLI	porphyrin biosynthetic process|methylation
+LOLD_ECOLI	transport|lipoprotein transport
+PTKC_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|galactitol metabolic process
+HSLU_ECOLI	response to heat|response to stress
+PPID_ECOLI	protein folding|response to stress
+PPIB_ECOLI	protein folding
+GSID_ECOLI	transport
+TOLA_ECOLI	transport|bacteriocin transport|protein transport|protein import
+UBIB_ECOLI	ubiquinone biosynthetic process
+PTGCB_ECOLI	carbohydrate transport|transport|phosphoenolpyruvate-dependent sugar phosphotransferase system|phosphorylation
+LOLC_ECOLI	transport|lipoprotein transport
+GPMA_ECOLI	glycolysis
+GYRB_ECOLI	response to antibiotic|DNA topological change|response to drug|DNA-dependent DNA replication
+GLRX3_ECOLI	transport|deoxyribonucleotide biosynthetic process|electron transport chain
+ACCA_ECOLI	lipid biosynthetic process|fatty acid biosynthetic process
+TATE_ECOLI	transport|protein transport|transmembrane transport
+RS11_ECOLI	translation
+DCUA_ECOLI	transport
+HTPG_ECOLI	protein folding|response to heat|response to stress
+HRPA_ECOLI	mRNA processing
+DADA_ECOLI	oxidation-reduction process
+NUSG_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|transcription antitermination|transcription termination, DNA-dependent
+FRDA_ECOLI	oxidation-reduction process|transport|electron transport chain
+PGK_ECOLI	glycolysis|phosphorylation
+HFLK_ECOLI	response to heat
+PPSA_ECOLI	gluconeogenesis|phosphorylation
+KAD_ECOLI	purine ribonucleotide interconversion|purine ribonucleotide biosynthetic process|nucleotide biosynthetic process|phosphorylation
+GABP_ECOLI	amino acid transport|transport
+NHAB_ECOLI	transport|cellular sodium ion homeostasis|proton transport|sodium ion transport|response to lithium ion|ion transport|intracellular pH reduction
+DHNA_ECOLI	oxidation-reduction process|transport|aerobic electron transport chain|electron transport chain|aerobic respiration
+RSTB_ECOLI	protein autophosphorylation|peptidyl-histidine phosphorylation|two-component signal transduction system (phosphorelay)|phosphorylation
+NUOG_ECOLI	oxidation-reduction process|aerobic respiration|anaerobic respiration
+GLTS_ECOLI	transport|sodium ion transport|ion transport
+NUOA_ECOLI	oxidation-reduction process|transport|anaerobic respiration
+RPOE_ECOLI	regulation of transcription, DNA-dependent|transcription, DNA-dependent|response to stress
+PSPC_ECOLI	transcription, DNA-dependent|regulation of transcription, DNA-dependent|response to stress
+LPTG_ECOLI	transport|lipopolysaccharide transport
+AMPA_ECOLI	plasmid recombination|peptide catabolic process
+SBMA_ECOLI	transport
+CVRA_ECOLI	transport
+ACCD_ECOLI	lipid biosynthetic process|negative regulation of translation|fatty acid biosynthetic process|regulation of translation
+PROY_ECOLI	amino acid transport|transport
+MDLB_ECOLI	transport
+KDGL_ECOLI	phosphatidic acid biosynthetic process|phosphorylation|phospholipid biosynthetic process

@@ -1,0 +1,4 @@
+../Data/DataSetGO/DB_NoveV12.txt	1	2	0
+Transcriptomics/Ishihama2008_s2(1)F.txt	1	1	9
+Transcriptomics/Masuda_et_al_Supple_rev2009(5)F.txt	0	1	7
+Transcriptomics/PengTable(2)L.txt	1	1	14

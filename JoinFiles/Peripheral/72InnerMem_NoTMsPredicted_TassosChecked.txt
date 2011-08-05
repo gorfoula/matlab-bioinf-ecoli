@@ -1,0 +1,73 @@
+K12 Entry name (Uniprot)	Accession (Uniprot)	Comments/Annotation	Description (Uniprot)	Sub-cellular Location (This study)1	Sub-cellular Location (Uniprot)	Sub-cellular Location (EchoLOCATION)	1st Secretion System	2nd Secretion System	Uniprot Link	Pseudogene/Mobile Element Notes	Common Core2	SignalP SP HMM	Smax HMM	SignalP SP NN	D-score NN	LipoP S	Peptidase3	Score	TatP Signal	TatP D-score	TMHs Predicted	Mean Number of Expected # of AAs in TMHs	Mean Number of Expected # of AAs in TMHs amongst first 60 AAs	Phobius SP Cleavage Site	Phobius TMHs	Sequence
+SDHL_ECOLI	P16095		L-serine dehydratase 1 (SDH 1) (EC 4.3.1.17) (L-serine deaminase 1) (L-SD1)	A	1 very  weak TM prediction																					
+UDG_ECOLI	P76373		UDP-glucose 6-dehydrogenase (UDP-Glc dehydrogenase) (UDP-GlcDH) (UDPGDH) (EC 1.1.1.22)	A	1 very  weak TM prediction																					
+YCJZ_ECOLI	P77333		Uncharacterized HTH-type transcriptional regulator ycjZ	A																						
+SBCC_ECOLI	P13458		Nuclease sbcCD subunit C	F1																						
+DMLR_ECOLI	P76250		HTH-type transcriptional regulator DmlR (D-malate degradation protein R)	A																						
+INSO2_ECOLI	Q47718		Putative transposase insO for insertion sequence element IS911B	A																						
+YGCL_ECOLI	Q46901		Uncharacterized protein yncL	B	1 good TM prediction (0.7)																					
+XNI_ECOLI	P38506		Protein Xni (Exonuclease IX) (ExoIX)	A																						
+YJGR_ECOLI	P39342		Uncharacterized protein yjgR	F1																						
+INTA_ECOLI	P32053		Prophage CP4-57 integrase	B	Cell membrane |  Lipid-anchor. 																					
+CDD_ECOLI	P0ABF6		Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase) (CDA)	A	1 very  weak TM prediction																					
+YDJL_ECOLI	P77539		Uncharacterized zinc-type alcohol dehydrogenase-like protein ydjL (EC 1.-.-.-)	A	1 weak TM prediction																					
+GLXK2_ECOLI	P23524		Glycerate kinase 2 (EC 2.7.1.31)	A	1 weak TM prediction																					
+YMGJ_ECOLI	A5A612		Uncharacterized membrane protein ypdK	A	weak signal peptide prediction																					
+YTFH_ECOLI	P0ACN2		Uncharacterized HTH-type transcriptional regulator ytfH	A																						
+PRIM_ECOLI	P0ABS5		DNA primase (EC 2.7.7.-)	A																						
+YHFS_ECOLI	P45545		Uncharacterized protein yoaI	A																						
+INTB_ECOLI	P39347		Putative prophage P4 integrase (Int(P4))	A																						
+YAFC_ECOLI	P30864		Uncharacterized HTH-type transcriptional regulator yafC	A																						
+RSPB_ECOLI	P38105		Starvation-sensing protein rspB (EC 1.1.1.-)	A																						
+TRPB_ECOLI	P0A879		Tryptophan synthase beta chain (EC 4.2.1.20)	A																						
+ODP1_ECOLI	P0AFG8	"Localization: Peripheral Inner Membrane protein. Although Bernsel suggests IM Theoretical Notes: Probably membrane associated. Analogous enzyme pyryvate oxidase-PoxB is membrane associated (Neumann et al., 2008; http://www.pnas.org/content/105/45/17390.full) Refs: (http://www.ncbi.nlm.nih.gov/pubmed/2699406) "	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	F1																						
+NAGB_ECOLI	P0A759		Glucosamine-6-phosphate deaminase (EC 3.5.99.6) (GlcN6P deaminase) (GNPDA) (Glucosamine-6-phosphate isomerase)	A																						
+MALY_ECOLI	P23256		"Protein malY [Includes: Cystathionine beta-lyase malY (CBL) (EC 4.4.1.8) (Beta-cystathionase) (Cysteine lyase); Maltose regulon modulator]"	A																						
+YBAO_ECOLI	P0ACJ5		Uncharacterized HTH-type transcriptional regulator ybaO	A																						
+MOBB_ECOLI	P32125		Molybdopterin-guanine dinucleotide biosynthesis protein B	A																						
+EUTA_ECOLI	P76551		Ethanolamine utilization protein eutA	A	2 weak TM prediction																					
+NANK_ECOLI	P45425		N-acetylmannosamine kinase (EC 2.7.1.60) (ManNAc kinase) (N-acetyl-D-mannosamine kinase)	A																						
+BIOB_ECOLI	P12996		Biotin synthase (EC 2.8.1.6)	A																						
+HYFG_ECOLI	P77329		Hydrogenase-4 component G (EC 1.-.-.-)	F1	"1 weak TM prediction; part of membrane-associated hydrogenase 4 complex http://www.sciencedirect.com/science/article/pii/S0360319910025139"																					
+IMDH_ECOLI	P0ADG7		Inosine-5'-monophosphate dehydrogenase (IMP dehydrogenase) (IMPD) (IMPDH) (EC 1.1.1.205)	A	1 very  weak TM prediction																					
+QUEC_ECOLI	P77756		7-cyano-7-deazaguanine synthase (EC 6.3.-.-) (7-cyano-7-carbaguanine synthase) (PreQ(0) synthase) (Queuosine biosynthesis protein queC)	A	1 very  weak TM prediction																					
+GALU_ECOLI	P0AEP3		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9) (Alpha-D-glucosyl-1-phosphate uridylyltransferase) (UDP-glucose pyrophosphorylase) (UDPGP) (Uridine diphosphoglucose pyrophosphorylase)	A	1 weak TM prediction																					
+KDSD_ECOLI	P45395		Arabinose 5-phosphate isomerase (EC 5.3.1.13)	A																						
+LRP_ECOLI	P0ACJ0		Leucine-responsive regulatory protein	F1																						
+TRPC_ECOLI	P00909		"Tryptophan biosynthesis protein trpCF [Includes: Indole-3-glycerol phosphate synthase (IGPS) (EC 4.1.1.48); N-(5'-phospho-ribosyl)anthranilate isomerase (PRAI) (EC 5.3.1.24)]"	A																						
+MUTS_ECOLI	P23909		DNA mismatch repair protein mutS	A	2 weak TM prediction																					
+YDCC_ECOLI	P28917		H repeat-associated protein ydcC (ORF-H)	A	2 weak TM prediction																					
+ALKB_ECOLI	P05050		Alpha-ketoglutarate-dependent dioxygenase AlkB (EC 1.14.11.-) (Alkylated DNA repair protein AlkB)	A	1 weak TM prediction																					
+YJJN_ECOLI	P39400		Putative L-galactonate oxidoreductase (EC 1.1.1.-)	A	1 very  weak TM prediction																					
+YBIH_ECOLI	P0ACU0		Uncharacterized HTH-type transcriptional regulator ybiH	A	1 very  weak TM prediction																					
+SIRB1_ECOLI	P0AGM5		Protein sirB1	A	1 very  weak TM prediction																					
+GALF_ECOLI	P0AAB6		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9) (Alpha-D-glucosyl-1-phosphate uridylyltransferase) (UDP-glucose pyrophosphorylase) (UDPGP) (Uridine diphosphoglucose pyrophosphorylase)	A	1 very  weak TM prediction																					
+RPIR_ECOLI	P0ACS7		HTH-type transcriptional regulator rpiR (Als operon repressor)	A	1 very  weak TM prediction																					
+LEUD_ECOLI	P30126		3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)	A																						
+YHHI_ECOLI	P28912		H repeat-associated protein yhhI (ORF-H)	A	2 weak and 1 0.6 TM predictions in phobius																					
+IDH_ECOLI	P08200		Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)	F1	2 weak  TM predictions in phobius																					
+THIK_ECOLI	P75948		Thiamine kinase (EC 2.7.1.89)	F1	"2 very  weak TM predictions; membrane associated activity known http://www.sciencedirect.com/science/article/pii/0003986169901258"																					
+MDAB_ECOLI	P0AEY5		Modulator of drug activity B	A	1 very  weak TM prediction																					
+YKGD_ECOLI	P77379		Uncharacterized HTH-type transcriptional regulator ykgD	A	1 very  weak TM prediction																					
+HYCE_ECOLI	P16431		Formate hydrogenlyase subunit 5 (FHL subunit 5) (Hydrogenase-3 component E)	A (F1)	Nickel-containing large subunit of Hydrogenase 3 (hycABCDEF-GHI) that forms a loose association with the molyb- doenzyme formate dehydrogenase-H on the cytoplasmic face of the cytoplasmic membrane, where together they make up the formate hydrogenlyase complex http://www.ncbi.nlm.nih.gov/pubmed/1625581																					
+YCEH_ECOLI	P29217		UPF0502 protein yceH (G20.3)	A																						
+DGOK_ECOLI	P31459		2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58) (2-keto-3-deoxy-galactonokinase) (2-oxo-3-deoxygalactonate kinase)	A																						
+GLF_ECOLI	P37747		Uncharacterized permease yjhF	A	Phobius prediction for a very very weak aminoterminal TM																					
+FCTA_ECOLI	P69902		Formyl-coenzyme A transferase (Formyl-CoA transferase) (EC 2.8.3.16)	A (F1)	hypothesized to interact with the oxalate/formate antiporter and to oxalyl-CoA decarboxylase to form a large complex http://www.nature.com/emboj/journal/v22/n13/full/7595243a.html																					
+FLIE_ECOLI	P0A8T5	Localization: although it does not have any transmembrane regions it is located in the inner membrane plane as part of the flagellar basal body provides physical connection to the FlgB component of the rod. Refs: (http://www.ncbi.nlm.nih.gov/pubmed/10809679)	Flagellar hook-basal body complex protein fliE	B	Bacterial flagellum basal body. 																					
+YQEB_ECOLI	Q46808		Uncharacterized protein yqeB	A	3 very weak TM predictions in Phobius																					
+AROM_ECOLI	P0AE28		Protein AroM	A	Weak N-ter and C-ter TM predictions in Phobius																					
+PCNB_ECOLI	P0ABF1		Poly(A) polymerase (PAP) (EC 2.7.7.19) (Plasmid copy number protein)	F1																						
+YBJD_ECOLI	P75828		Uncharacterized protein ybjD	F1?B?A?	"ATPase; Strong prediction for 2 relative strong TM streches 0.4-0.8 in Phobius"																					
+YFIE_ECOLI	P33634		Uncharacterized HTH-type transcriptional regulator yfiE	A																						
+RECN_ECOLI	P05824		DNA repair protein recN (Recombination protein N)	A																						
+WRBA_ECOLI	P0A8G6		Flavoprotein wrbA (Trp repressor-binding protein)	A																						
+YDCJ_ECOLI	P76097		Uncharacterized protein ydcJ	A																						
+LHR_ECOLI	P30015		Probable ATP-dependent helicase lhr (EC 3.6.4.-) (Large helicase-related protein)	A	3 weak C-terminal TM predictions in phobius																					
+YPFI_ECOLI	P76562		Uncharacterized protein ypfI	A	2 weak TM predictions in phobius																					
+ADEC_ECOLI	P31441		Adenine deaminase (Adenase) (Adenine aminase) (EC 3.5.4.2)	A	weak C-terminal TM prediction in phobius																					
+GUAC_ECOLI	P60560		GMP reductase (EC 1.7.1.7) (Guanosine 5'-monophosphate oxidoreductase) (Guanosine monophosphate reductase)	A																						
+BIOD2_ECOLI	P0A6E9		Putative dethiobiotin synthetase (DTB synthetase) (DTBS) (Dethiobiotin synthase) (EC 6.3.3.3)	A																						
+YAGP_ECOLI	P75684		Uncharacterized protein yagP	A (F1?)	Cell inner membrane |  Multi-pass membrane protein. 	very weak prediction for short signal peptide																				
+YHJS_ECOLI	P37657		Uncharacterized protein yhjS	A																						
+NAGC_ECOLI	P0AF20		N-acetylglucosamine repressor	A																						

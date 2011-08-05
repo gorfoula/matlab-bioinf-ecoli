@@ -1,0 +1,1 @@
+Merge ID	Merge ID	Gevaert2002	Taoka2004	Arifuzzaman2006	Ji2006	Iwasaki2009	Masuda2009	Iwasaki2010	Thein2010	OurStudy_Feb2011_Common	# Studies	TableS3_K12_ProteomeV13_BasicProteome_3900 Duplicates	Entry name (Uniprot)	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Merge ID&sort=score")

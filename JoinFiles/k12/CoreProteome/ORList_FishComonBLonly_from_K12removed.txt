@@ -1,0 +1,95 @@
+Join Name	BLCom_XOR_K12Com	K12_removed	No files found in	BLCom_XOR_K12Com Duplicates	K12_removed Duplicates
+P45541	1	1	2	1	1	P45541;Ohman pseudo
+P75936	1	1	2	1	1	P75936;Ohman pseudo 
+Q47153	1	1	2	1	1	Q47153;Uniprot pseudo 
+P75901	1	1	2	1	1	P75901;Uniprot pseudo 
+P36943	1	1	2	1	1	P36943;Uniprot pseudo 
+P42906	1	1	2	1	1	P42906;Uniprot pseudo 
+P37309	1	1	2	1	1	P37309;Ohman pseudo
+Q9S4W2	1	1	2	1	1	Q9S4W2;Plasmid F
+A5A625	1	1	2	1	1	A5A625;Uniprot pseudo 
+P06965	1	1	2	1	1	P06965;EcoGene Prophage Integrase 
+P06966	1	1	2	1	1	P06966;EcoGene Prophage Integrase 
+P0ADF3	1	1	2	1	1	P0ADF3;Ecogene/Uniprot pseudo
+P0ADQ5	1	1	2	1	1	P0ADQ5;Ohman pseudo
+P0AGC7	1	1	2	1	1	P0AGC7;Ohman pseudo
+P0CF79	1	1	2	1	1	P0CF79;Insertion Sequence;Transposase;Rhs Element;Prophage Integrase
+P0CG19	1	1	2	1	1	P0CG19;Uniprot pseudo 
+P18310	1	1	2	1	1	P18310;Plasmid F
+P27840	1	1	2	1	1	P27840;Ohman pseudo
+P28369	1	1	2	1	1	P28369;Uniprot pseudo 
+P30852	1	1	2	1	1	P30852;Ohman pseudo
+P31450	1	1	2	1	1	P31450;Uniprot pseudo
+P32051	1	1	2	1	1	P32051;Uniprot pseudo 
+P32690	1	1	2	1	1	P32690;Uniprot pseudo 
+P33227	1	1	2	1	1	P33227;Uniprot pseudo
+P33345	1	1	2	1	1	P33345;Uniprot pseudo 
+P33353	1	1	2	1	1	P33353;Uniprot pseudo 
+P33669	1	1	2	1	1	P33669;Uniprot pseudo 
+P33924	1	1	2	1	1	P33924;Uniprot pseudo;Insertion Sequence;Insertion Element 
+P37003	1	1	2	1	1	P37003;Uniprot pseudo 
+P37057	1	1	2	1	1	P37057;EcoGene Prophage Integrase 
+P37635	1	1	2	1	1	P37635;Uniprot pseudo 
+P37655	1	1	2	1	1	P37655;Uniprot pseudo 
+P39180	1	1	2	1	1	P39180;EcoGene Prophage Integrase 
+P39309	1	1	2	1	1	P39309;Uniprot pseudo 
+P39354	1	1	2	1	1	P39354;Uniprot pseudo 
+P39874	1	1	2	1	1	P39874;Uniprot pseudo 
+P42626	1	1	2	1	1	P42626;Ohman pseudo 
+P45505	1	1	2	1	1	P45505;Uniprot pseudo 
+P45766	1	1	2	1	1	P45766;Uniprot pseudo 
+P46856	1	1	2	1	1	P46856;Uniprot pseudo 
+P46879	1	1	2	1	1	P46879;EcoGene pseudo
+P52048	1	1	2	1	1	P52048;Ohman pseudo 
+P52137	1	1	2	1	1	P52137;Uniprot pseudo 
+P56614	1		1	1		P56614
+P64526	1	1	2	1	1	P64526;Uniprot pseudo 
+P64562	1	1	2	1	1	P64562;Uniprot pseudo 
+P69789	1	1	2	1	1	P69789;Ohman pseudo
+P75675	1	1	2	1	1	P75675;Uniprot pseudo 
+P75684	1	1	2	1	1	P75684;Uniprot pseudo 
+P75717	1	1	2	1	1	P75717;Uniprot pseudo
+P75974	1	1	2	1	1	P75974;EcoGene Prophage Integrase 
+P76138	1	1	2	1	1	P76138;Uniprot pseudo
+P76147	1	1	2	1	1	P76147;Ohman pseudo ; 
+P76161	1	1	2	1	1	P76161;EcoGene Prophage Integrase 
+P76165	1	1	2	1	1	P76165;Uniprot pseudo
+P76356	1	1	2	1	1	P76356;Uniprot pseudo
+P76628	1	1	2	1	1	P76628;Uniprot pseudo
+P76692	1	1	2	1	1	P76692;Uniprot pseudo
+P77184	1	1	2	1	1	P77184;Uniprot pseudo;Insertion Sequence
+P77199	1	1	2	1	1	P77199;Uniprot pseudo 
+P77228	1	1	2	1	1	P77228;Uniprot pseudo
+P77300	1	1	2	1	1	P77300;EcoGene Prophage Integrase 
+P77481	1	1	2	1	1	P77481;Uniprot pseudo
+P77601	1	1	2	1	1	P77601;Uniprot pseudo
+P77609	1	1	2	1	1	P77609;EcoGene Prophage Integrase 
+P77688	1	1	2	1	1	P77688;Uniprot pseudo
+P77699	1	1	2	1	1	P77699;Uniprot pseudo
+Q2EEQ3	1	1	2	1	1	Q2EEQ3;Ecogene/Uniprot pseudo
+Q2EER5	1	1	2	1	1	Q2EER5;Uniprot pseudo
+Q2EES0	1	1	2	1	1	Q2EES0;EcoGene Prophage Integrase 
+Q46797	1	1	2	1	1	Q46797;Uniprot pseudo
+Q46817	1	1	2	1	1	Q46817;Ohman pseudo
+Q46833	1	1	2	1	1	Q46833;Uniprot pseudo 
+Q46840	1	1	2	1	1	Q46840;Uniprot pseudo 
+Q46911	1	1	2	1	1	Q46911;Ohman pseudo
+Q47154	1	1	2	1	1	Q47154;Uniprot pseudo
+Q47268	1	1	2	1	1	Q47268;EcoGene Prophage Integrase 
+Q47272	1	1	2	1	1	Q47272;EcoGene Prophage Integrase 
+Q47719	1	1	2	1	1	Q47719;Uniprot pseudo
+Q7DFU6	1	1	2	1	1	Q7DFU6;Uniprot pseudo;
+Q9JMS3	1	1	2	1	1	Q9JMS3;Plasmid F
+P0A8A0		1	1		1	Prophage Integrase
+P0A8A2		1	1		1	Prophage Integrase
+P0A8P6		1	1		1	Prophage transposase
+P0A8P8		1	1		1	Prophage transposase
+P0A927		1	1		1	Prophage transposase
+P0ABC7		1	1		1	Prophage transposase
+P0ADP0		1	1		1	Prophage Integrase
+P0AFM6		1	1		1	Prophage transposase
+P0AFN2		1	1		1	Prophage transposase
+P23857		1	1		1	Prophage transposase
+P31665		1	1		1	Transposase
+P32696		1	1		1	Prophage transposase
+P37014		1	1		1	Transposase 

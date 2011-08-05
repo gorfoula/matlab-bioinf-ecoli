@@ -1,0 +1,7 @@
+P42905	agaW		b3134		PTPC2_ECOLI	Cell inner membrane; Multi-pass membrane protein. 	Uncertain	agaW	3278723	3279124	1	PTS system N-	E	?	b3134	
+P77519	yddL		b1472	JW1468	YDDL_ECOLI		Uncertain	yddL	1543762	1544052	-1	putative outer membrane porin	E	?	b1472	
+P76613	ypjC		b2650	JW5424	YPJC_ECOLI		Uncertain	ypjC	2782551	2783033	-1	orf hypothetical protein	E	?	b2650	
+P76023	ychS		b1228	JW5881	YCHS_ECOLI		Uncertain	b1228	1285932	1286207	1	hypothetical protein	E	?	b1228	
+P76123	yddK		b1471	JW1467	YDDK_ECOLI		Uncertain	yddK	1542782	1543738	-1	putative glycoportein	E	?	b1471	
+P16683	phnE		b4104	JW4065	PHNE_ECOLI	Cell inner membrane; Multi-pass membrane protein. 	Uncertain	phnE	4320684	4321304	-1	membrane channel protein	N	F	b4104	
+P33369	mdtQ	yohG yohH	b2139	JW5838 JW5358	MDTQ_ECOLI	Cell outer membrane; Lipid-anchor. 	Uncertain	yohG	2225345	2226541	-1	Putative	N	F	b2138	

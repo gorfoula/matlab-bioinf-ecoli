@@ -1,0 +1,1 @@
+AAS_ECOLI	AAS_ECOLI	C6EJ32_ECOBD	B	2-acyl-glycerophospho-ethanolamine acyltransferase (EC 2.3.1.40) (EC 6.2.1.20) (AMP-dependent synthetase and ligase)	719	3	3	4	4	5	10	5	5	5	5	5	5	7	7	7	

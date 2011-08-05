@@ -1,0 +1,519 @@
+Gene Name	ABS_CALL	ABS_CALL	Info
+aas	0	A	Not Expressed at LB
+acpD	0	A	Not Expressed at LB
+acpS	0	A	Not Expressed at LB
+acrF	0	A	Not Expressed at LB
+adiY	0	A	Not Expressed at LB
+agaA	0	A	Not Expressed at LB
+agaB	0	A	Not Expressed at LB
+agaD	0	A	Not Expressed at LB
+agaI	0	A	Not Expressed at LB
+agaR	0	A	Not Expressed at LB
+agaS	0	A	Not Expressed at LB
+agaV	0	A	Not Expressed at LB
+agaW	0	A	Not Expressed at LB
+ais	0	A	Not Expressed at LB
+alkB	0	A	Not Expressed at LB
+alpA	0	A	Not Expressed at LB
+apaG	0	A	Not Expressed at LB
+apaH	0	A	Not Expressed at LB
+appY	0	A	Not Expressed at LB
+aqpZ	0	A	Not Expressed at LB
+araB	0	A	Not Expressed at LB
+araE	0	A	Not Expressed at LB
+araH	0	A	Not Expressed at LB
+argA	0	A	Not Expressed at LB
+argC	0	A	Not Expressed at LB
+argT	0	A	Not Expressed at LB
+aroD	0	A	Not Expressed at LB
+aroE	0	A	Not Expressed at LB
+arp	0	A	Not Expressed at LB
+arsC	0	A	Not Expressed at LB
+arsR	0	A	Not Expressed at LB
+artI	0	A	Not Expressed at LB
+artM	0	A	Not Expressed at LB
+artQ	0	A	Not Expressed at LB
+asr	0	A	Not Expressed at LB
+betI	0	A	Not Expressed at LB
+betT	0	A	Not Expressed at LB
+bglB	0	A	Not Expressed at LB
+bglG	0	A	Not Expressed at LB
+bioC	0	A	Not Expressed at LB
+bioH	0	A	Not Expressed at LB
+blc	0	A	Not Expressed at LB
+bolA	0	A	Not Expressed at LB
+cadA	0	A	Not Expressed at LB
+cadC	0	A	Not Expressed at LB
+caiB	0	A	Not Expressed at LB
+caiF	0	A	Not Expressed at LB
+cbl	0	A	Not Expressed at LB
+cchB	0	A	Not Expressed at LB
+ccmA	0	A	Not Expressed at LB
+ccmB	0	A	Not Expressed at LB
+ccmC	0	A	Not Expressed at LB
+ccmD	0	A	Not Expressed at LB
+cdd	0	A	Not Expressed at LB
+celA	0	A	Not Expressed at LB
+celC	0	A	Not Expressed at LB
+chaB	0	A	Not Expressed at LB
+cheB	0	A	Not Expressed at LB
+cheR	0	A	Not Expressed at LB
+cheW	0	A	Not Expressed at LB
+cheY	0	A	Not Expressed at LB
+cheZ	0	A	Not Expressed at LB
+chpA	0	A	Not Expressed at LB
+chpR	0	A	Not Expressed at LB
+cmtA	0	A	Not Expressed at LB
+cmtB	0	A	Not Expressed at LB
+cof	0	A	Not Expressed at LB
+cpsG	0	A	Not Expressed at LB
+creB	0	A	Not Expressed at LB
+criR	0	A	Not Expressed at LB
+csgA	0	A	Not Expressed at LB
+csgB	0	A	Not Expressed at LB
+csgD	0	A	Not Expressed at LB
+csgF	0	A	Not Expressed at LB
+csgG	0	A	Not Expressed at LB
+cspB	0	A	Not Expressed at LB
+cspF	0	A	Not Expressed at LB
+cvpA	0	A	Not Expressed at LB
+cybC	0	A	Not Expressed at LB
+cynS	0	A	Not Expressed at LB
+cynT	0	A	Not Expressed at LB
+cysH	0	A	Not Expressed at LB
+cysJ	0	A	Not Expressed at LB
+cysU	0	A	Not Expressed at LB
+cysW	0	A	Not Expressed at LB
+dam	0	A	Not Expressed at LB
+dedA	0	A	Not Expressed at LB
+deoR	0	A	Not Expressed at LB
+dgkA	0	A	Not Expressed at LB
+dicB	0	A	Not Expressed at LB
+dicC	0	A	Not Expressed at LB
+dinI	0	A	Not Expressed at LB
+dinJ	0	A	Not Expressed at LB
+dmsB	0	A	Not Expressed at LB
+dmsC	0	A	Not Expressed at LB
+dniR	0	A	Not Expressed at LB
+dppB	0	A	Not Expressed at LB
+dppC	0	A	Not Expressed at LB
+dsbE	0	A	Not Expressed at LB
+dsdC	0	A	Not Expressed at LB
+dsdX	0	A	Not Expressed at LB
+dsrB	0	A	Not Expressed at LB
+eaeH	0	A	Not Expressed at LB
+ebgC	0	A	Not Expressed at LB
+ecpD	0	A	Not Expressed at LB
+emrY	0	A	Not Expressed at LB
+endA	0	A	Not Expressed at LB
+entD	0	A	Not Expressed at LB
+entE	0	A	Not Expressed at LB
+envR	0	A	Not Expressed at LB
+envY	0	A	Not Expressed at LB
+erfK	0	A	Not Expressed at LB
+evgA	0	A	Not Expressed at LB
+evgS	0	A	Not Expressed at LB
+exbB	0	A	Not Expressed at LB
+farR	0	A	Not Expressed at LB
+fdnI	0	A	Not Expressed at LB
+fecI	0	A	Not Expressed at LB
+fecR	0	A	Not Expressed at LB
+feoA	0	A	Not Expressed at LB
+fepB	0	A	Not Expressed at LB
+fepD	0	A	Not Expressed at LB
+fepE	0	A	Not Expressed at LB
+fes	0	A	Not Expressed at LB
+fic	0	A	Not Expressed at LB
+fimD	0	A	Not Expressed at LB
+fimF	0	A	Not Expressed at LB
+fimG	0	A	Not Expressed at LB
+fimZ	0	A	Not Expressed at LB
+fixX	0	A	Not Expressed at LB
+flgA	0	A	Not Expressed at LB
+flgC	0	A	Not Expressed at LB
+flgG	0	A	Not Expressed at LB
+flgH	0	A	Not Expressed at LB
+flgL	0	A	Not Expressed at LB
+flgM	0	A	Not Expressed at LB
+flgN	0	A	Not Expressed at LB
+flhA	0	A	Not Expressed at LB
+flhD	0	A	Not Expressed at LB
+fliA	0	A	Not Expressed at LB
+fliC	0	A	Not Expressed at LB
+fliE	0	A	Not Expressed at LB
+fliF	0	A	Not Expressed at LB
+fliG	0	A	Not Expressed at LB
+fliJ	0	A	Not Expressed at LB
+fliL	0	A	Not Expressed at LB
+fliM	0	A	Not Expressed at LB
+fliO	0	A	Not Expressed at LB
+fliP	0	A	Not Expressed at LB
+fliQ	0	A	Not Expressed at LB
+fliR	0	A	Not Expressed at LB
+fliS	0	A	Not Expressed at LB
+fliT	0	A	Not Expressed at LB
+fliZ	0	A	Not Expressed at LB
+folP	0	A	Not Expressed at LB
+frdC	0	A	Not Expressed at LB
+frvA	0	A	Not Expressed at LB
+frvR	0	A	Not Expressed at LB
+frvX	0	A	Not Expressed at LB
+frwD	0	A	Not Expressed at LB
+ftsK	0	A	Not Expressed at LB
+ftsL	0	A	Not Expressed at LB
+fucA	0	A	Not Expressed at LB
+fucK	0	A	Not Expressed at LB
+fucO	0	A	Not Expressed at LB
+fucR	0	A	Not Expressed at LB
+fucU	0	A	Not Expressed at LB
+fumC	0	A	Not Expressed at LB
+gabP	0	A	Not Expressed at LB
+gadB	0	A	Not Expressed at LB
+galK	0	A	Not Expressed at LB
+galM	0	A	Not Expressed at LB
+galP	0	A	Not Expressed at LB
+galR	0	A	Not Expressed at LB
+gapC	0	A	Not Expressed at LB
+gatR	0	A	Not Expressed at LB
+gcl	0	A	Not Expressed at LB
+gcvA	0	A	Not Expressed at LB
+gefL	0	A	Not Expressed at LB
+gidB	0	A	Not Expressed at LB
+gip	0	A	Not Expressed at LB
+glcC	0	A	Not Expressed at LB
+glcD	0	A	Not Expressed at LB
+glcG	0	A	Not Expressed at LB
+glgS	0	A	Not Expressed at LB
+glnB	0	A	Not Expressed at LB
+glnK	0	A	Not Expressed at LB
+glpE	0	A	Not Expressed at LB
+glpG	0	A	Not Expressed at LB
+gltB	0	A	Not Expressed at LB
+gltD	0	A	Not Expressed at LB
+gltF	0	A	Not Expressed at LB
+glvB	0	A	Not Expressed at LB
+glvC	0	A	Not Expressed at LB
+glvG	0	A	Not Expressed at LB
+gntK	0	A	Not Expressed at LB
+gntU	0	A	Not Expressed at LB
+gntV	0	A	Not Expressed at LB
+grxA	0	A	Not Expressed at LB
+gusC	0	A	Not Expressed at LB
+gutM	0	A	Not Expressed at LB
+hdeA	0	A	Not Expressed at LB
+hdeB	0	A	Not Expressed at LB
+hdhA	0	A	Not Expressed at LB
+hemH	0	A	Not Expressed at LB
+hha	0	A	Not Expressed at LB
+hhoB	0	A	Not Expressed at LB
+hlpB	0	A	Not Expressed at LB
+hlsM	0	A	Not Expressed at LB
+hlsQ	0	A	Not Expressed at LB
+hnr	0	A	Not Expressed at LB
+hofB	0	A	Not Expressed at LB
+hofD	0	A	Not Expressed at LB
+hofF	0	A	Not Expressed at LB
+hofG	0	A	Not Expressed at LB
+hofH	0	A	Not Expressed at LB
+holB	0	A	Not Expressed at LB
+holE	0	A	Not Expressed at LB
+hrpA	0	A	Not Expressed at LB
+hslJ	0	A	Not Expressed at LB
+hslS	0	A	Not Expressed at LB
+htrC	0	A	Not Expressed at LB
+htrE	0	A	Not Expressed at LB
+hyaB	0	A	Not Expressed at LB
+hyaC	0	A	Not Expressed at LB
+hyaD	0	A	Not Expressed at LB
+hyaE	0	A	Not Expressed at LB
+hybB	0	A	Not Expressed at LB
+hybD	0	A	Not Expressed at LB
+hybE	0	A	Not Expressed at LB
+hybF	0	A	Not Expressed at LB
+hybG	0	A	Not Expressed at LB
+hycA	0	A	Not Expressed at LB
+hycB	0	A	Not Expressed at LB
+hycD	0	A	Not Expressed at LB
+hycF	0	A	Not Expressed at LB
+hycG	0	A	Not Expressed at LB
+hycH	0	A	Not Expressed at LB
+hycI	0	A	Not Expressed at LB
+hydN	0	A	Not Expressed at LB
+hypA	0	A	Not Expressed at LB
+hypC	0	A	Not Expressed at LB
+hypD	0	A	Not Expressed at LB
+ibk	0	A	Not Expressed at LB
+icc	0	A	Not Expressed at LB
+ilvM	0	A	Not Expressed at LB
+ilvN	0	A	Not Expressed at LB
+ilvY	0	A	Not Expressed at LB
+insA1	0	A	Not Expressed at LB
+insA2	0	A	Not Expressed at LB
+insA3	0	A	Not Expressed at LB
+katE	0	A	Not Expressed at LB
+kch	0	A	Not Expressed at LB
+kdgT	0	A	Not Expressed at LB
+hdpE	0	A	Not Expressed at LB
+kdtB	0	A	Not Expressed at LB
+kduD	0	A	Not Expressed at LB
+kduI	0	A	Not Expressed at LB
+kefC	0	A	Not Expressed at LB
+lacA	0	A	Not Expressed at LB
+lar	0	A	Not Expressed at LB
+ldcC	0	A	Not Expressed at LB
+leuD	0	A	Not Expressed at LB
+leuO	0	A	Not Expressed at LB
+lhr	0	A	Not Expressed at LB
+lit	0	A	Not Expressed at LB
+livK	0	A	Not Expressed at LB
+lrp	0	A	Not Expressed at LB
+lysA	0	A	Not Expressed at LB
+lysR	0	A	Not Expressed at LB
+marB	0	A	Not Expressed at LB
+marR	0	A	Not Expressed at LB
+may	0	A	Not Expressed at LB
+mcrA	0	A	Not Expressed at LB
+mdlB	0	A	Not Expressed at LB
+mepA	0	A	Not Expressed at LB
+metA	0	A	Not Expressed at LB
+metC	0	A	Not Expressed at LB
+metR	0	A	Not Expressed at LB
+mhpB	0	A	Not Expressed at LB
+mhpE	0	A	Not Expressed at LB
+moaD	0	A	Not Expressed at LB
+moeB	0	A	Not Expressed at LB
+molR	0	A	Not Expressed at LB
+mreD	0	A	Not Expressed at LB
+mscL	0	A	Not Expressed at LB
+msyB	0	A	Not Expressed at LB
+mukB	0	A	Not Expressed at LB
+mutH	0	A	Not Expressed at LB
+mutY	0	A	Not Expressed at LB
+nac	0	A	Not Expressed at LB
+napB	0	A	Not Expressed at LB
+napC	0	A	Not Expressed at LB
+napF	0	A	Not Expressed at LB
+napH	0	A	Not Expressed at LB
+narI	0	A	Not Expressed at LB
+narJ	0	A	Not Expressed at LB
+narZ	0	A	Not Expressed at LB
+nel	0	A	Not Expressed at LB
+nhaR	0	A	Not Expressed at LB
+nikB	0	A	Not Expressed at LB
+nikD	0	A	Not Expressed at LB
+nikE	0	A	Not Expressed at LB
+nirC	0	A	Not Expressed at LB
+nirD	0	A	Not Expressed at LB
+nlp	0	A	Not Expressed at LB
+nlpC	0	A	Not Expressed at LB
+nrdE	0	A	Not Expressed at LB
+nrdF	0	A	Not Expressed at LB
+nrdG	0	A	Not Expressed at LB
+nrfB	0	A	Not Expressed at LB
+nrfF	0	A	Not Expressed at LB
+nrfG	0	A	Not Expressed at LB
+nupG	0	A	Not Expressed at LB
+ogrK	0	A	Not Expressed at LB
+osmB	0	A	Not Expressed at LB
+osmC	0	A	Not Expressed at LB
+osmE	0	A	Not Expressed at LB
+pabA	0	A	Not Expressed at LB
+panF	0	A	Not Expressed at LB
+pfkB	0	A	Not Expressed at LB
+pgpB	0	A	Not Expressed at LB
+pheM	0	A	Not Expressed at LB
+phnB	0	A	Not Expressed at LB
+phnC	0	A	Not Expressed at LB
+phnD	0	A	Not Expressed at LB
+phnF	0	A	Not Expressed at LB
+phnG	0	A	Not Expressed at LB
+phnH	0	A	Not Expressed at LB
+phnJ	0	A	Not Expressed at LB
+phnK	0	A	Not Expressed at LB
+phnL	0	A	Not Expressed at LB
+phnO	0	A	Not Expressed at LB
+phnQ	0	A	Not Expressed at LB
+phoB	0	A	Not Expressed at LB
+phoH	0	A	Not Expressed at LB
+phpB	0	A	Not Expressed at LB
+phrB	0	A	Not Expressed at LB
+pinO	0	A	Not Expressed at LB
+pitB	0	A	Not Expressed at LB
+pnuC	0	A	Not Expressed at LB
+potF	0	A	Not Expressed at LB
+potG	0	A	Not Expressed at LB
+ppdA	0	A	Not Expressed at LB
+ppdB	0	A	Not Expressed at LB
+ppdC	0	A	Not Expressed at LB
+ppdD	0	A	Not Expressed at LB
+ppiC	0	A	Not Expressed at LB
+prfH	0	A	Not Expressed at LB
+priC	0	A	Not Expressed at LB
+prkB	0	A	Not Expressed at LB
+prmA	0	A	Not Expressed at LB
+proB	0	A	Not Expressed at LB
+proV	0	A	Not Expressed at LB
+proW	0	A	Not Expressed at LB
+prsA	0	A	Not Expressed at LB
+pshM	0	A	Not Expressed at LB
+psiF	0	A	Not Expressed at LB
+pspB	0	A	Not Expressed at LB
+pspC	0	A	Not Expressed at LB
+pssR	0	A	Not Expressed at LB
+pstA	0	A	Not Expressed at LB
+pth	0	A	Not Expressed at LB
+ptrB	0	A	Not Expressed at LB
+ptsO	0	A	Not Expressed at LB
+purE	0	A	Not Expressed at LB
+pyrI	0	A	Not Expressed at LB
+pyrL	0	A	Not Expressed at LB
+racC	0	A	Not Expressed at LB
+rarD	0	A	Not Expressed at LB
+rcsA	0	A	Not Expressed at LB
+recD	0	A	Not Expressed at LB
+recT	0	A	Not Expressed at LB
+relB	0	A	Not Expressed at LB
+relE	0	A	Not Expressed at LB
+relF	0	A	Not Expressed at LB
+rem	0	A	Not Expressed at LB
+rfaH	0	A	Not Expressed at LB
+rfaK	0	A	Not Expressed at LB
+rfaY	0	A	Not Expressed at LB
+rfaZ	0	A	Not Expressed at LB
+rhaD	0	A	Not Expressed at LB
+rhaR	0	A	Not Expressed at LB
+rhaS	0	A	Not Expressed at LB
+rhaC	0	A	Not Expressed at LB
+rhaD	0	A	Not Expressed at LB
+rimL	0	A	Not Expressed at LB
+rmf	0	A	Not Expressed at LB
+rna	0	A	Not Expressed at LB
+rnb	0	A	Not Expressed at LB
+rnhB	0	A	Not Expressed at LB
+rnk	0	A	Not Expressed at LB
+rpiB	0	A	Not Expressed at LB
+rpiR	0	A	Not Expressed at LB
+rpmH	0	A	Not Expressed at LB
+rpmJ	0	A	Not Expressed at LB
+rpsV	0	A	Not Expressed at LB
+rspA	0	A	Not Expressed at LB
+rspB	0	A	Not Expressed at LB
+sanA	0	A	Not Expressed at LB
+sapB	0	A	Not Expressed at LB
+sapC	0	A	Not Expressed at LB
+sdiA	0	A	Not Expressed at LB
+sfa	0	A	Not Expressed at LB
+sieB	0	A	Not Expressed at LB
+slp	0	A	Not Expressed at LB
+smf	0	A	Not Expressed at LB
+smg	0	A	Not Expressed at LB
+smpA	0	A	Not Expressed at LB
+sms	0	A	Not Expressed at LB
+sodC	0	A	Not Expressed at LB
+sohA	0	A	Not Expressed at LB
+soxR	0	A	Not Expressed at LB
+soxS	0	A	Not Expressed at LB
+speB	0	A	Not Expressed at LB
+speC	0	A	Not Expressed at LB
+sprT	0	A	Not Expressed at LB
+srlB	0	A	Not Expressed at LB
+sspB	0	A	Not Expressed at LB
+sugE	0	A	Not Expressed at LB
+sulA	0	A	Not Expressed at LB
+surE	0	A	Not Expressed at LB
+syd	0	A	Not Expressed at LB
+talC	0	A	Not Expressed at LB
+tap	0	A	Not Expressed at LB
+tdcC	0	A	Not Expressed at LB
+tdcR	0	A	Not Expressed at LB
+tdk	0	A	Not Expressed at LB
+tehB	0	A	Not Expressed at LB
+tesB	0	A	Not Expressed at LB
+thiE	0	A	Not Expressed at LB
+thiH	0	A	Not Expressed at LB
+thrL	0	A	Not Expressed at LB
+thrS	0	A	Not Expressed at LB
+torA	0	A	Not Expressed at LB
+torD	0	A	Not Expressed at LB
+torR	0	A	Not Expressed at LB
+torT	0	A	Not Expressed at LB
+tpr	0	A	Not Expressed at LB
+treR	0	A	Not Expressed at LB
+trkG	0	A	Not Expressed at LB
+trpL	0	A	Not Expressed at LB
+ubiX	0	A	Not Expressed at LB
+ugpE	0	A	Not Expressed at LB
+uhpT	0	A	Not Expressed at LB
+uidA	0	A	Not Expressed at LB
+umuD	0	A	Not Expressed at LB
+ung	0	A	Not Expressed at LB
+usg	0	A	Not Expressed at LB
+uxaB	0	A	Not Expressed at LB
+uxaC	0	A	Not Expressed at LB
+vsr	0	A	Not Expressed at LB
+wcaB	0	A	Not Expressed at LB
+xapR	0	A	Not Expressed at LB
+xasA	0	A	Not Expressed at LB
+xerD	0	A	Not Expressed at LB
+xylF	0	A	Not Expressed at LB
+xylH	0	A	Not Expressed at LB
+acrB	1	M	Not Detectable Signal
+agaC	1	M	Not Detectable Signal
+arcB	1	M	Not Detectable Signal
+cydA	1	M	Not Detectable Signal
+dacB	1	M	Not Detectable Signal
+dnaT	1	M	Not Detectable Signal
+entC	1	M	Not Detectable Signal
+entF	1	M	Not Detectable Signal
+exo	1	M	Not Detectable Signal
+fruL	1	M	Not Detectable Signal
+ilvL	1	M	Not Detectable Signal
+leuL	1	M	Not Detectable Signal
+lytB	1	M	Not Detectable Signal
+pheL	1	M	Not Detectable Signal
+phnA	1	M	Not Detectable Signal
+potH	1	M	Not Detectable Signal
+potl	1	M	Not Detectable Signal
+putA	1	M	Not Detectable Signal
+rbsD	1	M	Not Detectable Signal
+rfaB	1	M	Not Detectable Signal
+rhlB	1	M	Not Detectable Signal
+rhoL	1	M	Not Detectable Signal
+sdhC	1	M	Not Detectable Signal
+selB	1	M	Not Detectable Signal
+tdcA	1	M	Not Detectable Signal
+tnaL	1	M	Not Detectable Signal
+b0177	1	M	Not Detectable Signal
+b0250	1	M	Not Detectable Signal
+b0269	1	M	Not Detectable Signal
+b0271	1	M	Not Detectable Signal
+b0291	1	M	Not Detectable Signal
+b0322	1	M	Not Detectable Signal
+b0574	1	M	Not Detectable Signal
+b1437	1	M	Not Detectable Signal
+b1595	1	M	Not Detectable Signal
+b1824	1	M	Not Detectable Signal
+b1978	1	M	Not Detectable Signal
+b2067	1	M	Not Detectable Signal
+b2086	1	M	Not Detectable Signal
+b2088	1	M	Not Detectable Signal
+b2097	1	M	Not Detectable Signal
+b2270	1	M	Not Detectable Signal
+b2292	1	M	Not Detectable Signal
+b2630	1	M	Not Detectable Signal
+b2641	1	M	Not Detectable Signal
+b2851	1	M	Not Detectable Signal
+b2878	1	M	Not Detectable Signal
+b3194	1	M	Not Detectable Signal
+b3596	1	M	Not Detectable Signal
+b3597	1	M	Not Detectable Signal
+b3672	1	M	Not Detectable Signal
+b3678	1	M	Not Detectable Signal
+b3696	1	M	Not Detectable Signal
+b3697	1	M	Not Detectable Signal
+b3705	1	M	Not Detectable Signal
+b4002	1	M	Not Detectable Signal
+b4253	1	M	Not Detectable Signal
+b4280	1	M	Not Detectable Signal
+b4404	1	M	Not Detectable Signal
+b4405	1	M	Not Detectable Signal

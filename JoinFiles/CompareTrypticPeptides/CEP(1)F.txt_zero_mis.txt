@@ -1,0 +1,1 @@
+Entry Name	Peptide Sequence	MW	Max Charges	m/z	GRAVY	Charges

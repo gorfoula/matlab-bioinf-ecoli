@@ -1,0 +1,4 @@
+JoinFiles/k12/TableS3_K12_ProteomeV13_BasicProteome_3900.txt	1	2	5	1
+JoinFiles/Transcriptomics/Ishihama2008_fin.txt	1	1	8	9
+JoinFiles/Transcriptomics/Masuda2009_fin2.txt	1	1	6	7
+JoinFiles/Transcriptomics/Taniguchi2010_fin_mmol.txt	1	1	6	7

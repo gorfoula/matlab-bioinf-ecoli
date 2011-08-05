@@ -1,0 +1,43 @@
+P00561	thrAb	1786183	fused aspartokinase I and homoserine dehydrogenase I
+P75616	yaaXc	1786186	predicted protein
+P0AAR0	tomB	1786666	predicted protein
+P0A8Y8	entH	1786813	conserved protein
+P37001	pagP	1786840	palmitoyl transferase for Lipid A
+P0ACV0	lpxL	1787292	lauryl-acyl carrier protein (ACP)-dependent acyltransferase
+P0AF16	murJ	1787309	predicted inner membrane protein
+Q6BF86	ldrA	48994880	toxic polypeptide, small
+Q6BF86	ldrC	48994882	toxic polypeptide, small
+P0AEV1	rssB	1787487	response regulator of RpoS
+P50456	dgsA	1787878	DNA-binding transcriptional repressor
+P0A766	rsxA	1787914	predicted inner membrane subunit
+P77223	rsxB	1787915	predicted iron-sulfur protein
+P77611	rsxC	1787916	fused predicted 4Fe-4S ferredoxin-type protein/conserved protein
+P76182	rsxD	1787917	predicted inner membrane oxidoreductase
+P77285	rsxG	1787918	predicted oxidoreductase
+P77179	rsxE	1787919	predicted inner membrane NADH-quinone reductase
+P24205	lpxM	1788161	myristoyl-acyl carrier protein (ACP)-dependent acyltransferase
+P76445	lpxT	87082062	undecaprenyl pyrophosphate phosphatase
+A5A620	ypaB	145693158	hypothetical protein
+P37014	ypaA	87082070	predicted protein
+P0A8V0	rbn	87082078	binuclear zinc phosphodiesterase
+P39199	prmB	87082085	N5-glutamine methyltransferase
+P0ACV2	lpxP	87082094	palmitoleoyl-acyl carrier protein (ACP)-dependent acyltransferase
+P76562	tmcA	1788818	Elongator methionine tRNA (ac4C34) acetyltransferase
+P0A903	bamC	87082112	lipoprotein
+P77774	bamB	1788859	protein assembly complex, lipoprotein component
+P0AFU4	qseF	1788905	predicted DNA-binding response regulator in two-component system
+P0AD44	qseG	1788906	conserved protein
+P52101	qseE	87082128	predicted sensory kinase in two-component system
+P0AC02	bamD	1788947	predicted lipoprotein
+P0A7B3	nadK	1788968	NAD kinase
+P37338	csiR	87082149	DNA-binding transcriptional dual regulator
+P0AGF2	csdE	1789176	predicted Fe-S metabolism protein
+P0A8S1	argP	1789283	DNA-binding transcriptional activator, replication initiation inhibitor
+P26648	ftsP	1789394	repressor protein for FtsI
+P0AEW4	cpdA	1789410	cyclic 3',5'-adenosine monophosphate phosphodiesterase
+P0AFX0	hpf	1789595	predicted ribosome-associated, sigma 54 modulation protein
+P45751	hofO	1789795	conserved membrane protein
+P64634	hofN	1789796	predicted fimbrial assembly protein
+P45753	hofM	87082257	predicted pilus assembly protein
+P37689	gpmM	1790041	phosphoglycero mutase III, cofactor-independent
+P0AF90	rraB	1790704	conserved protein

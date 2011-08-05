@@ -1,0 +1,24 @@
+OLC	Amino Acid	Interface Scale ÄGwif (kcal/mol)	Octanol Scale ÄGwoct (kcal/mol)	Octanol - Interface Scale
+M	Met	-0.23	-0.67	-0.44
+A	Ala 	0.17	0.50	0.33
+V	Val	0.07	-0.46	-0.53
+L	Leu	-0.56	-1.25	-0.69
+I	Ile	-0.31	-1.12	-0.81
+P	Pro	0.45	0.14	-0.31
+F	Phe	-1.13	-1.71	-0.58
+W	Trp	-1.85	-2.09	-0.24
+G	Gly	0.01	1.15	1.14
+S	Ser	0.13	0.46	0.33
+C	Cys 	-0.24	-0.02	0.22
+N	Asn 	0.42	0.85	0.43
+Q	Gln 	0.58	0.77	0.19
+Y	Tyr	-0.94	-0.71	0.23
+T	Thr	0.14	0.25	0.11
+K	Lys	0.99	2.80	1.81
+R	Arg+	0.81	1.81	1.00
+H	His+	0.96	2.33	1.37
+H	His0	0.17	0.11	-0.06
+D	Asp-	1.23	3.64	2.41
+E	Glu-	2.02	3.63	1.61
+D0	Asp0	-0.07	0.43	0.50
+E0	Glu0 	-0.01	0.11	0.12

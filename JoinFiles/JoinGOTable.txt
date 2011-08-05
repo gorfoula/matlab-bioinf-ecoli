@@ -1,0 +1,2 @@
+Files/gene_association.goa_uniprot
+Files/GAF_table_EColi.txt

@@ -1,0 +1,276 @@
+C6EK39	ECBD_2995 ECD_00624			ECBD_2995 ECD_00624	C6EK39_ECOBD		Predicted		40-residue YVTN family beta-propeller repeat protein (Putative uncharacterized protein)	GO:0016021	"Complete proteome; Signal"	625
+C6EB33	ECBD_3598 ECD_00020			ECBD_3598 ECD_00020	C6EB33_ECOBD		Predicted		Putative uncharacterized protein	"GO:0007155; GO:0009289"	"Complete proteome; Signal"	319
+C6EF05	fdoG ECBD_4131 ECD_03779	fdoG		ECBD_4131 ECD_03779	C6EF05_ECOBD		Predicted		Formate dehydrogenase, alpha subunit (Formate dehydrogenase-O, major subunit)	"GO:0045333; GO:0005737; GO:0009055; GO:0008863; GO:0051536; GO:0030151; GO:0055114"	"Complete proteome; Iron; Iron-sulfur; Metal-binding; Molybdenum; Oxidoreductase; Selenium; Selenocysteine; Signal"	1016
+C6EE95	ECBD_0150 ECD_03436			ECBD_0150 ECD_03436	C6EE95_ECOBD		Predicted		Putative regulatory protein (Transcriptional regulator, AraC family)	"GO:0005737; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Activator; Complete proteome; Cytoplasm; DNA-binding; Transcription; Transcription regulation"	271
+C6EJ20	V ECBD_2863 ECD_10046	V		ECBD_2863 ECD_10046	C6EJ20_ECOBD		Predicted		Ig domain protein group 2 domain protein (Tail component)		Complete proteome	246
+C6EDJ0	ECBD_0126 ECD_03457			ECBD_0126 ECD_03457	C6EDJ0_ECOBD		Predicted		Putative cytoplasmic protein (Putative uncharacterized protein)		Complete proteome	69
+C6EBL5	hpaR ECBD_3665 ECD_04231	hpaR		ECBD_3665 ECD_04231	C6EBL5_ECOBD		Predicted		Homoprotocatechuate degradative operon repressor (Transcriptional regulator, MarR family)	"GO:0003677; GO:0005622; GO:0010124; GO:0006355; GO:0003700; GO:0006350; GO:0016564"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	148
+C6EIL7	prfB ECBD_0846 ECD_02723	prfB		ECBD_0846 ECD_02723	C6EIL7_ECOBD	Cytoplasm. 	Inferred from homology	Prokaryotic/mitochondrial release factor family	Peptide chain release factor 2 (RF-2)	"GO:0005737; GO:0016149"	"Complete proteome; Cytoplasm; Protein biosynthesis"	365
+C6E9U2	yfbW ECBD_1401 ECD_02184	yfbW		ECBD_1401 ECD_02184	C6E9U2_ECOBD		Inferred from homology		Putative uncharacterized protein yfbW (Small multidrug resistance protein)	GO:0016020	"Cell membrane; Complete proteome; Membrane; Signal"	111
+C6EKB6	hokE ECBD_3076 ECD_00547	hokE		ECBD_3076 ECD_00547	C6EKB6_ECOBD		Predicted		Hok/gef cell toxic protein (Toxic polypeptide, small)	GO:0016020	"Complete proteome; Signal"	50
+C6ECX6	ecnB ECBD_3882 ECD_04019	ecnB		ECBD_3882 ECD_04019	C6ECX6_ECOBD		Predicted		Entericidin B membrane lipoprotein (Entericidin EcnAB)	"GO:0016020; GO:0009636"	"Complete proteome; Lipoprotein; Signal"	48
+C6EDZ8	yjbE ECBD_4011 ECD_03898	yjbE		ECBD_4011 ECD_03898	C6EDZ8_ECOBD		Predicted		Putative uncharacterized protein yjbE (Uncharacterized protein YjbE)		"Complete proteome; Signal"	80
+C6ED32	yjdP ECBD_3939 ECD_03963	yjdP		ECBD_3939 ECD_03963	C6ED32_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yjdP)		"Complete proteome; Signal"	109
+C6EDA8	ECBD_0042 ECD_03545			ECBD_0042 ECD_03545	C6EDA8_ECOBD		Predicted		Putative transport protein (Putative uncharacterized protein)		"Complete proteome; Signal"	97
+C6EEW6	ydbJ ECBD_2245 ECD_01350	ydbJ		ECBD_2245 ECD_01350	C6EEW6_ECOBD		Predicted		Putative cytoplasmic protein (Putative uncharacterized protein ydbJ)		"Complete proteome; Signal"	88
+C6EAI4	yohO ECBD_1531 ECD_02057	yohO		ECBD_1531 ECD_02057	C6EAI4_ECOBD	"Cell inner membrane; Single-pass membrane protein. "	Inferred from homology	UPF0387 family	UPF0387 membrane protein yohO	GO:0005886	"Cell inner membrane; Cell membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane helix"	35
+C6EBS7	yjhX ECBD_3730 ECD_04174	yjhX		ECBD_3730 ECD_04174	C6EBS7_ECOBD		Inferred from homology	UPF0386 family	UPF0386 protein yjhX		Complete proteome	85
+C6EKN9	ypfN ECBD_1217 ECD_02364	ypfN		ECBD_1217 ECD_02364	C6EKN9_ECOBD	"Cell membrane; Single-pass membrane protein. "	Inferred from homology	UPF0370 family	UPF0370 protein ypfN	GO:0005886	"Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix"	66
+C6EB37	ECBD_0969 ECBD_3074 ECBD_3218 ECBD_3602			ECBD_0969 ECBD_3074 ECBD_3218 ECBD_3602	C6EB37_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EB46	vioA ECBD_1619 ECD_01942	vioA		ECBD_1619 ECD_01942	C6EB46_ECOBD		Inferred from homology	DegT/dnrJ/eryC1 family	DegT/DnrJ/EryC1/StrS aminotransferase (VioA, involved in dTDP-N-acetylviosamine synthesis)	"GO:0030170; GO:0008483"	"Aminotransferase; Complete proteome; Pyridoxal phosphate; Transferase"	370
+C6EDC4	ECBD_0059 ECD_03523			ECBD_0059 ECD_03523	C6EDC4_ECOBD		Predicted		TrbC (TrbC-like protein)		Complete proteome	387
+C6EJH1	ral ECBD_2891 ECD_10018	ral		ECBD_2891 ECD_10018	C6EJH1_ECOBD		Predicted		Restriction alleviation protein (Restriction inhibitor protein ral (Antirestriction protein))		Complete proteome	66
+C6EGU5	ymgF ECBD_2453 ECD_01144	ymgF		ECBD_2453 ECD_01144	C6EGU5_ECOBD		Predicted		Putative uncharacterized protein ymgF (Uncharacterized protein YmgF)		Complete proteome	72
+C6ECE1	ECBD_3826 ECD_04075			ECBD_3826 ECD_04075	C6ECE1_ECOBD		Predicted		Putative uncharacterized protein (Xylose isomerase domain protein TIM barrel)	GO:0016853	"Complete proteome; Isomerase"	280
+C6ECE2	ECBD_3827 ECD_04074			ECBD_3827 ECD_04074	C6ECE2_ECOBD		Inferred from homology	Enoyl-CoA hydratase/isomerase family	Enoyl-CoA hydratase/isomerase (Putative uncharacterized protein)	GO:0016853	"Complete proteome; Isomerase"	258
+C6ECE4	ECBD_3829 ECD_04072			ECBD_3829 ECD_04072	C6ECE4_ECOBD		Predicted		Fumarate reductase/succinate dehydrogenase flavoprotein domain protein (Putative oxidoreductase)	"GO:0009055; GO:0016491"	Complete proteome	690
+C6EF70	ECBD_4197 ECD_03719			ECBD_4197 ECD_03719	C6EF70_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	496
+C6EAK4	ECBD_1551 ECD_02034			ECBD_1551 ECD_02034	C6EAK4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	143
+C6EB51	wbbC ECBD_1624 ECD_01937	wbbC		ECBD_1624 ECD_01937	C6EB51_ECOBD		Predicted		Glycosyl transferase group 1 (Putative glycosyltransferase WbbC)	"GO:0009058; GO:0016740"	"Complete proteome; Transferase"	370
+C6EIS7	ECBD_2767 ECD_00830			ECBD_2767 ECD_00830	C6EIS7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	307
+C6EEQ6	ECBD_2182 ECD_01413			ECBD_2182 ECD_01413	C6EEQ6_ECOBD		Predicted		Putative Vgr protein (Putative uncharacterized protein)		Complete proteome	118
+C6EJI1	ea8.5 ECBD_2902 ECD_10007	ea8.5		ECBD_2902 ECD_10007	C6EJI1_ECOBD		Predicted		Ea8.5 (Putative uncharacterized protein)		Complete proteome	93
+C6EDT9	ECBD_2092 ECD_01506			ECBD_2092 ECD_01506	C6EDT9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	234
+C6EAK5	ECBD_1552 ECD_02033			ECBD_1552 ECD_02033	C6EAK5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	81
+C6EIS8	ECBD_2768 ECD_00828			ECBD_2768 ECD_00828	C6EIS8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	111
+C6EBI6	ECBD_3635 ECD_04261			ECBD_3635 ECD_04261	C6EBI6_ECOBD		Predicted		Helix-turn-helix domain protein (Putative uncharacterized protein)	GO:0043565	Complete proteome	87
+C6EL68	ypeB ECBD_1272 ECD_02310	ypeB		ECBD_1272 ECD_02310	C6EL68_ECOBD		Predicted		Putative cytoplasmic protein (Putative uncharacterized protein ypeB)		Complete proteome	72
+C6EFL8	ECBD_2251 ECD_01344			ECBD_2251 ECD_01344	C6EFL8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	97
+C6EB49	wbbB ECBD_1622 ECD_01939	wbbB		ECBD_1622 ECD_01939	C6EB49_ECOBD		Predicted		Putative glycosyltransferase WbbB (Putative uncharacterized protein)	GO:0016740	"Complete proteome; Transferase"	273
+C6EDU0	ECBD_2093 ECD_01505			ECBD_2093 ECD_01505	C6EDU0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	97
+C6EJW9	ECBD_1063 ECD_02512			ECBD_1063 ECD_02512	C6EJW9_ECOBD		Predicted		Putative uncharacterized protein (RepB plasmid partition)	GO:0003677	Complete proteome	298
+C6ECE0	ECBD_3825 ECD_04076			ECBD_3825 ECD_04076	C6ECE0_ECOBD		Predicted		Putative oxoacyl reductase (Short-chain dehydrogenase/reductase SDR)	"GO:0005488; GO:0055114; GO:0016491"	Complete proteome	263
+C6EDS3	ECBD_2073 ECD_01541			ECBD_2073 ECD_01541	C6EDS3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	121
+C6EA27	yeiW ECBD_1487 ECD_02100	yeiW		ECBD_1487 ECD_02100	C6EA27_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yeiW)		Complete proteome	84
+C6EGP9	ldrB ECBD_2404 ECD_01192	ldrB		ECBD_2404 ECD_01192	C6EGP9_ECOBD		Predicted		Putative uncharacterized protein (Toxic polypeptide, small)		Complete proteome	35
+C6EJX0	ECBD_1064 ECD_02511			ECBD_1064 ECD_02511	C6EJX0_ECOBD		Predicted		ParB domain protein nuclease (ParB family protein)	GO:0003677	Complete proteome	298
+C6EIS6	ECBD_2766 ECD_00831			ECBD_2766 ECD_00831	C6EIS6_ECOBD		Predicted		RNA-directed DNA polymerase (EC 2.7.7.49) (Retron EC86 RNA-directed DNA polymerase-like protein)	"GO:0003723; GO:0006278; GO:0003964"	"Complete proteome; Nucleotidyltransferase; RNA-directed DNA polymerase; Transferase"	320
+C6EB50	wzy ECBD_1623 ECD_01938	wzy		ECBD_1623 ECD_01938	C6EB50_ECOBD		Predicted		O antigen polymerase (Wzy) (Putative uncharacterized protein)		Complete proteome	391
+C6EJI3	xis ECBD_2904 ECD_10005	xis		ECBD_2904 ECD_10005	C6EJI3_ECOBD		Predicted		Excisionase (Excisionase domain protein)	"GO:0003677; GO:0006310; GO:0000166"	Complete proteome	72
+C6EBL7	hpaE ECBD_3667 ECD_04229	hpaE		ECBD_3667 ECD_04229	C6EBL7_ECOBD		Inferred from homology	Aldehyde dehydrogenase family	5-carboxy-2-hydroxymuconate semialdehyde dehydrogenase (5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase)	"GO:0055114; GO:0016491"	"Complete proteome; Oxidoreductase"	488
+C6EBM3	hpaA ECBD_3673 ECD_04223	hpaA		ECBD_3673 ECD_04223	C6EBM3_ECOBD		Predicted		HpaA (Transcriptional regulator, AraC family)	"GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	296
+C6EKB0	ybdZ ECBD_3070 ECD_00552	ybdZ		ECBD_3070 ECD_00552	C6EKB0_ECOBD		Predicted		MbtH domain protein (Putative uncharacterized protein ybdZ)		Complete proteome	72
+C6EE93	ECBD_0148 ECD_03438			ECBD_0148 ECD_03438	C6EE93_ECOBD		Predicted		Putative uncharacterized protein	GO:0003824	Complete proteome	659
+C6EEP3	fdnG ECBD_2165 ECD_01432	fdnG		ECBD_2165 ECD_01432	C6EEP3_ECOBD		Predicted		Formate dehydrogenase, alpha subunit (EC 1.7.99.4) (Formate dehydrogenase-N, alpha subunit, nitrate-inducible) (EC 1.2.1.2)	"GO:0045333; GO:0005737; GO:0009055; GO:0008863; GO:0051536; GO:0030151; GO:0008940; GO:0055114"	"Complete proteome; Iron; Iron-sulfur; Metal-binding; Molybdenum; Oxidoreductase; Selenium; Selenocysteine; Signal"	1015
+C6EAK3	ECBD_1550 ECD_02035			ECBD_1550 ECD_02035	C6EAK3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	221
+C6EBM4	hpaB ECBD_3674 ECD_04222	hpaB		ECBD_3674 ECD_04222	C6EBM4_ECOBD		Predicted		4-hydroxyphenylacetate 3-monooxygenase (4-hydroxyphenylacetate 3-monooxygenase, oxygenase subunit)	"GO:0050660; GO:0003995; GO:0055114; GO:0016712; GO:0010124"	"Complete proteome; Monooxygenase; Oxidoreductase"	520
+C6EJ12	J ECBD_2855 ECD_10054	J		ECBD_2855 ECD_10054	C6EJ12_ECOBD		Predicted		Putative uncharacterized protein (Tail:host specificity protein)		Complete proteome	1132
+C6EL40	ECBD_3232 ECD_00377			ECBD_3232 ECD_00377	C6EL40_ECOBD		Predicted		GCN5-related N-acetyltransferase (Putative acetyltransferase)	GO:0008080	"Complete proteome; Transferase"	180
+C6EHM0	ymcD ECBD_2607 ECD_00990	ymcD		ECBD_2607 ECD_00990	C6EHM0_ECOBD		Predicted		Putative inner membrane protein (Putative uncharacterized protein ymcD)		"Complete proteome; Signal"	101
+C6EC03	ECBD_1814 ECD_01797			ECBD_1814 ECD_01797	C6EC03_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	79
+C6EEZ8	ECBD_4124 ECD_03786			ECBD_4124 ECD_03786	C6EEZ8_ECOBD		Predicted		Glycoporin (Putative glycoporin)		"Complete proteome; Signal"	464
+C6EEB8	ECBD_0174 ECD_03412			ECBD_0174 ECD_03412	C6EEB8_ECOBD		Predicted		Putative lipoprotein (Putative uncharacterized protein)		"Complete proteome; Lipoprotein; Signal"	99
+C6EG00	ECBD_4227 ECD_03690			ECBD_4227 ECD_03690	C6EG00_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	300
+C6EJK3	ybgT ECBD_2926 ECD_00694	ybgT		ECBD_2926 ECD_00694	C6EJK3_ECOBD		Predicted		Cyd operon protein YbgT (Putative uncharacterized protein ybgT)		"Complete proteome; Signal"	37
+C6EDQ1	asr ECBD_2049 ECD_01566	asr		ECBD_2049 ECD_01566	C6EDQ1_ECOBD		Predicted		Acid shock protein (Acid shock repeat protein)	"GO:0042597; GO:0010447"	"Complete proteome; Signal"	102
+C6EF68	ECBD_4195 ECD_03721			ECBD_4195 ECD_03721	C6EF68_ECOBD		Predicted		Putative uncharacterized protein	GO:0030288	"Complete proteome; Signal"	324
+C6EG06	yifL ECBD_4233 ECD_03684	yifL		ECBD_4233 ECD_03684	C6EG06_ECOBD		Predicted		Predicted lipoprotein (Putative uncharacterized protein)		"Complete proteome; Lipoprotein; Signal"	67
+C6EDI8	ECBD_0124 ECD_03459			ECBD_0124 ECD_03459	C6EDI8_ECOBD		Predicted		Putative inner membrane lipoprotein (Putative uncharacterized protein)		"Complete proteome; Lipoprotein; Signal"	227
+C6EA95	yaeP ECBD_3429 ECD_00188	yaeP		ECBD_3429 ECD_00188	C6EA95_ECOBD		Inferred from homology	UPF0253 family	UPF0253 protein yaeP		Complete proteome	66
+C6EG99	yidD ECBD_4328 ECD_03588	yidD		ECBD_4328 ECD_03588	C6EG99_ECOBD		Inferred from homology	UPF0161 family	UPF0161 protein yidD		Complete proteome	85
+C6EEE2	ldrE ldrF ECBD_0198 ECBD_0199 ECD_03388 ECD_03389	ldrE	ldrF	ECBD_0198 ECBD_0199 ECD_03388 ECD_03389	C6EEE2_ECOBD		Predicted		Putative uncharacterized protein (Toxic polypeptide, small)		Complete proteome	35
+C6EDT1	ECBD_2083 ECD_01530			ECBD_2083 ECD_01530	C6EDT1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6EE27	thiS ECBD_4041 ECD_03868	thiS		ECBD_4041 ECD_03868	C6EE27_ECOBD		Predicted		Sulfur carrier protein ThiS (Thiamine biosynthesis protein ThiS)	GO:0006790	Complete proteome	66
+C6EDT8	ECBD_2091 ECD_01507			ECBD_2091 ECD_01507	C6EDT8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	93
+C6EJH2	ea10 ECBD_2892 ECD_10017	ea10		ECBD_2892 ECD_10017	C6EJH2_ECOBD		Predicted		Putative single-stranded DNA binding protein (Putative uncharacterized protein)		Complete proteome	122
+C6EFZ5	ECBD_4222 ECD_03694			ECBD_4222 ECD_03694	C6EFZ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	282
+C6EDC9	ECBD_0064 ECD_03518			ECBD_0064 ECD_03518	C6EDC9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	76
+C6EEC3	hokA ECBD_0179 ECD_03407	hokA		ECBD_0179 ECD_03407	C6EEC3_ECOBD		Predicted		Hok/gef cell toxic protein (Toxic polypeptide, small)	GO:0016020	Complete proteome	50
+C6EJF2	W ECBD_2872 ECD_10037	W		ECBD_2872 ECD_10037	C6EJF2_ECOBD		Predicted		Head-tail joining protein (Head-to-tail joining protein W gpW family protein)	GO:0019067	Complete proteome	68
+C6EBK2	yjjZ ECBD_3651 ECD_04245	yjjZ		ECBD_3651 ECD_04245	C6EBK2_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yjjZ)		Complete proteome	78
+C6EL71	ECBD_1275 ECD_02307			ECBD_1275 ECD_02307	C6EL71_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	113
+C6EJI0	ea22 ECBD_2901 ECD_10008	ea22		ECBD_2901 ECD_10008	C6EJI0_ECOBD		Predicted		Ea22 (Putative uncharacterized protein)		Complete proteome	182
+C6EFM5	ECBD_2258 ECD_01336			ECBD_2258 ECD_01336	C6EFM5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	90
+C6EDI7	ECBD_0123 ECD_03460			ECBD_0123 ECD_03460	C6EDI7_ECOBD		Predicted		Putative adhesin (YadA domain protein)	"GO:0019867; GO:0009405"	Complete proteome	1616
+C6EDS8	ECBD_2079 ECD_01535			ECBD_2079 ECD_01535	C6EDS8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	119
+C6EJG8	cro ECBD_2888 ECD_10022	cro		ECBD_2888 ECD_10022	C6EJG8_ECOBD		Predicted		Cro protein (Regulatory protein cro (Antirepressor))	GO:0003677	Complete proteome	61
+C6EJG2	ECBD_2882 ECD_10028			ECBD_2882 ECD_10028	C6EJG2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EJI2	ECBD_2903 ECD_10006			ECBD_2903 ECD_10006	C6EJI2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6EDC1	ECBD_0056 ECD_03526			ECBD_0056 ECD_03526	C6EDC1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EBL8	hpaD ECBD_3668 ECD_04228	hpaD		ECBD_3668 ECD_04228	C6EBL8_ECOBD		Predicted		3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15) (Homoprotocatechuate dyoxygenase)	"GO:0008687; GO:0006725; GO:0008198; GO:0055114"	"Complete proteome; Dioxygenase; Oxidoreductase"	283
+C6EIR9	ECBD_2759 ECD_00840			ECBD_2759 ECD_00840	C6EIR9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	268
+C6EIT6	ECBD_2776 ECD_00814			ECBD_2776 ECD_00814	C6EIT6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	110
+C6EAJ4	yehK ECBD_1541 ECD_02047	yehK		ECBD_1541 ECD_02047	C6EAJ4_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yehK)		Complete proteome	105
+C6EJH5	gam ECBD_2895 ECD_10014	gam		ECBD_2895 ECD_10014	C6EJH5_ECOBD		Predicted		Host-nuclease inhibitor Gam (Host-nuclease inhibitor protein Gam)		Complete proteome	138
+C6EEE4	ldrD ECBD_0200 ECD_03387	ldrD		ECBD_0200 ECD_03387	C6EEE4_ECOBD		Predicted		Putative uncharacterized protein (Toxic polypeptide, small)		Complete proteome	35
+C6EFL9	ECBD_2252 ECD_01343			ECBD_2252 ECD_01343	C6EFL9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6EGH5	yhdL ECBD_0460 ECD_03142	yhdL		ECBD_0460 ECD_03142	C6EGH5_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yhdL)		Complete proteome	72
+C6EJF0	C ECBD_2870 ECD_10039	C		ECBD_2870 ECD_10039	C6EJF0_ECOBD		Predicted		Capsid component (Peptidase S49)	"GO:0008233; GO:0006508"	Complete proteome	439
+C6EJ22	Z ECBD_2865 ECD_10044	Z		ECBD_2865 ECD_10044	C6EJ22_ECOBD		Predicted		Prophage minor tail Z family protein (Tail component)		Complete proteome	192
+C6EBL9	hpaF ECBD_3669 ECD_04227	hpaF		ECBD_3669 ECD_04227	C6EBL9_ECOBD		Predicted		5-carboxymethyl-2-hydroxymuconate Delta-isomerase (EC 5.3.3.10) (5-carboxymethyl-2-hydroxymuconate delta-isomerase)	GO:0008704	"Complete proteome; Isomerase"	126
+C6EJX1	ECBD_1065 ECD_02510			ECBD_1065 ECD_02510	C6EJX1_ECOBD		Predicted		Recombinase	"GO:0003677; GO:0006310; GO:0000150"	Complete proteome	518
+C6EJH9	ECBD_2899 ECD_10010			ECBD_2899 ECD_10010	C6EJH9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	63
+C6EJ24	Fi ECBD_2867 ECD_10042	Fi		ECBD_2867 ECD_10042	C6EJ24_ECOBD		Predicted		DNA packaging protein (Putative DNA-packaging protein)		Complete proteome	132
+C6EJP1	ECBD_2967 ECD_00650			ECBD_2967 ECD_00650	C6EJP1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	85
+C6EB48	wbbA ECBD_1621 ECD_01940	wbbA		ECBD_1621 ECD_01940	C6EB48_ECOBD		Predicted		Putative glycosyltransferase WbbA (Putative uncharacterized protein)	GO:0016740	"Complete proteome; Transferase"	248
+C6EDD0	ECBD_0065 ECD_03517			ECBD_0065 ECD_03517	C6EDD0_ECOBD		Predicted		Putative uncharacterized protein (ShiA-like protein)	GO:0005488	Complete proteome	347
+C6EIT0	ECBD_2770 ECD_00826			ECBD_2770 ECD_00826	C6EIT0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6EJH8	ECBD_2898 ECD_10011			ECBD_2898 ECD_10011	C6EJH8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	60
+C6EKD3	ECBD_3097 ECD_00510			ECBD_3097 ECD_00510	C6EKD3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EBF7	yecJ ECBD_1738 ECD_01871	yecJ		ECBD_1738 ECD_01871	C6EBF7_ECOBD		Predicted		Putative uncharacterized protein (Putative uncharacterized protein yecJ)		Complete proteome	83
+C6EIT2	ECBD_2772 ECD_00818			ECBD_2772 ECD_00818	C6EIT2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	73
+C6EKS7	ECBD_3119 ECD_00488			ECBD_3119 ECD_00488	C6EKS7_ECOBD		Predicted		Putative uncharacterized protein (Transcriptional regulator, TraR/DksA family)	GO:0008270	Complete proteome	72
+C6EDB4	ECBD_0048 ECD_03540			ECBD_0048 ECD_03540	C6EDB4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	281
+C6EKM8	ECBD_1205			ECBD_1205	C6EKM8_ECOBD		Predicted		Hydrogenase 4 subunit D		"Complete proteome; Signal"	36
+C6EB45	ECBD_1618			ECBD_1618	C6EB45_ECOBD		Predicted		Polysaccharide biosynthesis protein	"GO:0016020; GO:0000271"	Complete proteome	474
+C6ECB0	ECBD_3795			ECBD_3795	C6ECB0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	58
+C6EGC8	ECBD_0413			ECBD_0413	C6EGC8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	38
+C6EH12	ECBD_0527			ECBD_0527	C6EH12_ECOBD		Predicted		IS600 orf		Complete proteome	101
+C6EJ10	ECBD_2851			ECBD_2851	C6EJ10_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	53
+C6EJL7	ECBD_2940			ECBD_2940	C6EJL7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	35
+C6ELT4	ECBD_3361			ECBD_3361	C6ELT4_ECOBD		Inferred from homology	Ribosomal protein L36P family	50S ribosomal protein L36	"GO:0005840; GO:0003735; GO:0006412"	"Complete proteome; Ribonucleoprotein; Ribosomal protein"	46
+C6EAN4	ECBD_1582			ECBD_1582	C6EAN4_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	48
+C6ED45	ECBD_3952			ECBD_3952	C6ED45_ECOBD		Predicted		Molybdopterin oxidoreductase Fe4S4 region	"GO:0009055; GO:0051536; GO:0046872; GO:0055114; GO:0016491"	"Complete proteome; Iron; Iron-sulfur; Metal-binding; Oxidoreductase"	139
+C6EF79	ECBD_4206			ECBD_4206	C6EF79_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	129
+C6EBQ9	ECBD_3711			ECBD_3711	C6EBQ9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EDT5	ECBD_2087			ECBD_2087	C6EDT5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EFU9	yciZ ECBD_2334	yciZ		ECBD_2334	C6EFU9_ECOBD		Inferred from homology	UPF0509 family	UPF0509 protein yciZ		Complete proteome	57
+C6EFW0	ECBD_2345			ECBD_2345	C6EFW0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6EHQ8	ECBD_0654			ECBD_0654	C6EHQ8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	45
+C6EK13	ECBD_1107			ECBD_1107	C6EK13_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EL64	ECBD_1268			ECBD_1268	C6EL64_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EDC6	ECBD_0061			ECBD_0061	C6EDC6_ECOBD		Predicted		Glucan 1,3-alpha-glucosidase (EC 3.2.1.84)	"GO:0030246; GO:0005975; GO:0033919"	"Complete proteome; Glycosidase; Hydrolase"	793
+C6EIM0	ECBD_0849			ECBD_0849	C6EIM0_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	41
+C6EAK1	ECBD_1548			ECBD_1548	C6EAK1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	63
+C6EDC2	ECBD_0057			ECBD_0057	C6EDC2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	124
+C6EDY3	ECBD_3996			ECBD_3996	C6EDY3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EE88	ECBD_0143			ECBD_0143	C6EE88_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	70
+C6EF12	ECBD_4138			ECBD_4138	C6EF12_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	35
+C6EFH2	ECBD_0343			ECBD_0343	C6EFH2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	42
+C6EFU7	ECBD_2332			ECBD_2332	C6EFU7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	34
+C6EFV9	ECBD_2344			ECBD_2344	C6EFV9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	41
+C6EGC6	ECBD_0411			ECBD_0411	C6EGC6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	52
+C6EGK6	ECBD_0491			ECBD_0491	C6EGK6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	53
+C6EGM5	ECBD_2380			ECBD_2380	C6EGM5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	98
+C6EGR4	ECBD_2419			ECBD_2419	C6EGR4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	59
+C6EHP0	ECBD_0636			ECBD_0636	C6EHP0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EHV3	ECBD_0699			ECBD_0699	C6EHV3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EKS6	ECBD_3118			ECBD_3118	C6EKS6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	71
+C6EL30	ECBD_3222			ECBD_3222	C6EL30_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6ELA6	ECBD_1310			ECBD_1310	C6ELA6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EDV2	ECBD_2105			ECBD_2105	C6EDV2_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	31
+C6EFM0	ECBD_2253			ECBD_2253	C6EFM0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	245
+C6E9R1	ECBD_1370			ECBD_1370	C6E9R1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	84
+C6EB21	ECBD_3584			ECBD_3584	C6EB21_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	45
+C6EDY4	ECBD_3997			ECBD_3997	C6EDY4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	50
+C6EF09	ECBD_4135			ECBD_4135	C6EF09_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	60
+C6EHQ6	ECBD_0652			ECBD_0652	C6EHQ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	100
+C6EHZ4	ECBD_0740			ECBD_0740	C6EHZ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	61
+C6EJ38	ECBD_0894			ECBD_0894	C6EJ38_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EKE1	ECBD_3106			ECBD_3106	C6EKE1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	45
+C6ELL1	ECBD_3288			ECBD_3288	C6ELL1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6EL39	ECBD_3231			ECBD_3231	C6EL39_ECOBD		Predicted		Putative uncharacterized protein	GO:0045449	Complete proteome	103
+C6EDA9	ECBD_0043			ECBD_0043	C6EDA9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6EG29	ECBD_4256			ECBD_4256	C6EG29_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	72
+C6EJF5	ECBD_2875			ECBD_2875	C6EJF5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	64
+C6EK25	ECBD_1119			ECBD_1119	C6EK25_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EFQ5	ECBD_2290			ECBD_2290	C6EFQ5_ECOBD		Predicted		Putative uncharacterized protein	"GO:0005488; GO:0003824"	Complete proteome	60
+C6EAK2	ECBD_1549			ECBD_1549	C6EAK2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EBQ6	ECBD_3708			ECBD_3708	C6EBQ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6EEG7	ECBD_0223			ECBD_0223	C6EEG7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EFF5	ECBD_0325			ECBD_0325	C6EFF5_ECOBD		Predicted		Major facilitator superfamily MFS_1	"GO:0016021; GO:0046677; GO:0015520"	Complete proteome	401
+C6EGZ5	ECBD_0510			ECBD_0510	C6EGZ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EKE6	ECBD_3111			ECBD_3111	C6EKE6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6EA61	ECBD_3395			ECBD_3395	C6EA61_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6ED46	ECBD_3953			ECBD_3953	C6ED46_ECOBD		Predicted		Formate dehydrogenase, alpha subunit	"GO:0009055; GO:0008863; GO:0009326; GO:0015942; GO:0030151; GO:0055114"	"Complete proteome; Metal-binding; Molybdenum; Oxidoreductase"	559
+C6EDB5	ECBD_0049			ECBD_0049	C6EDB5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	65
+C6EDE6	ECBD_0081			ECBD_0081	C6EDE6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EDJ6	ECBD_0132			ECBD_0132	C6EDJ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	145
+C6EDM2	ECBD_2020			ECBD_2020	C6EDM2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EI24	ECBD_2637			ECBD_2637	C6EI24_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	72
+C6ELJ5	ECBD_3272			ECBD_3272	C6ELJ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6EF69	ECBD_4196			ECBD_4196	C6EF69_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	168
+C6EBJ5	ECBD_3644			ECBD_3644	C6EBJ5_ECOBD		Inferred from homology		Putative uncharacterized protein	GO:0005886	"Complete proteome; Signal"	53
+C6EC77	ECBD_3761			ECBD_3761	C6EC77_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	41
+C6ECN7	ECBD_1924			ECBD_1924	C6ECN7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	35
+C6ED96	ECBD_0030			ECBD_0030	C6ED96_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	82
+C6EDB3	ECBD_0047			ECBD_0047	C6EDB3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EF42	ECBD_4168			ECBD_4168	C6EF42_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EFP0	ECBD_2274			ECBD_2274	C6EFP0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	57
+C6EGK9	ECBD_0495			ECBD_0495	C6EGK9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6EIH5	ECBD_0804			ECBD_0804	C6EIH5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6EKS9	ECBD_3121			ECBD_3121	C6EKS9_ECOBD		Predicted		Excisionase		Complete proteome	123
+C6EAN2	ECBD_1580			ECBD_1580	C6EAN2_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	42
+C6EDC8	ECBD_0063			ECBD_0063	C6EDC8_ECOBD		Predicted		Transcriptional regulator, LacI family	"GO:0003677; GO:0005622; GO:0006355; GO:0003700"	Complete proteome	356
+C6EFF6	ECBD_0326			ECBD_0326	C6EFF6_ECOBD		Predicted		Transcriptional regulator, TetR family	"GO:0003677; GO:0006355; GO:0046677; GO:0003700; GO:0016566; GO:0006350"	"Complete proteome; DNA-binding; Transcription; Transcription regulation"	207
+C6E9R3	ECBD_1372			ECBD_1372	C6E9R3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EA71	ECBD_3405			ECBD_3405	C6EA71_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	117
+C6EC62	ECBD_3742			ECBD_3742	C6EC62_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	85
+C6ECP2	ECBD_1930			ECBD_1930	C6ECP2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6EDN3	ECBD_2031			ECBD_2031	C6EDN3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6EEQ9	ECBD_2185			ECBD_2185	C6EEQ9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EF34	ECBD_4160			ECBD_4160	C6EF34_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	36
+C6EF38	ECBD_4164			ECBD_4164	C6EF38_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EJ76	ECBD_0933			ECBD_0933	C6EJ76_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	43
+C6ELR6	ECBD_3343			ECBD_3343	C6ELR6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	61
+C6EC74	ECBD_3757			ECBD_3757	C6EC74_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	137
+C6EDZ4	ECBD_4007			ECBD_4007	C6EDZ4_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	92
+C6EJB1	ECBD_0968			ECBD_0968	C6EJB1_ECOBD		Predicted		Hok/gef cell toxic protein	GO:0016020	"Complete proteome; Signal"	50
+C6EAY5	ECBD_3547			ECBD_3547	C6EAY5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	43
+C6EC35	ECBD_1849			ECBD_1849	C6EC35_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6ECK9	ECBD_1896			ECBD_1896	C6ECK9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6ED70	ECBD_3978			ECBD_3978	C6ED70_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	67
+C6EEK9	ECBD_2129			ECBD_2129	C6EEK9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	32
+C6EFD6	ECBD_0304			ECBD_0304	C6EFD6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EFW1	ECBD_2346			ECBD_2346	C6EFW1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	42
+C6EGM6	ECBD_2381			ECBD_2381	C6EGM6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EGQ0	ECBD_2405			ECBD_2405	C6EGQ0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	44
+C6EKK5	ECBD_1182			ECBD_1182	C6EKK5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EKK7	ECBD_1184			ECBD_1184	C6EKK7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	50
+C6EAN3	ECBD_1581			ECBD_1581	C6EAN3_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	48
+C6EG07	ECBD_4234			ECBD_4234	C6EG07_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	77
+C6EB77	ECBD_1651			ECBD_1651	C6EB77_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	133
+C6EDL2	ECBD_2010			ECBD_2010	C6EDL2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EDS2	ECBD_2072			ECBD_2072	C6EDS2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EEH2	ECBD_0228			ECBD_0228	C6EEH2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6EF73	ECBD_4200			ECBD_4200	C6EF73_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6EHX5	ECBD_0721			ECBD_0721	C6EHX5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EIW6	ECBD_2807			ECBD_2807	C6EIW6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	42
+C6EJ95	ECBD_0952			ECBD_0952	C6EJ95_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6EK85	ECBD_3043			ECBD_3043	C6EK85_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	62
+C6EKS8	ECBD_3120			ECBD_3120	C6EKS8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	92
+C6EE72	ECBD_4087			ECBD_4087	C6EE72_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	208
+C6EB47	ECBD_1620			ECBD_1620	C6EB47_ECOBD		Predicted		Acetyltransferase	GO:0016740	"Complete proteome; Transferase"	192
+C6EBQ4	ECBD_3706			ECBD_3706	C6EBQ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	44
+C6EBX5	ECBD_1786			ECBD_1786	C6EBX5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6ECQ4	ECBD_1943			ECBD_1943	C6ECQ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	55
+C6ED97	ECBD_0031			ECBD_0031	C6ED97_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	160
+C6EEZ3	ECBD_4119			ECBD_4119	C6EEZ3_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EFH8	ECBD_0349			ECBD_0349	C6EFH8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	39
+C6EGB4	ECBD_0399			ECBD_0399	C6EGB4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6EIF2	ECBD_0781			ECBD_0781	C6EIF2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	46
+C6ELS5	ECBD_3352			ECBD_3352	C6ELS5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	56
+C6ELT2	ECBD_3359			ECBD_3359	C6ELT2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	33
+C6EHM8	ECBD_2615			ECBD_2615	C6EHM8_ECOBD		Predicted		Membrane bound YbgT family protein		"Complete proteome; Signal"	30
+C6EBA2	ECBD_1681			ECBD_1681	C6EBA2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	47
+C6EBY2	ECBD_1793			ECBD_1793	C6EBY2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	36
+C6EEC6	ECBD_0182			ECBD_0182	C6EEC6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	50
+C6EFC9	ECBD_0296			ECBD_0296	C6EFC9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	51
+C6EHP9	ECBD_0645			ECBD_0645	C6EHP9_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	43
+C6EHY1	ECBD_0727			ECBD_0727	C6EHY1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	37
+C6E9V7	ECBD_1416			ECBD_1416	C6E9V7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	41
+C6EBE7	ECBD_1728			ECBD_1728	C6EBE7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	58
+C6EBP0	ECBD_3692			ECBD_3692	C6EBP0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	57
+C6EBQ5	ECBD_3707			ECBD_3707	C6EBQ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	47
+C6EC14	ECBD_1825			ECBD_1825	C6EC14_ECOBD		Predicted		Putative cytoplasmic protein		Complete proteome	69
+C6EEI4	ECBD_0240			ECBD_0240	C6EEI4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	57
+C6EGJ2	ECBD_0477			ECBD_0477	C6EGJ2_ECOBD		Predicted		Putative IS1 encoded protein		Complete proteome	58
+C6EJQ5	ECBD_2982			ECBD_2982	C6EJQ5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	40
+C6EES6	ECBD_2202			ECBD_2202	C6EES6_ECOBD		Predicted		YcfA family protein		Complete proteome	58
+C6EKA2	ECBD_3062			ECBD_3062	C6EKA2_ECOBD		Predicted		Putative uncharacterized protein		"Complete proteome; Signal"	68
+C6ECX7	ECBD_3883			ECBD_3883	C6ECX7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	32
+C6EDD7	ECBD_0072			ECBD_0072	C6EDD7_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	288
+C6EDY8	ECBD_4001			ECBD_4001	C6EDY8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	31
+C6EFZ8	ECBD_4225			ECBD_4225	C6EFZ8_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	37
+C6EHJ2	ECBD_2579			ECBD_2579	C6EHJ2_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	69
+C6E9Z1	ECBD_1451			ECBD_1451	C6E9Z1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	54
+C6EB90	ECBD_1668			ECBD_1668	C6EB90_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	49
+C6EBF6	ECBD_1737			ECBD_1737	C6EBF6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	48
+C6EBP5	ECBD_3697			ECBD_3697	C6EBP5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	85
+C6ED41	ECBD_3948			ECBD_3948	C6ED41_ECOBD		Predicted		Formate dehydrogenase H		Complete proteome	91
+C6EFZ6	ECBD_4223			ECBD_4223	C6EFZ6_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	163
+C6EGP1	ECBD_2396			ECBD_2396	C6EGP1_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	72
+C6EJ14	ECBD_2857			ECBD_2857	C6EJ14_ECOBD		Predicted		NLP/P60 protein		Complete proteome	247
+C6EJD5	ECBD_0992			ECBD_0992	C6EJD5_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	44
+C6EKR0	ECBD_1238			ECBD_1238	C6EKR0_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	66
+C6ELJ4	ECBD_3271			ECBD_3271	C6ELJ4_ECOBD		Predicted		Putative uncharacterized protein		Complete proteome	101

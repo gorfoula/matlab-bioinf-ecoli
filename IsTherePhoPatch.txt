@@ -1,0 +1,43 @@
+% function [positions sequences]=IsTherePhoPatch(Name,SEQ,windows)
+% 
+% len=length(SEQ);
+% 
+% [AAs_int temp]=AARepresentation('int',1,len,{SEQ});
+% [PhoMatrix PhoSum]=Hydrophobicity(AAs_int,'En');    
+% PhoMatrix(PhoMatrix<0)=0;
+% pos=[];
+% max_w=[];
+% for w=windows
+%     [allsums]=WindowPropertySum(PhoMatrix,w);
+%     cur_pos=find(allsums>(0.6*w));%allsums(w:end-w+1)
+%     cur_pos=cur_pos(and(cur_pos>=w,cur_pos<=len));
+%     if(isempty(cur_pos)==0)
+%         sel_pos=[];
+%         for j=1:1:length(cur_pos)
+%             sub_seq=SEQ(cur_pos(j)-w+1:cur_pos(j));
+%             if(CountPho(sub_seq)==w)
+%                 sel_pos=[sel_pos cur_pos(j)];
+%                 pos=sel_pos;
+%                 max_w=w;
+%             end
+%         end
+%     end
+% end
+% 
+% found=length(pos);
+% sequences=cell(found,2);
+% positions=zeros(found,3);
+% 
+% for j=1:1:found
+%     sub_seq=SEQ(pos(j)-max_w+1:pos(j));
+% %     disp([max_w pos(j)-max_w+1 pos(j)]);
+% %     disp(sub_seq);
+%     sequences{j,2}=sub_seq;
+%     sequences{j,1}=Name;
+%     positions(j,:)=[max_w pos(j)-max_w+1 pos(j)];
+% end
+% 
+% sequences=sequences(positions(:,1)>0,:);
+% positions=positions(positions(:,1)>0,:);
+% 
+% end

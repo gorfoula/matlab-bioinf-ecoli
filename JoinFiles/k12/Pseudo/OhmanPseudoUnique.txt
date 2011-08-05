@@ -1,0 +1,61 @@
+icdA	1210633	1210797	1	isocitrate	X	-	b1136	
+kdpE	715947	716093	-1	regulator of kdp operon	X	-	b0694	
+yibA	3621518	3621868	1	putative lyase	X	-	b3594	
+yobF	1905472	1905615	-1	unknown CDS	?	?	b1824	
+yqgB	3083942	3084088	-1	orf hypothetical protein	?	?	b2939	
+yqgC	3084209	3084424	1	orf hypothetical protein	?	?	b2940	
+arsR	3646551	3646904	1	transcriptional	?	?	b3501	
+ydfA	1646532	1646687	1	hypothetical protein	?	?	b1571	
+ybiX	837753	838466	-1	putative enzyme	N	?	b0804	
+frlC	3500362	3501192	1	orf hypothetical protein	N	?	b3372	b4474
+frlC	3500362	3501192	1	orf hypothetical protein	N	?	b3373	b4474
+yaiU	392239	393642	1	putative flagellin structural protein	N	?	b0374	
+ybfD	737315	738076	1	putative DNA ligase	N	?	b0706	
+yfcT	2450378	2451274	-1	putative outer membrane protein	N	?	b2337	
+ygiQ	3156949	3159168	-1	orf hypothetical protein	N	?	b3015	b4469
+ygiR	3156949	3159168	-1	orf hypothetical protein	N	?	b3016	b4469
+yhaM	3253363	3254673	-1	orf hypothetical protein	N	?	b3108	b4470
+yhaN	3253363	3254673	-1	orf hypothetical protein	N	?	b3109	b4470
+yhdP	3390480	3394280	-1	orf hypothetical protein	N	?	b3245	b4472
+yhdR	3390480	3394280	-1	orf hypothetical protein	N	?	b3246	b4472
+yhiK	3630875	3631246	-1	orf hypothetical protein	N	?	b3489	
+yidX	3873461	3874117	1	putative replicase EC 2.7.-	N	?	b3696	
+yigE	3998315	3999079	-1	orf hypothetical protein	N	?	b3814	b4482
+yigE	3998315	3999079	-1	orf hypothetical protein	N	?	b3815	b4482
+yigL	4008223	4009023	1	orf hypothetical protein	N	?	b3826	
+b1354	1417192	1417368	1	hypothetical protein	N	?	b1354	
+b2639	2770189	2770707	-1	putative pump protein	N	?	b2639	
+dgoR	3872494	3873183	-1	galactonate operon	N	?	b3694	b4479
+dgoR	3872494	3873183	-1	galactonate operon	N	?	b3695	b4479
+flgD	1131077	1131772	1	flagellar biosynthesis,	N	?	b1075	
+flgE	1131797	1133005	1	flagellar biosynthesis,	N	?	b1076	
+smf	3430458	3431582	-1	hypothetical protein	N	?	b3285	b4473
+smf	3430458	3431582	-1	hypothetical protein	N	?	b3286	b4473
+yabQ	59121	59279	1	Unknown function	N	?	b0057	
+yddJ	1542408	1542743	-1	Unknown function	N	?	b1470	
+yeeR	2072797	2074335	1	hypothetical protein	N	?	b2001	
+yeeS	2074332	2074778	1	hypothetical protein	N	?	b2002	
+yeeU	2075136	2075504	1	hypothetical protein	N	?	b2004	
+yfdP	2471542	2471988	1	hypothetical protein	N	?	b2359	
+yfjD	2746820	2748082	1	hypothetical protein	N	?	b2612	b4461
+yfjD	2746820	2748082	1	hypothetical protein	N	?	b2613	b4461
+ygcU	2895986	2897440	-1	Putative conserved	N	?	b2772	b4463
+ygcU	2895986	2897440	-1	Putative conserved	N	?	b2773	b4463
+yggP	3074201	3075478	-1	hypothetical protein	N	?	b2931	b4465
+yggP	3074201	3075478	-1	hypothetical protein	N	?	b2932	b4465
+yghQ	3129363	3130430	-1	hypothetical protein	N	?	b2983	
+yiiE	4077287	4077532	1	hypothetical protein	N	?	b3889	
+yneF	1608931	1609878	-1	hypothetical protein	N	?	b1522	
+ytjB	4622168	4622812	-1	hypothetical protein	N	?	b4387	
+yfdH	2466236	2467156	1	bactoprenol glucosyl transferase	X	?	b2351	
+ybgA	738224	738733	1	orf, hypothetical protein	X	?	b0707	
+b1998	2068268	2068528	1	orf hypothetical protein	X	?	b1998	
+b3776	3958035	3958310	-1	orf hypothetical protein	X	?	b3776	
+b4103	4320466	4320687	-1	orf hypothetical protein	X	?	b4103	
+glvB	3860010	3860495	-1	PTS system arbutin-like IIB	X	?	b3682	
+ygeP	2995711	2996010	-1	orf hypothetical protein	X	?	b2862	
+ypjB	2781660	2782451	-1	orf hypothetical protein	X	?	b2649	
+yjgM	4477057	4477560	-1	hypothetical protein	X	?	b4256	
+yjgY	4498455	4498904	-1	hypothetical protein	X	?	b4276	
+ygfQ	3025143	3026510	1	orf hypothetical protein	N	N	b2884	b4464
+ygfR	3025143	3026510	1	putative oxidoreductase	N	N	b2885	b4464

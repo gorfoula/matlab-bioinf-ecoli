@@ -1,0 +1,3 @@
+Files/NonUreaCellEnvelope_1047.txt
+Files/Protein Report for 1DG005_L3_SUP_Ecoli_M_S.txt
+Files/Protein Report for 1DG005_L3_SUP_Ecoli_SFD2.txt

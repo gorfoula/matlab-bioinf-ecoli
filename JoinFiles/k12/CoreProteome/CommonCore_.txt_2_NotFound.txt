@@ -1,0 +1,1 @@
+P76102	P76102	insQ	"orf2;orfB;tnpB;ydcM"	b1432	JW5228	EG13756	ECK1426	Null	g1787702	4778	EB3519	aa	ALT_INIT[-20]	382	Clockwise	1501741	1502889	32.37	INsertion Sequence	IS609 transposase B	InsQ(YdcM) belongs to the COG0675/pfam01385 (Transposase_2) family of transposases.	43363.75	=HYPERLINK("http://www.uniprot.org/uniprot/?query=P76102&sort=score")

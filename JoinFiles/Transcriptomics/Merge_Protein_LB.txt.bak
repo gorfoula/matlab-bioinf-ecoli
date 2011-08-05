@@ -1,0 +1,10 @@
+JoinFiles/k12/TableS3_K12_ProteomeV13_BasicProteome_3900.txt	1	2	5	1
+JoinFiles/Transcriptomics/Ishihama2008_fin.txt	1	1	7	8	9	15
+JoinFiles/Transcriptomics/Masuda2009_fin2.txt	1	1	6	7
+JoinFiles/Transcriptomics/Taniguchi2010_fin_mmol.txt	1	1	6	7
+JoinFiles/Transcriptomics/PengTable_fin.txt	1	1	14	15
+JoinFiles/Transcriptomics/Thein_MergeMethods.txt	1	1	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22
+JoinFiles/OtherStudies/Notepad Lists/ORList_Wide_8(over_500)_LB.txt	1	1
+JoinFiles/OtherStudies/Notepad Lists/ORList_Focused_16(below_500)_LB.txt	1	1
+JoinFiles/CompareTrypticPeptides/K12_outofrange.txt	0	1
+JoinFiles/OtherStudies/Notepad Lists/OurStudy_Feb2011_Common.txt	1	1

@@ -1,0 +1,2 @@
+Gems/Curated/TRAIN/AllCyto.txt
+Gems/Curated/TRAIN/AllSecr.txt

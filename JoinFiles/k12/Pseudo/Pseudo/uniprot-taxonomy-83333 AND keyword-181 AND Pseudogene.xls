@@ -1,0 +1,149 @@
+Accession	Entry name	Status	Protein names	Gene names	Organism	Length
+P42906	AGAA_ECOLI	reviewed	Putative N-acetylgalactosamine-6-phosphate deacetylase (EC 3.5.1.-)	agaA b3135 JW5527	Escherichia coli (strain K12)	167
+P76205	ARPB_ECOLI	reviewed	Putative ankyrin repeat protein B	arpB b4494 JW5278/JW1710 b1720/b1721	Escherichia coli (strain K12)	632
+P36943	EAEH_ECOLI	reviewed	Putative attaching and effacing protein homolog	eaeH b0297 JW0291	Escherichia coli (strain K12)	295
+P75901	EFEU_ECOLI	reviewed	Putative ferrous iron permease efeU (Putative Fe(2+) ion permease efeU)	efeU ycdN b4490 JW5141/JW1002 b1016/b1017	Escherichia coli (strain K12)	276
+P75681	FBPB_ECOLI	reviewed	Putative ferric transport system permease protein fbpB (Fragment)	fbpB afuB b0263 JW0255	Escherichia coli (strain K12)	115
+Q47153	FHIA_ECOLI	reviewed	Putative protein fhiA	fhiA b0229 JW5811	Escherichia coli (strain K12)	579
+P33898	G3P3_ECOLI	reviewed	Putative glyceraldehyde-3-phosphate dehydrogenase C (GAPDH-C) (EC 1.2.1.12)	gapC b4493 JW1413/JW5906 b1416/b1417	Escherichia coli (strain K12)	333
+P31450	GLVG_ECOLI	reviewed	Putative 6-phospho-alpha-glucosidase (EC 3.2.1.122)	glvG b4556 b3681	Escherichia coli (strain K12)	212
+P28697	HTGA_ECOLI	reviewed	Putative uncharacterized protein htgA (Heat shock protein htpY)	htgA htpY b0012 JW5001	Escherichia coli (strain K12)	196
+P0CF60	INSD8_ECOLI	reviewed	Putative transposase insD for insertion element IS2E	insD8 b1578 JW1570	Escherichia coli (strain K12)	218
+P75680	INSO1_ECOLI	reviewed	Putative transposase insO for insertion sequence element IS911A	insO1 b0257 JW0247	Escherichia coli (strain K12)	141
+Q47718	INSO2_ECOLI	reviewed	Putative transposase insO for insertion sequence element IS911B	insO2 b4285	Escherichia coli (strain K12)	198
+P39347	INTB_ECOLI	reviewed	Putative prophage P4 integrase (Int(P4))	intB b4271 JW4227	Escherichia coli (strain K12)	396
+P76323	INTG_ECOLI	reviewed	Putative lambdoid prophage defective integrase	intG b1936	Escherichia coli (strain K12)	92
+P76168	INTQ_ECOLI	reviewed	Putative lambdoid prophage Qin defective integrase (Fragment)	intQ b1579 JW1571	Escherichia coli (strain K12)	385
+P77184	LOMR_ECOLI	reviewed	Putative protein lomR	lomR b4570 JW5884/JW5904 b1369/b1371	Escherichia coli (strain K12)	164
+P0ADF0	LPFS_ECOLI	reviewed	Putative fruR/shl operon leader peptide	fruL b0079	Escherichia coli (strain K12)	28
+P0ADF3	LPRH_ECOLI	reviewed	Putative rho operon leader peptide	rhoL b3782 JW3755	Escherichia coli (strain K12)	33
+Q47154	MBHA_ECOLI	reviewed	Putative protein mbhA	mbhA b0230 JW5812	Escherichia coli (strain K12)	211
+P33369	MDTQ_ECOLI	reviewed	Putative multidrug resistance outer membrane protein mdtQ	mdtQ yohG yohH b2139 JW5838/JW5358 b2138	Escherichia coli (strain K12)	478
+P33345	MOLR_ECOLI	reviewed	Putative molybdate metabolism regulator	yehH molR b4499 b2115/b2116/b2117	Escherichia coli (strain K12)	1264
+P21420	NMPC_ECOLI	reviewed	Putative outer membrane porin protein nmpC	nmpC phmA b0553	Escherichia coli (strain K12)	365
+P31061	NOHA_ECOLI	reviewed	Putative prophage Qin DNA-packaging protein NU1 homolog	nohA b1548 JW1541	Escherichia coli (strain K12)	189
+Q46790	PBL_ECOLI	reviewed	Putative peptidoglycan-binding-like protein	pbl b2854	Escherichia coli (strain K12)	158
+P16683	PHNE_ECOLI	reviewed	Putative phosphonates transport system permease protein phnE	phnE b4104 JW4065 b4103	Escherichia coli (strain K12)	259
+P76611	PINH_ECOLI	reviewed	Putative DNA-invertase from prophage CP4-44 (Fragment)	pinH b2648 JW5423	Escherichia coli (strain K12)	79
+P42905	PTPC2_ECOLI	reviewed	Putative N-acetylgalactosamine permease IIC component 2 (EIIC-Aga') (PTS system N-acetylgalactosamine-specific EIIC component 2)	agaW b3134	Escherichia coli (strain K12)	133
+P31452	PTXC_ECOLI	reviewed	Putative permease IIC component glvC (PTS system EIIC component)	glvC b3683 JW3660	Escherichia coli (strain K12)	368
+P13960	REA1_ECOLI	reviewed	Putative defective replication initiation protein (RepFIC replication initiation protein) (Fragment)	repA1	Escherichia coli (strain K12)	91
+P75718	REND_ECOLI	reviewed	Putative defective protein ren from DLP12 prophage	renD b0542 JW0530	Escherichia coli (strain K12)	100
+P28369	RFH_ECOLI	reviewed	Putative peptide chain release factor homolog (RF-H)	prfH b0236 JW0226	Escherichia coli (strain K12)	166
+P24211	RHSE_ECOLI	reviewed	Putative protein rhsE	rhsE b1456 JW1451	Escherichia coli (strain K12)	682
+P0CG18	RNPH_ECOBW	reviewed	Ribonuclease PH (RNase PH) (EC 2.7.7.56) (tRNA nucleotidyltransferase)	rph BWG_3334	Escherichia coli (strain K12 / MC4100 / BW2952)	238
+P0CG19	RNPH_ECOLI	reviewed	Inactive ribonuclease PH (RNase PH) (EC 2.7.7.56) (tRNA nucleotidyltransferase)	rph b3643 JW3618	Escherichia coli (strain K12)	228
+P77551	RZPR_ECOLI	reviewed	Putative Rz endopeptidase from lambdoid prophage Rac (EC 3.4.-.-) (Fragment)	rzpR b1362 JW5212	Escherichia coli (strain K12)	147
+P33227	STFE_ECOLI	reviewed	Putative protein stfE (Side tail fiber protein homolog from lambdoid prophage e14) (Fragment)	stfE b1157 JW5172	Escherichia coli (strain K12)	166
+P77699	TFAD_ECOLI	reviewed	Putative tail fiber assembly protein homolog from lambdoid prophage DLP12	tfaD b0561	Escherichia coli (strain K12)	247
+P77326	TFAS_ECOLI	reviewed	Putative tail fiber assembly protein homolog from prophage CPS-53	tfaS b2353 JW5383	Escherichia coli (strain K12)	114
+A5A627	TISB_ECOLI	reviewed	Small toxic protein tisB (LexA-regulated protein tisB)	tisB ysdB b4618 JW3649	Escherichia coli (strain K12)	29
+P75971	Y1142_ECOLI	reviewed	Putative uncharacterized protein b1142	b1142 JW1128	Escherichia coli (strain K12)	103
+P11291	Y3808_ECOLI	reviewed	Putative uncharacterized protein b3808 (CyaX) (O161)	b3808 JW3780	Escherichia coli (strain K12)	161
+Q47719	Y4286_ECOLI	reviewed	Putative uncharacterized protein b4286	b4286 JW4246	Escherichia coli (strain K12)	137
+P39220	YABP_ECOLI	reviewed	Putative uncharacterized protein yabP	yabP b4659 JW0055 b0056	Escherichia coli (strain K12)	216
+Q2EEP9	YAFF_ECOLI	reviewed	Putative uncharacterized protein yafF	yafF b4503 JW0208	Escherichia coli (strain K12)	62
+P77354	YAFU_ECOLI	reviewed	Putative inner membrane protein yafU	yafU b0218 JW0207	Escherichia coli (strain K12)	112
+P77169	YAGJ_ECOLI	reviewed	Putative uncharacterized protein yagJ	yagJ b0276 JW0270	Escherichia coli (strain K12)	243
+P75684	YAGP_ECOLI	reviewed	Uncharacterized protein yagP	yagP b4694 JW0276	Escherichia coli (strain K12)	136
+Q2EEQ3	YAHH_ECOLI	reviewed	Putative uncharacterized protein yahH	yahH b0322 JW5893	Escherichia coli (strain K12)	106
+P77199	YAIT_ECOLI	reviewed	Putative uncharacterized protein yaiT	yaiT b4580 JW0362/JW5051 b0371 b0374	Escherichia coli (strain K12)	968
+P75697	YAIX_ECOLI	reviewed	Putative uncharacterized acetyltransferase yaiX (EC 2.3.1.-)	yaiX yaiF b4579 JW0350/JW5814 b0359 b0362	Escherichia coli (strain K12)	230
+P33669	YBBD_ECOLI	reviewed	Putative uncharacterized protein ybbD	ybbD b0501 JW0489	Escherichia coli (strain K12)	86
+P75717	YBCC_ECOLI	reviewed	Putative uncharacterized protein ybCC	ybcC b0539 JW0526	Escherichia coli (strain K12)	87
+P77528	YBCD_ECOLI	reviewed	Putative uncharacterized protein ybcD	ybcD b4508	Escherichia coli (strain K12)	78
+P77460	YBCY_ECOLI	reviewed	Putative uncharacterized protein ybcY	ybcY b0562 JW0551	Escherichia coli (strain K12)	194
+P39874	YBEM_ECOLI	reviewed	Putative UPF0012 hydrolase ybeM (EC 3.5.-.-)	ybeM b4581 JW0620/JW0621 b0625 b0626	Escherichia coli (strain K12)	262
+P37003	YBFG_ECOLI	reviewed	Putative uncharacterized protein ybfG	ybfG b0691 JW5094/JW5095 b0690	Escherichia coli (strain K12)	216
+P39901	YBFI_ECOLI	reviewed	Putative uncharacterized protein ybfI	ybfI b4636 b0691.1	Escherichia coli (strain K12)	65
+P75741	YBFL_ECOLI	reviewed	Putative protein ybfL (H repeat-associated protein in rhsC-phrB intergenic region) (ORF-H2)	ybfL b0705 JW0695	Escherichia coli (strain K12)	378
+P77779	YBFO_ECOLI	reviewed	Putative uncharacterized protein ybfO	ybfO b0703 JW0692	Escherichia coli (strain K12)	477
+Q2EEQ8	YBFQ_ECOLI	reviewed	Putative defective transposase ybfQ	ybfQ b4514 JW0694	Escherichia coli (strain K12)	84
+P76000	YCGI_ECOLI	reviewed	Putative uncharacterized protein ycgI	ycgI ymgH b4521 JW1162/JW5179 b1173	Escherichia coli (strain K12)	147
+P30192	YCHG_ECOLI	reviewed	Putative uncharacterized protein ychG	ychG b4573 JW1227/JW5883 b1239/b1240	Escherichia coli (strain K12)	299
+P76023	YCHS_ECOLI	reviewed	Putative uncharacterized protein ychS	ychS b1228 JW5881	Escherichia coli (strain K12)	91
+P77481	YCJV_ECOLI	reviewed	Putative uncharacterized ABC transporter ATP-binding protein ycjV	ycjV ymjB b4524 JW1311/JW5203 b1318	Escherichia coli (strain K12)	360
+P76066	YDAW_ECOLI	reviewed	Putative uncharacterized protein ydaW	ydaW b1361 JW5211	Escherichia coli (strain K12)	203
+P76069	YDAY_ECOLI	reviewed	Putative uncharacterized protein ydaY	ydaY b1366 JW1360	Escherichia coli (strain K12)	119
+P33666	YDBA_ECOLI	reviewed	Putative uncharacterized protein ydbA	ydbA b4492 JW5802/JW1402 b1401/b1405	Escherichia coli (strain K12)	2003
+P76123	YDDK_ECOLI	reviewed	Putative uncharacterized protein yddK	yddK b1471 JW1467	Escherichia coli (strain K12)	318
+P77519	YDDL_ECOLI	reviewed	Putative uncharacterized protein yddL	yddL b1472 JW1468	Escherichia coli (strain K12)	96
+P32051	YDEK_ECOLI	reviewed	Uncharacterized lipoprotein ydeK (ORFT)	ydeK orfT b1510 JW1503	Escherichia coli (strain K12)	1325
+P76137	YDET_ECOLI	reviewed	Putative uncharacterized protein ydet	ydeT b1505 JW1499	Escherichia coli (strain K12)	382
+P77286	YDEU_ECOLI	reviewed	Uncharacterized protein ydeU	ydeU b1509 JW1502	Escherichia coli (strain K12)	466
+Q47138	YDFE_ECOLI	reviewed	Putative uncharacterized protein ydfE (ORF6) (Fragment)	ydfE b1577 JW1568	Escherichia coli (strain K12)	255
+P77228	YDFJ_ECOLI	reviewed	Putative inner membrane metabolite transport protein ydfJ	ydfJ b4600 JW1536 b1543	Escherichia coli (strain K12)	427
+P76164	YDFW_ECOLI	reviewed	Uncharacterized protein ydfW in Qin prophage region	ydfW b1567 JW1559	Escherichia coli (strain K12)	75
+P76165	YDFX_ECOLI	reviewed	Uncharacterized protein ydfX	ydfX b1568 JW1560	Escherichia coli (strain K12)	96
+P76321	YEDN_ECOLI	reviewed	Putative uncharacterized protein yedN	yedN b4495 b1933/b1934/b1935	Escherichia coli (strain K12)	173
+P76335	YEDS_ECOLI	reviewed	Putative outer membrane protein yedS	yedS b4496 JW5319/JW1948/JW1949 b1964/b1965/b1966	Escherichia coli (strain K12)	397
+P76349	YEEL_ECOLI	reviewed	Putative uncharacterized protein yeeL	yeeL b4497 b1979/b1980	Escherichia coli (strain K12)	350
+P76359	YEEP_ECOLI	reviewed	Putative uncharacterized protein yeeP	yeeP b1999 JW5327	Escherichia coli (strain K12)	236
+P64526	YEEW_ECOLI	reviewed	Putative uncharacterized protein yeeW	yeeW b2006 JW1988	Escherichia coli (strain K12)	64
+P33353	YEHQ_ECOLI	reviewed	Putative uncharacterized protein yehQ	yehQ b2122 JW2110	Escherichia coli (strain K12)	614
+P33924	YEJO_ECOLI	reviewed	Putative uncharacterized outer membrane protein yejO	yejO b2190 JW5839	Escherichia coli (strain K12)	863
+P45505	YFAH_ECOLI	reviewed	Putative uncharacterized protein yfaH	yfaH b2238 JW2232	Escherichia coli (strain K12)	68
+P76464	YFAS_ECOLI	reviewed	Putative UPF0192 protein yfaS	yfaS yfaR b4500 JW2221/JW2222 b2227/b2228	Escherichia coli (strain K12)	1534
+P77196	YFCU_ECOLI	reviewed	Putative outer membrane usher protein yfcU	yfcU b4661 JW2334/JW2335 b2337 b2338	Escherichia coli (strain K12)	881
+P76508	YFDL_ECOLI	reviewed	Putative uncharacterized protein yfdL	yfdL b2355 JW5384	Escherichia coli (strain K12)	172
+P76509	YFDM_ECOLI	reviewed	Putative uncharacterized protein yfdM	yfdM b2356 JW2352	Escherichia coli (strain K12)	91
+P0AD35	YFDO_ECOLI	reviewed	Putative uncharacterized protein yfdO	yfdO b2358 JW2355	Escherichia coli (strain K12)	122
+P0CF86	YFJU_ECOLI	reviewed	Putative arsenate reductase-like protein	yfjU b2638	Escherichia coli (strain K12)	51
+P52137	YFJV_ECOLI	reviewed	Putative arsenical pump membrane protein (Fragment)	yfjV ypjM b2641 b2639 b2640	Escherichia coli (strain K12)	338
+P76616	YGAQ_ECOLI	reviewed	Putative uncharacterized protein ygaQ	ygaQ ygaR yqaC yqaD b4462 JW2631/JW2633/JW5425/JW5426 b2654/b2657/b2658	Escherichia coli (strain K12)	750
+P76628	YGAY_ECOLI	reviewed	Putative uncharacterized transporter ygaY	ygaY b2681 JW2655 b2680	Escherichia coli (strain K12)	394
+Q46786	YGEF_ECOLI	reviewed	Putative uncharacterized protein ygeF	ygeF b2850 JW2818	Escherichia coli (strain K12)	148
+Q46791	YGEK_ECOLI	reviewed	Putative uncharacterized response regulatory protein ygeK	ygeK ygeL b2856 JW5458/JW2824 b2855	Escherichia coli (strain K12)	210
+Q46793	YGEN_ECOLI	reviewed	Putative uncharacterized protein ygeN	ygeN ygeM b2858 JW5459/JW5460 b2857	Escherichia coli (strain K12)	235
+Q46795	YGEO_ECOLI	reviewed	Putative uncharacterized protein ygeO (Fragment)	ygeO b2859 JW5846	Escherichia coli (strain K12)	132
+Q46797	YGEQ_ECOLI	reviewed	Putative uncharacterized protein ygeQ	ygeQ b2863 JW5461	Escherichia coli (strain K12)	278
+Q46833	YGHE_ECOLI	reviewed	Putative general secretion pathway protein L-type yghE	yghE b2969	Escherichia coli (strain K12)	286
+Q46834	YGHF_ECOLI	reviewed	Putative general secretion pathway protein C-type yghF	yghF b2970 JW5484	Escherichia coli (strain K12)	288
+Q46840	YGHO_ECOLI	reviewed	Putative uncharacterized protein yghO (Fragment)	yghO b2981 JW5848	Escherichia coli (strain K12)	366
+Q7DFU6	YGHX_ECOLI	reviewed	Putative uncharacterized protein yghX	yghX yghY b4658 JW5926/JW5496 b2999 b3000	Escherichia coli (strain K12)	278
+Q79CP2	YGIA_ECOLI	reviewed	Putative uncharacterized protein ygiA	ygiA b3036 JW5889	Escherichia coli (strain K12)	86
+P45421	YHCE_ECOLI	reviewed	Putative uncharacterized protein yhcE	yhcE b4569 b3217	Escherichia coli (strain K12)	181
+P45766	YHDW_ECOLI	reviewed	Putative amino-acid ABC transporter-binding protein yhdW	yhdW b3268 JW3236	Escherichia coli (strain K12)	341
+P37629	YHIL_ECOLI	reviewed	Putative uncharacterized protein yhiL	yhiL b4660 JW3457 b3489 b3490	Escherichia coli (strain K12)	535
+P37635	YHIS_ECOLI	reviewed	Putative uncharacterized protein yhiS	yhiS b3504 JW3471	Escherichia coli (strain K12)	260
+P37655	YHJQ_ECOLI	reviewed	Putative uncharacterized protein yhjQ	yhjQ b3534	Escherichia coli (strain K12)	250
+P32109	YIBJ_ECOLI	reviewed	Putative uncharacterized protein yibJ	yibJ b3595 JW5647	Escherichia coli (strain K12)	233
+A5A625	YIBV_ECOLI	reviewed	Putative uncharacterized protein yibV	yibV b4615	Escherichia coli (strain K12)	111
+P56259	YIFN_ECOLI	reviewed	Putative uncharacterized protein yifN	yifN b3777 JW3749 b3776	Escherichia coli (strain K12)	149
+P32690	YJBI_ECOLI	reviewed	Putative uncharacterized protein yjbI	yjbI b4038 JW3998	Escherichia coli (strain K12)	442
+Q9Z3A0	YJGW_ECOLI	reviewed	Putative uncharacterized protein yjgW	yjgW b4274 JW4233	Escherichia coli (strain K12)	111
+P39349	YJGX_ECOLI	reviewed	Putative phosphoethanolamine transferase yjgX (EC 2.7.-.-)	yjgX b4575 b4275/b4276/b4560	Escherichia coli (strain K12)	371
+P39354	YJHD_ECOLI	reviewed	Putative uncharacterized protein yjhD	yjhD b4281	Escherichia coli (strain K12)	76
+P39355	YJHE_ECOLI	reviewed	Putative uncharacterized protein yjhE	yjhE b4282	Escherichia coli (strain K12)	82
+P39369	YJHR_ECOLI	reviewed	Putative uncharacterized protein yjhR	yjhR b4308 JW4271	Escherichia coli (strain K12)	338
+P39387	YJIP_ECOLI	reviewed	Putative uncharacterized protein yjiP	yjiP yjiQ b4339 JW4302 b4338	Escherichia coli (strain K12)	306
+P39391	YJIT_ECOLI	reviewed	Putative uncharacterized protein yjiT	yjiT b4342 JW5787	Escherichia coli (strain K12)	521
+P39393	YJIV_ECOLI	reviewed	Putative uncharacterized protein yjiV	yjiV mcrD b4486	Escherichia coli (strain K12)	906
+Q47688	YKFC_ECOLI	reviewed	Putative uncharacterized protein ykfC	ykfC b0258 JW5813	Escherichia coli (strain K12)	376
+P75675	YKFJ_ECOLI	reviewed	Putative uncharacterized protein ykfJ	ykfJ b0235 JW0225	Escherichia coli (strain K12)	88
+P77601	YKGA_ECOLI	reviewed	Putative HTH-type transcriptional regulator ykgA	ykgA b0300 JW5037	Escherichia coli (strain K12)	239
+Q79E92	YKGN_ECOLI	reviewed	Putative transposase ykgN	ykgN b4505 JW0258	Escherichia coli (strain K12)	112
+P75704	YKIA_ECOLI	reviewed	Putative uncharacterized protein ykiA	ykiA b0392 JW0383	Escherichia coli (strain K12)	93
+P77688	YLBG_ECOLI	reviewed	Putative uncharacterized protein ylbG	ylbG b0502 JW5880	Escherichia coli (strain K12)	123
+P77759	YLBH_ECOLI	reviewed	Putative uncharacterized protein ylbH	ylbH b0499 JW0488	Escherichia coli (strain K12)	236
+P77087	YLCE_ECOLI	reviewed	Putative uncharacterized protein ylcE	ylcE b0563 JW0552	Escherichia coli (strain K12)	61
+Q7DFV4	YMDE_ECOLI	reviewed	Putative uncharacterized protein ymdE	ymdE b1028	Escherichia coli (strain K12)	107
+P75978	YMFN_ECOLI	reviewed	Uncharacterized protein ymfN	ymfN b1149 JW1135	Escherichia coli (strain K12)	455
+P75980	YMFO_ECOLI	reviewed	Putative uncharacterized protein ymfO	ymfO b1151 JW1137	Escherichia coli (strain K12)	157
+P75981	YMFP_ECOLI	reviewed	Putative protein ymfP (Uncharacterized protein ymfP in lambdoid prophage e14 region)	ymfP b1152 JW5170	Escherichia coli (strain K12)	263
+Q2EER5	YMJC_ECOLI	reviewed	Putative uncharacterized protein ymjC	ymjC b4525 JW5960	Escherichia coli (strain K12)	60
+P0CD93	YMJD_ECOLI	reviewed	Putative uncharacterized protein ymjD	ymjD b4673 JW5960.1	Escherichia coli (strain K12)	21
+P77658	YNAA_ECOLI	reviewed	Putative uncharacterized protein ynaA	ynaA b1368 JW1361	Escherichia coli (strain K12)	342
+P76119	YNCI_ECOLI	reviewed	Putative transposase yncI	yncI yncM b1459 JW1453/JW5237 b1458	Escherichia coli (strain K12)	374
+P76138	YNEL_ECOLI	reviewed	Putative HTH-type transcriptional regulator yneL	yneL b1506 JW5244	Escherichia coli (strain K12)	59
+P76356	YOEA_ECOLI	reviewed	Putative uncharacterized protein yoeA	yoeA b4582 JW1980 b1995 b1998	Escherichia coli (strain K12)	167
+Q2EES3	YOEF_ECOLI	reviewed	Putative uncharacterized protein yoeF	yoeF b4538 JW5328	Escherichia coli (strain K12)	118
+Q2EET0	YPDJ_ECOLI	reviewed	Putative uncharacterized protein ypdJ	ypdJ b4545 JW5386	Escherichia coli (strain K12)	46
+P76613	YPJC_ECOLI	reviewed	Putative uncharacterized protein ypjC	ypjC b2650 JW5424	Escherichia coli (strain K12)	160
+P58095	YPJI_ECOLI	reviewed	Putative UPF0401 protein ypjI	ypjI b4644 JW2623.1 b2641.1	Escherichia coli (strain K12)	90
+P64562	YQFE_ECOLI	reviewed	Putative uncharacterized protein yqfE	yqfE b2915 JW2882	Escherichia coli (strain K12)	76
+P46879	YQGD_ECOLI	reviewed	Uncharacterized protein yqgD	yqgD b2941 JW2908	Escherichia coli (strain K12)	83
+P76655	YQIG_ECOLI	reviewed	Putative outer membrane usher protein yqiG	yqiG b3046 JW5507	Escherichia coli (strain K12)	821
+P46856	YRHA_ECOLI	reviewed	Putative uncharacterized protein yrhA	yrhA b3443 JW5864	Escherichia coli (strain K12)	138
+P39309	YTFA_ECOLI	reviewed	Putative uncharacterized protein ytfA	ytfA b4205 JW4163	Escherichia coli (strain K12)	108
+P76692	YZGL_ECOLI	reviewed	Putative uncharacterized protein yzgL	yzgL b3427 JW3390	Escherichia coli (strain K12)	93

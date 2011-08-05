@@ -1,0 +1,6 @@
+Null	Null	C6EJI5_ECOBD	A	DNA-directed RNA polymerase (EC 2.7.7.6) (T7 DNA-directed RNA polymerase)	883	2	3	5	0.833333333	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+Null	Null	C6EB49_ECOBD	A	Putative glycosyltransferase WbbB (Putative uncharacterized protein)	273	3	3	3	0.333333333	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+Null	Null	C6EB48_ECOBD	A	Putative glycosyltransferase WbbA (Putative uncharacterized protein)	248	1	1	1	1	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+Null	Null	C6ECH4_ECOBD	B	HflC protein (Modulator for HflB protease specific for phage lambda cII repressor)	334	31	40	83	0.066935484	=HYPERLINK("http://www.uniprot.org/uniprot/?query=Null&sort=score")
+C6ED29-R_ECOBD	C6ED29-R_ECOBD			0	1	1	1	1		=HYPERLINK("http://www.uniprot.org/uniprot/?query=C6ED29-R_ECOBD&sort=score")
+C6EAT9-R_ECOBD	C6EAT9-R_ECOBD			0	1	1	1	1		=HYPERLINK("http://www.uniprot.org/uniprot/?query=C6EAT9-R_ECOBD&sort=score")

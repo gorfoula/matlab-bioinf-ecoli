@@ -1,0 +1,9 @@
+# The communities at k=10
+# from H:\Data\Complexomics\Tools\CFinderWinLinux\CFinder-2.0.5--1440\H:\Data\MATLAB\II Rotation\JoinFiles\Peripheral\TableS3_K12_ProteomeV13(for)Cyto_Peripheral_Interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# The maximal allowed time per node during clique search was 1.000000 secs.
+
+0: RS5_ECOLI RLMN_ECOLI CSPC_ECOLI RL3_ECOLI DEAD_ECOLI RS13_ECOLI CSPD_ECOLI ILVG_ECOLI RS4_ECOLI YBCJ_ECOLI RS2_ECOLI RNE_ECOLI RS3_ECOLI RL1_ECOLI RL4_ECOLI RLUB_ECOLI RNR_ECOLI CSPE_ECOLI HFQ_ECOLI YFIF_ECOLI PNP_ECOLI CSRA_ECOLI RPPH_ECOLI PHOL_ECOLI PSS_ECOLI TGT_ECOLI YIBL_ECOLI 
+1: RL22_ECOLI DEAD_ECOLI ILVG_ECOLI RL19_ECOLI YBCJ_ECOLI RL18_ECOLI RLUB_ECOLI YFIF_ECOLI RPPH_ECOLI YIBL_ECOLI 

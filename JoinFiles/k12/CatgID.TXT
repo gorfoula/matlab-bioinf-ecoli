@@ -1,0 +1,12 @@
+A	Cytoplasmic
+F1	PIM CS
+B	IM
+E	IM Lipo
+F2	PIM PS
+G	Periplasmic
+F3	POM PS
+I	OM Lipo
+H	OM b-barrel
+F4	POM EC
+X	Extracellular
+U	Unknown

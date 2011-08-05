@@ -1,0 +1,178 @@
+function [Profile PhoScale amphi]=ScaleProfile(scale,Name,SQ,window,mask,print_fig)
+%% INPUT
+%%  scale:      scale used to calculate profile (e.g. Kyte)
+%%  window:     length of mask used (19-20 for transmembrane, 5-7 exposed on surface)
+%% OUTPUT
+%%  Profile:    calculated profile acording to window and selected scale
+
+%% INIT
+Profile_p=zeros(1,length(SQ));
+mean_Dist=Profile_p;
+amphi=[];
+
+%% Calculate Profile
+[AAs SelSeq SelSeqend]=AARepresentation('int',1,length(SQ),{SQ}); % assign amino acid IDs
+[PhoScale SumPho M_scale]=Hydrophobicity(AAs,scale);
+% [PhoScale SumPho]=Polarity(AAs,scale);PhoScale=PhoScale-.2;
+% [PhoScale SumPho]=Bulckiness(AAs);PhoScale=PhoScale-.8;
+
+if(strcmp(mask,'ai'))
+[PhoScale_C t M_C]=Hydrophobicity(AAs,'C');
+[PhoScale_L t M_La]=Hydrophobicity(AAs,'L');
+%     [PolScale_Z t M_Z]=Hydrophobicity(AAs,'K');
+[PolScale_Z t M_Z]=Polarity(AAs,'Z');
+[PolScale_L t M_L]=Polarity(AAs,'L');
+MAX=0; VALUES=[]; iter_=17:2:35; angl_=180:20:220; count=1;
+MASK_struct=cell(length(iter_),1);
+
+for iter=iter_
+        MASK=[];
+        for angl=angl_
+            [Profile_La]=MaskConv(PhoScale_L,iter,'g',angl,[1 M_La]);  %%% gaussian mask
+            [Profile_C]=MaskConv(PhoScale_C,iter,'g',angl,[1 M_C]);  %%% gaussian mask
+            [Profile_L]=MaskConv(PolScale_L,iter,'g',angl,[1 M_L]);  %%% gaussian mask
+            [Profile_Z_o mask]=MaskConv(PolScale_Z,iter,'a',angl,[1 M_Z]);  %%% gaussian mask
+            [Profile_Z_i]=MaskConv(PolScale_Z,iter,'i',angl,[1 M_Z]);  %%% gaussian mask
+                        
+            Dist_Z=sqrt((Profile_Z_o-Profile_Z_i).^2);
+            
+%             PlotPerPosition(SQ,mask,Dist_Z,Profile_Z_o,Profile_Z_i)          
+            [M N]=MaxPerRow(Profile_Z_o,Profile_Z_i);
+            [X,Y] = meshgrid(Profile_C);
+            Dist=(Dist_Z+M+N)+X(1:size(Dist_Z,1),:);
+            Dist=Dist./3;
+      
+            [max_ pos]=Matrix_Max(Dist);
+            
+          
+            MASK=[MASK;mask];
+            VALUES=[VALUES;Dist];
+        end
+        MASK_struct{count}=MASK;
+        count=count+1;
+end
+
+% cf_it=figure;
+% x_axis=1:size(Dist,2);
+% figure(cf_it);plot(x_axis,Profile_C,'-r',x_axis,mean(Dist_Z),'b',x_axis,mean(M),'m',x_axis,Profile_L,'yo',x_axis,Profile_La,'gd');legend('Cornette(a-helix)','only difference','max Polar Interface','Levitt b-sheet','Levitt a-helix');
+% title(['Window:' ,num2str(iter),' ',Name(1:10)]);
+
+
+
+% temp=VALUES>.46;
+% pos_amphi=find(sum(temp,1));
+% temp_prod=temp(:,pos_amphi).*VALUES(:,pos_amphi);
+Profile=mean(VALUES);
+pos_amphi=find(Profile>.25);
+temp_prod=VALUES(:,pos_amphi);
+[k l]=max(temp_prod,[],1);
+
+best_mask=mod(l,9*length(angl_));
+best_window=floor(l./(9*length(angl_)))+(best_mask>0);  %% which window
+best_mask(best_mask==0)=length(angl_); %%%be wist mask within the same window
+
+[k pos_amphi best_window best_mask]=ChooseFromOverlapingHelixes(k,pos_amphi,best_window,best_mask,iter_(best_window));
+
+amphi=zeros(length(l),2);
+
+for i=1:length(k)
+    POS=pos_amphi(i);
+    st_=POS-((iter_(best_window(i))-1)/2);
+    en_=POS+((iter_(best_window(i))-1)/2);
+    if(st_<=0);st_=1;end
+    if(en_>length(SQ));en_=length(SQ);end
+    amphi(i,:)=[st_ en_];
+    infc=MASK_struct{best_window(i)}(best_mask(i),:);
+%     %%%%%%%%%%%%%%  PLOT  %%%%%%%%%%%%%%%%
+%     if (exist('FH','var'));EraseText(FH);end    
+%     if (exist('h','var')==0);
+%         h=figure;
+%         subplot(2,1,2);plot(1:length(SQ),Profile,'r');
+%     end
+%     figure(h);subplot(2,1,1);FH=DrawHelix(SQ(st_:en_),find(infc));
+%     figure(h);subplot(2,1,2);hold on;plot(st_:en_,ones(1,en_-st_+1)*.2,'c','LineWidth',13);hold off;
+%     text(POS,.2,num2str(iter_(best_window(i))),'VerticalAlignment','middle','HorizontalAlignment','center');
+%     title([Name(1:10),' ',num2str(st_),' to ',num2str(en_),' len: ',num2str(iter_(best_window(i)))]);
+%     pause;
+%     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+end
+
+amphi=amphi(amphi(:,1)>0,:);
+
+else
+    [Profile]=MaskConv(PhoScale,window,mask,0,[1 M_scale]);  %%% gaussian mask
+%     [ProfilePol]=MaskConv(PolScale,window,mask,0);
+end
+
+%% Print Profile
+if(print_fig)
+    PlotProfile(12,Name,SQ,Profile);
+end
+end
+
+function [val_s pos_s win_s mask_s]=ChooseFromOverlapingHelixes(val,pos,win,mask,wsize)
+
+val_s=[];pos_s=[];win_s=[];mask_s=[];
+scan=1;
+while (scan<=(length(pos)))
+    v=val(scan);p=pos(scan);w=win(scan);m=mask(scan); % max value from adjacent predicted ampi-helixes
+    while((scan<length(pos)) & (abs(pos(scan+1)-pos(scan)-1)<((wsize(scan)-1)/2)+((wsize(scan+1)-1)/2)))
+        if(val(scan+1)>v)
+            p=pos(scan+1);
+            w=win(scan+1);
+            m=mask(scan+1);
+        end
+        v=max([v val(scan+1)]);
+        scan=scan+1;
+    end 
+    val_s=[val_s v];
+    pos_s=[pos_s p];
+    win_s=[win_s w];
+    mask_s=[mask_s m];
+    scan=scan+1;
+end
+
+
+end
+
+function [max_ POS]=Matrix_Max(Matrix)
+
+%%%%%%%%%  MAX of a MATRIX   %%%%%%
+[row_val row_ind] =max(Matrix, [], 1);
+[col_val col_ind] =max(row_val);
+POS=[row_ind(col_ind), col_ind];
+max_=col_val;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+end
+
+
+function []=PlotPerPosition(SQ,mask,Dist_Z,Profile_Z_o,Profile_Z_i)
+
+h=figure;
+n1=1;
+n2=size(mask,2);
+for r=1:size(Profile_Z_o,2)
+    cur_seq=SQ(n1:n2);
+    for c=1:size(Profile_Z_o,1)
+        figure(h);DrawHelix(cur_seq,find(mask(c,:)>0));
+        title([cur_seq(find(mask(c,:)>0)),' ',num2str(Dist_Z(c,r)),' ones: ',num2str(Profile_Z_o(c,r)),' zeros: ',num2str(Profile_Z_i(c,r))]);
+        pause;
+        close(h);
+    end
+    n1=n1+1;
+    n2=n2+1;
+end    
+
+end
+
+function [M N]=MaxPerRow(A,B)
+rows=size(A,1);
+M=zeros(rows,size(A,2));
+N=zeros(rows,size(A,2));
+for i=1:rows
+    M(i,:)=max([A(i,:);B(i,:)]);
+    N(i,:)=min([A(i,:);B(i,:)]);
+end
+end

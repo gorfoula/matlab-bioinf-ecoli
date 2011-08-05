@@ -1,0 +1,12 @@
+agaW	b3134	3278723	3279124	1	PTS system N-	E	?
+b1228	b1228	1285932	1286207	1	hypothetical protein	E	?
+celC	b1736	1817479	1817829	-1	PEP-dependent	E	F
+lplA	b4386	4621124	4622140	-1	lipoate-protein ligase A	E	F
+yaiS	b0364	383283	383693	-1	Putative conserved	E	?
+yddK	b1471	1542782	1543738	-1	putative glycoportein	E	?
+yddL	b1472	1543762	1544052	-1	putative outer membrane porin	E	?
+yjbL	b4047	4258344	4258598	1	orf hypothetical protein	E	?
+yjbM	b4048	4258622	4259329	1	orf hypothetical protein	E	?
+ypjC	b2650	2782551	2783033	-1	orf hypothetical protein	E	?
+ytfI	b4215	4435730	4436668	1	orf hypothetical protein	E	?
+ytfR	b4228 b4485	4449081	4450583	1	putative ATP-binding	E	?

@@ -1,0 +1,3 @@
+JoinFiles/k12/TableS3_K12_ProteomeV13_BasicProteome_3900.txt	1	2	5	1
+JoinFiles/OtherStudies/Notepad Lists/ORList_Wide_8(over_500)_LB.txt	1	1
+JoinFiles/OtherStudies/Notepad Lists/OurStudy_Feb2011_Common.txt	1	1

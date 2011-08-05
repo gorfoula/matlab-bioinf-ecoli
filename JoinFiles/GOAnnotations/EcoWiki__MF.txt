@@ -1,0 +1,1011 @@
+Accession	Molecular Function (Uniprot)
+P0CE63	RNA-3'-phosphate cyclase activity
+P09147	racemase and epimerase activity, acting on carbohydrates and derivatives
+P0A944	ribosomal-protein-alanine N-acetyltransferase activity
+P0A862	thioredoxin peroxidase activity|hydroperoxide reductase activity
+P0A796	magnesium ion binding|binding|ribonucleotide binding|identical protein binding|6-phosphofructokinase activity|ATP binding
+A5A605	transporter activity
+P0AFC0	dihydroneopterin triphosphate pyrophosphohydrolase activity
+P26616	malate dehydrogenase (oxaloacetate-decarboxylating) activity
+P77690	pyridoxal phosphate binding|transaminase activity
+P0AC41	electron carrier activity|flavin adenine dinucleotide binding|succinate dehydrogenase activity
+P0A8R9	sequence-specific DNA binding transcription factor activity
+P12998	8-amino-7-oxononanoate synthase activity
+P23883	aldehyde dehydrogenase [NAD(P)+] activity
+P0AGD7	GTP binding|GTPase activity
+P0CE60	pseudouridine synthase activity
+P60757	ATP phosphoribosyltransferase activity
+P52697	6-phosphogluconolactonase activity
+P0AF36	identical protein binding
+P76034	cyclic-guanylate-specific phosphodiesterase activity
+P18843	NAD+ synthase activity
+P20099	molybdenum ion binding|L-methionine-(S)-S-oxide reductase activity
+P0AAE5	arginine decarboxylase activity
+P0AEK4	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity
+P33013	carboxypeptidase activity|penicillin binding
+P76103	transmembrane transporter activity
+P0A9J6	ribokinase activity
+P32166	1,4-dihydroxy-2-naphthoate octaprenyltransferase activity
+Q47141	sequence-specific DNA binding transcription factor activity
+P0ACU5	sequence-specific DNA binding transcription factor activity
+P0AF12	methylthioadenosine nucleosidase activity|adenosylhomocysteine nucleosidase activity
+P18335	N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity|succinyldiaminopimelate transaminase activity
+P15006	endopeptidase activity|peptidase activity
+P22523	GTP binding|DNA binding|ATP binding
+P38394	zinc ion binding
+P0A9S3	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+Q9JMS2	sequence-specific DNA binding transcription factor activity
+P0AFD6	oxidoreduction-driven active transmembrane transporter activity
+P0AFI7	FMN binding|pyridoxamine-phosphate oxidase activity
+P29680	uroporphyrinogen decarboxylase activity
+Q46822	isopentenyl-diphosphate delta-isomerase activity
+P69853	signal sequence binding
+P76002	lysozyme inhibitor activity
+P0AEG1	dipeptide transporter activity
+P0CF28	ATP-dependent DNA helicase activity|exodeoxyribonuclease V activity|endonuclease activity
+P0ACJ8	zinc ion binding
+P0AAT4	mechanically-gated ion channel activity
+P64636	IMP 5'-nucleotidase activity|GMP 5'-nucleotidase activity
+P0A6W3	phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+P39263	glutathione transferase activity
+P0C7L2	transferase activity
+P75905	acetylglucosaminyltransferase activity
+P76350	acetolactate synthase activity|transketolase activity
+P0AET2	unfolded protein binding
+P41072	DNA-dependent ATPase activity|DNA topoisomerase (ATP-hydrolyzing) activity|DNA binding
+P13979	nitrite uptake transmembrane transporter activity
+P22106	asparaginase activity|amino acid binding|asparagine synthase (glutamine-hydrolyzing) activity|ATP binding
+P0A8I8	rRNA (pseudouridine-N3-)-methyltransferase activity
+P77721	aldo-keto reductase (NADP) activity
+P43337	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+P22707	sequence-specific DNA binding transcription factor activity
+P09152	nitrate reductase activity
+P77213	ligase activity, forming carbon-nitrogen bonds
+P26458	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor
+P39176	peptidoglycan L,D-transpeptidase activity|transferase activity, transferring amino-acyl groups|cysteine-type carboxypeptidase activity
+P56980	glutathionylspermidine amidase activity|glutathionylspermidine synthase activity
+P0A877	lyase activity|sulfate binding
+P23871	ferrochelatase activity
+P0AFS5	efflux transmembrane transporter activity
+P0AEZ3	ATPase activity|ATP binding
+P0AA37	pseudouridine synthase activity
+P0AE88	sequence-specific DNA binding transcription factor activity
+P11551	fucose:hydrogen symporter activity|arabinose:hydrogen symporter activity|galactose:hydrogen symporter activity|hexose:hydrogen symporter activity
+P13029	peroxidase activity
+P76349	carboxylesterase activity
+P31134	putrescine-importing ATPase activity|ATP binding
+P33026	sugar efflux transmembrane transporter activity
+P0ABW0	2 iron, 2 sulfur cluster binding
+P31069	voltage-gated potassium channel activity
+P0AEY5	NADPH dehydrogenase (quinone) activity|flavin adenine dinucleotide binding
+P0AC16	dihydroneopterin aldolase activity
+P27254	GTPase activity
+P33937	nitrate reductase activity
+P15640	nickel ion binding|lactoylglutathione lyase activity
+P52073	glycolate dehydrogenase activity
+P36649	oxidoreductase activity, oxidizing metal ions|copper ion binding
+P32140	mannose isomerase activity
+P75876	acylphosphatase activity
+P0AFU8	riboflavin synthase activity
+P43672	ATPase activity|DNA binding
+P0A8Q0	electron carrier activity
+P0CF64	sulfathiazole transporter activity
+P52043	CoA-transferase activity
+Q46864	sequence-specific DNA binding
+P39286	GDP binding|GTPase activity
+P24215	ferrous iron binding
+P23908	acetylornithine deacetylase activity|cobalt ion binding|zinc ion binding
+P33643	pseudouridine synthase activity
+P75851	alkanesulfonate transporter activity
+P0AES2	glucarate dehydratase activity
+P0A887	2-octaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity
+P69681	uniporter activity
+P39411	nucleoside-triphosphatase activity
+P0A9P6	RNA helicase activity|ATP-dependent RNA helicase activity
+P13960	manganese ion binding|RNA ligase activity
+P0A955	2-dehydro-3-deoxy-phosphogluconate aldolase activity
+P32156	racemase and epimerase activity, acting on carbohydrates and derivatives
+P0AB38	enzyme binding
+P69434	substrate-specific transmembrane transporter activity
+P0AFI0	ADP binding|thiamine pyrophosphate binding|oxalyl-CoA decarboxylase activity
+P23367	ATPase activity|ATP binding
+P25516	4 iron, 4 sulfur cluster binding|aconitate hydratase activity|mRNA 3'-UTR binding|iron ion binding|metal ion binding
+P37146	manganese ion binding
+Q46871	oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor|flavin adenine dinucleotide binding
+P17444	choline dehydrogenase activity
+P0AG16	amidophosphoribosyltransferase activity
+P22333	adenosine deaminase activity
+P27302	transketolase activity
+P77544	glutathione transferase activity
+P0A9M5	xanthine phosphoribosyltransferase activity|hypoxanthine phosphoribosyltransferase activity
+P0A6P1	zinc ion binding
+P64602	phospholipid transporter activity
+P64578	endoribonuclease activity
+Q47129	sequence-specific DNA binding transcription factor activity
+P77731	ureidoglycolate lyase activity
+P17169	glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+P55135	4 iron, 4 sulfur cluster binding|rRNA (uridine-C5-)-methyltransferase activity
+P75958	lipoprotein transporter activity
+P33790	DNA binding
+P0AG20	GTP diphosphokinase activity
+P32709	nucleoside diphosphate kinase activity|identical protein binding
+P43329	helicase activity
+P11880	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity
+P0A9Q1	two-component response regulator activity
+P69425	proton motive force dependent protein transmembrane transporter activity
+P22256	pyridoxal phosphate binding|4-aminobutyrate transaminase activity
+P13738	cation:cation antiporter activity
+P09130	acetaldehyde dehydrogenase (acetylating) activity
+P04993	ATP binding
+P25437	S-(hydroxymethyl)glutathione dehydrogenase activity|protein homodimerization activity|zinc ion binding|alcohol dehydrogenase activity, zinc-dependent
+Q93K97	ADP-ribose diphosphatase activity|magnesium ion binding
+P0A7E5	CTP synthase activity
+P0AGK1	transferase activity, transferring alkyl or aryl (other than methyl) groups|4-hydroxybenzoate octaprenyltransferase activity
+P0C0T5	endopeptidase activity|peptidase activity
+P77334	cyclic-guanylate-specific phosphodiesterase activity
+P02358	structural constituent of ribosome
+P0ABF1	polynucleotide adenylyltransferase activity|RNA binding
+P39404	sequence-specific DNA binding transcription factor activity
+P22939	geranyltranstransferase activity|dimethylallyltranstransferase activity
+P0AFK9	polyamine-transporting ATPase activity
+P76440	iron-sulfur cluster binding
+P0A6H8	cardiolipin synthase activity
+P38038	flavin reductase activity|FMN binding|flavin adenine dinucleotide binding
+P0AFS3	dihydromonapterin reductase activity|dihydrofolate reductase activity
+P67444	xanthine transmembrane transporter activity
+P30131	carboxyl- or carbamoyltransferase activity
+P68767	aminopeptidase activity|DNA binding
+P0AG59	structural constituent of ribosome
+P0AF90	ribonuclease inhibitor activity|enzyme binding
+P77570	kinase activity
+P52627	sigma factor antagonist activity
+P0AEZ1	methylenetetrahydrofolate reductase (NADPH) activity|oxidoreductase activity
+P28629	pyridoxal phosphate binding|arginine decarboxylase activity
+P0A7A9	zinc ion binding
+P39346	L-idonate 5-dehydrogenase activity
+P76502	phosphohistidine phosphatase activity
+P0CF50	unfolded protein binding|ATPase activity|ATP binding
+P46889	ATPase activity|DNA translocase activity|sequence-specific DNA binding|DNA binding
+P77243	2-methylcitrate dehydratase activity
+P0AGC0	hexose-phosphate:inorganic phosphate antiporter activity
+P0AB80	identical protein binding
+P21889	aspartate-tRNA ligase activity
+P0AGB0	phosphoserine phosphatase activity|magnesium ion binding
+P0AA25	protein disulfide oxidoreductase activity
+P0A972	single-stranded DNA binding|poly(A) RNA binding
+P19925	(2,3-dihydroxybenzoyl)adenylate synthase activity
+P69423	protein transporter activity|proton motive force dependent protein transmembrane transporter activity
+P76335	bent DNA binding
+P0AD65	drug binding|serine-type D-Ala-D-Ala carboxypeptidase activity|carboxypeptidase activity|penicillin binding
+P31434	hydrolase activity, hydrolyzing O-glycosyl compounds
+P0ADX9	rRNA (guanine-N2-)-methyltransferase activity
+P75823	phenylserine aldolase activity|pyridoxal phosphate binding|L-allo-threonine aldolase activity
+P76344	cadmium ion binding|zinc ion binding
+P52643	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity
+P0AGM9	xanthine transmembrane transporter activity
+P0AGE0	single-stranded DNA binding
+P31825	tRNA (adenine-N6-)-methyltransferase activity
+P33363	beta-glucosidase activity
+P52097	tRNA(Ile)-lysidine synthase activity
+P23845	GTPase activity
+P25522	GTP binding|GTPase activity
+P76000	sialic acid transmembrane transporter activity|oligosaccharide transporting porin activity
+P0A9H1	pyrimidine-specific mismatch base pair DNA N-glycosylase activity
+P24082	ribonucleoside-triphosphate reductase activity|CTP reductase activity
+P37677	L-xylulokinase activity
+P37690	hydrolase activity
+P0ADA1	acyl-CoA thioesterase activity
+P77199	peptidoglycan L,D-transpeptidase activity|transferase activity, transferring amino-acyl groups|cysteine-type carboxypeptidase activity
+P0AC86	glycogen phosphorylase activity
+P31466	solute:hydrogen symporter activity|adenine transmembrane transporter activity
+P45577	enzyme activator activity
+Q46856	aldehyde dehydrogenase (NADP+) activity|alcohol dehydrogenase (NADP+) activity|zinc ion binding|alcohol dehydrogenase activity, zinc-dependent
+P75817	rRNA (uridine) methyltransferase activity
+P0A9J4	2-dehydropantoate 2-reductase activity|NADP binding
+P0AEX9	maltooligosaccharide-importing ATPase activity|maltose-transporting ATPase activity
+P11349	4 iron, 4 sulfur cluster binding|electron carrier activity|3 iron, 4 sulfur cluster binding
+Q9JMT6	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase activity
+P0AEI4	4 iron, 4 sulfur cluster binding|aspartic acid methylthiotransferase activity
+P23003	tRNA (guanine-N1-)-methyltransferase activity
+P37623	holo-[acyl-carrier-protein] synthase activity
+Q46866	DNA binding|sequence-specific DNA binding transcription factor activity
+P0ABA4	ATP phosphoribosyltransferase activity
+P0A9R7	ATP binding
+Q47013	ubiquitin thiolesterase activity
+P0AFC7	4 iron, 4 sulfur cluster binding|oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (ubiquinone) activity
+P77528	threonine aldolase activity|amino acid binding|pyridoxal phosphate binding|L-threonine ammonia-lyase activity|L-serine ammonia-lyase activity
+P75898	uracil oxygenase activity
+P0ACS5	sequence-specific DNA binding transcription factor activity
+P76459	acetate CoA-transferase activity
+P0A8D0	double-stranded DNA binding
+P0A8Y5	sugar-phosphatase activity|magnesium ion binding
+P76407	lipid kinase activity
+P0AGG2	acyl-CoA thioesterase activity
+P0A8M0	asparaginase activity|amino acid binding|asparagine synthase (glutamine-hydrolyzing) activity|ATP binding
+P60624	structural constituent of ribosome
+P77324	aldehyde ferredoxin oxidoreductase activity
+P0ABQ2	2-hydroxy-3-oxopropionate reductase activity
+P39375	anti-sigma factor antagonist activity
+P37672	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+Q47005	sequence-specific DNA binding transcription factor activity
+P23721	O-phospho-L-serine:2-oxoglutarate aminotransferase activity
+P04968	cadmium ion binding|manganese ion binding|zinc ion binding|L-threonine 3-dehydrogenase activity
+P04395	alkylbase DNA N-glycosylase activity
+P11458	4 iron, 4 sulfur cluster binding|quinolinate synthetase A activity
+P46022	peptidoglycan glycosyltransferase activity
+P61320	lipoprotein particle receptor activity
+P13656	sugar-phosphatase activity|pyridoxal phosphatase activity|magnesium ion binding|phosphotransferase activity, alcohol group as acceptor
+P0AAC8	ferrous iron binding|iron chaperone activity
+Q57261	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity
+P0AC81	nickel ion binding|lactoylglutathione lyase activity
+P60844	water channel activity
+P31120	phosphoglucosamine mutase activity
+P46133	p-aminobenzoyl-glutamate uptake transmembrane transporter activity|secondary active transmembrane transporter activity
+P0A9I8	nitrite reductase [NAD(P)H] activity
+P0AA41	pseudouridine synthase activity
+P11446	glutamate N-acetyltransferase activity
+P76119	catalytic activity
+P0ABR7	2 iron, 2 sulfur cluster binding
+P0AGC3	lytic transglycosylase activity
+P67910	ADP-glyceromanno-heptose 6-epimerase activity|NADP+ binding
+P0A6S7	glyceraldehyde-3-phosphate dehydrogenase activity
+P0A853	tryptophanase activity|pyridoxal phosphate binding|L-cysteine desulfhydrase activity
+P0ABZ6	peptidyl-prolyl cis-trans isomerase activity|peptide binding
+P45748	double-stranded RNA binding|tRNA binding|ATP binding
+P0A9P4	thioredoxin-disulfide reductase activity|flavin adenine dinucleotide binding
+P0AA10	zinc ion binding
+P0AFE0	oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (ubiquinone) activity
+P76249	L-leucine transmembrane transporter activity
+P0AFL6	exopolyphosphatase activity
+P25741	kinase activity
+P0AEE3	serine-type endopeptidase activity
+P0A910	porin activity
+P37685	aldehyde dehydrogenase (NAD) activity
+P0AB71	fructose-bisphosphate aldolase activity|zinc ion binding
+P0AD79	ATPase activity|ATP binding
+P0AC47	4 iron, 4 sulfur cluster binding|electron carrier activity|3 iron, 4 sulfur cluster binding|2 iron, 2 sulfur cluster binding
+P0AFI2	DNA binding
+P60422	zinc ion binding
+P63177	rRNA (guanosine-2'-O-)-methyltransferase activity
+P08622	unfolded protein binding|protein disulfide isomerase activity|protein homodimerization activity|zinc ion binding
+P37595	asparaginase activity|aminopeptidase activity
+P0A776	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+P25552	guanosine-5'-triphosphate,3'-diphosphate diphosphatase activity|protein homodimerization activity
+P14081	GDP binding|selenocysteine insertion sequence binding|GTP binding|tRNA binding|GTPase activity
+P08400	zinc ion binding
+P21645	N-acyltransferase activity
+P37908	quinoprotein glucose dehydrogenase activity|pyrroloquinoline quinone binding|ubiquinone binding|magnesium ion binding
+P75825	peroxidase activity
+P0ADE8	folic acid binding
+P31677	alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity
+P0ACC7	N-acetylglucosamine-6-phosphate deacetylase activity|zinc ion binding
+P60785	GTPase activity|translation elongation factor activity
+P06999	phosphogluconate dehydrogenase (decarboxylating) activity
+P32131	4 iron, 4 sulfur cluster binding|coproporphyrinogen dehydrogenase activity
+P08202	L-arabinose isomerase activity
+Q9S4W2	glutaminase activity
+P0A7X3	structural constituent of ribosome
+P37051	formyltetrahydrofolate deformylase activity
+P0AE16	solute:hydrogen symporter activity
+P60061	solute:solute antiporter activity
+P0ABJ1	hydrogen ion transmembrane transporter activity|electron carrier activity|ubiquinone binding|oxidoreduction-driven active transmembrane transporter activity
+Q9S4W7	ferric iron binding|protein homodimerization activity
+P76545	NAD binding|magnesium ion binding|4-hydroxythreonine-4-phosphate dehydrogenase activity|zinc ion binding
+Q47377	substrate-specific transmembrane transporter activity
+P0AFE8	oxidoreduction-driven active transmembrane transporter activity|ubiquinone binding
+P24244	ornithine carbamoyltransferase activity
+P31545	oxidoreductase activity, acting on a heme group of donors
+P77744	sequence-specific DNA binding transcription factor activity
+P39280	4 iron, 4 sulfur cluster binding
+P0ABF6	pyrimidine nucleoside binding|cytidine deaminase activity|zinc ion binding
+P45563	purine-nucleoside phosphorylase activity
+P0AB87	aldehyde-lyase activity|L-fuculose-phosphate aldolase activity
+P64594	ribonuclease activity|endoribonuclease activity|sequence-specific DNA binding transcription factor activity
+Q6BF16	2-dehydro-3-deoxy-6-phosphogalactonate aldolase activity
+P18776	4 iron, 4 sulfur cluster binding|iron ion binding
+P76641	ammeline aminohydrolase activity|guanine deaminase activity|zinc ion binding
+P00811	beta-lactamase activity
+P0ACF0	DNA binding
+P0A7G6	single-stranded DNA binding
+P61517	carbonate dehydratase activity
+P60651	manganese ion binding|agmatinase activity
+P0A769	manganese ion transmembrane transporter activity|hydrogen ion transmembrane transporter activity|cadmium ion transmembrane transporter activity|symporter activity|uniporter activity
+P0AE52	thioredoxin peroxidase activity|hydroperoxide reductase activity
+P0A8Q3	electron carrier activity
+P11071	protein serine/threonine kinase activity|protein serine/threonine phosphatase activity|[isocitrate dehydrogenase (NADP+)] kinase activity|AMP binding|ATP binding
+P13669	sequence-specific DNA binding transcription factor activity
+P0AEJ4	two-component sensor activity|protein homodimerization activity|phosphoprotein phosphatase activity
+P26281	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity
+P75966	pseudouridine synthase activity
+P27848	sugar-phosphatase activity|pyridoxal phosphatase activity|metal ion binding
+P06709	biotin-[acetyl-CoA-carboxylase] ligase activity|DNA binding
+P0ACV6	amidase activity
+P25524	pyrimidine nucleoside binding|cytidine deaminase activity|zinc ion binding
+P52045	methylmalonyl-CoA decarboxylase activity
+P0A8V0	exoribonuclease activity|nuclease activity
+P0ACE3	sequence-specific DNA binding
+P0AC75	transferase activity
+P69380	cadmium ion transmembrane transporter activity|ferrous iron transmembrane transporter activity|zinc efflux active transmembrane transporter activity
+P61889	malate dehydrogenase activity
+P0A879	pyridoxal phosphate binding|protein homodimerization activity|tryptophan synthase activity
+P0ABK5	cysteine synthase activity|L-cysteine desulfhydrase activity
+P37339	L-2-hydroxyglutarate oxidase activity|flavin adenine dinucleotide binding
+P28638	site-specific DNA-methyltransferase (adenine-specific) activity
+P31675	sugar efflux transmembrane transporter activity
+P0AFE4	oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (ubiquinone) activity
+P38051	magnesium ion binding|isochorismate synthase activity
+P75894	3-hydroxypropionate dehydrogenase (NADP+) activity
+P0AFB5	two-component sensor activity|protein homodimerization activity|phosphoprotein phosphatase activity
+P36673	sequence-specific DNA binding transcription factor activity
+P31459	2-dehydro-3-deoxygalactonokinase activity
+P36938	phosphoglucomutase activity
+P12999	carboxyl-O-methyltransferase activity
+P18355	protein kinase binding
+P0ABM1	coenzyme binding
+P75742	dipeptide transporter activity
+P23865	endopeptidase activity
+P34210	sequence-specific DNA binding transcription factor activity
+P76114	sequence-specific DNA binding transcription factor activity
+P0AFD1	oxidoreduction-driven active transmembrane transporter activity
+P42596	rRNA (guanine-N2-)-methyltransferase activity
+P15043	ATP-dependent DNA helicase activity|single-stranded DNA-dependent ATP-dependent DNA helicase activity|transition metal ion binding|DNA binding|zinc ion binding|ATP binding
+P36999	rRNA (guanine-N1-)-methyltransferase activity
+P25888	ATP-dependent RNA helicase activity
+P39206	carnitine dehydratase activity
+P0A8S1	bent DNA binding|sequence-specific DNA binding|sequence-specific DNA binding transcription factor activity
+P0ACD4	pyridoxal phosphate binding|selenocysteine lyase activity|cysteine desulfurase activity
+P0ADF6	phosphoglycerate dehydrogenase activity|2-hydroxyglutarate dehydrogenase activity
+P0A7E3	magnesium ion binding
+P0A720	thymidylate kinase activity
+P77667	2 iron, 2 sulfur cluster binding|protein homodimerization activity
+P0ABQ0	phosphopantothenoylcysteine decarboxylase activity|phosphopantothenate--cysteine ligase activity|FMN binding
+P50465	damaged DNA binding|DNA-(apurinic or apyrimidinic site) lyase activity|zinc ion binding
+P36979	rRNA (adenine-C2-)-methyltransferase activity|4 iron, 4 sulfur cluster binding
+P0A6B7	selenocysteine lyase activity|cysteine desulfurase activity
+P11350	electron carrier activity|iron ion binding
+P0A8H8	DNA topoisomerase (ATP-hydrolyzing) inhibitor activity|zinc ion binding
+P76268	sequence-specific DNA binding transcription factor activity
+P37355	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity
+Q9JMT2	structural constituent of ribosome|translation repressor activity|rRNA binding
+P31122	uniporter activity
+P0AC28	5-formyltetrahydrofolate cyclo-ligase activity
+P0A935	lytic transglycosylase activity|hydrolase activity, hydrolyzing O-glycosyl compounds
+P39304	3-dehydro-L-gulonate-6-phosphate decarboxylase activity|magnesium ion binding
+P36767	double-stranded DNA binding|single-stranded DNA binding
+P75971	drug binding|sequence-specific DNA binding|sequence-specific DNA binding transcription factor activity
+P24555	endopeptidase activity
+P37765	pseudouridine synthase activity
+P42641	GDP binding|guanyl ribonucleotide binding|GTP binding|GTPase activity
+P78061	glutamate-putrescine ligase activity
+P31551	carnitine racemase activity
+P32719	allulose 6-phosphate 3-epimerase activity
+P08373	UDP-N-acetylmuramate dehydrogenase activity|flavin adenine dinucleotide binding
+P0A7S3	structural constituent of ribosome
+P0AEA5	protoheme IX farnesyltransferase activity
+P77368	enzyme inhibitor activity
+P30744	L-serine ammonia-lyase activity
+P69054	electron carrier activity|ubiquinone binding|succinate dehydrogenase (ubiquinone) activity|heme binding
+P11519	adenylate cyclase activity
+P76037	putrescine transmembrane transporter activity
+P39305	L-ribulose-5-phosphate 3-epimerase activity
+P31129	diguanylate cyclase activity
+P46859	gluconokinase activity
+P0ADV9	glycolipid transporter activity
+P69937	manganese ion binding|superoxide dismutase activity|DNA binding|antioxidant activity|metal ion binding
+P0A9J8	prephenate dehydratase activity|protein homodimerization activity|chorismate mutase activity
+P0A9A6	protein binding|GTP binding|GTPase activity
+P0AGB6	sigma factor activity
+P0A873	tRNA (guanine-N1-)-methyltransferase activity
+P37388	D-ribose-importing ATPase activity|D-xylose-importing ATPase activity
+P36683	2-methylisocitrate dehydratase activity|aconitate hydratase activity|4 iron, 4 sulfur cluster binding|mRNA 3'-UTR binding|mRNA binding
+P0AGG4	protein disulfide oxidoreductase activity|zinc ion binding
+P52129	endoribonuclease activity
+P0A6T5	GTP cyclohydrolase I activity|GTP binding|zinc ion binding
+P23256	L-cysteine desulfhydrase activity
+P43667	efflux transmembrane transporter activity|L-valine transmembrane transporter activity
+P0A8A4	enzyme regulator activity
+P42604	ferrous iron binding
+P36929	rRNA (cytosine-C5-)-methyltransferase activity
+P31552	carnitine-CoA ligase activity|crotonobetaine-CoA ligase activity
+P39277	betaine-aldehyde dehydrogenase activity
+P31663	pantoate-beta-alanine ligase activity
+P0ADG4	glycerol-2-phosphatase activity|magnesium ion binding|lithium ion binding|inositol-1(or 4)-monophosphatase activity
+P76464	GTP cyclohydrolase II activity
+P17952	protein binding|UDP-N-acetylmuramate-L-alanine ligase activity|magnesium ion binding|ATP binding
+P0AAJ3	formate dehydrogenase (NAD+) activity
+P0C0V0	serine-type endopeptidase activity
+P02931	porin activity
+P16683	alkylphosphonate transmembrane transporter activity|sequence-specific DNA binding|sequence-specific DNA binding transcription factor activity
+P75906	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+P0AFD4	oxidoreduction-driven active transmembrane transporter activity
+P0ACA7	glutathione transferase activity
+P17445	betaine-aldehyde dehydrogenase activity
+P62707	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity|protein homodimerization activity
+P18200	phosphatidylglycerophosphatase activity
+P0AFA7	cation:cation antiporter activity|sodium:hydrogen antiporter activity
+P19319	4 iron, 4 sulfur cluster binding|electron carrier activity|molybdenum ion binding|iron ion binding
+P80645	alkanesulfonate monooxygenase activity
+P0A884	thymidylate synthase activity
+P25553	glycolaldehyde dehydrogenase activity|lactaldehyde dehydrogenase activity
+P37758	inorganic anion exchanger activity|nitrite efflux transmembrane transporter activity|nitrate transmembrane transporter activity
+P76251	D-malate dehydrogenase (decarboxylating) activity
+P45548	zinc ion binding
+P0AEW9	1-phosphofructokinase activity
+P00452	ATP binding
+P0AGI4	D-ribose transmembrane transporter activity|D-xylose transmembrane transporter activity
+P10902	glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+P31441	manganese ion binding|adenine deaminase activity
+P0C093	DNA binding
+Q46791	oxidoreduction-driven active transmembrane transporter activity
+P0AE01	tRNA (uracil) methyltransferase activity|tRNA (cytosine) methyltransferase activity
+P39325	galactose binding
+P41066	ornithine decarboxylase activity|pyridoxal phosphate binding
+P77489	aldehyde ferredoxin oxidoreductase activity
+P16659	proline-tRNA ligase activity
+P0ABS5	DNA primase activity|zinc ion binding
+P77581	succinylornithine transaminase activity
+P45395	arabinose-5-phosphate isomerase activity
+P10121	GTP binding|GTPase activity
+P77172	cyclic-guanylate-specific phosphodiesterase activity
+P23538	magnesium ion binding|pyruvate, water dikinase activity
+P76445	undecaprenyl-diphosphatase activity|phosphotransferase activity, phosphate group as acceptor
+P60752	drug binding|lipid binding|lipid-transporting ATPase activity|lipopolysaccharide-transporting ATPase activity|lipid transporter activity|ATP binding
+P0A8M3	drug binding|protein binding|RNA binding|zinc ion binding|threonine-tRNA ligase activity|ATP binding|translation repressor activity, nucleic acid binding
+P39838	histidine phosphotransfer kinase activity
+P21437	manganese ion binding|fructose 1,6-bisphosphate 1-phosphatase activity
+P0AB89	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity
+P77698	enzyme inhibitor activity
+P22525	peptidoglycan L,D-transpeptidase activity|transferase activity, transferring amino-acyl groups|cysteine-type carboxypeptidase activity
+Q9JMR9	DNA-directed DNA polymerase activity
+P24183	electron carrier activity|molybdenum ion binding|formate dehydrogenase (NAD+) activity
+P23873	sequence-specific DNA binding
+P12996	4 iron, 4 sulfur cluster binding|2 iron, 2 sulfur cluster binding|biotin synthase activity
+P60390	rRNA (cytosine-N4-)-methyltransferase activity
+P23847	dipeptide transporter activity|heme transporter activity
+P06971	virion binding|toxin binding|iron ion binding|cofactor binding
+P24174	mannose-1-phosphate guanylyltransferase activity
+P19318	4 iron, 4 sulfur cluster binding|electron carrier activity|3 iron, 4 sulfur cluster binding
+P41052	lytic transglycosylase activity
+P32684	pseudouridine synthase activity
+P0A8R0	ribonuclease inhibitor activity
+P0AEG6	protein disulfide isomerase activity
+P24242	sequence-specific DNA binding|sequence-specific DNA binding transcription factor activity
+P17993	2-octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone methyltransferase activity
+P0AFC3	oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (ubiquinone) activity
+P0AF40	3-octaprenyl-4-hydroxybenzoate carboxy-lyase activity
+P10441	lipid-A-disaccharide synthase activity|phospholipid binding
+P0A7R9	structural constituent of ribosome|SSU rRNA binding
+P25714	membrane insertase activity
+P0AGJ7	tRNA (uracil-2'-O-)-methyltransferase activity|tRNA (cytosine-2'-O-)-methyltransferase activity
+P0A9N8	4 iron, 4 sulfur cluster binding|iron-sulfur cluster binding
+P0A746	iron ion binding|peptide-methionine (R)-S-oxide reductase activity|zinc ion binding
+P33225	electron carrier activity|molybdenum ion binding|trimethylamine-N-oxide reductase (cytochrome c) activity
+P0A9H7	cyclopropane-fatty-acyl-phospholipid synthase activity
+P0CF62	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity
+P0A998	ferric iron binding|ferroxidase activity
+P77366	beta-phosphoglucomutase activity
+P0AGE6	oxidoreductase activity|FMN binding
+P0ABE9	carbonate dehydratase activity
+P0AB74	tagatose-bisphosphate aldolase activity
+P23895	antiporter activity
+P0ACL9	sequence-specific DNA binding transcription factor activity
+P77256	aldo-keto reductase (NADP) activity
+P39901	autoinducer-2 kinase activity
+P77165	aldehyde ferredoxin oxidoreductase activity
+P69820	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+P0ACB2	polyamine-transporting ATPase activity
+P69902	formyl-CoA transferase activity
+P0A7U7	structural constituent of ribosome
+P0ADR6	mannose-6-phosphate isomerase activity|rRNA (cytosine-2'-O-)-methyltransferase activity
+P26648	2 iron, 2 sulfur cluster binding|protein homodimerization activity
+P0ACY1	FMN binding
+P0A9J0	ribonuclease G activity
+P60932	undecaprenyl-diphosphatase activity
+P77434	L-alanine:2-oxoglutarate aminotransferase activity
+P0AGE4	neutral amino acid:sodium symporter activity
+P76316	D-cysteine desulfhydrase activity
+P60472	di-trans,poly-cis-decaprenylcistransferase activity
+P0A8K8	cadmium ion binding|manganese ion binding|zinc ion binding|L-threonine 3-dehydrogenase activity
+P0A9K9	unfolded protein binding|peptidyl-prolyl cis-trans isomerase activity|nickel ion binding|zinc ion binding
+P76474	substrate-specific transmembrane transporter activity
+P0AD42	tRNA-specific adenosine deaminase activity
+P52095	intramolecular transferase activity
+P0AEY3	nucleoside-triphosphate diphosphatase activity
+P0A937	protein binding, bridging
+P39300	manganese ion binding|L-ascorbate 6-phosphate lactonase activity
+P13000	dethiobiotin synthase activity
+P64606	phospholipid binding|phospholipid transporter activity
+P40191	magnesium ion binding|pyridoxal kinase activity|ATP binding
+P27128	lipopolysaccharide 3-alpha-galactosyltransferase activity
+P76547	D-sedoheptulose 7-phosphate isomerase activity
+P23522	2-dehydro-3-deoxyglucarate aldolase activity
+P69210	spermidine transmembrane transporter activity
+P78067	sulfurtransferase activity
+P0AF73	rRNA (guanosine-2'-O-)-methyltransferase activity
+P00926	D-serine ammonia-lyase activity|pyridoxal phosphate binding|hydro-lyase activity
+P77214	copper ion binding|transition metal ion binding|copper chaperone activity
+P37692	transferase activity, transferring glycosyl groups
+P16095	L-serine ammonia-lyase activity
+P77150	pyridoxal kinase activity
+P23909	mismatched DNA binding|adenine/cytosine mispair binding|ATPase activity
+P0A6R3	sequence-specific DNA binding
+Q59385	glutaminase activity
+Q47149	endoribonuclease activity
+P0AC13	dihydropteroate synthase activity
+P0A7D4	adenylosuccinate synthase activity
+P0A8G6	FMN binding|oxidoreductase activity, acting on NADH or NADPH, quinone or similar compound as acceptor
+P0AAN3	nickel ion binding|GTPase activity|zinc ion binding
+P09151	acetyl-CoA C-acetyltransferase activity
+P0A9P9	gluconate 5-dehydrogenase activity
+P45394	galactose binding
+Q46893	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity
+P33226	electron carrier activity
+P75736	thiolester hydrolase activity|carboxylesterase activity
+P60595	glutamate-ammonia ligase activity
+P52074	glycolate dehydrogenase activity
+P0A9B6	NAD binding|erythrose-4-phosphate dehydrogenase activity|glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+P0AEW4	ferrous iron binding|3',5'-cyclic-AMP phosphodiesterase activity
+P24228	endopeptidase activity|serine-type D-Ala-D-Ala carboxypeptidase activity|carboxypeptidase activity|penicillin binding
+P31142	3-mercaptopyruvate sulfurtransferase activity
+P0ADV1	glycolipid transporter activity
+P77522	4 iron, 4 sulfur cluster binding
+P45568	1-deoxy-D-xylulose-5-phosphate reductoisomerase activity
+P0A7T3	structural constituent of ribosome
+P77239	copper ion binding|transition metal ion binding
+P75897	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+P24173	transferase activity, transferring glycosyl groups
+P28224	lysozyme inhibitor activity
+P0A7Z4	zinc ion binding
+P15723	manganese ion binding|dGTPase activity|magnesium ion binding|cobalt ion binding|GTPase activity
+P0AEC3	two-component sensor activity|histidine phosphotransfer kinase activity
+P76630	efflux transmembrane transporter activity|L-valine transmembrane transporter activity
+P36659	bent DNA binding
+P27243	O antigen ligase activity
+P11553	L-fuculokinase activity
+P32056	GDP-glucosidase activity|manganese ion binding|magnesium ion binding
+Q46925	pyridoxal phosphate binding|sulfurtransferase activity
+P0A6P9	phosphopyruvate hydratase activity|protein binding|magnesium ion binding
+P0AAB4	3-octaprenyl-4-hydroxybenzoate carboxy-lyase activity
+P0A7V3	structural constituent of ribosome|SSU rRNA binding
+P76008	carboxypeptidase activity
+P96329	glutaminase activity
+P76245	diguanylate cyclase activity
+P0A9C9	manganese ion binding|fructose 1,6-bisphosphate 1-phosphatase activity
+P27253	cobalamin binding|methylmalonyl-CoA mutase activity
+P0AFG8	lipoic acid binding|dihydrolipoyllysine-residue acetyltransferase activity
+P32662	chloride ion binding|magnesium ion binding|phosphoglycolate phosphatase activity
+P77712	acyl-CoA thioesterase activity
+P06134	zinc ion binding
+Q47269	bubble DNA binding
+P39414	antiporter activity
+P37313	dipeptide transporter activity|heme transporter activity
+P17443	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity
+P76339	protein kinase activity
+P0A843	protein transporter activity
+P30750	ATPase activity|D-methionine transmembrane transporter activity|ATP binding
+P33234	sequence-specific DNA binding transcription factor activity
+P03856	N-acetylmuramoyl-L-alanine amidase activity
+P32137	cadmium ion transmembrane transporter activity|ferrous iron transmembrane transporter activity|zinc efflux active transmembrane transporter activity
+Q46810	cytidylyltransferase activity
+P19926	glucose-1-phosphatase activity|3-phytase activity|protein homodimerization activity
+P0AAI3	manganese ion binding|CTPase activity|ATPase activity|zinc ion binding
+P52101	two-component sensor activity
+P0AFH2	tripeptide transporter activity|oligopeptide-transporting ATPase activity
+P22564	ribosylpyrimidine nucleosidase activity|purine nucleosidase activity|adenosine nucleosidase activity|uridine nucleosidase activity|inosine nucleosidase activity
+P26459	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor
+P0ADZ4	structural constituent of ribosome|rRNA binding
+P76562	tRNA binding|tRNA N-acetyltransferase activity
+P21888	cysteine-tRNA ligase activity|RNA binding|zinc ion binding|metal ion binding|ATP binding
+P77671	allantoinase activity|cobalt ion binding|zinc ion binding
+P0ACG8	single-stranded RNA binding|DNA binding|ribosomal large subunit binding
+P69822	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+P37353	o-succinylbenzoate-CoA ligase activity
+P69783	CTP synthase activity
+P39406	rRNA (guanine-N2-)-methyltransferase activity
+P80644	FMN reductase activity
+P21693	ADP binding|DNA/RNA helicase activity|RNA helicase activity|ATP-dependent 3'-5' RNA helicase activity|rRNA binding|ATPase activity|ATP binding
+P0AEK7	electron carrier activity|formate dehydrogenase (NAD+) activity
+P0AG24	guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity
+P0ABZ4	3-deoxy-manno-octulosonate-8-phosphatase activity
+P41409	ribosylpyrimidine nucleosidase activity|uridine nucleosidase activity|calcium ion binding
+P00509	L-aspartate:2-oxoglutarate aminotransferase activity|pyridoxal phosphate binding|L-tyrosine:2-oxoglutarate aminotransferase activity|kynurenine-oxoglutarate transaminase activity
+P27838	ferric iron binding|ferrous iron binding
+P31660	2-methylcitrate synthase activity
+P0A6X3	bent DNA binding
+P75713	ureidoglycine aminohydrolase activity|manganese ion binding
+P0ABT8	transmembrane transporter activity
+P69503	adenine phosphoribosyltransferase activity|magnesium ion binding|identical protein binding
+P23524	kinase activity
+P37909	electron carrier activity|2 iron, 2 sulfur cluster binding
+P26365	N-acetylmuramoyl-L-alanine amidase activity
+P36930	malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+) activity
+P76541	zinc ion binding
+P75728	2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase activity
+P0ACY3	protein kinase activity
+P16384	tRNA dimethylallyltransferase activity
+P75946	enzyme binding
+P0AA16	two-component response regulator activity
+P25772	DNA ligase (NAD+) activity
+P62623	ribosylpyrimidine nucleosidase activity|purine nucleosidase activity|adenosine nucleosidase activity|uridine nucleosidase activity|inosine nucleosidase activity
+Q47719	protein-lysine N-methyltransferase activity
+P75989	sequence-specific DNA binding transcription factor activity
+P08178	pyridoxal phosphate binding|metal ion binding|ligase activity
+P0AC23	formate transmembrane transporter activity
+P0AEP1	galactose:hydrogen symporter activity
+P0A8Z0	acyl-CoA thioesterase activity
+P37019	chloride ion binding|solute:hydrogen antiporter activity|anion binding
+A5A628	metal ion binding
+P0A6C8	acetylornithine deacetylase activity
+P0AF98	lipopolysaccharide-transporting ATPase activity
+P0ACN4	sequence-specific DNA binding transcription factor activity
+P33590	nickel ion binding|heme binding
+P0A9F1	sequence-specific DNA binding transcription factor activity
+P33195	glycine dehydrogenase (decarboxylating) activity
+P69212	spermidine transmembrane transporter activity
+P0A825	glycine hydroxymethyltransferase activity|zinc ion binding
+P51981	racemase and epimerase activity, acting on amino acids and derivatives
+P41407	azobenzene reductase activity|FMN binding
+P14900	UDP-N-acetylmuramoylalanine-D-glutamate ligase activity
+P0AG07	ribulose-phosphate 3-epimerase activity
+P39835	gluconate transmembrane transporter activity
+P11868	propionate kinase activity|acetate kinase activity
+P67430	sequence-specific DNA binding transcription factor activity
+A5A619	triose-phosphate isomerase activity
+P76081	2 iron, 2 sulfur cluster binding|flavin adenine dinucleotide binding
+P0AFK6	polyamine-transporting ATPase activity
+P0AA04	enzyme activator activity
+P37689	manganese ion binding|2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity
+P0ADC3	lipoprotein transporter activity
+P0A6J8	D-alanine-D-alanine ligase activity
+P0AF26	metallochaperone activity
+P75804	quinoprotein glucose dehydrogenase activity|pyrroloquinoline quinone binding|oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor|calcium ion binding
+P62617	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity
+P40874	N-methyl-L-amino-acid oxidase activity
+P21179	catalase activity|heme binding
+P11447	argininosuccinate synthase activity|ATP binding
+P76149	succinate-semialdehyde dehydrogenase [NAD(P)+] activity|succinate-semialdehyde dehydrogenase activity
+P17315	colicin transmembrane transporter activity|siderophore transmembrane transporter activity
+P0A8D6	ribonuclease inhibitor activity
+P27305	ATP binding
+P39301	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+P75908	diguanylate cyclase activity
+P0A6K3	peptide deformylase activity|zinc ion binding
+P0AE18	metalloaminopeptidase activity|ferrous iron binding
+P61316	lipoprotein transporter activity
+P21170	arginine decarboxylase activity
+P33345	hydrolase activity, acting on ester bonds
+P0ACT2	sequence-specific DNA binding transcription factor activity
+P76577	peptidoglycan glycosyltransferase activity|drug binding
+P77354	lysozyme inhibitor activity
+P77215	L-rhamnonate dehydratase activity
+P0C0K3	protein serine/threonine kinase activity
+P77806	pyridoxal phosphate binding|methionine-oxo-acid transaminase activity
+P0AC53	glucose-1-phosphate adenylyltransferase activity
+P42632	formate C-acetyltransferase activity
+P39831	3-hydroxypropionate dehydrogenase (NADP+) activity|serine 3-dehydrogenase activity
+P30843	protein histidine kinase activity|transferase activity, transferring phosphorus-containing groups|ATP binding
+P34749	DNA binding
+P0AE06	drug transmembrane transporter activity
+P0A9Q7	acetaldehyde dehydrogenase (acetylating) activity|alcohol dehydrogenase (NAD) activity
+P0ABF8	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+P69908	glutamate decarboxylase activity
+P33599	oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (ubiquinone) activity
+P77510	two-component sensor activity
+P22255	3'(2'),5'-bisphosphate nucleotidase activity|magnesium ion binding
+P75987	anti-sigma factor antagonist activity
+P75820	N-acetyl-anhydromuramoyl-L-alanine amidase activity|zinc ion binding|N-acetylmuramoyl-L-alanine amidase activity
+P0AA70	transmembrane transporter activity
+P0ADG7	zinc ion binding
+P33602	4 iron, 4 sulfur cluster binding|oxidoreduction-driven active transmembrane transporter activity|2 iron, 2 sulfur cluster binding
+P60906	histidine-tRNA ligase activity|protein homodimerization activity
+P0AFG6	lipoic acid binding|dihydrolipoyllysine-residue succinyltransferase activity|binding
+P08192	dihydrofolate synthase activity|tetrahydrofolylpolyglutamate synthase activity
+P0AE82	two-component sensor activity
+Q9S4X5	amino acid binding|carbamoyl-phosphate synthase activity|nucleotide binding|metal ion binding|ATP binding
+P0A6L0	deoxyribose-phosphate aldolase activity
+P17115	arabinose-5-phosphate isomerase activity
+P0A6L2	dihydrodipicolinate synthase activity
+P0AD59	lysozyme inhibitor activity
+P25519	ribosome binding|rRNA binding|GTP binding|ATP binding
+P52061	nucleoside-triphosphate diphosphatase activity|magnesium ion binding
+P30860	arginine binding
+P37003	4 iron, 4 sulfur cluster binding
+P13857	peptide alpha-N-acetyltransferase activity|ribosomal-protein-alanine N-acetyltransferase activity
+P0ACI6	amino acid binding|sequence-specific DNA binding transcription factor activity
+P0C0R7	rRNA (uridine-2'-O-)-methyltransferase activity
+P0A9Q5	mRNA binding|DNA binding|zinc ion binding
+P0A9W0	L-ascorbic acid binding
+P0A6T3	galactokinase activity
+Q46896	5'-flap endonuclease activity|crossover junction endodeoxyribonuclease activity
+P37747	UDP-galactopyranose mutase activity
+P76469	protein binding|aldehyde-lyase activity|nickel ion binding|magnesium ion binding
+P80668	4-hydroxyphenylacetaldehyde dehydrogenase activity|phenylacetaldehyde dehydrogenase activity
+P0AEN8	racemase and epimerase activity, acting on carbohydrates and derivatives
+P00579	sigma factor activity
+P0AB77	pyridoxal phosphate binding|metal ion binding|ligase activity
+P0AES6	DNA-dependent ATPase activity|DNA topoisomerase (ATP-hydrolyzing) activity|DNA binding|ATP binding
+P0ADV7	phospholipid binding
+P13482	alpha,alpha-trehalase activity
+P03004	sequence-specific DNA binding
+P37646	cyclic-guanylate-specific phosphodiesterase activity
+P69922	L-fucose isomerase activity|arabinose isomerase activity
+P75864	rRNA (guanine-N2-)-methyltransferase activity
+P0ABU0	bicarbonate binding|1,4-dihydroxy-2-naphthoyl-CoA synthase activity
+P23882	methionyl-tRNA formyltransferase activity
+P0AC44	electron carrier activity|heme binding
+P0A8B5	DNA binding
+P0A9M0	ATP-dependent peptidase activity|DNA binding|ATP binding|serine-type endopeptidase activity
+Q9JMS3	structural constituent of ribosome
+P76535	ether hydrolase activity|carbon-oxygen lyase activity
+P0A9X9	RNA binding|single-stranded DNA binding|DNA binding
+P23894	metalloendopeptidase activity|zinc ion binding
+P0A8Y3	glucose-1-phosphatase activity
+P76242	transmembrane transporter activity
+P04693	aromatic-amino-acid:2-oxoglutarate aminotransferase activity|pyridoxal phosphate binding|L-tyrosine:2-oxoglutarate aminotransferase activity
+P38097	diguanylate cyclase activity
+P25539	5-amino-6-(5-phosphoribosylamino)uracil reductase activity|NADP binding|diaminohydroxyphosphoribosylaminopyrimidine deaminase activity
+P69874	polyamine-transporting ATPase activity|ATP binding
+P15047	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity
+P0ACI0	pyridoxine 5'-phosphate synthase activity
+P0A7R5	structural constituent of ribosome|tRNA binding
+P0AF16	lipid transporter activity
+P0A940	unfolded protein binding
+P33570	transketolase activity
+P63883	N-acetylmuramoyl-L-alanine amidase activity
+P17846	4 iron, 4 sulfur cluster binding|heme binding
+P0AF18	N-acetylglucosamine-6-phosphate deacetylase activity|zinc ion binding
+P0A7C2	DNA binding
+P77526	disulfide oxidoreductase activity
+P0AEB2	serine-type D-Ala-D-Ala carboxypeptidase activity|carboxypeptidase activity|penicillin binding
+P40711	aminoacyl-tRNA hydrolase activity
+P37773	acid-amino acid ligase activity
+P0A8L1	serine-tRNA ligase activity|magnesium ion binding
+P0A7W7	translation repressor activity|rRNA binding
+P27829	acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase activity
+P77218	phosphate acetyltransferase activity
+P42593	dihydrodipicolinate synthase activity
+P08322	acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase activity
+P30011	nicotinate-nucleotide diphosphorylase (carboxylating) activity
+P37680	L-ribulose-phosphate 4-epimerase activity
+P31133	putrescine-importing ATPase activity
+P0C0S1	mechanically-gated ion channel activity
+P67087	rRNA (cytosine-2'-O-)-methyltransferase activity
+P0AEP9	glycolate dehydrogenase activity
+P0AC19	dihydroneopterin triphosphate 2'-epimerase activity
+P0A948	ribosomal-protein-alanine N-acetyltransferase activity
+P46891	nucleoside-diphosphatase activity
+P37047	sequence-specific DNA binding transcription factor activity
+P69428	protein transporter activity|proton motive force dependent protein transmembrane transporter activity
+P0AFL1	putrescine-importing ATPase activity
+Q46790	allantoate deiminase activity|manganese ion binding|protein homodimerization activity|zinc ion binding
+P10378	(2,3-dihydroxybenzoyl)adenylate synthase activity
+P32053	prophage integrase activity
+P00448	superoxide dismutase activity|antioxidant activity|metal ion binding
+P0AGL7	rRNA (uridine-N3-)-methyltransferase activity
+P39208	gluconokinase activity
+P39371	racemase and epimerase activity, acting on carbohydrates and derivatives
+P0AAG0	dipeptide transporter activity|heme transporter activity
+P0AGD3	superoxide dismutase activity|iron ion binding
+P02918	peptidoglycan glycosyltransferase activity|serine-type D-Ala-D-Ala carboxypeptidase activity
+P76491	nucleotidase activity|cobalt ion binding
+Q46865	endoribonuclease activity
+P36881	manganese ion binding|agmatinase activity
+P66899	diaminopropionate ammonia-lyase activity
+P45425	N-acylmannosamine kinase activity
+P0ACV0	transferase activity
+P31119	long-chain fatty acid [acyl-carrier-protein] ligase activity|acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase activity
+P69451	oleic acid binding|long-chain fatty acid-CoA ligase activity
+P06983	hydroxymethylbilane synthase activity
+P76027	peptidoglycan peptide transporter activity
+P0A6A3	acetate kinase activity|zinc ion binding
+P37647	2-dehydro-3-deoxygluconokinase activity
+P76514	nucleotidase activity|cobalt ion binding
+P76084	CoA hydrolase activity
+P08201	nitrite reductase [NAD(P)H] activity
+P31553	carnitine transporter activity
+P32176	molybdopterin cofactor binding
+P0A7Z0	ribose-5-phosphate isomerase activity
+P0AD68	peptidoglycan glycosyltransferase activity|penicillin binding
+P21829	sugar-phosphatase activity|pyridoxal phosphatase activity|magnesium ion binding|phosphotransferase activity, alcohol group as acceptor
+P31135	putrescine-importing ATPase activity
+P0AFV4	endopeptidase activity
+P04391	ornithine carbamoyltransferase activity
+P42630	L-serine ammonia-lyase activity
+P33667	tRNA 2-selenouridine synthase activity
+P30126	intramolecular transferase activity
+P15373	enzyme binding|sequence-specific DNA binding transcription factor activity
+P0A9T0	phosphoglycerate dehydrogenase activity|2-hydroxyglutarate dehydrogenase activity
+P33941	peptide transporter activity
+P29208	hydro-lyase activity
+P14294	DNA topoisomerase type I activity
+P0AC35	aromatic-amino-acid:2-oxoglutarate aminotransferase activity|L-leucine:2-oxoglutarate aminotransferase activity|pyridoxal phosphate binding|protein homodimerization activity|L-tyrosine:2-oxoglutarate aminotransferase activity
+P0ABL8	heme-transporting ATPase activity
+P60720	transferase activity|catalytic activity
+P0ABQ4	dihydroorotase activity|zinc ion binding
+P0ACE7	adenosine 5'-monophosphoramidase activity
+P0AF67	identical protein binding
+P75954	peptidoglycan L,D-transpeptidase activity|transferase activity, transferring amino-acyl groups|cysteine-type carboxypeptidase activity
+P0ACG1	DNA binding
+P0AAR0	DNA binding
+P77374	selenate reductase activity
+P0A8P6	tyrosine-based site-specific recombinase activity|DNA binding|site-specific recombinase activity
+P0A9M2	protein serine/threonine kinase activity|protein serine/threonine phosphatase activity|[isocitrate dehydrogenase (NADP+)] kinase activity|AMP binding|ATP binding
+P68398	tRNA-specific adenosine deaminase activity
+P0A9V8	4-hydroxybutyrate dehydrogenase activity
+P36837	dipeptide transporter activity|tripeptide transporter activity|symporter activity
+P13039	enterochelin esterase activity
+P69910	magnesium ion binding|glutamate 5-kinase activity
+P32718	glucokinase activity|allose kinase activity
+Q9JMS6	electron carrier activity|flavin adenine dinucleotide binding
+P0AAU7	thiolester hydrolase activity|carboxylesterase activity
+P52600	phosphopyruvate hydratase activity|protein binding|magnesium ion binding
+P62517	transferase activity, transferring glycosyl groups
+P25534	2-octaprenyl-6-methoxyphenol hydroxylase activity
+P16703	cysteine synthase activity|L-cysteine desulfhydrase activity
+P06710	nucleoside-triphosphatase activity|ATPase activity|DNA polymerase processivity factor activity
+P0AA39	pseudouridine synthase activity
+P37351	ribose-5-phosphate isomerase activity|allose 6-phosphate isomerase activity
+P0ABK2	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor|iron ion binding|heme binding
+P0AEE8	site-specific DNA-methyltransferase (adenine-specific) activity
+P77395	unfolded protein binding|protein disulfide isomerase activity
+P41065	L-rhamnose isomerase activity
+P0AFF0	oxidoreduction-driven active transmembrane transporter activity|NADH dehydrogenase (ubiquinone) activity
+P0A8Y1	5'-nucleotidase activity
+P77338	mechanically-gated ion channel activity
+P0AA84	phospholipase D activity|cardiolipin synthase activity
+P68183	maltooligosaccharide-importing ATPase activity|maltose-transporting ATPase activity
+Q46851	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+P0A898	nickel ion binding
+P33022	ribosylpyrimidine nucleosidase activity|uridine nucleosidase activity|calcium ion binding
+P77044	hydrolase activity|protein homodimerization activity
+P68679	structural constituent of ribosome
+P60664	imidazoleglycerol-phosphate synthase activity
+P21514	cyclic-guanylate-specific phosphodiesterase activity
+P39829	galactarate dehydratase activity
+P31125	efflux transmembrane transporter activity
+P0A850	protein binding involved in protein folding|peptidyl-prolyl cis-trans isomerase activity|ribosome binding
+P77488	thiamine pyrophosphate binding|1-deoxy-D-xylulose-5-phosphate synthase activity
+P0A9M8	zinc ion binding|phosphate acetyltransferase activity
+P46852	quercetin 2,3-dioxygenase activity
+P0A9H9	prephenate dehydrogenase activity|protein homodimerization activity|chorismate mutase activity
+P18148	endonuclease activity
+P0AFK4	polyamine-transporting ATPase activity
+P0A847	queuine tRNA-ribosyltransferase activity|zinc ion binding
+P76045	porin activity
+P65870	6-carboxy-5,6,7,8-tetrahydropterin synthase activity
+P37330	malate synthase activity
+P0ABJ3	hydrogen ion transmembrane transporter activity|electron carrier activity|oxidoreduction-driven active transmembrane transporter activity|cytochrome bo3 ubiquinol oxidase activity
+P76010	cyclic-di-GMP binding
+P0A959	L-alanine:2-oxoglutarate aminotransferase activity
+P08204	ribulokinase activity
+P0AFP2	damaged DNA binding
+P21507	ATP-dependent RNA helicase activity
+P39453	two-component sensor activity|intramolecular transferase activity, phosphotransferases|protein homodimerization activity|phosphoprotein phosphatase activity|transferase activity, transferring phosphorus-containing groups
+P62601	alpha,alpha-trehalase activity
+P36553	manganese ion binding|tetrapyrrole binding|coproporphyrinogen oxidase activity
+P46136	L-tryptophan transmembrane transporter activity|L-tyrosine transmembrane transporter activity|L-phenylalanine transmembrane transporter activity
+P0AG63	structural constituent of ribosome|SSU rRNA binding
+P0AEP7	tartronate-semialdehyde synthase activity|thiamine pyrophosphate binding
+P37387	xylose isomerase activity
+P0ABJ9	electron carrier activity|oxidoreductase activity, acting on diphenols and related substances as donors|heme binding
+P39306	L-ribulose-phosphate 4-epimerase activity
+P0ACY9	isovaleryl-CoA dehydrogenase activity|sequence-specific DNA binding|DNA binding
+P31979	4 iron, 4 sulfur cluster binding|NAD binding
+P23841	sequence-specific DNA binding transcription factor activity
+P75893	flavin reductase activity
+P39315	oxidoreductase activity, acting on NADH or NADPH, quinone or similar compound as acceptor
+P76256	metallopeptidase activity|identical protein binding
+P45578	S-ribosylhomocysteine lyase activity
+P0A9V1	lipopolysaccharide-transporting ATPase activity
+P68187	maltooligosaccharide-importing ATPase activity|maltose-transporting ATPase activity
+P0ADF8	acetolactate synthase activity|transketolase activity
+P0A7S9	structural constituent of ribosome
+P0ABW3	electron carrier activity|2 iron, 2 sulfur cluster binding
+P77757	phosphotransferase activity, for other substituted phosphate groups
+P0A8Y8	hydrolase activity, acting on ester bonds|thiolester hydrolase activity
+P0A9D4	serine O-acetyltransferase activity
+P05523	damaged DNA binding|DNA N-glycosylase activity|DNA-(apurinic or apyrimidinic site) lyase activity|zinc ion binding|endonuclease activity
+P42592	glucosidase activity
+P0AEJ2	isochorismate synthase activity
+P30125	3-isopropylmalate dehydrogenase activity|sequence-specific DNA binding transcription factor activity
+P77783	selenate reductase activity
+P0A8N3	ligase activity|lysine-tRNA ligase activity
+P0ACB4	oxygen-dependent protoporphyrinogen oxidase activity|FMN binding|menaquinone-dependent protoporphyrinogen oxidase activity
+P78285	lysozyme activity
+P33224	isovaleryl-CoA dehydrogenase activity|sequence-specific DNA binding|DNA binding
+P36771	sequence-specific DNA binding
+P75957	lipoprotein transporter activity
+P18775	4 iron, 4 sulfur cluster binding|electron carrier activity|molybdenum ion binding|iron ion binding
+P76473	transferase activity, transferring pentosyl groups
+P0AC78	drug binding|magnesium ion binding|phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+P77454	glutaminase activity
+P75830	malate dehydrogenase activity
+P0A749	UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity
+P0A9A9	zinc ion binding
+Q46845	disulfide oxidoreductase activity|protein homodimerization activity
+P77455	enoyl-CoA hydratase activity
+P0A725	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity|deacetylase activity
+P62615	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity
+P69441	magnesium ion binding|AMP binding|adenylate kinase activity|ATP binding
+P60723	translation repressor activity
+P0AFF4	o-succinylbenzoate-CoA ligase activity
+P76458	two-component sensor activity|ATP binding
+P0ACU2	sequence-specific DNA binding transcription factor activity
+P37028	cobalamin binding
+P77247	sugar-phosphatase activity|glucose-6-phosphatase activity|2-deoxyglucose-6-phosphatase activity|metal ion binding
+P14376	two-component sensor activity
+P32169	rhamnulose-1-phosphate aldolase activity
+P37749	lipopolysaccharide-1,6-galactosyltransferase activity
+P07862	D-alanine-D-alanine ligase activity
+P0AAF1	putrescine-importing ATPase activity
+P17109	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity|thiamine pyrophosphate binding
+P0A9L8	NADP binding|pyrroline-5-carboxylate reductase activity
+P0A8N5	magnesium ion binding|ligase activity|lysine-tRNA ligase activity|ATP binding
+P75688	protein complex scaffold
+P00634	oxidoreductase activity, acting on phosphorus or arsenic in donors
+P77398	hydroxymethyl-, formyl- and related transferase activity|oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+P75782	rRNA (adenine-N6-)-methyltransferase activity
+P0CF13	sulfathiazole transporter activity
+P75792	sugar-phosphatase activity
+P0ACJ0	sequence-specific DNA binding
+P37642	transporter activity
+P31057	3-isopropylmalate dehydrogenase activity|sequence-specific DNA binding transcription factor activity
+P30844	two-component sensor activity|protein histidine kinase activity|ATP binding
+P76038	gamma-glutamyl-gamma-aminobutyrate hydrolase activity
+P0AER0	glycerol channel activity
+P39344	L-idonate transmembrane transporter activity|gluconate transmembrane transporter activity
+P32715	sulfathiazole transporter activity
+P0C0L7	solute:hydrogen symporter activity|uniporter activity
+P0A9C3	aldose 1-epimerase activity
+P0AED7	succinyl-diaminopimelate desuccinylase activity
+P0AF32	electron carrier activity
+P37610	taurine dioxygenase activity|iron ion binding
+P28248	dCTP deaminase activity
+P0A705	translation initiation factor activity
+P0ADP7	protein transporter activity|proton motive force dependent protein transmembrane transporter activity
+P0AE08	peroxidase activity|peroxiredoxin activity
+P33232	FMN binding|lactate dehydrogenase activity
+P0AB65	acylphosphatase activity
+P76129	magnesium ion binding|heme binding|cyclic-guanylate-specific phosphodiesterase activity
+P0ABP8	purine-nucleoside phosphorylase activity
+P63228	D,D-heptose 1,7-bisphosphate phosphatase activity|zinc ion binding
+P38035	sequence-specific DNA binding transcription factor activity
+P76052	succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+P39276	peptide:hydrogen symporter activity
+P0A7V0	structural constituent of ribosome|zinc ion binding
+P39220	phosphatidylglycerophosphatase activity|undecaprenyl-diphosphatase activity
+P0ABN1	diacylglycerol kinase activity
+P0AAX8	peptidoglycan L,D-transpeptidase activity|transferase activity, transferring amino-acyl groups|cysteine-type carboxypeptidase activity
+P63386	phospholipid transporter activity
+P27248	glutamate dehydrogenase (NADP+) activity
+Q46806	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides
+P30192	acetaldehyde dehydrogenase (acetylating) activity
+P31572	carnitine dehydratase activity
+P00803	peptidase activity|toxin binding
+P28861	ferredoxin-NADP+ reductase activity
+P0CF84	tyrosine-based site-specific recombinase activity|DNA binding|site-specific recombinase activity
+P37340	antibiotic transporter activity
+P0AD57	orotidine-5'-phosphate decarboxylase activity
+P0ABI8	hydrogen ion transmembrane transporter activity|electron carrier activity|ubiquinone binding|cytochrome bo3 ubiquinol oxidase activity|oxidoreduction-driven active transmembrane transporter activity|copper ion binding|heme binding
+P0AEF8	dipeptide transporter activity
+P75853	alkanesulfonate transporter activity
+P36562	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity
+P0A968	single-stranded DNA binding|RNA binding|protein homodimerization activity
+P45464	enzyme binding
+P06960	ornithine carbamoyltransferase activity
+P77555	ureidoglycolate dehydrogenase activity
+Q9JMS8	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+Q9JMT3	phosphogluconate dehydrogenase (decarboxylating) activity
+P50457	pyridoxal phosphate binding|4-aminobutyrate transaminase activity
+P0A9P0	dihydrolipoyl dehydrogenase activity|disulfide oxidoreductase activity|flavin adenine dinucleotide binding|zinc ion binding
+P0AFZ5	protein binding
+P26602	chorismate lyase activity
+P23874	protein serine/threonine kinase activity|magnesium ion binding|ATP binding
+P0ADP0	phosphatase activity
+P0AAI1	alkanesulfonate transporter activity
+P0A9S1	ferrous iron binding|lactaldehyde reductase activity
+P15042	DNA ligase (NAD+) activity
+P0AGC5	hydrolase activity, hydrolyzing O-glycosyl compounds
+P10903	inorganic anion exchanger activity|nitrite efflux transmembrane transporter activity|nitrate transmembrane transporter activity|nitrite uptake transmembrane transporter activity
+P10371	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity
+P0C960	lytic endotransglycosylase activity

@@ -1,0 +1,1 @@
+Entry Name	Peptide Sequence	MW	Charges	m/z	GRAVY

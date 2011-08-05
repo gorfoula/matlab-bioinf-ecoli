@@ -1,0 +1,9 @@
+# The contained cliques in the communities at k=10
+# from H:\Data\Complexomics\Tools\CFinderWinLinux\CFinder-2.0.5--1440\H:\Data\MATLAB\II Rotation\JoinFiles\Peripheral\TableS3_K12_ProteomeV13(for)Cyto_Peripheral_Interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# The maximal allowed time per node during clique search was 1.000000 secs.
+
+0: 3276 3278 3279 5697 5712 3277 5715 5714 5711 3860 5404 5700 6364 6719 3867 5382 5406 5408 5384 5376 5410 5395 5396 6361 6365 3956 6650 4809 6661 6716 4811 4812 6660 6720 6655 6717 4648 4651 4652 4643 5466 5465 
+1: 3315 

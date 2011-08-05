@@ -1,0 +1,8 @@
+JoinFiles/k12/TableS3_K12_ProteomeV13_BasicProteome.txt	1	2	5	1
+JoinFiles/Transcriptomics/Masuda2009_fin2.txt	1	1	8	9
+JoinFiles/Transcriptomics/Wang2007_fin.txt	1	1	5
+JoinFiles/Transcriptomics/Wang2007_noglucose_fin.txt	1	1	4
+JoinFiles/Transcriptomics/Oberto2009_fin.txt	1	1	4
+JoinFiles/Transcriptomics/Wei2001_fin.txt	1	1	4
+JoinFiles/Transcriptomics/mRNA_Taniguchi_fin.txt	1	1	6
+JoinFiles/OtherStudies/Notepad Lists/OurStudy_Feb2011CEPNonDet.txt	1	1	5

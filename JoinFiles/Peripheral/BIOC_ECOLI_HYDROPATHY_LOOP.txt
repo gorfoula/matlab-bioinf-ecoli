@@ -1,0 +1,67 @@
+Hydropathy analysis results for protein:
+    BIOC_ECOLI
+
+User Comment: 
+
+Changed residues: None
+
+All Asp charged: true
+All Glu charged: true
+All His charged: false
+    His 19 Neutral
+    His 23 Neutral
+    His 45 Neutral
+    His 59 Neutral
+    His 64 Neutral
+    His 88 Neutral
+    His 150 Neutral
+    His 161 Neutral
+    His 179 Neutral
+    His 182 Neutral
+    His 183 Neutral
+    His 208 Neutral
+    His 210 Neutral
+    His 242 Neutral
+Salt bridges: None
+Scale: WW Octanol (Oct)
+DCONH value: 0.0
+Mode: Locate
+Partitioning: bilayer to water
+Window size: 19
+
+Number of hydropathy predicted segments: 4
+
+97-115 (19) : LPLATATFDLAWSNLAVQW
+    DG = 2,99 for segment sequence
+    DG = 2,99 for most favorable 19AA centered at #106L
+    (LPLATATFDLAWSNLAVQW)
+
+135-153 (19) : VVAFTTLVQGSLPELhQAW
+    DG = 0,4 for segment sequence
+    DG = 0,4 for most favorable 19AA centered at #144G
+    (VVAFTTLVQGSLPELhQAW)
+
+173-191 (19) : QSLNGVhYQhhIQPITLWF
+    DG = 4,22 for segment sequence
+    DG = 4,22 for most favorable 19AA centered at #182h
+    (QSLNGVhYQhhIQPITLWF)
+
+230-248 (19) : WPQQQGRYPLTYhLFLGVI
+    DG = 3,49 for segment sequence
+    DG = 3,49 for most favorable 19AA centered at #239L
+    (WPQQQGRYPLTYhLFLGVI)
+
+
+Number of known transmembrane regions: 0
+
+Number of user marked segments: 0
+
+
+Working sequence:
+
+MATVNKQAIAAAFGRAAAhYEQhADLQRQSADALLAMLPQRKYThVLDAGCGPGWMSRhW
+RERhAQVTALDLSPPMLVQARQKDAADhYLAGDIESLPLATATFDLAWSNLAVQWCGNLS
+TALRELYRVVRPKGVVAFTTLVQGSLPELhQAWQAVDERPhANRFLPPDEIEQSLNGVhY
+QhhIQPITLWFDDALSAMRSLKGIGAThLhEGRDPRILTRSQLQRLQLAWPQQQGRYPLT
+YhLFLGVIARE
+

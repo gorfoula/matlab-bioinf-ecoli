@@ -1,0 +1,4 @@
+OtherStudies/ProteinsFromAllStudies.txt	1	0
+OtherStudies/OurDetList.txt	2	0
+OtherStudies/CommonCore.txt	1	0
+../Data/DataSetGO/DB_NoveV8(NoInsElemPhageEcoRhsPseudo).txt	2	1

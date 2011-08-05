@@ -1,0 +1,5 @@
+A	6708
+B	7073
+F1	735
+Potential F1	102
+Potential F1 (B)	17

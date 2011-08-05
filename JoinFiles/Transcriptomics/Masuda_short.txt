@@ -1,0 +1,21 @@
+Accession number	ECK	Gene	Protein name	emPAI Value	mRNA expression level	Copy number per cell	Sequence coverage (%)	Number of unique peptides	Mascot protein score	Number of TMDs	GRAVY score	GO cellular component	
+P0A8V2	JW3950	ECK3978	rpoB	RNA polymerase, beta subunit	27,41	3,87	1170,18	75,86	88	4999	0	-0,394	GO:0005737 cytoplasm
+P0A8T7	JW3951	ECK3979	rpoC	RNA polymerase, beta prime subunit	28,29	3,95	1206,59	74,13	97	4850	0	0.000	GO:0005737 cytoplasm
+P0AFG8	JW0110	ECK0113	aceE	pyruvate dehydrogenase, decarboxylase component E1, thiamin-binding	47,33	7	3842,58	78,24	72	3966	0	-0,437	0
+P00968	JW0031	ECK0034	carB	carbamoyl-phosphate synthase large subunit	30,62	1,36	1302,81	67,29	71	3749	0	-0,162	0
+P0AG67	JW0894	ECK0902	rpsA	30S ribosomal subunit protein S1	185,32	14	7463,64	89,05	55	3466	0	0.000	GO:0009281 cytosolic ribosome (sensu Bacteria) -!- GO:0005737 cytoplasm
+P0A705	JW3137	ECK3157	infB	fused protein chain initiation factor 2, IF2	15,47	2	672,06	72	57	3053	0	-0,533	GO:0005737 cytoplasm
+P63284	JW2573	ECK2590	clpB	protein disaggregation chaperone	12,53	4,39	547,85	69,31	56	3047	0	-0,358	GO:0005737 cytoplasm
+P36683	JW0114	ECK0117	acnB	bifunctional aconitate hydratase 2 -!- 2-methylisocitrate dehydratase	33,55	9,64	739,77	73,53	56	2995	0	-0,117	0
+P0A6M8	JW3302	ECK3327	fusA	protein chain elongation factor EF-G	48,03	12,97	2.016	74,72	43	2995	0	-0,286	GO:0005737 cytoplasm
+P07395	JW1703	ECK1711	pheT	phenylalanine tRNA synthetase, beta subunit	21,68	4,93	932	70,69	51	2751	0	-0,097	GO:0005737 cytoplasm
+P09373	JW0886	ECK0894	pflB	pyruvate formate lyase I	19,59	12,47	641,14	73,68	48	2739	0	0.000	GO:0005737 cytoplasm
+P0A6Y8	JW0013	ECK0014	dnaK	chaperone Hsp70, co-chaperone with DnaJ	42,75	10,49	1.801	76,18	48	2708	0	-0,409	GO:0005737 cytoplasm
+P00957	JW2667	ECK2692	alaS	alanyl-tRNA synthetase	6,16	7,74	275,23	61,99	45	2641	0	-0,303	GO:0005737 cytoplasm
+P0AFG3	JW0715	ECK0714	sucA	2-oxoglutarate decarboxylase, thiamin-requiring	14,44	8,01	628,64	66,13	47	2519	0	-0,441	0
+P00956	JW0024	ECK0027	ileS	isoleucyl-tRNA synthetase	10,31	1,57	453,48	67,16	51	2490	0	-0,263	GO:0005737 cytoplasm
+P07813	JW0637	ECK0635	leuS	leucyl-tRNA synthetase	14	1,81	626,95	60,23	49	2487	0	-0,368	GO:0005737 cytoplasm
+P00961	JW3530	ECK3547	glyS	glycine tRNA synthetase, beta subunit	24,88	1	1065,31	78,96	52	2433	0	-0,219	GO:0005737 cytoplasm
+P33602	JW2278	ECK2277	nuoG	NADH:ubiquinone oxidoreductase, chain G	8,57	7,82	379,07	52,64	41	2424	0	-0,318	GO:0005737 cytoplasm
+P09546	JW0999	ECK1005	putA	fused DNA-binding transcriptional regulator -!- proline dehydrogenase -!- pyrroline-5-carboxylate dehydrogenase	5,74	4,08	257,02	47,95	48	2389	0	-0,131	GO:0005737 cytoplasm
+P0A850	JW0426	ECK0430	tig	peptidyl-prolyl cis/trans isomerase (trigger factor)	67,13	7,03	2788,66	77,08	42	2385	0	-0,428	GO:0005737 cytoplasm

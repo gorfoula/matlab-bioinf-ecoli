@@ -1,0 +1,6 @@
+JoinFiles/GOAnnotations/Uniprot_BP.txt	1	1	2
+JoinFiles/GOAnnotations/Uniprot_MF.txt	1	1	2
+JoinFiles/GOAnnotations/EcoCyc__BP.txt	1	1	2
+JoinFiles/GOAnnotations/EcoCyc__MF.txt	1	1	2
+JoinFiles/GOAnnotations/EcoWiki__BP.txt	1	1	2
+JoinFiles/GOAnnotations/EcoWiki__MF.txt	1	1	2

@@ -1,0 +1,13 @@
+# The node membership distr. in the  communities at k=7
+# from H:\Data\Complexomics\Tools\CFinderWinLinux\CFinder-2.0.5--1440\H:\Data\MATLAB\II Rotation\JoinFiles\Peripheral\TableS3_K12_ProteomeV13(for)Cyto_Peripheral_Interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# The maximal allowed time per node during clique search was 1.000000 secs.
+
+0 1873
+1 102
+2 14
+3 1
+4 2
+

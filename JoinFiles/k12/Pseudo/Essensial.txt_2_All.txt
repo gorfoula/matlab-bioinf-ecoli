@@ -1,0 +1,11 @@
+P76023	ychS		b1228	JW5881	YCHS_ECOLI		Uncertain		Putative uncharacterized protein ychS		Complete proteome	91	b1228	b1228	1285932	1286207	1	hypothetical protein	E	?
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b1736&sort=score")	celC	b1736	1817479	1817829	-1	PEP-dependent	E	F
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4386&sort=score")	lplA	b4386	4621124	4622140	-1	lipoate-protein ligase A	E	F
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b0364&sort=score")	yaiS	b0364	383283	383693	-1	Putative conserved	E	?
+P76123	yddK		b1471	JW1467	YDDK_ECOLI		Uncertain		Putative uncharacterized protein yddK	GO:0005515	"Complete proteome; Leucine-rich repeat; Repeat"	318	yddK	b1471	1542782	1543738	-1	putative glycoportein	E	?
+P77519	yddL		b1472	JW1468	YDDL_ECOLI		Uncertain		Putative uncharacterized protein yddL	"GO:0016020; GO:0005215"	"Complete proteome; Signal"	96	yddL	b1472	1543762	1544052	-1	putative outer membrane porin	E	?
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4047&sort=score")	yjbL	b4047	4258344	4258598	1	orf hypothetical protein	E	?
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4048&sort=score")	yjbM	b4048	4258622	4259329	1	orf hypothetical protein	E	?
+P76613	ypjC		b2650	JW5424	YPJC_ECOLI		Uncertain		Putative uncharacterized protein ypjC		Complete proteome	160	ypjC	b2650	2782551	2783033	-1	orf hypothetical protein	E	?
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4215&sort=score")	ytfI	b4215	4435730	4436668	1	orf hypothetical protein	E	?
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4228 b4485&sort=score")	ytfR	b4228 b4485	4449081	4450583	1	putative ATP-binding	E	?

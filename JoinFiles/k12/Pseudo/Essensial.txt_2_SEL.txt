@@ -1,0 +1,4 @@
+P76023	ychS		b1228	JW5881	YCHS_ECOLI		Uncertain		Putative uncharacterized protein ychS		Complete proteome	91	b1228	b1228	1285932	1286207	1	hypothetical protein	E	?
+P76123	yddK		b1471	JW1467	YDDK_ECOLI		Uncertain		Putative uncharacterized protein yddK	GO:0005515	"Complete proteome; Leucine-rich repeat; Repeat"	318	yddK	b1471	1542782	1543738	-1	putative glycoportein	E	?
+P77519	yddL		b1472	JW1468	YDDL_ECOLI		Uncertain		Putative uncharacterized protein yddL	"GO:0016020; GO:0005215"	"Complete proteome; Signal"	96	yddL	b1472	1543762	1544052	-1	putative outer membrane porin	E	?
+P76613	ypjC		b2650	JW5424	YPJC_ECOLI		Uncertain		Putative uncharacterized protein ypjC		Complete proteome	160	ypjC	b2650	2782551	2783033	-1	orf hypothetical protein	E	?

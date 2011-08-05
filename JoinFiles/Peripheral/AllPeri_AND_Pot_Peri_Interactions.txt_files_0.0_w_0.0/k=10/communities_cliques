@@ -1,0 +1,8 @@
+# The contained cliques in the communities at k=10
+# from H:\Data\Complexomics\Tools\CFinderWinLinux\CFinder-2.0.5--1440\H:\Data\MATLAB\II Rotation\JoinFiles\Peripheral\AllPeri_AND_Pot_Peri_Interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# The maximal allowed time per node during clique search was 3.000000 secs.
+
+0: 2896 4681 5022 4663 4682 4694 4671 4669 4695 4690 4691 4171 5036 4172 5029 5037 4946 3747 4947 4939 

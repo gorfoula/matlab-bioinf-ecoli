@@ -1,0 +1,680 @@
+K12 Accession_Subcellular Location(this study)	Subcellular Location(this study)	Accession (UNIPROT)	K12 Accession	BL21(DE3) Accession	GOs	Description (Uniprot)	NG001	1DG010_flot	1DG011_flot (L1) wt	1DG011_IMVs (L3) wt
+RS2_A	A	P0A7V0	RS2_ECOLI	C6EAB6	A	30S ribosomal protein S2	+ 	+ 	+ 	+ 
+RL20_A	A	P0A7L3	RL20_ECOLI	C6ECP1	A	50S ribosomal protein L20	+ 	+ 	+ 	+ 
+RPOC_A	A	P0A8T7	RPOC_ECOLI	C6EE31	A	DNA-directed RNA polymerase (EC 2.7.7.6)	+ 	+ 	+ 	+ 
+RL10_A	A	P0A7J3	RL10_ECOLI	C6EE34	A	50S ribosomal protein L10	+ 	+ 	+ 	+ 
+RL1_A	A	P0A7L0	RL1_ECOLI	C6EE35	A	50S ribosomal protein L1	+ 	+ 	+ 	+ 
+RL11_A	A	P0A7J7	RL11_ECOLI	C6EE36	A	50S ribosomal protein L11	+ 	+ 	+ 	+ 
+RHLB_A	A	P0A8J8	RHLB_ECOLI	C6EG33	A	ATP-dependent RNA helicase (DEAD/DEAH box helicase domain protein)	+ 	+ 	+ 	+ 
+RS7_A	A	P02359	RS7_ECOLI	C6EGC3	A	30S ribosomal protein S7	+ 	+ 	+ 	+ 
+RL2_A	A	P60422	RL2_ECOLI	C6EGE9	A	50S ribosomal protein L2	+ 	+ 	+ 	+ 
+RL22_A	A	P61175	RL22_ECOLI	C6EGF1	A	50S ribosomal protein L22	+ 	+ 	+ 	+ 
+RS3_A	A	P0A7V3	RS3_ECOLI	C6EGF2	A	30S ribosomal protein S3	+ 	+ 	+ 	+ 
+RL14_A	A	P0ADY3	RL14_ECOLI	C6EGF6	A	50S ribosomal protein L14	+ 	+ 	+ 	+ 
+RL5_A	A	P62399	RL5_ECOLI	C6EGF8	A	50S ribosomal protein L5	+ 	+ 	+ 	+ 
+RS14_A	A	P0AG59	RS14_ECOLI	C6EGF9	A	30S ribosomal protein S14 (Ribosomal protein S14)	+ 	+ 	+ 	+ 
+RL18_A	A	P0C018	RL18_ECOLI	C6EGG2	A	50S ribosomal protein L18	+ 	+ 	+ 	+ 
+RS5_A	A	P0A7W1	RS5_ECOLI	C6EGG3	A	30S ribosomal protein S5	+ 	+ 	+ 	+ 
+RL15_A	A	P02413	RL15_ECOLI	C6EGG5	A	50S ribosomal protein L15	+ 	+ 	+ 	+ 
+RS13_A	A	P0A7S9	RS13_ECOLI	C6EGG8	A	30S ribosomal protein S13	+ 	+ 	+ 	+ 
+RS11_A	A	P0A7R9	RS11_ECOLI	C6EGG9	A	30S ribosomal protein S11	+ 	+ 	+ 	+ 
+RS4_A	A	P0A7V8	RS4_ECOLI	C6EGH0	A	30S ribosomal protein S4	+ 	+ 	+ 	+ 
+RL17_A	A	P0AG44	RL17_ECOLI	C6EGH2	A	50S ribosomal protein L17	+ 	+ 	+ 	+ 
+RL13_A	A	P0AA10	RL13_ECOLI	C6EH01	A	50S ribosomal protein L13	+ 	+ 	+ 	+ 
+RS9_A	A	P0A7X3	RS9_ECOLI	C6EH02	A	30S ribosomal protein S9	+ 	+ 	+ 	+ 
+LACI_A	A	P03023	LACI_ECOLI	C6EJI7	A	"Transcriptional regulator, LacI family"	+ 	+ 	+ 	+ 
+YBBO_A	A	P0AFP4	YBBO_ECOLI	C6EKX1	A	Short-chain dehydrogenase/reductase SDR	+ 	+ 	+ 	+ 
+ADD_A	A	P22333	ADD_ECOLI	C6EDM4	A	Adenosine deaminase (EC 3.5.4.4) (Adenosine aminohydrolase)	+ 	+ 	 	 
+YGAU_A	A	P0ADE6	YGAU_ECOLI	C6EJW0	A	Peptidoglycan-binding LysM (Putative uncharacterized protein ygaU)	+ 	+ 	 	 
+RS18_A	A	P0A7T7	RS18_ECOLI	C6ECE7	A	30S ribosomal protein S18	+ 	 	+ 	+ 
+RS17_A	A	P0AG63	RS17_ECOLI	C6EGF5	A	30S ribosomal protein S17	+ 	 	 	+ 
+ACCD_A	A	P0A9Q5	ACCD_ECOLI	C6ELD7	A	"Acetyl-CoA carboxylase subunit beta (EC 6.4.1.2) (Acetyl-CoA carboxylase, carboxyl transferase, beta subunit)"	 	+ 	+ 	+ 
+FADJ_A	A	P77399	FADJ_ECOLI	C6ELB3	A	Fatty acid oxidation complex subunit alpha	 	+ 	+ 	+ 
+FADI_A	A	P76503	FADI_ECOLI	C6ELB2	A	3-ketoacyl-CoA thiolase (EC 2.3.1.16) (ACSs) (Acetyl-CoA acyltransferase) (Acyl-CoA ligase) (Beta-ketothiolase) (Fatty acid oxidation complex subunit beta)	 	+ 	+ 	+ 
+TIG_A	A	P0A850	TIG_ECOLI	C6EL29	A	Trigger factor (TF)	 	+ 	+ 	+ 
+HEMH_A	A	P23871	HEMH_ECOLI	C6EKY9	A	Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase)	 	+ 	+ 	+ 
+ISPG_A	A	P62620	ISPG_ECOLI	C6EKJ4	A	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.7.1) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase)	 	+ 	+ 	+ 
+SRMB_A	A	P21507	SRMB_ECOLI	C6EK10	A	ATP-dependent RNA helicase (EC 2.7.7.-) (DEAD/DEAH box helicase domain protein)	 	+ 	+ 	+ 
+YFIF_A	A	P0AGJ5	YFIF_ECOLI	C6EK05	A	Predicted methyltransferase (EC 2.1.1.-) (tRNA/rRNA methyltransferase (SpoU))	 	+ 	+ 	+ 
+RL19_A	A	P0A7K6	RL19_ECOLI	C6EJY6	A	50S ribosomal protein L19	 	+ 	+ 	+ 
+SYA_A	A	P00957	SYA_ECOLI	C6EJT4	A	Alanyl-tRNA synthetase (EC 6.1.1.7) (Alanine--tRNA ligase)	 	+ 	+ 	+ 
+ODO2_A	A	P0AFG6	ODO2_ECOLI	C6EJL1	A	"2-oxoglutarate dehydrogenase, E2 subunit, dihydrolipoamide succinyltransferase (Dihydrolipoamide acetyltransferase) (EC 2.3.1.61)"	 	+ 	+ 	+ 
+ENO_A	A	P0A6P9	ENO_ECOLI	C6EJ93	A	Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	 	+ 	+ 	+ 
+RELA_A	A	P0AG20	RELA_ECOLI	C6EJ88	A	"(P)ppGpp synthetase I, SpoT/RelA (EC 2.7.6.5) ((P)ppGpp synthetase I/GTP pyrophosphokinase) (EC 2.7.6.5)"	 	+ 	+ 	+ 
+PFLB_A	A	P09373	PFLB_ECOLI	C6EI79	A	Formate acetyltransferase (EC 2.3.1.54) (Pyruvate formate lyase I) (EC 2.3.1.54)	 	+ 	+ 	+ 
+RS1_A	A	P0AG67	RS1_ECOLI	C6EI71	A	30S ribosomal protein S1 (Ribosomal protein S1)	 	+ 	+ 	+ 
+MUKB_A	A	P22523	MUKB_ECOLI	C6EI58	A	Chromosome partition protein mukB (Structural maintenance of chromosome-related protein)	 	+ 	+ 	+ 
+YGIB_A	A	P0ADT2	YGIB_ECOLI	C6EHV7	A	UPF0441 protein ygiB	 	+ 	+ 	+ 
+RPOD_A	A	P00579	RPOD_ECOLI	C6EHS8	A	RNA polymerase sigma factor	 	+ 	+ 	+ 
+PLSX_A	A	P27247	PLSX_ECOLI	C6EHC4	A	Fatty acid/phospholipid synthesis protein PlsX	 	+ 	+ 	+ 
+FABG_A	A	P0AEK2	FABG_ECOLI	C6EHC1	A	3-oxoacyl-(Acyl-carrier-protein) reductase (3-oxoacyl-[acyl-carrier-protein] reductase) (EC 1.1.1.100)	 	+ 	+ 	+ 
+DEAD_A	A	P0A9P6	DEAD_ECOLI	C6EH63	A	ATP-dependent RNA helicase (DEAD/DEAH box helicase domain protein)	 	+ 	+ 	+ 
+PNP_A	A	P05055	PNP_ECOLI	C6EH61	A	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	 	+ 	+ 	+ 
+IF2_A	A	P0A705	IF2_ECOLI	C6EH57	A	Translation initiation factor IF-2	 	+ 	+ 	+ 
+RL21_A	A	P0AG48	RL21_ECOLI	C6EH41	A	50S ribosomal protein L21	 	+ 	+ 	+ 
+KPRS_A	A	P0A717	KPRS_ECOLI	C6EGQ9	A	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	 	+ 	+ 	+ 
+RPOA_A	A	P0A7Z4	RPOA_ECOLI	C6EGH1	A	"DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6) (DNA-directed RNA polymerase, alpha subunit)"	 	+ 	+ 	+ 
+RL6_A	A	P0AG55	RL6_ECOLI	C6EGG1	A	50S ribosomal protein L6	 	+ 	+ 	+ 
+RS8_A	A	P0A7W7	RS8_ECOLI	C6EGG0	A	30S ribosomal protein S8	 	+ 	+ 	+ 
+RL24_A	A	P60624	RL24_ECOLI	C6EGF7	A	50S ribosomal protein L24	 	+ 	+ 	+ 
+RL16_A	A	P0ADY7	RL16_ECOLI	C6EGF3	A	50S ribosomal protein L16	 	+ 	+ 	+ 
+RL23_A	A	P0ADZ0	RL23_ECOLI	C6EGE8	A	50S ribosomal protein L23	 	+ 	+ 	+ 
+RL4_A	A	P60723	RL4_ECOLI	C6EGE7	A	50S ribosomal protein L4	 	+ 	+ 	+ 
+RL3_A	A	P60438	RL3_ECOLI	C6EGE6	A	50S ribosomal protein L3	 	+ 	+ 	+ 
+EFG_A	A	P0A6M8	EFG_ECOLI	C6EGC4	A	Elongation factor G (EF-G)	 	+ 	+ 	+ 
+RS12_A	A	P0A7S3	RS12_ECOLI	C6EGC2	A	30S ribosomal protein S12	 	+ 	+ 	+ 
+CRP_A	A	P0ACJ8	CRP_ECOLI	C6EGA6	A	"DNA-binding transcriptional dual regulator (Transcriptional regulator, Crp/Fnr family)"	 	+ 	+ 	+ 
+HDFR_A	A	P0A8R9	HDFR_ECOLI	C6EG46	A	HTH-type transcriptional regulator hdfR (H-NS-dependent flhDC regulator)	 	+ 	+ 	+ 
+RHO_A	A	P0AG30	RHO_ECOLI	C6EG30	A	Transcription termination factor Rho	 	+ 	+ 	+ 
+WECG_A	A	P27836	WECG_ECOLI	C6EG17	A	"Glycosyl transferase, WecB/TagA/CpsF family (EC 2.4.1.187) (Putative UDP-N-acetyl-D-mannosaminuronic acid transferase) (EC 2.4.1.-)"	 	+ 	+ 	+ 
+CYSB_A	A	P0A9F3	CYSB_ECOLI	C6EFW2	A	"DNA-binding transcriptional dual regulator, O-acetyl-L-serine-binding (Transcriptional regulator, LysR family)"	 	+ 	+ 	+ 
+GLPK_A	A	P0A6F3	GLPK_ECOLI	C6EEX2	A	Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase) (Glycerokinase)	 	+ 	+ 	+ 
+HSLU_A	A	P0A6H5	HSLU_ECOLI	C6EE78	A	ATP-dependent protease ATPase subunit HslU (Heat shock protein HslU) (Unfoldase HslU)	 	+ 	+ 	+ 
+STHA_A	A	P27306	STHA_ECOLI	C6EE47	A	Soluble pyridine nucleotide transhydrogenase (STH) (EC 1.6.1.1) (NAD(P)(+) transhydrogenase [B-specific])	 	+ 	+ 	+ 
+METH_A	A	P13009	METH_ECOLI	C6EE05	A	B12-dependent methionine synthase (EC 2.1.1.13) (Methionine synthase)	 	+ 	+ 	+ 
+KBL_A	A	P0AB77	KBL_ECOLI	C6EDH2	A	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	 	+ 	+ 	+ 
+RFAC_A	A	P24173	RFAC_ECOLI	C6EDG9	A	ADP-heptose:LPS heptosyl transferase I (EC 2.-.-.-) (Lipopolysaccharide heptosyltransferase I)	 	+ 	+ 	+ 
+RFAP_A	A	P25741	RFAP_ECOLI	C6EDG1	A	Lipopolysaccharide kinase	 	+ 	+ 	+ 
+RL28_A	A	P0A7M2	RL28_ECOLI	C6EDF4	A	50S ribosomal protein L28	 	+ 	+ 	+ 
+CH60_A	A	P0A6F5	CH60_ECOLI	C6ECY2	A	60 kDa chaperonin (Protein Cpn60) (groEL protein)	 	+ 	+ 	+ 
+YDIJ_A	A	P77748	YDIJ_ECOLI	C6ECR9	A	FAD linked oxidase domain protein (Predicted FAD-linked oxidoreductase)	 	+ 	+ 	+ 
+GYRB_A	A	P0AES6	GYRB_ECOLI	C6ECI0	A	DNA gyrase subunit B (EC 5.99.1.3)	 	+ 	+ 	+ 
+RL9_A	A	P0A7R1	RL9_ECOLI	C6ECE6	A	50S ribosomal protein L9	 	+ 	+ 	+ 
+PROQ_A	A	P45577	PROQ_ECOLI	C6EBZ8	A	ProQ activator of osmoprotectant transporter ProP (Putative solute/DNA competence effector)	 	+ 	+ 	+ 
+DEOB_A	A	P0A6K6	DEOB_ECOLI	C6EBI8	A	Phosphopentomutase (EC 5.4.2.7) (Phosphodeoxyribomutase)	 	+ 	+ 	+ 
+CARB_A	A	P00968	CARB_ECOLI	C6EB19	A	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase ammonia chain)	 	+ 	+ 	+ 
+ACON2_A	A	P36683	ACON2_ECOLI	C6EAT9	A	Aconitate hydratase 2 (EC 4.2.1.3)	 	+ 	+ 	+ 
+GSA_A	A	P23893	GSA_ECOLI	C6EAD0	A	"Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase)"	 	+ 	+ 	+ 
+ACCA_A	A	P0ABD5	ACCA_ECOLI	C6EAA0	A	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 6.4.1.2)	 	+ 	+ 	+ 
+ARNA_A	A	P77398	ARNA_ECOLI	C6E9U5	A	Bifunctional polymyxin resistance protein ArnA	 	+ 	+ 	+ 
+RADA_A	A	P24554	RADA_ECOLI	C6EBI2	A	DNA repair protein radA	 	+ 	+ 	 
+YFCH_A	A	P77775	YFCH_ECOLI	C6ELE9	A	Conserved protein with NAD(P)-binding Rossmann-fold domain (Putative uncharacterized protein)	 	+ 	 	+ 
+FABB_A	A	P0A953	FABB_ECOLI	C6ELD0	A	3-oxoacyl-(Acyl carrier protein) synthase (EC 2.3.1.41) (Beta-ketoacyl synthase)	 	+ 	 	+ 
+CYSK_A	A	P0ABK5	CYSK_ECOLI	C6EL63	A	Cysteine synthase (EC 2.5.1.47)	 	+ 	 	+ 
+ISCS_A	A	P0A6B7	ISCS_ECOLI	C6EKH7	A	Cysteine desulfurase (EC 2.8.1.7)	 	+ 	 	+ 
+PHOL_A	A	P0A9K3	PHOL_ECOLI	C6EK35	A	PhoH family protein (Predicted protein with nucleoside triphosphate hydrolase domain)	 	+ 	 	+ 
+SUCD_A	A	P0AGE9	SUCD_ECOLI	C6EJK9	A	Succinyl-CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5)	 	+ 	 	+ 
+ALF_A	A	P0AB71	ALF_ECOLI	C6EII4	A	"Fructose-bisphosphate aldolase (EC 4.1.2.13) (Fructose-bisphosphate aldolase, class II)"	 	+ 	 	+ 
+TKT1_A	A	P27302	TKT1_ECOLI	C6EIH4	A	"Transketolase (Transketolase 1, thiamin-binding) (EC 2.2.1.1)"	 	+ 	 	+ 
+YBJQ_A	A	P0A8C1	YBJQ_ECOLI	C6EIB5	A	UPF0145 protein ybjQ	 	+ 	 	+ 
+SYN_A	A	P0A8M0	SYN_ECOLI	C6EI52	A	Asparaginyl-tRNA synthetase (EC 6.1.1.22) (Asparagine--tRNA ligase)	 	+ 	 	+ 
+HELD_A	A	P15038	HELD_ECOLI	C6EI19	A	DNA helicase IV (EC 3.6.1.-) (UvrD/REP helicase)	 	+ 	 	+ 
+RS21_A	A	P68679	RS21_ECOLI	C6EHT0	A	30S ribosomal protein S21	 	+ 	 	+ 
+RIMJ_A	A	P0A948	RIMJ_ECOLI	C6EHE7	A	Ribosomal-protein-S5-alanine N-acetyltransferase (EC 2.3.1.128) (Ribosomal-protein-alanine N-acetyltransferase) (EC 2.3.1.128)	 	+ 	 	+ 
+YRAR_A	A	P45469	YRAR_ECOLI	C6EH73	A	NAD-dependent epimerase/dehydratase (Predicted nucleoside-diphosphate-sugar epimerase)	 	+ 	 	+ 
+YHBJ_A	A	P0A894	YHBJ_ECOLI	C6EH22	A	UPF0042 nucleotide-binding protein yhbJ	 	+ 	 	+ 
+SSPB_A	A	P0AFZ3	SSPB_ECOLI	C6EH04	A	ClpXP protease specificity-enhancing factor (Stringent starvation protein B)	 	+ 	 	+ 
+RL30_A	A	P0AG51	RL30_ECOLI	C6EGG4	A	50S ribosomal protein L30	 	+ 	 	+ 
+RS10_A	A	P0A7R5	RS10_ECOLI	C6EGE5	A	30S ribosomal protein S10	 	+ 	 	+ 
+ILVE_A	A	P0AB80	ILVE_ECOLI	C6EG41	A	Branched-chain amino acid aminotransferase	 	+ 	 	+ 
+OMPR_A	A	P0AA16	OMPR_ECOLI	C6EFG9	A	"Two component transcriptional regulator, winged helix family"	 	+ 	 	+ 
+UBIE_A	A	P0A887	UBIE_ECOLI	C6EF63	A	Ubiquinone/menaquinone biosynthesis methyltransferase ubiE (EC 2.1.1.-)	 	+ 	 	+ 
+HEMG_A	A	P0ACB4	HEMG_ECOLI	C6EF48	A	"Protoporphyrin oxidase, flavoprotein (EC 1.3.3.4) (Protoporphyrinogen oxidase) (EC 1.3.3.4)"	 	+ 	 	+ 
+HRPA_A	A	P43329	HRPA_ECOLI	C6EEV0	A	ATP-dependent helicase HrpA	 	+ 	 	+ 
+RL7_A	A	P0A7K2	RL7_ECOLI	C6EE33	A	50S ribosomal protein L7/L12	 	+ 	 	+ 
+RPOB_A	A	P0A8V2	RPOB_ECOLI	C6EE32	A	DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta)	 	+ 	 	+ 
+RFAF_A	A	P37692	RFAF_ECOLI	C6EDH0	A	ADP-heptose:LPS heptosyltransferase II (EC 2.-.-.-) (Lipopolysaccharide heptosyltransferase II)	 	+ 	 	+ 
+RFAQ_A	A	P25742	RFAQ_ECOLI	C6EDF9	A	Lipopolysaccharide heptosyltransferase III	 	+ 	 	+ 
+RS6_A	A	P02358	RS6_ECOLI	C6ECE9	A	30S ribosomal protein S6	 	+ 	 	+ 
+G3P1_A	A	P0A9B2	G3P1_ECOLI	C6EC50	A	"Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (Glyceraldehyde-3-phosphate dehydrogenase, type I) (EC 1.2.1.12)"	 	+ 	 	+ 
+DEOC_A	A	P0A6L0	DEOC_ECOLI	C6EBJ0	A	Deoxyribose-phosphate aldolase (EC 4.1.2.4)	 	+ 	 	+ 
+THRC_A	A	P00934	THRC_ECOLI	C6EBG5	A	Threonine synthase (EC 4.2.3.1)	 	+ 	 	+ 
+TALB_A	A	P0A870	TALB_ECOLI	C6EBG1	A	Transaldolase (EC 2.2.1.2)	 	+ 	 	+ 
+HIS8_A	A	P06986	HIS8_ECOLI	C6EB64	A	Histidinol-phosphate aminotransferase (EC 2.6.1.9) (Imidazole acetol-phosphate transaminase)	 	+ 	 	+ 
+DNAJ_A	A	P08622	DNAJ_ECOLI	C6EB39	A	Chaperone protein dnaJ	 	+ 	 	+ 
+RS20_A	A	P0A7U7	RS20_ECOLI	C6EB30	A	30S ribosomal protein S20	 	+ 	 	+ 
+PANC_A	A	P31663	PANC_ECOLI	C6EAS4	A	Pantothenate synthetase (PS) (EC 6.3.2.1) (Pantoate--beta-alanine ligase) (Pantoate-activating enzyme)	 	+ 	 	+ 
+DAPD_A	A	P0A9D8	DAPD_ECOLI	C6EAB9	A	"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117) (Tetrahydrodipicolinate N-succinyltransferase)"	 	+ 	 	+ 
+EFTS_A	A	P0A6P1	EFTS_ECOLI	C6EAB5	A	Elongation factor Ts (EF-Ts)	 	+ 	 	+ 
+ARND_A	A	P76472	ARND_ECOLI	C6E9U4	A	Polysaccharide deacetylase (Putative uncharacterized protein yfbH)	 	+ 	 	+ 
+GLYA_A	A	P0A825	GLYA_ECOLI	C6EKF6	A	Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1)	 	+ 	 	 
+CISY_A	A	P0ABH7	CISY_ECOLI	C6EJL8	A	Citrate synthase (EC 2.3.3.1)	 	+ 	 	 
+SUCC_A	A	P0A836	SUCC_ECOLI	C6EJL0	A	Succinyl-CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta)	 	+ 	 	 
+GPMA_A	A	P62707	GPMA_ECOLI	C6EJI9	A	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (BPG-dependent PGAM) (PGAM) (Phosphoglyceromutase) (dPGM) (EC 5.4.2.1)"	 	+ 	 	 
+PGK_A	A	P0A799	PGK_ECOLI	C6EII3	A	Phosphoglycerate kinase (EC 2.7.2.3)	 	+ 	 	 
+AAT_A	A	P00509	AAT_ECOLI	C6EI54	A	"Aspartate aminotransferase, PLP-dependent (EC 2.6.1.1) (Aspartate transaminase) (EC 2.6.1.1)"	 	+ 	 	 
+GLRX2_A	A	P0AC59	GLRX2_ECOLI	C6EHE9	A	"Glutaredoxin 2 (Grx2) (Glutaredoxin, GrxB family)"	 	+ 	 	 
+FABF_A	A	P0AAI5	FABF_ECOLI	C6EHB9	A	3-oxoacyl-(Acyl carrier protein) synthase (EC 2.3.1.41) (3-oxoacyl-(Acyl-carrier-protein) synthase 2)	 	+ 	 	 
+HNS_A	A	P0ACF8	HNS_ECOLI	C6EGN0	A	Global DNA-binding transcriptional dual regulator H-NS (Histone family protein nucleoid-structuring protein H-NS)	 	+ 	 	 
+SLYD_A	A	P0A9K9	SLYD_ECOLI	C6EGB5	A	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	 	+ 	 	 
+TNAA_A	A	P0A853	TNAA_ECOLI	C6EG95	A	"Tryptophanase (EC 4.1.99.1) (Tryptophanase/L-cysteine desulfhydrase, PLP-dependent) (EC 4.1.99.1)"	 	+ 	 	 
+YIGA_A	A	P23305	YIGA_ECOLI	C6EG04	A	Putative uncharacterized protein (Putative uncharacterized protein yigA)	 	+ 	 	 
+TPX_A	A	P0A862	TPX_ECOLI	C6EFQ8	A	Redoxin domain protein (Thiol peroxidase) (EC 1.11.1.-)	 	+ 	 	 
+SODM_A	A	P00448	SODM_ECOLI	C6EEY9	A	Superoxide dismutase (EC 1.15.1.1)	 	+ 	 	 
+K6PF1_A	A	P0A796	K6PF1_ECOLI	C6EEY2	A	6-phosphofructokinase (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase)	 	+ 	 	 
+OPDA_A	A	P27298	OPDA_ECOLI	C6EEI7	A	Oligopeptidase A (EC 3.4.24.70)	 	+ 	 	 
+DBHA_A	A	P0ACF0	DBHA_ECOLI	C6EE18	A	"HU, DNA-binding transcriptional regulator, alpha subunit (Histone family protein DNA-binding protein)"	 	+ 	 	 
+ACEA_A	A	P0A9G6	ACEA_ECOLI	C6EE08	A	Isocitrate lyase	 	+ 	 	 
+G6PI_A	A	P0A6T1	G6PI_ECOLI	C6EDZ9	A	Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (Phosphohexose isomerase)	 	+ 	 	 
+DNAB_A	A	P0ACB0	DNAB_ECOLI	C6EDW8	A	Replicative DNA helicase	 	+ 	 	 
+YDHQ_A	A	P77552	YDHQ_ECOLI	C6ECT9	A	Putative uncharacterized protein (Putative uncharacterized protein ydhQ)	 	+ 	 	 
+KPYK1_A	A	P0AD61	KPYK1_ECOLI	C6ECS9	A	Pyruvate kinase (EC 2.7.1.40)	 	+ 	 	 
+PURA_A	A	P0A7D4	PURA_ECOLI	C6ECH2	A	Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase)	 	+ 	 	 
+FKBB_A	A	P0A9L3	FKBB_ECOLI	C6ECD7	A	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	 	+ 	 	 
+ALKH_A	A	P0A955	ALKH_ECOLI	C6EBX8	A	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) (Keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase) (EC 4.1.2.14) (EC 4.1.3.16)	 	+ 	 	 
+DEOD_A	A	P0ABP8	DEOD_ECOLI	C6EBI7	A	Purine nucleoside phosphorylase deoD-type (PNP) (EC 2.4.2.1)	 	+ 	 	 
+6PGD_A	A	P00350	6PGD_ECOLI	C6EB56	A	"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)"	 	+ 	 	 
+GCH1_A	A	P0A6T5	GCH1_ECOLI	C6EAG0	A	GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I)	 	+ 	 	 
+PYRH_A	A	P0A7E9	PYRH_ECOLI	C6EAB4	A	Uridylate kinase (EC 2.7.4.22)	 	+ 	 	 
+YAFS_A	A	P75672	YAFS_ECOLI	C6EA77	A	Methyltransferase type 11 (Predicted S-adenosyl-L-methionine-dependent methyltransferase)	 	+ 	 	 
+RIR1_A	A	P00452	RIR1_ECOLI	C6E9W7	A	Ribonucleoside-diphosphate reductase (EC 1.17.4.1)	 	 	+ 	+ 
+LPXD_A	A	P21645	LPXD_ECOLI	C6EAA6	A	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.-)	 	 	+ 	+ 
+MURC_A	A	P17952	MURC_ECOLI	C6EAW4	A	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase)	 	 	+ 	+ 
+FRUR_A	A	P0ACP1	FRUR_ECOLI	C6EAX5	A	"DNA-binding transcriptional dual regulator (Transcriptional regulator, LacI family)"	 	 	+ 	+ 
+T1MK_A	A	P08957	T1MK_ECOLI	C6EBN1	A	DNA methylase M (EC 2.1.1.72) (Site-specific DNA-methyltransferase (Adenine-specific)) (EC 2.1.1.72)	 	 	+ 	+ 
+PPSA_A	A	P23538	PPSA_ECOLI	C6ECQ5	A	Phosphoenolpyruvate synthase (EC 2.7.9.2)	 	 	+ 	+ 
+CFA_A	A	P0A9H7	CFA_ECOLI	C6ECU2	A	Cyclopropane fatty acyl phospholipid synthase (Unsaturated-phospholipid methyltransferase) (EC 2.1.1.79) (Cyclopropane-fatty-acyl-phospholipid synthase)	 	 	+ 	+ 
+EFP_A	A	P0A6N4	EFP_ECOLI	C6ECX8	A	Elongation factor P	 	 	+ 	+ 
+FUMA_A	A	P0AC33	FUMA_ECOLI	C6EDN6	A	"Fumarate hydratase (Fumarase A), aerobic Class I (EC 4.2.1.2) (Hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit)"	 	 	+ 	+ 
+AK2H_A	A	P00562	AK2H_ECOLI	C6EE68	A	Aspartate kinase (EC 1.1.1.3) (EC 2.7.2.4) (Bifunctional aspartate kinase II/homoserine dehydrogenase II) (EC 1.1.1.3) (EC 2.7.2.4)	 	 	+ 	+ 
+TYPA_A	A	P32132	TYPA_ECOLI	C6EF30	A	GTP-binding protein (GTP-binding protein TypA)	 	 	+ 	+ 
+AROB_A	A	P07639	AROB_ECOLI	C6EFI7	A	3-dehydroquinate synthase (EC 4.2.3.4)	 	 	+ 	+ 
+TYRR_A	A	P07604	TYRR_ECOLI	C6EFQ9	A	"DNA-binding transcriptional dual regulator, tyrosine-binding (Transcriptional regulator, TyrR)"	 	 	+ 	+ 
+RNB_A	A	P30850	RNB_ECOLI	C6EFU6	A	Exoribonuclease 2 (EC 3.1.13.1) (Exoribonuclease II)	 	 	+ 	+ 
+RLUB_A	A	P37765	RLUB_ECOLI	C6EFW8	A	Pseudouridine synthase (EC 5.4.99.-)	 	 	+ 	+ 
+ILVD_A	A	P05791	ILVD_ECOLI	C6EG40	A	Dihydroxy-acid dehydratase (DAD) (EC 4.2.1.9)	 	 	+ 	+ 
+ACCC_A	A	P24182	ACCC_ECOLI	C6EGK4	A	"Acetyl-CoA carboxylase (EC 6.3.4.14) (Acetyl-CoA carboxylase, biotin carboxylase)"	 	 	+ 	+ 
+ENGD_A	A	P0ABU2	ENGD_ECOLI	C6EGR3	A	GTP-binding protein YchF (Translation-associated GTPase)	 	 	+ 	+ 
+RL27_A	A	P0A7L8	RL27_ECOLI	C6EH42	A	50S ribosomal protein L27	 	 	+ 	+ 
+FABH_A	A	P0A6R0	FABH_ECOLI	C6EHC3	A	3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III)	 	 	+ 	+ 
+HLDE_A	A	P76658	HLDE_ECOLI	C6EHU3	A	Bifunctional protein hldE	 	 	+ 	+ 
+LONH_A	A	P75867	LONH_ECOLI	C6EI27	A	Predicted peptidase (Putative ATP-dependent protease)	 	 	+ 	+ 
+YCAO_A	A	P75838	YCAO_ECOLI	C6EI77	A	Putative uncharacterized protein (Putative uncharacterized protein ycaO)	 	 	+ 	+ 
+SPEA_A	A	P21170	SPEA_ECOLI	C6EIH1	A	Biosynthetic arginine decarboxylase (ADC) (EC 4.1.1.19)	 	 	+ 	+ 
+ODO1_A	A	P0AFG3	ODO1_ECOLI	C6EJL2	A	"2-oxoglutarate dehydrogenase, E1 subunit (EC 1.2.4.2) (Alpha-ketoglutarate decarboxylase) (EC 1.2.4.2)"	 	 	+ 	+ 
+MIAB_A	A	P0AEI1	MIAB_ECOLI	C6EK34	A	Isopentenyl-adenosine A37 tRNA methylthiolase (tRNA-i(6)A37 thiotransferase enzyme MiaB)	 	 	+ 	+ 
+UPP_A	A	P0A8F0	UPP_ECOLI	C6EKL3	A	Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase) (UPRTase)	 	 	+ 	+ 
+CLPX_A	A	P0A6H1	CLPX_ECOLI	C6EL27	A	ATP-dependent Clp protease ATP-binding subunit ClpX	 	 	+ 	+ 
+THII_A	A	P77718	THII_ECOLI	C6EL46	A	tRNA sulfurtransferase (EC 2.8.1.4) (Sulfur carrier protein ThiS sulfurtransferase) (Thiamine biosynthesis protein thiI) (tRNA 4-thiouridine synthase)	 	 	+ 	+ 
+USG_A	A	P08390	USG_ECOLI	C6ELD4	A	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11) (Putative uncharacterized protein usg)	 	 	+ 	+ 
+BGAL_A	A	P00722	BGAL_ECOLI	C6ELN6	A	Beta-D-galactosidase (EC 3.2.1.23) (Beta-galactosidase) (EC 3.2.1.23)	 	 	+ 	+ 
+PMBA_A	A	P0AFK0	PMBA_ECOLI	C6ECB4	A	Peptidase U62 modulator of DNA gyrase (Predicted peptidase required for the maturation and secretion of the antibiotic peptide MccB17)	 	 	+ 	 
+CYTR_A	A	P0ACN7	CYTR_ECOLI	C6EDC8	A	"Transcriptional regulator, LacI family"	 	 	+ 	 
+SYY_A	A	P0AGJ9	SYY_ECOLI	C6EDK8	A	Tyrosyl-tRNA synthetase (EC 6.1.1.1) (Tyrosine--tRNA ligase)	 	 	+ 	 
+YQHC_A	A	Q46855	YQHC_ECOLI	C6EHY4	A	"Predicted DNA-binding transcriptional regulator (Transcriptional regulator, AraC family)"	 	 	+ 	 
+E4PD_A	A	P0A9B6	E4PD_ECOLI	C6EII2	A	D-erythrose-4-phosphate dehydrogenase (E4PDH) (EC 1.2.1.72)	 	 	+ 	 
+GUTQ_A	A	P17115	GUTQ_ECOLI	C6EJS3	A	KpsF/GutQ family protein (EC 5.3.1.13) (Predicted phosphosugar-binding protein)	 	 	+ 	 
+YAHF_A	A	P77187	YAHF_ECOLI	C6ELR0	A	FdrA family protein (Predicted acyl-CoA synthetase with NAD(P)-binding domain and succinyl-CoA synthetase domain)	 	 	 	+ 
+FRMA_A	A	P25437	FRMA_ECOLI	C6ELM4	A	Alcohol dehydrogenase class III/glutathione-dependent formaldehyde dehydrogenase (S-(Hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase)	 	 	 	+ 
+DXS_A	A	P77488	DXS_ECOLI	C6ELG4	A	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7) (1-deoxyxylulose-5-phosphate synthase)	 	 	 	+ 
+YFBQ_A	A	P0A959	YFBQ_ECOLI	C6ELG3	A	Aminotransferase class I and II (Aspartate aminotransferase)	 	 	 	+ 
+ISPA_A	A	P22939	ISPA_ECOLI	C6EL48	A	Geranyltranstransferase (EC 2.5.1.1) (EC 2.5.1.10) (Polyprenyl synthetase)	 	 	 	+ 
+CLPP_A	A	P0A6G7	CLPP_ECOLI	C6EL28	A	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) (Endopeptidase Clp)	 	 	 	+ 
+PUR7_A	A	P0A7D7	PUR7_ECOLI	C6EKN5	A	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase)	 	 	 	+ 
+PUR5_A	A	P08178	PUR5_ECOLI	C6EKL2	A	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase)	 	 	 	+ 
+GUAA_A	A	P04079	GUAA_ECOLI	C6EKK2	A	"Bifunctional GMP synthase/glutamine amidotransferase protein (EC 6.3.4.1) (EC 6.3.5.2) (GMP synthase, large subunit)"	 	 	 	+ 
+ENGA_A	A	P0A6P5	ENGA_ECOLI	C6EKJ8	A	GTP-binding protein engA	 	 	 	+ 
+HSCA_A	A	P0A6Z1	HSCA_ECOLI	C6EKI1	A	Chaperone protein hscA (Hsc66)	 	 	 	+ 
+TRMJ_A	A	P0AE01	TRMJ_ECOLI	C6EKH5	A	"Predicted methyltransferase (RNA methyltransferase, TrmH family, group 1)"	 	 	 	+ 
+SUHB_A	A	P0ADG4	SUHB_ECOLI	C6EKH4	A	Inositol monophosphatase	 	 	 	+ 
+PUR4_A	A	P15254	PUR4_ECOLI	C6EKF0	A	Phosphoribosylformylglycinamidine synthase (EC 6.3.5.3)	 	 	 	+ 
+NFNB_A	A	P38489	NFNB_ECOLI	C6EKC3	A	"6,7-dihydropteridine reductase (EC 1.5.1.34) (Dihydropteridine reductase, NAD(P)H-dependent, oxygen-insensitive)"	 	 	 	+ 
+LIPA_A	A	P60716	LIPA_ECOLI	C6EK65	A	Lipoic acid synthetase (EC 2.8.1.8) (Lipoyl synthase)	 	 	 	+ 
+SYL_A	A	P07813	SYL_ECOLI	C6EK51	A	Leucyl-tRNA synthetase (EC 6.1.1.4) (Leucine--tRNA ligase)	 	 	 	+ 
+RNC_A	A	P0A7Y0	RNC_ECOLI	C6EK20	A	Ribonuclease III (EC 3.1.26.3)	 	 	 	+ 
+CLPB_A	A	P63284	CLPB_ECOLI	C6EJZ8	A	ATP-dependent chaperone ClpB (Protein disaggregation chaperone)	 	 	 	+ 
+RIMM_A	A	P0A7X6	RIMM_ECOLI	C6EJY4	A	Ribosome maturation factor rimM	 	 	 	+ 
+ASNB_A	A	P22106	ASNB_ECOLI	C6EJR1	A	Asparagine synthase (Glutamine-hydrolyzing) (Asparagine synthetase B) (EC 6.3.5.4)	 	 	 	+ 
+NAGD_A	A	P0AF24	NAGD_ECOLI	C6EJR0	A	"HAD-superfamily hydrolase, subfamily IIA (UMP phosphatase)"	 	 	 	+ 
+SYQ_A	A	P00962	SYQ_ECOLI	C6EJQ4	A	Glutaminyl-tRNA synthetase (EC 6.1.1.18) (Glutamine--tRNA ligase)	 	 	 	+ 
+TRUD_A	A	Q57261	TRUD_ECOLI	C6EJC2	A	tRNA pseudouridine synthase D (EC 5.4.99.-) (tRNA pseudouridylate synthase D) (tRNA-uridine isomerase D)	 	 	 	+ 
+CYSI_A	A	P17846	CYSI_ECOLI	C6EJA9	A	Sulfite reductase [NADPH] hemoprotein beta-component (SiR-HP) (SiRHP) (EC 1.8.1.2)	 	 	 	+ 
+CYSJ_A	A	P38038	CYSJ_ECOLI	C6EJA8	A	"Sulfite reductase (NADPH) flavoprotein, alpha chain (Sulfite reductase, alpha subunit, flavoprotein) (EC 1.8.1.2)"	 	 	 	+ 
+YGCF_A	A	P64554	YGCF_ECOLI	C6EJ96	A	Putative uncharacterized protein (Putative uncharacterized protein ygcF)	 	 	 	+ 
+SDHM_A	A	P30744	SDHM_ECOLI	C6EJ74	A	L-serine deaminase II (EC 4.3.1.17) (L-serine dehydratase 1) (EC 4.3.1.17)	 	 	 	+ 
+ARGA_A	A	P0A6C5	ARGA_ECOLI	C6EJ51	A	Amino-acid N-acetyltransferase (N-acetylglutamate synthase) (EC 2.3.1.1)	 	 	 	+ 
+GALR_A	A	P03024	GALR_ECOLI	C6EJ31	A	"DNA-binding transcriptional repressor (Transcriptional regulator, LacI family)"	 	 	 	+ 
+UVRB_A	A	P0A8F8	UVRB_ECOLI	C6EJ03	A	UvrABC system protein B (Protein uvrB) (Excinuclease ABC subunit B)	 	 	 	+ 
+YBIC_A	A	P30178	YBIC_ECOLI	C6EIY1	A	Malate/L-lactate dehydrogenase (Predicted dehydrogenase)	 	 	 	+ 
+RIMO_A	A	P0AEI4	RIMO_ECOLI	C6EIU8	A	MiaB-like tRNA modifying enzyme YliG (Predicted SAM-dependent methyltransferase)	 	 	 	+ 
+SYK1_A	A	P0A8N3	SYK1_ECOLI	C6EIL8	A	Lysyl-tRNA synthetase (EC 6.1.1.6)	 	 	 	+ 
+DCOR_A	A	P21169	DCOR_ECOLI	C6EIE4	A	Ornithine decarboxylase (EC 4.1.1.17)	 	 	 	+ 
+YBJS_A	A	P75821	YBJS_ECOLI	C6EIB3	A	NAD-dependent epimerase/dehydratase	 	 	 	+ 
+IHFB_A	A	P0A6Y1	IHFB_ECOLI	C6EI70	A	Integration host factor subunit beta (IHF-beta)	 	 	 	+ 
+PARE_A	A	P20083	PARE_ECOLI	C6EHW3	A	"DNA topoisomerase IV subunit B (EC 5.99.1.-) (DNA topoisomerase IV, B subunit) (EC 5.99.1.3)"	 	 	 	+ 
+GLNE_A	A	P30870	GLNE_ECOLI	C6EHU2	A	(Glutamate--ammonia-ligase) adenylyltransferase (EC 2.7.7.42) (Fused deadenylyltransferase/adenylyltransferase for glutamine synthetase) (EC 2.7.7.42)	 	 	 	+ 
+RL32_A	A	P0A7N4	RL32_ECOLI	C6EHC5	A	50S ribosomal protein L32	 	 	 	+ 
+RSMI_A	A	P67087	RSMI_ECOLI	C6EH79	A	Predicted methyltransferase (Uroporphyrin-III C/tetrapyrrole (Corrin/Porphyrin) methyltransferase)	 	 	 	+ 
+RS15_A	A	P0ADZ4	RS15_ECOLI	C6EH60	A	30S ribosomal protein S15	 	 	 	+ 
+NUSA_A	A	P0AFF6	NUSA_ECOLI	C6EH56	A	NusA antitermination factor (Transcription elongation factor NusA)	 	 	 	+ 
+RLME_A	A	P0C0R7	RLME_ECOLI	C6EH48	A	Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.-) (23S rRNA Um2252 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase)	 	 	 	+ 
+OBG_A	A	P42641	OBG_ECOLI	C6EH44	A	GTPase obg (GTP-binding protein obg)	 	 	 	+ 
+MURA_A	A	P0A749	MURA_ECOLI	C6EH38	A	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase)	 	 	 	+ 
+GLTB_A	A	P09831	GLTB_ECOLI	C6EH15	A	"Glutamate synthase (Ferredoxin) (EC 1.4.7.1) (Glutamate synthase, large subunit) (EC 1.4.1.13)"	 	 	 	+ 
+GLTD_A	A	P09832	GLTD_ECOLI	C6EH14	A	"Glutamate synthase, 4Fe-4S protein, small subunit (EC 1.4.1.13) (Glutamate synthase, small subunit)"	 	 	 	+ 
+MFD_A	A	P30958	MFD_ECOLI	C6EGX8	A	Transcription-repair coupling factor	 	 	 	+ 
+HEM1_A	A	P0A6X1	HEM1_ECOLI	C6EGQ6	A	Glutamyl-tRNA reductase (GluTR) (EC 1.2.1.70)	 	 	 	+ 
+KDSA_A	A	P0A715	KDSA_ECOLI	C6EGQ1	A	2-dehydro-3-deoxyphosphooctonate aldolase (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase) (Phospho-2-dehydro-3-deoxyoctonate aldolase)	 	 	 	+ 
+RL36_A	A	P0A7Q6	RL36_ECOLI	C6EGG7	A	50S ribosomal protein L36	 	 	 	+ 
+RS19_A	A	P0A7U3	RS19_ECOLI	C6EGF0	A	30S ribosomal protein S19	 	 	 	+ 
+YHET_A	A	P45524	YHET_ECOLI	C6EGB0	A	Alpha/beta hydrolase fold protein (Predicted hydrolase)	 	 	 	+ 
+ASNA_A	A	P00963	ASNA_ECOLI	C6EG59	A	Aspartate--ammonia ligase (EC 6.3.1.1) (Asparagine synthetase A)	 	 	 	+ 
+RAVA_A	A	P31473	RAVA_ECOLI	C6EG57	A	ATPase associated with various cellular activities AAA_5 (Fused predicted transcriptional regulator: sigma54 activator protein/conserved protein)	 	 	 	+ 
+ILVC_A	A	P05793	ILVC_ECOLI	C6EG37	A	Ketol-acid reductoisomerase (EC 1.1.1.86) (Acetohydroxy-acid isomeroreductase) (Alpha-keto-beta-hydroxylacil reductoisomerase)	 	 	 	+ 
+RMLB2_A	A	P27830	RMLB2_ECOLI	C6EG24	A	"dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)"	 	 	 	+ 
+RFFA_A	A	P27833	RFFA_ECOLI	C6EG21	A	TDP-4-keto-6-deoxy-D-glucose transaminase (TDP-4-oxo-6-deoxy-D-glucose transaminase)	 	 	 	+ 
+PYRF_A	A	P08244	PYRF_ECOLI	C6EFV3	A	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	 	 	 	+ 
+YCIT_A	A	P76034	YCIT_ECOLI	C6EFV0	A	"Predicted DNA-binding transcriptional regulator (Transcriptional regulator, DeoR family)"	 	 	 	+ 
+SYW_A	A	P00954	SYW_ECOLI	C6EFJ2	A	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	 	 	 	+ 
+YHGF_A	A	P46837	YHGF_ECOLI	C6EFG7	A	RNA binding S1 domain protein	 	 	 	+ 
+PHSM_A	A	P00490	PHSM_ECOLI	C6EFF7	A	Phosphorylase (EC 2.4.1.1)	 	 	 	+ 
+PHSG_A	A	P0AC86	PHSG_ECOLI	C6EFE6	A	Phosphorylase (EC 2.4.1.1)	 	 	 	+ 
+GNTR_A	A	P0ACP5	GNTR_ECOLI	C6EFD7	A	"Transcriptional regulator, LacI family"	 	 	 	+ 
+DPO1_A	A	P00582	DPO1_ECOLI	C6EF39	A	DNA polymerase I (EC 2.7.7.7)	 	 	 	+ 
+ENGB_A	A	P0A6P7	ENGB_ECOLI	C6EF37	A	GTP-binding protein HSR1-related	 	 	 	+ 
+GLPX_A	A	P0A9C9	GLPX_ECOLI	C6EEX3	A	"Fructose-1,6-bisphosphatase, class II (EC 3.1.3.11)"	 	 	 	+ 
+RRAA_A	A	P0A8R0	RRAA_ECOLI	C6EEW9	A	Regulator of ribonuclease activity A	 	 	 	+ 
+NIFJ_A	A	P52647	NIFJ_ECOLI	C6EEW7	A	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)	 	 	 	+ 
+YDCP_A	A	P76104	YDCP_ECOLI	C6EES8	A	Peptidase U32 (Predicted peptidase)	 	 	 	+ 
+MAO1_A	A	P26616	MAO1_ECOLI	C6EEN8	A	"Malate dehydrogenase (Oxaloacetate-decarboxylating) (EC 1.1.1.38) (Malate dehydrogenase, (Decarboxylating, NAD-requiring) (Malic enzyme)) (EC 1.1.1.38)"	 	 	 	+ 
+SYGB_A	A	P00961	SYGB_ECOLI	C6EEC0	A	Glycyl-tRNA synthetase beta subunit (EC 6.1.1.14) (Glycine--tRNA ligase beta subunit)	 	 	 	+ 
+SYGA_A	A	P00960	SYGA_ECOLI	C6EEB9	A	Glycyl-tRNA synthetase alpha subunit (EC 6.1.1.14) (Glycine--tRNA ligase alpha subunit)	 	 	 	+ 
+CYTR_A	A	P0ACN7	CYTR_ECOLI	C6EE75	A	"DNA-binding transcriptional dual regulator (Transcriptional regulator, LacI family)"	 	 	 	+ 
+CAPP_A	A	P00864	CAPP_ECOLI	C6EE53	A	Phosphoenolpyruvate carboxylase (PEPC) (PEPCase) (EC 4.1.1.31)	 	 	 	+ 
+ARGC_A	A	P11446	ARGC_ECOLI	C6EE51	A	N-acetyl-gamma-glutamyl-phosphate reductase (AGPR) (EC 1.2.1.38) (N-acetyl-glutamate semialdehyde dehydrogenase)	 	 	 	+ 
+ARGB_A	A	P0A6C8	ARGB_ECOLI	C6EE50	A	Acetylglutamate kinase	 	 	 	+ 
+FABR_A	A	P0ACU5	FABR_ECOLI	C6EE46	A	"DNA-binding transcriptional repressor (Transcriptional regulator, TetR family)"	 	 	 	+ 
+MURI_A	A	P22634	MURI_ECOLI	C6EE43	A	Glutamate racemase (EC 5.1.1.3)	 	 	 	+ 
+NUSG_A	A	P0AFG0	NUSG_ECOLI	C6EE37	A	Transcription antitermination protein nusG	 	 	 	+ 
+DCUP_A	A	P29680	DCUP_ECOLI	C6EE21	A	Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37)	 	 	 	+ 
+YDFG_A	A	P39831	YDFG_ECOLI	C6EDU7	A	"L-allo-threonine dehydrogenase, NAD(P)-binding (Short-chain dehydrogenase/reductase SDR)"	 	 	 	+ 
+PDXH_A	A	P0AFI7	PDXH_ECOLI	C6EDK7	A	Pyridoxine/pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5) (PNP/PMP oxidase) (Pyridoxal 5'-phosphate synthase)	 	 	 	+ 
+GPDA_A	A	P0A6S7	GPDA_ECOLI	C6EDI1	A	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase)	 	 	 	+ 
+HLDD_A	A	P67910	HLDD_ECOLI	C6EDH1	A	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20) (ADP-L-glycero-beta-D-manno-heptose-6-epimerase)	 	 	 	+ 
+RFAI_A	A	P27128	RFAI_ECOLI	C6EDG2	A	"Lipopolysaccharide 3-alpha-galactosyltransferase (EC 2.4.1.44) (UDP-glucose:(Glucosyl) LPS alpha1,3-glucosyltransferase WaaO)"	 	 	 	+ 
+RFAG_A	A	P25740	RFAG_ECOLI	C6EDG0	A	Glucosyltransferase I (Glycosyl transferase group 1)	 	 	 	+ 
+RL33_A	A	P0A7N9	RL33_ECOLI	C6EDF5	A	50S ribosomal protein L33	 	 	 	+ 
+SPOT_A	A	P0AG24	SPOT_ECOLI	C6EDE0	A	"(P)ppGpp synthetase I, SpoT/RelA (EC 3.1.7.2) (Bifunctional (P)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase) (EC 2.7.6.5) (EC 3.1.7.2)"	 	 	 	+ 
+YIDA_A	A	P0A8Y5	YIDA_ECOLI	C6ED73	A	Cof-like hydrolase (Predicted hydrolase)	 	 	 	+ 
+PHNF_A	A	P16684	PHNF_ECOLI	C6ED21	A	"Phophonate C-P lyase system transcriptional regulator PhnF, GntR family (Predicted DNA-binding transcriptional regulator of phosphonate uptake and biodegradation)"	 	 	 	+ 
+BASR_A	A	P30843	BASR_ECOLI	C6ED11	A	"DNA-binding response regulator in two-component regulatory system with BasS (Two component transcriptional regulator, winged helix family)"	 	 	 	+ 
+YJEK_A	A	P39280	YJEK_ECOLI	C6ECX9	A	"Lysine 2,3-aminomutase YodO family protein (EC 5.4.3.2) (Predicted lysine aminomutase)"	 	 	 	+ 
+RL35_A	A	P0A7Q1	RL35_ECOLI	C6ECP0	A	50S ribosomal protein L35	 	 	 	+ 
+IF3_A	A	P0A707	IF3_ECOLI	C6ECN9	A	Translation initiation factor IF-3	 	 	 	+ 
+SYT_A	A	P0A8M3	SYT_ECOLI	C6ECN8	A	Threonyl-tRNA synthetase (EC 6.1.1.3) (Threonine--tRNA ligase)	 	 	 	+ 
+SELD_A	A	P16456	SELD_ECOLI	C6ECJ3	A	"Selenide, water dikinase (Selenophosphate synthetase) (EC 2.7.9.3)"	 	 	 	+ 
+HFLX_A	A	P25519	HFLX_ECOLI	C6ECH6	A	GTP-binding proten HflX (Predicted GTPase)	 	 	 	+ 
+RNR_A	A	P21499	RNR_ECOLI	C6ECH0	A	"Exoribonuclease R, RNase R (EC 3.1.-.-) (VacB and RNase II family 3'-5' exoribonuclease) (EC 3.1.13.1)"	 	 	 	+ 
+RLMB_A	A	P63177	RLMB_ECOLI	C6ECG9	A	"23S rRNA (Gm2251)-methyltransferase (EC 2.1.1.-) (RNA methyltransferase, TrmH family, group 3)"	 	 	 	+ 
+F16PA_A	A	P0A993	F16PA_ECOLI	C6ECB7	A	"Fructose-1,6-bisphosphatase class 1 (FBPase class 1) (EC 3.1.3.11) (D-fructose-1,6-bisphosphate 1-phosphohydrolase class 1)"	 	 	 	+ 
+TREC_A	A	P28904	TREC_ECOLI	C6ECA9	A	"Alpha,alpha-phosphotrehalase (Trehalose-6-P hydrolase) (EC 3.2.1.93)"	 	 	 	+ 
+AMPA_A	A	P68767	AMPA_ECOLI	C6EC91	A	Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (Leucyl aminopeptidase)	 	 	 	+ 
+YEAZ_A	A	P76256	YEAZ_ECOLI	C6EC24	A	Predicted peptidase (Putative uncharacterized protein)	 	 	 	+ 
+KPYK2_A	A	P21599	KPYK2_ECOLI	C6EBX3	A	Pyruvate kinase (EC 2.7.1.40)	 	 	 	+ 
+T1RK_A	A	P08956	T1RK_ECOLI	C6EBN0	A	Endonuclease R (EC 3.1.21.3) (Type I site-specific deoxyribonuclease) (EC 3.1.21.3)	 	 	 	+ 
+RSMC_A	A	P39406	RSMC_ECOLI	C6EBK1	A	16S ribosomal RNA m2G1207 methyltransferase (EC 2.1.1.52) (rRNA (Guanine-N(2)-)-methyltransferase) (EC 2.1.1.52)	 	 	 	+ 
+RF3_A	A	P0A7I4	RF3_ECOLI	C6EBJ7	A	Peptide chain release factor 3 (RF-3)	 	 	 	+ 
+ARCA_A	A	P0A9Q1	ARCA_ECOLI	C6EBH0	A	"DNA-binding response regulator in two-component regulatory system with ArcB or CpxA (Two component transcriptional regulator, winged helix family)"	 	 	 	+ 
+YAAA_A	A	P0A8I3	YAAA_ECOLI	C6EBG3	A	UPF0246 protein yaaA	 	 	 	+ 
+ARNB_A	A	P77690	ARNB_ECOLI	C6EB46	A	"DegT/DnrJ/EryC1/StrS aminotransferase (VioA, involved in dTDP-N-acetylviosamine synthesis)"	 	 	 	+ 
+RSMA_A	A	P06992	RSMA_ECOLI	C6EB02	A	"Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.-) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)"	 	 	 	+ 
+RAPA_A	A	P60240	RAPA_ECOLI	C6EAZ6	A	ATP-dependent helicase HepA (SNF2-related protein)	 	 	 	+ 
+URK_A	A	P0A8F4	URK_ECOLI	C6EAP1	A	Uridine kinase (EC 2.7.1.48) (Cytidine monophosphokinase) (Uridine monophosphokinase)	 	 	 	+ 
+YEGD_A	A	P36928	YEGD_ECOLI	C6EAN8	A	Predicted chaperone (Uncharacterized chaperone protein YegD)	 	 	 	+ 
+MRP_A	A	P0AF08	MRP_ECOLI	C6EAJ8	A	Antiporter inner membrane protein (Mrp protein)	 	 	 	+ 
+HRPB_A	A	P37024	HRPB_ECOLI	C6EAD6	A	ATP-dependent helicase HrpB (Predicted ATP-dependent helicase)	 	 	 	+ 
+GLND_A	A	P27249	GLND_ECOLI	C6EAB8	A	[Protein-PII] uridylyltransferase (PII uridylyl-transferase) (EC 2.7.7.59) (UTase) (Uridylyl-removing enzyme)	 	 	 	+ 
+DPO3A_A	A	P10443	DPO3A_ECOLI	C6EAA1	A	"DNA polymerase III subunit alpha (EC 2.7.7.7) (DNA polymerase III, alpha subunit)"	 	 	 	+ 
+SYP_A	A	P16659	SYP_ECOLI	C6EA90	A	Prolyl-tRNA synthetase (EC 6.1.1.15) (Proline--tRNA ligase)	 	 	 	+ 
+RL25_A	A	P68919	RL25_ECOLI	C6EA12	A	50S ribosomal protein L25	 	 	 	+ 
+NDPA_A	A	P33920	NDPA_ECOLI	C6EA11	A	Nucleoid-associated protein YejK	 	 	 	+ 
+GYRA_A	A	P0AES4	GYRA_ECOLI	C6E9X0	A	"DNA gyrase subunit A (EC 5.99.1.3) (DNA gyrase, A subunit) (EC 5.99.1.3)"	 	 	 	+ 
+NUOA_B	B	P0AFC3	NUOA_ECOLI	C6E9R4	B	NADH-quinone oxidoreductase subunit (EC 1.6.99.5)	+ 	+ 	+ 	+ 
+NUOH_B	B	P0AFD4	NUOH_ECOLI	C6E9S0	B	NADH-quinone oxidoreductase subunit H (EC 1.6.99.5) (NADH dehydrogenase I subunit H) (NDH-1 subunit H)	+ 	+ 	+ 	+ 
+NUOJ_B	B	P0AFE0	NUOJ_ECOLI	C6E9S2	B	NADH dehydrogenase (Quinone) (EC 1.6.99.5) (NADH dehydrogenase subunit J) (EC 1.6.5.3)	+ 	+ 	+ 	+ 
+NUOK_B	B	P0AFE4	NUOK_ECOLI	C6E9S3	B	NADH-quinone oxidoreductase subunit K (EC 1.6.99.5) (NADH dehydrogenase I subunit K) (NDH-1 subunit K)	+ 	+ 	+ 	+ 
+ARNT_B	B	P76473	ARNT_ECOLI	C6E9U3	B	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.n1) (4-amino-4-deoxy-L-arabinose lipid A transferase) (Undecaprenyl phosphate-alpha-L-Ara4N transferase)	+ 	+ 	+ 	+ 
+ARNC_B	B	P77757	ARNC_ECOLI	C6E9U6	B	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.7.8.n1) (Undecaprenyl-phosphate Ara4FN transferase)	+ 	+ 	+ 	+ 
+RCSC_B	B	P14376	RCSC_ECOLI	C6E9Y2	B	Histidine kinase	+ 	+ 	+ 	+ 
+PTFBC_B	B	P20966	PTFBC_ECOLI	C6EA31	B	"Fused fructose-specific PTS enzymes: IIBcomponent/IIC components (PTS system, fructose subfamily, IIC subunit)"	+ 	+ 	+ 	+ 
+FADE_B	B	Q47146	FADE_ECOLI	C6EA67	B	Acyl-CoA dehydrogenase (EC 1.3.99.3) (Putative uncharacterized protein)	+ 	+ 	+ 	+ 
+RSEP_B	B	P0AEH1	RSEP_ECOLI	C6EAA9	B	Membrane-associated zinc metalloprotease (Zinc metallopeptidase)	+ 	+ 	+ 	+ 
+PBPB_B	B	P02919	PBPB_ECOLI	C6EAD5	B	Penicillin-binding protein 1B (Penicillin-binding protein 1b) (EC 2.4.1.129) (EC 3.4.-.-)	+ 	+ 	+ 	+ 
+PCNB_B	B	P0ABF1	PCNB_ECOLI	C6EAE1	B	Poly(A) polymerase (EC 2.7.7.19)	+ 	+ 	+ 	+ 
+ASMA_B	B	P28249	ASMA_ECOLI	C6EAP3	B	AsmA family protein (Predicted assembly protein)	+ 	+ 	+ 	+ 
+AMPE_B	B	P0AE14	AMPE_ECOLI	C6EAU6	B	"Predicted inner membrane protein (Signaling modulator of AmpD, AmpE)"	+ 	+ 	+ 	+ 
+MRAY_B	B	P0A6W3	MRAY_ECOLI	C6EAW8	B	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase)	+ 	+ 	+ 	+ 
+FTSI_B	B	P0AD68	FTSI_ECOLI	C6EAX1	B	Peptidoglycan glycosyltransferase (EC 2.4.1.129) (Transpeptidase involved in septal peptidoglycan synthesis (Penicillin-binding protein 3)) (EC 2.4.1.129)	+ 	+ 	+ 	+ 
+DJLA_B	B	P31680	DJLA_ECOLI	C6EAZ8	B	Dna-J like membrane chaperone protein (Heat shock protein DnaJ domain protein)	+ 	+ 	+ 	+ 
+WZZB_B	B	P76372	WZZB_ECOLI	C6EB58	B	Lipopolysaccharide biosynthesis protein	+ 	+ 	+ 	+ 
+YJIY_B	B	P39396	YJIY_ECOLI	C6EBM6	B	Carbon starvation protein CstA (Predicted inner membrane protein)	+ 	+ 	+ 	+ 
+YEBE_B	B	P33218	YEBE_ECOLI	C6EBY3	B	Putative uncharacterized protein (Putative uncharacterized protein yebE)	+ 	+ 	+ 	+ 
+PTND_B	B	P69805	PTND_ECOLI	C6EC11	B	"PTS system, mannose/fructose/sorbose family, IID subunit"	+ 	+ 	+ 	+ 
+YOAE_B	B	P0AEC0	YOAE_ECOLI	C6EC15	B	Fused predicted membrane protein/conserved protein (Integral membrane protein TerC)	+ 	+ 	+ 	+ 
+LPTG_B	B	P0ADC6	LPTG_ECOLI	C6EC89	B	Conserved inner membrane protein (Permease YjgP/YjgQ family protein)	+ 	+ 	+ 	+ 
+LPTF_B	B	P0AF98	LPTF_ECOLI	C6EC90	B	Conserved inner membrane protein (Permease YjgP/YjgQ family protein)	+ 	+ 	+ 	+ 
+ATMA_B	B	P0ABB8	ATMA_ECOLI	C6ECA6	B	Magnesium transporter (EC 3.6.3.1) (Magnesium-translocating P-type ATPase) (EC 3.6.3.2)	+ 	+ 	+ 	+ 
+PTTBC_B	B	P36672	PTTBC_ECOLI	C6ECA8	B	"Fused trehalose(Maltose)-specific PTS enzyme: IIB component/IIC component (PTS system, trehalose-specific IIBC subunit)"	+ 	+ 	+ 	+ 
+YTFL_B	B	P0AE45	YTFL_ECOLI	C6ECC7	B	Predicted inner membrane protein (Putative uncharacterized protein)	+ 	+ 	+ 	+ 
+CYCA_B	B	P0AAE0	CYCA_ECOLI	C6ECD6	B	Amino acid permease-associated region (D-alanine/D-serine/glycine transporter)	+ 	+ 	+ 	+ 
+HFLK_B	B	P0ABC7	HFLK_ECOLI	C6ECH5	B	HflK protein (Modulator for HflB protease specific for phage lambda cII repressor)	+ 	+ 	+ 	+ 
+SPPA_B	B	P08395	SPPA_ECOLI	C6ECJ1	B	"Protease IV (Signal peptide peptidase) (EC 3.4.-.-) (Signal peptide peptidase SppA, 67K type)"	+ 	+ 	+ 	+ 
+YDJN_B	B	P77529	YDJN_ECOLI	C6ECM9	B	Predicted transporter (Sodium:dicarboxylate symporter)	+ 	+ 	+ 	+ 
+YJEP_B	B	P39285	YJEP_ECOLI	C6ECW6	B	MscS Mechanosensitive ion channel (Predicted mechanosensitive channel)	+ 	+ 	+ 	+ 
+DCUA_B	B	P0ABN5	DCUA_ECOLI	C6ECY7	B	"Anaerobic c4-dicarboxylate antiporter, Dcu family (C4-dicarboxylate antiporter)"	+ 	+ 	+ 	+ 
+EPTA_B	B	P30845	EPTA_ECOLI	C6ED10	B	Predicted metal dependent hydrolase (Sulfatase)	+ 	+ 	+ 	+ 
+PROP_B	B	P0C0L7	PROP_ECOLI	C6ED13	B	"Metabolite/H+ symporter, major facilitator superfamily (MFS) (Proline/glycine betaine transporter)"	+ 	+ 	+ 	+ 
+GLTP_B	B	P21345	GLTP_ECOLI	C6ED48	B	Glutamate/aspartate:proton symporter (Sodium:dicarboxylate symporter)	+ 	+ 	+ 	+ 
+YJCD_B	B	P0AF52	YJCD_ECOLI	C6ED60	B	Predicted permease (Xanthine/uracil/vitamin C permease)	+ 	+ 	+ 	+ 
+YICH_B	B	P31433	YICH_ECOLI	C6EDD4	B	AsmA family protein (Putative uncharacterized protein yicH)	+ 	+ 	+ 	+ 
+KDTA_B	B	P0AC75	KDTA_ECOLI	C6EDF8	B	3-deoxy-D-manno-octulosonic-acid transferase (Three-deoxy-D-manno-octulosonic-acid transferase domain protein)	+ 	+ 	+ 	+ 
+YIBN_B	B	P0AG27	YIBN_ECOLI	C6EDH8	B	Predicted rhodanese-related sulfurtransferase (Rhodanese domain protein)	+ 	+ 	+ 	+ 
+LLDD_B	B	P33232	LLDD_ECOLI	C6EDI4	B	"FMN-dependent alpha-hydroxy acid dehydrogenase (L-lactate dehydrogenase, FMN-linked) (EC 1.1.2.3)"	+ 	+ 	+ 	+ 
+PNTA_B	B	P07001	PNTA_ECOLI	C6EDP5	B	"NAD(P) transhydrogenase subunit alpha (EC 1.6.1.2) (NAD(P) transhydrogenase, alpha subunit) (EC 1.6.1.2)"	+ 	+ 	+ 	+ 
+PNTB_B	B	P0AB67	PNTB_ECOLI	C6EDP6	B	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) (Nicotinamide nucleotide transhydrogenase subunit beta)	+ 	+ 	+ 	+ 
+KDGL_B	B	P0ABN1	KDGL_ECOLI	C6EDX8	B	Diacylglycerol kinase (EC 2.7.1.107)	+ 	+ 	+ 	+ 
+SECE_B	B	P0AG96	SECE_ECOLI	C6EE38	B	"Preprotein translocase, SecE subunit (Translocase)"	+ 	+ 	+ 	+ 
+CPTA_B	B	P0CB39	CPTA_ECOLI	C6EE54	B	Conserved inner membrane protein (Sulfatase)	+ 	+ 	+ 	+ 
+FTSN_B	B	P29131	FTSN_ECOLI	C6EE76	B	Cell division protein FtsN (Essential cell division protein)	+ 	+ 	+ 	+ 
+YHJD_B	B	P37642	YHJD_ECOLI	C6EEG1	B	Conserved inner membrane protein (Ribonuclease)	+ 	+ 	+ 	+ 
+PITA_B	B	P0AFJ7	PITA_ECOLI	C6EEJ2	B	"Phosphate transporter (Phosphate transporter, low-affinity)"	+ 	+ 	+ 	+ 
+YHII_B	B	P37626	YHII_ECOLI	C6EEJ7	B	Predicted HlyD family secretion protein (Secretion protein HlyD family protein)	+ 	+ 	+ 	+ 
+CDH_B	B	P06282	CDH_ECOLI	C6EEY0	B	CDP-diacylglycerol pyrophosphatase (EC 3.6.1.26) (CDP-diacylglycerol phosphatidylhydrolase) (CDP-diglyceride hydrolase)	+ 	+ 	+ 	+ 
+CPXA_B	B	P0AE82	CPXA_ECOLI	C6EEY6	B	Histidine kinase (Two-component sensor protein) (EC 2.7.1.-)	+ 	+ 	+ 	+ 
+TATB_B	B	P69425	TATB_ECOLI	C6EF59	B	"Sec-independent translocase (Twin-arginine translocation protein, TatB subunit)"	+ 	+ 	+ 	+ 
+TATA_B	B	P69428	TATA_ECOLI	C6EF60	B	"Twin arginate translocase protein A (Twin-arginine translocation protein, TatA/E family subunit)"	+ 	+ 	+ 	+ 
+UBIB_B	B	P0A6A0	UBIB_ECOLI	C6EF61	B	Probable ubiquinone biosynthesis protein ubiB	+ 	+ 	+ 	+ 
+ATZN_B	B	P37617	ATZN_ECOLI	C6EFA5	B	Heavy metal translocating P-type ATPase	+ 	+ 	+ 	+ 
+YHHM_B	B	P37615	YHHM_ECOLI	C6EFA7	B	Putative receptor	+ 	+ 	+ 	+ 
+FTSX_B	B	P0AC30	FTSX_ECOLI	C6EFB2	B	"Predicted transporter subunit: membrane component of ABC superfamily (Protein insertion ABC transporter, inner membrane subunit FtsX)"	+ 	+ 	+ 	+ 
+IGAA_B	B	P45800	IGAA_ECOLI	C6EFH7	B	Intracellular growth attenuator IgaA	+ 	+ 	+ 	+ 
+PBPA_B	B	P02918	PBPA_ECOLI	C6EFI0	B	"Fused penicillin-binding protein 1a: murein transglycosylase/murein transpeptidase (EC 2.4.2.-) (EC 3.4.-.-) (Penicillin-binding protein, 1A family) (EC 2.4.1.129)"	+ 	+ 	+ 	+ 
+DAMX_B	B	P11557	DAMX_ECOLI	C6EFI8	B	Putative uncharacterized protein damX (Sporulation domain protein)	+ 	+ 	+ 	+ 
+ZNTB_B	B	P64423	ZNTB_ECOLI	C6EFP1	B	Mg2 transporter protein CorA family protein (Zinc transporter)	+ 	+ 	+ 	+ 
+SOHB_B	B	P0AG14	SOHB_ECOLI	C6EFW5	B	Peptidase S49 domain protein (Predicted inner membrane peptidase)	+ 	+ 	+ 	+ 
+CORA_B	B	P0ABI4	CORA_ECOLI	C6EFZ7	B	Magnesium and cobalt transport protein CorA (Magnesium/nickel/cobalt transporter)	+ 	+ 	+ 	+ 
+HEMX_B	B	P09127	HEMX_ECOLI	C6EG12	B	Predicted uroporphyrinogen III methylase (EC 2.1.1.107) (Uroporphyrinogen-III C-methyltransferase) (EC 2.1.1.107)	+ 	+ 	+ 	+ 
+HEMY_B	B	P0ACB7	HEMY_ECOLI	C6EG13	B	HemY protein (Predicted protoheme IX synthesis protein)	+ 	+ 	+ 	+ 
+WZZE_B	B	P0AG00	WZZE_ECOLI	C6EG27	B	Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein (Lipopolysaccharide biosynthesis protein)	+ 	+ 	+ 	+ 
+ATPF_B	B	P0ABA0	ATPF_ECOLI	C6EG67	B	ATP synthase subunit b	+ 	+ 	+ 	+ 
+OXAA_B	B	P25714	OXAA_ECOLI	C6EG98	B	Inner membrane protein oxaA	+ 	+ 	+ 	+ 
+YHFK_B	B	P45537	YHFK_ECOLI	C6EGA5	B	"Integral membrane protein, YccS/YhfK family"	+ 	+ 	+ 	+ 
+SECY_B	B	P0AGA2	SECY_ECOLI	C6EGG6	B	Preprotein translocase subunit secY	+ 	+ 	+ 	+ 
+MSCL_B	B	P0A742	MSCL_ECOLI	C6EGH6	B	Large-conductance mechanosensitive channel	+ 	+ 	+ 	+ 
+YCHM_B	B	P0AFR2	YCHM_ECOLI	C6EGR0	B	Sulfate transporter	+ 	+ 	+ 	+ 
+NHAB_B	B	P0AFA7	NHAB_ECOLI	C6EGT1	B	Na(+)/H(+) antiporter nhaB (Sodium/proton antiporter nhaB)	+ 	+ 	+ 	+ 
+LOLE_B	B	P75958	LOLE_ECOLI	C6EGX4	B	"Lipoprotein releasing system, transmembrane protein LolE"	+ 	+ 	+ 	+ 
+LOLC_B	B	P0ADC3	LOLC_ECOLI	C6EGX6	B	"Lipoprotein releasing system, transmembrane protein, LolC/E family (Outer membrane-specific lipoprotein transporter subunit)"	+ 	+ 	+ 	+ 
+PTGCB_B	B	P69786	PTGCB_ECOLI	C6EGZ1	B	"Fused glucose-specific PTS enzymes: IIB component/IIC component (EC 2.7.1.69) (PTS system, glucose-specific IIBC subunit) (EC 2.7.1.69)"	+ 	+ 	+ 	+ 
+YHCB_B	B	P0ADW3	YHCB_ECOLI	C6EGZ9	B	Putative uncharacterized protein (Putative uncharacterized protein yhcB)	+ 	+ 	+ 	+ 
+LPTC_B	B	P0ADV9	LPTC_ECOLI	C6EH28	B	Putative uncharacterized protein (Putative uncharacterized protein yrbK)	+ 	+ 	+ 	+ 
+FTSH_B	B	P0AAI3	FTSH_ECOLI	C6EH49	B	ATP-dependent metalloprotease FtsH (EC 3.6.4.3)	+ 	+ 	+ 	+ 
+SECG_B	B	P0AG99	SECG_ECOLI	C6EH52	B	"Preprotein translocase, SecG subunit (Protein-export membrane protein)"	+ 	+ 	+ 	+ 
+OPGH_B	B	P62517	OPGH_ECOLI	C6EHG3	B	Glycosyl transferase family 2	+ 	+ 	+ 	+ 
+PUTP_B	B	P07117	PUTP_ECOLI	C6EHJ1	B	Proline:sodium symporter (Sodium/proline symporter)	+ 	+ 	+ 	+ 
+UPPP_B	B	P60932	UPPP_ECOLI	C6EHT8	B	Undecaprenol kinase (EC 3.6.1.27) (Undecaprenyl pyrophosphate phosphatase)	+ 	+ 	+ 	+ 
+YGIM_B	B	P0ADT8	YGIM_ECOLI	C6EHU0	B	Predicted signal transduction protein (SH3 domain) (SH3 domain protein)	+ 	+ 	+ 	+ 
+QSEC_B	B	P40719	QSEC_ECOLI	C6EHW7	B	Histidine kinase (Sensory histidine kinase in two-component regulatory system with QseB) (EC 2.7.3.-)	+ 	+ 	+ 	+ 
+EXBB_B	B	P0ABU7	EXBB_ECOLI	C6EHY7	B	Membrane spanning protein in TonB-ExbB-ExbD complex (TonB-system energizer ExbB)	+ 	+ 	+ 	+ 
+MSBA_B	B	P60752	MSBA_ECOLI	C6EI68	B	"Fused lipid transporter subunits of ABC superfamily: membrane component/ATP-binding component (Lipid A ABC exporter, fused ATPase and inner membrane subunits MsbA)"	+ 	+ 	+ 	+ 
+CYDD_B	B	P29018	CYDD_ECOLI	C6EI95	B	"ABC transporter, CydDC cysteine exporter (CydDC-E) family, permease/ATP-binding protein CydD (Fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component)"	+ 	+ 	+ 	+ 
+CYDC_B	B	P23886	CYDC_ECOLI	C6EI96	B	"ABC transporter, CydDC cysteine exporter (CydDC-E) family, permease/ATP-binding protein CydC (Fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component)"	+ 	+ 	+ 	+ 
+GALP_B	B	P0AEP1	GALP_ECOLI	C6EIG8	B	Sugar transporter	+ 	+ 	+ 	+ 
+MSCS_B	B	P0C0S1	MSCS_ECOLI	C6EII5	B	Mechanosensitive channel (MscS Mechanosensitive ion channel)	+ 	+ 	+ 	+ 
+YBHG_B	B	P75777	YBHG_ECOLI	C6EIY7	B	Secretion protein HlyD family protein	+ 	+ 	+ 	+ 
+SDAC_B	B	P0AAD6	SDAC_ECOLI	C6EJ75	B	Predicted serine transporter (Serine transporter)	+ 	+ 	+ 	+ 
+TOLR_B	B	P0ABV6	TOLR_ECOLI	C6EJJ9	B	Membrane spanning protein in TolA-TolQ-TolR complex (Protein TolR)	+ 	+ 	+ 	+ 
+TOLQ_B	B	P0ABU9	TOLQ_ECOLI	C6EJK0	B	Membrane spanning protein in TolA-TolQ-TolR complex (Protein TolQ)	+ 	+ 	+ 	+ 
+CYDB_B	B	P0ABK2	CYDB_ECOLI	C6EJK4	B	"Cytochrome d terminal oxidase, subunit II (EC 1.9.3.-) (Cytochrome d ubiquinol oxidase, subunit II)"	+ 	+ 	+ 	+ 
+CYDA_B	B	P0ABJ9	CYDA_ECOLI	C6EJK5	B	"Cytochrome bd ubiquinol oxidase subunit I (Cytochrome d terminal oxidase, subunit I) (EC 1.9.3.-)"	+ 	+ 	+ 	+ 
+DHSD_B	B	P0AC44	DHSD_ECOLI	C6EJL5	B	"Succinate dehydrogenase cytochrome b556 small membrane subunit (EC 1.3.99.1) (Succinate dehydrogenase, hydrophobic membrane anchor protein)"	+ 	+ 	+ 	+ 
+PTW3C_B	B	P09323	PTW3C_ECOLI	C6EJQ6	B	"Fused N-acetyl glucosamine specific PTS enzyme: IIC, IIB, and IIA components (EC 2.7.1.69) (PTS system, N-acetylglucosamine-specific IIBC subunit)"	+ 	+ 	+ 	+ 
+EMRA_B	B	P27303	EMRA_ECOLI	C6EJU1	B	Efflux pump membrane protein (Multidrug efflux system)	+ 	+ 	+ 	+ 
+LEP_B	B	P00803	LEP_ECOLI	C6EK19	B	Signal peptidase I (EC 3.4.21.89)	+ 	+ 	+ 	+ 
+YBDG_B	B	P0AAT4	YBDG_ECOLI	C6EKC4	B	MscS Mechanosensitive ion channel (Predicted mechanosensitive channel)	+ 	+ 	+ 	+ 
+RODZ_B	B	P27434	RODZ_ECOLI	C6EKJ3	B	"Putative uncharacterized protein yfgA (Transcriptional regulator, XRE family)"	+ 	+ 	+ 	+ 
+YFGM_B	B	P76576	YFGM_ECOLI	C6EKJ6	B	Putative uncharacterized protein (Putative uncharacterized protein yfgM)	+ 	+ 	+ 	+ 
+COPA_B	B	Q59385	COPA_ECOLI	C6EKY0	B	Copper transporter (EC 3.6.3.10) (Copper-translocating P-type ATPase)	+ 	+ 	+ 	+ 
+YBAL_B	B	P39830	YBAL_ECOLI	C6EKY6	B	Potassium efflux system protein (Predicted transporter with NAD(P)-binding Rossmann-fold domain)	+ 	+ 	+ 	+ 
+ACRB_B	B	P31224	ACRB_ECOLI	C6EL02	B	"Multidrug efflux system protein (Transporter, hydrophobe/amphiphile efflux-1 (HAE1) family)"	+ 	+ 	+ 	+ 
+PPID_B	B	P0ADY1	PPID_ECOLI	C6EL22	B	Peptidyl-prolyl cis-trans isomerase (Rotamase D) (EC 5.2.1.8) (PpiC-type peptidyl-prolyl cis-trans isomerase)	+ 	+ 	+ 	+ 
+CYOA_B	B	P0ABJ1	CYOA_ECOLI	C6EL34	B	"Cytochrome o ubiquinol oxidase subunit II (EC 1.10.3.-) (Ubiquinol oxidase, subunit II)"	+ 	+ 	+ 	+ 
+CYOB_B	B	P0ABI8	CYOB_ECOLI	C6EL35	B	"Cytochrome o ubiquinol oxidase subunit I (EC 1.10.3.-) (Cytochrome o ubiquinol oxidase, subunit I) (EC 1.9.3.1)"	+ 	+ 	+ 	+ 
+ZIPA_B	B	P77173	ZIPA_ECOLI	C6EL66	B	Cell division protein zipA	+ 	+ 	+ 	+ 
+SECF_B	B	P0AG93	SECF_ECOLI	C6ELH5	B	Protein export protein SecF (Protein-export membrane protein SecF)	+ 	+ 	+ 	+ 
+SECD_B	B	P0AG90	SECD_ECOLI	C6ELH6	B	Protein-export membrane protein SecD	+ 	+ 	+ 	+ 
+YAJC_B	B	P0ADZ7	YAJC_ECOLI	C6ELH7	B	"Preprotein translocase subunit YajC (Preprotein translocase, YajC subunit)"	+ 	+ 	+ 	+ 
+PTNC_B	B	P69801	PTNC_ECOLI	C6EC12	B	"Mannose-specific enzyme IIC component of PTS (PTS system, mannose/fructose/sorbose family, IIC subunit)"	+ 	+ 	+ 	 
+ELAB_B	B	P0AEH5	ELAB_ECOLI	C6E9T3	B	Putative uncharacterized protein (Putative uncharacterized protein elaB)	+ 	+ 	 	+ 
+FXSA_B	B	P37147	FXSA_ECOLI	C6ECY5	B	FxsA cytoplasmic membrane protein (Inner membrane protein)	+ 	+ 	 	+ 
+YQJD_B	B	P64581	YQJD_ECOLI	C6EHP5	B	Putative uncharacterized protein (Putative uncharacterized protein yqjD)	+ 	+ 	 	+ 
+PSPC_B	B	P0AFN2	PSPC_ECOLI	C6EFS6	B	"DNA-binding transcriptional activator (Phage shock protein C, PspC)"	+ 	+ 	 	 
+BETT_B	B	P0ABC9	BETT_ECOLI	C6ELR7	B	Choline transporter of high affinity (Choline/carnitine/betaine transporter)	 	+ 	+ 	+ 
+SBMA_B	B	P0AFY6	SBMA_ECOLI	C6ELL0	B	Predicted transporter (SbmABacA family protein)	 	+ 	+ 	+ 
+BRNQ_B	B	P0AD99	BRNQ_ECOLI	C6ELI3	B	Branched-chain amino acid transport system II carrier protein (Predicted branched chain amino acid transporter (LIV-II))	 	+ 	+ 	+ 
+DEDD_B	B	P09549	DEDD_ECOLI	C6ELD9	B	Putative uncharacterized protein dedD (Sporulation domain protein)	 	+ 	+ 	+ 
+YFCJ_B	B	P77549	YFCJ_ECOLI	C6ELD1	B	Major facilitator superfamily MFS_1 (Predicted transporter)	 	+ 	+ 	+ 
+NUPC_B	B	P0AFF2	NUPC_ECOLI	C6EL76	B	Nucleoside (Except guanosine) transporter (Nucleoside transporter)	 	+ 	+ 	+ 
+YFEA_B	B	P23842	YFEA_ECOLI	C6EL75	B	Diguanylate cyclase/phosphodiesterase (Predicted diguanylate cyclase)	 	+ 	+ 	+ 
+CYSZ_B	B	P0A6J3	CYSZ_ECOLI	C6EL65	B	Protein CysZ	 	+ 	+ 	+ 
+YAJR_B	B	P77726	YAJR_ECOLI	C6EL42	B	Major facilitator superfamily MFS_1 (Predicted transporter)	 	+ 	+ 	+ 
+AMPG_B	B	P0AE16	AMPG_ECOLI	C6EL33	B	AmpG-related permease (Muropeptide transporter)	 	+ 	+ 	+ 
+MDLA_B	B	P77265	MDLA_ECOLI	C6EL15	B	ABC transporter related (Fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components)	 	+ 	+ 	+ 
+MDLB_B	B	P0AAG5	MDLB_ECOLI	C6EL14	B	ABC transporter related (Fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components)	 	+ 	+ 	+ 
+YLAB_B	B	P77473	YLAB_ECOLI	C6EL07	B	Conserved inner membrane protein (EAL domain protein)	 	+ 	+ 	+ 
+KEFA_B	B	P77338	KEFA_ECOLI	C6EKZ9	B	Fused conserved protein (MscS Mechanosensitive ion channel)	 	+ 	+ 	+ 
+FSR_B	B	P52067	FSR_ECOLI	C6EKY5	B	Major facilitator superfamily MFS_1 (Predicted fosmidomycin efflux system)	 	+ 	+ 	+ 
+QMCA_B	B	P0AA53	QMCA_ECOLI	C6EKX5	B	"Band 7 protein (Predicted protease, membrane anchored)"	 	+ 	+ 	+ 
+YBBM_B	B	P77307	YBBM_ECOLI	C6EKX3	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+YBBP_B	B	P77504	YBBP_ECOLI	C6EKW8	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+ACRD_B	B	P24177	ACRD_ECOLI	C6EKP2	B	"Aminoglycoside/multidrug efflux system (Transporter, hydrophobe/amphiphile efflux-1 (HAE1) family)"	 	+ 	+ 	+ 
+YPFJ_B	B	P64429	YPFJ_ECOLI	C6EKN6	B	Putative uncharacterized protein (Putative uncharacterized protein ypfJ)	 	+ 	+ 	+ 
+YFHK_B	B	P52101	YFHK_ECOLI	C6EKF1	B	Histidine kinase (Predicted sensory kinase in two-component system)	 	+ 	+ 	+ 
+TATE_B	B	P0A843	TATE_ECOLI	C6EK66	B	"Twin arginine translocase protein E (Twin-arginine translocation protein, TatA/E family subunit)"	 	+ 	+ 	+ 
+RODA_B	B	P0ABG7	RODA_ECOLI	C6EK59	B	Cell cycle protein (Cell wall shape-determining protein)	 	+ 	+ 	+ 
+PBP2_B	B	P0AD65	PBP2_ECOLI	C6EK58	B	Peptidoglycan glycosyltransferase (EC 2.4.1.129) (Transpeptidase involved in peptidoglycan synthesis (Penicillin-binding protein 2))	 	+ 	+ 	+ 
+GLTJ_B	B	P0AER3	GLTJ_ECOLI	C6EK41	B	"Glutamate and aspartate transporter subunit (Polar amino acid ABC transporter, inner membrane subunit)"	 	+ 	+ 	+ 
+LNT_B	B	P23930	LNT_ECOLI	C6EK38	B	Apolipoprotein N-acyltransferase	 	+ 	+ 	+ 
+YFHB_B	B	P0AD42	YFHB_ECOLI	C6EK28	B	"HAD superfamily (Subfamily IF) hydrolase, YfhB"	 	+ 	+ 	+ 
+KGTP_B	B	P0AEX3	KGTP_ECOLI	C6EJZ9	B	"Alpha-ketoglutarate transporter (Metabolite/H+ symporter, major facilitator superfamily (MFS))"	 	+ 	+ 	+ 
+YFJD_B	B	P37908	YFJD_ECOLI	C6EJY0	B	Putative uncharacterized protein	 	+ 	+ 	+ 
+KDPD_B	B	P21865	KDPD_ECOLI	C6EJN9	B	Osmosensitive K channel His kinase sensor	 	+ 	+ 	+ 
+ATKC_B	B	P03961	ATKC_ECOLI	C6EJN8	B	Potassium-transporting ATPase C chain (EC 3.6.3.12) (ATP phosphohydrolase [potassium-transporting] C chain) (Potassium-binding and translocating subunit C) (Potassium-translocating ATPase C chain)	 	+ 	+ 	+ 
+TOLA_B	B	P19934	TOLA_ECOLI	C6EJJ8	B	Cell envelope integrity inner membrane protein TolA (Protein TolA)	 	+ 	+ 	+ 
+PYRG_B	B	P0A7E5	PYRG_ECOLI	C6EJ92	B	CTP synthase (EC 6.3.4.2) (CTP synthetase) (UTP--ammonia ligase)	 	+ 	+ 	+ 
+BARA_B	B	P0AEC5	BARA_ECOLI	C6EJ86	B	"Hpt sensor hybrid histidine kinase (Hybrid sensory histidine kinase, in two-component regulatory system with UvrY) (EC 2.7.3.-)"	 	+ 	+ 	+ 
+LGT_B	B	P60955	LGT_ECOLI	C6EJ41	B	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)	 	+ 	+ 	+ 
+AAS_B	B	P31119	AAS_ECOLI	C6EJ32	B	2-acyl-glycerophospho-ethanolamine acyltransferase (EC 2.3.1.40) (EC 6.2.1.20) (AMP-dependent synthetase and ligase)	 	+ 	+ 	+ 
+GLNP_B	B	P0AEQ6	GLNP_ECOLI	C6EIX2	B	"Glutamine ABC transporter permease protein (Polar amino acid ABC transporter, inner membrane subunit)"	 	+ 	+ 	+ 
+GSIC_B	B	P75798	GSIC_ECOLI	C6EIV1	B	Binding-protein-dependent transport systems inner membrane component (Predicted peptide transporter subunit: membrane component of ABC superfamily)	 	+ 	+ 	+ 
+YBJL_B	B	P60869	YBJL_ECOLI	C6EIQ8	B	Putative transport protein ybjL	 	+ 	+ 	+ 
+YQEG_B	B	P63340	YQEG_ECOLI	C6EIP8	B	Predicted transporter (Serine transporter)	 	+ 	+ 	+ 
+YBJT_B	B	P75822	YBJT_ECOLI	C6EIB2	B	Conserved protein with NAD(P)-binding Rossmann-fold domain (NAD-dependent epimerase/dehydratase)	 	+ 	+ 	+ 
+MACB_B	B	P75831	MACB_ECOLI	C6EIA2	B	ABC transporter related (Fused macrolide transporter subunits of ABC superfamily: ATP-binding component/membrane component)	 	+ 	+ 	+ 
+FOCA_B	B	P0AC23	FOCA_ECOLI	C6EI78	B	Formate transporter (Formate/nitrite transporter)	 	+ 	+ 	+ 
+LPXK_B	B	P27300	LPXK_ECOLI	C6EI67	B	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) (Lipid A 4'-kinase)	 	+ 	+ 	+ 
+YCBC_B	B	P0AB01	YCBC_ECOLI	C6EI62	B	Conserved inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+PQIB_B	B	P43671	PQIB_ECOLI	C6EI31	B	Mammalian cell entry related domain protein (Paraquat-inducible protein B)	 	+ 	+ 	+ 
+YCCS_B	B	P75870	YCCS_ECOLI	C6EI21	B	Putative uncharacterized protein	 	+ 	+ 	+ 
+YCCF_B	B	P0AB12	YCCF_ECOLI	C6EI20	B	Conserved inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+YQJE_B	B	P64585	YQJE_ECOLI	C6EHP4	B	Conserved inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+HTRB_B	B	P0ACV0	HTRB_ECOLI	C6EHF9	B	Lipid A biosynthesis lauroyl (Or palmitoleoyl) acyltransferase (Lipid A biosynthesis lauroyl acyltransferase) (EC 2.3.1.-)	 	+ 	+ 	+ 
+MVIN_B	B	P0AF16	MVIN_ECOLI	C6EHE4	B	Integral membrane protein MviN (Predicted inner membrane protein)	 	+ 	+ 	+ 
+YCEG_B	B	P28306	YCEG_ECOLI	C6EHB7	B	Aminodeoxychorismate lyase (Predicted aminodeoxychorismate lyase) (EC 2.7.4.9)	 	+ 	+ 	+ 
+MLAE_B	B	P64606	MLAE_ECOLI	C6EH33	B	Predicted toluene transporter subunit: membrane component of ABC superfamily (Putative uncharacterized protein)	 	+ 	+ 	+ 
+MTGA_B	B	P46022	MTGA_ECOLI	C6EH19	B	Monofunctional biosynthetic peptidoglycan transglycosylase (Monofunctional TGase) (EC 2.4.2.-)	 	+ 	+ 	+ 
+DEGS_B	B	P0AEE3	DEGS_ECOLI	C6EGZ7	B	"Periplasmic serine protease DegS (EC 3.4.21.108) (Serine endoprotease, periplasmic) (EC 3.4.21.-)"	 	+ 	+ 	+ 
+PHOQ_B	B	P23837	PHOQ_ECOLI	C6EGW2	B	Histidine kinase (Sensory histidine kinase in two-compoent regulatory system with PhoP) (EC 2.7.1.-)	 	+ 	+ 	+ 
+IDH_B	B	P08200	IDH_ECOLI	C6EGV5	B	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	 	+ 	+ 	+ 
+CHAA_B	B	P31801	CHAA_ECOLI	C6EGP8	B	Calcium/proton exchanger (Calcium/sodium:proton antiporter)	 	+ 	+ 	+ 
+AAEA_B	B	P46482	AAEA_ECOLI	C6EGL9	B	p-hydroxybenzoic acid efflux pump subunit AaeA (pHBA efflux pump protein A)	 	+ 	+ 	+ 
+MREC_B	B	P16926	MREC_ECOLI	C6EGL1	B	Cell wall structural complex MreBCD transmembrane component MreC (Rod shape-determining protein MreC)	 	+ 	+ 	+ 
+PURP_B	B	P31466	PURP_ECOLI	C6EG89	B	Predicted inner membrane protein (Xanthine/uracil/vitamin C permease)	 	+ 	+ 	+ 
+PSTA_B	B	P07654	PSTA_ECOLI	C6EG77	B	"Phosphate ABC transporter, inner membrane subunit PstA (Phosphate transporter subunit)"	 	+ 	+ 	+ 
+WECA_B	B	P0AC78	WECA_ECOLI	C6EG28	B	UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase (EC 2.4.1.-) (Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphatetransferase)	 	+ 	+ 	+ 
+OPPC_B	B	P0AFH6	OPPC_ECOLI	C6EFZ1	B	Binding-protein-dependent transport systems inner membrane component (Oligopeptide transporter subunit)	 	+ 	+ 	+ 
+CLS_B	B	P0A6H8	CLS_ECOLI	C6EFY7	B	Cardiolipin synthase (CL synthase) (EC 2.7.8.-)	 	+ 	+ 	+ 
+YCIS_B	B	P0ACV4	YCIS_ECOLI	C6EFV5	B	Conserved inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+YCJF_B	B	P0A8R7	YCJF_ECOLI	C6EFR0	B	UPF0283 membrane protein ycjF	 	+ 	+ 	+ 
+GNTT_B	B	P39835	GNTT_ECOLI	C6EFF9	B	"Gluconate transporter (Gluconate transporter, high-affinity GNT I system)"	 	+ 	+ 	+ 
+GLPG_B	B	P09391	GLPG_ECOLI	C6EFF0	B	Predicted intramembrane serine protease (Rhomboid protease) (EC 3.4.21.105)	 	+ 	+ 	+ 
+RMUC_B	B	P0AG71	RMUC_ECOLI	C6EF64	B	Predicted recombination limiting protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+TATC_B	B	P69423	TATC_ECOLI	C6EF58	B	"Sec-independent protein translocase, TatC subunit (TatABCE protein translocation system subunit)"	 	+ 	+ 	+ 
+YIHY_B	B	P0A8K8	YIHY_ECOLI	C6EF15	B	Ribonuclease BN	 	+ 	+ 	+ 
+FIEF_B	B	P69380	FIEF_ECOLI	C6EEY3	B	Cation diffusion facilitator family transporter (Ferrous iron efflux protein F)	 	+ 	+ 	+ 
+YHJG_B	B	P37645	YHJG_ECOLI	C6EEF9	B	AsmA family protein (Predicted outer membrane biogenesis protein)	 	+ 	+ 	+ 
+DCTA_B	B	P0A830	DCTA_ECOLI	C6EEF5	B	C4-dicarboxylate transport protein (Sodium:dicarboxylate symporter)	 	+ 	+ 	+ 
+YHJK_B	B	P37649	YHJK_ECOLI	C6EEF4	B	Diguanylate cyclase/phosphodiesterase with extracellular sensor (Predicted diguanylate cyclase)	 	+ 	+ 	+ 
+BCSB_B	B	P37652	BCSB_ECOLI	C6EEF1	B	Cellulose synthase subunit B	 	+ 	+ 	+ 
+YHJU_B	B	P37659	YHJU_ECOLI	C6EEE5	B	Cellulose synthase operon protein YhjU (Predicted inner membrane protein)	 	+ 	+ 	+ 
+MENA_B	B	P32166	MENA_ECOLI	C6EE79	B	"1,4-dihydroxy-2-naphthoate octaprenyltransferase"	 	+ 	+ 	+ 
+YJBB_B	B	P0AF43	YJBB_ECOLI	C6EE04	B	Predicted transporter (Sodium-dependent inorganic phosphate (Pi) transporter)	 	+ 	+ 	+ 
+YDHJ_B	B	P76185	YDHJ_ECOLI	C6EDK1	B	Secretion protein HlyD family protein (Undecaprenyl pyrophosphate phosphatase)	 	+ 	+ 	+ 
+PTM3C_B	B	P00550	PTM3C_ECOLI	C6EDJ3	B	"Fused mannitol-specific PTS enzymes: IIA components/IIB components/IIC components (PTS system, mannitol-specific IIC subunit)"	 	+ 	+ 	+ 
+YJCE_B	B	P32703	YJCE_ECOLI	C6ED59	B	Na+/H+ antiporter (Predicted cation/proton antiporter)	 	+ 	+ 	+ 
+ACTP_B	B	P32705	ACTP_ECOLI	C6ED58	B	Cation/acetate symporter ActP (Acetate permease) (Acetate transporter ActP)	 	+ 	+ 	+ 
+BASS_B	B	P30844	BASS_ECOLI	C6ED12	B	Histidine kinase	 	+ 	+ 	+ 
+DSBD_B	B	P36655	DSBD_ECOLI	C6ECY9	B	Thiol:disulfide interchange protein dsbD (EC 1.8.1.8) (Protein-disulfide reductase)	 	+ 	+ 	+ 
+BETT_B	B	P0ABC9	BETT_ECOLI	C6EC73	B	Choline/carnitine/betaine transporter	 	+ 	+ 	+ 
+YEAJ_B	B	P76237	YEAJ_ECOLI	C6EC44	B	Diguanylate cyclase (Predicted diguanylate cyclase)	 	+ 	+ 	+ 
+HTPX_B	B	P23894	HTPX_ECOLI	C6EC00	B	Protease HtpX (EC 3.4.24.-) (Heat shock protein HtpX)	 	+ 	+ 	+ 
+YEBT_B	B	P76272	YEBT_ECOLI	C6EBZ5	B	Mammalian cell entry related domain protein (Putative uncharacterized protein yebT)	 	+ 	+ 	+ 
+MSBB_B	B	P24205	MSBB_ECOLI	C6EBX2	B	Lipid A biosynthesis (KDO)2-(Lauroyl)-lipid IVA acyltransferase	 	+ 	+ 	+ 
+TYPH_B	B	P07650	TYPH_ECOLI	C6EBI9	B	Thymidine phosphorylase (EC 2.4.2.4) (TdRPase)	 	+ 	+ 	+ 
+SMP_B	B	P0AGC7	SMP_ECOLI	C6EBI4	B	Putative uncharacterized protein (Putative uncharacterized protein smp)	 	+ 	+ 	+ 
+FTSQ_B	B	P06136	FTSQ_ECOLI	C6EAW2	B	Cell division protein FtsQ (Membrane anchored protein involved in growth of wall at septum)	 	+ 	+ 	+ 
+AROP_B	B	P15993	AROP_ECOLI	C6EAU5	B	Amino acid permease-associated region	 	+ 	+ 	+ 
+DHG_B	B	P15877	DHG_ECOLI	C6EAT3	B	"Glucose dehydrogenase (EC 1.1.5.2) (Membrane-bound PQQ-dependent dehydrogenase, glucose/quinate/shikimate family) (EC 1.1.5.2)"	 	+ 	+ 	+ 
+YEGH_B	B	P76389	YEGH_ECOLI	C6EAP4	B	Fused predicted membrane protein/predicted membrane protein (Integral membrane protein TerC)	 	+ 	+ 	+ 
+MDTC_B	B	P76399	MDTC_ECOLI	C6EAM9	B	"Acriflavin resistance protein (Multidrug efflux system, subunit C)"	 	+ 	+ 	+ 
+PTKC_B	B	P69831	PTKC_ECOLI	C6EAL8	B	"Galactitol-specific enzyme IIC component of PTS (PTS system, galactitol-specific IIC subunit)"	 	+ 	+ 	+ 
+SANA_B	B	P0AFY2	SANA_ECOLI	C6EAG8	B	Putative uncharacterized protein (Putative uncharacterized protein sanA)	 	+ 	+ 	+ 
+LYSP_B	B	P25737	LYSP_ECOLI	C6EAF7	B	Amino acid permease-associated region (Lysine transporter)	 	+ 	+ 	+ 
+CLCA_B	B	P37019	CLCA_ECOLI	C6EAC9	B	Chloride channel core (Chloride channel protein)	 	+ 	+ 	+ 
+METI_B	B	P31547	METI_ECOLI	C6EA86	B	Binding-protein-dependent transport systems inner membrane component (DL-methionine transporter subunit)	 	+ 	+ 	+ 
+YAGU_B	B	P0AAA1	YAGU_ECOLI	C6EA36	B	Conserved inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	+ 
+YEIU_B	B	P76445	YEIU_ECOLI	C6EA23	B	Phosphoesterase PA-phosphatase related (Undecaprenyl pyrophosphate phosphatase)	 	+ 	+ 	+ 
+YEJE_B	B	P33915	YEJE_ECOLI	C6EA18	B	Binding-protein-dependent transport systems inner membrane component (Predicted oligopeptide transporter subunit)	 	+ 	+ 	+ 
+YEJM_B	B	P0AD27	YEJM_ECOLI	C6EA09	B	"Predicted hydrolase, inner membrane (Sulfatase)"	 	+ 	+ 	+ 
+CCMH_B	B	P0ABM9	CCMH_ECOLI	C6EA06	B	"Cytochrome C biogenesis protein (Heme lyase, CcmH subunit)"	 	+ 	+ 	+ 
+NUON_B	B	P0AFF0	NUON_ECOLI	C6E9S6	B	"Proton-translocating NADH-quinone oxidoreductase, chain N"	 	+ 	+ 	+ 
+NUOM_B	B	P0AFE8	NUOM_ECOLI	C6E9S5	B	"NADH dehydrogenase subunit M (EC 1.6.5.3) (Proton-translocating NADH-quinone oxidoreductase, chain M)"	 	+ 	+ 	+ 
+NUOL_B	B	P33607	NUOL_ECOLI	C6E9S4	B	"NADH dehydrogenase subunit L (EC 1.6.5.3) (Proton-translocating NADH-quinone oxidoreductase, chain L)"	 	+ 	+ 	+ 
+YFEH_B	B	P39836	YFEH_ECOLI	C6EL69	B	Bile acid:sodium symporter (Predicted inner membrane protein)	 	+ 	+ 	 
+YQHA_B	B	P67244	YQHA_ECOLI	C6EHZ0	B	UPF0114 protein yqhA	 	+ 	+ 	 
+CVRA_B	B	P76007	CVRA_ECOLI	C6EGS6	B	Potassium/proton antiporter (Sodium/hydrogen exchanger)	 	+ 	+ 	 
+NARX_B	B	P0AFA2	NARX_ECOLI	C6EGP2	B	Histidine kinase (EC 2.7.13.3) (Sensory histidine kinase in two-component regulatory system with NarL) (EC 2.7.3.-)	 	+ 	+ 	 
+CSRD_B	B	P13518	CSRD_ECOLI	C6EGK8	B	Conserved inner membrane protein (Diguanylate cyclase/phosphodiesterase)	 	+ 	+ 	 
+RSMB_B	B	P36929	RSMB_ECOLI	C6EGH8	B	"16S rRNA m5C967 methyltransferase, S-adenosyl-L-methionine-dependent (EC 2.1.1.61) (Sun protein)"	 	+ 	+ 	 
+KEFB_B	B	P45522	KEFB_ECOLI	C6EGB3	B	Glutathione-regulated potassium-efflux system protein kefB (K(+)/H(+) antiporter) (NEM-activatable K(+)/H(+) antiporter)	 	+ 	+ 	 
+ENVZ_B	B	P0AEJ4	ENVZ_ECOLI	C6EFH0	B	Histidine kinase	 	+ 	+ 	 
+C561_B	B	P0ABE5	C561_ECOLI	C6EEU4	B	Cytochrome B561 (Cytochrome b561) (EC 1.2.2.4)	 	+ 	+ 	 
+TEHA_B	B	P25396	TEHA_ECOLI	C6EET4	B	C4-dicarboxylate transporter/malic acid transport protein (Potassium-tellurite ethidium and proflavin transporter)	 	+ 	+ 	 
+RFAL_B	B	P27243	RFAL_ECOLI	C6EDG8	B	"Lipid A-core, surface polymer ligase (O-antigen polymerase)"	 	+ 	+ 	 
+YICN_B	B	P0ADL3	YICN_ECOLI	C6EDA6	B	Putative uncharacterized protein (Putative uncharacterized protein yicN)	 	+ 	+ 	 
+MDTK_B	B	P37340	MDTK_ECOLI	C6ECU0	B	Multidrug resistance protein mdtK (Multidrug-efflux transporter)	 	+ 	+ 	 
+YJIN_B	B	P39385	YJIN_ECOLI	C6EBP2	B	Conserved inner membrane protein (Putative uncharacterized protein)	 	+ 	+ 	 
+YEDV_B	B	P76339	YEDV_ECOLI	C6EBA0	B	Heavy metal sensor signal transduction histidine kinase	 	+ 	+ 	 
+KEFC_B	B	P03819	KEFC_ECOLI	C6EB06	B	Glutathione-regulated potassium-efflux system protein (Potassium efflux system protein)	 	+ 	+ 	 
+CCMF_B	B	P33927	CCMF_ECOLI	C6EA04	B	"Cytochrome c assembly protein (Heme lyase, CcmF subunit)"	 	+ 	+ 	 
+YOJI_B	B	P33941	YOJI_ECOLI	C6E9Y8	B	Cyclic peptide transporter (Fused predicted multidrug transport subunits of ABC superfamily: membrane component/ATP-binding component)	 	+ 	+ 	 
+YPDA_B	B	P0AA93	YPDA_ECOLI	C6EL88	B	"Predicted sensory kinase in two-component system with YpdB (Signal transduction histidine kinase, LytS) (EC 2.7.13.3)"	 	+ 	 	+ 
+YLAC_B	B	P0AAS0	YLAC_ECOLI	C6EL06	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	+ 	 	+ 
+PTYBC_B	B	P77272	PTYBC_ECOLI	C6EKS4	B	N-acetylmuramic acid phosphotransfer permease (Phosphotransferase system EIIC)	 	+ 	 	+ 
+PERM_B	B	P0AFI9	PERM_ECOLI	C6EKL8	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	+ 	 	+ 
+YGAP_B	B	P55734	YGAP_ECOLI	C6EJV7	B	Predicted inner membrane protein with hydrolase activity (Rhodanese domain protein)	 	+ 	 	+ 
+PROW_B	B	P14176	PROW_ECOLI	C6EJU7	B	Binding-protein-dependent transport systems inner membrane component (Glycine betaine transporter subunit)	 	+ 	 	+ 
+FTSB_B	B	P0A6S5	FTSB_ECOLI	C6EJB9	B	Cell diviision protein FtsB (Septum formation initiator)	 	+ 	 	+ 
+ARTM_B	B	P0AE30	ARTM_ECOLI	C6EIC0	B	"Arginine transporter subunit (Polar amino acid ABC transporter, inner membrane subunit)"	 	+ 	 	+ 
+GLPF_B	B	P0AER0	GLPF_ECOLI	C6EEX1	B	Glycerol facilitator (MIP family channel protein)	 	+ 	 	+ 
+YDIK_B	B	P0AFS7	YDIK_ECOLI	C6ECR8	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	+ 	 	+ 
+YNIB_B	B	P76208	YNIB_ECOLI	C6ECN2	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	+ 	 	+ 
+YTFB_B	B	P39310	YTFB_ECOLI	C6ECD8	B	Opacity-associated protein A (Predicted cell envelope opacity-associated protein)	 	+ 	 	+ 
+YTFN_B	B	P39321	YTFN_ECOLI	C6ECC4	B	Putative uncharacterized protein (Putative uncharacterized protein ytfN)	 	+ 	 	+ 
+YEBO_B	B	P64499	YEBO_ECOLI	C6EC05	B	Putative uncharacterized protein yebO (Uncharacterized protein YebO)	 	+ 	 	+ 
+YOBH_B	B	Q2MB16	YOBH_ECOLI	C6EC03	B	Putative uncharacterized protein	 	+ 	 	+ 
+PGSA_B	B	P0ABF8	PGSA_ECOLI	C6EBF0	B	CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5) (Phosphatidylglycerophosphate synthetase) (EC 2.7.8.5)	 	+ 	 	+ 
+NHAA_B	B	P13738	NHAA_ECOLI	C6EB35	B	Na+/H+ antiporter NhaA (pH-dependent sodium/proton antiporter)	 	+ 	 	+ 
+FTSL_B	B	P0AEN4	FTSL_ECOLI	C6EAX2	B	Cell division protein FtsL (Membrane bound cell division protein at septum containing leucine zipper motif)	 	+ 	 	+ 
+YEHU_B	B	P0AD14	YEHU_ECOLI	C6EAI6	B	"Predicted sensory kinase in two-component system with YehT (Signal transduction histidine kinase, LytS) (EC 2.7.13.3)"	 	+ 	 	+ 
+DSBE_B	B	P0AA86	DSBE_ECOLI	C6EA05	B	Periplasmic thioredoxin of cytochrome c-type biogenesis (Redoxin domain protein)	 	+ 	 	+ 
+MQO_B	B	P33940	MQO_ECOLI	C6E9Y9	B	Probable malate:quinone oxidoreductase (EC 1.1.5.4) (MQO) (Malate dehydrogenase [quinone])	 	+ 	 	+ 
+FLK_B	B	P15286	FLK_ECOLI	C6ELD2	B	Flagella assembly protein (Predicted flagella assembly protein)	 	+ 	 	 
+YBBJ_B	B	P0AAS3	YBBJ_ECOLI	C6EKX6	B	Putative uncharacterized protein	 	+ 	 	 
+YFGG_B	B	P64545	YFGG_ECOLI	C6EKK6	B	Putative uncharacterized protein (Putative uncharacterized protein yfgG)	 	+ 	 	 
+CUSS_B	B	P77485	CUSS_ECOLI	C6EKD1	B	"Heavy metal sensor signal transduction histidine kinase (Sensory histidine kinase in two-component regulatory system with CusR, senses copper ions)"	 	+ 	 	 
+RSEA_B	B	P0AFX7	RSEA_ECOLI	C6EK15	B	"Anti sigma-E protein, RseA (Anti-sigma factor)"	 	+ 	 	 
+YGFX_B	B	Q46824	YGFX_ECOLI	C6EIL2	B	Putative uncharacterized protein (Putative uncharacterized protein ygfX)	 	+ 	 	 
+YGGT_B	B	P64564	YGGT_ECOLI	C6EIF9	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	+ 	 	 
+ALX_B	B	P42601	ALX_ECOLI	C6EHQ7	B	"Integral membrane protein TerC (Predicted inner membrane protein, part of terminus)"	 	+ 	 	 
+EFEU_B	B	P75901	EFEU_ECOLI	C6EHJ0	B	FTR1 family protein	 	+ 	 	 
+MDTG_B	B	P25744	MDTG_ECOLI	C6EHG0	B	Major facilitator superfamily MFS_1 (Predicted drug efflux system)	 	+ 	 	 
+SAPC_B	B	P0AGH5	SAPC_ECOLI	C6EFU0	B	Binding-protein-dependent transport systems inner membrane component (Predicted antimicrobial peptide transporter subunit)	 	+ 	 	 
+DHAS_B	B	P0A9Q9	DHAS_ECOLI	C6EFE1	B	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	 	+ 	 	 
+YHHJ_B	B	P0AGH1	YHHJ_ECOLI	C6EEJ9	B	ABC-2 type transporter (Predicted transporter subunit: membrane component of ABC superfamily)	 	+ 	 	 
+ZRAS_B	B	P14377	ZRAS_ECOLI	C6EE15	B	Histidine kinase (Sensory histidine kinase in two-component regulatory system with ZraR)	 	+ 	 	 
+RSTB_B	B	P18392	RSTB_ECOLI	C6EDN9	B	Histidine kinase (Sensory histidine kinase in two-component regulatory system with RstA)	 	+ 	 	 
+RNFD_B	B	P76182	RNFD_ECOLI	C6EDL6	B	Electron transport complex protein rnfD	 	+ 	 	 
+GLTS_B	B	P0AER8	GLTS_ECOLI	C6EDD6	B	Glutamate transporter (Sodium/glutamate symporter)	 	+ 	 	 
+FRDC_B	B	P0A8Q0	FRDC_ECOLI	C6ECX1	B	Fumarate reductase subunit C (Fumarate reductase 15 kDa hydrophobic protein)	 	+ 	 	 
+FTSW_B	B	P0ABG4	FTSW_ECOLI	C6EAW6	B	Cell division protein FtsW (Integral membrane protein involved in stabilizing FstZ ring during cell division)	 	+ 	 	 
+BAES_B	B	P30847	BAES_ECOLI	C6EAM7	B	Histidine kinase (Sensory histidine kinase in two-component regulatory system with BaeR) (EC 2.7.3.-)	 	+ 	 	 
+MDTB_B	B	P76398	MDTB_ECOLI	C6EAN0	B	Multidrug resistance protein mdtB (Multidrug transporter mdtB)	 	 	+ 	+ 
+ODP1_B	B	P0AFG8	ODP1_ECOLI	C6EAU3	B	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	 	 	+ 	+ 
+YEEF_B	B	P0AA47	YEEF_ECOLI	C6EB69	B	Amino acid permease-associated region (Predicted amino-acid transporter)	 	 	+ 	+ 
+OPGB_B	B	P39401	OPGB_ECOLI	C6EBL1	B	Phosphoglycerol transferase I (EC 2.7.8.20) (Phosphatidylglycerol--membrane-oligosaccharide glycerophosphotransferase)	 	 	+ 	+ 
+YEBA_B	B	P0AFS9	YEBA_ECOLI	C6EBX1	B	Peptidase M23	 	 	+ 	+ 
+DTPA_B	B	P77304	DTPA_ECOLI	C6EDL1	B	Amino acid/peptide transporter (Putative tripeptide transporter permease)	 	 	+ 	+ 
+RNFE_B	B	P77179	RNFE_ECOLI	C6EDL4	B	Electron transport complex protein rnfE	 	 	+ 	+ 
+UBIA_B	B	P0AGK1	UBIA_ECOLI	C6EDY0	B	4-hydroxybenzoate octaprenyltransferase (EC 2.5.1.-) (4-HB polyprenyltransferase)	 	 	+ 	+ 
+YDBH_B	B	P52645	YDBH_ECOLI	C6EEW3	B	Putative uncharacterized protein (Putative uncharacterized protein ydbH)	 	 	+ 	+ 
+FEOB_B	B	P33650	FEOB_ECOLI	C6EFG5	B	Ferrous iron transport protein B	 	 	+ 	+ 
+PGPB_B	B	P0A924	PGPB_ECOLI	C6EFV6	B	Phosphatidylglycerophosphatase (EC 3.1.3.27) (Phosphatidylglycerophosphatase B) (EC 3.1.3.27)	 	 	+ 	+ 
+KCH_B	B	P31069	KCH_ECOLI	C6EFY6	B	TrkA-N domain protein (Voltage-gated potassium channel)	 	 	+ 	+ 
+YIFK_B	B	P27837	YIFK_ECOLI	C6EG16	B	Amino acid permease-associated region (Predicted transporter)	 	 	+ 	+ 
+ATP6_B	B	P0AB98	ATP6_ECOLI	C6EG65	B	ATP synthase subunit a (ATP synthase F0 sector subunit a) (F-ATPase subunit 6)	 	 	+ 	+ 
+GALU_B	B	P0AEP3	GALU_ECOLI	C6EGN1	B	Glucose-1-phosphate uridylyltransferase (EC 2.7.7.9) (UTP-glucose-1-phosphate uridylyltransferase)	 	 	+ 	+ 
+POTB_B	B	P0AFK4	POTB_ECOLI	C6EGW6	B	Binding-protein-dependent transport systems inner membrane component	 	 	+ 	+ 
+ARCB_B	B	P0AEC3	ARCB_ECOLI	C6EH17	B	Hybrid sensory histidine kinase in two-component regulatory system with ArcA (EC 2.7.3.-) (Multi-sensor hybrid histidine kinase)	 	 	+ 	+ 
+ETK_B	B	P38134	ETK_ECOLI	C6EHM6	B	Capsular exopolysaccharide family (EC 2.7.10.2) (Cryptic autophosphorylating protein tyrosine kinase Etk)	 	 	+ 	+ 
+MUTS_B	B	P23909	MUTS_ECOLI	C6EJD4	B	DNA mismatch repair protein mutS	 	 	+ 	+ 
+ATKB_B	B	P03960	ATKB_ECOLI	C6EJN7	B	Potassium-transporting ATPase B chain (EC 3.6.3.12) (ATP phosphohydrolase [potassium-transporting] B chain) (Potassium-binding and translocating subunit B) (Potassium-translocating ATPase B chain)	 	 	+ 	+ 
+PHEP_B	B	P24207	PHEP_ECOLI	C6EKC5	B	Amino acid permease-associated region	 	 	+ 	+ 
+NARQ_B	B	P27896	NARQ_ECOLI	C6EKP3	B	Histidine kinase (EC 2.7.13.3) (Sensory histidine kinase in two-component regulatory system with NarP (NarL)) (EC 2.7.3.-)	 	 	+ 	+ 
+YFCA_B	B	P0AD30	YFCA_ECOLI	C6ELC6	B	Conserved inner membrane protein (Putative uncharacterized protein)	 	 	+ 	+ 
+HISQ_B	B	P52094	HISQ_ECOLI	C6ELE5	B	"Histidine/lysine/arginine/ornithine transporter subunit (Polar amino acid ABC transporter, inner membrane subunit)"	 	 	+ 	+ 
+PTA_B	B	P0A9M8	PTA_ECOLI	C6ELF6	B	Phosphate acetyltransferase	 	 	+ 	+ 
+PROY_B	B	P0AAE2	PROY_ECOLI	C6ELI2	B	Amino acid permease-associated region (Predicted cryptic proline transporter)	 	 	+ 	+ 
+CODB_B	B	P0AA82	CODB_ECOLI	C6ELP4	B	Cytosine transporter (NCS1 nucleoside transporter family)	 	 	+ 	+ 
+YEEE_B	B	P33015	YEEE_ECOLI	C6EB70	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	 	+ 	 
+COBS_B	B	P36561	COBS_ECOLI	C6EB80	B	Cobalamin synthase (EC 2.-.-.-)	 	 	+ 	 
+MCP4_B	B	P07018	MCP4_ECOLI	C6EBU2	B	Methyl-accepting chemotaxis sensory transducer (Methyl-accepting protein IV)	 	 	+ 	 
+UHPB_B	B	P09835	UHPB_ECOLI	C6EDA1	B	Histidine kinase (EC 2.7.13.3) (Sensory histidine kinase in two-component regulatory sytem with UhpA) (EC 2.7.3.-)	 	 	+ 	 
+DPPC_B	B	P0AEG1	DPPC_ECOLI	C6EED8	B	Binding-protein-dependent transport systems inner membrane component (Dipeptide transporter)	 	 	+ 	 
+KUP_B	B	P63183	KUP_ECOLI	C6EG56	B	Potassium transporter (Potassium uptake protein)	 	 	+ 	 
+PSTC_B	B	P0AGH8	PSTC_ECOLI	C6EG76	B	"Phosphate ABC transporter, inner membrane subunit PstC (Phosphate transporter subunit)"	 	 	+ 	 
+OPPB_B	B	P0AFH2	OPPB_ECOLI	C6EGM3	B	Binding-protein-dependent transport systems inner membrane component (Oligopeptide permease ABC transporter membrane protein)	 	 	+ 	 
+PPPA_B	B	Q46836	PPPA_ECOLI	C6EID8	B	Prepilin peptidase (EC 3.4.23.43)	 	 	+ 	 
+MDFA_B	B	P0AEY8	MDFA_ECOLI	C6EIU1	B	Major facilitator superfamily MFS_1 (Multidrug efflux system protein)	 	 	+ 	 
+GSID_B	B	P75799	GSID_ECOLI	C6EIV0	B	Binding-protein-dependent transport systems inner membrane component (Predicted peptide transporter subunit: membrane component of ABC superfamily)	 	 	+ 	 
+FEPD_B	B	P23876	FEPD_ECOLI	C6EKA5	B	Iron-enterobactin transporter subunit (Transport system permease protein)	 	 	+ 	 
+CYOC_B	B	P0ABJ3	CYOC_ECOLI	C6EL36	B	"Cytochrome o ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome o ubiquinol oxidase, subunit III)"	 	 	+ 	 
+CYSW_B	B	P0AEB0	CYSW_ECOLI	C6EL54	B	"Sulfate ABC transporter, inner membrane subunit"	 	 	+ 	 
+HISM_B	B	P0AEU3	HISM_ECOLI	C6ELE6	B	"Histidine/lysine/arginine/ornithine transporter subunit (Polar amino acid ABC transporter, inner membrane subunit)"	 	 	+ 	 
+YFBS_B	B	P0AFU2	YFBS_ECOLI	C6ELG1	B	Citrate transporter (Predicted transporter)	 	 	+ 	 
+SBCC_B	B	P13458	SBCC_ECOLI	C6ELI7	B	"Exonuclease SbcC (Exonuclease, dsDNA, ATP-dependent)"	 	 	 	+ 
+DEDA_B	B	P0ABP6	DEDA_ECOLI	C6ELD6	B	Conserved inner membrane protein (SNARE associated Golgi protein)	 	 	 	+ 
+CYST_B	B	P16701	CYST_ECOLI	C6EL53	B	"Sulfate ABC transporter, inner membrane subunit (Sulfate/thiosulfate transporter subunit)"	 	 	 	+ 
+IMDH_B	B	P0ADG7	IMDH_ECOLI	C6EKK1	B	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	 	 	 	+ 
+CUSA_B	B	P38054	CUSA_ECOLI	C6EKC6	B	"Copper/silver efflux system, membrane component (Heavy metal efflux pump, CzcA family)"	 	 	 	+ 
+EMRB_B	B	P0AEJ0	EMRB_ECOLI	C6EJU0	B	"Drug resistance transporter, EmrB/QacA subfamily (Multidrug efflux system protein)"	 	 	 	+ 
+YGDL_B	B	Q46927	YGDL_ECOLI	C6EJ54	B	Putative uncharacterized protein ygdL (UBA/THIF-type NAD/FAD binding protein)	 	 	 	+ 
+YBHL_B	B	P0AAC4	YBHL_ECOLI	C6EIZ6	B	Predicted inner membrane protein (Putative uncharacterized protein)	 	 	 	+ 
+ARTQ_B	B	P0AE34	ARTQ_ECOLI	C6EIB9	B	"Arginine transporter subunit (Polar amino acid ABC transporter, inner membrane subunit)"	 	 	 	+ 
+LRP_B	B	P0ACJ0	LRP_ECOLI	C6EI93	B	"DNA-binding transcriptional dual regulator, leucine-binding (Transcriptional regulator, AsnC family)"	 	 	 	+ 
+FTSK_B	B	P46889	FTSK_ECOLI	C6EI92	B	Cell divisionFtsK/SpoIIIE (DNA-binding membrane protein required for chromosome resolution and partitioning)	 	 	 	+ 
+YQJK_B	B	Q47710	YQJK_ECOLI	C6EHP3	B	Putative uncharacterized protein (Putative uncharacterized protein yqjK)	 	 	 	+ 
+WRBA_B	B	P0A8G6	WRBA_ECOLI	C6EHK3	B	Flavoprotein wrbA (Trp repressor-binding protein)	 	 	 	+ 
+PANF_B	B	P16256	PANF_ECOLI	C6EGK2	B	Sodium/panthothenate symporter (Sodium/pantothenate symporter)	 	 	 	+ 
+ATPL_B	B	P68699	ATPL_ECOLI	C6EG66	B	ATP synthase subunit c (ATP synthase F(0) sector subunit c) (F-type ATPase subunit c) (Lipid-binding protein)	 	 	 	+ 
+FDOI_B	B	P0AEL0	FDOI_ECOLI	C6EF07	B	"Formate dehydrogenase, gamma subunit (Formate dehydrogenase-O, cytochrome b556 subunit) (EC 1.2.1.2)"	 	 	 	+ 
+YHIH_B	B	P37624	YHIH_ECOLI	C6EEJ8	B	ABC transporter related (Fused ribosome-associated ATPase: ATP-binding protein/ATP-binding protein/predicted membrane protein)	 	 	 	+ 
+MDTF_B	B	P37637	MDTF_ECOLI	C6EEH0	B	"Multidrug transporter, RpoS-dependent (Transporter, hydrophobe/amphiphile efflux-1 (HAE1) family)"	 	 	 	+ 
+YDHK_B	B	P76186	YDHK_ECOLI	C6EDK0	B	Conserved inner membrane protein (Fusaric acid resistance protein conserved region)	 	 	 	+ 
+UHPT_B	B	P0AGC0	UHPT_ECOLI	C6EDA3	B	Phosphoglycerate transporter (Sugar phosphate antiporter)	 	 	 	+ 
+CADC_B	B	P23890	CADC_ECOLI	C6ECZ1	B	"DNA-binding transcriptional activator (Transcriptional regulator, CadC)"	 	 	 	+ 
+GPMB_B	B	P0A7A2	GPMB_ECOLI	C6EBH6	B	Phosphoglycerate mutase	 	 	 	+ 
+SHIA_B	B	P76350	SHIA_ECOLI	C6EB88	B	"Metabolite/H+ symporter, major facilitator superfamily (MFS) (Shikimate transporter)"	 	 	 	+ 
+GUAC_B	B	P60560	GUAC_ECOLI	C6EAV2	B	GMP reductase (EC 1.7.1.7)	 	 	 	+ 
+GATD_B	B	P0A9S3	GATD_ECOLI	C6EAL9	B	"Alcohol dehydrogenase GroES domain protein (Galactitol-1-phosphate dehydrogenase, Zn-dependent and NAD(P)-binding) (EC 1.1.1.251)"	 	 	 	+ 
+RTN_B	B	P76446	RTN_ECOLI	C6EA21	B	Diguanylate phosphodiesterase (Putative uncharacterized protein rtn)	 	 	 	+ 

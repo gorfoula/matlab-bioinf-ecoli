@@ -1,0 +1,8 @@
+	DNA binding proteins													emPAI	emPAI-derived copy no/cell	emPAI Value	Copy number per cell	mMol	molecules/cell (1molec/cell=10nM)	Mean Abundance (molecules per cell)		=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")
+	RNA binding proteins																					=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")
+	Metabolic enzymes																					=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")
+A	Null	C6EB48	A	Putative glycosyltransferase WbbA (Putative uncharacterized protein)	248		Y															=HYPERLINK("http://www.uniprot.org/uniprot/?query=A&sort=score")
+A	Null	C6EB49	A	Putative glycosyltransferase WbbB (Putative uncharacterized protein)	273		Y															=HYPERLINK("http://www.uniprot.org/uniprot/?query=A&sort=score")
+	Unknown																					=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")
+	NEW translation																					=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")
+	OLD translation																					=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")

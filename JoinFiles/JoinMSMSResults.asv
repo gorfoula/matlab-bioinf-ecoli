@@ -1,0 +1,158 @@
+function [list,Header,files,discr]=JoinMSMSResults(FileList,out_file)
+%  JOINMSMSRESULTS   Join MSMS Result Tables according to a column
+%
+%       JoinMSMSResults(FileList,col)
+%       FileList:   File which containes a list of files to be joined
+%                   This file has a specific format:
+%                   <filepath>tab<# column to be joint>tab<header>
+%                   header is 0 or 1 if the corresponding files has a
+%                   header and should be overlooked in the comparison
+%       out_file:   1 or 0 save or not the OUTPUT files below
+%
+%  OUTPUT:       
+%       print_index_size    how many coloumns from each file are printed in
+%                           the file
+%
+%       1.   [ANDList_FileList] file: A table with all common occurances in all files
+%       2.   [ORList_,FileList] file:    A table with all distinct occurances
+%       from all files.
+%
+%       The first column corresponds to the Name/Join Field
+%       according to which the fusion has been done. There is a column for
+%       each file name from the FileList and a '+' symbol is assigned in case
+%       the specific Name is found in the file
+%
+%       EXAMPLE
+%
+%       JoinMSMSResults('InFiles.txt',6);
+%       Reads filelist from 'InFiles.txt' file and joins rows according to
+%       6th column
+
+[FileNames] = ReadTable(FileList,'\n');
+[namefile dir]=IsolateFileName({FileList});
+
+files=size(FileNames,1);                                            %%% How many files
+list=[];discr=[];ANDdiscr=[];
+Header=IsolateFileName(FileNames);
+printarray=CellTable2Double(FileNames(:,4:end));
+merge_col=CellTable2Double(FileNames(:,3));
+header_exist=CellTable2Double(FileNames(:,2));
+Header=[{'Merge ID'};Header;{'# Studies'};MergeColumns(Header,' Duplicates')];
+for i=1:1:files
+    %display(['INPUT FILE: ',FileNames{i,1}]);
+    [Table]=ReadTable(FileNames{i,1},'\n'); %%%% Read table
+    print_index=printarray(i,printarray(i,:)>0);
+    DataToPrint=Table(header_exist(i)+1:end,print_index);
+    Header=[Header;Table(1,print_index)'];
+
+    MergeID=Table(header_exist(i)+1:end,merge_col(i));
+    [list discr ANDdiscr]=UpdateList(list,discr,ANDdiscr,MergeID,DataToPrint,files,i); %%%% Update Name List
+%     UpdateList(list,discr,col,table,print_col,files,curfile)
+end
+if(out_file==1)
+    WriteFiles(list,MergeColumns(discr,9),ANDdiscr,[dir{1},'ANDList_',namefile{1},'.txt'],[dir{1},'ORList_',namefile{1},'.txt'],Header);
+end
+display([dir{1},'ANDList_',namefile{1},'.txt']);
+display([dir{1},'ORList_',namefile{1},'.txt']);
+end
+
+function []=WriteFiles(list,discr,ANDdiscr,JoinFile,OrFile,Header)        %%% Write Or file and Joint File
+display(JoinFile);display(OrFile);
+s_join=fopen(JoinFile,'w');
+s_or=fopen(OrFile,'w');
+
+items=length(list(:,1));
+files=size(list,2);files=(files-2)/2;
+cols=length(discr(1,:));
+and_flag=1;
+for i=1:1:length(Header)
+    fprintf(s_or,'%s\t',Header{i});
+end
+fprintf(s_or,'\n');
+for i=1:1:items
+    fprintf(s_or,'%s\t',list{i,1}); % print ID|col Name
+    for f=2:1:files+1
+        fprintf(s_or,'%s\t',list{i,f}); % print ID|col
+        and_flag=and(and_flag,not(isempty(list{i,f})));
+    end
+    fprintf(s_or,'%s\t',list{i,files+2:end-1}); % print ID|col
+    fprintf(s_or,'%s\t',list{i,end}); % print ID|col
+    if(isempty(discr)==0)
+        fprintf(s_or,'%s',discr{i});
+    end
+    fprintf(s_or,'\n');
+    if(and_flag)
+        if(isempty(discr)==0)
+            fprintf(s_join,'%s',ANDdiscr{i});
+        end
+        fprintf(s_join,'\n');
+    end
+    and_flag=1;
+    
+end
+fclose all;
+end
+
+%%%%%%%%%%% MANAGE LIST   %%%%%%%%%%
+
+function [nlist ndiscr ANDdiscr]=UpdateList(list,discr,ANDdiscr,MergeID,DataToPrint,files,curfile)  %% appent in name table
+% UpdateList(list,discr,col,table,print_col,files,curfile)
+nlist=list;
+ndiscr=discr;
+items=length(MergeID);
+cols_added=size(DataToPrint,2);
+ColAppend=cell(size(list,1),cols_added);
+ndiscr=[ndiscr ColAppend];
+for i=1:1:items
+%     curfile
+%     if(i==26)
+%        display('FF') ;
+%     end
+    [found]=CheckList(nlist,MergeID(i));
+    if(isempty(found))  % if ID is NOT found list add a new line
+%         i
+        jointable=cell(1,files+1+files); % one coloumn per file for '+' and one for duplicates, one for total num of file that was found
+        jointable{1,curfile}='1';
+        jointable{1,files+1}='1';
+        jointable{1,files+1+curfile}='1';
+        nlist=[nlist;[MergeID(i) jointable]];
+       
+        ndiscr=[ndiscr;cell(1,size(ndiscr,2))];
+        ANDdiscr=[ANDdiscr;cell(1,size(ANDdiscr,2))];
+        if(isempty(DataToPrint)==0)
+            ANDdiscr=[ANDdiscr;MergeColumns(DataToPrint(i,:),9)];
+            ndiscr(end,end-cols_added+1:end)=DataToPrint(i,:);
+        end
+    elseif(strcmp(nlist{found,curfile+1},'1')==0)                % if ID is found in list mark corresponding column with +
+        nlist{found,curfile+1}='1';
+        nlist{found,files+2}=num2str(str2double(nlist{found,files+2})+1); % add files found in
+        if(isempty(DataToPrint)==0)
+            text=MergeColumns(DataToPrint(i,:),9);
+            ANDdiscr{found}=[ANDdiscr{found},9,text{1}];
+            ndiscr(found,end-cols_added+1:end)=DataToPrint(i,:);
+        end
+        nlist{found,files+2+curfile}='1'; % add duplicate
+        
+    elseif(strcmp(nlist{found,curfile+1},'1')==1)
+        if(isempty(DataToPrint)==0)
+            text=MergeColumns(DataToPrint(i,:),9);
+            ANDdiscr{found}=[ANDdiscr{found},9,text{1}];
+        end
+        nlist{found,files+2+curfile}=num2str(str2double(nlist{found,files+2+curfile})+1); % add duplicate
+    end
+    
+end
+end
+
+function [found]=CheckList(list,item)
+if(isempty(list))
+    found=[];
+    return;
+else
+    found=find(strcmpi(list(:,1),item),1);
+end
+
+end
+
+
+

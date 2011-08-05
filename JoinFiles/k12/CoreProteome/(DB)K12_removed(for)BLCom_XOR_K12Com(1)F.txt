@@ -1,0 +1,63 @@
+P77699	tfaD		b0561		TFAD_ECOLI		Uncertain	Tfa family	Putative tail fiber assembly protein homolog from lambdoid prophage DLP12		Complete proteome	247		P77699
+Q47719			b4286	JW4246	Y4286_ECOLI		Uncertain		Putative uncharacterized protein b4286	GO:0005488; GO:0003824	Complete proteome	137		Q47719
+P75684	yagP		b4694	JW0276	YAGP_ECOLI		Uncertain		Uncharacterized protein yagP		Complete proteome	136		P75684
+Q2EEQ3	yahH		b0322	JW5893	YAHH_ECOLI		Uncertain		Putative uncharacterized protein yahH		Complete proteome	106		Q2EEQ3
+P77199	yaiT		b4580	JW0362 JW5051	YAIT_ECOLI		Uncertain		Putative uncharacterized protein yaiT	GO:0007155; GO:0019867	Complete proteome; Signal	968		P77199
+P75717	ybcC		b0539	JW0526	YBCC_ECOLI		Uncertain		Putative uncharacterized protein ybCC	GO:0003677; GO:0004518	Complete proteome	87		P75717
+P39874	ybeM		b4581	JW0620 JW0621	YBEM_ECOLI		Uncertain	UPF0012 family	Putative UPF0012 hydrolase ybeM (EC 3.5.-.-)	GO:0016810; GO:0006807	Complete proteome; Hydrolase	262		P39874
+P37003	ybfG		b0691	JW5094 JW5095	YBFG_ECOLI		Uncertain		Putative uncharacterized protein ybfG		Complete proteome	216		P37003
+P56614	yciG		b1259	JW1251	YCIG_ECOLI		Evidence at protein level	Con-10 family	Uncharacterized protein yciG	GO:0005515	Complete proteome	59		P56614
+P77481	ycjV	ymjB	b4524	JW1311 JW5203	YCJV_ECOLI		Uncertain	ABC transporter superfamily	Putative uncharacterized ABC transporter ATP-binding protein ycjV	GO:0005524; GO:0043190; GO:0016887; GO:0016820	ATP-binding; Complete proteome; Nucleotide-binding; Transport	360		P77481
+P32051	ydeK	orfT	b1510	JW1503	YDEK_ECOLI	Cell membrane; Lipid-anchor. 	Uncertain		Uncharacterized lipoprotein ydeK (ORFT)	GO:0005886	Cell membrane; Complete proteome; Lipoprotein; Membrane; Palmitate; Signal	1325		P32051
+P77228	ydfJ		b4600	JW1536	YDFJ_ECOLI	Cell inner membrane; Multi-pass membrane protein. 	Uncertain	Major facilitator superfamily, Sugar transporter (TC 2.A.1.1) family	Putative inner membrane metabolite transport protein ydfJ	GO:0016021; GO:0005886; GO:0015293	Cell inner membrane; Cell membrane; Complete proteome; Membrane; Symport; Transmembrane; Transmembrane helix; Transport	427		P77228
+P76165	ydfX		b1568	JW1560	YDFX_ECOLI		Uncertain		Uncharacterized protein ydfX		Complete proteome	96		P76165
+P64526	yeeW		b2006	JW1988	YEEW_ECOLI		Uncertain		Putative uncharacterized protein yeeW		Complete proteome	64		P64526
+P33353	yehQ		b2122	JW2110	YEHQ_ECOLI		Uncertain		Putative uncharacterized protein yehQ	GO:0008270	Complete proteome; Metal-binding; Repeat; Zinc; Zinc-finger	614		P33353
+P33924	yejO		b2190	JW5839	YEJO_ECOLI	Cell outer membrane; Peripheral membrane protein. 	Uncertain		Putative uncharacterized outer membrane protein yejO	GO:0007155; GO:0009279; GO:0016021; GO:0005886	Cell membrane; Cell outer membrane; Complete proteome; Membrane; Signal; Transmembrane; Transmembrane beta strand	863		P33924
+P45505	yfaH		b2238	JW2232	YFAH_ECOLI		Uncertain		Putative uncharacterized protein yfaH		Complete proteome	68		P45505
+P52137	yfjV	ypjM	b2641		YFJV_ECOLI	Cell inner membrane; Multi-pass membrane protein. 	Uncertain	ArsB family	Putative arsenical pump membrane protein (Fragment)	GO:0015105; GO:0016021; GO:0005886; GO:0046685	Arsenical resistance; Cell inner membrane; Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix	338		P52137
+P76628	ygaY		b2681	JW2655	YGAY_ECOLI	Cell inner membrane; Multi-pass membrane protein. 	Uncertain	Major facilitator superfamily	Putative uncharacterized transporter ygaY	GO:0016021; GO:0005886; GO:0055085	Cell inner membrane; Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport	394		P76628
+Q46911	ygcU	ygcT ygcV	b4463	JW5442	YGCU_ECOLI		Inferred from homology	FAD-binding oxidoreductase/transferase type 4 family	Uncharacterized FAD-linked oxidoreductase ygcU (EC 1.-.-.-)	GO:0050660; GO:0055114; GO:0016491	Complete proteome; FAD; Flavoprotein; Oxidoreductase	484		Q46911
+Q46797	ygeQ		b2863	JW5461	YGEQ_ECOLI		Uncertain		Putative uncharacterized protein ygeQ	GO:0003824	Complete proteome	278		Q46797
+Q46817	ygfQ	ygfR	b4464	JW5467	YGFQ_ECOLI	Cell membrane; Multi-pass membrane protein. 	Inferred from homology	Xanthine/uracil permease family, AzgA purine transporter (TC 2.A.1.40) subfamily	Putative permease ygfQ	GO:0005524; GO:0016021; GO:0005886; GO:0055085; GO:0005215	ATP-binding; Cell membrane; Complete proteome; Membrane; Nucleotide-binding; Transmembrane; Transmembrane helix; Transport	455		Q46817
+P52048	yggP		b4465	JW5477	YGGP_ECOLI		Predicted		Uncharacterized protein yggP	GO:0055114; GO:0016491; GO:0008270	Complete proteome; Oxidoreductase	425		P52048
+Q46833	yghE		b2969		YGHE_ECOLI	Cell inner membrane. 	Uncertain	GSP L family	Putative general secretion pathway protein L-type yghE	GO:0009276; GO:0016021; GO:0005886; GO:0008565	Cell inner membrane; Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix; Transport	286		Q46833
+Q46840	yghO		b2981	JW5848	YGHO_ECOLI		Uncertain		Putative uncharacterized protein yghO (Fragment)	GO:0006350; GO:0030528	Complete proteome	366		Q46840
+Q7DFU6	yghX	yghY	b4658	JW5926 JW5496	YGHX_ECOLI		Uncertain		Putative uncharacterized protein yghX	GO:0016787	Complete proteome	278		Q7DFU6
+P42626	yhaM	yhaN	b4470	JW5518	YHAM_ECOLI		Inferred from homology	UPF0597 family	UPF0597 protein yhaM		Complete proteome	436		P42626
+P45766	yhdW		b3268	JW3236	YHDW_ECOLI	Periplasm. 	Uncertain	Bacterial solute-binding protein 3 family	Putative amino-acid ABC transporter-binding protein yhdW	GO:0006865; GO:0030288; GO:0005215	Amino-acid transport; Complete proteome; Periplasm; Signal; Transport	341		P45766
+P37635	yhiS		b3504	JW3471	YHIS_ECOLI		Uncertain		Putative uncharacterized protein yhiS		Complete proteome	260		P37635
+P37655	yhjQ		b3534		YHJQ_ECOLI		Uncertain		Putative uncharacterized protein yhjQ		Complete proteome	250		P37655
+P27840	yigE		b4482	JW5591	YIGE_ECOLI		Predicted		Uncharacterized protein yigE		Complete proteome	254		P27840
+P0ADQ5	yiiE		b3889	JW5929	YIIE_ECOLI		Inferred from homology	YiiE family	Uncharacterized protein yiiE	GO:0003677; GO:0006355	Complete proteome	70		P0ADQ5
+P32690	yjbI		b4038	JW3998	YJBI_ECOLI		Uncertain		Putative uncharacterized protein yjbI		Complete proteome	442		P32690
+P39354	yjhD		b4281		YJHD_ECOLI		Uncertain		Putative uncharacterized protein yjhD		Complete proteome	76		P39354
+P75675	ykfJ		b0235	JW0225	YKFJ_ECOLI		Uncertain		Putative uncharacterized protein ykfJ		Complete proteome	88		P75675
+P77601	ykgA		b0300	JW5037	YKGA_ECOLI		Uncertain		Putative HTH-type transcriptional regulator ykgA	GO:0005622; GO:0006355; GO:0043565; GO:0003700; GO:0006350	Complete proteome; DNA-binding; Transcription; Transcription regulation	239		P77601
+P77688	ylbG		b0502	JW5880	YLBG_ECOLI		Uncertain		Putative uncharacterized protein ylbG		Complete proteome	123		P77688
+P76147	yneF		b1522	JW5825	YNEF_ECOLI	Cell membrane; Multi-pass membrane protein. 	Predicted		Uncharacterized protein YneF	GO:0009190; GO:0016021; GO:0016849; GO:0005886	Cell membrane; Complete proteome; Membrane; Transmembrane; Transmembrane helix	315		P76147
+P76138	yneL		b1506	JW5244	YNEL_ECOLI		Uncertain		Putative HTH-type transcriptional regulator yneL	GO:0003677; GO:0045449; GO:0006350	Complete proteome; DNA-binding; Transcription; Transcription regulation	59		P76138
+P76356	yoeA		b4582	JW1980	YOEA_ECOLI		Uncertain		Putative uncharacterized protein yoeA	GO:0016020; GO:0004872; GO:0005215	Complete proteome	167		P76356
+P64562	yqfE		b2915	JW2882	YQFE_ECOLI		Uncertain		Putative uncharacterized protein yqfE		Complete proteome	76		P64562
+P46879	yqgD		b2941	JW2908	YQGD_ECOLI		Uncertain		Uncharacterized protein yqgD		Complete proteome	83		P46879
+P46856	yrhA		b3443	JW5864	YRHA_ECOLI		Uncertain		Putative uncharacterized protein yrhA		Complete proteome	138		P46856
+P39309	ytfA		b4205	JW4163	YTFA_ECOLI		Uncertain		Putative uncharacterized protein ytfA	GO:0016566	Complete proteome	108		P39309
+P76692	yzgL		b3427	JW3390	YZGL_ECOLI		Uncertain		Putative uncharacterized protein yzgL		Complete proteome	93		P76692
+P33669	ybbD		b0501	JW0489	YBBD_ECOLI	Membrane; Single-pass membrane protein. 	Uncertain		Putative uncharacterized protein ybbD	GO:0016021	Complete proteome; Membrane; Transmembrane; Transmembrane helix	86		P33669
+P39180	flu	yeeQ yzzX	b2000	JW1982	AG43_ECOLI	Periplasm.  Secreted. Cell surface.  Cell outer membrane; Multi-pass membrane protein. 	Evidence at protein level		Antigen 43 (AG43) (Fluffing protein) [Cleaved into: Antigen 43 alpha chain; Antigen 43 beta chain]	GO:0009279; GO:0009986; GO:0005576; GO:0016021; GO:0042597; GO:0005886	Cell membrane; Cell outer membrane; Complete proteome; Direct protein sequencing; Membrane; Periplasm; Secreted; Signal; Transmembrane; Transmembrane beta strand	1039		P39180
+P06966	dicA		b1570	JW1562	DICA_ECOLI		Predicted		HTH-type transcriptional regulator dicA (Repressor protein of division inhibition gene dicA)	GO:0007049; GO:0051301; GO:0043565; GO:0006350; GO:0016564	Cell cycle; Cell division; Complete proteome; DNA-binding; Repressor; Transcription; Transcription regulation	135		P06966
+P06965	dicC		b1569	JW1561	DICC_ECOLI		Predicted		Repressor protein of division inhibition gene dicB	GO:0003677; GO:0007049; GO:0051301; GO:0045449; GO:0006350	Cell cycle; Cell division; Complete proteome; DNA-binding; Repressor; Transcription; Transcription regulation	76		P06965
+P77609	flxA		b1566	JW1558	FLXA_ECOLI		Predicted		Protein flxA		Complete proteome	110		P77609
+P0CF79	insF1		b0299	JW0293	INSF1_ECOLI		Inferred from homology	Transposase IS3/IS150/IS904 family	Transposase insF for insertion sequence IS3A	GO:0003677; GO:0015074; GO:0006310; GO:0032196	Complete proteome; DNA recombination; DNA-binding; Transposable element; Transposition	288		P0CF79
+P77184	lomR		b4570	JW5884 JW5904	LOMR_ECOLI		Uncertain	Ail/ompX/pagC/lom family	Putative protein lomR	GO:0009279; GO:0016021	Complete proteome	164		P77184
+P37057	ogrK		b2082	JW2067	OGRK_ECOLI		Predicted		Prophage P2 OGR protein	GO:0006350; GO:0030528	Activator; Complete proteome; Transcription; Transcription regulation	72		P37057
+P76161	quuQ	ydfT	b1559	JW1551	REQ2_ECOLI		Inferred from homology	Phage antitermination Q type 2 family	Antitermination protein Q homolog from lambdoid prophage Qin	GO:0003677; GO:0031072; GO:0006457; GO:0006350; GO:0031564; GO:0051082	Complete proteome; DNA-binding; Transcription; Transcription antitermination; Transcription regulation	250		P76161
+P33227	stfE		b1157	JW5172	STFE_ECOLI		Uncertain	Tail fiber family	Putative protein stfE (Side tail fiber protein homolog from lambdoid prophage e14) (Fragment)		Complete proteome; Fiber protein; Repeat	166		P33227
+P77300	yagI		b0272	JW0265	YAGI_ECOLI		Predicted		Uncharacterized HTH-type transcriptional regulator yagI	GO:0003677; GO:0006355; GO:0006350	Complete proteome; DNA-binding; Transcription; Transcription regulation	252		P77300
+A5A625	yibV		b4615		YIBV_ECOLI		Uncertain		Putative uncharacterized protein yibV		Complete proteome	111		A5A625
+Q47272	ylcG		b4509	JW5076	YLCG_ECOLI		Evidence at protein level		Uncharacterized protein ylcG in lambdoid DLP12 prophage region		Complete proteome	46		Q47272
+Q47268	ylcH		b4588		YLCH_ECOLI		Predicted		Uncharacterized protein ylcH in lambdoid DLP12 prophage region		Complete proteome	33		Q47268
+P75974	ymfK		b1145	JW1131	YMFK_ECOLI		Predicted		Putative lambdoid prophage e14 repressor protein C2	GO:0003677; GO:0045449; GO:0006350	Complete proteome; DNA-binding; Repressor; Transcription; Transcription regulation	224		P75974
+Q2EER5	ymjC		b4525	JW5960	YMJC_ECOLI		Uncertain		Putative uncharacterized protein ymjC	GO:0005488; GO:0003824	Complete proteome	60		Q2EER5
+Q2EES0	ynfO		b4533	JW5251	YNFO_ECOLI		Predicted		Uncharacterized protein ynfO from qin prophage		Complete proteome	77		Q2EES0
+Q9JMS3	yuaQ	ychA	ECOK12F028		YUAQ_ECOLI	Cell outer membrane; Peripheral membrane protein. 	Predicted		Uncharacterized protein yuaQ	GO:0009279; GO:0016021; GO:0005886	Cell membrane; Cell outer membrane; Complete proteome; Membrane; Plasmid; Transmembrane; Transmembrane beta strand	1371	Plasmid F	Q9JMS3

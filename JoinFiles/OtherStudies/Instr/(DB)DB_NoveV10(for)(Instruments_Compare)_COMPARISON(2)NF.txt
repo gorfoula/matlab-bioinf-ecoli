@@ -1,0 +1,1 @@
+2428	2428	3312	Novel: 223			=HYPERLINK("http://www.uniprot.org/uniprot/?query=2428&sort=score")

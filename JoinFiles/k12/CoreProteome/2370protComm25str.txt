@@ -1,0 +1,2370 @@
+P00547	thrB	1786184	homoserine kinase
+P00934	thrC	1786185	threonine synthase
+P0CF71	yaaA	1786187	conserved protein
+P0A870	talB	1786189	transaldolase B
+P0AF03	mog	1786190	predicted molybdochelatase
+P0AC98	yaaH	1786191	conserved inner membrane protein associated with acetate transport
+P75617	yaaW	1786193	conserved protein
+P0A6Y8	dnaK	1786196	chaperone Hsp70, co-chaperone with DnaJ
+P08622	dnaJ	1786197	chaperone Hsp40, co-chaperone with DnaK
+P33236	mokC	1786200	regulatory protein for HokC, overlaps CDS of hokC
+P0ACG4	hokC	48994874	toxic membrane protein, small
+P13738	nhaA	1786201	sodium-proton antiporter
+P0A9G2	nhaR	1786202	DNA-binding transcriptional activator
+P0AG40	ribF	1786208	bifunctional riboflavin kinase/FAD synthetase
+P00804	lspA	1786210	prolipoprotein signal peptidase (signal peptidase II)
+P0AEM0	fkpB	1786211	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)
+P62623	ispH	1786212	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase, 4Fe-4S protein
+P22564	rihC	1786213	ribonucleoside hydrolase 3
+P04036	dapB	1786214	dihydrodipicolinate reductase
+P0A6F1	carA	1786215	carbamoyl phosphate synthetase small subunit, glutamine amidotransferase
+P00968	carB	1786216	carbamoyl-phosphate synthase large subunit
+P68644	fixC	1786227	predicted oxidoreductase with FAD/NAD(P)-binding domain
+P68646	fixX	1786228	predicted 4Fe-4S ferredoxin-type protein
+P31679	yaaU	1786229	predicted transporter
+P0A754	kefF	1786231	flavoprotein subunit for the KefC potassium efflux system
+P03819	kefC	1786232	potassium:proton antiporter
+P0ABQ4	folA	1786233	dihydrofolate reductase
+P05637	apaH	1786234	diadenosine tetraphosphatase
+P62672	apaG	1786235	protein associated with Co2+ and Mg2+ efflux
+P06992	rsmA	1786236	S-adenosylmethionine-6-N',N'-adenosyl (rRNA) dimethyltransferase
+P19624	pdxA	1786237	4-hydroxy-L-threonine phosphate dehydrogenase, NAD-dependent
+P0ABZ6	surA	1786238	peptidyl-prolyl cis-trans isomerase (PPIase)
+P31680	djlA	1786241	DnaJ-like protein, membrane anchored
+P0AA37	rluA	1786244	pseudouridine synthase for 23S rRNA (position 746) and tRNAphe(position 32)
+P60240	hepA	1786245	RNA polymerase-associated helicase protein (ATPase and RNA polymerase recycling factor)
+P08203	araD	1786247	L-ribulose-5-phosphate 4-epimerase
+P08202	araA	1786248	L-arabinose isomerase
+P08204	araB	1786249	L-ribulokinase
+P0A9E0	araC	1786251	DNA-binding transcriptional dual regulator
+P30149	yabI	1786252	conserved inner membrane protein
+P31548	thiQ	1786253	thiamin transporter subunit
+P31549	thiP	1786254	fused thiamin transporter subunits of ABC superfamily: membrane components
+P31550	thiB	1786255	thiamin transporter subunit
+P33595	sgrR	1786256	DNA-binding transcriptional regulator
+P30126	leuD	1786258	3-isopropylmalate isomerase subunit
+P0A6A6	leuC	1786259	3-isopropylmalate isomerase subunit, dehydratase component
+P30125	leuB	87081683	3-isopropylmalate dehydrogenase
+P09151	leuA	1786261	2-isopropylmalate synthase
+P0AD79	leuL	1786263	leu operon leader peptide
+P00893	ilvI	87081685	acetolactate synthase III, large subunit
+P00894	ilvH	1786266	acetolactate synthase III, thiamin-dependent, small subunit
+P0ACP1	fruR	1786268	DNA-binding transcriptional dual regulator
+P22186	mraZ	1786269	conserved protein
+P60390	mraW	1786270	S-adenosyl-dependent methyltransferase activity on membrane-located substrates
+P0AEN4	ftsL	1786271	membrane bound cell division protein at septum containing leucine zipper motif
+P22188	murE	1786273	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso- diaminopimelate ligase
+P11880	murF	1786274	UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D- alanine ligase
+P0A6W3	mraY	1786275	phospho-N-acetylmuramoyl-pentapeptide transferase
+P14900	murD	1786276	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase
+P0ABG4	ftsW	1786277	integral membrane protein involved in stabilizing FstZ ring during cell division
+P17443	murG	1786278	N-acetylglucosaminyl transferase
+P17952	murC	1786279	UDP-N-acetylmuramate:L-alanine ligase
+P07862	ddlB	1786280	D-alanine:D-alanine ligase
+P06136	ftsQ	1786281	membrane anchored protein involved in growth of wall at septum
+P62395	secM	87081686	regulator of secA translation
+P08337	mutT	1786288	nucleoside triphosphate pyrophosphohydrolase, marked preference for dGTP
+P0A8H8	yacG	1786290	DNA gyrase inhibitor
+P36680	yacF	1786291	conserved protein
+P0A6I9	coaE	1786292	dephospho-CoA kinase
+P60560	guaC	1786293	GMP reductase
+P36645	hofB	1786296	conserved protein with nucleoside triphosphate hydrolase domain
+P30011	nadC	1786299	quinolinate phosphoribosyltransferase
+P13016	ampD	1786300	N-acetyl-anhydromuranmyl-L-alanine amidase
+P15993	aroP	1786302	aromatic amino acid transporter
+P0ACL9	pdhR	1786303	DNA-binding transcriptional dual regulator
+P06959	aceF	1786305	pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2
+P0A9P0	lpd	1786307	lipoamide dehydrogenase, E3 component is part of three enzyme complexes
+P36682	yacH	1786308	predicted protein
+P36683	acnB	2367097	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+P0A7F6	speD	1786311	S-adenosylmethionine decarboxylase
+P09158	speE	1786312	spermidine synthase (putrescine aminopropyltransferase)
+P0AA95	yacC	87081688	predicted protein
+P36649	cueO	1786314	multicopper oxidase (laccase)
+P0A9M2	hpt	87081689	hypoxanthine phosphoribosyltransferase
+P36879	yadG	1786319	predicted transporter subunit: ATP-binding component of ABC superfamily
+P0AFN6	yadH	1786320	predicted transporter subunit: membrane component of ABC superfamily
+P36881	yadI	1786321	predicted PTS Enzyme IIA
+P31666	yadE	1786322	predicted polysaccharide deacetylase lipoprotein
+P0A790	panD	1786323	aspartate 1-decarboxylase
+P31665	yadD	1786324	predicted transposase
+P31663	panC	1786325	pantothenate synthetase
+P31057	panB	1786326	3-methyl-2-oxobutanoate hydroxymethyltransferase
+P26281	folK	1786335	2-amino-4-hydroxy-6-hydroxymethyldihyropteridine pyrophosphokinase
+P0ABF1	pcnB	87081691	poly(A) polymerase I
+P27305	yadB	145693092	glutamyl-Q tRNA(Asp) synthetase
+P0ABS1	dksA	1786338	DNA-binding transcriptional regulator of rRNA transcription, DnaK suppressor protein
+P0A823	sfsA	1786340	predicted DNA-binding transcriptional regulator
+P37025	ligT	87081692	2'-5' RNA ligase
+P37024	hrpB	87081693	predicted ATP-dependent helicase
+P02919	mrcB	1786343	fused glycosyl transferase and transpeptidase
+P06971	fhuA	1786344	ferrichrome outer membrane transporter
+P07821	fhuC	1786345	iron-hydroxamate transporter subunit
+P07822	fhuD	1786346	iron-hydroxamate transporter subunit
+P06972	fhuB	1786347	fused iron-hydroxamate transporter subunits of ABC superfamily: membrane components
+P23893	hemL	1786349	glutamate-1-semialdehyde aminotransferase (aminomutase)
+P37019	clcA	1786350	chloride channel, voltage-gated
+P0ACC3	erpA	1786351	conserved protein
+P0AFP0	yadS	1786352	conserved inner membrane protein
+P37028	btuF	1786353	vitamin B12 transporter subunit: periplasmic-binding component of ABC superfamily
+P0AF12	mtn	1786354	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+P0C0V0	degP	1786356	serine endoprotease (protease Do), membrane-associated
+P37047	cdaR	87081694	DNA-binding transcriptional activator
+P62768	yaeH	1786359	conserved protein
+P0A9D8	dapD	1786362	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+P27249	glnD	1786363	uridylyltransferase
+P0AE18	map	1786364	methionine aminopeptidase
+P0A7V0	rpsB	1786365	30S ribosomal subunit protein S2
+P0A6P1	tsf	1786366	protein chain elongation factor EF-Ts
+P0A7E9	pyrH	1786367	uridylate kinase
+P0A805	frr	1786368	ribosome recycling factor
+P45568	dxr	1786369	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+P60472	ispU	1786371	undecaprenyl pyrophosphate synthase
+P0ABG1	cdsA	87081696	CDP-diglyceride synthase
+P0AEU7	skp	1786375	periplasmic chaperone
+P21645	lpxD	1786376	UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase
+P0A6Q6	fabZ	1786377	(3R)-hydroxymyristol acyl carrier protein dehydratase
+P0A722	lpxA	1786378	UDP-N-acetylglucosamine acetyltransferase
+P10441	lpxB	1786379	tetraacyldisaccharide-1-P synthase
+P10442	rnhB	1786380	ribonuclease HII, degrades RNA of DNA-RNA hybrids
+P10443	dnaE	1786381	DNA polymerase III alpha subunit
+P0ABD5	accA	1786382	acetyl-CoA carboxylase, carboxytransferase, alpha subunit
+P52095	ldcC	1786384	lysine decarboxylase 2, constitutive
+P52096	yaeR	87081697	predicted lyase
+P52097	tilS	1786386	tRNA(Ile)-lysidine synthetase
+P0AFW8	rof	87081698	modulator of Rho-dependent transcription termination
+P0A8K5	yaeP	48994876	conserved protein
+P0AA97	yaeQ	1786388	conserved protein
+P40711	yaeJ	1786389	conserved protein
+P40710	nlpE	1786390	lipoprotein involved with copper homeostasis and adhesion
+P37056	yaeF	87081699	predicted lipoprotein
+P16659	proS	1786392	prolyl-tRNA synthetase
+P28634	yaeB	1786393	conserved protein
+P69411	rcsF	1786394	predicted outer membrane protein, signal
+P28635	metQ	1786396	DL-methionine transporter subunit
+P31547	metI	1786397	DL-methionine transporter subunit
+P30750	metN	1786398	DL-methionine transporter subunit
+P30863	dkgB	1786400	2,5-diketo-D-gluconate reductase B
+P30864	yafC	1786401	predicted DNA-binding transcriptional regulator
+P0A8U2	yafD	1786403	conserved protein
+P30866	yafE	1786404	predicted S-adenosyl-L-methionine-dependent methyltransferase
+P0AEZ7	mltD	1786405	predicted membrane-bound lytic murein transglycosylase D
+P0AC84	gloB	1786406	predicted hydroxyacylglutathione hydrolase
+P75672	yafS	87081700	predicted S-adenosyl-L-methionine-dependent methyltransferase
+P0A7Y4	rnhA	1786408	ribonuclease HI, degrades RNA of DNA-RNA hybrids
+P03007	dnaQ	1786409	DNA polymerase III epsilon subunit
+Q47679	yafV	1786412	predicted C-N hydrolase family amidase, NAD(P)-binding
+P0AD59	ivy	1786413	inhibitor of vertebrate C-lysozyme
+P63224	lpcA	1786416	D-sedoheptulose 7-phosphate isomerase
+Q47147	yafJ	1786417	predicted amidotransfease
+P0AA99	yafK	1786418	conserved protein
+P15288	pepD	1786432	aminoacyl-histidine dipeptidase (peptidase D)
+P0A9M5	gpt	1786433	guanine-hypoxanthine phosphoribosyltransferase
+P04335	frsA	1786434	hydrolase, binds to enzyme IIA(Glc)
+P24251	crl	1786435	DNA-binding transcriptional regulator
+P02932	phoE	1786436	outer membrane phosphoporin protein E
+P0A7B5	proB	1786437	gamma-glutamate kinase
+P07004	proA	1786438	gamma-glutamylphosphate reductase
+P06960	argF	1786469	"CP4-6 prophage; ornithine carbamoyltransferase 2, chain F"
+Q47537	tauA	87081727	taurine transporter subunit
+Q47538	tauB	1786563	taurine transporter subunit
+Q47539	tauC	1786564	taurine transporter subunit
+P37610	tauD	1786565	taurine dioxygenase, 2-oxoglutarate-dependent
+P0ACB2	hemB	87081728	porphobilinogen synthase
+P0AD70	ampH	1786574	beta-lactamase/D-alanine carboxypeptidase
+P0AFY6	sbmA	1786575	predicted transporter
+P77562	yaiW	1786576	predicted DNA-binding transcriptional regulator
+P0AAP7	yaiY	1786577	predicted inner membrane protein
+P0AAQ0	yaiZ	87081730	predicted inner membrane protein
+P0A6J8	ddlA	1786579	D-alanine-D-alanine ligase A
+P0AAN9	iraP	1786581	predicted protein
+P0AFM4	psiF	87081731	conserved protein
+P0A9L8	proC	1786585	pyrroline-5-carboxylate reductase, NAD(P)-binding
+P0A8D3	yaiI	87081732	conserved protein
+P0A6E1	aroL	1786587	shikimate kinase II
+P0AAN5	yaiA	1786588	predicted protein
+P0AE28	aroM	1786589	conserved protein
+P0C037	yaiE	1786590	conserved protein
+P36767	rdgC	1786592	DNA-binding protein, non-specific
+P23917	mak	87081733	manno(fructo)kinase
+P13458	sbcC	1786597	exonuclease, dsDNA, ATP-dependent
+P0AFJ5	phoB	1786599	DNA-binding response regulator in two-component regulatory system with PhoR (or CreC)
+P08400	phoR	1786600	sensory histidine kinase in two-component regulatory system with PhoB
+P0AD99	brnQ	1786601	predicted branched chain amino acid transporter (LIV-II)
+P0AAE2	proY	1786602	predicted cryptic proline transporter
+P21515	acpH	1786605	conserved protein
+P0A7F9	queA	1786606	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+P0A847	tgt	1786607	tRNA-guanine transglycosylase
+P0ADZ7	yajC	1786608	SecYEG protein translocase auxillary subunit
+P0AG90	secD	1786609	SecYEG protein translocase auxillary subunit
+P0AG93	secF	1786610	SecYEG protein translocase auxillary subunit
+P0AAQ2	yajD	1786611	conserved protein
+P0A927	tsx	1786612	nucleoside channel, receptor of phage T6 and colicin K
+P0A8D0	nrdR	1786615	conserved protein
+P25539	ribD	1786616	fused diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino) uracil reductase
+P61714	ribE	1786617	riboflavin synthase beta chain
+P0A780	nusB	1786618	transcription antitermination protein
+P0AGG0	thiL	1786619	thiamin-monophosphate kinase
+P18200	pgpA	1786620	phosphatidylglycerophosphatase A
+P77735	yajO	87081735	2-carboxybenzaldehyde reductase, function unknown
+P77488	dxs	1786622	1-deoxyxylulose-5-phosphate synthase, thiamine-requiring, FAD-requiring
+P22939	ispA	1786623	geranyltranstransferase
+P0A8G9	xseB	1786624	exonuclease VII small subunit
+P77718	thiI	1786625	sulfurtransferase required for thiamine and 4-thiouridine biosynthesis
+Q46948	yajL	87081736	conserved protein
+P0A9J4	panE	1786627	2-dehydropantoate reductase, NADPH-specific
+P0A8E7	yajQ	87081737	predicted nucleotide binding protein
+P0A9M0	lon	1786643	DNA-binding ATP-dependent protease La
+P0ACF4	hupB	1786644	HU, DNA-binding transcriptional regulator, beta subunit
+P0ADY1	ppiD	1786645	peptidyl-prolyl cis-trans isomerase (rotamase D)
+P77712	tesC	1786647	thioesterase III
+P77756	queC	1786648	predicted aluminum resistance protein
+P25539	ybaE	1786650	predicted transporter subunit: periplasmic-binding component of ABC superfamily
+P0ACJ5	ybaO	87081742	predicted DNA-binding transcriptional regulator
+P77265	mdlA	1786653	fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components
+P0AAG5	mdlB	1786654	fused predicted multidrug transporter subunits of ABC superfamily: ATP-binding components
+P0AC55	glnK	1786655	nitrogen assimilation regulatory protein for GlnL, GlnE, and AmtB
+P69681	amtB	1786656	ammonium transporter
+P0AGG2	tesB	1786657	acyl-CoA thioesterase II
+P77717	ybaY	1786658	predicted outer membrane lipoprotein
+P0AFP2	ybaZ	1786659	predicted methyltransferase
+Q9JMT8	ybaA	1786661	conserved protein
+P77791	maa	1786664	maltose O-acetyltransferase
+P0ACE3	hha	1786665	modulator of gene expression, with H-NS
+P0AES6	acrB	1786667	multidrug efflux system protein
+P0AE06	acrA	1786668	multidrug efflux system
+P0ACS9	acrR	1786669	DNA-binding transcriptional repressor
+P77338	kefA	1786670	fused conserved protein
+P45807	ybaM	1786672	predicted protein
+P23862	priC	1786673	primosomal replication protein N''
+P0AAR5	ybaN	1786674	conserved inner membrane protein
+P69503	apt	1786675	adenine phosphoribosyltransferase
+P0A8B5	ybaB	1786677	conserved protein
+P0A7H6	recR	1786678	gap repair protein
+P0A6Z3	htpG	1786679	molecular chaperone HSP90 family
+P69441	adk	1786680	adenylate kinase
+P23871	hemH	1786681	ferrochelatase
+P23872	aes	1786682	acetyl esterase
+P0AEW6	gsk	1786684	inosine/guanosine kinase
+P0A9G4	cueR	1786695	DNA-binding transcriptional activator of copper-responsive regulon genes
+P0AAS3	ybbJ	145693099	conserved inner membrane protein
+P0AA53	qmcA	1786697	predicted protease, membrane anchored
+P77279	ybbL	1786698	predicted transporter subunit: ATP-binding component of ABC superfamily
+P09029	purK	1786733	N5-carboxyaminoimidazole ribonucleotide synthase
+P0AG18	purE	1786734	N5-carboxyaminoimidazole ribonucleotide mutase
+P43341	lpxH	1786735	UDP-2,3-diacylglucosamine pyrophosphatase
+P23869	ppiB	1786736	peptidyl-prolyl cis-trans isomerase B (rotamase B)
+P21888	cysS	1786737	cysteinyl-tRNA synthetase
+P0AAS7	ybcJ	87081752	predicted RNA-binding protein
+P24186	folD	1786741	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+P0A9R2	essD	1786767	"DLP12 prophage; predicted phage lysis protein"
+P24207	pheP	1786789	phenylalanine transporter
+P0AAT4	ybdG	1786791	predicted mechanosensitive channel
+P38489	nfsB	1786792	dihydropteridine reductase, NAD(P)H-dependent, oxygen-insensitive
+P0AAT2	ybdF	1786793	conserved protein
+P77506	ybdJ	1786794	predicted inner membrane protein
+P77213	ybdK	1786795	gamma-glutamyl:cysteine ligase
+P77091	hokE	48994879	toxic polypeptide, small
+P19925	entD	1786797	phosphopantetheinyltransferase component of enterobactin synthase multienzyme complex
+P05825	fepA	1786798	iron-enterobactin outer membrane transporter
+P13039	fes	1786799	enterobactin/ferric enterobactin esterase
+P18393	ybdZ	87081760	conserved protein
+P11454	entF	1786801	enterobactin synthase multienzyme complex component,  ATP-dependent
+P26266	fepE	1786802	regulator of length of O-antigen component of lipopolysaccharide chains
+P23878	fepC	1786803	iron-enterobactin transporter subunit
+P23877	fepG	1786804	iron-enterobactin transporter subunit
+P23876	fepD	1786805	iron-enterobactin transporter subunit
+P24077	entS	1786806	predicted transporter
+P0AEL6	fepB	1786807	iron-enterobactin transporter subunit
+P0AEJ2	entC	1786809	isochorismate synthase 1
+P10378	entE	1786810	2,3-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex
+P0ADI4	entB	1786811	isochorismatase
+P15047	entA	1786812	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+P15078	cstA	1786814	carbon starvation protein
+P0AAS9	ybdD	87081761	conserved protein
+P45579	ybdH	1786815	predicted oxidoreductase
+P0AE08	ahpC	1786822	alkyl hydroperoxide reductase, C22 subunit
+P35340	ahpF	87081763	alkyl hydroperoxide reductase, F52a subunit, FAD/NAD(P)-binding
+P39177	uspG	1786824	universal stress protein UP12
+P0A972	cspE	1786841	DNA-binding transcriptional repressor
+P37002	crcB	1786842	predicted inner membrane protein associated with chromosome condensation
+P0A843	tatE	1786845	TatABCE protein translocation system subunit
+P60716	lipA	1786846	lipoate synthase
+P60720	lipB	87081767	lipoyl-protein ligase
+P0A8J4	ybeD	1786850	conserved protein
+P0AEB2	dacA	1786851	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)
+P0AAT6	ybeB	87081768	predicted protein
+P28630	holA	1786859	DNA polymerase III, delta subunit
+P0ADC1	lptE	1786860	minor lipoprotein
+P07813	leuS	1786861	leucyl-tRNA synthetase
+P0AAT9	ybeL	1786863	conserved protein
+P0AER5	gltK	1786873	glutamate and aspartate transporter subunit
+P0AER3	gltJ	1786874	glutamate and aspartate transporter subunit
+P37902	gltI	1786876	glutamate and aspartate transporter subunit
+P23930	lnt	1786878	apolipoprotein N-acyltransferase
+P0AE78	ybeX	1786879	predicteed ion transport
+P0A898	ybeY	1786880	conserved protein
+P0A9K3	ybeZ	145693103	predicted protein with nucleoside triphosphate hydrolase domain
+P0AEI1	miaB	1786882	isopentenyl-adenosine A37 tRNA methylthiolase
+P22106	asnB	1786889	asparagine synthetase B
+P0AF24	nagD	1786890	UMP phosphatase
+P0AF20	nagC	1786891	DNA-binding transcriptional dual regulator, repressor of N-acetylglucosamine
+P0AF18	nagA	1786892	N-acetylglucosamine-6-phosphate deacetylase
+P0A759	nagB	1786893	glucosamine-6-phosphate deaminase
+P09323	nagE	1786894	fused N-acetyl glucosamine specific PTS enzyme: IIC, IIB , and IIA components
+P75734	ybfN	1786898	predicted lipoprotein
+P0A9A9	fur	1786899	DNA-binding transcriptional dual regulator of siderophore biosynthesis and transport
+P62707	pgm	1786904	phosphoglucomutase
+P24169	speF	1786909	ornithine decarboxylase isozyme, inducible
+P21866	kdpE	1786911	DNA-binding response regulator in two-component regulatory system with KdpD
+P21865	kdpD	1786912	fused sensory histidine kinase in two-component regulatory system with KdpE: signal sensing protein
+P03961	kdpC	1786913	potassium translocating ATPase, subunit C
+P03960	kdpB	1786914	potassium translocating ATPase, subunit B
+P03959	kdpA	1786915	potassium translocating ATPase, subunit A
+P36937	kdpF	87081773	potassium ion accessory transporter subunit
+P0CF72	ybfA	1786916	predicted protein
+Q9JMT2	ybgA	1786925	conserved protein
+P00914	phr	1786926	deoxyribodipyrimidine photolyase, FAD-binding
+P75742	ybgH	1786927	predicted transporter
+P0AFP6	ybgI	1786928	conserved metal-binding protein
+P0AAV4	ybgJ	1786929	predicted enzyme subunit
+P75745	ybgK	1786930	predicted enzyme subunit
+P75746	ybgL	1786931	predicted lactam utilization protein
+P50465	nei	1786932	endonuclease VIII/ 5-formyluracil/5-hydroxymethyluracil DNA glycosylase
+P75747	abrB	87081776	predicted regulator
+P0ABH7	gltA	1786939	citrate synthase
+P69054	sdhC	1786940	succinate dehydrogenase, membrane subunit, binds cytochrome b556
+P0AC44	sdhD	1786941	succinate dehydrogenase, membrane subunit, binds cytochrome b556
+P0AC41	sdhA	1786942	succinate dehydrogenase, flavoprotein subunit
+P07014	sdhB	1786943	succinate dehydrogenase, FeS subunit
+P0AFG3	sucA	1786945	2-oxoglutarate decarboxylase, thiamin-requiring
+P0AFG6	sucB	1786946	dihydrolipoyltranssuccinase
+P0A836	sucC	1786948	succinyl-CoA synthetase, beta subunit
+P0AGE9	sucD	1786949	succinyl-CoA synthetase, NAD(P)-binding, alpha subunit
+P0ABJ9	cydA	87081779	cytochrome d terminal oxidase, subunit I
+P0AAV0	ybgE	1786956	conserved inner membrane protein
+P0A8Z3	ybgC	1786957	predicted acyl-CoA thioesterase
+P11458	nadA	1786964	quinolinate synthase, subunit A
+P0AFK2	pnuC	1786965	predicted nicotinamide mononucleotide transporter
+P0AAV6	ybgS	1786968	conserved protein
+P0AB91	aroG	1786969	3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, phenylalanine repressible
+P62707	gpmA	1786970	phosphoglyceromutase 1
+P0A9C3	galM	1786971	galactose-1-epimerase (mutarotase)
+P0A6T3	galK	1786972	galactokinase
+P09148	galT	1786973	galactose-1-phosphate uridylyltransferase
+P09147	galE	1786974	UDP-galactose-4-epimerase
+P31060	modF	1786975	fused molybdate transporter subunits of ABC superfamily: ATP-binding components
+P0A9G8	modE	1786976	DNA-binding transcriptional dual regulator
+P0AAW9	ybhT	1786977	predicted protein
+P37329	modA	1786979	molybdate transporter subunit
+P0AF01	modB	1786980	molybdate transporter subunit
+P09833	modC	1786981	molybdate transporter subunit
+P52697	pgl	1786983	6-phosphogluconolactonase
+P0CF59	ybhB	1786990	predicted kinase inhibitor
+P12995	bioA	1786991	7,8-diaminopelargonic acid synthase, PLP-dependent
+P13001	bioB	1786992	biotin synthase
+P12998	bioF	1786993	8-amino-7-oxononanoate synthase
+P12999	bioC	1786994	predicted methltransferase, enzyme of biotin synthesis
+P13000	bioD	1786995	dethiobiotin synthetase
+P0A8F8	uvrB	1786996	excinulease of nucleotide excision repair, DNA damage recognition component
+P75767	ybhK	1786997	predicted transferase with NAD(P)-binding Rossmann-fold domain
+P30745	moaA	1786999	molybdopterin biosynthesis protein A
+P0AEZ9	moaB	1787000	molybdopterin biosynthesis protein B
+P0A738	moaC	1787001	molybdopterin biosynthesis, protein C
+P30748	moaD	1787002	molybdopterin synthase, small subunit
+P30749	moaE	1787003	molybdopterin synthase, large subunit
+P0AA84	ybhO	1787007	cardiolipin synthase 2
+P0AAW1	ybhP	1787008	predicted DNase
+P0AAW5	ybhQ	1787009	predicted inner membrane protein
+P0AFP9	ybhR	1787010	predicted transporter subunit: membrane component of ABC superfamily
+P0AFQ2	ybhS	1787011	predicted transporter subunit: membrane component of ABC superfamily
+P75777	ybhG	1787013	predicted membrane fusion protein (MFP) component of efflux pump, membrane anchor
+P0ACU0	ybiH	87081783	predicted DNA-binding transcriptional regulator
+P25888	rhlE	1787016	RNA helicase
+P27296	dinG	1787018	ATP-dependent DNA helicase
+Q9JMS9	ybiB	1787019	predicted transferase/phosphorylase
+P30178	ybiC	1787020	predicted dehydrogenase
+P0AAX3	ybiJ	1787021	predicted protein
+P41039	ybiI	1787022	conserved protein
+P75779	ybiX	87081784	conserved protein
+P75780	fiu	1787024	predicted iron outer membrane transporter
+P0AAX6	mcbA	87081785	predicted protein
+P75782	rlmF	87081786	23S rRNA mA1618 methyltransferase, SAM-dependent
+P10346	glnQ	1787029	glutamine transporter subunit
+P0AEQ6	glnP	1787030	glutamine transporter subunit
+P0AEQ3	glnH	1787031	glutamine transporter subunit
+P0ABT2	dps	1787032	Fe-binding and storage protein
+P34210	ompX	1787034	outer membrane protein
+P75785	ybiP	1787035	predicted hydrolase, inner membrane
+P75786	yliL	1787037	predicted protein
+P0A9F1	mntR	1787038	DNA-binding transcriptional regulator of mntH
+P75788	ybiR	1787039	predicted transporter
+P0AAX8	ybiS	1787040	L,D-transpeptidase linking Lpp to murein
+P0A9U3	ybiT	1787041	fused predicted transporter subunits of ABC superfamily: ATP-binding components
+P75792	ybiV	1787043	predicted hydrolase
+P75793	ybiW	1787044	predicted pyruvate formate lyase
+P75794	ybiY	1787045	predicted pyruvate formate lyase activating enzyme
+P78055	fsaA	87081788	fructose-6-phosphate aldolase 1
+P12282	moeB	1787048	molybdopterin synthase sulfurylase
+P12281	moeA	1787049	molybdopterin biosynthesis protein
+P37595	iaaA	1787050	L-asparaginase
+P75796	gsiA	145693107	fused predicted peptide transport subunits of ABC superfamily: ATP-binding components
+P75797	gsiB	1787052	predicted peptide transporter subunit: periplasmic-binding component of ABC superfamily
+P75798	gsiC	1787053	predicted peptide transporter subunit: membrane component of ABC superfamily
+P75799	gsiD	1787054	predicted peptide transporter subunit: membrane component of ABC superfamily
+P0ACA7	yliJ	87081789	predicted glutathione S-transferase
+P08506	dacC	1787062	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 6a)
+P0ACK5	deoR	1787063	DNA-binding transcriptional repressor
+P75806	ybjG	1787064	undecaprenyl pyrophosphate phosphatase
+P0AEY8	cmr	1787065	multidrug efflux system protein
+P75810	ybjJ	1787068	predicted transporter
+P75811	ybjK	1787069	predicted DNA-binding transcriptional regulator
+P60869	ybjL	1787071	predicted transporter
+P64439	ybjM	1787072	predicted inner membrane protein
+P68688	grxA	1787073	glutaredoxin 1, redox coenzyme for ribonucleotide reductase (RNR1a)
+P46119	ybjC	1787074	predicted inner membrane protein
+P17117	nfsA	1787075	nitroreductase A, NADPH-dependent, FMN-dependent
+P0C0U4	rimK	1787076	ribosomal protein S6 modification protein
+P0AAY6	ybjN	1787077	predicted oxidoreductase
+P31133	potF	1787078	putrescine transporter subunit: periplasmic-binding component of ABC superfamily
+P31134	potG	87081791	putrescine transporter subunit: ATP-binding component of ABC superfamily
+P31135	potH	1787080	putrescine transporter subunit: membrane component of ABC superfamily
+P0AFL1	potI	1787081	putrescine transporter subunit: membrane component of ABC superfamily
+P0AAZ0	ybjO	1787082	predicted inner membrane protein
+P75817	rumB	1787083	23S rRNA m(5)U747 methyltransferase
+P30860	artJ	1787085	arginine transporter subunit
+P0AE30	artM	1787086	arginine transporter subunit
+P0AE34	artQ	1787087	arginine transporter subunit
+P30859	artI	1787088	arginine transporter subunit
+P0AAF6	artP	1787089	arginine transporter subunit
+P75818	ybjP	1787090	predicted lipoprotein
+P0A8C1	ybjQ	1787091	conserved protein
+P75820	amiD	1787092	predicted amidase and lipoprotein
+P75821	ybjS	87081792	predicted NAD(P)H-binding oxidoreductase with NAD(P)-binding Rossmann-fold domain
+P75822	ybjT	87081793	conserved protein with NAD(P)-binding Rossmann-fold domain
+P75823	ltaE	1787095	L-allo-threonine aldolase, PLP-dependent
+P07003	poxB	1787096	pyruvate dehydrogenase (pyruvate oxidase), thiamin-dependent, FAD-binding
+P75824	hcr	1787098	HCP oxidoreductase, NADH-dependent
+P75825	hcp	87081794	hybrid-cluster [4Fe-2S-2O] protein in anaerobic terminal reductases
+P75826	ybjE	87081795	predicted transporter
+P75828	ybjD	1787102	conserved protein with nucleoside triphosphate hydrolase domain
+P75829	ybjX	1787103	conserved protein
+P75830	macA	87081796	macrolide transporter subunit, membrane fusion protein (MFP) component
+P75831	macB	1787105	fused macrolide transporter subunits of ABC superfamily: ATP-binding component/membrane component
+P0A968	cspD	1787107	cold shock protein homolog
+P0A8Q6	clpS	1787108	regulatory protein for ClpA substrate specificity
+P0ABH9	clpA	1787109	ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease, chaperone activity
+P0A8P1	aat	1787111	leucyl/phenylalanyl-tRNA-protein transferase
+P23886	cydC	1787112	fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component
+P29018	cydD	1787113	fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component
+P0A9P4	trxB	1787114	thioredoxin reductase, FAD/NAD(P)-binding
+P61316	lolA	145693108	chaperone for lipoproteins
+P0AAZ4	rarA	1787119	recombination protein
+P0A8L1	serS	1787120	seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine
+P18775	dmsA	87081797	dimethyl sulfoxide reductase, anaerobic, subunit A
+P18776	dmsB	1787122	dimethyl sulfoxide reductase, anaerobic, subunit B
+P21367	ycaC	1787124	predicted hydrolase
+P21503	ycaD	1787126	predicted transporter
+P0A9N4	pflA	1787130	pyruvate formate lyase activating enzyme 1
+P09373	pflB	1787131	pyruvate formate lyase I
+P0AC23	focA	1787132	formate transporter
+P75838	ycaO	87081799	conserved protein
+P75839	ycaP	1787135	conserved inner membrane protein
+P23721	serC	1787136	3-phosphoserine/phosphohydroxythreonine aminotransferase
+P0A6D3	aroA	1787137	5-enolpyruvylshikimate-3-phosphate synthetase
+P43674	ycaL	87081800	predicted peptidase with chaperone function
+P0A6I0	cmk	1787139	cytidylate kinase
+P0AG67	rpsA	1787140	30S ribosomal subunit protein S1
+P0A6Y1	ihfB	1787141	integration host factor (IHF), DNA-binding protein, beta subunit
+P37443	ycaI	87081801	conserved inner membrane protein
+P60752	msbA	1787143	fused lipid transporter subunits of ABC superfamily: membrane component/ATP-binding component
+P27300	lpxK	1787144	lipid A 4'kinase
+P75843	ycaQ	1787145	conserved protein
+P0AAZ7	ycaR	1787146	conserved protein
+P04951	kdsB	1787147	3-deoxy-manno-octulosonate cytidylyltransferase
+P0AB03	ycbJ	1787149	conserved protein
+P0AB01	ycbC	1787150	conserved inner membrane protein
+P36566	smtA	1787151	predicted S-adenosyl-L-methionine-dependent methyltransferase
+P60293	mukF	1787152	Involved in chromosome partioning, Ca2+ binding protein
+P22524	mukE	1787153	protein involved in chromosome partitioning
+P22523	mukB	1787154	fused chromosome partitioning protein: predicted nucleotide hydrolase/conserved protein/conserved protein
+Q9JMS5	ycbB	1787155	murein L,D-transpeptidase
+P0AB06	ycbK	1787157	conserved protein
+P75849	ycbL	1787158	predicted metal-binding enzyme
+P02931	ompF	1787160	"outer membrane porin 1a (Ia;b;F)"
+P0A8M0	asnS	1787161	asparaginyl tRNA synthetase
+P18133	pncB	1787162	nicotinate phosphoribosyltransferase
+P04825	pepN	1787163	aminopeptidase N
+P0AAI1	ssuB	1787164	alkanesulfonate transporter subunit
+P75851	ssuC	87081802	alkanesulfonate transporter subunit
+P80645	ssuD	1787166	alkanesulfonate monooxygenase, FMNH(2)-dependent
+P75853	ssuA	87081803	alkanesulfonate transporter subunit
+P80644	ssuE	1787168	NAD(P)H-dependent FMN reductase
+P0A7E1	pyrD	1787177	dihydro-orotate oxidase, FMN-linked
+P0AB10	ymbA	145693109	conserved protein
+P75870	yccS	87081808	predicted inner membrane protein
+P0AB12	yccF	1787195	conserved inner membrane protein
+P0A731	mgsA	87081809	methylglyoxal synthase
+P0A8X4	yccT	1787198	conserved protein
+P75874	yccU	87081810	predicted CoA-binding protein with NAD(P)-binding Rossmann-fold domain
+P0AB20	hspQ	145693110	DNA-binding protein, hemimethylated
+P75876	rlmI	145693111	23S rRNA m(5)C1962 methyltransferase, SAM-dependent
+P0AB65	yccX	1787203	predicted acylphosphatase
+P0AB18	yccK	87081811	predicted sulfite reductase subunit
+P69739	hyaA	1787206	hydrogenase 1, small subunit
+P0AAM1	hyaC	1787208	hydrogenase 1, b-type cytochrome subunit
+P19930	hyaD	1787209	protein involved in processing of HyaA and HyaB proteins
+P19931	hyaE	1787210	protein involved in processing of HyaA and HyaB proteins
+P19932	hyaF	1787211	protein involved in nickel incorporation into hydrogenase-1 proteins
+P26459	appC	1787212	cytochrome bd-II oxidase, subunit I
+P26458	appB	1787213	cytochrome bd-II oxidase, subunit II
+P24244	yccB	145693112	hypothetical protein
+P07102	appA	1787215	phosphoanhydride phosphorylase
+P0A932	gfcE	1787218	predicted exopolysaccharide export protein
+P75882	gfcD	1787219	conserved protein
+P0A968	cspH	2367112	stress protein, member of the CspA-family
+P0A978	cspG	2367114	DNA-binding transcriptional regulator
+P38683	torT	1787228	periplasmic sensory protein associated with the TorRS two-component regulatory system
+P38684	torR	1787229	DNA-binding response regulator in two-component regulatory system with TorS
+P33226	torC	1787230	trimethylamine N-oxide (TMAO) reductase I, cytochrome c-type subunit
+P33225	torA	1787231	trimethylamine N-oxide (TMAO) reductase I, catalytic subunit
+P63264	cbpM	1787234	modulator of CbpA co-chaperone
+P36659	cbpA	1787235	curved DNA-binding protein, DnaJ homologue that functions as a co-chaperone of DnaK
+P0ACU2	rutR	1787249	predicted DNA-binding transcriptional regulator
+P75913	ghrA	87081824	2-ketoacid reductase
+P75914	ycdX	1787271	predicted zinc-binding hydrolase
+P75915	ycdY	1787272	conserved protein
+P75916	ycdZ	87081825	predicted inner membrane protein
+P75917	ymdA	1787281	predicted protein
+P0A8D6	ymdB	1787283	conserved protein
+P75919	ymdC	87081826	predicted hydrolase
+P75920	opgC	1787285	membrane protein required for modification of periplasmic glucan
+P33136	opgG	1787286	glucan biosynthesis protein, periplasmic
+P0A8X2	yceI	1787295	predicted protein
+P75925	yceJ	1787296	predicted cytochrome b561
+P40874	solA	1787298	N-methyltryptophan oxidase, FAD-binding
+P0AB33	bssS	1787299	predicted protein
+P0ABR1	dinI	1787300	DNA damage-inducible protein I
+P05020	pyrC	1787301	dihydro-orotase
+P0AB26	yceB	1787302	predicted lipoprotein
+P0AC59	grxB	1787303	glutaredoxin 2 (Grx2)
+P69367	mdtH	87081828	predicted drug efflux system
+P0A948	rimJ	1787305	ribosomal-protein-S5-alanine N-acetyltransferase
+P29217	yceH	1787306	conserved protein
+P75931	yceM	1787307	predicted oxidoreductase with NAD(P)-binding Rossmann-fold domain
+P43533	flgN	1787310	export chaperone for FlgK and FlgL
+P0AEM4	flgM	1787311	anti-sigma factor for FliA (sigma 28)
+P75933	flgA	1787312	assembly protein for flagellar basal-body periplasmic P ring
+P0ABW9	flgB	1787313	flagellar component of cell-proximal portion of basal-body rod
+P0ABX2	flgC	1787314	flagellar component of cell-proximal portion of basal-body rod
+P75936	flgD	1787315	flagellar hook assembly protein
+P75937	flgE	1787316	flagellar hook protein
+P0A6S3	flgI	1787320	predicted flagellar basal body protein
+P75942	flgJ	1787321	muramidase
+P33235	flgK	1787323	flagellar hook-filament junction protein 1
+P29744	flgL	1787324	flagellar hook-filament junction protein
+P21513	rne	1787325	fused ribonucleaseE: endoribonuclease/RNA-binding protein/RNA degradosome binding protein
+P69786	ptsG	1787343	fused glucose-specific PTS enzymes: IIB component/IIC component
+P16869	fhuE	1787344	ferric-rhodotorulic acid outer membrane transporter
+P0ACE7	hinT	1787346	purine nucleoside phosphoramidase
+P75946	ycfL	1787347	predicted protein
+P0AB38	ycfM	1787348	predicted outer membrane lipoprotein
+P75948	thiK	1787349	thiamin kinase
+P75949	nagZ	1787350	beta N-acetyl-glucosaminidase
+P0A8E1	ycfP	87081832	conserved protein
+P00393	ndh	1787352	respiratory NADH dehydrogenase 2/cupric reductase
+P0AB35	ycfJ	1787353	predicted protein
+P75952	ycfQ	87081833	predicted DNA-binding transcriptional regulator
+P0AB40	bhsA	1787355	predicted protein
+P75954	ycfS	1787356	L,D-transpeptidase linking Lpp to murein
+P30958	mfd	1787357	transcription-repair coupling factor
+P75955	ycfT	1787359	predicted inner membrane protein
+P0ADC3	lolC	1787360	outer membrane-specific lipoprotein transporter subunit
+P75957	lolD	87081834	outer membrane-specific lipoprotein transporter subunit
+P75958	lolE	1787362	outer membrane-specific lipoprotein transporter subunit
+P75959	nagK	1787363	N-acetyl-D-glucosamine kinase
+P75960	cobB	1787364	deacetylase of acetyl-CoA synthetase, NAD-dependent
+P0AFK9	potD	1787367	polyamine transporter subunit
+P0AFK6	potC	1787368	polyamine transporter subunit
+P0AFK4	potB	1787369	polyamine transporter subunit
+P69874	potA	1787370	polyamine transporter subunit
+P29745	pepT	1787372	peptidase T
+P27431	ycfD	87081836	conserved protein
+P23837	phoQ	1787374	sensory histidine kinase in two-component regulatory system with PhoP
+P23836	phoP	1787375	DNA-binding response regulator in two-component regulatory system with PhoQ
+P0AB89	purB	1787376	adenylosuccinate lyase
+P25746	hflD	1787377	predicted lysogenization regulator
+P25745	mnmA	87081837	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+P0AEI6	nudJ	1787379	bifunctional thiamin pyrimidine pyrophosphate hydrolase/ thiamin pyrophosphate hydrolase
+P75966	rluE	87081838	16S RNA U516 pseudouridine synthase
+P08200	icd	1787381	"e14 prophage; isocitrate dehydrogenase, specific for NADP+"
+A5A612	ymgJ	145693116	hypothetical protein
+P0A734	minE	1787422	cell division topological specificity factor
+P0AEZ3	minD	1787423	membrane ATPase of the MinC-MinD-MinE system
+P18196	minC	1787424	cell division inhibitor
+P0A8L5	ycgN	145693117	conserved protein
+P0AG11	umuD	1787431	DNA polymerase V, subunit D
+P0A6M2	dsbB	1787433	oxidoreductase that catalyzes reoxidation of DsbA protein disulfide isomerase I
+P0AFA7	nhaB	1787435	sodium:proton antiporter
+P29013	ycgB	1787437	conserved protein
+P29012	dadX	1787439	alanine racemase 2, PLP-binding
+P76007	cvrA	87081854	predicted cation/proton antiporter
+P76008	ldcA	1787441	L,D-carboxypeptidase A
+P0C960	emtA	87081855	lytic murein endotransglycosylase E
+P76010	ycgR	1787443	protein involved in flagellar function
+P76011	ymgE	1787445	predicted inner membrane protein
+P0ABU2	ychF	1787454	predicted GTP-binding protein
+P0A7D1	pth	1787455	peptidyl-tRNA hydrolase
+P0AB49	ychH	1787456	predicted inner membrane protein
+P0AFR2	ychM	87081859	predicted transporter
+P0A717	prs	1787458	phosphoribosylpyrophosphate synthase
+P0A6X1	hemA	1787461	glutamyl tRNA reductase
+P0A7I0	prfA	1787462	peptide chain release factor RF-1
+P0ACC1	prmC	1787463	N5-glutamine methyltransferase, modifies release factors RF-1 and RF-2
+Q46755	ychQ	1787464	predicted transcriptional regulator
+Q9JMS3	ychA	1787465	predicted transcriptional regulator
+P0A715	kdsA	1787466	3-deoxy-D-manno-octulosonate 8-phosphate synthase
+Q6BF87	ldrB	48994881	toxic polypeptide, small
+P31801	chaA	1787468	calcium/sodium:proton antiporter
+P0AE63	chaB	1787469	predicted cation regulator
+P39163	chaC	145693119	regulatory protein for cation transport
+P0AB52	ychN	1787471	conserved protein
+P39165	ychO	145693120	predicted invasin
+P0AF28	narL	1787473	DNA-binding response regulator in two-component regulatory system with NarX (or NarQ)
+P0AFA2	narX	1787474	sensory histidine kinase in two-component regulatory system with NarL
+P10903	narK	1787475	nitrate/nitrite transporter
+P09152	narG	1787477	nitrate reductase 1, alpha subunit
+P11349	narH	1787478	nitrate reductase 1, beta (Fe-S) subunit
+P0AF26	narJ	1787479	molybdenum-cofactor-assembly chaperone subunit (delta subunit) of nitrate reductase 1
+P11350	narI	1787480	nitrate reductase 1, gamma (cytochrome b(NR)) subunit
+P37051	purU	1787483	formyltetrahydrofolate hydrolase
+P37052	ychJ	1787484	conserved protein
+P0AFR0	rssA	1787485	conserved protein
+P0AEP3	galU	1787488	glucose-1-phosphate uridylyltransferase
+P0ACF8	hns	1787489	global DNA-binding transcriptional dual regulator H-NS
+P23331	tdk	1787490	thymidine kinase/deoxyuridine kinase
+P0A9Q7	adhE	1787493	fused acetaldehyde-CoA dehydrogenase/iron-dependent alcohol dehydrogenase/pyruvate-formate lyase deactivase
+P23843	oppA	1787495	oligopeptide transporter subunit
+P0AFH2	oppB	1787497	oligopeptide transporter subunit
+P0AFH6	oppC	1787498	oligopeptide transporter subunit
+P76027	oppD	48994883	oligopeptide transporter subunit
+P77737	oppF	1787500	oligopeptide transporter subunit
+P0A8L7	yciU	87081860	predicted protein
+P0A6H8	cls	1787502	cardiolipin synthase 1
+A5A613	yciY	145693122	hypothetical protein
+P31069	kch	1787503	voltage-gated potassium channel
+P0AB55	yciI	87081861	predicted enzyme
+P02929	tonB	1787505	membrane spanning protein in TonB-ExbB-ExbD complex
+P0A8Z0	yciA	1787506	predicted hydrolase
+P0A710	yciB	1787507	predicted inner membrane protein
+P21365	yciC	1787508	predicted inner membrane protein
+P0A915	ompW	1787510	outer membrane protein W
+P0A877	trpA	1787514	tryptophan synthase, alpha subunit
+P0A879	trpB	1787515	tryptophan synthase, beta subunit
+P00909	trpC	87081863	fused indole-3-glycerolphosphate synthetase/N-(5-phosphoribosyl)anthranilate isomerase
+P00904	trpD	1787517	fused glutamine amidotransferase (component II) of anthranilate synthase/anthranilate phosphoribosyl transferase
+P00895	trpE	1787518	component I of anthranilate synthase
+P77766	yciV	1787520	conserved protein
+P0AFR4	yciO	87081864	conserved protein
+P37765	rluB	1787524	23S rRNA pseudouridylate synthase
+P0A9H5	btuR	1787525	cob(I)alamin adenolsyltransferase/cobinamide ATP-dependent adenolsyltransferase
+P31808	yciK	1787526	predicted oxoacyl-(acyl carrier protein) reductase, EmrKY-TolC system
+P0AG14	sohB	1787527	predicted inner membrane peptidase
+P0AB61	yciN	1787528	predicted protein
+P06612	topA	1787529	DNA topoisomerase I, omega subunit
+P0A9F3	cysB	1787530	DNA-binding transcriptional dual regulator, O-acetyl-L-serine-binding
+P58094	yciX	145693123	hypothetical protein
+P0A7I7	ribA	1787533	GTP cyclohydrolase II
+P0A924	pgpB	1787534	phosphatidylglycerophosphatase B
+P0ACV4	yciS	1787535	conserved inner membrane protein
+P08244	pyrF	1787537	orotidine-5'-phosphate decarboxylase
+P08245	yciH	87081867	conserved protein
+P76034	yciT	1787540	predicted DNA-binding transcriptional regulator
+A5A614	yciZ	145693124	hypothetical protein
+P77334	gmr	1787541	modulator of Rnase II stability
+P30850	rnb	1787542	ribonuclease II
+P76035	yciW	87081868	predicted oxidoreductase
+P0AEK4	fabI	1787545	enoyl-[acyl-carrier-protein] reductase, NADH-dependent
+P0AAH8	sapF	1787547	predicted antimicrobial peptide transporter subunit
+P0AAH4	sapD	1787548	predicted antimicrobial peptide transporter subunit
+P0AGH5	sapC	1787549	predicted antimicrobial peptide transporter subunit
+P0AGH3	sapB	1787550	predicted antimicrobial peptide transporter subunit
+Q47622	sapA	1787551	predicted antimicrobial peptide transporter subunit
+P0ACV8	ymjA	1787552	predicted protein
+P76037	puuP	87081869	putrescine importer
+P37344	pspF	87081872	DNA-binding transcriptional activator
+P0AFM6	pspA	2367118	regulatory protein for phage-shock-protein operon
+P0AFM9	pspB	1787563	DNA-binding transcriptional regulator of psp operon
+P0AFN2	pspC	1787564	DNA-binding transcriptional activator
+P0AFV8	pspD	1787565	peripheral inner membrane phage-shock protein
+P23857	pspE	1787567	thiosulfate:cyanide sulfurtransferase (rhodanese)
+P76046	ycjX	1787581	conserved protein with nucleoside triphosphate hydrolase domain
+P0A8R7	ycjF	1787582	conserved inner membrane protein
+P07604	tyrR	1787583	DNA-binding transcriptional dual regulator, tyrosine-binding
+P0A862	tpx	1787584	lipid hydroperoxide peroxidase
+P51981	ycjG	87081876	L-Ala-D/L-Glu epimerase
+P0ACV6	mpaA	1787586	murein peptide amidase A
+P77348	mppA	87081878	murein tripeptide (L-ala-gamma-D-glutamyl-meso-DAP) transporter subunit
+P0AEB5	ynaI	1787591	conserved inner membrane protein
+P0AAC0	uspE	1787594	stress-induced protein
+P0A9E5	fnr	1787595	DNA-binding transcriptional dual regulator, global regulator of anaerobic growth
+P76053	ydaL	1787602	conserved protein
+P64423	ydaN	1787604	predicted Zn(II) transporter
+P76055	ttcA	1787606	predicted C32 tRNA thiolase
+P37903	uspF	87081893	stress-induced protein, ATP-binding protein
+P77747	ompN	1787641	outer membrane pore protein N, non-specific
+P52647	ydbK	1787642	fused predicted pyruvate-flavodoxin oxidoreductase: conserved protein/conserved protein/FeS binding protein
+P0ACW2	ydbJ	87081894	predicted protein
+P52643	ldhA	1787645	fermentative D-lactate dehydrogenase, NAD-dependent
+P52645	ydbH	1787646	predicted protein
+P64448	ynbE	1787647	predicted lipoprotein
+P41407	azoR	1787680	NADH-azoreductase, FMN-dependent
+P43329	hrpA	145693127	ATP-dependent helicase
+P64453	ydcX	87081912	predicted inner membrane protein
+P0AF32	narV	1787738	nitrate reductase 2 (NRZ), gamma subunit
+P19318	narY	1787740	nitrate reductase 2 (NRZ), beta subunit
+P19319	narZ	1787741	nitrate reductase 2 (NRZ), alpha subunit
+P37758	narU	1787743	nitrate/nitrite transporter
+P46136	yddG	145693132	predicted methyl viologen efflux pump
+P24183	fdnG	3868719	formate dehydrogenase-N, alpha subunit, nitrate-inducible
+P0AAJ3	fdnH	1787749	formate dehydrogenase-N, Fe-S (beta) subunit, nitrate-inducible
+P0AEK7	fdnI	1787750	formate dehydrogenase-N, cytochrome B556 (gamma) subunit, nitrate-inducible
+P67699	yddM	145693133	predicted DNA-binding transcriptional regulator
+P39451	adhP	87081918	ethanol-active dehydrogenase/acetaldehyde-active reductase
+P0C0L2	osmC	1787757	osmotically inducible, stress-inducible membrane protein
+P64426	yddW	1787767	predicted liprotein
+P63235	gadC	1787768	predicted glutamate:gamma-aminobutyric acid antiporter
+P69910	gadB	1787769	glutamate decarboxylase B, PLP-dependent
+P76135	ydeO	1787776	predicted DNA-binding transcriptional activator
+P76136	yneN	1787777	Two component system connector membrane protein, EvgSA to PhoQP
+P77561	ydeP	1787778	predicted oxidoreductase
+P31122	ydeA	1787808	predicted arabinose transporter
+P0ACS2	marC	1787809	conserved protein
+P27245	marR	87081927	DNA-binding transcriptional repressor of multiple antibiotic resistance
+P0ACH5	marA	87081928	DNA-binding transcriptional dual activator of multiple antibiotic resistance
+P31121	marB	1787812	predicted protein
+P24171	dcp	1787819	dipeptidyl carboxypeptidase II
+P39831	ydfG	1787820	L-allo-threonine dehydrogenase, NAD(P)-binding
+P64463	ydfZ	1787822	conserved protein
+P77260	ydfI	1787823	predicted mannonate dehydrogenase
+P0A978	cspI	1787834	"Qin prophage; cold shock protein"
+P77237	essQ	87081934	"Qin prophage; predicted S lysis protein"
+P36995	cspB	1787839	"Qin prophage; cold shock protein"
+P0A976	cspF	1787840	"Qin prophage; cold shock protein"
+P0ACG6	hokD	1787845	"Qin prophage; small toxic polypeptide"
+P77374	ynfE	1787870	oxidoreductase subunit
+P77783	ynfF	171474008	oxidoreductase subunit
+P0AAJ1	ynfG	1787872	oxidoreductase, Fe-S subunit
+P69853	dmsD	87081942	twin-argninine leader-binding protein for DmsA and TorA
+P76175	clcB	87081943	predicted voltage-gated chloride channel
+P0A6E9	ynfK	87081944	predicted dethiobiotin synthetase
+P77559	ynfL	1787879	predicted DNA-binding transcriptional regulator
+P43531	ynfM	1787880	predicted transporter
+P36560	asr	87081945	acid shock-inducible periplasmic protein
+A5A617	ydgU	145693139	hypothetical protein
+P76176	ydgD	1787882	predicted peptidase
+P69210	mdtI	1787883	multidrug efflux system transporter
+P0AFS5	tqsA	1787885	predicted inner membrane protein
+P0AB67	pntB	1787886	pyridine nucleotide transhydrogenase, beta subunit
+P07001	pntA	1787887	pyridine nucleotide transhydrogenase, alpha subunit
+P76177	ydgH	1787889	predicted protein
+P0AAE5	ydgI	1787890	predicted arginine/ornithine antiporter transporter
+P0AFS3	folM	1787891	dihydrofolate reductase isozyme
+P0ACX0	ydgC	1787892	conserved inner membrane protein associated with alginate biosynthesis
+P52108	rstA	145693140	DNA-binding response regulator in two-component regulatory system with RstB
+P16525	tus	1787895	inhibitor of replication at Ter, DNA-binding protein
+P05042	fumC	1787896	fumarate hydratase (fumarase C),aerobic Class II
+P0AC33	fumA	1787897	fumarate hydratase (fumarase A), aerobic Class I
+P00946	manA	1787899	mannose-6-phosphate isomerase
+P77804	ydgA	1787900	conserved protein
+Q47706	uidC	87081946	predicted outer membrane porin protein
+P05804	uidA	1787903	beta-D-glucuronidase
+P0ACT6	uidR	1787904	DNA-binding transcriptional repressor
+P0AET8	hdhA	1787905	7-alpha-hydroxysteroid dehydrogenase, NAD-dependent
+P18811	malI	1787906	DNA-binding transcriptional repressor
+P19642	malX	1787908	fused maltose and glucose-specific PTS enzymes: IIB component, IIC component
+P23256	malY	1787909	bifunctional beta-cystathionase, PLP-dependent/ regulator of maltose regulon
+P22333	add	1787910	adenosine deaminase
+P77376	ydgJ	87081947	predicted oxidoreductase
+P56976	blr	48994886	beta-lactam resistance membrane protein
+P64467	cnu	1787912	predicted regulator
+P76180	ydgK	87081948	conserved inner membrane protein
+P0AB83	nth	1787920	DNA glycosylase and apyrimidinic (AP) lyase (endonuclease III)
+P77304	tppB	1787922	predicted transporter
+P0A9D2	gst	1787923	glutathionine S-transferase
+P77150	pdxY	1787924	pyridoxal kinase 2/pyridoxine kinase
+P0AGJ9	tyrS	1787925	tyrosyl-tRNA synthetase
+P0AFI7	pdxH	1787926	pyridoxine 5'-phosphate oxidase
+P77570	anmK	1787928	conserved protein
+P0A905	slyB	48994887	outer membrane lipoprotein
+P0A8W2	slyA	87081950	DNA-binding transcriptional activator
+P64471	ydhI	1787931	predicted inner membrane protein
+P0AGD1	sodC	1787934	superoxide dismutase, Cu, Zn
+P76187	ydhF	48994888	predicted oxidoreductase
+P64474	ydhL	87081952	conserved protein
+P67430	nemR	145693141	predicted DNA-binding transcriptional regulator
+P77258	nemA	1787939	N-ethylmaleimide reductase, FMN-linked
+P0AC81	gloA	1787940	glyoxalase I, Ni-dependent
+P30014	rnt	1787941	ribonuclease T (RNase T)
+P0AC69	grxD	1787943	conserved protein
+P76190	ydhO	1787944	predicted lipoprotein
+P0AGD3	sodB	1787946	superoxide dismutase, Fe
+P77389	ydhP	1787947	predicted transporter
+A5A618	ynhF	145693142	hypothetical protein
+P0ACP7	purR	1787948	DNA-binding transcriptional repressor, hypoxanthine-binding
+P0ACR2	ydhB	1787949	predicted DNA-binding transcriptional regulator
+P37597	ydhC	48994889	predicted transporter
+P0A9H7	cfa	1787951	cyclopropane fatty acyl phospholipid synthase (unsaturated-phospholipid methyltransferase)
+P0AFU8	ribC	1787952	riboflavin synthase, alpha subunit
+P37340	mdtK	48994890	multidrug efflux system transporter
+P77552	ydhQ	1787954	conserved protein
+P77147	ydhT	1787958	conserved protein
+P77375	ydhX	145693143	predicted 4Fe-4S ferridoxin-type protein
+P77564	ydhW	1787961	predicted protein
+P0ACX5	ydhZ	1787964	predicted protein
+P76193	ynhG	1787968	murein L,D-transpeptidase
+P76194	sufE	1787969	sulfur acceptor protein
+P77444	sufS	1787970	selenocysteine lyase, PLP-dependent
+P77689	sufD	1787971	component of SufBCD complex
+P77499	sufC	1787972	component of SufBCD complex, ATP-binding component of ABC superfamily
+P64476	ydiH	1787975	predicted protein
+P77781	ydiI	1787976	conserved protein
+P77748	ydiJ	1787977	predicted FAD-linked oxidoreductase
+P0AFS7	ydiK	1787979	predicted inner membrane protein
+P76196	ydiL	87081956	conserved protein
+P0A6D5	ydiB	1787983	quinate/shikimate 5-dehydrogenase, NAD(P)-binding
+P05194	aroD	1787984	3-dehydroquinate dehydratase
+P77337	ydiS	1787991	predicted oxidoreductase with FAD/NAD(P)-binding domain
+P77714	ydiT	1787992	predicted 4Fe-4S ferredoxin-type protein
+P23538	pps	1787994	phosphoenolpyruvate synthase
+Q9JMS0	ydiA	1787995	conserved protein
+P00887	aroH	1787996	3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tryptophan repressible
+P0ACX9	ydiE	1787998	conserved protein
+P77649	ydiU	1787999	conserved protein
+P76204	ydiV	1788000	conserved protein
+P23898	nlpC	1788001	predicted lipoprotein
+P06611	btuD	1788002	vitamin B12 transporter subunit : ATP-binding component of ABC superfamily
+P06610	btuE	1788003	predicted glutathione peroxidase
+P06609	btuC	1788004	vitamin B12 transporter subunit: membrane component of ABC superfamily
+P0A6X7	ihfA	1788005	integration host factor (IHF), DNA-binding protein, alpha subunit
+P07395	pheT	1788006	phenylalanine tRNA synthetase, beta subunit
+P08312	pheS	1788007	phenylalanine tRNA synthetase, alpha subunit
+P0A7Q1	rpmI	1788010	50S ribosomal subunit protein L35
+P06999	pfkB	1788017	6-phosphofructokinase II
+P64479	ydiZ	1788018	predicted protein
+P77739	yniA	1788019	predicted phosphotransferase/kinase
+P76208	yniB	1788020	predicted inner membrane protein
+P77247	yniC	1788021	predicted hydrolase
+P64481	ydjM	145693147	predicted inner membrane protein regulated by LexA
+P77529	ydjN	1788024	predicted transporter
+P0ADB1	osmE	1788035	DNA-binding transcriptional activator
+P18843	nadE	1788036	NAD synthetase, NH3/glutamine-dependent
+P76213	cho	1788037	endonuclease of nucleotide excision repair
+P77754	spy	1788039	envelope stress induced periplasmic protein
+P76215	astE	1788040	succinylglutamate desuccinylase
+P76216	astB	1788041	succinylarginine dihydrolase
+P76217	astD	1788042	succinylglutamic semialdehyde dehydrogenase
+P0AE37	astA	1788043	arginine succinyltransferase
+P77581	astC	1788044	succinylornithine transaminase, PLP-dependent
+P09030	xthA	1788046	exonuclease III
+P76220	ydjY	87081965	predicted protein
+P76221	ydjZ	1788049	conserved inner membrane protein
+P76222	ynjA	1788050	conserved protein
+P76224	ynjC	145693149	fused transporter subunits of ABC superfamily: membrane components
+P76909	ynjD	1788053	predicted transporter subunit: ATP-binding component of ABC superfamily
+P78067	ynjE	87081967	predicted thiosulfate sulfur transferase
+P77788	nudG	1788056	pyrimidine (deoxy)nucleoside triphosphate pyrophosphohydrolase
+P76227	ynjH	1788057	predicted protein
+P00370	gdhA	1788059	glutamate dehydrogenase, NADP-specific
+P14294	topB	1788061	DNA topoisomerase III
+P16456	selD	1788062	selenophosphate synthase
+Q9JMR9	ydjA	1788063	predicted oxidoreductase
+P0A962	ansA	1788065	cytoplasmic L-asparaginase I
+P21369	pncA	87081970	nicotinamidase/pyrazinamidase
+P76231	yeaC	87081972	conserved protein
+P0A746	msrB	1788077	methionine sulfoxide reductase B
+P39173	yeaD	87081973	conserved protein
+P76234	yeaE	1788081	predicted oxidoreductase
+P0A908	mipA	1788082	scaffolding protein for murein synthesizing machinery
+P64485	yeaQ	1788096	conserved inner membrane protein
+P09155	rnd	1788105	ribonuclease D
+P69451	fadD	1788107	acyl-CoA synthetase (long-chain-fatty-acid--CoA ligase)
+P0AA91	yeaY	1788108	predicted lipoprotein
+P76256	yeaZ	1788109	predicted peptidase
+P76257	yoaA	1788110	conserved protein with nucleoside triphosphate hydrolase domain
+P0AEB7	yoaB	87081979	conserved protein
+P67338	yoaH	1788113	conserved protein
+P05041	pabB	1788114	aminodeoxychorismate synthase, subunit I
+P43337	nudL	1788115	predicted NUDIX hydrolase
+P16095	sdaA	1788116	L-serine deaminase I
+P0AEC0	yoaE	1788119	fused predicted membrane protein/conserved protein
+P69801	manY	1788121	mannose-specific enzyme IIC component of PTS
+P67601	yobD	1788123	conserved inner membrane protein
+P0A9Y6	cspC	1788126	stress protein, member of the CspA-family
+P76270	yebR	171474009	free methionine-(R)-sulfoxide reductase
+P76272	yebT	87081984	conserved protein
+P76273	rsmF	87081985	16S rRNA m(5)C1407 methyltransferase, SAM-dependent
+P76275	yebW	87081987	predicted protein
+P64506	yebY	1788144	predicted protein
+P0AA57	yobA	1788146	conserved protein
+P0ABS8	holE	1788147	DNA polymerase III, theta subunit
+P76280	yobB	1788148	conserved protein
+P0AEK0	exoX	1788149	DNA exonuclease X
+P33218	yebE	1788151	conserved protein
+P33219	yebF	145693150	predicted protein
+P0ACY9	yebG	1788153	conserved protein regulated by LexA
+P33221	purT	1788155	phosphoribosylglycinamide formyltransferase 2
+P0A955	eda	1788156	multifunctional 2-keto-3-deoxygluconate 6-phosphate aldolase and 2-keto-4-hydroxyglutarate aldolase and oxaloacetate decarboxylase
+P0ADF6	edd	1788157	6-phosphogluconate dehydratase
+P0AC53	zwf	1788158	glucose-6-phosphate dehydrogenase
+P46118	yebK	1788159	predicted DNA-binding transcriptional regulator
+P21599	pykA	1788160	pyruvate kinase II
+Q9JMR7	yebA	87081989	predicted peptidase
+P39172	znuA	87081990	zinc transporter subunit: periplasmic-binding component of ABC superfamily
+P0A9X1	znuC	1788165	zinc transporter subunit: ATP-binding component of ABC superfamily
+P39832	znuB	1788166	zinc transporter subunit: membrane component of ABC superfamily
+P0A809	ruvA	1788168	component of RuvABC resolvasome, regulatory subunit
+P0A814	ruvC	1788170	component of RuvABC resolvasome, endonuclease
+P0A8A0	yebC	1788171	conserved protein
+P0AFC0	nudB	1788172	dATP pyrophosphohydrolase
+P21889	aspS	1788173	aspartyl-tRNA synthetase
+P64515	yecN	87081993	predicted inner membrane protein
+P76290	cmoA	1788177	tRNA cmo(5)U34 methyltransferase, SAM-dependent
+P76291	cmoB	1788178	tRNA mo(5)U34 methyltransferase, SAM-dependent
+P46923	torZ	87081994	trimethylamine N-oxide reductase system III, catalytic subunit
+P67826	cutC	87081995	copper homeostasis protein
+P52007	yecM	87081996	predicted metal-binding enzyme
+P11875	argS	1788184	arginyl-tRNA synthetase
+P0ABY7	flhC	1788201	DNA-binding transcriptional dual regulator with FlhD
+P02924	araF	1788211	L-arabinose transporter subunit
+P0A9A2	ftnB	1788212	predicted ferritin-like protein
+P0AD10	yecJ	87081998	predicted protein
+P46887	yecH	1788217	predicted protein
+P0AD05	yecA	1788219	conserved metal-binding protein
+P0AEM6	fliA	1788231	RNA polymerase, sigma 28 (sigma F) factor
+P26608	fliS	1788234	flagellar protein potentiates polymerization
+P0ABY2	fliT	1788235	predicted chaperone
+P26612	amyA	1788236	cytoplasmic alpha-amylase
+P31063	yedD	1788237	predicted protein
+P31064	yedE	1788238	predicted inner membrane protein
+P0AA31	yedF	1788239	conserved protein
+P76329	yedP	1788265	conserved protein
+P76330	yedQ	87082007	predicted diguanylate cyclase
+P64517	yodC	1788267	predicted protein
+P46125	yedI	1788268	conserved inner membrane protein
+P0AA70	yedA	1788269	predicted inner membrane protein
+P09184	vsr	1788270	DNA mismatch endonuclease of very short patch repair
+P76340	yedW	87082012	predicted DNA-binding response regulator in two-component system with YedV
+P36562	cobT	1788300	nicotinate-nucleotide dimethylbenzimidazole-P phophoribosyl transferase
+P36561	cobS	1788301	cobalamin 5'-phosphate synthase
+P0AE76	cobU	1788302	bifunctional cobinamide kinase/ cobinamide phosphate guanylyltransferase
+P04995	sbcB	1788321	exonuclease I
+P76369	yeeY	87082024	predicted DNA-binding transcriptional regulator
+P0AD12	yeeZ	1788327	predicted epimerase, with NAD(P)-binding Rossmann-fold domain
+P60757	hisG	1788330	ATP phosphoribosyltransferase
+P06988	hisD	1788331	bifunctional histidinal dehydrogenase/ histidinol dehydrogenase
+P06986	hisC	1788332	histidinol-phosphate aminotransferase
+P06987	hisB	87082027	fused histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase
+P60595	hisH	1788334	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit with HisF
+P10371	hisA	87082028	N-(5'-phospho-L-ribosyl-formimino)-5-amino-1- (5'-phosphoribosyl)-4-imidazolecarboxamide isomerase
+P60664	hisF	1788336	imidazole glycerol phosphate synthase, catalytic subunit with HisH
+P06989	hisI	2367128	fused phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+P76373	ugd	1788340	UDP-glucose 6-dehydrogenase
+P00350	gnd	1788341	gluconate-6-phosphate dehydrogenase, decarboxylating
+P37744	rfbA	1788351	glucose-1-phosphate thymidylyltransferase
+P37759	rfbB	1788353	dTDP-glucose 4,6 dehydratase, NAD(P)-binding
+P0A930	wza	1788376	lipoprotein required for capsular polysaccharide translocation through the outer membrane
+P76389	yegH	87082033	fused predicted membrane protein/predicted membrane protein
+P28249	asmA	1788378	predicted assembly protein
+P28248	dcd	1788379	2'-deoxycytidine 5'-triphosphate deaminase
+P0A8F4	udk	87082034	uridine/cytidine kinase
+P38097	yegE	1788381	predicted diguanylate cyclase, GGDEF domain signalling protein
+P04395	alkA	1788383	3-methyl-adenine DNA glycosylase II
+P36928	yegD	87082035	predicted chaperone
+P76393	yegI	1788385	conserved protein
+P76395	yegK	1788387	predicted protein
+P76396	yegL	1788388	conserved protein
+P30847	baeS	1788393	sensory histidine kinase in two-component regulatory system with BaeR
+P69228	baeR	1788394	DNA-binding response regulator in two-component regulatory system with BaeS
+P76402	yegP	87082037	predicted protein
+P76403	yegQ	1788397	predicted peptidase
+P76406	yegR	87082038	predicted protein
+P76418	yegU	1788416	predicted hydrolase
+P76419	yegV	1788417	predicted kinase
+P0ACM5	yegW	1788418	predicted DNA-binding transcriptional regulator
+P76421	yegX	87082043	predicted hydrolase
+P76422	thiD	1788420	bifunctional hydroxy-methylpyrimidine kinase/ hydroxy-phosphomethylpyrimidine kinase
+P76423	thiM	1788421	hydoxyethylthiazole kinase
+P0AF08	mrp	87082045	antiporter inner membrane protein
+P00959	metG	1788432	methionyl-tRNA synthetase
+P0AFT5	yehT	87082052	predicted response regulator in two-component system withYehU
+P0AD14	yehU	1788446	predicted sensory kinase in two-component system with YehT
+Q2EES6	yohO	87082053	predicted protein
+P33359	yehW	1788449	predicted transporter subunit: membrane component of ABC superfamily
+P33360	yehX	1788450	predicted transporter subunit: ATP-binding component of ABC superfamily
+P33361	yehY	1788451	predicted transporter subunit: membrane component of ABC superfamily
+P33362	osmF	1788452	predicted transporter subunit: periplasmic-binding component of ABC superfamily
+P33363	bglX	1788453	beta-D-glucoside glucohydrolase, periplasmic
+P06149	dld	1788454	D-lactate dehydrogenase, FAD-binding, NADH independent
+P0AFI5	pbpG	87082054	D-alanyl-D-alanine endopeptidase
+P0AD17	yohC	87082055	predicted inner membrane protein
+P33366	yohD	87082056	conserved inner membrane protein
+P33368	yohF	1788459	predicted oxidoreductase with NAD(P)-binding Rossmann-fold domain
+P60632	yohJ	1788463	conserved inner membrane protein
+P0AD19	yohK	1788464	predicted inner membrane protein
+P0ABF6	cdd	1788465	cytidine/deoxycytidine deaminase
+P0AFY2	sanA	1788466	predicted protein
+P64536	yeiS	1788467	predicted inner membrane protein
+P76440	yeiT	1788468	Dihydropyrimidine dehydrogenase, NADH-dependent, subunit A
+P23200	mglC	1788471	methyl-galactoside transporter subunit
+P0AEE5	mglB	1788473	methyl-galactoside transporter subunit
+P25748	galS	1788474	DNA-binding transcriptional repressor
+P25747	yeiB	1788475	conserved inner membrane protein
+P0A6T5	folE	1788476	GTP cyclohydrolase I
+P33018	yeiG	1788477	predicted esterase
+P17315	cirA	1788478	ferric iron-catecholate outer membrane transporter
+P25737	lysP	1788480	lysine transporter
+P0ACR4	yeiE	1788481	predicted DNA-binding transcriptional regulator
+P62723	yeiH	1788482	conserved inner membrane protein
+P0A6C1	nfo	1788483	endonuclease IV with intrinsic 3'-5' exonuclease activity
+P33020	yeiI	1788484	predicted kinase
+P33021	nupX	1788485	predicted nucleoside transporter
+P33024	psuT	1788488	predicted nucleoside transporter
+P20966	fruA	1788492	fused fructose-specific PTS enzymes: IIBcomponent/IIC components
+P0AEW9	fruK	1788493	fructose-1-phosphate kinase
+P69811	fruB	1788494	fused fructose-specific PTS enzymes: IIA component/HPr component
+P0AFT8	yeiW	87082060	conserved protein
+P0A6N8	yeiP	87082061	predicted elongtion factor
+P33029	yeiQ	1788497	predicted dehydrogenase, NAD-dependent
+P33030	yeiR	1788499	predicted enzyme
+P0A7C2	spr	1788501	predicted peptidase, outer membrane lipoprotein
+P76446	rtn	1788502	conserved protein
+P33913	yejA	87082063	predicted oligopeptide transporter subunit
+P0AFU0	yejB	1788504	predicted oligopeptide transporter subunit
+P33915	yejE	1788505	predicted oligopeptide transporter subunit
+P33916	yejF	1788506	fused predicted oligopeptide transporter subunits of ABC superfamilly: ATP-binding components
+P0AD21	yejG	1788507	predicted protein
+P28246	bcr	1788509	bicyclomycin/multidrug efflux system
+P0AA43	rsuA	1788510	16S rRNA pseudouridylate 516 synthase
+P33919	yejH	1788511	predicted ATP-dependet helicase
+P68919	rplY	1788512	50S ribosomal subunit protein L25
+P33920	yejK	1788513	nucleotide associated protein
+P0AD24	yejL	1788514	conserved protein
+P0AD27	yejM	1788515	predicted hydrolase, inner membrane
+P31802	narP	1788521	DNA-binding response regulator in two-component regulatory system with NarQ or NarX
+P0ABM9	ccmH	1788522	heme lyase, CcmH subunit
+P0AA86	ccmG	1788523	periplasmic thioredoxin of cytochrome c-type biogenesis
+P33927	ccmF	1788524	heme lyase, CcmF subunit
+P69490	ccmE	1788525	periplasmic heme chaperone
+P0ABM5	ccmD	1788526	cytochrome c biogenesis protein
+P0ABM1	ccmC	1788527	heme exporter subunit
+P0ABL8	ccmB	1788528	heme exporter subunit
+P33931	ccmA	87082064	heme exporter subunit
+P0ABL5	napC	1788530	nitrate reductase, cytochrome c-type, periplasmic
+P0ABL3	napB	87082065	nitrate reductase, small, cytochrome C550 subunit, periplasmic
+P33934	napH	1788532	ferredoxin-type protein essential for electron transfer from ubiquinol to periplasmic nitrate reductase (NapAB)
+P0AAL3	napG	1788533	ferredoxin-type protein essential for electron transfer from ubiquinol to periplasmic nitrate reductase (NapAB)
+P0AE22	napA	1788534	nitrate reductase, periplasmic, large subunit
+P0A9I5	napD	1788535	assembly protein for periplasmic nitrate reductase
+P0AAL0	napF	1788536	ferredoxin-type protein, predicted role in electron transfer to periplasmic nitrate reductase (NapA)
+A5A619	yojO	145693156	hypothetical protein
+P33940	mqo	1788539	malate dehydrogenase, FAD/NAD(P)-binding domain
+P33941	yojI	1788540	fused predicted multidrug transport subunits of ABC superfamily: membrane component/ATP-binding component
+P05050	alkB	1788541	oxidative demethylase of N1-methyladenine or N3-methylcytosine DNA lesions
+P06134	ada	1788542	fused DNA-binding transcriptional dual regulator/O6-methylguanine-DNA methyltransferase
+P0AB85	apbE	1788543	predicted thiamine biosynthesis lipoprotein
+P06996	ompC	1788544	outer membrane porin protein C
+P39838	rcsD	1788545	phosphotransfer intermediate protein in two-component regulatory system with RcsBC
+P69407	rcsB	1788546	DNA-binding response regulator in two-component regulatory system with RcsC and YojN
+P14376	rcsC	145693157	hybrid sensory kinase in two-component regulatory system with RcsB and YojN
+P76462	yfaP	1788556	conserved protein
+P76463	yfaQ	1788557	predicted protein
+P0AES4	gyrA	1788562	DNA gyrase (type II topoisomerase), subunit A
+P17993	ubiG	1788564	bifunctional 3-demethylubiquinone-9 3-methyltransferase/ 2-octaprenyl-6-hydroxy phenol methylase
+P00452	nrdA	2367133	ribonucleoside diphosphate reductase 1, alpha subunit
+P69924	nrdB	1788567	ribonucleoside diphosphate reductase 1, beta subunit, ferritin-like
+P0ABW3	yfaE	1788568	predicted 2Fe-2S cluster-containing protein
+P27294	inaA	1788569	conserved protein
+P09394	glpQ	1788572	periplasmic glycerophosphodiester phosphodiesterase
+P08194	glpT	1788573	sn-glycerol-3-phosphate transporter
+P0A9C0	glpA	1788574	sn-glycerol-3-phosphate dehydrogenase (anaerobic), large subunit, FAD/NAD(P)-binding
+P13033	glpB	1788575	sn-glycerol-3-phosphate dehydrogenase (anaerobic), membrane anchor subunit
+P0A996	glpC	1788576	sn-glycerol-3-phosphate dehydrogenase (anaerobic), small subunit
+P37014	yfaD	1788577	conserved protein
+P77757	arnC	1788588	undecaprenyl phosphate-L-Ara4FN transferase
+P77398	arnA	1788589	fused UDP-L-Ara4N formyltransferase/UDP-GlcA C-4'-decarboxylase
+P76472	arnD	1788590	conserved protein
+P76473	arnT	1788591	4-amino-4-deoxy-L-arabinose transferase
+Q47377	arnE	87082074	conserved protein
+P76474	arnF	87082075	predicted inner membrane protein
+P37590	pmrD	87082076	polymyxin resistance protein B
+P37353	menE	1788595	o-succinylbenzoate-CoA ligase
+P29208	menC	1788596	o-succinylbenzoyl-CoA synthase
+P0ABU0	menB	1788597	dihydroxynaphthoic acid synthetase
+P37355	yfbB	1788598	predicted peptidase
+P17109	menD	1788599	bifunctional 2-oxoglutarate decarboxylase/ SHCHC synthase
+P38051	menF	87082077	isochorismate synthase 2
+P0AEH5	elaB	1788601	conserved protein
+P0AEH3	elaA	1788602	predicted acyltransferase with acyl-CoA N-acyltransferase domain
+P0AFF0	nuoN	145693160	NADH:ubiquinone oxidoreductase, membrane subunit N
+P0AFE8	nuoM	1788613	NADH:ubiquinone oxidoreductase, membrane subunit M
+P33607	nuoL	1788614	NADH:ubiquinone oxidoreductase, membrane subunit L
+P0AFE4	nuoK	1788615	NADH:ubiquinone oxidoreductase, membrane subunit K
+P0AFE0	nuoJ	1788616	NADH:ubiquinone oxidoreductase, membrane subunit J
+P0AFD6	nuoI	1788617	NADH:ubiquinone oxidoreductase, chain I
+P0AFD4	nuoH	1788618	NADH:ubiquinone oxidoreductase, membrane subunit H
+P33602	nuoG	145693161	NADH:ubiquinone oxidoreductase, chain G
+P31979	nuoF	1788620	NADH:ubiquinone oxidoreductase, chain F
+P0AFD1	nuoE	1788621	NADH:ubiquinone oxidoreductase, chain E
+P33599	nuoC	145693162	NADH:ubiquinone oxidoreductase, chain C,D
+P0AFC7	nuoB	1788624	NADH:ubiquinone oxidoreductase, chain B
+P0AFC3	nuoA	1788625	NADH:ubiquinone oxidoreductase, membrane subunit A
+P36771	lrhA	1788626	DNA-binding transcriptional repressor of flagellar, motility and chemotaxis genes
+P0A959	yfbQ	1788627	predicted aminotransferase
+P76491	yfbR	1788628	deoxyribonucleoside 5'-monophosphatase
+P0AFU2	yfbS	1788629	predicted transporter
+P77625	yfbT	87082080	predicted hydrolase or phosphatase
+P0A8W8	yfbU	87082081	conserved protein
+P0A8D9	yfbV	1788632	conserved inner membrane protein
+P0A6A3	ackA	1788633	acetate kinase A and propionate kinase 2
+P0A9M8	pta	1788635	phosphate acetyltransferase
+P39263	yfcC	87082082	predicted inner membrane protein
+P65556	yfcD	1788637	predicted NUDIX hydrolase
+P67095	yfcE	1788638	predicted phosphatase
+P77544	yfcF	1788639	predicted enzyme
+P77526	yfcG	1788640	predicted glutathione S-transferase
+P77775	yfcH	1788642	conserved protein with NAD(P)-binding Rossmann-fold domain
+P07109	hisP	1788644	histidine/lysine/arginine/ornithine transporter subunit
+P0AEU3	hisM	1788645	histidine/lysine/arginine/ornithine transporter subunit
+P52094	hisQ	1788646	histidine/lysine/arginine/ornithine transporter subunit
+P0AEU0	hisJ	1788648	histidine/lysine/arginine/ornithine transporter subunit
+P09551	argT	1788649	lysine/arginine/ornithine transporter subunit
+P0AG03	ubiX	1788650	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+P0AG16	purF	1788651	amidophosphoribosyltransferase
+P08550	cvpA	1788652	membrane protein required for colicin V production
+P09549	dedD	87082083	conserved protein
+P08192	folC	1788654	bifunctional folylpolyglutamate synthase/ dihydrofolate synthase
+P0A9Q5	accD	1788655	acetyl-CoA carboxylase, beta (carboxyltranferase) subunit
+P0ABP6	dedA	1788656	conserved inner membrane protein
+P07649	truA	1788657	pseudouridylate synthase I
+P0A9Q5	usg	1788658	predicted semialdehyde dehydrogenase
+P05459	pdxB	1788660	erythronate-4-phosphate dehydrogenase
+P15286	flk	1788661	predicted flagella assembly protein
+P0A953	fabB	1788663	3-oxoacyl-[acyl-carrier-protein] synthase I
+P77182	mnmC	87082084	fused 5-methylaminomethyl-2-thiouridine-forming enzyme methyltransferase/FAD-dependent demodification enzyme
+P64540	yfcL	1788665	predicted protein
+P76938	yfcM	1788666	conserved protein
+P08868	yfcA	1788667	conserved inner membrane protein
+P0C0T5	mepA	1788668	murein DD-endopeptidase
+P12008	aroC	1788669	chorismate synthase
+P0A8B2	yfcN	1788671	conserved protein
+P77599	yfcS	1788677	predicted periplasmic pilus chaperone
+P77288	yfcV	1788680	predicted fimbrial-like adhesin protein
+P76502	sixA	1788681	phosphohistidine phosphatase
+P77399	fadJ	1788682	fused enoyl-CoA hydratase and epimerase and isomerase/3-hydroxyacyl-CoA dehydrogenase
+P0AEN1	fadI	1788683	beta-ketoacyl-CoA thiolase, anaerobic, subunit
+P0AD33	yfcZ	87082087	conserved protein
+P10384	fadL	145693163	long-chain fatty acid outer membrane transporter
+P76506	vacJ	1788688	predicted lipoprotein
+P37327	yfdC	1788689	predicted inner membrane protein
+P52600	emrY	1788710	predicted multidrug efflux system
+P0AFI0	oxc	1788716	predicted oxalyl-CoA decarboxylase
+P69902	frc	1788717	formyl-CoA transferase, NAD(P)-binding
+P76520	yfdX	1788719	predicted protein
+O32528	ypdI	2367134	predicted lipoprotein involved in colanic acid biosynthesis
+P76521	yfdY	1788720	predicted inner membrane protein
+P77434	yfdZ	1788722	prediected aminotransferase, PLP-dependent
+P0AE39	ypdB	1788724	predicted response regulator in two-component system withYpdA
+P77396	ypdC	1788725	predicted DNA-binding protein
+P77439	fryA	1788726	fused predicted PTS enzymes: Hpr component/enzyme I component/enzyme IIA component
+P77585	ypdE	1788727	predicted peptidase
+P76524	ypdF	1788728	predicted peptidase
+P77579	fryC	1788729	predicted enzyme IIC component of PTS
+P69808	fryB	1788730	predicted enzyme IIB component of PTS
+P0A6V8	glk	1788732	glucokinase
+P0A769	mntH	1788736	manganese/divalent cation transporter
+P0AFF2	nupC	1788737	nucleoside (except guanosine) transporter
+Q9S4X2	yfeA	87082096	predicted diguanylate cyclase
+P0AD37	yfeC	87082097	predicted DNA-binding transcriptional regulator
+P27238	yfeD	145693165	predicted DNA-binding transcriptional regulator
+P04805	gltX	1788743	glutamyl-tRNA synthetase
+P08839	ptsI	1788756	PEP-protein phosphotransferase of PTS system (enzyme I)
+P69783	crr	1788757	glucose-specific enzyme IIA component of PTS
+P40191	pdxK	1788758	pyridoxal-pyridoxamine kinase/hydroxymethylpyrimidine kinase
+Q47702	yfeK	1788759	predicted protein
+P16703	cysM	2367138	cysteine synthase B (O-acetylserine sulfhydrolase B)
+P16676	cysA	1788761	sulfate/thiosulfate transporter subunit
+P0AEB0	cysW	87082099	sulfate/thiosulfate transporter subunit
+P16701	cysU	1788764	sulfate/thiosulfate transporter subunit
+P16700	cysP	1788765	thiosulfate transporter subunit
+P37440	ucpA	87082100	predicted oxidoredutase, sulfate metabolism protein
+P76535	murQ	1788768	predicted PTS component
+P77272	murP	1788769	fused predicted PTS enzymes: IIB component/IIC component
+P76536	yfeX	87082102	conserved protein
+P76537	yfeY	1788772	predicted protein
+P76538	yfeZ	87082103	predicted inner membrane protein
+P76539	ypeA	87082104	predicted acyltransferase with acyl-CoA N-acyltransferase domain
+P36548	amiA	1788776	N-acetylmuramoyl-l-alanine amidase I
+P36553	hemF	1788777	coproporphyrinogen III oxidase
+P36547	eutR	1788778	predicted DNA-binding transcriptional regulator
+P76540	eutK	87082105	predicted carboxysome structural protein with predicted role in ethanolamine utilization
+P76541	eutL	1788780	predicted carboxysome structural protein with predicted role in ethanolamine utilization
+P76558	maeB	1788806	fused malic enzyme predicted oxidoreductase/predicted phosphotransacetylase
+P0A867	talA	1788807	transaldolase A
+P33570	tktB	1788808	transketolase 2, thiamin-binding
+P76559	ypfG	1788809	predicted protein
+P37128	nudK	1788810	predicted NUDIX hydrolase
+P37127	aegA	1788811	fused predicted oxidoreductase: FeS binding subunit/NAD/FAD-binding subunit
+P27896	narQ	1788812	sensory histidine kinase in two-component regulatory system with NarP (NarL)
+P24177	acrD	1788814	aminoglycoside/multidrug efflux system
+A5A621	ypfM	145693170	hypothetical protein
+Q9S4W9	yffB	1788815	conserved protein
+P0AED7	dapE	1788816	N-succinyl-diaminopimelate deacylase
+Q2EET2	ypfN	87082110	predicted protein
+P76561	ypfH	87082111	predicted hydrolase
+P64429	ypfJ	1788819	conserved protein
+P0A7D7	purC	1788820	phosphoribosylaminoimidazole-succinocarboxamide synthetase
+P0A6L2	dapA	1788823	dihydrodipicolinate synthase
+P0A9I3	gcvR	87082113	DNA-binding transcriptional repressor, regulatory protein accessory to GcvA
+P0AE52	bcp	1788825	thiol peroxidase, thioredoxin-dependent
+P77329	hyfG	1788832	hydrogenase 4, subunit
+P77668	hyfI	1788834	hydrogenase 4, Fe-S subunit
+P0AFI9	yfgO	1788838	predicted inner membrane protein
+P66948	yfgC	1788840	predicted peptidase
+P76569	yfgD	1788841	predicted oxidoreductase
+P69931	hda	1788842	ATPase regulatory factor involved in DnaA inactivation
+P0AGM7	uraA	1788843	uracil transporter
+P0A8F0	upp	87082118	uracil phosphoribosyltransferase
+P08178	purM	1788845	phosphoribosylaminoimidazole synthetase
+P08179	purN	1788846	phosphoribosylglycinamide formyltransferase 1
+P0A7B1	ppk	1788847	polyphosphate kinase, component of RNA degradosome
+P0AFL6	ppx	1788848	exopolyphosphatase
+P04079	guaA	1788854	GMP synthetase (glutamine aminotransferase)
+P0ADG7	guaB	1788855	IMP dehydrogenase
+P04994	xseA	1788856	exonuclease VII, large subunit
+P76575	yfgJ	87082119	predicted protein
+P0A6P5	der	87082120	predicted GTP-binding protein
+P76576	yfgM	1788860	conserved protein
+P60906	hisS	1788861	histidyl tRNA synthetase
+P62620	ispG	1788863	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+P27434	rodZ	1788864	conserved protein
+P36979	rlmN	1788865	23S rRNA m(2)A2503 methyltransferase, SAM-dependen
+P0A763	ndk	1788866	multifunctional nucleoside diphosphate kinase and apyrimidinic endonuclease and 3'-phosphodiesterase
+P76577	pbpC	1788867	fused transglycosylase/transpeptidase
+P0AFZ1	sseB	87082122	rhodanase-like enzyme, sulfur transfer from thiosulfate
+P37095	pepB	87082123	aminopeptidase B
+P0C0L9	iscX	1788873	conserved protein
+P0A9R4	fdx	1788874	[2Fe-2S] ferredoxin
+P0A6Z1	hscA	1788875	DnaK-like molecular chaperone specific for IscU
+P0A6L9	hscB	1788876	DnaJ-like molecular chaperone specific for IscU
+P0AAC8	iscA	1788877	FeS cluster assembly protein
+P0A6B7	iscS	48994898	cysteine desulfurase (tRNA sulfurtransferase), PLP-dependent
+P0AGK8	iscR	1788880	DNA-binding transcriptional repressor
+P0AE01	trmJ	1788881	tRNA mC32/mU32 methyltransferase, SAM-dependent
+P0ADG4	suhB	1788882	inositol monophosphatase
+P77538	yfhR	1788884	predicted peptidase
+P54901	csiE	87082124	stationary phase inducible protein
+Q47142	hcaT	1788886	predicted 3-phenylpropionic transporter
+P76585	yphG	87082126	conserved protein
+P76586	yphH	87082127	predicted DNA-binding transcriptional regulator
+P0A825	glyA	1788902	serine hydroxymethyltransferase
+P24232	hmp	1788903	fused nitric oxide dioxygenase/dihydropteridine reductase 2
+P0A9Z1	glnB	1788904	regulatory protein P-II for glutamine synthetase
+P15254	purL	48994899	phosphoribosylformyl-glycineamide synthetase
+P0AGC5	mltF	171474010	predicted periplasmic binding protein/transglycosylase
+P68398	tadA	145693172	tRNA-specific adenosine deaminase
+Q9JMR4	yfhB	87082129	conserved protein
+P37767	yfhH	87082130	predicted DNA-binding transcriptional regulator
+P52102	yfhL	1788914	predicted 4Fe-4S cluster-containing protein
+P24224	acpS	1788916	holo-[acyl-carrier-protein] synthase 1
+P0A794	pdxJ	1788917	pyridoxine 5'-phosphate synthase
+P0A7H3	recO	2367140	gap repair protein
+P06616	era	1788919	membrane-associated, 16S rRNA-binding GTPase
+P0A7Y0	rnc	1788920	RNase III
+P00803	lepB	1788921	leader peptidase (signal peptidase I)
+P60785	lepA	1788922	GTP-binding membrane protein
+P46187	rseC	1788923	RseC protein involved in reduction of the SoxR iron-sulfur cluster
+P0AFX9	rseB	1788924	anti-sigma factor
+P0AFX7	rseA	1788925	anti-sigma factor
+P0AGB6	rpoE	1788926	RNA polymerase, sigma 24 (sigma E) factor
+P31825	yfiC	87082131	predicted S-adenosyl-L-methionine-dependent methyltransferase
+P21507	srmB	1788930	ATP-dependent RNA helicase
+P33634	yfiE	87082132	predicted DNA-binding transcriptional regulator
+P68066	yfiD	1788933	pyruvate formate lyase subunit
+P12295	ung	1788934	uracil-DNA-glycosylase
+P0AGJ5	yfiF	1788935	predicted methyltransferase
+P0AGG4	trxC	1788936	thioredoxin 2
+Q47319	yfiP	87082133	conserved protein
+P76594	yfiQ	1788938	fused predicted acyl-CoA synthetase: NAD(P)-binding subunit/ATP-binding subunit
+P23830	pssA	87082134	phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase)
+P46126	yfiM	145693173	predicted protein
+P0AEX3	kgtP	1788942	alpha-ketoglutarate transporter
+P63284	clpB	1788943	protein disaggregation chaperone
+P33644	yfiH	1788945	conserved protein
+P33643	rluD	1788946	23S rRNA pseudouridine synthase
+P0AD49	raiA	1788949	cold shock protein associated with 30S ribosomal subunit
+P0A9J8	pheA	1788951	fused chorismate mutase P/prephenate dehydratase
+P07023	tyrA	1788952	fused chorismate mutase T/prephenate dehydrogenase
+P00888	aroF	1788953	3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tyrosine-repressible
+P11289	yfiL	87082135	predicted protein
+P07021	yfiB	1788957	predicted outer membrane lipoprotein
+P0A7K6	rplS	1788958	50S ribosomal subunit protein L19
+P0A873	trmD	1788959	tRNA m(1)G37 methyltransferase, SAM-dependent
+P0A7X6	rimM	87082136	16S rRNA processing protein
+P0A7T3	rpsP	1788961	30S ribosomal subunit protein S16
+P37908	yfjD	145693175	predicted inner membrane protein
+P05824	recN	48994901	recombination and repair protein
+P0A937	smpA	87082138	small membrane lipoprotein
+P52119	yfjF	87082139	predicted protein
+P0AGL5	yfjG	1788972	conserved protein
+P0A832	smpB	1788973	trans-translation protein
+P22256	gabT	1789016	4-aminobutyrate aminotransferase, PLP-dependent
+P25527	gabP	1789017	gamma-aminobutyrate transporter
+P0ADE6	ygaU	1789019	predicted protein
+P0AE42	yqaE	1789020	predicted membrane protein
+P77295	ygaV	1789021	predicted DNA-binding transcriptional regulator
+P55734	ygaP	1789022	predicted inner membrane protein with hydrolase activity
+P0ACG1	stpA	1789023	DNA binding protein, nucleoid-associated
+P64550	ygaW	1789025	predicted inner membrane protein
+P0AD53	ygaC	1789026	predicted protein
+P0ADQ7	ygaM	1789027	predicted protein
+P0AC65	nrdH	1789028	glutaredoxin-like protein
+P0A772	nrdI	1789029	protein that stimulates ribonucleotide reduction
+P39452	nrdE	1789030	ribonucleoside-diphosphate reductase 2, alpha subunit
+P37146	nrdF	1789031	ribonucleoside-diphosphate reductase 2, beta subunit, ferritin-like
+P14175	proV	1789032	glycine betaine transporter subunit
+P14176	proW	1789033	glycine betaine transporter subunit
+P0AFM2	proX	1789034	glycine betaine transporter subunit
+P76630	ygaZ	1789038	predicted transporter
+P43667	ygaH	1789039	predicted inner membrane protein
+P0ACR9	mprA	1789040	DNA-binding transcriptional repressor of microcin B17 synthesis and multidrug efflux
+P27303	emrA	1789041	multidrug efflux system
+P0AEJ0	emrB	1789042	multidrug efflux system protein
+P45578	luxS	1789043	S-ribosylhomocysteinase
+P0A6W9	gshA	1789044	gamma-glutamate-cysteine ligase
+P0ADR0	yqaA	1789045	conserved inner membrane protein
+P77475	yqaB	1789046	predicted hydrolase
+P69913	csrA	1789047	pleiotropic regulatory protein for carbon source metabolism
+P00957	alaS	1789048	alanyl-tRNA synthetase
+P33596	recX	1789050	regulatory protein for RecA
+P0A7G6	recA	1789051	DNA strand exchange and recombination protein with protease and nuclease activity
+P37146	ygaD	1789052	conserved protein
+P41052	mltB	1789053	membrane-bound lytic murein transglycosylase B
+P17115	gutQ	87082151	predicted phosphosugar-binding protein
+P37013	norR	87082152	DNA-binding transcriptional activator
+Q46877	norV	1789064	flavorubredoxin oxidoreductase
+P37596	norW	1789065	NADH:flavorubredoxin oxidoreductase
+P30131	hypF	2367152	carbamoyl phosphate phosphatase and maturation protein for [NiFe] hydrogenases
+P16433	hycG	1789074	hydrogenase 3 and formate hydrogenase complex, HycG subunit
+P16431	hycE	1789076	hydrogenase 3, large subunit
+P16430	hycD	1789077	hydrogenase 3, membrane subunit
+P0A700	hypA	1789081	protein involved in nickel insertion into hydrogenases 3
+P0AAN3	hypB	1789082	GTP hydrolase involved in nickel liganding into hydrogenases
+P0AAM3	hypC	1789083	protein required for maturation of hydrogenases 1 and 3
+P24192	hypD	1789084	protein required for maturation of hydrogenases
+P24193	hypE	1789085	carbamoyl phosphate phosphatase, hydrogenase 3 maturation protein
+P19323	fhlA	1789087	DNA-binding transcriptional activator
+P25728	ygbA	1789088	predicted protein
+P23909	mutS	1789089	methyl-directed mismatch repair protein
+P13445	rpoS	1789098	RNA polymerase, sigma S (sigma 38) factor
+P0ADA3	nlpD	1789099	predicted outer membrane lipoprotein
+P0A7A5	pcm	1789100	L-isoaspartate protein carboxylmethyltransferase type II
+P0A840	surE	1789101	broad specificity 5'(3')-nucleotidase and polyphosphatase
+Q57261	truD	1789102	tRNA(Glu) U13 pseudouridine synthase
+P62617	ispF	1789103	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Q46893	ispD	1789104	4-diphosphocytidyl-2C-methyl-D-erythritol synthase
+P69924	ftsB	1789105	cell division protein
+P46141	ygbE	1789106	conserved inner membrane protein
+P0A6J1	cysC	1789107	adenosine 5'-phosphosulfate kinase
+P23845	cysN	1789108	sulfate adenylyltransferase, subunit 1
+P21156	cysD	1789109	sulfate adenylyltransferase, subunit 2
+P10423	iap	1789111	aminopeptidase in alkaline phosphatase isozyme conversion
+P17854	cysH	1789121	3'-phosphoadenosine 5'-phosphosulfate reductase
+P17846	cysI	1789122	sulfite reductase, beta subunit, NAD(P)-binding, heme-binding
+P38038	cysJ	1789123	sulfite reductase, alpha subunit, flavoprotein
+P65870	queD	1789124	6-pyruvoyl tetrahydrobiopterin synthase (PTPS)
+P64554	ygcF	1789139	conserved protein
+P0A7E5	pyrG	1789142	CTP synthetase
+P0AG20	relA	1789147	(p)ppGpp synthetase I/GTP pyrophosphokinase
+P55135	rumA	1789148	23S rRNA m(5)U1939 methyltransferase, SAM-dependent
+P0AES2	gudD	1789150	(D)-glucarate dehydratase 1
+Q46915	gudX	1789151	predicted glucarate dehydratase
+Q46916	gudP	1789152	predicted D-glucarate transporter
+P65367	yqcA	1789154	predicted flavoprotein
+P0AA41	truC	1789155	tRNA U65 pseudouridine synthase
+Q46919	yqcC	1789156	conserved protein
+P0A8U0	syd	1789157	predicted protein
+Q46920	queF	1789158	7-cyano-7-deazaguanine reductase (NADPH-dependent)
+P0ADR8	ygdH	1789159	conserved protein
+P0AAD6	sdaC	1789160	predicted serine transporter
+P30744	sdaB	1789161	L-serine deaminase II
+P38506	ygdG	1789162	Ssb-binding protein, misidentified as ExoIX
+P0A9S1	fucO	1789163	L-1,2-propanediol oxidoreductase
+P0AB87	fucA	1789164	L-fuculose-1-phosphate aldolase
+P69922	fucI	1789167	L-fucose isomerase
+P11553	fucK	1789168	L-fuculokinase
+P0AEN8	fucU	1789169	L-fucose mutarotase
+P0ACK8	fucR	1789170	DNA-binding transcriptional activator
+P0ADR6	ygdE	1789171	predicted methyltransferase
+P0ADR2	ygdD	1789172	conserved inner membrane protein
+P65292	ygdI	87082162	predicted protein
+P0A9P6	csdA	1789175	cysteine sulfinate desulfinase
+Q46927	ygdL	1789177	conserved protein
+P0A935	mltA	1789179	membrane-bound lytic murein transglycosylase A
+P63883	amiC	87082163	N-acetylmuramoyl-L-alanine amidase
+P0A6C5	argA	1789181	fused acetylglutamate kinase homolog (inactive)/amino acid N-acetyltransferase
+P04993	recD	1789182	exonuclease V (RecBCD complex), alpha chain
+P08394	recB	1789183	exonuclease V (RecBCD complex), beta subunit
+P05458	ptrA	2367164	protease III
+P07648	recC	1789186	exonuclease V (RecBCD complex), gamma chain
+P08372	ppdC	1789187	predicted protein
+P08370	ygdB	87082164	predicted protein
+P33554	ppdA	1789190	conserved protein
+P0A884	thyA	1789191	thymidylate synthetase
+P60955	lgt	1789192	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase
+P69801	ptsP	1789193	fused PTS enzyme: PEP-protein phosphotransferase (enzyme I)/GAF domain containing protein
+P0A776	rppH	1789194	nucleotide hydrolase
+P06722	mutH	1789196	methyl-directed mismatch repair protein
+P67127	ygdQ	1789197	predicted inner membrane protein
+P65294	ygdR	1789198	predicted protein
+P0A9T4	tas	1789199	predicted oxidoreductase, NADP(H)-dependent aldo-keto reductase
+P39196	lplT	1789200	predicted inner membrane protein
+P31119	aas	1789201	fused 2-acylglycerophospho-ethanolamine acyl transferase/acyl-acyl carrier protein synthetase
+P03024	galR	1789202	DNA-binding transcriptional repressor
+P00861	lysA	1789203	diaminopimelate decarboxylase, PLP-binding
+P03030	lysR	1789204	DNA-binding transcriptional dual regulator
+Q02885	ygeA	1789205	predicted racemase
+P0AE24	araE	1789207	arabinose transporter
+Q46822	idi	1789255	isopentenyl diphosphate isomerase
+P0A8N3	lysS	1789256	lysine tRNA synthetase, constitutive
+P07012	prfB	2367172	peptide chain release factor RF-2
+P21893	recJ	1789259	ssDNA exonuclease, 5' --> 3'-specific
+P0AEG6	dsbC	1789260	protein disulfide isomerase II
+P0A8P8	xerD	1789261	site-specific tyrosine recombinase
+P0ABY4	fldB	1789262	flavodoxin 2
+Q46824	ygfX	1789263	predicted protein
+P64559	ygfY	1789264	conserved protein
+P0ADE8	ygfZ	1789265	predicted folate-dependent regulatory protein
+P67153	yqfA	1789266	predicted oxidoreductase, inner membrane subunit
+P67603	yqfB	1789267	conserved protein
+Q46829	bglA	2367174	6-phospho-beta-glucosidase A
+P33195	gcvP	1789269	glycine decarboxylase, PLP-dependent, subunit (protein P) of glycine cleavage complex
+P0A6T9	gcvH	1789271	glycine cleavage complex lipoylprotein
+P27248	gcvT	1789272	aminomethyltransferase, tetrahydrofolate-dependent, subunit (T protein) of glycine cleavage complex
+P25535	visC	1789273	predicted oxidoreductase with FAD/NAD(P)-binding domain
+P25534	ubiH	1789274	2-octaprenyl-6-methoxyphenol hydroxylase, FAD/NAD(P)-binding
+P15034	pepP	1789275	proline aminopeptidase P II
+P0A8C4	ygfB	87082182	predicted protein
+P47737	ygfA	1789278	predicted ligase
+P0A9T0	serA	1789279	D-3-phosphoglycerate dehydrogenase
+P0A7Z0	rpiA	1789280	ribose 5-phosphate isomerase, constitutive
+P0ADS6	yggE	1789289	conserved protein
+P11667	argO	1789290	arginine transporter
+P0C0S1	mscS	1789291	mechanosensitive channel
+P0AB71	fbaA	1789293	fructose-bisphosphate aldolase, class II
+P0A799	pgk	1789294	phosphoglycerate kinase
+P0A9B6	epd	1789295	D-erythrose 4-phosphate dehydrogenase
+P11664	yggC	1789296	conserved protein with nucleoside triphosphate hydrolase domain
+P27302	tktA	48994911	transketolase 1, thiamin-binding
+P25894	yggG	87082185	predicted peptidase
+P60651	speB	1789306	agmatinase
+P21170	speA	1789307	biosynthetic arginine decarboxylase, PLP-binding
+P64567	yqgB	145693178	predicted protein
+P64570	yqgC	1789309	predicted protein
+P46879	yqgD	1789310	predicted inner membrane protein
+P0A817	metK	1789311	methionine adenosyltransferase 1
+P0AEP1	galP	1789312	D-galactose transporter
+P39902	yggI	1789313	conserved protein
+P25736	endA	1789314	DNA-specific endonuclease I
+P0AGL7	rsmE	87082186	16S rRNA m(3)U1498 methyltransferase, SAM-dependent
+P04425	gshB	1789316	glutathione synthetase
+P0A8W5	yqgE	87082187	predicted protein
+P0A8I1	yqgF	1789318	predicted Holliday junction resolvase
+P52052	yggR	87082188	predicted transporter
+P67080	yggS	1789321	predicted enzyme
+P64564	yggT	1789322	predicted inner membrane protein
+P52060	yggU	87082189	conserved protein
+P52061	rdgB	1789324	dITP/XTP pyrophosphatase
+P52062	yggW	1789325	predicted oxidoreductase
+P00805	ansB	1789327	periplasmic L-asparaginase II
+P0ADS9	yggN	1789328	predicted protein
+P38521	yggL	87082190	predicted protein
+P0A8I5	trmI	1789330	tRNA m(7)G46 methyltransferase, SAM-dependent
+P17802	mutY	1789331	adenine DNA glycosylase
+P0A8P3	yggX	1789332	protein that protects iron-sulfur proteins against oxidative damage
+P0C066	mltC	87082191	membrane-bound lytic murein transglycosylase C
+P0AFF4	nupG	87082192	nucleoside transporter
+P21169	speC	87082193	ornithine decarboxylase, constitutive
+P69786	glcA	1789347	glycolate transporter
+P43676	pitB	1789360	phosphate transporter
+P0AES0	gsp	1789361	fused glutathionylspermidine amidase/glutathionylspermidine synthetase
+Q46845	yghU	87082195	predicted S-transferase
+P0AAM7	hybG	1789364	hydrogenase 2 accessory protein
+P0A703	hybF	1789365	protein involved with the maturation of hydrogenases 1 and 2
+P0AAN1	hybE	1789366	hydrogenase 2-specific chaperone
+P37182	hybD	1789367	predicted maturation element for hydrogenase 2
+P0ACE0	hybC	1789368	hydrogenase 2, large subunit
+P37180	hybB	2367183	predicted hydrogenase 2 cytochrome b type component
+P0AAJ8	hybA	1789370	hydrogenase 2 4Fe-4S ferredoxin-type component
+P69741	hybO	1789371	hydrogenase 2, small subunit
+P64574	yghW	1789372	predicted protein
+P67244	yqhA	1789376	conserved inner membrane protein
+P0AG84	yghA	1789378	predicted glutathionylspermidine synthase, with NAD(P)-binding Rossmann-fold domain
+P0ABV2	exbD	1789380	membrane spanning protein in TonB-ExbB-ExbD complex
+P0ABU7	exbB	1789381	membrane spanning protein in TonB-ExbB-ExbD complex
+P06721	metC	1789383	cystathionine beta-lyase, PLP-dependent
+P0AA60	yghB	1789384	synthetic lethal with yqjA at high temperature
+Q46855	yqhC	87082197	predicted DNA-binding transcriptional regulator
+Q46856	yqhD	1789386	alcohol dehydrogenase, NAD(P)-dependent
+Q46857	dkgA	87082198	2,5-diketo-D-gluconate reductase A
+P26647	plsC	1789395	1-acyl-sn-glycerol-3-phosphate acyltransferase
+P0AFI2	parC	1789396	DNA topoisomerase IV, subunit A
+Q46866	ygiV	48994918	predicted transcriptional regulator
+P0ADU5	ygiW	1789401	conserved protein
+P52076	qseB	1789402	DNA-binding response regulator in two-component regulatory system with QseC
+P40719	qseC	1789403	sensory histidine kinase in two-component regulatory system with QseB
+P0AEY5	mdaB	1789406	NADPH quinone reductase
+P0ADU2	ygiN	1789407	quinol monooxygenase
+P20083	parE	1789408	DNA topoisomerase IV, subunit B
+P0A8Z7	yqiA	1789409	predicted esterase
+P0ADU7	yqiB	1789411	predicted dehydrogenase
+Q93K97	nudF	1789412	ADP-ribose pyrophosphatase
+P02930	tolC	87082199	transport channel
+P0ADT2	ygiB	145693179	conserved outer membrane protein
+P0ADT5	ygiC	1789416	predicted enzyme
+P24197	ygiD	1789417	predicted dioxygenase
+P0A7J0	ribB	1789420	3,4-dihydroxy-2-butanone-4-phosphate synthase
+Q46868	yqiC	87082201	conserved protein
+P76658	rfaE	1789432	fused heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase
+P30870	glnE	1789433	fused deadenylyltransferase/adenylyltransferase for glutamine synthetase
+P30871	ygiF	1789434	predicted adenylate cyclase
+P0ADT8	ygiM	1789435	predicted signal transduction protein (SH3 domain)
+P06961	cca	1789436	fused tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase and phosphatase
+P60932	bacA	1789437	undecaprenyl pyrophosphate phosphatase
+P0AC16	folB	87082204	bifunctional dihydroneopterin aldolase/dihydroneopterin triphosphate 2'-epimerase
+P60782	plsY	1789439	conserved inner membrane protein
+P05847	ttdA	1789442	L-tartrate dehydratase, alpha subunit
+P0AC35	ttdB	1789443	L-tartrate dehydratase, beta subunit
+P39414	ttdT	1789444	predicted tartrate:succinate antiporter
+P05852	ygjD	1789445	predicted peptidase
+P0ABS5	dnaG	1789447	DNA primase
+P00579	rpoD	1789448	RNA polymerase, sigma 70 (sigma D) factor
+P0A9H1	mug	1789449	G/U mismatch-specific DNA glycosylase
+Q46871	yqjH	1789450	predicted siderophore interacting protein
+P64588	yqjI	1789452	predicted transcriptional regulator
+P50466	aer	1789453	fused signal transducer for aerotaxis sensory component/methyl accepting chemotaxis component
+P42588	patA	145693181	putrescine:2-oxoglutaric acid aminotransferase, PLP-dependent
+P42589	ygjH	1789455	conserved protein
+P06846	ebgR	1789456	DNA-binding transcriptional repressor
+P06864	ebgA	48994920	cryptic beta-D-galactosidase, alpha subunit
+P42592	ygjK	1789462	predicted glycosyl hydrolase
+P42593	fadH	1789463	2,4-dienoyl-CoA reductase, NADH and FMN-linked
+P42596	rlmG	87082206	23S rRNA mG1835 methyltransferase, SAM-dependent
+P42597	ygjP	87082207	predicted metal dependent hydrolase
+P42598	ygjQ	1789468	predicted thioredoxin-like
+P42599	ygjR	145693182	predicted NAD(P)-binding dehydrogenase
+P42601	alx	48994922	predicted inner membrane protein, part of terminus
+P0AGE4	sstT	1789473	sodium:serine/threonine symporter
+P42603	ygjV	1789474	conserved inner membrane protein
+P42604	uxaA	1789475	altronate hydrolase
+P0A8G3	uxaC	2367192	uronate isomerase
+P0AA78	exuT	2367193	hexuronate transporter
+P0ACL2	exuR	87082208	DNA-binding transcriptional repressor
+P0AA63	yqjA	1789481	synthetic lethal with yghB at high temperature
+P42615	yqjB	1789482	conserved protein
+P42616	yqjC	87082209	conserved protein
+P64581	yqjD	1789485	conserved protein
+P64585	yqjE	1789486	conserved inner membrane protein
+Q47710	yqjK	1789487	conserved protein
+P42620	yqjG	1789489	predicted S-transferase
+P64590	yhaH	2367196	predicted inner membrane protein
+P67660	yhaJ	1789492	predicted DNA-binding transcriptional regulator
+P42624	yhaK	1789493	predicted pirin-related protein
+P42625	yhaL	87082211	predicted protein
+P42626	yhaM	48994923	conserved protein
+P42628	yhaO	145693183	predicted transporter
+P42630	tdcG	48994925	L-serine dehydratase 3
+P0AGL2	tdcF	87082213	predicted L-PSP (mRNA) endoribonuclease
+P42632	tdcE	48994926	pyruvate formate-lyase 4/2-ketobutyrate formate-lyase
+P11868	tdcD	145693184	propionate kinase/acetate kinase C, anaerobic
+P0AAD8	tdcC	1789504	L-threonine/L-serine transporter
+P0AGF6	tdcB	1789505	catabolic threonine dehydratase, PLP-dependent
+P0ACQ7	tdcA	1789506	DNA-binding transcriptional activator
+P11866	tdcR	87082214	DNA-binding transcriptional activator
+P23524	garK	145693185	glycerate kinase I
+P0ABQ2	garR	145693186	tartronate semialdehyde reductase
+P23522	garL	1789514	alpha-dehydro-beta-deoxy-D-glucarate aldolase
+P0AA80	garP	1789515	predicted (D)-galactarate transporter
+P67087	yraL	1789535	predicted methyltransferase
+P45464	yraM	1789537	conserved protein
+P45465	yraN	1789538	conserved protein
+P66817	diaA	1789539	DnaA initiator-associating factor for replication initiation
+P64596	yraP	1789540	predicted protein
+P45468	yraQ	1789541	predicted permease
+P45469	yraR	87082218	predicted nucleoside-diphosphate-sugar epimerase
+P67762	yhbP	1789544	conserved protein
+P45472	yhbQ	1789545	predicted endonuclease
+P63417	yhbS	1789546	predicted acyltransferase with acyl-CoA N-acyltransferase domain
+P64599	yhbT	1789547	predicted lipid carrier protein
+P45527	yhbU	1789548	predicted peptidase (collagenase-like)
+P45475	yhbV	87082220	predicted protease
+P0ADV5	yhbW	1789551	predicted enzyme
+P0AAD2	mtr	1789552	tryptophan transporter of high affinity
+P0A9P6	deaD	87082221	ATP-dependent RNA helicase
+P0AFB1	nlpI	1789554	conserved protein
+P05055	pnp	145693187	polynucleotide phosphorylase/polyadenylase
+P0ADZ4	rpsO	1789556	30S ribosomal subunit protein S15
+P60340	truB	2367200	tRNA U55 pseudouridine synthase
+P0A7G2	rbfA	1789558	30s ribosome binding factor
+P0A705	infB	1789559	fused protein chain initiation factor 2, IF2: membrane protein/conserved protein
+P0A8A8	yhbC	145693188	conserved protein
+P0A6E4	argG	1789563	argininosuccinate synthetase
+P0AG99	secG	1789565	preprotein translocase membrane subunit
+P31120	glmM	1789566	phosphoglucosamine mutase
+P0AC13	folP	87082224	7,8-dihydropteroate synthase
+P0AD57	ispB	1789578	octaprenyl diphosphate synthase
+P0ACH1	sfsB	1789579	DNA-binding transcriptional activator of maltose metabolism
+P0A749	murA	1789580	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P0A9W6	yrbA	87082226	predicted DNA-binding transcriptional regulator
+P64602	yrbB	87082227	predicted protein
+P0ADV7	yrbC	1789583	predicted ABC-type organic solvent transporter
+P64604	yrbD	1789584	predicted ABC-type organic solvent transporter
+P64606	yrbE	1789585	predicted toluene transporter subunit: membrane component of ABC superfamily
+P63386	yrbF	1789586	predicted toluene transporter subunit: ATP-binding component of ABC superfamily
+P45394	yrbG	1789587	predicted calcium/sodium:proton antiporter
+P45395	kdsD	1789588	D-arabinose 5-phosphate isomerase
+P0ABZ4	kdsC	2367202	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+P0ADV9	lptC	1789591	conserved protein
+P0ADV1	lptA	1789592	periplasmic LPS-binding protein
+P0A9V1	lptB	1789593	predicted transporter subunit: ATP-binding component of ABC superfamily
+P24255	rpoN	1789594	RNA polymerase, sigma 54 (sigma N) factor
+P69829	ptsN	1789597	sugar-specific enzyme IIA component of PTS
+P0A894	yhbJ	1789598	predicted protein with nucleoside triphosphate hydrolase domain
+P0A9N0	npr	1789599	phosphohistidinoprotein-hexose phosphotransferase component of N-regulated PTS system (Npr)
+P64610	yrbL	1789600	predicted protein
+P46022	mtgA	1789601	biosynthetic peptidoglycan transglycosylase
+P0ABU5	elbB	87082228	isoprenoid biosynthesis protein with amidotransferase-like domain
+P0AEC3	arcB	48994928	hybrid sensory histidine kinase in two-component regulatory system with ArcA
+P0ADW6	yhcC	2367204	predicted Fe-S oxidoreductase
+P09831	gltB	1789605	glutamate synthase, large subunit
+P09832	gltD	1789606	glutamate synthase, 4Fe-4S protein, small subunit
+P45424	yhcH	1789615	conserved protein
+P45425	nanK	87082230	predicted N-acetylmannosamine kinase
+P0A761	nanE	1789617	predicted N-acetylmannosamine-6-P epimerase
+P41036	nanT	87082231	sialic acid transporter
+P0A6L4	nanA	1789620	N-acetylneuraminate lyase
+P0A8W0	nanR	1789621	DNA-binding transcriptional dual regulator
+P0AFZ3	sspB	1789623	ClpXP protease specificity-enhancing factor
+P0ACA3	sspA	1789624	stringent starvation protein A
+P0A7X3	rpsI	1789625	30S ribosomal subunit protein S9
+P0AA10	rplM	1789626	50S ribosomal subunit protein L13
+P64612	yhcM	1789627	conserved protein with nucleoside triphosphate hydrolase domain
+P0ADW3	yhcB	87082232	conserved protein
+P39099	degQ	1789629	serine endoprotease, periplasmic
+P0AEE3	degS	1789630	serine endoprotease, periplasmic
+P61889	mdh	1789632	malate dehydrogenase, NAD(P)-binding
+P0A6D0	argR	1789633	DNA-binding transcriptional dual regulator, L-arginine-binding
+P64614	yhcN	87082233	conserved protein
+P64616	yhcO	1789635	predicted barnase inhibitor
+P46481	aaeB	1789636	p-hydroxybenzoic acid efflux system component
+P46482	aaeA	1789637	p-hydroxybenzoic acid efflux system component
+P46478	aaeX	87082234	membrane protein of efflux system
+P67662	aaeR	1789639	predicted DNA-binding transcriptional regulator, efflux system
+P0AGG8	tldD	1789640	predicted peptidase
+P46474	yhdP	48994929	conserved membrane protein, predicted transporter
+P0A9J0	rng	87082235	ribonuclease G
+P25536	yhdE	1789646	conserved protein
+P0ABH4	mreD	1789647	cell wall structural complex MreBCD transmembrane component MreD
+P16926	mreC	1789648	cell wall structural complex MreBCD transmembrane component MreC
+P0A9X4	mreB	87082236	cell wall structural complex MreBCD, actin-like component MreB
+P45566	yhdT	1789655	conserved inner membrane protein
+P0A8T1	prmA	2367208	methylase for 50S ribosomal subunit protein L11
+P0ABT5	dusB	1789660	tRNA-dihydrouridine synthase B
+P0A6R3	fis	1789661	global DNA-binding transcriptional dual regulator
+P31224	acrE	1789665	cytoplasmic membrane lipoprotein
+P24181	acrF	1789666	multidrug efflux system protein
+P45768	yhdY	87082239	predicted amino-acid transporter subunit
+P45769	yhdZ	1789672	predicted amino-acid transporter subunit
+P45795	yrdB	1789674	conserved protein
+P15770	aroE	1789675	dehydroshikimate reductase, NAD(P)-binding
+P45748	rimN	2367210	predicted ribosome maturation factor
+P45771	yrdD	48994931	predicted DNA topoisomerase
+P0A828	smg	1789679	conserved protein
+P30852	smf	48994932	conserved protein
+P0A6K3	def	1789682	peptide deformylase
+P23882	fmt	1789683	10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase
+P36929	rsmB	2367212	16S rRNA m(5)C967 methyltransferase, S-adenosyl-L-methionine-dependent
+P0AGI8	trkA	1789685	NAD-binding component of TrK potassium transporter
+P0AG44	rplQ	1789689	50S ribosomal subunit protein L17
+P0A7Z4	rpoA	1789690	RNA polymerase, alpha subunit
+P0A7V8	rpsD	1789691	30S ribosomal subunit protein S4
+P0A7R9	rpsK	1789692	30S ribosomal subunit protein S11
+P0A7S9	rpsM	1789693	30S ribosomal subunit protein S13
+P0A7Q6	rpmJ	1789695	50S ribosomal subunit protein L36
+P62399	rplE	1789704	50S ribosomal subunit protein L5
+P60624	rplX	1789705	50S ribosomal subunit protein L24
+P0ADY3	rplN	1789706	50S ribosomal subunit protein L14
+P0ADW8	yheV	87082247	predicted protein
+P0A756	kefG	1789750	component of potassium effux complex with KefB
+P63389	yheS	1789751	fused predicted transporter subunits of ABC superfamily: ATP-binding components
+P45524	yheT	1789752	predicted hydrolase
+P67624	yheU	1789753	conserved protein
+P0AEX5	prkB	2367214	predicted phosphoribulokinase
+P0ACJ8	crp	1789756	DNA-binding transcriptional dual regulator
+P45537	yhfK	87082248	conserved inner membrane protein
+P18335	argD	1789759	bifunctional acetylornithine aminotransferase/ succinyldiaminopimelate aminotransferase
+P00903	pabA	1789760	aminodeoxychorismate synthase, subunit II
+P20605	fic	1789761	stationary-phase protein, cell division
+P0ADX5	yhfG	1789762	predicted protein
+P0AFL3	ppiA	1789763	peptidyl-prolyl cis-trans isomerase A (rotamase A)
+P60778	tsgA	1789764	predicted transporter
+P08201	nirB	1789765	nitrite reductase, large subunit, NAD(P)H-binding
+P0A9I8	nirD	1789766	nitrite reductase, NAD(P)H-binding, small subunit
+P0AC26	nirC	87082249	nitrite transporter
+P0AEA8	cysG	1789768	fused siroheme synthase 1,3-dimethyluroporphyriongen III dehydrogenase and siroheme ferrochelatase/uroporphyrinogen methyltransferase
+P00954	trpS	1789786	tryptophanyl-tRNA synthetase
+P32662	gph	1789787	phosphoglycolate phosphatase
+P0AG07	rpe	1789788	D-ribulose-5-phosphate 3-epimerase
+P0AEE8	dam	1789789	DNA adenine methylase
+P11557	damX	1789790	predicted protein
+P07639	aroB	1789791	3-dehydroquinate synthase
+P0A6D7	aroK	87082255	shikimate kinase I
+P34749	hofQ	1789793	predicted fimbrial transporter
+P02918	mrcA	87082258	fused penicillin-binding protein 1a: murein transglycosylase/murein transpeptidase
+P45799	nudE	1789800	ADP-ribose diphosphatase
+P45800	yrfF	1789801	predicted inner membrane protein
+P64636	yrfG	87082259	predicted hydrolase
+P0ACG8	hslR	1789803	ribosome-associated heat shock protein Hsp15
+P0A6Y5	hslO	87082260	heat shock protein Hsp33
+P45804	yhgE	1789805	predicted inner membrane protein
+P22259	pck	1789807	phosphoenolpyruvate carboxykinase
+P0AEJ4	envZ	1789808	sensory histidine kinase in two-component regulatory system with OmpR
+P0AA16	ompR	1789809	DNA-binding response regulator in two-component regulatory system with EnvZ
+P30128	greB	87082261	transcription elongation factor
+P46837	yhgF	87082262	predicted transcriptional accessory protein
+P0AEL3	feoA	1789812	ferrous iron transporter, protein A
+P33650	feoB	1789813	fused ferrous iron transporter, protein B: GTP-binding protein/membrane protein
+P64638	feoC	1789814	predicted DNA-binding transcriptional regulator
+P13001	bioH	1789817	carboxylesterase of pimeloyl-CoA synthesis
+P46846	gntX	87082263	gluconate periplasmic binding protein with phosphoribosyltransferase domain, GNT I system
+P63020	nfuA	1789819	predicted gluconate transport associated protein
+P39835	gntT	48994935	gluconate transporter, high-affinity GNT I system
+P15977	malQ	1789821	4-alpha-glucanotransferase (amylomaltase)
+P00490	malP	48994936	maltodextrin phosphorylase
+P06993	malT	2367223	fused conserved protein: DNA-binding transcriptional activator/maltotriose-ATP-binding protein
+P46849	rtcA	48994937	RNA 3'-terminal phosphate cyclase
+P0ACL0	glpR	1789829	DNA-binding transcriptional repressor
+P09391	glpG	48994938	predicted intramembrane serine protease
+P0A6V5	glpE	1789831	thiosulfate:cyanide sulfurtransferase (rhodanese)
+P13035	glpD	2367226	sn-glycerol-3-phosphate dehydrogenase, aerobic, FAD/NAD(P)-binding
+P0AC86	glgP	2367228	glycogen phosphorylase
+P0A6U8	glgA	1789836	glycogen synthase
+P0A6V1	glgC	1789837	glucose-1-phosphate adenylyltransferase
+P15067	glgX	2367229	glycogen debranching enzyme
+P07762	glgB	1789839	1,4-alpha-glucan branching enzyme
+P0A9Q9	asd	1789841	aspartate-semialdehyde dehydrogenase, NAD(P)-binding
+P67143	yhgN	1789842	predicted antibiotic transporter
+P0AC96	gntU	48994939	gluconate transporter, low affinity GNT 1 system
+P46859	gntK	87082265	gluconate kinase 2
+P0ACP5	gntR	48994940	DNA-binding transcriptional repressor
+P46852	yhhW	1789847	predicted protein
+P46853	yhhX	1789848	predicted oxidoreductase with NAD(P)-binding Rossmann-fold domain
+P18956	ggt	1789856	gamma-glutamyltranspeptidase
+P0ADX7	yhhA	1789857	conserved protein
+P10908	ugpQ	1789858	glycerophosphodiester phosphodiesterase, cytosolic
+P10907	ugpC	87082267	glycerol-3-phosphate transporter subunit
+P10906	ugpE	1789860	glycerol-3-phosphate transporter subunit
+P22731	livF	87082268	leucine/isoleucine/valine transporter subunit
+P0A9S7	livG	1789864	leucine/isoleucine/valine transporter subunit
+P22729	livM	1789865	leucine/isoleucine/valine transporter subunit
+P0AEX7	livH	1789866	leucine/isoleucine/valine transporter subunit
+P04816	livK	1789867	leucine transporter subunit
+P37613	yhhK	1789869	conserved protein
+P0AD96	livJ	48994941	leucine/isoleucine/valine transporter subunit
+P0AGB3	rpoH	1789871	RNA polymerase, sigma 32 (sigma H) factor
+P0AC30	ftsX	1789872	predicted transporter subunit: membrane component of ABC superfamily
+P0A9R7	ftsE	1789873	predicted transporter subunit: ATP-binding component of ABC superfamily
+P10121	ftsY	1789874	fused Signal Recognition Particle (SRP) receptor: membrane binding protein/conserved protein
+P0ADX9	rsmD	1789875	16S rRNA m(2)G966 methyltransferase, SAM-dependent
+P37614	yhhL	1789876	conserved inner membrane protein
+P37615	yhhM	1789877	conserved protein
+P0ADI9	yhhN	1789878	conserved inner membrane protein
+P37617	zntA	1789879	zinc, cobalt and lead efflux system
+P0A890	sirA	1789881	conserved protein required for cell growth
+P37619	yhhQ	1789882	conserved inner membrane protein
+P0AEE1	dcrB	87082269	periplasmic protein
+P37621	yhhS	87082270	predicted transporter
+P37623	acpT	1789886	holo-(acyl carrier protein) synthase 2
+P33590	nikA	1789887	nickel transporter subunit
+P33591	nikB	1789888	nickel transporter subunit
+P0AFA9	nikC	1789889	nickel transporter subunit
+P33593	nikD	1789890	nickel transporter subunit
+P33594	nikE	1789891	nickel transporter subunit
+P0A6Z6	nikR	1789892	DNA-binding transcriptional repressor, Ni-binding
+P37631	yhiN	2367234	predicted oxidoreductase with FAD/NAD(P)-binding domain
+P0AFJ7	pitA	1789907	phosphate transporter, low-affinity
+P0A8S5	uspB	1789908	predicted universal stress (ethanol tolerance) protein B
+P0AED0	uspA	1789909	universal stress global response regulator
+P36837	dtpB	1789911	predicted transporter
+P68567	yhiQ	1789912	predicted SAM-dependent methyltransferase
+P27298	prlC	1789913	oligopeptidase A
+P37634	yhiR	1789914	predicted DNA (exogenous) processing protein
+P06715	gor	1789915	glutathione oxidoreductase
+A5A624	dinQ	145693192	Damage inducible, function unknown
+P0AB96	arsC	1789918	arsenate reductase
+P37194	slp	87082278	outer membrane lipoprotein
+P37195	dctR	1789923	predicted DNA-binding ranscriptional regulator
+P0AET2	hdeB	87082279	acid-resistance protein
+P0AES9	hdeA	1789926	stress response protein acid-resistance protein
+P0AET5	hdeD	1789927	acid-resistance membrane protein
+P63204	gadE	1789928	DNA-binding transcriptional activator
+P37637	mdtF	1789930	multidrug transporter, RpoS-dependent
+P63201	gadW	1789932	DNA-binding transcriptional activator
+P37639	gadX	1789933	DNA-binding transcriptional dual regulator
+P69908	gadA	1789934	glutamate decarboxylase A, PLP-dependent
+P37641	yhjC	145693193	predicted DNA-binding transcriptional regulator
+P37642	yhjD	1789939	conserved inner membrane protein
+P37643	yhjE	1789941	predicted transporter
+P37645	yhjG	2367236	predicted outer membrane biogenesis protein
+P37646	yhjH	87082280	EAL domain containing protein involved in flagellar function
+P37647	kdgK	87082281	ketodeoxygluconokinase
+P37648	yhjJ	1789946	predicted zinc-dependent peptidase
+P0A830	dctA	1789947	C4-dicarboxylic acid, orotate and citrate transporter
+P37649	yhjK	145693194	predicted diguanylate cyclase
+Q6BF25	ldrD	48994945	toxic polypeptide, small
+P37660	yhjV	1789961	predicted transporter
+P37313	dppF	1789962	dipeptide transporter
+P0AAG0	dppD	1789963	dipeptide transporter
+P0AEG1	dppC	1789964	dipeptide transporter
+P0AEF8	dppB	1789965	dipeptide transporter
+P23847	dppA	1789966	dipeptide transporter
+P37662	yhjX	1789969	predicted transporter
+P37663	yhjY	87082287	conserved protein
+P76011	tag	1789971	3-methyl-adenine DNA glycosylase I, constitutive
+P37664	yiaC	1789972	predicted acyltransferase with acyl-CoA N-acyltransferase domain
+P20099	bisC	145693196	biotin sulfoxide reductase
+P37666	ghrB	87082289	2-keto-D-gluconate reductase (glyoxalate reductase) (2-ketoaldonate reductase)
+P0ADK0	yiaF	87082290	conserved protein
+P0A9V5	yiaG	1789978	predicted transcriptional regulator
+P0A9X9	cspA	1789979	major cold shock protein
+P37305	hokA	48994947	toxic polypeptide, small
+P00961	glyS	1789982	glycine tRNA synthetase, beta subunit
+P00960	glyQ	1789983	glycine tRNA synthetase, alpha subunit
+Q2M7M3	ysaB	87082291	predicted protein
+P56256	ysaA	2367245	predicted hydrogenase, 4Fe-4S ferredoxin-type component
+P37680	yiaS	1790008	L-ribulose-5-phosphate 4-epimerase
+P14081	selB	2367247	selenocysteinyl-tRNA-specific translation factor
+P0A821	selA	2367248	selenocysteine synthase
+P0ACA1	yibF	1790018	predicted glutathione S-transferase
+P33231	lldP	1790031	L-lactate permease
+P0ACL7	lldR	1790032	DNA-binding transcriptional repressor
+P33232	lldD	1790033	L-lactate dehydrogenase, FMN-linked
+P0AGJ7	yibK	1790034	predicted rRNA methylase
+P0A9D4	cysE	1790035	serine acetyltransferase
+P0A6S7	gpsA	1790037	glycerol-3-phosphate dehydrogenase (NAD+)
+P0AG86	secB	1790038	protein export chaperone
+P0AC62	grxC	1790039	glutaredoxin 3
+P0AG27	yibN	1790040	predicted rhodanese-related sulfurtransferase
+P24180	envC	87082297	protease with a role in cell division
+P37691	yibQ	87082298	predicted polysaccharide deacetylase
+P07913	tdh	1790045	threonine 3-dehydrogenase, NAD(P)-binding
+P0AB77	kbl	1790046	glycine C-acetyltransferase
+P67910	rfaD	1790049	ADP-L-glycero-D-mannoheptose-6-epimerase, NAD(P)-binding
+P37692	rfaF	1790050	ADP-heptose:LPS heptosyltransferase II
+P25741	rfaP	1790060	kinase that phosphorylates core heptose of lipopolysaccharide
+P25740	rfaG	1790061	glucosyltransferase I
+P0AC75	waaA	1790064	3-deoxy-D-manno-octulosonic-acid transferase (KDO transferase)
+P0A6I6	coaD	1790065	pantetheine-phosphate adenylyltransferase
+P05523	mutM	1790066	formamidopyrimidine/5-formyluracil/ 5-hydroxymethyluracil DNA glycosylase
+P0A7N9	rpmG	1790067	50S ribosomal subunit protein L33
+P0ABQ0	dfp	87082301	fused 4'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase, FMN-binding
+P06968	dut	1790071	deoxyuridinetriphosphatase
+P0C093	slmA	87082302	division inhibitor
+P0A7E3	pyrE	1790073	orotate phosphoribosyltransferase
+P0CG19	rph	157672248	defective ribonuclease PH
+P23839	yicC	1790075	conserved protein
+P0AGM2	yicG	87082304	conserved inner membrane protein
+P60546	gmk	1790080	guanylate kinase
+P0A800	rpoZ	1790081	RNA polymerase, omega subunit
+P0AG24	spoT	1790082	bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase
+P0AGJ2	trmH	1790083	tRNA mG18-2'-O-methyltransferase, SAM-dependen
+P24230	recG	2367254	ATP-dependent DNA helicase
+P0AER8	gltS	1790085	glutamate transporter
+P0AGM9	xanP	1790087	predicted transporter
+P31433	yicH	1790088	conserved protein
+P31435	yicJ	87082306	predicted transporter
+P04846	nlpA	1790093	cytoplasmic membrane lipoprotein-28
+P0ADL1	nepI	145693198	predicted transporter
+P0ADL3	yicN	87082308	conserved protein
+P31440	yicO	87082309	predicted xanthine/uracil permase
+P31441	ade	1790098	cryptic adenine deaminase
+P0AGC0	uhpT	2367259	hexose phosphate transporter
+P09836	uhpC	87082310	membrane protein regulates uhpT expression
+P09835	uhpB	87082311	sensory histidine kinase in two-component regulatory sytem with UhpA
+P0AGA6	uhpA	1790102	DNA-binding response regulator in two-component regulatory system wtih UhpB
+P0ADF8	ilvN	1790103	acetolactate synthase I, small subunit
+P08142	ilvB	1790104	acetolactate synthase I, large subunit
+P03061	ivbL	1790106	ilvB operon leader peptide
+P31442	emrD	87082312	multidrug efflux system protein
+P31443	yidF	1790108	predicted DNA-binding transcriptional regulator
+P0ADL6	yidG	1790109	predicted inner membrane protein
+P0ADM0	yidH	1790110	conserved inner membrane protein
+P60872	yidE	87082315	predicted transporter
+P0C058	ibpB	87082316	heat shock chaperone
+P0C054	ibpA	1790122	heat shock chaperone
+P0ADM4	yidQ	87082317	conserved outer membrane protein
+P31455	yidR	87082318	conserved protein
+P09996	yidB	87082321	conserved protein
+P0AES6	gyrB	48994957	DNA gyrase, subunit B
+P0A7H0	recF	1790135	gap repair protein
+P0A988	dnaN	1790136	DNA polymerase III, beta subunit
+P03004	dnaA	2367267	chromosomal replication initiator protein DnaA, DNA-binding transcriptional dual regulator
+P0A7P5	rpmH	1790138	50S ribosomal subunit protein L34
+P0A7Y8	rnpA	1790139	protein C5 component of RNase P
+P0A8C8	yidD	87082322	predicted protein
+P25714	yidC	1790140	cytoplasmic insertase into membrane protein, Sec system
+P25522	mnmE	2367268	GTPase
+P31462	mdtL	1790146	multidrug efflux system protein
+P0ADM8	yieE	1790148	predicted phosphopantetheinyl transferase
+P0AGE6	yieF	1790149	chromate reductase, Class I, flavoprotein
+P31466	purP	1790150	predicted inner membrane protein
+P0A9K7	phoU	1790161	negative regulator of PhoR/PhoB two-component regulator
+P0AAH0	pstB	1790162	phosphate transporter subunit
+P07654	pstA	1790163	phosphate transporter subunit
+P0AGH8	pstC	1790164	phosphate transporter subunit
+P0AG82	pstS	2367271	phosphate transporter subunit
+P17169	glmS	1790167	L-glutamine:D-fructose-6-phosphate aminotransferase
+P0ACC7	glmU	1790168	fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase
+P0A6E6	atpC	1790169	F1 sector of membrane-bound ATP synthase, epsilon subunit
+P0ABB4	atpD	1790170	F1 sector of membrane-bound ATP synthase, beta subunit
+P0ABA6	atpG	1790171	F1 sector of membrane-bound ATP synthase, gamma subunit
+P0ABB0	atpA	1790172	F1 sector of membrane-bound ATP synthase, alpha subunit
+P0ABA4	atpH	1790173	F1 sector of membrane-bound ATP synthase, delta subunit
+P0ABA0	atpF	1790174	F0 sector of membrane-bound ATP synthase, subunit b
+P68699	atpE	1790175	F0 sector of membrane-bound ATP synthase, subunit c
+P0AB98	atpB	1790176	F0 sector of membrane-bound ATP synthase, subunit a
+P0A6U5	rsmG	1790179	methyltransferase, SAM-dependent methyltransferase, glucose-inhibited cell-division protein
+P03817	mioC	1790181	FMN-binding protein MioC
+P0ACI6	asnC	1790182	DNA-binding transcriptional dual regulator
+P00963	asnA	1790183	asparagine synthetase A
+P0ADN0	viaA	48994959	predicted von Willibrand factor containing protein
+P31473	ravA	87082326	fused predicted transcriptional regulator: sigma54 activator protein/conserved protein
+P63183	kup	48994960	potassium transporter
+P04982	rbsD	87082327	predicted cytoplasmic sugar-binding protein
+P0AGI1	rbsC	1790191	D-ribose transporter subunit
+P02925	rbsB	1790192	D-ribose transporter subunit
+P0A9J6	rbsK	1790193	ribokinase
+P31474	hsrA	1790195	predicted multidrug or homocysteine efflux system
+P31475	yieP	48994961	predicted transcriptional regulator
+P0A8R9	hdfR	48994962	DNA-binding transcriptional regulator
+P0ADN2	yifE	2367277	conserved protein
+P62522	ilvL	1790202	ilvG operon leader peptide
+P0ADG1	ilvM	1790204	acetolactate synthase II, small subunit
+P0AB80	ilvE	48994963	branched-chain amino-acid aminotransferase
+P05791	ilvD	48994964	dihydroxyacid dehydratase
+P04968	ilvA	1790207	threonine deaminase
+P05827	ilvY	1790208	DNA-binding transcriptional dual regulator
+P05793	ilvC	1790210	ketol-acid reductoisomerase, NAD(P)-binding
+P0A9L5	ppiC	1790211	peptidyl-prolyl cis-trans isomerase C (rotamase C)
+P03856	rep	48994965	DNA helicase and single-stranded DNA-dependent ATPase
+P0A9M5	gpp	48994966	guanosine pentaphosphatase/exopolyphosphatase
+P0A8J8	rhlB	1790214	ATP-dependent RNA helicase
+P0AA25	trxA	87082331	thioredoxin 1
+P0AG30	rho	1790217	transcription termination factor
+P0AC78	rfe	1790218	UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase
+P0AG00	wzzE	87082332	Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein
+P27828	rffE	48994967	UDP-N-acetyl glucosamine-2-epimerase
+P27829	rffD	48994968	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase
+P27830	rffG	48994969	dTDP-glucose 4,6-dehydratase
+P61887	rffH	1790224	glucose-1-phosphate thymidylyltransferase
+P27832	rffC	145693203	TDP-fucosamine acetyltransferase
+P27833	rffA	2367285	TDP-4-oxo-6-deoxy-D-glucose transaminase
+P0AAA7	wzxE	1790227	O-antigen translocase
+P56258	rffT	48994971	TDP-Fuc4NAc:lipidIIFuc4NAc transferase
+P27835	wzyE	2367288	predicted Wzy protein involved in ECA polysaccharide chain elongation
+P27836	rffM	2367289	UDP-N-acetyl-D-mannosaminuronic acid transferase
+P27837	yifK	48994972	predicted transporter
+P0ACB7	hemY	1790234	predicted protoheme IX synthesis protein
+P09127	hemX	1790235	predicted uroporphyrinogen III methylase
+P09126	hemD	1790236	uroporphyrinogen III synthase
+P06983	hemC	48994974	hydroxymethylbilane synthase
+P00936	cyaA	1790238	adenylate cyclase
+P27838	cyaY	1790239	frataxin, iron-binding and oxidizing protein
+P0ADN6	yifL	87082333	predicted lipoprotein
+P0A6K1	dapF	87082334	diaminopimelate epimerase
+P23305	yigA	1790243	conserved protein
+P0A8P6	xerC	1790244	site-specific tyrosine recombinase
+P0ADP0	yigB	2367295	predicted hydrolase
+P03018	uvrD	2367296	DNA-dependent ATPase I and helicase II
+P0ABI4	corA	2367297	magnesium/nickel/cobalt transporter
+P27844	rarD	48994976	predicted chloramphenical resistance permease
+P0ADP2	yigI	87082336	conserved protein
+P0A921	pldA	2367300	outer membrane phospholipase A
+P15043	recQ	48994977	ATP-dependent DNA helicase
+P0AG38	rhtC	48994978	threonine efflux system
+P0AG34	rhtB	48994979	neutral amino-acid efflux system
+P07000	pldB	48994980	lysophospholipase L(2)
+P27848	yigL	48994981	predicted hydrolase
+P0ADP5	yigM	1790261	predicted inner membrane protein
+P0A9F9	metR	1790262	DNA-binding transcriptional activator, homocysteine-binding
+P25665	metE	2367304	5-methyltetrahydropteroyltriglutamate- homocysteine S-methyltransferase
+P56262	ysgA	48994982	predicted hydrolase
+P12758	udp	1790265	uridine phosphorylase
+P0AG71	rmuC	1790266	predicted recombination limiting protein
+P0A887	ubiE	48994983	bifunctional 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/ S-adenosylmethionine:2-DMK methyltransferase
+P0ADP7	yigP	2367308	conserved protein
+P0AEN1	ubiB	2367309	2-octaprenylphenol hydroxylase
+P69428	tatA	87082337	TatABCE protein translocation system subunit
+P69425	tatB	48994984	TatABCE protein translocation system subunit
+P69423	tatC	2367313	TatABCE protein translocation system subunit
+P27859	tatD	48994985	DNase, magnesium-dependent
+P0AFW0	rfaH	1790276	DNA-binding transcriptional antiterminator
+P0AAB4	ubiD	1790277	3-octaprenyl-4-hydroxybenzoate decarboxylase
+P0AEN1	fre	2367314	flavin reductase
+P21151	fadA	48994986	3-ketoacyl-CoA thiolase (thiolase I)
+P21177	fadB	1790281	fused 3-hydroxybutyryl-CoA epimerase/delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase
+P21165	pepQ	1790282	proline dipeptidase
+P27862	yigZ	87082338	predicted elongation factor
+P0AFZ7	trkH	48994987	potassium transporter
+P0ACB4	hemG	1790285	protoporphyrin oxidase, flavoprotein
+P32125	mobB	145693204	molybdopterin-guanine dinucleotide biosynthesis protein B
+P32173	mobA	1790288	molybdopterin-guanine dinucleotide synthase
+P0ADP9	yihD	1790289	conserved protein
+P0C0K3	rdoA	1790290	Thr/Ser kinase implicated in Cpx stress response
+P0AEG4	dsbA	1790291	periplasmic protein disulfide isomerase I
+P32129	yihG	1790293	predicted endonuclease
+P00582	polA	1790294	fused DNA polymerase I 5'->3' polymerase/3'->5' exonuclease/5'->3' exonuclease
+P0A6P7	yihA	145693205	GTP-binding protein
+P0A8H6	yihI	1790297	conserved protein
+P32131	hemN	87082341	coproporphyrinogen III oxidase, SAM and NAD(P)H dependent, oxygen-independent
+P0AFB8	glnG	1790299	fused DNA-binding response regulator in two-component regulatory system with GlnL: response regulator/sigma54 interaction protein
+P0AFB5	glnL	1790300	sensory histidine kinase in two-component regulatory system with GlnG
+P0A9C5	glnA	1790301	glutamine synthetase
+P32132	typA	48994988	GTP-binding protein
+P0A8Y3	yihX	87082345	predicted hydrolase
+P0A8K8	yihY	1790319	predicted inner membrane protein
+P0A6M4	dtd	1790320	D-tyr-tRNA(Tyr) deacylase
+P0ADQ2	yiiD	1790321	predicted acetyltransferase
+P13024	fdhE	1790324	formate dehydrogenase formation protein
+P0AEL0	fdoI	1790325	formate dehydrogenase-O, cytochrome b556 subunit
+P0AAJ5	fdoH	1790326	formate dehydrogenase-O, Fe-S subunit
+P32176	fdoG	3868720	formate dehydrogenase-O, large subunit
+P32177	fdhD	1790329	formate dehydrogenase formation protein
+P32156	rhaM	1790335	L-rhamnose mutarotase
+P32169	rhaD	1790336	rhamnulose-1-phosphate aldolase
+P32170	rhaA	48994990	L-rhamnose isomerase
+P09377	rhaS	1790339	DNA-binding transcriptional activator, L-rhamnose-binding
+P27125	rhaT	1790341	L-rhamnose:proton symporter
+P00448	sodA	1790342	superoxide dismutase, Mn
+P32157	yiiM	87082350	conserved protein
+P0AE82	cpxA	1790346	sensory histidine kinase in two-component regulatory system with CpxR
+P0AE88	cpxR	2367329	DNA-binding response regulator in two-component regulatory system with CpxA
+P0AE85	cpxP	48994991	periplasmic protein combats stress
+P69380	fieF	1790349	zinc transporter
+P0A796	pfkA	1790350	6-phosphofructokinase I
+P0AG78	sbp	1790351	sulfate transporter subunit
+P0A858	tpiA	1790353	triosephosphate isomerase
+P32160	yiiQ	1790354	conserved protein
+P0AF34	yiiR	1790355	conserved inner membrane protein
+P32162	yiiS	1790357	conserved protein
+P0AAB8	uspD	1790358	stress-induced protein
+P69811	fpr	1790359	ferredoxin-NADP reductase
+P0A9C9	glpX	1790360	fructose 1,6-bisphosphatase II
+P0A6F3	glpK	1790361	glycerol kinase
+P0AER0	glpF	1790362	glycerol facilitator
+P0AF36	zapB	1790363	conserved protein
+P0A8R0	rraA	1790364	ribonuclease E (RNase E) inhibitor protein
+P32166	menA	1790365	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+P0A6H5	hslU	1790366	molecular chaperone and ATPase component of HslUV protease
+P0A7B8	hslV	1790367	peptidase component of the HslUV protease
+P0ACN7	cytR	1790369	DNA-binding transcriptional dual regulator
+P17888	priA	1790370	Primosome factor n' (replication factor Y)
+P0A7M9	rpmE	1790371	50S ribosomal subunit protein L31
+P32167	yiiX	1790372	predicted peptidoglycan peptidase
+P0A8U6	metJ	1790373	DNA-binding transcriptional repressor, S-adenosylmethionine-binding
+P00935	metB	1790375	cystathionine gamma-synthase, PLP-dependent
+P00562	metL	1790376	fused aspartokinase II/homoserine dehydrogenase II
+P0AEZ1	metF	1790377	5,10-methylenetetrahydrofolate reductase
+P13029	katG	1790378	catalase/hydroperoxidase HPI(I)
+P0ABT8	yijE	87082351	predicted permease
+P32668	yijF	1790380	conserved protein
+P0A9S5	gldA	87082352	glycerol dehydrogenase, NAD
+P32669	fsaB	1790382	fructose-6-phosphate aldolase 2
+P32670	ptsA	48994992	fused predicted PTS enzymes: Hpr component/enzyme I component/enzyme IIA component
+P32672	frwC	1790386	predicted enzyme IIC component of PTS
+P69816	frwB	1790387	predicted enzyme IIB component of PTS
+P32674	pflD	1790388	predicted formate acetyltransferase 2 (pyruvate formate lyase II)
+P32675	pflC	1790389	pyruvate formate lyase II activase
+P32676	frwD	1790390	predicted enzyme IIB component of PTS
+P32677	yijO	1790391	predicted DNA-binding transcriptional regulator
+P0CB39	yijP	1790392	conserved inner membrane protein
+P00864	ppc	1790393	phosphoenolpyruvate carboxylase
+P23908	argE	1790395	acetylornithine deacetylase
+P0A6C8	argB	145693208	acetylglutamate kinase
+P11447	argH	1790398	argininosuccinate lyase
+P0ACQ4	oxyR	1790399	DNA-binding transcriptional dual regulator
+P27306	sthA	87082354	pyridine nucleotide transhydrogenase, soluble
+P0ACU5	fabR	145693209	DNA-binding transcriptional repressor
+P0AF40	yijD	1790402	conserved inner membrane protein
+P23003	trmA	1790403	tRNA m(5)U54 methyltransferase, SAM-dependen
+P22634	murI	87082355	glutamate racemase
+P08373	murB	1790407	UDP-N-acetylenolpyruvoylglucosamine reductase, FAD-binding
+P06709	birA	1790408	bifunctional biotin-[acetylCoA carboxylase] holoenzyme synthetase/ DNA-binding transcriptional repressor, bio-5'-AMP-binding
+P0A7K2	rplL	1790418	50S ribosomal subunit protein L7/L12
+P0A8V2	rpoB	1790419	RNA polymerase, beta subunit
+P0A8T7	rpoC	2367335	RNA polymerase, beta prime subunit
+P30140	thiH	1790423	thiamin biosynthesis ThiGH complex subunit
+P30139	thiG	48994993	thiamin biosynthesis ThiGH complex subunit
+O32583	thiS	48994994	sulphur carrier protein
+P30138	thiF	87082356	thiamin (thiazole moiety) biosynthesis protein
+P30137	thiE	1790426	thiamin phosphate synthase (thiamin phosphate pyrophosphorylase)
+P30136	thiC	1790427	thiamin (pyrimidine moiety) biosynthesis protein
+P0AFX4	rsd	1790428	stationary phase protein, binds sigma 70 RNA polymerase subunit
+P32664	nudC	48994995	NADH pyrophosphatase
+P29680	hemE	2367337	uroporphyrinogen decarboxylase
+P68739	nfi	87082357	endonuclease V
+P32680	yjaG	1790432	conserved protein
+P0ACF0	hupA	1790433	HU, DNA-binding transcriptional regulator, alpha subunit
+P32681	yjaH	1790434	conserved protein
+P0AAA9	zraP	87082358	Zn-binding periplasmic protein
+P14377	zraS	1790436	sensory histidine kinase in two-component regulatory system with ZraR
+P14375	zraR	1790437	fused DNA-binding response regulator in two-component regulatory system with ZraS: response regulator/sigma54 interaction protein
+P15640	purD	1790438	phosphoribosylglycinamide synthetase phosphoribosylamine-glycine ligase
+P15639	purH	1790439	fused IMP cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+P07623	metA	1790443	homoserine O-transsuccinylase
+P08997	aceB	1790444	malate synthase A
+P0A9G6	aceA	1790445	isocitrate lyase
+P16528	iclR	87082359	DNA-binding transcriptional repressor
+P13009	metH	1790450	homocysteine-N5-methyltetrahydrofolate transmethylase, B12-dependent
+P0AF43	yjbB	1790451	predicted transporter
+P0A7C6	pepE	1790452	(alpha)-aspartyl dipeptidase
+P32684	rluF	1790453	23S rRNA U2604 pseudouridine synthase
+P08660	lysC	1790455	aspartokinase III
+P0A6T1	pgi	1790457	glucosephosphate isomerase
+P0AF45	yjbE	1790458	predicted protein
+P32687	yjbF	87082360	predicted lipoprotein
+P32688	yjbG	1790460	conserved protein
+P32689	yjbH	1790461	predicted porin
+A5A628	yjbT	145693210	hypothetical protein, no homologs
+P0A7C8	psiE	1790462	predicted phosphate starvation inducible protein
+P26602	ubiC	87082361	chorismate pyruvate lyase
+P0AGK1	ubiA	1790473	p-hydroxybenzoate octaprenyltransferase
+P0A7A7	plsB	87082362	glycerol-3-phosphate O-acyltransferase
+P0ABN1	dgkA	1790475	diacylglycerol kinase
+P0A7C2	lexA	1790476	DNA-binding transcriptional repressor of SOS regulon
+P28303	dinF	1790477	DNA-damage-inducible SOS response protein
+P68206	yjbJ	1790479	predicted stress response protein
+P0AC51	zur	87082363	DNA-binding transcriptional repressor, Zn(II)-binding
+P32695	dusA	145693211	tRNA-dihydrouridine synthase A
+P28304	qorA	1790485	quinone oxidoreductase, NADPH-dependent
+P0ACB0	dnaB	1790486	replicative DNA helicase
+P0A6B4	alr	1790487	alanine racemase 1, PLP-binding, biosynthetic
+P04693	tyrB	1790488	tyrosine aminotransferase, tyrosine-repressible, PLP-dependent
+P0AF48	yjbQ	1790491	conserved protein
+P0AF50	yjbR	2367342	conserved protein
+P0A698	uvrA	2367343	ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC
+P18310	ssb	1790494	single-stranded DNA-binding protein
+P32703	yjcE	1790501	predicted cation/proton antiporter
+P16682	phnD	1790543	phosphonate/organophosphate ester transporter subunit
+P16677	phnC	1790544	phosphonate/organophosphate ester transporter subunit
+P16681	yjdN	1790546	conserved protein
+P0AFJ1	yjdM	1790547	conserved protein
+P16694	yjdA	1790548	conserved protein with nucleoside triphosphate hydrolase domain
+P39267	yjcZ	87082371	conserved protein
+P0C0L7	proP	1790550	proline/glycine betaine transporter
+P30844	basS	1790551	sensory histidine kinase in two-component regulatory system with BasR
+P30843	basR	1790552	DNA-binding response regulator in two-component regulatory system with BasS
+P30845	eptA	87082372	predicted metal dependent hydrolase
+P60061	adiC	2367353	arginine:agmatin
+P33234	adiY	1790557	DNA-binding transcriptional activator
+P28629	adiA	221142684	biodegradative arginine decarboxylase
+P0ACH8	melR	1790559	DNA-binding transcriptional dual regulator
+P06720	melA	1790560	alpha-galactosidase, NAD(P)-binding
+P39270	yjdF	1790562	conserved inner membrane protein
+P14407	fumB	1790564	anaerobic class I fumarate hydratase (fumarase B)
+P0ABN9	dcuB	1790565	C4-dicarboxylate antiporter
+P0AD01	dcuR	1790566	DNA-binding response regulator in two-component regulatory system with DcuS
+P0AEC8	dcuS	1790567	sensory histidine kinase in two-component regulatory system with DcuR, regulator of anaerobic fumarate respiration
+P64646	yjdO	87082373	predicted protein
+P0A8N5	lysU	1790571	lysine tRNA synthetase, inducible
+P0A9H3	cadA	1790573	lysine decarboxylase 1
+P0ACU7	yjdC	87082374	predicted transcriptional regulator
+P36655	dsbD	1790578	fused thiol:disulfide interchange protein: activator of DsbC/conserved protein
+P69488	cutA	1790579	copper binding protein, copper sensitivity
+P0ABN5	dcuA	1790580	C4-dicarboxylate antiporter
+P0AC38	aspA	87082375	aspartate ammonia-lyase
+P37147	fxsA	87082376	inner membrane protein
+P39277	yjeH	1790584	predicted transporter
+P0A6F9	groS	1790585	Cpn10 chaperonin GroES, small subunit of GroESL
+P0A6F5	groL	1790586	Cpn60 chaperonin GroEL, large subunit of GroESL
+P0AF70	yjeI	87082377	conserved protein
+P39280	yjeK	1790589	predicted lysine aminomutase
+P0A6N4	efp	1790590	Elongation factor EF-P
+P0ADB4	ecnA	48994998	entericidin A membrane lipoprotein, antidote entericidin B
+P0ADB7	ecnB	48994999	entericidin B membrane lipoprotein
+P69937	sugE	87082378	multidrug efflux system protein
+P0A901	blc	1790592	outer membrane lipoprotein (lipocalin)
+P00811	ampC	1790593	beta-lactamase/D-alanine carboxypeptidase
+P0A8Q3	frdD	1790594	fumarate reductase (anaerobic), membrane anchor subunit
+P0A8Q0	frdC	1790595	fumarate reductase (anaerobic), membrane anchor subunit
+P0AC47	frdB	1790596	fumarate reductase (anaerobic), Fe-S subunit
+P00363	frdA	1790597	fumarate reductase (anaerobic) catalytic and NAD/flavoprotein subunit
+P0A8N7	poxA	87082379	predicted lysyl-tRNA synthetase
+P39285	yjeP	2367355	predicted mechanosensitive channel
+P0A8K1	psd	1790604	phosphatidylserine decarboxylase
+P0A998	rsgA	87082381	ribosome small subunit-dependent GTPase A
+P0AF67	yjeE	1790610	ATPase with strong ADP affinity
+P26365	amiB	1790611	N-acetylmuramoyl-l-alanine amidase II
+P23367	mutL	1790612	methyl-directed mismatch repair protein
+P16384	miaA	1790613	delta(2)-isopentenylpyrophosphate tRNA-adenosine transferase
+P0A6X3	hfq	1790614	HF-I, host factor for RNA phage Q beta replication
+P25519	hflX	1790615	predicted GTPase
+P0ABC7	hflK	1790616	modulator for HflB protease specific for phage lambda cII repressor
+P0ABC3	hflC	1790617	modulator for HflB protease specific for phage lambda cII repressor
+P0AF73	yjeT	1790619	conserved inner membrane protein
+P0A7D4	purA	1790620	adenylosuccinate synthetase
+P0AF63	nsrR	1790621	predicted DNA-binding transcriptional regulator
+P21499	rnr	87082383	exoribonuclease R, RNase R
+P63177	rlmB	1790623	23S rRNA (Gm2251)-methyltransferase
+P39295	yjfM	1790628	conserved protein
+P33222	yjfC	1790629	predicted synthetase/amidase
+P0AF82	yjfN	87082385	predicted protein
+P39297	yjfO	87082386	conserved protein
+P39298	yjfP	1790634	predicted hydrolase
+P0A9W0	ulaR	1790635	DNA-binding transcriptional dual regulator
+P39300	ulaG	87082387	predicted L-ascorbate 6-phosphate lactonase
+P39301	ulaA	87082388	L-ascorbate-specific enzyme IIC component of PTS
+P69822	ulaB	1790638	L-ascorbate-specific enzyme IIB component of PTS
+P69820	ulaC	2367359	L-ascorbate-specific enzyme IIA component of PTS
+P39304	ulaD	1790640	3-keto-L-gulonate 6-phosphate decarboxylase
+P39305	ulaE	1790641	L-xylulose 5-phosphate 3-epimerase
+P39306	ulaF	1790642	L-ribulose 5-phosphate 4-epimerase
+P0AF86	yjfY	1790643	predicted protein
+P02358	rpsF	221142685	30S ribosomal subunit protein S6
+P07013	priB	1790645	primosomal protein N
+P0A7T7	rpsR	1790646	30S ribosomal subunit protein S18
+P0A7R1	rplI	1790647	50S ribosomal subunit protein L9
+P0AAE0	cycA	1790653	D-alanine/D-serine/glycine transporter
+P69506	ytfE	1790654	predicted regulator of cell morphogenesis and cell wall metabolism
+P39314	ytfF	1790655	predicted inner membrane protein
+P39315	qorB	1790656	NAD(P)H:quinone oxidoreductase
+P0ACN2	ytfH	87082391	predicted transcriptional regulator
+P08331	cpdB	1790658	2':3'-cyclic-nucleotide 2'-phosphodiesterase
+P22255	cysQ	1790659	PAPS (adenosine 3'-phosphate 5'-phosphosulfate) 3'(2'),5'-bisphosphate nucleotidase
+P39187	ytfJ	1790662	predicted transcriptional regulator
+P0ADE2	ytfK	87082392	conserved protein
+P0AE45	ytfL	1790664	predicted inner membrane protein
+P0A744	msrA	1790665	methionine sulfoxide reductase A
+P0ADE4	ytfM	1790666	predicted outer membrane protein and surface antigen
+P39321	ytfN	1790667	conserved protein
+P0AE48	ytfP	1790668	conserved protein
+P0A7A9	ppa	1790673	inorganic pyrophosphatase
+Q6BEX0	ytfR	48995001	predicted sugar transporter subunit: ATP-binding component of ABC superfamily
+P39328	ytfT	145693214	predicted sugar transporter subunit: membrane component of ABC superfamily
+P0A993	fbp	1790679	fructose-1,6-bisphosphatase I
+P37773	mpl	1790680	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase
+P0A8X0	yjgA	1790681	conserved protein
+P0AFK0	pmbA	1790682	predicted peptidase required for the maturation and secretion of the antibiotic peptide MccB17
+P0A9N8	nrdG	1790685	anaerobic ribonucleotide reductase activating protein
+P28903	nrdD	1790686	anaerobic ribonucleoside-triphosphate reductase
+P28904	treC	1790687	trehalose-6-P hydrolase
+P36672	treB	2367362	fused trehalose(maltose)-specific PTS enzyme: IIB component/IIC component
+P36673	treR	1790689	DNA-binding transcriptional repressor
+P0ABB8	mgtA	2367363	magnesium transporter
+P0AF93	yjgF	87082396	ketoacid-binding protein
+P0A7F3	pyrI	1790692	aspartate carbamoyltransferase, regulatory subunit
+P0A786	pyrB	2367364	aspartate carbamoyltransferase, catalytic subunit
+P0AD83	pyrL	1790694	pyrBI operon leader peptide
+P04391	argI	1790703	ornithine carbamoyltransferase 1
+P39337	yjgM	48995002	predicted acetyltransferase
+P07118	valS	1790708	valyl-tRNA synthetase
+P28905	holC	1790709	DNA polymerase III, chi subunit
+P68767	pepA	1790710	multifunctional aminopeptidase A: a cyteinylglycinase, transcription regulator and site-specific recombination factor
+P0AF98	lptF	1790712	conserved inner membrane protein
+P0ADC6	lptG	87082400	conserved inner membrane protein
+P39342	yjgR	1790714	predicted ATPase
+P39344	idnT	1790716	L-idonate and D-gluconate transporter
+P27250	yjgB	87082401	predicted alcohol dehydrogenase, Zn-dependent and NAD(P)-binding
+P24203	yjiA	87082430	predicted GTPase
+P0ADC8	yjiX	1790813	conserved protein
+P39396	yjiY	87082431	predicted inner membrane protein
+P02942	tsr	2367378	methyl-accepting chemotaxis protein I, serine sensor receptor
+P39401	opgB	87082433	phosphoglycerol transferase I
+P18390	yjjA	87082434	conserved protein
+P0AEF0	dnaC	1790823	DNA biosynthesis protein
+P0A8J2	dnaT	1790824	DNA biosynthesis protein (primosomal protein I)
+P0ADD2	yjjB	145693219	conserved inner membrane protein
+P39406	rsmC	1790830	16S rRNA m(2)G1207 methyltransferase
+P0A8Y1	yjjG	1790833	dUMP phosphatase
+P0A7I4	prfC	1790835	peptide chain release factor RF-3
+P0AFH8	osmY	1790836	periplasmic protein
+Q2M5U1	ytjA	145693221	predicted protein
+P39407	yjjU	1790837	predicted esterase
+P39408	yjjV	87082439	predicted DNase
+P39409	yjjW	1790839	predicted pyruvate formate lyase activating enzyme
+P37342	yjjI	1790840	conserved protein
+P0A6L0	deoC	1790841	2-deoxyribose-5-phosphate aldolase, NAD(P)-linked
+P07650	deoA	1790842	thymidine phosphorylase
+P0A6K6	deoB	1790843	phosphopentomutase
+P0ABP8	deoD	1790844	purine-nucleoside phosphorylase
+P61316	lplA	1790846	lipoate-protein ligase A
+P0AGC7	ytjB	1790847	conserved protein
+P0AGB0	serB	1790849	3-phosphoserine phosphatase
+P24554	radA	1790850	predicted repair protein
+P27278	nadR	87082440	bifunctional DNA-binding transcriptional repressor/ NMN adenylyltransferase
+P0A9W3	yjjK	2367384	fused predicted transporter subunits of ABC superfamily: ATP-binding components
+P0AGC3	slt	87082441	lytic murein transglycosylase, soluble
+P0A881	trpR	1790854	DNA-binding transcriptional repressor, tryptophan-binding
+P39411	yjjX	87082442	thiamin metabolism associated protein
+P0A7A2	ytjC	1790856	phosphoglyceromutase 2, co-factor independent
+P0ACI0	rob	1790857	DNA-binding transcriptional activator
+P0AE91	creA	1790859	conserved protein
+P08368	creB	1790860	DNA-binding response regulator in two-component regulatory system with CreC
+P08401	creC	1790861	sensory histidine kinase in two-component regulatory system with CreB or PhoB, regulator of the CreBC regulon
+P08369	creD	1790862	inner membrane protein
+P0A9Q1	arcA	1790863	DNA-binding response regulator in two-component regulatory system with ArcB or CpxA
+P0ADD9	yjjY	1790864	predicted protein
+P37005	yjtD	1790865	predicted rRNA methyltransferase
+P00561	thrAb	1786183	fused aspartokinase I and homoserine dehydrogenase I
+P75616	yaaXc	1786186	predicted protein
+P0AAR0	tomB	1786666	predicted protein
+P0A8Y8	entH	1786813	conserved protein
+P37001	pagP	1786840	palmitoyl transferase for Lipid A
+P0ACV0	lpxL	1787292	lauryl-acyl carrier protein (ACP)-dependent acyltransferase
+P0AF16	murJ	1787309	predicted inner membrane protein
+Q6BF86	ldrA	48994880	toxic polypeptide, small
+Q6BF86	ldrC	48994882	toxic polypeptide, small
+P0AEV1	rssB	1787487	response regulator of RpoS
+P50456	dgsA	1787878	DNA-binding transcriptional repressor
+P0A766	rsxA	1787914	predicted inner membrane subunit
+P77223	rsxB	1787915	predicted iron-sulfur protein
+P77611	rsxC	1787916	fused predicted 4Fe-4S ferredoxin-type protein/conserved protein
+P76182	rsxD	1787917	predicted inner membrane oxidoreductase
+P77285	rsxG	1787918	predicted oxidoreductase
+P77179	rsxE	1787919	predicted inner membrane NADH-quinone reductase
+P24205	lpxM	1788161	myristoyl-acyl carrier protein (ACP)-dependent acyltransferase
+P76445	lpxT	87082062	undecaprenyl pyrophosphate phosphatase
+A5A620	ypaB	145693158	hypothetical protein
+P37014	ypaA	87082070	predicted protein
+P0A8V0	rbn	87082078	binuclear zinc phosphodiesterase
+P39199	prmB	87082085	N5-glutamine methyltransferase
+P0ACV2	lpxP	87082094	palmitoleoyl-acyl carrier protein (ACP)-dependent acyltransferase
+P76562	tmcA	1788818	Elongator methionine tRNA (ac4C34) acetyltransferase
+P0A903	bamC	87082112	lipoprotein
+P77774	bamB	1788859	protein assembly complex, lipoprotein component
+P0AFU4	qseF	1788905	predicted DNA-binding response regulator in two-component system
+P0AD44	qseG	1788906	conserved protein
+P52101	qseE	87082128	predicted sensory kinase in two-component system
+P0AC02	bamD	1788947	predicted lipoprotein
+P0A7B3	nadK	1788968	NAD kinase
+P37338	csiR	87082149	DNA-binding transcriptional dual regulator
+P0AGF2	csdE	1789176	predicted Fe-S metabolism protein
+P0A8S1	argP	1789283	DNA-binding transcriptional activator, replication initiation inhibitor
+P26648	ftsP	1789394	repressor protein for FtsI
+P0AEW4	cpdA	1789410	cyclic 3',5'-adenosine monophosphate phosphodiesterase
+P0AFX0	hpf	1789595	predicted ribosome-associated, sigma 54 modulation protein
+P45751	hofO	1789795	conserved membrane protein
+P64634	hofN	1789796	predicted fimbrial assembly protein
+P45753	hofM	87082257	predicted pilus assembly protein
+P37689	gpmM	1790041	phosphoglycero mutase III, cofactor-independent
+P0AF90	rraB	1790704	conserved protein

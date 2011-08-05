@@ -1,0 +1,2 @@
+C6EB49_ECOBD	Null	C6EB49_ECOBD	A	Putative glycosyltransferase WbbB (Putative uncharacterized protein)	1	 	1	1	1	 	4	-	=HYPERLINK("http://www.uniprot.org/uniprot/?query=C6EB49_ECOBD&sort=score")
+C6EB48_ECOBD	Null	C6EB48_ECOBD	A	Putative glycosyltransferase WbbA (Putative uncharacterized protein)	1	1	 	 	1	 	3	-	=HYPERLINK("http://www.uniprot.org/uniprot/?query=C6EB48_ECOBD&sort=score")

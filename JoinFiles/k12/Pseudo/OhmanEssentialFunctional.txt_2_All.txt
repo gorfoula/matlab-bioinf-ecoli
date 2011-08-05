@@ -1,0 +1,42 @@
+P42905	agaW		b3134		PTPC2_ECOLI	Cell inner membrane; Multi-pass membrane protein. 	Uncertain	agaW	3278723	3279124	1	PTS system N-	E	?	b3134	
+P77519	yddL		b1472	JW1468	YDDL_ECOLI		Uncertain	yddL	1543762	1544052	-1	putative outer membrane porin	E	?	b1472	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	yjbL	4258344	4258598	1	orf hypothetical protein	E	?	b4047	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	yjbM	4258622	4259329	1	orf hypothetical protein	E	?	b4048	
+P76613	ypjC		b2650	JW5424	YPJC_ECOLI		Uncertain	ypjC	2782551	2783033	-1	orf hypothetical protein	E	?	b2650	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	ytfI	4435730	4436668	1	orf hypothetical protein	E	?	b4215	
+P76023	ychS		b1228	JW5881	YCHS_ECOLI		Uncertain	b1228	1285932	1286207	1	hypothetical protein	E	?	b1228	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	celC	1817479	1817829	-1	PEP-dependent	E	F	b1736	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	lplA	4621124	4622140	-1	lipoate-protein ligase A	E	F	b4386	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	yaiS	383283	383693	-1	Putative conserved	E	?	b0364	
+P76123	yddK		b1471	JW1467	YDDK_ECOLI		Uncertain	yddK	1542782	1543738	-1	putative glycoportein	E	?	b1471	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4485&sort=score")	ytfR	4449081	4450583	1	putative ATP-binding	E	?	b4228	b4485
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4485&sort=score")	ytfR	4449081	4450583	1	putative ATP-binding	E	?	b4229	b4485
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	acpP	1150838	1151074	1	acyl carrier protein	?	F	b1094	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	cybC	4457576	4457878	1	Soluble cytochrome	?	F	b4236	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	gnsB	1635633	1635809	-1	GnsB protein	?	F	b1550	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	thiE	4191592	4192227	-1	thiamin-phosphate synthase	N	F	b3993	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	tam	1605370	1606128	1	trans-aconitate 2-methyltransferase	N	F	b1519	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4484&sort=score")	cpxP	4103843	4104343	1	orf hypothetical protein	N	F	b3913	b4484
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4484&sort=score")	cpxP	4103843	4104343	1	orf hypothetical protein	N	F	b3914	b4484
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4476&sort=score")	gntU	3573744	3575084	-1	low-affinity gluconate transport	N	F	b3435	b4476
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4476&sort=score")	gntU	3573744	3575084	-1	low-affinity gluconate transport	N	F	b3436	b4476
+P16683	phnE		b4104	JW4065	PHNE_ECOLI	Cell inner membrane; Multi-pass membrane protein. 	Uncertain	phnE	4320684	4321304	-1	membrane channel protein	N	F	b4104	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4481&sort=score")	rffT	3975548	3976627	1	orf conceptual translation in	N	F	b4404	b4481
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4481&sort=score")	rffT	3975548	3976627	1	orf conceptual translation in	N	F	b4405	b4481
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4483&sort=score")	tatD	4021577	4022359	1	orf hypothetical protein	N	F	b3841	b4483
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4483&sort=score")	tatD	4021577	4022359	1	orf hypothetical protein	N	F	b3842	b4483
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	trkD	3929339	3931207	1	low affinity potassium transport	N	F	b3747	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	trkH	4031168	4032619	1	potassium uptake requires TrkE	N	F	b3849	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4460&sort=score")	araH	1980578	1981567	-1	ABC-type arabinose	N	F	b1898	b4460
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4460&sort=score")	araH	1980578	1981567	-1	ABC-type arabinose	N	F	b1899	b4460
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	emrE	567538	567870	1	EmrE protein	N	F	b0543	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4480&sort=score")	hdfR	3945151	3945990	-1	Transcription regulator	N	F	b3762	b4480
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4480&sort=score")	hdfR	3945151	3945990	-1	Transcription regulator	N	F	b3763	b4480
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	mltA	2944103	2945200	-1	Membrane-bound lytic	N	F	b2813	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	rhtB	4006462	4007082	-1	homoserine-homoserine	N	F	b3824	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=&sort=score")	rhtC	4005780	4006400	1	threonine efflux protein	N	F	b3823	
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4475&sort=score")	rtcA	3553855	3554871	-1	Chain B, Phosphate	N	F	b3419	b4475
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4475&sort=score")	rtcA	3553855	3554871	-1	Chain B, Phosphate	N	F	b3420	b4475
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4471&sort=score")	tdcG	3256307	3257671	-1	L-serine dehydratase	N	F	b3111	b4471
+	=HYPERLINK("http://www.uniprot.org/uniprot/?query=b4471&sort=score")	tdcG	3256307	3257671	-1	L-serine dehydratase	N	F	b3112	b4471
+P33369	mdtQ	yohG yohH	b2139	JW5838 JW5358	MDTQ_ECOLI	Cell outer membrane; Lipid-anchor. 	Uncertain	yohG	2225345	2226541	-1	Putative	N	F	b2138	
